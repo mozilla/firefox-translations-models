@@ -16,3 +16,14 @@ gzip -dr *
 # bump version
 gsutil -m cp -rZn * gs://bergamot-models-maml/0.2.0/
 ```
+# Currrently supported Languages
+- Spanish <-> English
+- Estonian <-> English
+- English -> German 
+- Upcoming: 
+  -  German -> English
+  -  Czech <-> English
+  -  French <-> English
+  -  Polish <-> English
+  -  Russian <-> English
+  -  Portuguese <-> English
