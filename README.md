@@ -1,5 +1,8 @@
 # bergamot-models
-Repo to host Bergamot model pairs
+Repo to host Bergamot models
+
+`prod` - models that are uploaded to GCS and available to use in `https://github.com/mozilla-extensions/firefox-translations`
+`dev` - models under development (can be with low quality or speed)
 
 # Command to generate bin models:
 `marian-conv -f model.esen.npz -t model.esen.bin -g float32`
@@ -14,16 +17,19 @@ Repo to host Bergamot model pairs
 cd prod
 gzip -dr *
 # bump version
-gsutil -m cp -rZn * gs://bergamot-models-maml/0.2.0/
+gsutil -m cp -rZn * gs://bergamot-models-sandbox/0.2.0/
 ```
-# Currrently supported Languages
+# Currently supported Languages
+## Prod
 - Spanish <-> English
 - Estonian <-> English
-- English -> German 
-- Upcoming: 
-  -  German -> English
-  -  Czech <-> English
-  -  French <-> English
-  -  Polish <-> English
-  -  Russian <-> English
-  -  Portuguese <-> English
+- English -> German
+- Czech <-> English
+## Dev
+-  Russian -> English
+## Upcoming
+-  German -> English
+-  French <-> English
+-  Polish <-> English
+-  Russian <- English
+-  Portuguese <-> English
