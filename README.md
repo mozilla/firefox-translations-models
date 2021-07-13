@@ -1,5 +1,5 @@
-# bergamot-models
-Repo to host Bergamot models
+# Firefox Translations models
+CPU-optimized NMT models for [Firefox Translations](https://github.com/mozilla-extensions/firefox-translations).
 
 `prod` - models that are uploaded to GCS and available to use in `https://github.com/mozilla-extensions/firefox-translations`
 `dev` - models under development (can be with low quality or speed)
