@@ -1,10 +1,26 @@
 version: 2.1
 
-orbs:
-  welcome: circleci/welcome-orb@0.4.1
+jobs:
+  deploy:
+    docker:
+      - image: gcr.io/google.com/cloudsdktool/cloud-sdk:348.0.0
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - checkout
+      - run: |
+          echo ${GCLOUD_SERVICE_KEY} | gcloud auth activate-service-account --key-file=-
+          gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
+          gzip -dr */*/*.gz
+          gsutil -m cp -rZn prod/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
+          gsutil -m cp -rZn dev/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
 
 workflows:
   version: 2
   ci:
     jobs:
-      - welcome/run
+      - deploy:
+          filters:
+            tags:
+              only: /\d*\.\d*\.\d*/
+            branches:
+              only: main
