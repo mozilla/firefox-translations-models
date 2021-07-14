@@ -1,0 +1,10 @@
+version: 2.1
+
+orbs:
+  welcome: circleci/welcome-orb@0.4.1
+
+workflows:
+  version: 2
+  ci:
+    jobs:
+      - welcome/run
