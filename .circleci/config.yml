@@ -20,6 +20,7 @@ jobs:
   evaluate:
     machine:
       image: ubuntu-2004:202104-01
+    resource_class: xlarge
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - run: |
