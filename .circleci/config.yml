@@ -44,6 +44,10 @@ jobs:
       - run: |
           echo "Running evaluation"
           bash evaluation/update.sh
+      - run: |
+          echo "Show results"
+          git add evaluation/*/*/*.bleu
+          git diff --staged evaluation/*/*/*.bleu
       - store_artifacts:
           path: evaluation/prod
       - store_artifacts:
