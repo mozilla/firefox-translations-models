@@ -18,11 +18,11 @@ jobs:
           gsutil -m cp -rZn prod/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
           gsutil -m cp -rZn dev/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
   evaluate:
-    machine: true
+    machine:
+      image: ubuntu-2004:202104-01
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - run: |
-          curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
           apt-get install git-lfs
           git lfs install
       - checkout
