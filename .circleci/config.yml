@@ -23,9 +23,9 @@ jobs:
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - run: |
-          apt-get update
-          apt-get install -y git-lfs
-          git lfs install
+          sudo apt-get update
+          sudo apt-get install -y git-lfs
+          sudo git lfs install
       - checkout
       - run: |
           bash evaluation/update.sh
