@@ -50,7 +50,4 @@ workflows:
               ignore: /.*/
             tags:
               only: /\d*\.\d*\.\d*/
-      - evaluate:
-          filters:
-            branches:
-              only: main
+      - evaluate
