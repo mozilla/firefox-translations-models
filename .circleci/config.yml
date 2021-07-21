@@ -12,11 +12,33 @@ jobs:
           git lfs install
       - checkout
       - run: |
-          echo ${GCLOUD_SERVICE_KEY} | gcloud auth activate-service-account --key-file=-
+          echo ${GCLOUD_UPLOADER_KEY} | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
           gzip -dr */*/*.gz
           gsutil -m cp -rZn prod/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
           gsutil -m cp -rZn dev/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
+  evaluate:
+    machine: true
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - checkout
+      - run: |
+          bash evaluation/update.sh
+      - store_artifacts:
+          path: evaluation/prod
+      - store_artifacts:
+          path: evaluation/dev
+# todo: commit results when on main
+#      - run: |
+#          if [ $CIRCLE_BRANCH == main ]; then
+#              git config user.email "username@mydomain.com"
+#              git config user.name "My Name"
+#              git add evaluation/*/*/*.bleu
+#              git add evaluation/*/img/*.png
+#              git add evaluation/*/results.md
+#              git commit -m "Update evaluation results [skip ci]"
+#              git push
+#          fi
 
 workflows:
   version: 2
@@ -24,5 +46,11 @@ workflows:
     jobs:
       - deploy:
           filters:
+            branches:
+              ignore: /.*/
             tags:
               only: /\d*\.\d*\.\d*/
+      - evaluate:
+          filters:
+            branches:
+              only: main
