@@ -7,11 +7,13 @@ jobs:
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - run: |
+          echo "Installing git lfs"
           curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
           apt-get install git-lfs
           git lfs install
       - checkout
       - run: |
+          echo "Uploading to GCS"
           echo ${GCLOUD_UPLOADER_KEY} | gcloud auth activate-service-account --key-file=-
           gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
           gzip -dr */*/*.gz
@@ -24,11 +26,23 @@ jobs:
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - run: |
+          echo "Installing git lfs"
           sudo apt-get update
           sudo apt-get install -y git-lfs
           sudo git lfs install
       - checkout
       - run: |
+          echo "Removing bergamot evaluation results for updated models
+          git status --porcelain |
+          grep "models/" |
+          python3 -c "import sys; \
+          from signal import signal, SIGPIPE, SIG_DFL; \
+          signal(SIGPIPE, SIG_DFL); \
+          paths=[ '/'.join(['evaluation'] + x.split('/')[1:3]) for x in sys.stdin.readlines()]; \
+          sys.stdout.writelines([f'{path[:-2]}-{path[-2:]}/*.bergamot.*.bleu\n' for path in paths])" |
+          rm
+      - run: |
+          echo "Running evaluation"
           bash evaluation/update.sh
       - store_artifacts:
           path: evaluation/prod
