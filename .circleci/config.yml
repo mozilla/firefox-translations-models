@@ -39,7 +39,7 @@ jobs:
           from signal import signal, SIGPIPE, SIG_DFL; \
           signal(SIGPIPE, SIG_DFL); \
           paths=[ '/'.join(['evaluation'] + x.split('/')[1:3]) for x in sys.stdin.readlines()]; \
-          sys.stdout.writelines([g+'\n' for path in paths for g in glob.glob(f'{path[:-2]}-{path[-2:]}/*.bergamot.*.bleu') ])" |
+          sys.stdout.writelines([g+'\n' for path in paths for g in glob.glob(path[:-2]+'-'+path[-2:]+'/*.bergamot.*.bleu')])" |
           xargs rm -f
       - run: |
           echo "Running evaluation"
