@@ -7,16 +7,52 @@ jobs:
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - run: |
+          echo "### Installing git lfs"
           curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
           apt-get install git-lfs
           git lfs install
       - checkout
       - run: |
-          echo ${GCLOUD_SERVICE_KEY} | gcloud auth activate-service-account --key-file=-
-          gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
-          gzip -dr */*/*.gz
-          gsutil -m cp -rZn prod/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
-          gsutil -m cp -rZn dev/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
+          echo "### Uploading to GCS"
+          bash scripts/upload.sh
+  evaluate:
+    machine:
+      image: ubuntu-2004:202104-01
+    resource_class: xlarge
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - run: |
+          echo "### Installing git lfs"
+          sudo apt-get update
+          sudo apt-get install -y git-lfs
+          sudo git lfs install
+      - checkout
+      - run: |
+          echo "### Running evaluation"
+          bash scripts/update-results.sh
+      - run: |
+          echo "### Show results"
+          git add evaluation/*/*/*.bleu
+          git diff --staged evaluation/*/*/*.bleu
+      - store_artifacts:
+          path: evaluation/prod
+      - store_artifacts:
+          path: evaluation/dev
+      - run: |
+          echo "### Checking results"
+          git config user.email "ci-models-evaluation@firefox-translations"
+          git config user.name "CircleCI evaluation job"
+          git add evaluation/*/*/*.bleu
+          git add evaluation/*/img/*.png
+          git add evaluation/*/results.md
+
+          if [[ $(git status --porcelain) ]]; then
+            echo "### Commiting results
+            git commit -m "Update evaluation results [skip ci]"
+            git push
+          else
+            echo "### Nothing to commit"
+          fi
 
 workflows:
   version: 2
@@ -24,5 +60,14 @@ workflows:
     jobs:
       - deploy:
           filters:
+            branches:
+              ignore: /.*/
             tags:
               only: /\d*\.\d*\.\d*/
+      - evaluate:
+          filters:
+            branches:
+              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
+              ignore:
+                - /pull\/[0-9]+/
+                - main
