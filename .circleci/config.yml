@@ -6,15 +6,16 @@ jobs:
       - image: gcr.io/google.com/cloudsdktool/cloud-sdk:348.0.0
     working_directory: ~/mozilla/firefox-translations-models
     steps:
-      - run: |
-          echo "### Installing git lfs"
-          curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
-          apt-get install git-lfs
-          git lfs install
+      - run:
+          name: Installing git lfs
+          command: |
+            curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
+            apt-get install git-lfs
+            git lfs install
       - checkout
-      - run: |
-          echo "### Uploading to GCS"
-          bash scripts/upload.sh
+      - run:
+          name: Uploading to GCS
+          command: bash scripts/upload.sh
   evaluate:
     machine:
       image: ubuntu-2004:202104-01
@@ -24,34 +25,37 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "11:60:82:e2:71:39:67:44:07:4c:16:8f:3d:89:6d:db"
-      - run: |
-          echo "### Installing git lfs"
-          sudo apt-get update
-          sudo apt-get install -y git-lfs
-          sudo git lfs install
+      - run:
+          name: Installing git lfs
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y git-lfs
+            sudo git lfs install
       - checkout
-      - run: |
-          echo "### Running evaluation"
-          bash scripts/update-results.sh
-      - run: |
-          echo "### Show results"
-          git add evaluation/*/*/*.bleu
-          git diff --staged evaluation/*/*/*.bleu
-      - run: |
-          echo "### Checking results"
-          git config user.email "ci-models-evaluation@firefox-translations"
-          git config user.name "CircleCI evaluation job"
-          git add evaluation/*/*/*.bleu
-          git add evaluation/*/img/*.png
-          git add evaluation/*/results.md
+      - run:
+          name: Running evaluation
+          comamnd: bash scripts/update-results.sh
+      - run:
+          name: Showing results
+          command: |
+            git add evaluation/*/*/*.bleu
+            git diff --staged evaluation/*/*/*.bleu
+      - run:
+          name: Pushing results
+          command: |
+            git config user.email "ci-models-evaluation@firefox-translations"
+            git config user.name "CircleCI evaluation job"
+            git add evaluation/*/*/*.bleu
+            git add evaluation/*/img/*.png
+            git add evaluation/*/results.md
 
-          if [[ $(git status --porcelain) ]]; then
-            echo "### Commiting results
-            git commit -m "Update evaluation results [skip ci]"
-            git push
-          else
-            echo "### Nothing to commit"
-          fi
+            if [[ $(git status --porcelain) ]]; then
+              echo "### Commiting results
+              git commit -m "Update evaluation results [skip ci]"
+              git push
+            else
+              echo "### Nothing to commit"
+            fi
 
 workflows:
   version: 2
