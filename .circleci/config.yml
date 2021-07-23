@@ -35,7 +35,7 @@ jobs:
       - checkout
       - run:
           name: Running evaluation
-          comamnd: |
+          command: |
             bash scripts/update-results.sh
       - run:
           name: Showing results
