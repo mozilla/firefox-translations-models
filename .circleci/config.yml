@@ -15,7 +15,8 @@ jobs:
       - checkout
       - run:
           name: Uploading to GCS
-          command: bash scripts/upload.sh
+          command: |
+            bash scripts/upload.sh
   evaluate:
     machine:
       image: ubuntu-2004:202104-01
@@ -34,7 +35,8 @@ jobs:
       - checkout
       - run:
           name: Running evaluation
-          comamnd: bash scripts/update-results.sh
+          comamnd: |
+            bash scripts/update-results.sh
       - run:
           name: Showing results
           command: |
