@@ -5,7 +5,7 @@ set -e
 echo "Removing bergamot evaluation results for updated models"
 git diff --name-only main |
 grep "models/" |
-python3 evaluation/scripts/find-bleu.py |
+python3 scripts/find-bleu.py |
 xargs rm -f
 
 echo "Extracting models"
@@ -36,7 +36,7 @@ docker run --name bergamot-eval -it --rm \
       -v $GCP_CREDS_PATH:/.gcp_creds \
       -e GOOGLE_APPLICATION_CREDENTIALS=/.gcp_creds \
       -e AZURE_TRANSLATOR_KEY="${AZURE_TRANSLATOR_KEY}" \
-      bergamot-eval bash evaluation/scripts/eval.sh
+      bergamot-eval bash scripts/eval.sh
 
 
 
