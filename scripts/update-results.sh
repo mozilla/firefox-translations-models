@@ -32,11 +32,11 @@ GCP_CREDS_PATH="/tmp/.gcp_creds"
 echo "${GCLOUD_TRANSLATOR_KEY}" > ${GCP_CREDS_PATH}
 
 docker run --name bergamot-eval -it --rm \
-      -v "$(pwd)":/workspace \
+      -v "$(pwd)":/models \
       -v $GCP_CREDS_PATH:/.gcp_creds \
       -e GOOGLE_APPLICATION_CREDENTIALS=/.gcp_creds \
       -e AZURE_TRANSLATOR_KEY="${AZURE_TRANSLATOR_KEY}" \
-      bergamot-eval bash scripts/eval.sh
+      bergamot-eval bash /models/scripts/eval.sh
 
 
 
