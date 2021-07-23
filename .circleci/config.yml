@@ -21,6 +21,9 @@ jobs:
     resource_class: xlarge
     working_directory: ~/mozilla/firefox-translations-models
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "11:60:82:e2:71:39:67:44:07:4c:16:8f:3d:89:6d:db"
       - run: |
           echo "### Installing git lfs"
           sudo apt-get update
@@ -34,10 +37,6 @@ jobs:
           echo "### Show results"
           git add evaluation/*/*/*.bleu
           git diff --staged evaluation/*/*/*.bleu
-      - store_artifacts:
-          path: evaluation/prod
-      - store_artifacts:
-          path: evaluation/dev
       - run: |
           echo "### Checking results"
           git config user.email "ci-models-evaluation@firefox-translations"
