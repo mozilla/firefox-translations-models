@@ -2,11 +2,11 @@
 
 set -e
 
-#echo "Removing bergamot evaluation results for updated models"
-#git diff --name-only main |
-#grep "models/" |
-#python3 scripts/find-bleu.py |
-#xargs rm -f
+echo "Removing bergamot evaluation results for updated models"
+git diff --name-only main |
+grep "models/" |
+python3 scripts/find-bleu.py |
+xargs rm -f
 
 echo "Extracting models"
 gzip -drf models/*/*/*
