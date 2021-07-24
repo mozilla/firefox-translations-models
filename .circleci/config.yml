@@ -52,7 +52,7 @@ jobs:
             git add evaluation/*/results.md
 
             if [[ $(git status --porcelain) ]]; then
-              echo "### Commiting results
+              echo "### Commiting results"
               git commit -m "Update evaluation results [skip ci]"
               git push
             else
