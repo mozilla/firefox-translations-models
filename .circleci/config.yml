@@ -54,7 +54,7 @@ jobs:
             if [[ $(git status --porcelain) ]]; then
               echo "### Commiting results"
               git commit -m "Update evaluation results [skip ci]"
-              git push
+              git push --set-upstream origin "$CIRCLE_BRANCH"
             else
               echo "### Nothing to commit"
             fi
