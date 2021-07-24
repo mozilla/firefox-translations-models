@@ -41,7 +41,7 @@ jobs:
           name: Showing results
           command: |
             git add evaluation/*/*/*.bleu
-            git diff --staged evaluation/*/*/*.bleu
+            git --no-pager diff --staged evaluation/*/*/*.bleu
       - run:
           name: Pushing results
           command: |
