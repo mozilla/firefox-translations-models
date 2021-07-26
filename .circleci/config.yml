@@ -76,4 +76,3 @@ workflows:
               ignore:
                 - /pull\/[0-9]+/
                 - main
-                - contrib
