@@ -6,17 +6,58 @@ jobs:
       - image: gcr.io/google.com/cloudsdktool/cloud-sdk:348.0.0
     working_directory: ~/mozilla/firefox-translations-models
     steps:
-      - run: |
-          curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
-          apt-get install git-lfs
-          git lfs install
+      - run:
+          name: Installing git lfs
+          command: |
+            curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
+            apt-get install git-lfs
+            git lfs install
       - checkout
-      - run: |
-          echo ${GCLOUD_SERVICE_KEY} | gcloud auth activate-service-account --key-file=-
-          gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
-          gzip -dr */*/*.gz
-          gsutil -m cp -rZn prod/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
-          gsutil -m cp -rZn dev/* gs://bergamot-models-sandbox/${CIRCLE_TAG}/
+      - run:
+          name: Uploading to GCS
+          command: |
+            bash scripts/upload.sh
+  evaluate:
+    machine:
+      image: ubuntu-2004:202104-01
+    resource_class: xlarge
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "11:60:82:e2:71:39:67:44:07:4c:16:8f:3d:89:6d:db"
+      - run:
+          name: Installing git lfs
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y git-lfs
+            sudo git lfs install
+      - checkout
+      - run:
+          name: Running evaluation
+          command: |
+            bash scripts/update-results.sh
+      - run:
+          name: Showing results
+          command: |
+            git add evaluation/*/*/*.bleu
+            git --no-pager diff --staged evaluation/*/*/*.bleu
+      - run:
+          name: Pushing results
+          command: |
+            git config user.email "ci-models-evaluation@firefox-translations"
+            git config user.name "CircleCI evaluation job"
+            git add evaluation/*/*/*.bleu
+            git add evaluation/*/img/*.png
+            git add evaluation/*/results.md
+
+            if [[ $(git status --porcelain) ]]; then
+              echo "### Commiting results"
+              git commit -m "Update evaluation results [skip ci]"
+              git push --set-upstream origin "$CIRCLE_BRANCH"
+            else
+              echo "### Nothing to commit"
+            fi
 
 workflows:
   version: 2
@@ -24,5 +65,14 @@ workflows:
     jobs:
       - deploy:
           filters:
+            branches:
+              ignore: /.*/
             tags:
               only: /\d*\.\d*\.\d*/
+      - evaluate:
+          filters:
+            branches:
+              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
+              ignore:
+                - /pull\/[0-9]+/
+                - main
