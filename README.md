@@ -19,7 +19,19 @@ Automatic evaluation is a part of pull request CI.
 It uses Microsoft and Google translation APIs and pushes results back to the branch (not available for forks).
 It is performed using [firefox-translations-evaluation](https://github.com/mozilla/firefox-translations-evaluation) tool.
 
+# Model training
+
+Use [Firefox Translations training pipeline](https://github.com/mozilla/firefox-translations-training) or [browsermt/students](https://github.com/browsermt/students/tree/master/train-student) recipe to train CPU-optimized models. They should have similar size and inference speed to already submitted models.
+
+## Training data
+
+Do not use [SacreBLEU](https://github.com/mjpost/sacrebleu) datasets as a part of training data, otherwise evaluation will not be correct.
+
+To see SacreBLEU datasets run `sacrebleu --list`.
+
 # Model contribution
+
+All models should be contributed to `dev` folder first.
 
 ## By maintainers
 
@@ -35,12 +47,6 @@ When it is reviewed and merged, another pull request to `main` branch will be cr
 You can run model evaluation locally by running `bash scripts/update-results.sh`. 
 Make sure to set environment variables `GCP_CREDS_PATH` and `AZURE_TRANSLATOR_KEY` to use Google and Microsoft APIs.
 If you want to run it with `bergamot` only, remove mentions of those variables from `bash scripts/update-results.sh` and remove `microsoft,google` from `scripts/eval.sh`. 
-
-## Training data
-
-Do not use [SacreBLEU](https://github.com/mjpost/sacrebleu) datasets as a part of training data, otherwise evaluation will not be correct.
-
-To see SacreBLEU datasets run `sacrebleu --list`.
 
 
 # Currently supported Languages
