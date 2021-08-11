@@ -58,9 +58,10 @@ If you want to run it with `bergamot` only, remove mentions of those variables f
 ## Dev
 -  Russian <-> English
 -  Portuguese -> English
+-  Italian -> English
 ## Upcoming
 -  German -> English
 -  French <-> English
 -  Polish <-> English
 -  Portuguese <- English
--  Italian <-> English
+-  Italian <- English
