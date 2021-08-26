@@ -25,7 +25,7 @@ Use [Firefox Translations training pipeline](https://github.com/mozilla/firefox-
 
 ## Training data
 
-Do not use [SacreBLEU](https://github.com/mjpost/sacrebleu) datasets as a part of training data, otherwise evaluation will not be correct.
+Do not use [SacreBLEU](https://github.com/mjpost/sacrebleu) or [Flores](https://github.com/facebookresearch/flores) datasets as a part of training data, otherwise evaluation will not be correct.
 
 To see SacreBLEU datasets run `sacrebleu --list`.
 
@@ -57,11 +57,10 @@ If you want to run it with `bergamot` only, remove mentions of those variables f
 - Czech <-> English
 ## Dev
 -  Russian <-> English
--  Portuguese -> English
+-  Portuguese <-> English
 -  Italian -> English
 ## Upcoming
 -  German -> English
 -  French <-> English
 -  Polish <-> English
--  Portuguese <- English
 -  Italian <- English
