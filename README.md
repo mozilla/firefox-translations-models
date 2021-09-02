@@ -48,18 +48,22 @@ You can run model evaluation locally by running `bash scripts/update-results.sh`
 Make sure to set environment variables `GCP_CREDS_PATH` and `AZURE_TRANSLATOR_KEY` to use Google and Microsoft APIs.
 If you want to run it with `bergamot` only, remove mentions of those variables from `bash scripts/update-results.sh` and remove `microsoft,google` from `scripts/eval.sh`. 
 
+# Model deployment
+
+Create a new release with a version tag `x.y.z` following semantic versioning.
+
+The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sandbox/x.y.z/`. 
 
 # Currently supported Languages
 ## Prod
 - Spanish <-> English
 - Estonian <-> English
-- English -> German
+- English <-> German
 - Czech <-> English
 ## Dev
 -  Russian <-> English
 -  Portuguese <-> English
 -  Italian <-> English
 ## Upcoming
--  German -> English
 -  French <-> English
 -  Polish <-> English
