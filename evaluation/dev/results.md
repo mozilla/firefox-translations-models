@@ -57,13 +57,23 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 
 ## avg
 
-| Translator/Dataset | pt-en | ru-en | it-en | en-ru | en-it | en-pt |
-| --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 43.43 | 33.37 | 32.30 | 30.47 | 29.53 | 46.55 |
-| google | 45.77 (+2.33, +5.37%) | 36.53 (+3.15, +9.45%) | 34.50 (+2.20, +6.81%) | 33.72 (+3.25, +10.67%) | 29.47 (-0.07, -0.23%) | 56.05 (+9.50, +20.41%) |
-| microsoft | 46.43 (+3.00, +6.91%) | 36.87 (+3.50, +10.49%) | 34.55 (+2.25, +6.97%) | 33.68 (+3.21, +10.53%) | 32.20 (+2.67, +9.03%) | 50.25 (+3.70, +7.95%) |
+| Translator/Dataset | fa-en | pt-en | ru-en | it-en | en-ru | en-it | en-fa | en-pt | is-en |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 28.70 | 43.43 | 33.37 | 32.30 | 30.47 | 29.53 | 17.30 | 46.55 | 23.50 |
+| google | 36.05 (+7.35, +25.61%) | 45.77 (+2.33, +5.37%) | 36.53 (+3.15, +9.45%) | 34.50 (+2.20, +6.81%) | 33.72 (+3.25, +10.67%) | 29.47 (-0.07, -0.23%) | 27.70 (+10.40, +60.12%) | 56.05 (+9.50, +20.41%) | 34.95 (+11.45, +48.72%) |
+| microsoft | 36.15 (+7.45, +25.96%) | 46.43 (+3.00, +6.91%) | 36.87 (+3.50, +10.49%) | 34.55 (+2.25, +6.97%) | 33.68 (+3.21, +10.53%) | 32.20 (+2.67, +9.03%) | 20.50 (+3.20, +18.50%) | 50.25 (+3.70, +7.95%) | 34.90 (+11.40, +48.51%) |
 
 ![Results](img/avg.png)
+
+## fa-en
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | 29.10 | 28.30 |
+| google | 36.70 (+7.60, +26.12%) | 35.40 (+7.10, +25.09%) |
+| microsoft | 36.50 (+7.40, +25.43%) | 35.80 (+7.50, +26.50%) |
+
+![Results](img/fa-en.png)
 
 ## pt-en
 
@@ -115,6 +125,16 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 
 ![Results](img/en-it.png)
 
+## en-fa
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | 17.20 | 17.40 |
+| google | 27.20 (+10.00, +58.14%) | 28.20 (+10.80, +62.07%) |
+| microsoft | 19.90 (+2.70, +15.70%) | 21.10 (+3.70, +21.26%) |
+
+![Results](img/en-fa.png)
+
 ## en-pt
 
 | Translator/Dataset | flores-test | flores-dev |
@@ -124,3 +144,13 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 | microsoft | 50.70 (+4.50, +9.74%) | 49.80 (+2.90, +6.18%) |
 
 ![Results](img/en-pt.png)
+
+## is-en
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | 23.60 | 23.40 |
+| google | 35.50 (+11.90, +50.42%) | 34.40 (+11.00, +47.01%) |
+| microsoft | 35.10 (+11.50, +48.73%) | 34.70 (+11.30, +48.29%) |
+
+![Results](img/is-en.png)
