@@ -7,7 +7,7 @@ KEYS = ['model', 'vocab', 'lex']
 def get_meta(model_path, model_type):
     meta = {}
     for file_path in glob.glob(f'{model_path}/*.gz'):
-        name = os.path.basename(file_path)
+        name = os.path.basename(file_path)[:-3]
         size = os.path.getsize(file_path)
 
         with gzip.open(file_path, 'rb') as f:
