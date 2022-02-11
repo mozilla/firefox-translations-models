@@ -76,7 +76,7 @@ jobs:
       - run:
           name: Updating model registry
           command: |
-            python update-registry.py
+            python scripts/generate-registry.py
       - run:
           name: Showing results
           command: |
