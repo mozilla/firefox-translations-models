@@ -108,13 +108,13 @@ workflows:
               ignore: /.*/
             tags:
               only: /\d*\.\d*\.\d*/
-#      - evaluate:
-#          filters:
-#            branches:
-#              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
-#              ignore:
-#                - /pull\/[0-9]+/
-#                - main
+      - evaluate:
+          filters:
+            branches:
+              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
+              ignore:
+                - /pull\/[0-9]+/
+                - main
       - generate-registry:
           filters:
             branches:
