@@ -58,6 +58,45 @@ jobs:
             else
               echo "### Nothing to commit"
             fi
+  generate-registry:
+    docker:
+      - image: cimg/python:3.10.2
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "11:60:82:e2:71:39:67:44:07:4c:16:8f:3d:89:6d:db"
+      - run:
+          name: Installing git lfs
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y git-lfs
+            sudo git lfs install
+      - checkout
+      - run:
+          name: Updating model registry
+          command: |
+            python scripts/generate-registry.py
+      - run:
+          name: Showing results
+          command: |
+            git add registry.json
+            git --no-pager diff --staged registry.json
+      - run:
+          name: Pushing results
+          command: |
+            git config user.email "ci-models-evaluation@firefox-translations"
+            git config user.name "CircleCI evaluation job"
+            git add registry.json
+
+            if [[ $(git status --porcelain) ]]; then
+              echo "### Commiting results"
+              git commit -m "Update model registry [skip ci]"
+              git push --set-upstream origin "$CIRCLE_BRANCH"
+            else
+              echo "### Nothing to commit"
+            fi
+
 
 workflows:
   version: 2
@@ -70,6 +109,13 @@ workflows:
             tags:
               only: /\d*\.\d*\.\d*/
       - evaluate:
+          filters:
+            branches:
+              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
+              ignore:
+                - /pull\/[0-9]+/
+                - main
+      - generate-registry:
           filters:
             branches:
               # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
