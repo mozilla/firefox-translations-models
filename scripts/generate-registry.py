@@ -1,7 +1,7 @@
 import gzip, json, sys, glob, os, hashlib
 
 # prod or all
-KEYS = ['model', 'vocab', 'lex']
+KEYS = ['model', 'vocab', 'lex', 'qualityModel']
 
 
 def get_meta(model_path, model_type):
