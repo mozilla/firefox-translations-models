@@ -102,12 +102,6 @@ workflows:
   version: 2
   ci:
     jobs:
-      - deploy:
-          filters:
-            branches:
-              ignore: /.*/
-            tags:
-              only: /\d*\.\d*\.\d*/
       - evaluate:
           filters:
             branches:
@@ -116,9 +110,19 @@ workflows:
                 - /pull\/[0-9]+/
                 - main
       - generate-registry:
+          requires:
+            - evaluate
           filters:
             branches:
               # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
               ignore:
                 - /pull\/[0-9]+/
                 - main
+  publish:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /\d*\.\d*\.\d*/
