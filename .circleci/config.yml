@@ -87,7 +87,7 @@ jobs:
           command: |
             git config user.email "ci-models-evaluation@firefox-translations"
             git config user.name "CircleCI evaluation job"
-            git pull
+            git pull origin "$CIRCLE_BRANCH"
             git add registry.json
 
             if [[ $(git status --porcelain) ]]; then
