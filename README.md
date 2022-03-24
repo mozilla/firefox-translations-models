@@ -7,7 +7,7 @@ The model files are hosted using [Git LFS](https://docs.github.com/en/github/man
 
 [dev](models/dev) - test models under development (can be of low quality or speed). 
 
-When a dev model is tested by humans in the extension and has satisfactory quality, it is moved to prod.
+When a dev model has satisfactory quality, it is moved to prod.
 
 # Automatic quality evaluation
 
