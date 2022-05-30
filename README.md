@@ -64,6 +64,7 @@ The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sa
 - Norwegian Bokmål -> English
 - Portuguese <-> English
 - Italian <-> English
+- Polish <-> English
 ## Dev
 - Russian <-> English
 - Persian (Farsi) <-> English
@@ -71,4 +72,3 @@ The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sa
 - Norwegian Nynorsk -> English
 ## Upcoming
 -  French <-> English
--  Polish <-> English
