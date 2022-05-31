@@ -55,6 +55,7 @@ Create a new release with a version tag `x.y.z` following semantic versioning.
 The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sandbox/x.y.z/`. 
 
 # Currently supported Languages
+
 ## Prod
 - Spanish <-> English
 - Estonian <-> English
@@ -64,11 +65,13 @@ The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sa
 - Norwegian Bokmål -> English
 - Portuguese <-> English
 - Italian <-> English
+- Polish <-> English
+
 ## Dev
 - Russian <-> English
 - Persian (Farsi) <-> English
 - Icelandic -> English
 - Norwegian Nynorsk -> English
+
 ## Upcoming
 -  French <-> English
--  Polish <-> English
