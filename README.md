@@ -54,6 +54,22 @@ Create a new release with a version tag `x.y.z` following semantic versioning.
 
 The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sandbox/x.y.z/`. 
 
+# Model types
+
+## Vocabulary
+
+Prefix of the vocabulary file in the model registry:
+- `vocab.` - vocabulary is reused for the source and target languages
+- `srcvocab.` and `trgvocab.` - different vocabularies for the source and target languages
+
+## GEMM precision
+
+Suffix of the model file in the registry:
+- `intgemm8.bin`  - supports `gemm-precision: int8shiftAll` inference setting
+- `intgemm.alphas.bin` - supports `gemm-precision: int8shiftAlphaAll` inference setting
+
+## 
+
 # Currently supported Languages
 
 ## Prod
