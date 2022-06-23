@@ -82,6 +82,7 @@ Suffix of the model file in the registry:
 - Portuguese <-> English
 - Italian <-> English
 - Polish <-> English
+- French <-> English
 
 ## Dev
 - Russian <-> English
@@ -91,4 +92,4 @@ Suffix of the model file in the registry:
 - Ukrainian <-> English
 
 ## Upcoming
--  French <-> English
+- Dutch <-> English
