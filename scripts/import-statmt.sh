@@ -2,13 +2,12 @@
 
 pair=$1
 
-mkdir -P models/prod/$pair
+mkdir -p models/prod/$pair
 
 # directory structure is not consistent on statmt
-wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/$pair/$pair.student.tiny11/lex.s2t.bin
-wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/$pair/$pair.student.tiny11/model.intgemm.alphas.bin
-#wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/$pair/$pair.student.tiny11/vocab.$pair.spm
-wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/$pair/vocab.nben.spm
+wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/fren/$pair/tiny11/lex.s2t.bin
+wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/fren/$pair/tiny11/model.intgemm.alphas.bin
+wget -nc -P models/prod/$pair/ http://data.statmt.org/bergamot/models/fren/$pair/tiny11/vocab.fren.spm
 
 # follow our naming convention
 mv models/prod/$pair/lex.s2t.bin models/prod/$pair/lex.50.50.$pair.s2t.bin
