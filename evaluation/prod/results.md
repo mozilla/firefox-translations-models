@@ -24,7 +24,7 @@ BLEU Score |	Interpretation
 Source: https://cloud.google.com/translate/automl/docs/evaluate#bleu
 
 
-BLEU is the most popular becnhmark in academia, so using BLEU allows us also to compare with reserach papers results and competitions (see [Conference on Machine Translation Conference (WMT)](http://statmt.org/wmt21/)).
+BLEU is the most popular becnhmark in academia, so using BLEU allows us also to compare with research papers results and competitions (see [Conference on Machine Translation Conference (WMT)](http://statmt.org/wmt21/)).
 
 Read [this article](https://www.rws.com/blog/understanding-mt-quality-bleu-scores/) to better understand what BLEU is and why it is not perfect.
 
