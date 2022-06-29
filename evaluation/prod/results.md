@@ -24,7 +24,7 @@ BLEU Score |	Interpretation
 Source: https://cloud.google.com/translate/automl/docs/evaluate#bleu
 
 
-BLEU is the most popular becnhmark in academia, so using BLEU allows us also to compare with reserach papers results and competitions (see [Conference on Machine Translation (WMT)](http://statmt.org/wmt21/)).
+BLEU is the most popular becnhmark in academia, so using BLEU allows us also to compare with research papers' results and competitions (see [Conference on Machine Translation (WMT)](https://statmt.org/wmt21/)).
 
 Read [this article](https://www.rws.com/blog/understanding-mt-quality-bleu-scores/) to better understand what BLEU is and why it is not perfect.
 
@@ -32,20 +32,20 @@ Read [this article](https://www.rws.com/blog/understanding-mt-quality-bleu-score
 
 ## Translators
 
-1. **bergamot** - uses compiled  [bergamot-translator](https://github.com/mozilla/bergamot-translator)  (wrapper for marian that is used by Firefox Translations web extension)
+1. **bergamot** - uses compiled  [bergamot-translator](https://github.com/mozilla/bergamot-translator)  (wrapper for marian which is used by Firefox Translations web extension)
 2. **marian** - uses compiled [marian](https://github.com/marian-nmt/marian-dev) (translation engine bergamot-translator is based on)
 3. **google** - uses Google Translation [API](https://cloud.google.com/translate)
 4. **microsoft** - uses Azure Cognitive Services Translator [API](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 
-Translation quality of Marian and Bergamot is supposed to be very similar.
+The translation qualities of Marian and Bergamot are supposed to be very similar.
 
 ## Method
 
-We use official WMT ([Conference on Machine Translation](http://statmt.org/wmt21/)) parallel datasets. Available datsets are discovered automatically based on a language pair.
+We use official WMT ([Conference on Machine Translation](https://statmt.org/wmt21/)) parallel datasets. Available datsets are discovered automatically based on a language pair.
 
 We perform translation from source to target langauge using one of 4 translation systems and then compare the result with the dataset reference and calculate BLEU score.
 
-Evaluation is done using [SacreBLEU](https://github.com/mjpost/sacrebleu) tool which is reliable and widely used in academic world.
+Evaluation is done using the [SacreBLEU](https://github.com/mjpost/sacrebleu) tool, which is reliable and widely used in the academic world.
 
 Both absolute and relative differences in BLEU scores between Bergamot and other systems are reported.
 
