@@ -602,6 +602,29 @@
       "modelType": "dev"
     }
   },
+  "nlen": {
+    "model": {
+      "name": "model.nlen.intgemm.alphas.bin",
+      "size": 17140899,
+      "estimatedCompressedSize": 13117435,
+      "expectedSha256Hash": "187f9c8f1ffbcc8ecf0724b608ffed9f15bde262b9de5c4754f8d763b585969d",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.nlen.s2t.bin",
+      "size": 4940304,
+      "estimatedCompressedSize": 2744604,
+      "expectedSha256Hash": "15c473e6e5aef1fa3fe5cc804844e19a2c671d2e39169dcbc06f456ca4f9b2c0",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.nlen.spm",
+      "size": 807730,
+      "estimatedCompressedSize": 411834,
+      "expectedSha256Hash": "48a6331cb8a69d21dd24c6c2a15de44a07bcfd4a4470eaf4616849d77945f6b9",
+      "modelType": "dev"
+    }
+  },
   "nnen": {
     "model": {
       "name": "model.nnen.intgemm.alphas.bin",
