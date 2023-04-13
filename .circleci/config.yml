@@ -19,8 +19,8 @@ jobs:
             bash scripts/upload.sh
   evaluate:
     machine:
-      image: ubuntu-2004:202104-01
-    resource_class: xlarge
+      image: ubuntu-2004-cuda-11.4:202110-01
+    resource_class: gpu.nvidia.large
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - add_ssh_keys:
