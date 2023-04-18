@@ -1,0 +1,60 @@
+==========================
+x_name: flores-test.bergamot.et
+y_name: flores-test.microsoft.et
+
+Bootstrap Resampling Results:
+x-mean:	0.8653
+y-mean:	1.0672
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-17.5425
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-test.microsoft.et outperforms flores-test.bergamot.et.
+==========================
+x_name: flores-test.bergamot.et
+y_name: flores-test.google.et
+
+Bootstrap Resampling Results:
+x-mean:	0.8653
+y-mean:	1.0714
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-16.6869
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-test.google.et outperforms flores-test.bergamot.et.
+==========================
+x_name: flores-test.microsoft.et
+y_name: flores-test.google.et
+
+Bootstrap Resampling Results:
+x-mean:	1.0672
+y-mean:	1.0714
+ties (%):	0.0467
+x_wins (%):	0.3200
+y_wins (%):	0.6333
+
+Paired T-Test Results:
+statistic:	-0.6270
+p_value:	0.5308
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y       flores-test.bergamot.et    flores-test.microsoft.et    flores-test.google.et
+------------------------  -------------------------  --------------------------  -----------------------
+flores-test.bergamot.et                              False                       False
+flores-test.microsoft.et  True                                                   False
+flores-test.google.et     True                       False
