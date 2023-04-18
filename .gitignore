@@ -130,3 +130,5 @@ dmypy.json
 
 .idea
 ._.DS_Store
+*.bin
+*.spm
