@@ -25,7 +25,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "0e:9c:c9:66:13:3e:15:01:76:82:4f:3f:77:71:a0:2a"
+            - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
       - run:
           name: Installing git lfs and nvidia-container-toolkit
           command: |
