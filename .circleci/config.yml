@@ -57,8 +57,10 @@ jobs:
             git config user.email "ci-models-evaluation@firefox-translations"
             git config user.name "CircleCI evaluation job"
             git add evaluation/*/*/*.bleu
+            git add evaluation/*/*/*.comet
+            git add evaluation/*/*/*.cometcompare
             git add evaluation/*/img/*.png
-            git add evaluation/*/results.md
+            git add evaluation/*/*-results.md
 
             if [[ $(git status --porcelain) ]]; then
               echo "### Commiting results"
@@ -106,7 +108,6 @@ jobs:
             else
               echo "### Nothing to commit"
             fi
-
 workflows:
   version: 2
   ci:
