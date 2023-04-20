@@ -91,4 +91,5 @@ Suffix of the model file in the registry:
 - Norwegian Nynorsk -> English
 - Ukrainian <-> English
 - Dutch <-> English
+- Catalan -> English
 
