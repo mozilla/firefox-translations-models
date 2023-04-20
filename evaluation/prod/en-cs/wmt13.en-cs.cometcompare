@@ -1,0 +1,61 @@
+==========================
+x_name: wmt13.bergamot.cs
+y_name: wmt13.microsoft.cs
+
+Bootstrap Resampling Results:
+x-mean:	0.6783
+y-mean:	0.8655
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-29.6500
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt13.microsoft.cs outperforms wmt13.bergamot.cs.
+==========================
+x_name: wmt13.bergamot.cs
+y_name: wmt13.google.cs
+
+Bootstrap Resampling Results:
+x-mean:	0.6783
+y-mean:	0.8462
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-26.8610
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt13.google.cs outperforms wmt13.bergamot.cs.
+==========================
+x_name: wmt13.microsoft.cs
+y_name: wmt13.google.cs
+
+Bootstrap Resampling Results:
+x-mean:	0.8655
+y-mean:	0.8462
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	4.9989
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt13.microsoft.cs outperforms wmt13.google.cs.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt13.bergamot.cs    wmt13.microsoft.cs    wmt13.google.cs
+---------------------  -------------------  --------------------  -----------------
+wmt13.bergamot.cs                           False                 False
+wmt13.microsoft.cs     True                                       True
+wmt13.google.cs        True                 False

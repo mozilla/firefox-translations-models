@@ -25,13 +25,18 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "11:60:82:e2:71:39:67:44:07:4c:16:8f:3d:89:6d:db"
+            - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
       - run:
-          name: Installing git lfs
+          name: Installing git lfs and nvidia-container-toolkit
           command: |
             sudo apt-get update
-            sudo apt-get install -y git-lfs
+            sudo apt-get install -y git-lfs nvidia-container-toolkit
             sudo git lfs install
+      - run:
+          name: Configure the Docker daemon to recognize the NVIDIA Container Runtime
+          command: | 
+            sudo nvidia-ctk runtime configure --runtime=docker
+            sudo systemctl restart docker
       - checkout
       - run:
           name: Running evaluation
@@ -42,14 +47,20 @@ jobs:
           command: |
             git add evaluation/*/*/*.bleu
             git --no-pager diff --staged evaluation/*/*/*.bleu
+            git add evaluation/*/*/*.comet
+            git --no-pager diff --staged evaluation/*/*/*.comet
+            git add evaluation/*/*/*.cometcompare
+            git --no-pager diff --staged evaluation/*/*/*.cometcompare
       - run:
           name: Pushing results
           command: |
             git config user.email "ci-models-evaluation@firefox-translations"
             git config user.name "CircleCI evaluation job"
             git add evaluation/*/*/*.bleu
+            git add evaluation/*/*/*.comet
+            git add evaluation/*/*/*.cometcompare
             git add evaluation/*/img/*.png
-            git add evaluation/*/results.md
+            git add evaluation/*/*-results.md
 
             if [[ $(git status --porcelain) ]]; then
               echo "### Commiting results"
@@ -97,8 +108,6 @@ jobs:
             else
               echo "### Nothing to commit"
             fi
-
-
 workflows:
   version: 2
   ci:

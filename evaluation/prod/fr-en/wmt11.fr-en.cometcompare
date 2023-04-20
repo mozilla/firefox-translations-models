@@ -1,0 +1,61 @@
+==========================
+x_name: wmt11.bergamot.en
+y_name: wmt11.microsoft.en
+
+Bootstrap Resampling Results:
+x-mean:	0.5153
+y-mean:	0.6024
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-20.4425
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt11.microsoft.en outperforms wmt11.bergamot.en.
+==========================
+x_name: wmt11.bergamot.en
+y_name: wmt11.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.5153
+y-mean:	0.5741
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-12.0666
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt11.google.en outperforms wmt11.bergamot.en.
+==========================
+x_name: wmt11.microsoft.en
+y_name: wmt11.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.6024
+y-mean:	0.5741
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	8.3325
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt11.microsoft.en outperforms wmt11.google.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt11.bergamot.en    wmt11.microsoft.en    wmt11.google.en
+---------------------  -------------------  --------------------  -----------------
+wmt11.bergamot.en                           False                 False
+wmt11.microsoft.en     True                                       True
+wmt11.google.en        True                 False

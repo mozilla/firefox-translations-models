@@ -1,0 +1,61 @@
+==========================
+x_name: iwslt17.bergamot.fr
+y_name: iwslt17.microsoft.fr
+
+Bootstrap Resampling Results:
+x-mean:	0.5907
+y-mean:	0.6909
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-11.2066
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.fr outperforms iwslt17.bergamot.fr.
+==========================
+x_name: iwslt17.bergamot.fr
+y_name: iwslt17.google.fr
+
+Bootstrap Resampling Results:
+x-mean:	0.5907
+y-mean:	0.6738
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-9.1165
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.fr outperforms iwslt17.bergamot.fr.
+==========================
+x_name: iwslt17.microsoft.fr
+y_name: iwslt17.google.fr
+
+Bootstrap Resampling Results:
+x-mean:	0.6909
+y-mean:	0.6738
+ties (%):	0.0133
+x_wins (%):	0.9467
+y_wins (%):	0.0400
+
+Paired T-Test Results:
+statistic:	2.2866
+p_value:	0.0224
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.fr outperforms iwslt17.google.fr.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    iwslt17.bergamot.fr    iwslt17.microsoft.fr    iwslt17.google.fr
+---------------------  ---------------------  ----------------------  -------------------
+iwslt17.bergamot.fr                           False                   False
+iwslt17.microsoft.fr   True                                           True
+iwslt17.google.fr      True                   False

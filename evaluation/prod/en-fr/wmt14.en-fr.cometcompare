@@ -1,0 +1,61 @@
+==========================
+x_name: wmt14.bergamot.fr
+y_name: wmt14.microsoft.fr
+
+Bootstrap Resampling Results:
+x-mean:	0.6335
+y-mean:	0.7804
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-26.0194
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.fr outperforms wmt14.bergamot.fr.
+==========================
+x_name: wmt14.bergamot.fr
+y_name: wmt14.google.fr
+
+Bootstrap Resampling Results:
+x-mean:	0.6335
+y-mean:	0.7539
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-19.9816
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.fr outperforms wmt14.bergamot.fr.
+==========================
+x_name: wmt14.microsoft.fr
+y_name: wmt14.google.fr
+
+Bootstrap Resampling Results:
+x-mean:	0.7804
+y-mean:	0.7539
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	8.4418
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.fr outperforms wmt14.google.fr.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt14.bergamot.fr    wmt14.microsoft.fr    wmt14.google.fr
+---------------------  -------------------  --------------------  -----------------
+wmt14.bergamot.fr                           False                 False
+wmt14.microsoft.fr     True                                       True
+wmt14.google.fr        True                 False

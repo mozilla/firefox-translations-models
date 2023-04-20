@@ -1,0 +1,61 @@
+==========================
+x_name: wmt14.bergamot.cs
+y_name: wmt14.microsoft.cs
+
+Bootstrap Resampling Results:
+x-mean:	0.7515
+y-mean:	0.9714
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-33.5423
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.cs outperforms wmt14.bergamot.cs.
+==========================
+x_name: wmt14.bergamot.cs
+y_name: wmt14.google.cs
+
+Bootstrap Resampling Results:
+x-mean:	0.7515
+y-mean:	0.9499
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-29.6867
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.cs outperforms wmt14.bergamot.cs.
+==========================
+x_name: wmt14.microsoft.cs
+y_name: wmt14.google.cs
+
+Bootstrap Resampling Results:
+x-mean:	0.9714
+y-mean:	0.9499
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	6.1056
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.cs outperforms wmt14.google.cs.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt14.bergamot.cs    wmt14.microsoft.cs    wmt14.google.cs
+---------------------  -------------------  --------------------  -----------------
+wmt14.bergamot.cs                           False                 False
+wmt14.microsoft.cs     True                                       True
+wmt14.google.cs        True                 False

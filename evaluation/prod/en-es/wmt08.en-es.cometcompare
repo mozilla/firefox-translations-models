@@ -1,0 +1,60 @@
+==========================
+x_name: wmt08.bergamot.es
+y_name: wmt08.microsoft.es
+
+Bootstrap Resampling Results:
+x-mean:	0.5063
+y-mean:	0.6045
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-15.9401
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt08.microsoft.es outperforms wmt08.bergamot.es.
+==========================
+x_name: wmt08.bergamot.es
+y_name: wmt08.google.es
+
+Bootstrap Resampling Results:
+x-mean:	0.5063
+y-mean:	0.6015
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-14.5590
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt08.google.es outperforms wmt08.bergamot.es.
+==========================
+x_name: wmt08.microsoft.es
+y_name: wmt08.google.es
+
+Bootstrap Resampling Results:
+x-mean:	0.6045
+y-mean:	0.6015
+ties (%):	0.1000
+x_wins (%):	0.6333
+y_wins (%):	0.2667
+
+Paired T-Test Results:
+statistic:	0.6916
+p_value:	0.4892
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt08.bergamot.es    wmt08.microsoft.es    wmt08.google.es
+---------------------  -------------------  --------------------  -----------------
+wmt08.bergamot.es                           False                 False
+wmt08.microsoft.es     True                                       False
+wmt08.google.es        True                 False
