@@ -76,7 +76,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "11:60:82:e2:71:39:67:44:07:4c:16:8f:3d:89:6d:db"
+            - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
       - run:
           name: Installing git lfs
           command: |
