@@ -23,7 +23,7 @@ gzip -drf models/*/*/*
 
 echo "Cloning evaluation repo"
 if [ ! -e firefox-translations-evaluation ]; then
-  git clone https://github.com/mozilla/firefox-translations-evaluation.git
+  git clone --branch noshortlist https://github.com/andrenatal/firefox-translations-evaluation.git
 fi
 
 echo "Building docker image"
