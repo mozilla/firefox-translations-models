@@ -1,0 +1,1132 @@
+Yeah, hey!
+I am very pleased to be here because I am actually a graduate of the Higher School of Economics, so it's doubly happy to see you.
+(Applause) Yes, I graduated from the Faculty of Political Science in 2007, and I'm very surprised how many students are here on Friday night.
+(Laughter) I, to my shame, especially in the first courses, wouldn't have made you a company.
+(Laughter) My performance is about the future, and I'll be a little bit of a parrot about a little darker future.
+Do you know the company I work for, Kaspersky Lab?
+Spectators: Yes!
+Anton Shingarew: Okay, nice.
+To understand the context: we are an international company, Russia for our market is only 20%.
+We are among the world's top three cybersecurity companies, consumer, and so my presentation is about such a global world. We are among the best, thanks to our programmers, thanks to Russian education, in understanding the landscape of threats, and we see the big picture.
+I will tell you about the future from our point of view, about a little gloomy future, to be honest.
+My presentation is called the Digital Middle Ages, because, in our opinion, the era in which we are now living, if viewed from a digital point of view, is close to the Middle Ages.
+Many things have already been invented, developed, but we don't yet understand how to use it.
+There are constant wars, attacks, in general, everything is quite sad, but it will be better.
+It's for understanding the landscape - in general, what is happening in the cyber world.
+This is data from our systems, from our library.
+Over the previous 20 years, we have detected 1,000,000 samples of new viruses, now we are detecting 310,000 per day.
+That is, everything that humanity has accumulated over the previous 20 years, if we talk about malicious specimens, we are now detecting this in a week.
+In cyberspace, there is an explosive, very dangerous, serious growth of various viruses.
+Users are attacked more and more often.
+Almost two-thirds of users were attacked in the previous year, according to our data.
+It's a serious number.
+So how long is a person sitting here?
+I don't know, 100?
+Here, probably, the sample is not quite correct, but if you take the world sample, two-thirds of users are constantly attacked.
+Protection from these threats is becoming more and more difficult.
+It's our job, but it's getting harder and harder, because if it used to be a relatively simple antivirus - the product that protects us, it's a whole story.
+Now, in order to protect ourselves from these 310 threats a day, we need a lot, hard and work seriously.
+And more... All operating systems are in jeopardy.
+People often think that if you have a Mac, you are out of danger.
+That's not true. Of course, most of the threats are for Windows, far beyond the 30,000,000 threats.
+All other operating systems are also under attack.
+Here you should pay attention to this system - Linux.
+Few people use it from ordinary users - it's rather industrial systems and professional users.
+It's very serious, I'll tell you later.
+And a couple of other interesting numbers.
+Damage from cybercrime.
+The first digit, 400 [billions] is the data of the insurance company Lloyd, one of the world leaders.
+400,000,000 dollars a year - these are two Russian budgets this year.
+If you count in the Sochi Olympics, one was worth $ 50,000,000, this is the [eight] Sochi Olympics.
+And that's only a year!
+These numbers are growing and growing all the time!
+A couple of stories about the attacks we've seen.
+This attack is called Karbanak.
+A very interesting attack, if you can talk about criminals.
+These people managed to steal almost a billion dollars in two years.
+You know, when in Hollywood movies people imagine hackers, usually such a pretty romantic image - black hoodie, Red Bull, (Laughter) you sit, write code - it's all in the past, it's not anymore.
+The gang consisted of a few dozen people.
+They were working on wages.
+They had a five-day work schedule.
+These people were hired via the Internet.
+This is an organized criminal company, but it did not develop something good - she stole money.
+These people have managed... This attack was mainly against Russian banks, Western European, Eastern European, around the world, but mostly Russian banks suffered.
+These criminals managed to get into the very center of the protective circuit in banks.
+They infected computers that are responsible for the management of ATMs.
+They could program ATMs so they could give out money at a certain time.
+With the help of webcams, they watched what was going on around them.
+They took screenshots of the operations that the bank employees did to then learn.
+That is, they could monitor a month without stealing it.
+For months, they watched him as everything happened.
+Then for several hours they stole tens of millions of dollars.
+The second interesting attack took place on the Central Bank of Bangladesh last year.
+She's pretty ironic.
+We say this is the most expensive typo in history.
+Learn well, not to steal, in general, mistakes to make bad mistakes.
+The criminals were apparently illiterate, and English was an unborn language for them.
+And they made a mistake in the word "foundation" in the word "foundation": missed the letter.
+The clerk who handled it was a little surprised because it was a billion-dollar payment, and blocked.
+But nevertheless, the miserable $ 80 million were stolen.
+The attack was 1,000,000, stolen 80,000,000 - this one attack.
+And just think: this is an attack on the Central Bank, that is, because of one attack, 1,000,000 dollars were withdrawn from the financial system of one country.
+That is, it is no longer just crime, it is a matter of national security and financial stability.
+This is where we are now.
+I'm not even saying to you now, it's about what it was a couple of years ago.
+Now let's move on to a little more serious things.
+Don't worry, I'm a political scientist, so I technically don't understand much.
+It's all about as much as for you and for me, it will be clear to you.
+APCS is an automatic process control system.
+How does a modern factory work?
+Of course, for example, steel - these are people, you know, do not overflow everything with their hands.
+Computers are everywhere.
+The factory is one big computer.
+I was very surprised, I had a buddy of a meat technologist, that at one of the last factories he launched, where they make raw silage, there are 15 employees, half of which are guards.
+All the other are computer operators.
+A modern pilot of the plane, especially the Airbus, if we are talking about Airbus, is a computer operator.
+There is a priority for decision-making in the Airbus - on the pilot.
+This, by the way, is what distinguishes the Airbus from Boeing.
+AK TP is this all together.
+Here is a module that converts the digital signal into an electric signal and gives a command to the turbines to spin, walk pistons, oil to inject, and so on.
+It's all called the ACS together.
+What does it look like?
+For example, so. Specifically, it's a nuclear power plant, but in fact, anything can look like.
+But in fact, the ACS does not look like this. It's also an ACS.
+This year we were in Livigno, skiing.
+And this is a home brewing factory.
+This is all the computer controlled.
+That is, computers everywhere: projector, lighting in the building, electricity, columns.
+Computers are everywhere, computer systems everywhere.
+Everything in the modern world is managed by computers.
+They are wrong sometimes.
+Here's a very funny picture.
+Ports, of course, modern - also computers.
+All these giant cranes are controlled automatically.
+The crane was wrong and here... (Laughter) Here we were trying to find out where it was, assuming that it was either Hong Kong or Singapore, because, you see, the driver managed to jump, (Laughter) when I realized that something was wrong.
+That is, apparently, jumped the door on the right, respectively, probably, right-hand traffic.
+What's so bad?
+The criminals are attacking the APCS.
+They attack production, attack transport systems.
+An interesting story happened a couple of years ago in the port of Antwerp.
+It is a fairly large European port.
+In cooperation between Latin American drug cartels and European criminals - by the way, the criminals are very good friends, this is a separate topic for the speech: if Russia's geopolitical relationship with Ukraine is so, then the criminals cooperate, exchange information, in general, everything is good for criminals, so European criminals hacked the computer control system of the Antweppe port.
+They knew cocaine was put in one container.
+The criminals knew in which container the drugs were laid, and unloaded it to a safe place with the help of a computer, after which they left.
+That is, technological systems were hacked.
+What does that mean?
+This means that the next step, unfortunately, is terrorism and sabotage.
+Because what do we have?
+Highly professional computer gangs that can break into the most serious systems.
+Criminals are hacking process control systems.
+The next stage, unfortunately, is terrorism and sabotage.
+There have already been several stories when real physical processes were attacked with the help of computer systems.
+Probably, what is most relevant to us, this is this attack: last December, a number of physical companies were attacked in western Ukraine, as a result of which the equipment was physically destroyed due to a computer attack.
+The criminals were able to completely erase all information about the customers of energy companies and re-published the management system.
+Fortunately for Ukraine, Ukrainian power systems are quite outdated, as well as Russian ones.
+So they just sent mechanics to switch the levers.
+Due to this, only a few areas were de-energized for only a few days.
+If such an attack were in Europe, it is difficult to say, weeks are likely to be without electricity.
+Why are we here?
+I painted a pretty scary picture.
+All the systems we have, especially electricity, are in jeopardy.
+Why is that?
+The fact is that if we look at the cycle of innovation, when everything is created, we are somewhere here now.
+That is, the systems that surround us: phones, transport control systems, power plants, all this was created without thinking about risks, without the idea of computer security.
+My colleagues said that this is probably a human property when you think about the future, to see opportunities.
+Unfortunately, we see the consequences of what people see only opportunities.
+You always need to weigh the risks and think about the possible consequences, so we are here.
+Of course, this cycle will happen.
+It will be time, we will protect everyone, come up with quantum computers, I don't know, we'll come up with a lot more, and this cycle will come again.
+But unfortunately, we are now in a world that is extremely vulnerable.
+This is the matrix that we have drawn to ourselves, a model of threats, let's say.
+We have divided into three areas everything that surrounds us: physical equipment, data and communication.
+And in terms of complexity, they were also divided into three categories.
+The most important thing is what the security of the country depends on - is here.
+Unfortunately, all this is extremely vulnerable.
+We have already seen attacks on the stock exchange with goals to play with the dollar.
+This means that as a result of a computer attack, the financial situation in the country, or in the world, or in the region, can be tailored.
+We've seen attacks on the banks.
+If I'm talking about a billion stolen from the Central Bank of Bangladesh, but if you're buying 10 billion?
+What if there's $100 billion, what's going to happen?
+Transport, electricity and power grids.
+Why is energy the most important?
+Because if there's no energy, there's nothing.
+And, unfortunately, all computer systems in this industry, they are outdated.
+I don't want to scare you very much.
+I hope I'm scared, it's not really that bad.
+Despite the fact that the government, let's say, those parts of the government that are responsible for the attacks are already there.
+We're sure they've already developed the means of attack, but it's not that bad until it's attacked because it's a weapon that can be used once. As a company, we see our task in defense.
+And why am I telling you all this?
+Just that you think for a second, in what a fragile and interesting world we live.
+And I don't know from which faculties you are, for sure from different, but, for example, in my field, I every time I wonder how much everything is dreadful and underdeveloped.
+If you are lawyers - a bunch of questions on jurisdictions, on responsibility, on intergovernmental agreements.
+I am a political scientist, I am insanely interested in working in this area.
+Mathematicians, economists, this is an extremely interesting field.
+And think about it.
+Think sometimes of how important it is to protect your data if you are users and you are there and behave accordingly.
+Thank you, and I'm not leaving.
+If there are questions after, please come.
+(Applause)
+My story is called "365 days."
+I want to tell you how this year changed me, changed my people and changed my country.
+This story began exactly a year ago.
+Yes, it was on the same day, June 20, 2013 that I sat at my work, wrote another note, and my colleague, Sasha Akimenko, approached me, and said: "You need to talk.
+It's a very serious conversation."
+What Sasha told me was very disappointing.
+He told me about the upcoming deal and that tonight they will announce that the Ukrainian media holding and Forbes magazine, where I worked, acquires Kharkiv millionaire Sergey Kurchenko.
+To say I was upset to probably not say anything.
+The fact is that we wrote the first story about Sergei Kurchenko, about his rapid growth, about how he smugged petroleum products, how he robbed the state budget, how millions of public money went in someone's pocket.
+And now, this person comes and one day buys my favorite edition, my favorite holding.
+He's actually depriving me of my job.
+And, yes.
+At 23:30, the news about the purchase of the media holding appeared on the Forbes website.
+What's next?
+At that time, there were not quite pleasant processes in the media market.
+A month earlier, TVI journalists resigned due to raider capture.
+Then there was a deal to buy Forbes.
+It is clear that the magazine "Correspondent" was under attack.
+We understood that the zone of freedom of speech is narrowing and that more, probably, every day there are fewer publications where you could write.
+I wanted to write.
+I had to write.
+And there was already such a story among journalists: my God, what do we do?
+Why are we doing all this, all these investigations, if no one needs them?
+If the Prosecutor General's Office closes its eyes to the facts of millions of losses of the state, and your holding comes and buys the person who stole this money.
+And you're putting your life in danger.
+You're putting your loved ones in jeopardy, you're very worried about it.
+You work day and night.
+But the most important thing is that your articles find no response from people.
+That is, society does not understand that this is their money that steals from their pockets.
+I've been wondering for a long time whether I should stay in the profession or not.
+I had options to go to the United States of America, or to get an education there, or find myself in another profession.
+Sometimes there are stories when you are motivated by stories from a past life.
+In my case, it was the story of my school.
+I studied in Kerch, in Crimea, where I was the only Crimean Tatar in the class.
+She was harassed on a national basis.
+It was very hard and difficult for me.
+And in ninth grade, I asked my mom to transfer me to another school.
+The documents were ready.
+In principle, the issue has already been solved, a day or two.
+And my mom came to my room late tonight and said, "Did you decide you'd like to do that?"
+I said, "Well, I can't do it anymore, I don't want to.
+I can't stand it anymore."
+And my mother said to me, "You realize that if you leave now, you show your weakness, show your weakness and they will remain winners."
+And then I decided to stay.
+And I thought that if I was then, as a fifteen-year-old girl, I took this challenge, why can't I accept him now?
+The second story is the story of a book.
+When I was eight years old, I read the Little Prince for the first time.
+I really liked this book.
+I understood everything, except one story - the story of the lantern on the planet.
+And I went up to my parents with the book and asked them to explain what this lantern meant, this story.
+I understand, I like everything.
+My mother, on the one hand, was glad that I read such serious books at this age, and on the other hand, I upset her a little.
+She said, "How couldn't you understand that?
+This is the most important story.
+Go think about it."
+So I read this book dozens more, and, of course, I understood the story of the lantern.
+It is about the fact that no matter what, this person lights this lantern every day, although it does not see the point.
+I thought I was the same lantern on my planet.
+Why shouldn't I light this lantern?
+If I can write texts, why should I stop writing them?
+That's why I decided to create my own project.
+It so happened that HUBs we announced on the eve of the revolution.
+It was totally incomprehensible then.
+We announced the project on November 25.
+Then the protest was peaceful, only the Euromaidan began, there were hopes for the signing of the Association.
+A lot happened in the next three months.
+The state put me actively sticks in the wheels, because I was not given a certificate of registration of mass media.
+I was wrapped, sent some letters that the commas were incorrectly placed, that we can't give you a request for registration.
+When dictatorial laws were passed on January 16, I thought that this is probably the end.
+Because in Belarus I definitely do not want to work and, probably, the project does not make sense.
+You know when I got a media registration certificate?
+It is dated 24 February 2014.
+That is, at the moment when Yanukovych fled the country, some person in the civil registration service put a signature on my testimony.
+On February 24, another interesting event took place.
+When my colleagues caught from the Kiev reservoir the documents of the escaped Yanukovych and dried them with hair drying, I was digging in the trash in the garbage in the shopping center "Arena."
+It looked like this. What was I looking for?
+It is the fact that together with Yanukovych from the country escaped the hero of our investigation with Sasha, Sergey Kurchenko.
+He ran so fast that he threw out in his mall, his staff threw out 40 bags of documents passed through the shredder.
+It was a treasure for a journalist.
+So I called it "golden garbage."
+But I knew that in order to recover these documents, I probably would need to spend a lot of time.
+I didn't know if it was possible to re-recover documents from the shredder.
+Of course, I watched the film "Margot" and saw Iranian children who restored photos of the staff of the American Embassy.
+But that story was continued.
+Because, just a few days later, my colleague, Denis Bigus, took these documents, organized volunteers and created the "Officer's Hundred."
+And just a few weeks later, I came to the "Office Hundred."
+I saw dozens of volunteers who glued the papers I found in the trash cans.
+I remember well the 70-fiyerted grandmother, who with huge glasses, had a huge lenses sitting and glued these papers on a sheet.
+And I thought, theft, a year ago I couldn't imagine it, because I thought that no one needed the articles, that our society was passive, that I was doing some nonsense.
+And then my grandmother came and glued.
+She knew a year ago, who is Sergey Kurchenko?
+I couldn't imagine it.
+As I could not imagine, the first text on our portal will be the text "Last day of the VEEC."
+It was very symbolic.
+But I could not have imagined that at the same time in my native Crimea, three days after I finally launched my project, these events will begin.
+But these events allowed another projectet to be born.
+When they seized the building of the Crimean Parliament on February 27, my friends Alim Aliyev and Tamila Tasheva gathered and decided to create a project "Crimea SOS."
+We didn't know what's going to happen.
+We didn't know what this situation was going on.
+At first, it was aimed at informing, but then more and more volunteers were connected to him.
+We started to help refugees, IDPs, the military.
+The history of Crimea SOS is not a story about us, in fact.
+It's a story about you, people.
+Because I never thought in my life that this story would find a response from thousands of people who were not indifferent.
+Because when you receive 600 letters a day, with addresses of people who are ready to accept refugees, or when you are called from unfamiliar numbers and say: "Please accept at Simferopol station 6 bags of potatoes from the city of Kovel," it is very inspiring and impressive.
+On March 18, 2014, Crimea, my homeland, the birthplace of my ancestors, from which we were expelled 70 years ago, became part of the Russian Federation.
+Anexia of Crimea has officially come into force.
+Two months later, my people were forbidden to hold a mourning rally dedicated to the 70th anniversary of deportation.
+But people, despite this, came out on that day.
+And the helicopters were circling over them.
+People were praying.
+People found strength, came and paid tribute to the memory.
+Did we stop working after Crimea was anxified?
+Of course not.
+Just like I did a year ago, we continue to do.
+Thousands of people are written and experienced every day.
+I don't know what's going to happen next, I don't know what's going to happen to Crimea next year.
+The only thing I know is that even one person's faith, the faith of two people can do very incredible things.
+Not to mention the faith of hundreds of thousands of people.
+Thank you.
+(Applause)
+Our whole life is a complete marathon in the dark.
+You and I can only dream, believe and assume what our day will be tomorrow, our life in a year, 10, 20 years.
+And in order for all the plans and dreams to be realized, it is necessary to leave your comfort zone every day, expand the boundaries of the possible and walk into the darkness, believing that there is a step.
+There is an expression: if you want to have something that you don't have now, you have to start doing what you've never done before.
+11 years ago, at the demonstrations of karate with me an accident that led me to a spinal injury and loss of movement on my legs.
+For several weeks, different doctors gave me different diagnoses.
+At the same time, I was prescribed a large package of magic pills, only better from all this did not become.
+And the psychological shock of understanding that my active, busy life with grandiose dreams, with plans may not happen, covered me with my head every day.
+Every morning of a new day I was a choice: either to accept everything as it is and to adapt, or to fight and believe that I can get on my feet.
+Now is the time I made a choice.
+I threw away all the pills, I stopped listening to the sad conclusions of the doctors and began to look for myself a sensible specialist who could help me.
+And I found it.
+Thanks to the knowledge of this doctor, thanks to the knowledge that I received at the institute, and at that time I graduated from the Academy of Physical Education and received a diploma in rehabilitation, we began to restore.
+There were different procedures, mental training, meditation, exercises.
+And it was time before the whole system began to work and bear fruit.
+And here is a very important thing: it is important to be able to find the strength in your life to move on, to move forward, despite the fact that, it would seem, all you do is useless and does not bring results right now.
+In fact, I am grateful to God, I am grateful to the universe for the fact that this case happened to me, because I have opened a new level of understanding of human power and opportunity.
+I have discovered the knowledge that I am now helping people.
+And I've made one very important and powerful discovery for myself: the choice of being, every day of your life, creates your actions, and your actions create results.
+This is your life, this is what you have today, it's what you have every day.
+To be, to do, to have.
+And I urge you to always take the big tops, always strive for dreams and make big challenges.
+It's the job of doing and acting every day.
+And you know the Bible does not say, "By faith and your work will be recompensed."
+And that's exactly true. For 16 years I have been engaged in coaching work, I have been helping people to realize sports fitness goals, I help to rehabilitate after injuries and diseases.
+I love them in sports and a healthy, active lifestyle.
+Two years ago, in anticipation of the Paralympic Games, the international organization BlazeSports America, which develops Paralympic sports around the world, held a two-day seminar in Moscow.
+My good friend threw me a link, thinking that it would be interesting to me as a coach, but, you know, this event - it opened a completely new milestone in my life and life at least thirty people in our country.
+The seminar was attended by athletes with a different category of physical restrictions, as well as their coach.
+We, literally in the shoes of these people, were able to try every sport and learn methods of training.
+There was basketball, a shuffleboard on a wheelchair, volleyball sitting on the floor, goalball and football with a ringing ball for blind people.
+Bocce game for people who have a strong cerebral palsy degree.
+It was very difficult, just incredible.
+And you know, these athletes were shocked by their character, their will, their strength and perseverance.
+I'll even say more that their fates and lives are real tutorials on authorship, leadership and team play.
+They are always ready to support each other, and they are very attentive to people.
+At the end of the seminar, we were shown a documentary about how amateur Paralympic sport was developed and supported in the United States.
+No boundaries, absolutely everything is equal.
+Sports and fitness centers are adapted for everyone.
+A large selection of sports clubs and sections, a large selection of competitions, organized transfer.
+And absolutely everyone can afford to do their favorite sport and lead an active sports life.
+You know, I sat among our guys and I saw, and I knew how they were missing it.
+Even the tears flowed through the cheeks from understanding this problem.
+And how much this environment is not developed and does not support, how difficult these people are, but they still fight, do not give up.
+And such units.
+And then there was an absolutely clear intention in my head to change this situation in our country.
+The idea of creating an organization that will develop and supervise the Paralympic sport in our country is very tightly populated in my heart and in my head.
+And I started to think where to start.
+Arriving on a video on the Internet about how two people - the blind and his leader - together finished the Ironman distance in the triathlon, and this, so you understand, 3.8 km of swimming in the sea in a couple, after that without a break they go 180 km of the bike race, and immediately after that without interruption they run 42 km of the marathon.
+Then I knew where I would start.
+In our country, about 13 million people with disabilities, about 400 thousand of them are people who have no vision, or have some vision problems.
+Just think, this figure can be compared to the whole city in Russia, such as Sevastopol, Sochi, Nizhny Tagil.
+And this figure: 70% of this population are young people of working age.
+People of this category are as cut as off as much as possible from the world.
+It is difficult for them to find a job, to realize in life.
+Many sports sections avoid taking such people to classes, because with them a lot of fuss: the organization of transportation, the search for leaders, volunteers, the difficulty in training, because these people do not see.
+And society and parents from childhood have formed such people's attitude: you are disabled, and your life is appropriate.
+You can't, you can't, you won't be able to.
+At that point, I had an idea where to start.
+I decided to find a blind man who does not have sports training to prepare him from scratch for the marathon distance and run it in pairs.
+So the social project of the marathon was born in the dark from Omsk to Moscow.
+The young man Sasha Menshikov from the city of Omsk responded to my search.
+I understood that such joint work would bring both of us to a qualitatively new level of personality and that for Sasha, this marathon should be a big and important dream that would motivate him and inspire him in difficult moments.
+So it was: Sasha dreamed of a marathon for 10 years.
+He turned to sports organizations, he wrote to people, coaches, he was looking for support, but he did not get it.
+Even those close and relatives waved their hands, they said, "Sasha, you are blind, you will not be able."
+Although thanks to Sasha's internal ambition at the age of 28, he received a higher medical education, studied for a massage therapist, and now he works in the clinic and restores people.
+It raises children with a strong degree of cerebral palsy to its feet.
+At the time of our acquaintance, Sasha already lived separately from her parents, renting a room.
+We started with Sasha on December 6, 2013.
+To date, behind his shoulders three races for 10 kilometers and one half marathon for 21 kilometers.
+And on September 20 this year at the Moscow marathon we will overcome the cherished 42 kilometers.
+You will probably ask: "And how did you prepare?" Sasha is in Omsk, and I am in Moscow.
+You know, here I will tell you a very important thing: when a person has the most powerful vision, there is a dream, from the realization of which goosebumps run on the body, everything is: there are opportunities, ways, people and most importantly - the energy is in order to act and move every day.
+We have gone a very difficult way of intrapersonal struggle among Sasha, in building relations between us, combating the attitudes and mentality of society and local authorities to organize the training process.
+Sasha became an incredibly open, purposeful and risky person.
+He learned to trust himself and himself.
+He learned to think positively and smile and ask for support.
+Six months ago, Sasha married and moved to another city.
+He now lives with his wife in Yekaterinburg.
+And just a couple of months ago, Alexander was able to catch up and detain the criminal who attacked him and wanted to take his phone.
+(Applause) (Approval outcry) This was written in many newspapers and Sasha was awarded an honorary award and a medal.
+And now we have the finish line.
+After the marathon, Sasha will reach an even higher level: he will have an experience of completing something very big and seemingly terrible and impossible.
+And he will be able to use this experience further in life and carry it to other people.
+And I, as a coach, as a leader, will have a tremendous experience of what I can be, so that this man succeeds, trusting me with his life and be able to fulfill his dream.
+After all, when the blind flees with the leader, he trusts him with his life, and for him it is a great risk, and for the leader - a great responsibility that he can cope with.
+You'll probably ask, "Why running?" When a little man is born, he first learns to keep his head, sit, crawl, walk - stand, and then walk.
+And the moment is coming - everyone knows him when he's running.
+And at that moment, it's happiness for him.
+It's life, it's joy, it's a state that I can do anything.
+Now you can imagine that a man could never do that.
+In addition, running - it does not require any complex equipment, only sneakers and a person nearby.
+Running a leader and a blind guy is about teamwork.
+Two people are already a team.
+A team that has two main things: trust and support.
+In addition, marathon run teaches day after day, step by step to overcome difficulties, endure and move to great goals and dreams.
+For a blind and leader, running is a powerful tool for personal growth and transformation in life, and their results are an example and inspiration for ordinary people.
+I gave you an example of one such fate, one person.
+But our project "Marathon in the Dark" has been in Moscow for a year, and in the nearest plans of other cities of Russia, and the development of amateur Paralympic sports for other categories of physical restrictions.
+It is very important to me that you take out two basic things from my speech today.
+The first.
+Every day of your life you choose your head.
+It is in it, only in it, you make absolutely all the decisions.
+In it you choose actions or laziness, authorship or circumstances, strength or pity.
+It is in it that you risk or fear, believe or doubt.
+Remember the law: the choice of - life - action - result.
+And so every day of life.
+And then you will definitely succeed and everything will be possible.
+The frames, impossibility and limitations are only inside your head.
+And the second one.
+Be in focus on the world around you.
+Remember those who live in your or neighboring home, those with whom your children are studying, those with whom you work.
+Walking down the street, pay attention to passers-by.
+And I'm sure you'll remember or meet people who need your support.
+In our country, so many people lack the simplest, but at the same time the most necessary - it is the support of the neighbor.
+And then the wings grow, and faith appears.
+And if life is a marathon in the dark, where, taking a new step, you don't know what's waiting for you, you don't know what's waiting for you, but you believe that everything will work out, believe me: the two of us, the three, together, run this marathon of life is much easier and more effective.
+Thank you.
+(Applause)
+Hello, dear friends!
+Yes, it's all true: the stages - it wasn't easy, but I coped.
+And now I stand in front of you.
+I'm not what I wanted to tell you about all the stages of my formation, about future plans, and so on; I don't think it's so much of everyone interested, although it may be interesting, but it will take a long time.
+When we thought how to describe and how to explain my appearance at TEDx, we went through some musical themes, the connection of music with something, words with music, rhythms, all sorts of sounds, meanings, etc. and decided that we would talk about the contourbimus.
+What is the contour balbum, you will know a little later.
+Maybe someone knows, of course.
+It is the connection of sound, words with musical sounds, with rhythms, and how sound, even if it does not have a specific meaning, for us the word "conturbabimus" now makes no sense, but it already has a certain mood, and it is this mood that often gives new unexpected musical thoughts that you could not predict in advance.
+Moreover, the word "conturbabimus" has a very specific meaning.
+But today, during our speech, there will be compositions in which words mean nothing at all.
+And it's not because I don't have enough verbal abilities.
+Suppose that's not the case. And this Beliberd, as it would seem, makes it possible to focus the attention of the performers and listeners on the combination of sounds, incomprehensible, some allusions that these words give.
+It is this some amazing, something new, which, in general, not.
+We are not the first - I say on behalf of a group of people, because we are now performing with a small choir of my friends - doing this, but it seems to me that we have achieved large heights precisely in the singing meaningless words for incomprehensible motives proto-ethnic.
+And we will start with a song called "Manig": it makes no sense at all, it would seem.
+But in fact, the meanings are so deep that I think you'll be shocked.
+I'll invite my friends to this stage: this is a choir and a pianist.
+(Applause) So, Manig: penetration into the hidden, immersion in the bottomless.
+(Music) (Applause) So, we continue to talk about the connection of words and unexpected complete accomplishments that the words unknown give.
+When I was studying for a short time at the Merzlyakov School, we had a wonderful teacher Konstantin Korzun, who went on unique expeditions folklore and ethnographic, explored all sorts of songs in the depths of Siberian ores, brought records and notes, and channel records - all this was terribly interesting.
+And in his book he showed us, I dug up an amazing motif that I had never heard, and I think few people have heard him, because all that was in this man's books, no one has ever heard.
+And it was amazing, although the music is wonderful.
+And on the basis of this motive, there were a few words in the beginning laid: "Oh, the head hurts ... , and the meaning was not very clear at all.
+And in general, I want to say a few more words that often the meaning of what we sing is much better to sing a song, if you don't understand the point.
+That was the case, at least in my case, always with the Beatles.
+I rarely knew, especially when I was a kid.
+And even with age I thought: let's go to sit down, I began to understand, and somehow it did not give me any inspiration.
+And often many people noticed that in translations many songs sound very strange.
+And they sound strange not because the language is bad, but because this language sings worse.
+As some famous (Single) Che gelida manina, se la lasci riscaldar, and in Russian it sounds like this: "Cold rook, you need to warm it."
+Well, I mean, that's not the same.
+(Laughter) Therefore, despite the fact that there are all sorts of successful translations, in general, the language itself often dictates the rhythm and melody of things.
+Therefore, surprisingly observing and infiltrating it, and participating in it is a separate amazing interest.
+Now there will be a composition about which I was talking about, "The Head" is painful, pre-combed, developed, and in it just these not-meaningful words, they create some amazing vague proto-people-ethnographic mood, which first fascinated me, then all my friends, and now we will present to you this song.
+So, the head is in pain.
+(Music) (Singing) Oh, mama's, the head hurts, whether oh luli, the head hurts.
+The head hurts, you want to walk, whether Oi luli, but can not.
+My heart is ardent, I want to love, whether Oi oy luli, but I don't know who.
+Ai in the field will go where the sun rolls, maybe in the field he will meet me.
+And the third part of our story is about a very amazing experiment.
+Once upon a time my mother told me, "If you don't have anything to do, read Thornton Wilder's wonderful book "The March Ides."
+I began to read, I got this wonderful language in the letters.
+And there I found the three-stage Guy Valery Catulla, who, of course, I heard for the first time myself, and so much it made a deep impression on me - just poems in Latin, - that I have messed them.
+Now I'm gonna prove to you I've learned.
+This is a piece: Soles occidere et redire posunts, nobis, cum semel occidit brevis lux, nox est perpetua una dormienda.
+Probably, many of you know that there are two different schools: St. Petersburg and Moscow, how to pronounce Latin.
+As we all know, the St. Petersburgers always have their own eyes, Muscovites have their own.
+Peters, I will explain, always read as y, and Muscovites are read as "c," if there are ?e? or ?i? go after them, or as I, if ?o?, ?a?, ?a? or ?u?????????????????????????????????????????????????????????????????????????????????
+That's the difference.
+Of course, there are still a lot of differences, but we decided to stick to the Moscow school of reading the language, because we decided that it, of course, is better.
+(Laughter) (Applause) Thank you!
+I knew I would be supported in this room.
+Moscow School is better.
+And then, after a while, I remembered again, I found the whole text on the Internet, read it, found translations of it.
+It struck me in a very amazing way and inspired me how to sing perfectly in a language that you do not understand.
+What the translation is there, you still do not correlate what is written in Russian and what is written in Latin.
+Therefore, it is this state: what you sing in an unknown language, some amazing phrases, it, in my opinion, gives some additional musical and meaningful delight.
+And that's why we're just trying to introduce you another lyric-dramatic etude called Viivamus.
+In the middle of this immortal work, the word "conturbambimus" will be played, by which we have titled our speech.
+So, ?Vivamus, mea Lesbia, atque amemus?: We will live, my lesbian, until the... Unfortunately, I didn't learn in Russian.
+We're alive as long as we love.
+So, come on, Olechka.
+(Music) (Applause) Thank you very much, dear friends!
+It was our small excursion in a combination of sounds, words, rhythms and meanings.
+Thank you!
+(Applause)
+I've already been introduced, and now it's my turn to say hello.
+I'll start by saying hello to the 30,000,000,000,000,000,000 bacteria present here.
+I don't usually do that, but today it's the same case.
+And then I'll say hello to 300 listeners.
+These 30 quadrillions, 100 trillion for each of you, are in your intestine, and in addition to all the other bacteria that are present here, let's say, it will be the electoral majority.
+So, guys, hey!
+Like the contour of the balm, there is such a word, as yet unknown to you, the microbiota.
+The microbiota, or microbiome, or metage gene, is sometimes called differently, these are bacteria that live somewhere.
+It could be the cheese that these bacteria make.
+It could be the intestines I'll be talking about.
+Forests, meadows, seas - we are accustomed to the fact that bacteria live everywhere.
+We will have a direct inclusion from the MCC: bacteria also live in space, in places that are difficult to imagine!
+There are studies on bacteria that can live in nuclear reactors, that is, wherever there is anything that can be digested, our friends settle and it digested.
+Why is it important to us now?
+The first bell rang in the mid-2000s.
+Here it is written about epidemiological obesity in the United States: from the 90s to the 2000s, the proportion of people diagnosed with obesity rose from 10 to 30%.
+One group of scientists suggested that this may be due to bacteria that live in the gut.
+The result of these scientists was that the bacteria are directly related to what is happening.
+It seems that the ubiquitous use of antibiotics at home leads to the fact that bacteria die a little, function incorrectly, and people gain mass even from the modest amount of food that Americans consume.
+This is very similar to the sub-therapeutic effects of antibiotics that are used in animal husbandry: you give animals a little antibiotics and they gain mass.
+Then the meat gets to us.
+No natured, Russian, American, can notice these subtherapeutic doses of antibiotics.
+And we continue to gain mass as well as these animals.
+Another reason why bacteria can die, die, and why I remember and say it here are preservatives.
+On the screen of the 137th day of the project "Happi Mila."
+The food, as far as I remember, looks like the first day.
+Why is that so?
+Because it's not eaten by bacteria, it doesn't rot, it doesn't spoil.
+If this food gets inside, the same thing happens to our bacteria.
+They don't eat it, they're rather dying.
+And take-home message is that it's worth eating the food that spoils, but before it's spoiled.
+It is very interesting that we have such a thing as hygiene in culture.
+[Hyware Theory] On the screen is a well-known illustration, a classic version.
+Now the theory of hygiene is being promoted in Europe, where it is said that a huge amount of allergies, food allergies, eczema and diseases of the younger generation are associated with the fact that in childhood they are kept clean.
+It turns out that our microbes teach our immunity after our birth.
+And if we do not encounter them, then immunity becomes incapable of taking all kinds of substances in adulthood, and all this is perceived as enemies.
+There are also positive moments.
+Even in Russia, this is being done: a microbiota transplant or kala transplantation is a good title for news feeds.
+The essence of it is that the bacteria of a healthy donor are cleared of feces and the patient with acute diseases receives them.
+Now so treat acute forms of infectious diseases that are no longer amenable to any treatment.
+And only by populating healthy bacteria in the gut, you can drive out the bad ones.
+And another equally interesting fact that has so far been mastered only on rodents is the influence... and there are still women who ate yogurt, but I doubted the microbes from rats that behaved passively, rats that behave actively.
+Everything was done qualitatively and painlessly.
+And the rats that were passive became active, finding the microbiota, and vice versa.
+There have also been changes in the brain that lead to this.
+Two weeks ago, The Wall Street Journal quoted the very good scientific work of American colleagues who collected microbes across the U.S. subway for 36 months.
+It turned out that these microbes give us all the information about what is happening in New York.
+If the station was sunk a long time ago, there are marine microbes.
+If one of the important paths of pizza carriers passes through this station, you will find there microbes that live and make cheese in pizza, for example, make parmesan cheese.
+And for 36 months, they've been observing the bacteria that Americans are sick when they're going to work in the morning.
+The story that our microbes contain all the information about the environment where they live.
+We are doing the same thing.
+Moreover, we perceive our microbes in the gut as a new additional organ of the human body.
+We are researchers all over the world.
+What were we interested in at first?
+Track the microbes in the gut as humans moved all over the Earth.
+Will we find the differences or something special among the Chinese, Russians, Americans, etc.?
+As a result, watching the change of microbes on different continents, we have created a technique that allows us to look at the adaptation of these microbes to different environmental conditions.
+The important thing I'd like to say is antibiotics.
+We see that the microbes in the picture on the right are very well adaptable.
+We have patients before and after antibiotic treatment.
+For example, you have harmful bacteria in your lungs, you cure them.
+In the intestine there is resistance to these antibiotics.
+The next time you get sick, antibiotic resistance is likely to be passed on and pulmonary bacteria will also be difficult to fight parasites.
+We also see adaptations to all sorts of chemicals that are not found in nature, it seems that microbes are saving us.
+They help us to remove heavy metals from ourselves.
+Chronic inflammation - these, for example, intestinal diseases - microbes adapt to these harsh conditions of chronic inflammation and help us live at that point.
+One of the super-works that I like, I do not have time for this, - microbes adapt to the high doses of alcohol characteristic of the Russian Federation.
+(Laughter) I've been invited to TEDxMoscow for a long time, and I've been thinking about how to tie everything I like and talk about it all the time.
+I've found that the slogan TEDxMoscow is everything.
+It turns out it's very similar to the slogan of one sporting event I'm taking part in, and it's a talytlon of a long-distance race.
+You must first swim 4 km, then move the pedals 180 km, then 42 km run the marathon.
+Here's my picture at the finish line.
+Really what is possible.
+I, not a sportsman, finished 13 hours 20 minutes - it took the whole day.
+Why did this become possible?
+In large part, due to the huge number of gadgets, which is now used in the training of athletes.
+In the picture, what I have is: measured the pulse, pressure, number of steps, speed of torsion on a bicycle, power, etc., that is, a feedback occurs, focusing on which you can develop and train.
+A new word formed from feedback is biofidback.
+Biofeedback is used mainly in the cognitive sciences, where, with about the same thing as I have on my head now, you can exercise with your brain, learning different electromagnetic waves, and reach a level of self-ownership of the same as Tibetan yogis.
+And I thought, "Cary, now I'll get it all together, the microbiota, Iron Man and meditation.
+Do we have a similar way to get feedback about your own microbes in order to develop such natural as possible, as in the picture on the right?
+And it turns out there is!
+That is, what we are doing now, scientists and young entrepreneurs, we are creating such ways of biofidback.
+There are several companies abroad that do this very cool, some of them crowdfunding, where people themselves invested money at first to get the first test results.
+This will all now cost less and less, and in the near future we will see it abroad and in Russia.
+Ohmygut.ru is our own project.
+The site does not work as any ongoing projects, but if you write it down, I think it should appear tomorrow.
+(Laughter) This is the FSBI and several commercial companies that are engaged in the production of high-level medicine kits and the creation of information analysis, they create something similar in Russia.
+It may be even better than foreign counterparts.
+In conclusion, there are only two slides left, and I have 1 minute 47 seconds, I'd like to say about one of our pilot studies that shows that we're what we eat.
+We took the residents of Russian cities and real deep villages up to the Old Believers - these are people who did not face industrial food.
+Yeah, we were trying to find them.
+And it turned out that the people who live in the city, they have microbes in composition exactly the same as that of Americans and Europeans; that is, the food genocide to which we are subjected as a result of globalization, leads to the fact that the microbiota is poor, loses, gets poor, and it is about the same in the world - this leads to the ripe of all kinds of diseases.
+People in every single village live with their traditional composition of microbes, feel very good.
+And maybe for us it would be the way - to go to the village, live there peacefully, turn off Facebook, Twitter, WhatsApp... and learn to listen to yourself: to smell, to feel hungry when we are better to sleep when we don't want to eat - better not to eat.
+If it's food, we want to eat it - we eat it - we eat it, if not, we don't eat.
+In the modern world, our way of evolution, I think, is aimed at what we must, in these conditions, when the flow of information is quite huge around us, to learn to listen to ourselves.
+Perhaps it is difficult to do now without special devices, so why not use them?
+And in such a super-city of the future, it really possible is everything, and I think the key is that we have to learn to ask ourselves uncomfortable questions and listen to ourselves with or without devices.
+Good luck.
+And don't get sick.
+(Applause)
+Hello there!
+An impressive performance about pigs.
+I've been looking all the way, I've been looking, thinking how convincing it would be if there was a pig on the stage who would tell you about her own accomplishments.
+I have two sons.
+A few years ago, they asked them to study football.
+Not in the sense that they had the idea of becoming players, but in the sense that they just wanted to learn how to play football: hit the ball, give pass, that's all.
+I started to study the sections that I have at all.
+And it turned out an interesting thing that there are professional academies: "Spartak," "Dynamo," "CSKA."
+There are some district sections, but they are all arranged on the same principle: We need a strong, successful player at the exit.
+To do this, we give children maximum physical and psychological stress.
+All the weaklings are weeded: at the exit only strong, agile and hardy.
+It's a clear logic.
+She worked well in the Soviet Union.
+She worked in Europe 40 years ago.
+Invented it in Sparta, where she worked well.
+But it stopped working in Europe and America and has now stopped working in Russia, simply because society has changed.
+Imagine yourself in the 50s, in a small town like Manchester.
+You have a child and options: either the child grows up and goes to the factory, or you give it to the sport. None of the others, what is called social elevators, almost did not exist.
+Universities for the rich, so go work at the factory.
+Therefore, parents for the ghostly chance that their child would grow stronger, dexterous and become rich, were ready to endure what their child is being shouted, and he must feel pain and everything else.
+But the society has changed.
+And now that a teenager, inventing some app for the phone, the next day can wake up a world-renowned billionaire, ways to get rich, become famous, to achieve success has become countless: they only appear.
+At universities began to take not only the rich, but also the smart.
+Accordingly, now the parents do not want their children to be shouted, that they be beaten, that the child was bad and everything else.
+What you see is a quote from the boy Roger, [I was the worst child, I didn't listen, rolled hysterics, screaming at me almost all the time and kicked me out of training.]
+who remembers his childhood and talks about his sports.
+You know this boy very well.
+His name is Federer, he grew up and became the best tennis player in the world.
+And this boy, Alexander, his memories are similar.
+They know him much less than Roger.
+I hated these trainings.
+We had one exercise: you're carrying the ball and hitting the goal.
+No one could score.
+I've scored it.
+The coach said I was guiding the ball like a piece of shit.
+This is my friend, journalist Alexander Borzenko.
+And in fact, what unites them is not that one became a champion, but the other went to journalism.
+It's that they're both faced with the way: In order to become an athlete, you have to go through a very serious, psychological and physical activity.
+I was not ready to give my children to this, and I wondered how it could be arranged and how it was arranged in Europe.
+In this sense, the example of Belgium is indicative.
+The Belgian national football team suffered a number of disgraceful defeats in the late 90s at the qualifying championships of Europe and the world.
+And then in Belgium they thought and realized that the problem is not in bad players.
+The problem is that they create "bad players."
+They adopted the program: they hired a foreign company, which once a year carried out the certification of the academies of all football clubs.
+It took into account everything: infrastructure, the number of children, the happiness of children, the progress of children, reviews of parents, anything.
+If the academy scored high points, the club received privileges in the form of taxes, premises and everything.
+If the academy received poor grades, the club was deprived of privileges up to fines.
+The system is not perfect, but it created competition.
+And the competition has changed the system: the system "we take children now and in 10 years we have to give the superstar "we have to turn into a system - we have children, there are many of them, and they must be happy, and we also teach them to football.
+The happiness of the children and their feeling of what is happening have become much more important than what will happen to these children.
+This was not taken into account in the certification commission.
+And in this regard, the following happened: in 14 years in Belgium raised a generation of the most talented football players in Europe at the moment.
+They are young stars.
+They play in the best European clubs.
+And the Belgian national team at the last World Cup reached the quarter-finals, which consisted of eighteen 22-year-old boys.
+There is another team that failed in the late 90s at the championships quite shameful.
+Some of you may have watched the match "Russia-Japan" on Manezhnaya Square.
+But, in general, we, as you know, nothing happened to it.
+And when it became clear that the happiness of children works in professional football, I became interested, whether it could work in amateur football.
+Is it possible to make a center in which children would just learn football without the goal of becoming a footballer.
+Is it possible to make a place where individual achievements will be more important than collective achievements?
+Is it possible to make a place where a fat, clumsy girl scores a goal for the first time, and this is as important an event as when a sports boy scores 5 goals through himself in a fall.
+And my friend Sasha Borzenko and I, whose memories you saw here, made such a football section for our children and children of our friends.
+We quickly found that it is necessary not only for us, but also for some other and adult children.
+We have many children.
+And we found the most gorgeous and beautiful Alla Filina, who is a professional football coach.
+She's as crazy as we are, because she's also working as a development director at a big company.
+But in her madness, she went further than us and received a professional coaching education.
+And together we made a football center, which comes a lot of children, and who learn football.
+And then we found the amazing.
+To us come very different children, these children from very different families.
+Most of them would never have faced football, just because... well, who would like their child to be a football player?
+Didn't play in Bavaria, but I was a footballer?
+We have found an amazing thing: when you give the child the loads that he can withstand without requiring him to overhears, he begins to make these superpowers.
+And we formed a group, which we called the group "Love."
+These are the children who do more than ten hours a week.
+They go to competitions, to the camps and everything, like the real ones.
+But they are not shouted, they are not required to overpower, if they are not ready for them.
+And, it seems, this whole thing really works, because when they came to Moscow - Manchester City and Bayern, they, including a separate story, came to us.
+They looked at our children.
+And now, under the agreement, we are waiting for some time until the children grow up, and we will show them and "Bavaria," and Manchester City, and maybe some of them will go there to play.
+(Applause) That's not all.
+But thank you anyway.
+And what all the professionals who in Russia are engaged in the preparation of children actually say is that if the child is not given high loads, he will never cope with them.
+And the chance is only one.
+In this regard, I want to tell the next story.
+A photograph of a black boy who was transported from Africa to Europe at a young age.
+He played for... he played for... nothing to do, for the children's team, then for the youth team, then played in the 2nd division.
+And it was notable absolutely.
+He didn't, he was 24 years old.
+This is the time when the players end their careers if they don't succeed.
+But then he began to work, he suddenly began to score.
+He became the top scorer of the second division, then moved to the first French division.
+Became the best scorer.
+Then it was bought by the football club "Chelsea," and then with Chelsea, becoming the best footballer of England, won the Champions League.
+His name is Diego Dragba.
+He did it at the age when professional footballers are finishing their careers.
+This story is about what, in fact, each of us has their time for chances and their chances in life.
+And don't rush to them, they'll come.
+The last picture of the child I want to show you is Grish's boy, he's 8.
+He's been working in the center we've done for two years.
+He's in the older group.
+He plays against children who are 2-3 years older than him.
+This is my son.
+If he is asked to play in Bayern, I will be happy about it, but if not, if his football career ends in such a sport, I will not be upset, but I hope that his memories of sports training will be a little different.
+Thank you!
+(Applause)
+Not everyone knows, but I'm 16 years old.
+Many of you must have been 16 years old.
+(Laughter) You know, it's that age, there's a lot of problems, everything is tormented.
+And one of them... Suppose my day... I can't wake up myself.
+Ordinary morning.
+My father wakes me and says, "Osman, good morning."
+Who are you going to be? That's okay, okay.
+I'm going to the kitchen.
+Dad puts pebble there and asks, "Osman, who will you be?" He escorts me to school and after: "Learn it well."
+Who are you going to be? You know, this question doesn't bother me for the first day.
+It's been going on for a few years.
+I think my father got his.
+I finally thought about his question.
+It happened a few years ago.
+I decided as an ordinary teenager: well, why should I have parents?
+Why ask them for advice?
+Why do I need relatives and adults?
+Go to your friend.
+I was in the ninth grade somewhere.
+I went to Kolka.
+Kolka is an eleventh grader.
+I'm: Kolka, you're smart, so smart, adult.
+Why don't you help me sometime?
+I have a problem.
+He looked at me with his eyes: I, Osman, smart.
+I can help you.
+You will need intelligence, diligence, hardness, love and alcohol.
+What's that?!
+Why?!
+I was just waiting for alcohol.
+But my father is in the room.
+So I'll miss that topic.
+(Laughter) I hope you understand.
+(Applause) Then the question is: how to solve this problem for myself.
+And [the obvious answer] to me was: let's do this to you to the future.
+I think in five years, literally economists will be the same.
+I'll be rich.
+Everyone in the economists will want.
+Everyone needs economists.
+Economists will rule the world.
+Oh, but!
+How could I say that?
+The world is changing so fast that I don't know what will happen tomorrow.
+Suppose, at the age of six, I could never imagine that people would be able to play their toys, in computers, in anything and make money on it.
+What about now?
+Esportsport, YouTube, it's all evolving, and people make money on it huge money.
+The kids go to computer clubs, they think: "Now I'm going to play out and earn."
+That's how the world has changed.
+Then there's a second way for me - I don't know how he is for you, I'm a worker.
+Then I think: I have a year to learn.
+Daddy's gonna be right, under the 11th grade, and he's gonna say, "Osman, here's a one-room apartment for me."
+Come on.
+We're you canned, you're canned.
+You'll have it, it's okay.
+That's great!
+What the hell is that?
+That's great.
+I'm not gonna have to soar.
+But I'm not that kind of person and I don't want to hang on my parents" neck.
+I think you, too.
+That's why this way is being discarded.
+Then there's a third way for me: to do what I like.
+With this motto, I lived somewhere in class from the first to the sixth, in general.
+(Laughter) Did you know how?
+I'm sitting in the first grade and I think, "Aga!
+Basketball, basketball.
+I'm gonna go play basketball.
+I like it.
+Once I threw it, I threw two.
+It's been a year, I left.
+Oh, man, Osman, you're as low as you were.
+Why do you want this?
+I don't like that at all.
+Damn basketball.
+I thought I'd go to the musician.
+I'll play something on the guitar.
+Soul of the company, all things, as everyone thinks.
+I played for a year. I played two.
+Well, almost three and left.
+Why do I need this?
+I then wanted to.
+I went to some sport again. Swimming, it's kind of.
+And in a year, I literally left it again.
+And for me, that's the problem of this method.
+If I'm gonna throw what I'm doing, what I like now, it's going to be useless in the future.
+And maybe each of you met that.
+I don't know about you, but I don't have the passion of life that I'll be doing forever.
+And then I decided: you need to fundamentally consider this problem.
+How to fundamentally consider the problem?
+Back to childhood.
+Suppose this cube, I hope everyone sees this cube, and we'll call it "Osman."
+He is so good, beautiful, born in 2000.
+What happens to him?
+So, how was that?
+He was a year old, two, three.
+And what's the matter?
+He saw the TV.
+He's sitting on the rug like this, watching TV there.
+Oh, my God!
+Looks at the cartoon "Toy Story," and sees: this is my hero!
+Buzz Light, that's it!
+I want to be Buzz Lighter.
+I'm gonna be Buzz Lighter.
+And at that moment, the cube of his life, the cube of Ostman, turns.
+It takes ten minutes, he's already watching the following cartoon: "Well, wait!
+Looks, oh, wolf, oh, hare.
+I want to protect the rabbits.
+Turned the cube again. Looking another cartoon, the cube turned again. Looking at another cartoon, the cube turned again. And so it continues until the first class, until his sixth birthday.
+And the cube "Osman" goes to school and hears from his friend Petit: "Osman, basketball is cool."
+They make a lot of money.
+They are athletes.
+Go to basketball.
+I think, well, that's great.
+I'm immersed in a cube.
+Then he hears ten minutes later on the next shift from his friend: "No, basketball - it's not high at all, they earn less than the players.
+Let's go to football and the cube turned again. Then his parents were given to the musician.
+The cube turned again. Spinning, spinning, spinning, spinning... It turns to the 11th grade.
+The cube is already dismantled.
+I don't even know how to collect it.
+And you know what's scared?
+I'm in the tenth grade now, and I know what's going to happen in a year.
+I've got a prom.
+All happy, all things, costume... And at some point he'll say, "Osman, go!
+Make money! (Laughter) You're laughing, but what... (Applause) And what does it forbid some general director in the computer program to say: "Well, programmer, go, go.
+Your work is extinct.
+Robots do everything there.
+Go, go! Nothing's stopping.
+We're the same.
+Each of us is at some point, say, A and is afraid that, having moved to point B, his profession will be unclaimed.
+I'm 16 years old, I have time to experiment.
+(Laughter) (Applause) (Approximate excise) And then I thought, "Osman, you have to come up with a brilliant way.
+Something so cool to please you and everyone.
+And at that moment, I was thinking.
+Suppose, in a year, two, maybe four I will get, say, an economic education.
+Do you see the line in front of you?
+It will be an economic education.
+My red diploma, maybe blue I don't know.
+And if I, having finished my university, I will work for several years as an economist, I will turn the same facet.
+I'll spin, spin and swirl to retirement.
+That's it.
+And what will I continue to do?
+I forget about this part of my cube, which was engaged in basketball, swimming, guitar and the like.
+And the topical topic... (Laughter) The actual thing at the moment is - a good example: there were two guys a few years earlier, I don't remember exactly.
+They were engaged, for example, in the economy.
+The same facet was their economical one.
+Their other facet was in neuroscience.
+It was interesting to them. And the other, the third line, was engaged, for example, in psychology.
+And these guys, having combined the three facets of their cube, created a new science as a neuroeconomics that is now developing quickly enough.
+There are new professions, new places.
+People value neuroeconomists, they are in demand, they are needed.
+And so, I'd like to show you that instead of looking for, choosing some profession, you can create your own where you will use every face of your cube as efficiently as possible.
+Realize yourself completely.
+And by creating your profession, you won't have to choose.
+Thank you!
+(Applause)
+In 2012, an event that completely changed my life.
+I was driving in the Moscow subway, and my grandmother was in front of me.
+My grandmother looked me in the eye, after a while she lowered her eyes, then she smiled, got up, and said, "Girl, sit down, you need it, you need a baby.
+I, holding my future baby, got in her place, and that's how I got to the final station.
+On the one hand, nothing strange happened.
+Grandma just gave up a place in the subway to a pregnant girl.
+But in fact, it was completely different, because when I sat in her place, I held not my future child, but 133 burgers, 838 sandwiches, some unrealistic number of pizzas that I just had over the past few years.
+That's how I looked then, a few years ago, and you'll say that it was so terrible in my life that I made myself that.
+In fact, everything in my life was fine.
+By the age of 25, I graduated from the journalism of Moscow State University, I worked in Moscow, was a glossy journalist.
+I talked to all the stars from Keanu Reeves to Alla Pugacheva, I had my own program.
+And my last place of work was the project "Top-model in Russian," which was led by Ksenia Sobchak.
+As part of this project, we went to New York, Miami, London, everything was just wonderful, but inside I constantly felt like it wasn't my life.
+And I'm always feeling as if my real life hasn't started.
+And then, after this cult grandmother gave me a place on the subway, I just packed up and went to my hometown of Ufa.
+There I have been looking for myself for several years, as it is customary to say, I searched for myself, conducted research, slender, completely changed my attitude to life.
+I lost weight, got rid of bad habits and now I help other people to achieve personal changes in various areas.
+And now I want to tell you how to take this first step, the most difficult step.
+Sociologists interviewed 12,000 people aged 65 to 70, and they were asked one simple question: what do you most regret in life?
+And it turned out that all people at the end of life regret the same things.
+Let's take a look at the rating of regrets.
+So, all people regret that they worked on an unloved job, lived with unloved people, traveled little, played little sports and malnourished.
+Note that no one regrets that he did not drink a little or posted little photos on social networks.
+No one regrets that he posted not enough photos of food in the instagram or that he jumped with a parachute.
+Everyone regrets the same things.
+Only about what was not the courage or the strength to change your life and start living the life we want.
+I have singled out for myself the two main things that prevent us from starting this new life.
+Waiting for a miracle and fear.
+As for the expectation of a miracle: in my past life, despite the fact that I had everything beautiful, I had such a dream.
+I dreamed that at one point in my life someone would call, I would open the door, there will be a beautiful young man who came to Bugatti, and he will tell me: I am a courier from the fund of Mikhail Prokhorov.
+Michael found out that you are a terribly talented person, and anonymously he gave you 5 million rubles: this is your search for yourself.
+Do not refuse anything: buy a card to the fitness club, go somewhere to the islands, do what you want, just because you are so talented, don't do it, says the courier, sits in Bugatti and goes to the sunset.
+I went for several years, thought that this courier would come to me or someone in a blue helicopter would arrive, although in Russia, it is known, only Shoigu is flying in a blue helicopter, and only in emergency situations.
+No one came to me.
+I even came up with an alter ego that lives with each of us. This man's name is Breakfast, he looks something like that. This is the Superman who lives in us, he is ready to do whatever he wants, he is ready to conquer the world, but tomorrow.
+Tomorrow, you go shopping with us, he picks up sneakers because we want to start running tomorrow morning, naturally.
+But for these sneakers, Tomorrowman came up with his insidious plan: he has already found the darkest, dusty corner in the closet for these sneakers.
+And the next morning, when we're just going to take this first step and start our new life, he's in the morning, gently hugging us for the stomach, says, "Listen, come on tomorrow!" And so our life goes by day after day, and then we are 70 years old, we find that we worked for 40 years in an unloved job, that we lived with an unloved person, that we have cholesterol plaques on our heart and that in principle, of the main achievements of our lives, only that we have 123 .
+That's it.
+So, about fear: I really like the idea that businessman George Eddeir expressed.
+He said, "Everything you need is on the other side of fear.
+Between your real life, the one you want to live, and the life you live now is the abyss.
+And the only way to overcome this abyss is to believe in the result.
+And in order to believe in the result, you need to take a step into this abyss.
+No one I know has succeeded without this step in the abyss.
+It needs to be done, and we're all afraid.
+When I left Moscow, I had a very great fear, as were many people who had early success.
+I had a fear that I would run out of money.
+In general, in our world it is not customary to say that you do not have money, because if you're 25 and you don't have money, you're a little loser.
+I was so scared that I would run out of money.
+And they're really over.
+But at some point I realized that no one died, no one got sick with consumption, nothing terrible happened.
+I just learned to go to the store with my bags, to change the stuffing on my own on shoes.
+And it was just beautiful!
+I was just looking for what I love to do.
+So, how to take the first step to a new life?
+For me, the perfect metaphor for change is a golf ball.
+What's so noteworthy, golf ball?
+If at the beginning of his trajectory he deviates literally by a millimeter, then by the end of its trajectory it can reach a curvature of several meters.
+Similarly, a person does not need to make some grandiose changes in order to get a brilliant new life in a certain amount of time.
+It is enough for a person to take a small creative step in order to get 100% of the changes in a year.
+One of my acquaintances had that problem.
+He was 34 years old, he had a collapsed business, his wife left him, and he, as he himself says, fell so down that he even stopped brushing his teeth.
+And at some point, he decided that you need to start doing something, at least something creative in order to get up from this bottom.
+And then he decided for himself: "I'll just brush my teeth normally in the morning and evening."
+And he started brushing his teeth.
+Then the forces behind these teeth came to do the exercises.
+Then he began to read books that he did not like to read.
+He had a new environment behind these books.
+And in the end, the new environment led to the fact that he rebuilt the business, found a new wife and was very happy.
+Sociologists conducted a survey and found out that two hours [per week], on average, an adult spends in thoughts that in life it was necessary to do something different.
+I mean, two hours a week we think we're losers.
+If you use at least these two hours to take a step to a new life, you can achieve amazing results.
+For example, the author of the novel "Gone with the Wind" Margaret Mitchell wrote her novel for 10 years.
+She was just recording "Gone with the wind" on some napkins, pieces of paper that she came to her hand.
+Ten years later, she had a huge pile of these papers.
+From these papers, they then made this novel, which became a classic.
+Abraham Lincoln had no money to go to school.
+He was a guard in the warehouse.
+He also studied law with some tricks, and you know the end of this story: he became one of the most famous statesmen.
+It was the same with me.
+I just decided to give an hour a day to understand what I wanted to do.
+All the rest of the time I was idle, just walking, reading books, talking to people.
+And after six months of such a pastime, I realized that I like to inspire people, to read and write books, I realized that I'm doing well.
+I didn't think how to make money on this, I just started a group of "Vkontakte."
+Of course, I still thought that I would call from the Mikhail Prokhorov Foundation sometime, but this did not happen.
+I am sure that each of us is a natural resource.
+And if you have the talent of a brilliant comedian, but you sit somewhere in the office and make an investment report, then from the point of view of nature you are a bad natural resource, and most likely you can not wait for the support of the world.
+Only by doing what you love - I am absolutely sure of it - you can succeed.
+So, in the end, I was just leading this group "Vkontakte," and one day they called my door, it was not a courier from the Mikhail Prokhorov Foundation, they were acquaintances of my acquaintances.
+They said to me, "Listen, you've built, you've started your group, you write something there, you write about it periodically.
+And let's gather 15 people, tell them, please, how you started to do it all, how did you do it.
+I'm saying, "Let's say, "Let's say, because it was a wonderful chance for me because it's almost the whole world. And we gathered 15 people, and then we gathered again 15 people, and then again 15 people.
+And one of these 15 people came to me and said, "Listen, I like what you say.
+Let's get 150 people! I'm saying, "Let's get 150 people!" And we gathered 150 people, we talked to them about the changes, we talked to them about how to take the first step, how to maintain fire in order to move to a new life.
+And then we got 250 people and 250 more, and then I was invited to TEDx.
+I don't know how it works, really!
+I don't know how the universe works.
+I don't know why this is happening.
+All I know is that if you follow your heart, it'll be fine.
+I know that a courier will never call our door, he won't offer money.
+I know that there are no miracles except what we create ourselves.
+And I know that many of you are now on the edge of the abyss that your real life is ahead of.
+And the only way to not regret at the end of life is to believe and jump.
+Take that step.
+(Applause)
+Your education, regardless of your age.
+I'll start with this: when the first time the radius of the earth was calculated?
+When is it about?
+When are the events?
+The Middle Ages, 1840, thousands 2 years ago.
+A very strong audience, usually the first version, of course, when Gagarin flew into space.
+Notice that there is reasonableness in this version, why?
+It's as if I look at something from the outside, I can explore it.
+Therefore, of course, when Gagarin flew, we were finally able to see our Earth from the outside.
+Naturally, it's not true, otherwise he wouldn't have flew.
+Then the 18th century, 17, did not know what they are attached to.
+Usually associated with around the world travel of the 15th century - also logical.
+What do we think?
+If you do something from all sides, touch from all sides, you can find out, and it is logical.
+That is, we want to explore something, to spin it from all sides, to look, to get around.
+But, it turns out, it was done much earlier, by some Erathnestheansky of Kiren, in the third century BC.
+That is, it is not that he did not fly into space.
+This is what his map looked like: what do we see?
+That's all he knew about the earth.
+I'll give him your applause, he deserves it.
+See: The Mediterranean Sea, a little Europe, Asia quite a little, Africa fragments, Australia rests, America does not.
+And look, there is a little man sitting for himself, she knows nothing about the world, but somehow he takes, thinks and calculates the radius of the Earth so accurately... Now we know, or rather, but for that time is absolutely incredible, the third century BC!
+A key mystery is that someone can, he could, and most of us can't.
+That's what, in my opinion, is the challenge.
+What's he got to do with?
+Note, when we are engaged in education, mostly in school, at the university, we study someone: here were smart uncles, they did something, and we are studying them.
+It means that we can only be second, we have no chance to be first, because we study them, we're always second.
+This is a very sad thesis, if we get an education the way we get it, we are guaranteed to be the second.
+I hope some of you want to try and train yourself first.
+What is the principled thesis?
+To try to be the first, like Eratosthenes of Kiren, you need to act where no one inherited, where no one has ever inherited, where there was no yet clever uncle, otherwise you're just the second one, you're running after them.
+I want to talk about the project group "Educational extreme," I have been doing this for about 20 years.
+The most active points now: Krasnoyarsk, Tomsk, Novosibirsk, Moscow.
+I will now tell you only about one line, generally speaking, there are many projects.
+The key thesis is as follows: education will take place only when you go to the border of your capabilities, and sometimes even on the boundary of the possibilities of this cultural sphere that you are engaged in.
+This is education, and everything else is called chasing someone.
+So, if we work with our world, explore it somehow, train his gyrus, then in it, unfortunately, too much inherited.
+Here Eratostheven Kirensky has already done, and now you can read, by the way, I recommend reading how he did it, even to thoroughly understand.
+That's in Google.
+But even just reading what is written there, to imagine how it was done in detail - little will not seem, I highly recommend.
+We don't have to work with those worlds that are already treated by smart uncles.
+We need to train, we need to build tasks about possible worlds, these are the so-called Noogenous tasks.
+I want to show some examples and show you how to train themselves.
+So, the task: to build a flat world in the surface of the cube.
+I took my friend's cube in the morning, I mean, she's got a baby small.
+So we can imagine a cube. Not on him someone walks, it's not interesting, you live in its surface.
+Imagine yourself as a scientist of this world, there is a lot of things in the world, there may be natural objects, trees, maybe grow, some creatures: smart, brainless, different, and you are such a clever scientist.
+Now, look, it is very important: the scientist is small, and the world is huge.
+Imagine, the radius of the Earth, as our famous ancestor, 6400 calculated, about, total width, diameter closer to 13 thousand.
+How many times is our planet bigger than a tall man?
+I hear the right numbers: many millions, 6-7 million.
+It is fundamental that the man is very small, the world is huge, it can not quickly escape, look beyond the corner, how to see the house, no, the world is huge.
+You're a scientist, you live in it.
+Can you learn how to measure distance?
+You're not looking from above, you're crawling over there inside, can you enter time, guides.
+Somebody here, again, once thought about it to the east, the west; we still use it.
+How did he think?
+Try it, get in.
+Let's go, how are we going to be oriented there?
+It's very difficult, because when we all studied in school, it seemed so elementary that it didn't even happen to mind.
+More complex questions: can this scientist know that the world has a cubic form?
+However, he can't escape to see.
+There may be a force of gravity, he does not go anywhere from here, like Eratosthenes of Kirensky - he did not fly anywhere, even did not swim.
+Can he do that?
+Can he build a map?
+And, look, the map is not visible from here, but, you are flat inside, and, how do you see the world?
+With segments, one-dimensional, and so the map you can build is probably one-dimensional.
+How can it be built?
+When you begin to solve this problem, all household thinking comes out, you will learn a lot about yourself if you solve.
+What do I mean by household thinking?
+Do you know such a joke?
+- Dad, what's closer, the Moon or Zhytomyr?
+- What's soma, what's complicated?
+Come to the window, you see the moon?
+I see.
+- And Zhytomyr?
+This is the everyday thinking: what I see, that's true.
+The professional thinks otherwise.
+Very rarely now in our very difficult time the truth is obvious.
+I see the moon, I do not see Zhytomyr, but Zhytomyr is closer, this is a very strange fact.
+So try to build a map.
+Do you know what a map is?
+I think everyone is sitting and thinking, "Ha, five minutes" for five hours.
+You will see if you build a map that there are no key requirements for the map: there is no large-scale grid, no landmark system.
+We conduct a polygon, immediately give this map to which traveler, and say: "Go."
+The traveler dies in five minutes because, as a rule, the map is not tied to the terrain.
+And it turns out: what we study in school, it is understandable, but as soon as you transfer knowledge to this world, it turns out that we do not understand anything.
+By the way, by the way, the map.
+Now in many areas of activity there is this word: a map of the business processes of the enterprise, a map of competence, a map of resources, now a lot of such words arise.
+Have you tried to check: there is a map or list?
+Is this a business process map or, sorry, a scheme or a picture?
+The map is the greatest instrument of humanity, and most of our so-called "art" does not catch up with these maps.
+We usually have lists.
+Take it off, it's very interesting.
+We are now very spoiled by the fact that we can fly and see from above, it turns off thinking.
+We think that "cart" is when you look at it from above, the brains rest and send greetings.
+Eratostheven of Kirensky, unable to see from above, unable to wrap around the corner, could.
+Therefore, it is on such simple toys you can train the opportunity to open something that is incredibly larger than you, you are turned on inside, and, it would seem, you can not see anything, but you can.
+For the humanists.
+You know that fairy tales and legends are also special here.
+We solve the problem by groups: young children, big children and even adults.
+The most interesting, of course, to decide the composition from 7 years to 60.
+Most of the restrictions are related, rather, to the sixty than the family.
+This is what Arthur says, this is the adult man, solving such a task: when you graduate from school, university and start working, the variety of your tasks is incredibly narrowed.
+Yeah, you're cool, you're solving these problems very well, but that's how many of them are.
+And so, when you see this task, you just find out that you have long forgotten how to do it, and maybe never knew.
+Therefore, it does not matter what age, little does not seem.
+Migm comes out of everyday thinking, we find out, we see the moon or Zhytomyr.
+And an adult, as it claims, again, a successful businessman, in general, you should sometimes move these grounds, to which you have long been accustomed.
+I'll give some more examples of tasks.
+For psychologists, sociologists, lovers of the theory of generations, about the digital generation; a very interesting task.
+We trained, tested, collected three generations, checked: can the next generation be twice smarter?
+I found out: not yet, we have ten more years, but no more, it seems.
+The task is quite old, solving this problem, you can reach Alexander Auzan's lecture on economics.
+As a rule, the property is additive, that is, it consists of pieces.
+What does that mean?
+If I have 100 rubles, then if I give you 5 rubles, then I will have less, and therefore I will not give.
+And while the property is this, it is very difficult for us to transfer: I will not give a penny to your tower, I will have less.
+But there is information and knowledge that relates to non-addictive property, but it is often disposed of as additive property.
+I'm interrupting in this place, you'll ask, it's very interesting to solve it.
+Now look, gentlemen are professionals, as far as I understand, there are no schoolchildren in the hall, people are working here.
+Yes, sir.
+Schoolgirls, we've already talked about you.
+So, working: you work someone, you do something; in every field of activity there is a reason.
+How can you understand these bases deeply, and even better, for example, expand, overturn, and make them innovative.
+If you mess, again, with what you have already created, you will be the second.
+Maybe catch up someday.
+If you formulate such tasks in the field of activity, and solve a fun company, you will get a lot of really innovative moves.
+Because such tasks make us work with the basis of concepts.
+Not superficial: the bow tie, rename, and with bases.
+That's a tough thesis.
+Every professional should solve such problems in his field of activity once a year, then he has brains, which is called pumped.
+We recently solved the task of managing personnel with representatives of small businesses.
+Normally, quickly open some moves that do not come to mind, if you just sit and think about the management of personnel.
+A few recommendations before you go to assemble companies.
+As soon as you start doing this, you want to read the books.
+I hope you read about Eratosthenes of Kirensky.
+There is such a good game of the ancestor's day, it's interesting to dig up directly, how someone in your field did it for the first time, what is it all about?
+Everyone looked at the window, and no one strained: the sun is small, the Earth is large, what is Copernicus at all strained?
+You can see.
+Look at the window: the sun is small, the Earth is large.
+The sun walks, the earth stands.
+Why is Copernicus tense?
+What didn't suit him?
+I was happy with everyone.
+By the way, read the objections he received, they are very funny.
+At this point, a very good interest in our ancestors, who in your field have done something there begins.
+If we just read about them, we don't go deep, and when we do this, we dig to the depths.
+Then, it's important to have mirrors, what does that mean?
+When we go to school, we have a teacher, their task is to make a mirror: "Young man there, or no."
+And when we become adults, we have a superior as such a mirror, which also says: "Young or not."
+But if our boss is the only mirror, it means we don't have a chance of being cooler than a boss.
+And even more so, there is no chance to come up with something that the boss does not know.
+That is, you are obviously not just the second, but the 25th.
+We need other mirrors.
+One of our projects is the Mathematical Games Series: Teenagers play math games, and then go and spend in preschoolers.
+We are working with Tomsk School of Eureka Development and the Tomsk Montessori Kindergarten.
+So, a teenager, 5th grade, went off, held a mathematical game with preschoolers, returns the next day to school and says in a lesson so tense: you can't understand that," he says, "I was yesterday in kindergarten and I saw that these schools are well considered, and they have no mathematics lessons, I found out, and I have a math for 5 years.
+What have I spent these five years on?
+I guess I think better than them.
+If the numbers were big, the numbers would be big, I'd be faster, but it's five years to spend - it's stupid.
+Look, where did the guy have that question?
+He studied himself, studied.
+Because he saw a mirror, he went to these vecks, who didn't even have math lessons, and found out that they were so. So, in order to see the real mirrors and find out what you learn, as this guy: I've been working in this field for five years, and I'm now able to.
+Try, call for this to the company of the younger, the elders, yours, others, those who read, those who have not read.
+You will know much more about yourself, about your brains, and about the sphere from which you want to experiment.
+And the common atmosphere.
+This should be done without fanaticism, fun.
+We often in these tasks give the task to play a scene, to conduct a testing ground.
+For example, this is the task of a generation that is twice as wise as another generation.
+We asked each group to develop their own idea of reason, then to come up with how to measure it, and then conduct an experiment on another group.
+Accurately, I had a group of little girls of 8-9 years, we came to the lot of elephant 18-year-olds - Olympiads, guys, and we should check them.
+My girls were not embarrassed at all, they said, "The boys, we will check your brains now, we understand by the brains that.
+It turned out that, in their view, the guys are very bad.
+What are the guys looking at so much, said: "What's okay is that we're an Olympiad?
+We're very cool.
+And the girl calmly says to them, "You know, you really think that when you solve the Olympiad problems, you are very smart? The guy got in, he went a week and thought, "I'm really an Olympiad, is it enough or something to swing? I mean, brains.
+If it's fun, you're shaking yourself, the bows are kind of unleashed.
+We looked here, they looked here.
+Therefore, the company needs fun, and you can do scenes, you can make films about the worlds that you build, you can make polygons, you can have fun on yourself, it is very interesting.
+Subtotal.
+Train your own thinking to try to be the first in the field in which you work.
+To do this, in my opinion, you need to try yourself in those worlds in which they have not yet inherited.
+Take your field of activity, highlight the grounds, formulate such a paradoxical task and solve a fun company, without fanaticism, fun.
+And, as Baron Munchausen says, a thinking person is simply obliged to stretch himself by the hair from time to time.
+I wish you success.

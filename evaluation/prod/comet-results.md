@@ -48,367 +48,48 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ## avg
 
-| Translator/Dataset | cs-en | en-et | en-it | fr-en | en-pt | et-en | nb-en | bg-en | en-es | en-bg | en-cs | de-en | it-en | pl-en | en-fr | en-pl | pt-en | es-en | en-de |
+| Translator/Dataset | en-pt | pt-en | en-bg | nb-en | it-en | en-et | fr-en | en-de | es-en | en-it | en-pl | en-es | pl-en | en-fr | et-en | bg-en | de-en | en-cs | cs-en |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.48 | 0.86 | 0.68 | 0.59 | 0.86 | 0.60 | 0.64 | 0.68 | 0.61 | 0.80 | 0.61 | 0.49 | 0.62 | 0.56 | 0.56 | 0.66 | 0.75 | 0.55 | 0.51 |
-| google | 0.61 (+0.13, +26.78%) | 1.07 (+0.21, +24.57%) | 0.76 (+0.08, +12.35%) | 0.65 (+0.06, +10.69%) | 0.93 (+0.06, +7.42%) | 0.77 (+0.17, +28.18%) | 0.81 (+0.17, +26.28%) | 0.75 (+0.07, +10.49%) | 0.69 (+0.09, +14.08%) | 0.88 (+0.09, +10.75%) | 0.83 (+0.22, +35.44%) | 0.61 (+0.11, +22.99%) | 0.68 (+0.06, +10.18%) | 0.66 (+0.09, +16.81%) | 0.67 (+0.11, +20.19%) | 0.82 (+0.17, +25.52%) | 0.80 (+0.05, +6.85%) | 0.62 (+0.07, +11.99%) | 0.60 (+0.09, +17.91%) |
-| microsoft | 0.62 (+0.14, +27.97%) | 1.05 (+0.19, +22.64%) | 0.76 (+0.09, +12.87%) | 0.67 (+0.08, +13.12%) | 0.91 (+0.05, +5.54%) | 0.74 (+0.14, +23.46%) | 0.81 (+0.16, +25.57%) | 0.73 (+0.05, +7.05%) | 0.70 (+0.09, +14.92%) | 0.86 (+0.07, +8.17%) | 0.84 (+0.23, +37.82%) | 0.63 (+0.13, +26.85%) | 0.68 (+0.06, +10.18%) | 0.66 (+0.10, +17.36%) | 0.69 (+0.13, +23.23%) | 0.80 (+0.14, +21.56%) | 0.79 (+0.05, +6.20%) | 0.63 (+0.08, +13.82%) | 0.61 (+0.10, +20.20%) |
+| bergamot | 0.86 | 0.75 | 0.80 | 0.64 | 0.62 | 0.86 | 0.59 | 0.52 | 0.55 | 0.68 | 0.66 | 0.61 | 0.57 | 0.56 | 0.60 | 0.68 | 0.50 | 0.62 | 0.49 |
+| google | 0.93 (+0.06, +7.40%) | 0.80 (+0.05, +6.71%) | 0.88 (+0.09, +10.76%) | 0.81 (+0.17, +25.95%) | 0.68 (+0.06, +9.86%) | 1.07 (+0.21, +24.32%) | 0.65 (+0.06, +10.61%) | 0.60 (+0.09, +16.84%) | 0.62 (+0.06, +11.72%) | 0.76 (+0.08, +11.99%) | 0.82 (+0.16, +24.51%) | 0.69 (+0.08, +12.88%) | 0.66 (+0.09, +16.30%) | 0.67 (+0.11, +20.08%) | 0.77 (+0.17, +27.59%) | 0.75 (+0.07, +10.49%) | 0.61 (+0.11, +22.61%) | 0.83 (+0.21, +34.06%) | 0.61 (+0.13, +26.01%) |
+| microsoft | 0.91 (+0.05, +5.52%) | 0.79 (+0.05, +6.06%) | 0.86 (+0.07, +8.18%) | 0.81 (+0.16, +25.25%) | 0.68 (+0.06, +9.86%) | 1.05 (+0.19, +22.39%) | 0.67 (+0.08, +13.04%) | 0.61 (+0.10, +19.11%) | 0.63 (+0.07, +13.54%) | 0.76 (+0.08, +12.50%) | 0.80 (+0.14, +20.59%) | 0.70 (+0.08, +13.71%) | 0.66 (+0.10, +16.85%) | 0.69 (+0.13, +23.12%) | 0.74 (+0.14, +22.89%) | 0.73 (+0.05, +7.05%) | 0.63 (+0.13, +26.46%) | 0.84 (+0.22, +36.42%) | 0.62 (+0.13, +27.19%) |
 
 ![Results](img/avg-comet.png)
 ---
 
-## cs-en
-
-| Translator/Dataset | wmt17 | wmt22 | wmt08 | flores-test | wmt20 | wmt15 | wmt18 | wmt09 | wmt14 | wmt16 | wmt11 | wmt12 | wmt10 | wmt21 | flores-dev | wmt13 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.45 | 0.55 | 0.37 | 0.65 | 0.35 | 0.49 | 0.48 | 0.43 | 0.57 | 0.48 | 0.41 | 0.42 | 0.44 | 0.47 | 0.65 | 0.50 |
-| google | 0.58 (+0.13, +28.12%) | 0.70 (+0.15, +27.55%) | 0.52 (+0.15, +41.56%) | 0.77 (+0.11, +17.45%) | 0.51 (+0.16, +46.19%) | 0.62 (+0.13, +26.40%) | 0.59 (+0.11, +23.27%) | 0.56 (+0.13, +30.83%) | 0.70 (+0.13, +22.40%) | 0.62 (+0.14, +28.50%) | 0.53 (+0.12, +29.26%) | 0.54 (+0.12, +28.77%) | 0.57 (+0.13, +29.95%) | 0.60 (+0.13, +27.51%) | 0.76 (+0.10, +15.71%) | 0.61 (+0.12, +23.25%) |
-| microsoft | 0.57 (+0.13, +28.01%) | 0.72 (+0.17, +30.46%) | 0.52 (+0.15, +41.59%) | 0.76 (+0.11, +16.30%) | 0.50 (+0.16, +44.44%) | 0.63 (+0.14, +27.93%) | 0.60 (+0.12, +25.68%) | 0.57 (+0.14, +32.48%) | 0.72 (+0.14, +24.79%) | 0.62 (+0.14, +28.46%) | 0.56 (+0.15, +35.20%) | 0.56 (+0.14, +33.29%) | 0.58 (+0.14, +30.79%) | 0.59 (+0.12, +24.74%) | 0.75 (+0.10, +14.95%) | 0.63 (+0.14, +27.56%) |
-
-![Results](img/cs-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt17.cs-en](cs-en/wmt17.cs-en.cometcompare)
-- wmt17.microsoft.en outperforms wmt17.bergamot.en.
-- wmt17.google.en outperforms wmt17.bergamot.en.
-
-#### [wmt22.cs-en](cs-en/wmt22.cs-en.cometcompare)
-- wmt22.microsoft.en outperforms wmt22.bergamot.en.
-- wmt22.google.en outperforms wmt22.bergamot.en.
-- wmt22.microsoft.en outperforms wmt22.google.en.
-
-#### [wmt08.cs-en](cs-en/wmt08.cs-en.cometcompare)
-- wmt08.microsoft.en outperforms wmt08.bergamot.en.
-- wmt08.google.en outperforms wmt08.bergamot.en.
-
-#### [flores-test.cs-en](cs-en/flores-test.cs-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.microsoft.en.
-
-#### [wmt20.cs-en](cs-en/wmt20.cs-en.cometcompare)
-- wmt20.microsoft.en outperforms wmt20.bergamot.en.
-- wmt20.google.en outperforms wmt20.bergamot.en.
-
-#### [wmt15.cs-en](cs-en/wmt15.cs-en.cometcompare)
-- wmt15.microsoft.en outperforms wmt15.bergamot.en.
-- wmt15.google.en outperforms wmt15.bergamot.en.
-
-#### [wmt18.cs-en](cs-en/wmt18.cs-en.cometcompare)
-- wmt18.microsoft.en outperforms wmt18.bergamot.en.
-- wmt18.google.en outperforms wmt18.bergamot.en.
-- wmt18.microsoft.en outperforms wmt18.google.en.
-
-#### [wmt09.cs-en](cs-en/wmt09.cs-en.cometcompare)
-- wmt09.microsoft.en outperforms wmt09.bergamot.en.
-- wmt09.google.en outperforms wmt09.bergamot.en.
-- wmt09.microsoft.en outperforms wmt09.google.en.
-
-#### [wmt14.cs-en](cs-en/wmt14.cs-en.cometcompare)
-- wmt14.microsoft.en outperforms wmt14.bergamot.en.
-- wmt14.google.en outperforms wmt14.bergamot.en.
-- wmt14.microsoft.en outperforms wmt14.google.en.
-
-#### [wmt16.cs-en](cs-en/wmt16.cs-en.cometcompare)
-- wmt16.microsoft.en outperforms wmt16.bergamot.en.
-- wmt16.google.en outperforms wmt16.bergamot.en.
-
-#### [wmt11.cs-en](cs-en/wmt11.cs-en.cometcompare)
-- wmt11.microsoft.en outperforms wmt11.bergamot.en.
-- wmt11.google.en outperforms wmt11.bergamot.en.
-- wmt11.microsoft.en outperforms wmt11.google.en.
-
-#### [wmt12.cs-en](cs-en/wmt12.cs-en.cometcompare)
-- wmt12.microsoft.en outperforms wmt12.bergamot.en.
-- wmt12.google.en outperforms wmt12.bergamot.en.
-- wmt12.microsoft.en outperforms wmt12.google.en.
-
-#### [wmt10.cs-en](cs-en/wmt10.cs-en.cometcompare)
-- wmt10.microsoft.en outperforms wmt10.bergamot.en.
-- wmt10.google.en outperforms wmt10.bergamot.en.
-
-#### [wmt21.cs-en](cs-en/wmt21.cs-en.cometcompare)
-- wmt21.microsoft.en outperforms wmt21.bergamot.en.
-- wmt21.google.en outperforms wmt21.bergamot.en.
-- wmt21.google.en outperforms wmt21.microsoft.en.
-
-#### [flores-dev.cs-en](cs-en/flores-dev.cs-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-
-#### [wmt13.cs-en](cs-en/wmt13.cs-en.cometcompare)
-- wmt13.microsoft.en outperforms wmt13.bergamot.en.
-- wmt13.google.en outperforms wmt13.bergamot.en.
-- wmt13.microsoft.en outperforms wmt13.google.en.
-
----
-
-## en-et
-
-| Translator/Dataset | flores-dev | wmt18 | flores-test |
-| --- | --- | --- | --- |
-| bergamot | 0.86 | 0.83 | 0.87 |
-| google | 1.09 (+0.23, +26.39%) | 1.03 (+0.20, +23.75%) | 1.07 (+0.20, +23.56%) |
-| microsoft | 1.06 (+0.20, +22.76%) | 1.02 (+0.18, +22.12%) | 1.07 (+0.20, +23.04%) |
-
-![Results](img/en-et-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-dev.en-et](en-et/flores-dev.en-et.cometcompare)
-- flores-dev.microsoft.et outperforms flores-dev.bergamot.et.
-- flores-dev.google.et outperforms flores-dev.bergamot.et.
-- flores-dev.google.et outperforms flores-dev.microsoft.et.
-
-#### [wmt18.en-et](en-et/wmt18.en-et.cometcompare)
-- wmt18.microsoft.et outperforms wmt18.bergamot.et.
-- wmt18.google.et outperforms wmt18.bergamot.et.
-- wmt18.google.et outperforms wmt18.microsoft.et.
-
-#### [flores-test.en-et](en-et/flores-test.en-et.cometcompare)
-- flores-test.microsoft.et outperforms flores-test.bergamot.et.
-- flores-test.google.et outperforms flores-test.bergamot.et.
-
----
-
-## en-it
-
-| Translator/Dataset | flores-test | wmt09 | flores-dev |
-| --- | --- | --- | --- |
-| bergamot | 0.68 | 0.64 | 0.70 |
-| google | 0.78 (+0.10, +14.43%) | 0.72 (+0.07, +11.31%) | 0.78 (+0.08, +11.28%) |
-| microsoft | 0.78 (+0.10, +14.07%) | 0.73 (+0.09, +13.86%) | 0.78 (+0.08, +10.79%) |
-
-![Results](img/en-it-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.en-it](en-it/flores-test.en-it.cometcompare)
-- flores-test.microsoft.it outperforms flores-test.bergamot.it.
-- flores-test.google.it outperforms flores-test.bergamot.it.
-
-#### [wmt09.en-it](en-it/wmt09.en-it.cometcompare)
-- wmt09.microsoft.it outperforms wmt09.bergamot.it.
-- wmt09.google.it outperforms wmt09.bergamot.it.
-- wmt09.microsoft.it outperforms wmt09.google.it.
-
-#### [flores-dev.en-it](en-it/flores-dev.en-it.cometcompare)
-- flores-dev.microsoft.it outperforms flores-dev.bergamot.it.
-- flores-dev.google.it outperforms flores-dev.bergamot.it.
-
----
-
-## fr-en
-
-| Translator/Dataset | wmt08 | flores-test | mtedx_test | wmt15 | iwslt17 | wmt09 | wmt14 | wmt11 | wmt12 | wmt10 | flores-dev | wmt13 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.44 | 0.77 | 0.62 | 0.56 | 0.67 | 0.50 | 0.64 | 0.51 | 0.50 | 0.53 | 0.77 | 0.58 |
-| google | 0.52 (+0.09, +19.65%) | 0.82 (+0.05, +6.04%) | 0.69 (+0.07, +11.22%) | 0.66 (+0.10, +17.10%) | 0.71 (+0.04, +5.84%) | 0.57 (+0.07, +13.97%) | 0.71 (+0.06, +9.51%) | 0.57 (+0.06, +11.60%) | 0.55 (+0.05, +10.25%) | 0.61 (+0.08, +15.85%) | 0.82 (+0.05, +6.94%) | 0.63 (+0.04, +7.32%) |
-| microsoft | 0.53 (+0.10, +22.35%) | 0.82 (+0.05, +6.45%) | 0.69 (+0.07, +11.77%) | 0.66 (+0.10, +17.71%) | 0.73 (+0.06, +8.36%) | 0.58 (+0.08, +16.90%) | 0.72 (+0.08, +12.36%) | 0.60 (+0.09, +17.14%) | 0.58 (+0.08, +16.77%) | 0.63 (+0.10, +18.76%) | 0.82 (+0.05, +7.03%) | 0.65 (+0.07, +11.46%) |
-
-![Results](img/fr-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt08.fr-en](fr-en/wmt08.fr-en.cometcompare)
-- wmt08.microsoft.en outperforms wmt08.bergamot.en.
-- wmt08.google.en outperforms wmt08.bergamot.en.
-- wmt08.microsoft.en outperforms wmt08.google.en.
-
-#### [flores-test.fr-en](fr-en/flores-test.fr-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-
-#### [mtedx_test.fr-en](fr-en/mtedx_test.fr-en.cometcompare)
-- mtedx_test.microsoft.en outperforms mtedx_test.bergamot.en.
-- mtedx_test.google.en outperforms mtedx_test.bergamot.en.
-
-#### [wmt15.fr-en](fr-en/wmt15.fr-en.cometcompare)
-- wmt15.microsoft.en outperforms wmt15.bergamot.en.
-- wmt15.google.en outperforms wmt15.bergamot.en.
-
-#### [iwslt17.fr-en](fr-en/iwslt17.fr-en.cometcompare)
-- iwslt17.microsoft.en outperforms iwslt17.bergamot.en.
-- iwslt17.google.en outperforms iwslt17.bergamot.en.
-- iwslt17.microsoft.en outperforms iwslt17.google.en.
-
-#### [wmt09.fr-en](fr-en/wmt09.fr-en.cometcompare)
-- wmt09.microsoft.en outperforms wmt09.bergamot.en.
-- wmt09.google.en outperforms wmt09.bergamot.en.
-- wmt09.microsoft.en outperforms wmt09.google.en.
-
-#### [wmt14.fr-en](fr-en/wmt14.fr-en.cometcompare)
-- wmt14.microsoft.en outperforms wmt14.bergamot.en.
-- wmt14.google.en outperforms wmt14.bergamot.en.
-- wmt14.microsoft.en outperforms wmt14.google.en.
-
-#### [wmt11.fr-en](fr-en/wmt11.fr-en.cometcompare)
-- wmt11.microsoft.en outperforms wmt11.bergamot.en.
-- wmt11.google.en outperforms wmt11.bergamot.en.
-- wmt11.microsoft.en outperforms wmt11.google.en.
-
-#### [wmt12.fr-en](fr-en/wmt12.fr-en.cometcompare)
-- wmt12.microsoft.en outperforms wmt12.bergamot.en.
-- wmt12.google.en outperforms wmt12.bergamot.en.
-- wmt12.microsoft.en outperforms wmt12.google.en.
-
-#### [wmt10.fr-en](fr-en/wmt10.fr-en.cometcompare)
-- wmt10.microsoft.en outperforms wmt10.bergamot.en.
-- wmt10.google.en outperforms wmt10.bergamot.en.
-- wmt10.microsoft.en outperforms wmt10.google.en.
-
-#### [flores-dev.fr-en](fr-en/flores-dev.fr-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-
-#### [wmt13.fr-en](fr-en/wmt13.fr-en.cometcompare)
-- wmt13.microsoft.en outperforms wmt13.bergamot.en.
-- wmt13.google.en outperforms wmt13.bergamot.en.
-- wmt13.microsoft.en outperforms wmt13.google.en.
-
----
-
 ## en-pt
 
-| Translator/Dataset | flores-test | flores-dev |
+| Translator/Dataset | flores-dev | flores-test |
 | --- | --- | --- |
-| bergamot | 0.86 | 0.87 |
-| google | 0.92 (+0.06, +7.44%) | 0.93 (+0.06, +7.41%) |
-| microsoft | 0.91 (+0.05, +6.19%) | 0.91 (+0.04, +4.89%) |
+| bergamot | 0.87 | 0.86 |
+| google | 0.93 (+0.06, +7.48%) | 0.92 (+0.06, +7.32%) |
+| microsoft | 0.91 (+0.04, +4.96%) | 0.91 (+0.05, +6.08%) |
 
 ![Results](img/en-pt-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.en-pt](en-pt/flores-test.en-pt.cometcompare)
-- flores-test.microsoft.pt outperforms flores-test.bergamot.pt.
-- flores-test.google.pt outperforms flores-test.bergamot.pt.
-- flores-test.google.pt outperforms flores-test.microsoft.pt.
-
 #### [flores-dev.en-pt](en-pt/flores-dev.en-pt.cometcompare)
-- flores-dev.microsoft.pt outperforms flores-dev.bergamot.pt.
-- flores-dev.google.pt outperforms flores-dev.bergamot.pt.
-- flores-dev.google.pt outperforms flores-dev.microsoft.pt.
+
+#### [flores-test.en-pt](en-pt/flores-test.en-pt.cometcompare)
 
 ---
 
-## et-en
+## pt-en
 
-| Translator/Dataset | flores-test | wmt18 | flores-dev |
+| Translator/Dataset | flores-dev | flores-test | mtedx_test |
 | --- | --- | --- | --- |
-| bergamot | 0.64 | 0.52 | 0.63 |
-| google | 0.79 (+0.15, +24.06%) | 0.70 (+0.18, +33.71%) | 0.81 (+0.18, +27.76%) |
-| microsoft | 0.76 (+0.12, +19.44%) | 0.67 (+0.15, +29.00%) | 0.78 (+0.15, +22.94%) |
+| bergamot | 0.81 | 0.80 | 0.64 |
+| google | 0.85 (+0.04, +4.46%) | 0.85 (+0.05, +6.07%) | 0.70 (+0.07, +10.37%) |
+| microsoft | 0.84 (+0.03, +4.24%) | 0.85 (+0.05, +6.07%) | 0.69 (+0.05, +8.35%) |
 
-![Results](img/et-en-comet.png)
+![Results](img/pt-en-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.et-en](et-en/flores-test.et-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.microsoft.en.
+#### [flores-dev.pt-en](pt-en/flores-dev.pt-en.cometcompare)
 
-#### [wmt18.et-en](et-en/wmt18.et-en.cometcompare)
-- wmt18.microsoft.en outperforms wmt18.bergamot.en.
-- wmt18.google.en outperforms wmt18.bergamot.en.
-- wmt18.google.en outperforms wmt18.microsoft.en.
+#### [flores-test.pt-en](pt-en/flores-test.pt-en.cometcompare)
 
-#### [flores-dev.et-en](et-en/flores-dev.et-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.microsoft.en.
-
----
-
-## nb-en
-
-| Translator/Dataset | flores-test | flores-dev |
-| --- | --- | --- |
-| bergamot | 0.65 | 0.64 |
-| google | 0.81 (+0.16, +24.86%) | 0.81 (+0.18, +27.71%) |
-| microsoft | 0.80 (+0.16, +24.41%) | 0.81 (+0.17, +26.75%) |
-
-![Results](img/nb-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.nb-en](nb-en/flores-test.nb-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-
-#### [flores-dev.nb-en](nb-en/flores-dev.nb-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.microsoft.en.
-
----
-
-## bg-en
-
-| Translator/Dataset | flores-test | flores-dev |
-| --- | --- | --- |
-| bergamot | 0.68 | 0.68 |
-| google | 0.75 (+0.07, +10.26%) | 0.75 (+0.07, +10.71%) |
-| microsoft | 0.73 (+0.05, +6.92%) | 0.73 (+0.05, +7.18%) |
-
-![Results](img/bg-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.bg-en](bg-en/flores-test.bg-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.microsoft.en.
-
-#### [flores-dev.bg-en](bg-en/flores-dev.bg-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.microsoft.en.
-
----
-
-## en-es
-
-| Translator/Dataset | wmt11 | wmt13 | wmt08 | flores-dev | flores-test | wmt10 | wmt09 | wmt12 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.58 | 0.64 | 0.51 | 0.64 | 0.64 | 0.64 | 0.58 | 0.63 |
-| google | 0.66 (+0.08, +13.74%) | 0.71 (+0.06, +9.98%) | 0.60 (+0.10, +18.96%) | 0.75 (+0.11, +17.02%) | 0.76 (+0.12, +19.02%) | 0.72 (+0.08, +13.00%) | 0.65 (+0.07, +11.55%) | 0.69 (+0.06, +10.04%) |
-| microsoft | 0.68 (+0.10, +16.92%) | 0.72 (+0.08, +12.08%) | 0.60 (+0.10, +19.53%) | 0.74 (+0.09, +14.75%) | 0.74 (+0.10, +16.21%) | 0.73 (+0.09, +13.86%) | 0.66 (+0.08, +13.63%) | 0.71 (+0.08, +13.38%) |
-
-![Results](img/en-es-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt11.en-es](en-es/wmt11.en-es.cometcompare)
-- wmt11.microsoft.es outperforms wmt11.bergamot.es.
-- wmt11.google.es outperforms wmt11.bergamot.es.
-- wmt11.microsoft.es outperforms wmt11.google.es.
-
-#### [wmt13.en-es](en-es/wmt13.en-es.cometcompare)
-- wmt13.microsoft.es outperforms wmt13.bergamot.es.
-- wmt13.google.es outperforms wmt13.bergamot.es.
-- wmt13.microsoft.es outperforms wmt13.google.es.
-
-#### [wmt08.en-es](en-es/wmt08.en-es.cometcompare)
-- wmt08.microsoft.es outperforms wmt08.bergamot.es.
-- wmt08.google.es outperforms wmt08.bergamot.es.
-
-#### [flores-dev.en-es](en-es/flores-dev.en-es.cometcompare)
-- flores-dev.microsoft.es outperforms flores-dev.bergamot.es.
-- flores-dev.google.es outperforms flores-dev.bergamot.es.
-- flores-dev.google.es outperforms flores-dev.microsoft.es.
-
-#### [flores-test.en-es](en-es/flores-test.en-es.cometcompare)
-- flores-test.microsoft.es outperforms flores-test.bergamot.es.
-- flores-test.google.es outperforms flores-test.bergamot.es.
-- flores-test.google.es outperforms flores-test.microsoft.es.
-
-#### [wmt10.en-es](en-es/wmt10.en-es.cometcompare)
-- wmt10.microsoft.es outperforms wmt10.bergamot.es.
-- wmt10.google.es outperforms wmt10.bergamot.es.
-
-#### [wmt09.en-es](en-es/wmt09.en-es.cometcompare)
-- wmt09.microsoft.es outperforms wmt09.bergamot.es.
-- wmt09.google.es outperforms wmt09.bergamot.es.
-- wmt09.microsoft.es outperforms wmt09.google.es.
-
-#### [wmt12.en-es](en-es/wmt12.en-es.cometcompare)
-- wmt12.microsoft.es outperforms wmt12.bergamot.es.
-- wmt12.google.es outperforms wmt12.bergamot.es.
-- wmt12.microsoft.es outperforms wmt12.google.es.
+#### [mtedx_test.pt-en](pt-en/mtedx_test.pt-en.cometcompare)
 
 ---
 
@@ -417,545 +98,486 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 | Translator/Dataset | flores-test | flores-dev |
 | --- | --- | --- |
 | bergamot | 0.80 | 0.79 |
-| google | 0.89 (+0.09, +10.78%) | 0.88 (+0.09, +10.71%) |
-| microsoft | 0.87 (+0.07, +8.38%) | 0.86 (+0.06, +7.95%) |
+| google | 0.89 (+0.09, +10.77%) | 0.88 (+0.09, +10.75%) |
+| microsoft | 0.87 (+0.07, +8.37%) | 0.86 (+0.06, +7.99%) |
 
 ![Results](img/en-bg-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.en-bg](en-bg/flores-test.en-bg.cometcompare)
-- flores-test.microsoft.bg outperforms flores-test.bergamot.bg.
-- flores-test.google.bg outperforms flores-test.bergamot.bg.
-- flores-test.google.bg outperforms flores-test.microsoft.bg.
 
 #### [flores-dev.en-bg](en-bg/flores-dev.en-bg.cometcompare)
-- flores-dev.microsoft.bg outperforms flores-dev.bergamot.bg.
-- flores-dev.google.bg outperforms flores-dev.bergamot.bg.
-- flores-dev.google.bg outperforms flores-dev.microsoft.bg.
 
 ---
 
-## en-cs
+## nb-en
 
-| Translator/Dataset | wmt13 | wmt18 | wmt22 | flores-dev | wmt16 | wmt11 | wmt08 | wmt10 | wmt21 | wmt09 | wmt15 | wmt19 | wmt14 | flores-test | wmt17 | wmt12 | wmt20 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.68 | 0.63 | 0.62 | 0.68 | 0.64 | 0.56 | 0.54 | 0.61 | 0.46 | 0.60 | 0.66 | 0.52 | 0.75 | 0.70 | 0.62 | 0.55 | 0.55 |
-| google | 0.85 (+0.17, +24.72%) | 0.81 (+0.18, +29.20%) | 0.97 (+0.36, +57.96%) | 0.93 (+0.25, +36.44%) | 0.85 (+0.21, +32.72%) | 0.77 (+0.21, +37.08%) | 0.78 (+0.23, +43.36%) | 0.81 (+0.20, +33.54%) | 0.65 (+0.19, +40.85%) | 0.81 (+0.22, +36.87%) | 0.86 (+0.20, +29.98%) | 0.72 (+0.20, +38.74%) | 0.95 (+0.20, +26.46%) | 0.94 (+0.23, +33.13%) | 0.81 (+0.19, +30.14%) | 0.76 (+0.21, +37.61%) | 0.78 (+0.23, +41.54%) |
-| microsoft | 0.87 (+0.19, +27.50%) | 0.82 (+0.20, +31.49%) | 0.94 (+0.32, +52.78%) | 0.93 (+0.25, +36.25%) | 0.85 (+0.21, +33.51%) | 0.80 (+0.24, +41.92%) | 0.78 (+0.24, +44.75%) | 0.83 (+0.22, +35.78%) | 0.69 (+0.23, +49.02%) | 0.82 (+0.22, +37.76%) | 0.87 (+0.21, +31.11%) | 0.77 (+0.25, +49.14%) | 0.97 (+0.22, +29.34%) | 0.93 (+0.23, +32.76%) | 0.83 (+0.20, +32.21%) | 0.78 (+0.23, +41.83%) | 0.81 (+0.26, +47.71%) |
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | 0.64 | 0.64 |
+| google | 0.81 (+0.17, +26.72%) | 0.81 (+0.16, +25.19%) |
+| microsoft | 0.81 (+0.17, +25.77%) | 0.80 (+0.16, +24.74%) |
 
-![Results](img/en-cs-comet.png)
+![Results](img/nb-en-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt13.en-cs](en-cs/wmt13.en-cs.cometcompare)
-- wmt13.microsoft.cs outperforms wmt13.bergamot.cs.
-- wmt13.google.cs outperforms wmt13.bergamot.cs.
-- wmt13.microsoft.cs outperforms wmt13.google.cs.
+#### [flores-dev.nb-en](nb-en/flores-dev.nb-en.cometcompare)
 
-#### [wmt18.en-cs](en-cs/wmt18.en-cs.cometcompare)
-- wmt18.microsoft.cs outperforms wmt18.bergamot.cs.
-- wmt18.google.cs outperforms wmt18.bergamot.cs.
-- wmt18.microsoft.cs outperforms wmt18.google.cs.
-
-#### [wmt22.en-cs](en-cs/wmt22.en-cs.cometcompare)
-- wmt22.microsoft.cs outperforms wmt22.bergamot.cs.
-- wmt22.google.cs outperforms wmt22.bergamot.cs.
-- wmt22.google.cs outperforms wmt22.microsoft.cs.
-
-#### [flores-dev.en-cs](en-cs/flores-dev.en-cs.cometcompare)
-- flores-dev.microsoft.cs outperforms flores-dev.bergamot.cs.
-- flores-dev.google.cs outperforms flores-dev.bergamot.cs.
-
-#### [wmt16.en-cs](en-cs/wmt16.en-cs.cometcompare)
-- wmt16.microsoft.cs outperforms wmt16.bergamot.cs.
-- wmt16.google.cs outperforms wmt16.bergamot.cs.
-
-#### [wmt11.en-cs](en-cs/wmt11.en-cs.cometcompare)
-- wmt11.microsoft.cs outperforms wmt11.bergamot.cs.
-- wmt11.google.cs outperforms wmt11.bergamot.cs.
-- wmt11.microsoft.cs outperforms wmt11.google.cs.
-
-#### [wmt08.en-cs](en-cs/wmt08.en-cs.cometcompare)
-- wmt08.microsoft.cs outperforms wmt08.bergamot.cs.
-- wmt08.google.cs outperforms wmt08.bergamot.cs.
-
-#### [wmt10.en-cs](en-cs/wmt10.en-cs.cometcompare)
-- wmt10.microsoft.cs outperforms wmt10.bergamot.cs.
-- wmt10.google.cs outperforms wmt10.bergamot.cs.
-- wmt10.microsoft.cs outperforms wmt10.google.cs.
-
-#### [wmt21.en-cs](en-cs/wmt21.en-cs.cometcompare)
-- wmt21.microsoft.cs outperforms wmt21.bergamot.cs.
-- wmt21.google.cs outperforms wmt21.bergamot.cs.
-- wmt21.microsoft.cs outperforms wmt21.google.cs.
-
-#### [wmt09.en-cs](en-cs/wmt09.en-cs.cometcompare)
-- wmt09.microsoft.cs outperforms wmt09.bergamot.cs.
-- wmt09.google.cs outperforms wmt09.bergamot.cs.
-
-#### [wmt15.en-cs](en-cs/wmt15.en-cs.cometcompare)
-- wmt15.microsoft.cs outperforms wmt15.bergamot.cs.
-- wmt15.google.cs outperforms wmt15.bergamot.cs.
-
-#### [wmt19.en-cs](en-cs/wmt19.en-cs.cometcompare)
-- wmt19.microsoft.cs outperforms wmt19.bergamot.cs.
-- wmt19.google.cs outperforms wmt19.bergamot.cs.
-- wmt19.microsoft.cs outperforms wmt19.google.cs.
-
-#### [wmt14.en-cs](en-cs/wmt14.en-cs.cometcompare)
-- wmt14.microsoft.cs outperforms wmt14.bergamot.cs.
-- wmt14.google.cs outperforms wmt14.bergamot.cs.
-- wmt14.microsoft.cs outperforms wmt14.google.cs.
-
-#### [flores-test.en-cs](en-cs/flores-test.en-cs.cometcompare)
-- flores-test.microsoft.cs outperforms flores-test.bergamot.cs.
-- flores-test.google.cs outperforms flores-test.bergamot.cs.
-
-#### [wmt17.en-cs](en-cs/wmt17.en-cs.cometcompare)
-- wmt17.microsoft.cs outperforms wmt17.bergamot.cs.
-- wmt17.google.cs outperforms wmt17.bergamot.cs.
-- wmt17.microsoft.cs outperforms wmt17.google.cs.
-
-#### [wmt12.en-cs](en-cs/wmt12.en-cs.cometcompare)
-- wmt12.microsoft.cs outperforms wmt12.bergamot.cs.
-- wmt12.google.cs outperforms wmt12.bergamot.cs.
-- wmt12.microsoft.cs outperforms wmt12.google.cs.
-
-#### [wmt20.en-cs](en-cs/wmt20.en-cs.cometcompare)
-- wmt20.microsoft.cs outperforms wmt20.bergamot.cs.
-- wmt20.google.cs outperforms wmt20.bergamot.cs.
-- wmt20.microsoft.cs outperforms wmt20.google.cs.
-
----
-
-## de-en
-
-| Translator/Dataset | wmt17 | wmt22 | wmt08 | flores-test | wmt20 | wmt15 | wmt18 | iwslt17 | wmt09 | wmt14 | wmt16 | wmt11 | wmt12 | wmt10 | wmt19 | wmt21 | flores-dev | wmt13 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.52 | 0.40 | 0.39 | 0.68 | 0.54 | 0.52 | 0.58 | 0.48 | 0.41 | 0.49 | 0.56 | 0.39 | 0.39 | 0.45 | 0.41 | 0.48 | 0.68 | 0.51 |
-| google | 0.65 (+0.13, +25.09%) | 0.56 (+0.16, +40.53%) | 0.51 (+0.12, +29.36%) | 0.76 (+0.08, +11.57%) | 0.66 (+0.12, +22.01%) | 0.64 (+0.12, +22.71%) | 0.70 (+0.11, +19.06%) | 0.57 (+0.09, +18.39%) | 0.51 (+0.10, +25.46%) | 0.62 (+0.13, +27.07%) | 0.67 (+0.11, +19.50%) | 0.48 (+0.09, +24.10%) | 0.52 (+0.13, +32.18%) | 0.57 (+0.12, +26.27%) | 0.56 (+0.14, +34.37%) | 0.61 (+0.13, +27.30%) | 0.76 (+0.08, +11.51%) | 0.59 (+0.09, +16.79%) |
-| microsoft | 0.66 (+0.14, +27.41%) | 0.55 (+0.15, +38.95%) | 0.53 (+0.13, +34.22%) | 0.77 (+0.09, +13.19%) | 0.69 (+0.15, +27.97%) | 0.65 (+0.13, +24.73%) | 0.72 (+0.13, +23.05%) | 0.58 (+0.10, +20.87%) | 0.54 (+0.13, +31.15%) | 0.63 (+0.14, +29.25%) | 0.69 (+0.13, +22.98%) | 0.53 (+0.14, +34.74%) | 0.55 (+0.16, +39.48%) | 0.59 (+0.14, +31.46%) | 0.59 (+0.17, +41.07%) | 0.62 (+0.14, +30.21%) | 0.77 (+0.09, +13.67%) | 0.62 (+0.11, +21.80%) |
-
-![Results](img/de-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt17.de-en](de-en/wmt17.de-en.cometcompare)
-- wmt17.microsoft.en outperforms wmt17.bergamot.en.
-- wmt17.google.en outperforms wmt17.bergamot.en.
-- wmt17.microsoft.en outperforms wmt17.google.en.
-
-#### [wmt22.de-en](de-en/wmt22.de-en.cometcompare)
-- wmt22.microsoft.en outperforms wmt22.bergamot.en.
-- wmt22.google.en outperforms wmt22.bergamot.en.
-
-#### [wmt08.de-en](de-en/wmt08.de-en.cometcompare)
-- wmt08.microsoft.en outperforms wmt08.bergamot.en.
-- wmt08.google.en outperforms wmt08.bergamot.en.
-- wmt08.microsoft.en outperforms wmt08.google.en.
-
-#### [flores-test.de-en](de-en/flores-test.de-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-- flores-test.microsoft.en outperforms flores-test.google.en.
-
-#### [wmt20.de-en](de-en/wmt20.de-en.cometcompare)
-- wmt20.microsoft.en outperforms wmt20.bergamot.en.
-- wmt20.google.en outperforms wmt20.bergamot.en.
-- wmt20.microsoft.en outperforms wmt20.google.en.
-
-#### [wmt15.de-en](de-en/wmt15.de-en.cometcompare)
-- wmt15.microsoft.en outperforms wmt15.bergamot.en.
-- wmt15.google.en outperforms wmt15.bergamot.en.
-- wmt15.microsoft.en outperforms wmt15.google.en.
-
-#### [wmt18.de-en](de-en/wmt18.de-en.cometcompare)
-- wmt18.microsoft.en outperforms wmt18.bergamot.en.
-- wmt18.google.en outperforms wmt18.bergamot.en.
-- wmt18.microsoft.en outperforms wmt18.google.en.
-
-#### [iwslt17.de-en](de-en/iwslt17.de-en.cometcompare)
-- iwslt17.microsoft.en outperforms iwslt17.bergamot.en.
-- iwslt17.google.en outperforms iwslt17.bergamot.en.
-- iwslt17.microsoft.en outperforms iwslt17.google.en.
-
-#### [wmt09.de-en](de-en/wmt09.de-en.cometcompare)
-- wmt09.microsoft.en outperforms wmt09.bergamot.en.
-- wmt09.google.en outperforms wmt09.bergamot.en.
-- wmt09.microsoft.en outperforms wmt09.google.en.
-
-#### [wmt14.de-en](de-en/wmt14.de-en.cometcompare)
-- wmt14.microsoft.en outperforms wmt14.bergamot.en.
-- wmt14.google.en outperforms wmt14.bergamot.en.
-- wmt14.microsoft.en outperforms wmt14.google.en.
-
-#### [wmt16.de-en](de-en/wmt16.de-en.cometcompare)
-- wmt16.microsoft.en outperforms wmt16.bergamot.en.
-- wmt16.google.en outperforms wmt16.bergamot.en.
-- wmt16.microsoft.en outperforms wmt16.google.en.
-
-#### [wmt11.de-en](de-en/wmt11.de-en.cometcompare)
-- wmt11.microsoft.en outperforms wmt11.bergamot.en.
-- wmt11.google.en outperforms wmt11.bergamot.en.
-- wmt11.microsoft.en outperforms wmt11.google.en.
-
-#### [wmt12.de-en](de-en/wmt12.de-en.cometcompare)
-- wmt12.microsoft.en outperforms wmt12.bergamot.en.
-- wmt12.google.en outperforms wmt12.bergamot.en.
-- wmt12.microsoft.en outperforms wmt12.google.en.
-
-#### [wmt10.de-en](de-en/wmt10.de-en.cometcompare)
-- wmt10.microsoft.en outperforms wmt10.bergamot.en.
-- wmt10.google.en outperforms wmt10.bergamot.en.
-- wmt10.microsoft.en outperforms wmt10.google.en.
-
-#### [wmt19.de-en](de-en/wmt19.de-en.cometcompare)
-- wmt19.microsoft.en outperforms wmt19.bergamot.en.
-- wmt19.google.en outperforms wmt19.bergamot.en.
-- wmt19.microsoft.en outperforms wmt19.google.en.
-
-#### [wmt21.de-en](de-en/wmt21.de-en.cometcompare)
-- wmt21.microsoft.en outperforms wmt21.bergamot.en.
-- wmt21.google.en outperforms wmt21.bergamot.en.
-- wmt21.microsoft.en outperforms wmt21.google.en.
-
-#### [flores-dev.de-en](de-en/flores-dev.de-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-- flores-dev.microsoft.en outperforms flores-dev.google.en.
-
-#### [wmt13.de-en](de-en/wmt13.de-en.cometcompare)
-- wmt13.microsoft.en outperforms wmt13.bergamot.en.
-- wmt13.google.en outperforms wmt13.bergamot.en.
-- wmt13.microsoft.en outperforms wmt13.google.en.
+#### [flores-test.nb-en](nb-en/flores-test.nb-en.cometcompare)
 
 ---
 
 ## it-en
 
-| Translator/Dataset | flores-test | mtedx_test | wmt09 | flores-dev |
+| Translator/Dataset | flores-dev | flores-test | mtedx_test | wmt09 |
 | --- | --- | --- | --- | --- |
-| bergamot | 0.70 | 0.55 | 0.53 | 0.72 |
-| google | 0.76 (+0.06, +9.33%) | 0.62 (+0.07, +12.79%) | 0.60 (+0.08, +14.29%) | 0.76 (+0.04, +6.00%) |
-| microsoft | 0.76 (+0.06, +8.80%) | 0.61 (+0.06, +11.31%) | 0.61 (+0.09, +16.28%) | 0.76 (+0.04, +6.16%) |
+| bergamot | 0.72 | 0.70 | 0.55 | 0.53 |
+| google | 0.76 (+0.04, +5.92%) | 0.76 (+0.06, +8.86%) | 0.62 (+0.07, +12.19%) | 0.60 (+0.07, +14.12%) |
+| microsoft | 0.76 (+0.04, +6.09%) | 0.76 (+0.06, +8.33%) | 0.61 (+0.06, +10.72%) | 0.61 (+0.09, +16.11%) |
 
 ![Results](img/it-en-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.it-en](it-en/flores-dev.it-en.cometcompare)
+
 #### [flores-test.it-en](it-en/flores-test.it-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
 
 #### [mtedx_test.it-en](it-en/mtedx_test.it-en.cometcompare)
-- mtedx_test.microsoft.en outperforms mtedx_test.bergamot.en.
-- mtedx_test.google.en outperforms mtedx_test.bergamot.en.
 
 #### [wmt09.it-en](it-en/wmt09.it-en.cometcompare)
-- wmt09.microsoft.en outperforms wmt09.bergamot.en.
-- wmt09.google.en outperforms wmt09.bergamot.en.
-- wmt09.microsoft.en outperforms wmt09.google.en.
-
-#### [flores-dev.it-en](it-en/flores-dev.it-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
 
 ---
 
-## pl-en
+## en-et
 
-| Translator/Dataset | flores-test | wmt20 | flores-dev |
+| Translator/Dataset | wmt18 | flores-test | flores-dev |
 | --- | --- | --- | --- |
-| bergamot | 0.57 | 0.53 | 0.59 |
-| google | 0.68 (+0.10, +17.70%) | 0.62 (+0.09, +17.51%) | 0.68 (+0.09, +15.30%) |
-| microsoft | 0.68 (+0.10, +17.70%) | 0.64 (+0.11, +20.84%) | 0.67 (+0.08, +13.89%) |
+| bergamot | 0.84 | 0.87 | 0.87 |
+| google | 1.03 (+0.20, +23.60%) | 1.07 (+0.20, +23.11%) | 1.09 (+0.23, +26.23%) |
+| microsoft | 1.02 (+0.18, +21.97%) | 1.07 (+0.20, +22.59%) | 1.06 (+0.20, +22.60%) |
 
-![Results](img/pl-en-comet.png)
+![Results](img/en-et-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.pl-en](pl-en/flores-test.pl-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
+#### [wmt18.en-et](en-et/wmt18.en-et.cometcompare)
 
-#### [wmt20.pl-en](pl-en/wmt20.pl-en.cometcompare)
-- wmt20.microsoft.en outperforms wmt20.bergamot.en.
-- wmt20.google.en outperforms wmt20.bergamot.en.
-- wmt20.microsoft.en outperforms wmt20.google.en.
+#### [flores-test.en-et](en-et/flores-test.en-et.cometcompare)
 
-#### [flores-dev.pl-en](pl-en/flores-dev.pl-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.microsoft.en.
+#### [flores-dev.en-et](en-et/flores-dev.en-et.cometcompare)
 
 ---
 
-## en-fr
+## fr-en
 
-| Translator/Dataset | wmt11 | wmt10 | wmt14 | wmt09 | flores-test | wmt08 | wmt15 | wmt12 | iwslt17 | wmt13 | flores-dev |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.52 | 0.52 | 0.63 | 0.48 | 0.71 | 0.40 | 0.50 | 0.49 | 0.59 | 0.55 | 0.73 |
-| google | 0.62 (+0.10, +18.30%) | 0.63 (+0.12, +22.59%) | 0.75 (+0.12, +19.13%) | 0.59 (+0.11, +21.82%) | 0.84 (+0.13, +17.81%) | 0.54 (+0.13, +33.43%) | 0.67 (+0.17, +34.26%) | 0.58 (+0.09, +18.36%) | 0.67 (+0.08, +13.94%) | 0.64 (+0.10, +17.68%) | 0.83 (+0.10, +13.28%) |
-| microsoft | 0.64 (+0.12, +22.03%) | 0.65 (+0.14, +26.13%) | 0.78 (+0.15, +23.35%) | 0.61 (+0.13, +26.38%) | 0.85 (+0.14, +18.99%) | 0.54 (+0.14, +35.05%) | 0.68 (+0.18, +35.82%) | 0.61 (+0.12, +24.12%) | 0.69 (+0.10, +16.63%) | 0.66 (+0.12, +21.10%) | 0.85 (+0.11, +15.24%) |
+| Translator/Dataset | wmt13 | iwslt17 | wmt10 | wmt14 | wmt11 | flores-dev | flores-test | wmt15 | wmt08 | mtedx_test | wmt12 | wmt09 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.58 | 0.68 | 0.53 | 0.65 | 0.51 | 0.77 | 0.77 | 0.56 | 0.44 | 0.62 | 0.50 | 0.50 |
+| google | 0.63 (+0.04, +7.32%) | 0.71 (+0.04, +5.64%) | 0.61 (+0.08, +15.82%) | 0.71 (+0.06, +9.32%) | 0.57 (+0.06, +11.73%) | 0.82 (+0.05, +6.97%) | 0.82 (+0.05, +6.00%) | 0.66 (+0.09, +16.85%) | 0.52 (+0.09, +19.87%) | 0.69 (+0.07, +11.00%) | 0.55 (+0.05, +10.05%) | 0.57 (+0.07, +13.86%) |
+| microsoft | 0.65 (+0.07, +11.46%) | 0.73 (+0.06, +8.15%) | 0.63 (+0.10, +18.74%) | 0.72 (+0.08, +12.17%) | 0.60 (+0.09, +17.28%) | 0.82 (+0.05, +7.06%) | 0.82 (+0.05, +6.41%) | 0.66 (+0.10, +17.46%) | 0.53 (+0.10, +22.58%) | 0.69 (+0.07, +11.55%) | 0.58 (+0.08, +16.56%) | 0.58 (+0.08, +16.78%) |
 
-![Results](img/en-fr-comet.png)
+![Results](img/fr-en-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt11.en-fr](en-fr/wmt11.en-fr.cometcompare)
-- wmt11.microsoft.fr outperforms wmt11.bergamot.fr.
-- wmt11.google.fr outperforms wmt11.bergamot.fr.
-- wmt11.microsoft.fr outperforms wmt11.google.fr.
+#### [wmt13.fr-en](fr-en/wmt13.fr-en.cometcompare)
 
-#### [wmt10.en-fr](en-fr/wmt10.en-fr.cometcompare)
-- wmt10.microsoft.fr outperforms wmt10.bergamot.fr.
-- wmt10.google.fr outperforms wmt10.bergamot.fr.
-- wmt10.microsoft.fr outperforms wmt10.google.fr.
+#### [iwslt17.fr-en](fr-en/iwslt17.fr-en.cometcompare)
 
-#### [wmt14.en-fr](en-fr/wmt14.en-fr.cometcompare)
-- wmt14.microsoft.fr outperforms wmt14.bergamot.fr.
-- wmt14.google.fr outperforms wmt14.bergamot.fr.
-- wmt14.microsoft.fr outperforms wmt14.google.fr.
+#### [wmt10.fr-en](fr-en/wmt10.fr-en.cometcompare)
 
-#### [wmt09.en-fr](en-fr/wmt09.en-fr.cometcompare)
-- wmt09.microsoft.fr outperforms wmt09.bergamot.fr.
-- wmt09.google.fr outperforms wmt09.bergamot.fr.
-- wmt09.microsoft.fr outperforms wmt09.google.fr.
+#### [wmt14.fr-en](fr-en/wmt14.fr-en.cometcompare)
 
-#### [flores-test.en-fr](en-fr/flores-test.en-fr.cometcompare)
-- flores-test.microsoft.fr outperforms flores-test.bergamot.fr.
-- flores-test.google.fr outperforms flores-test.bergamot.fr.
+#### [wmt11.fr-en](fr-en/wmt11.fr-en.cometcompare)
 
-#### [wmt08.en-fr](en-fr/wmt08.en-fr.cometcompare)
-- wmt08.microsoft.fr outperforms wmt08.bergamot.fr.
-- wmt08.google.fr outperforms wmt08.bergamot.fr.
+#### [flores-dev.fr-en](fr-en/flores-dev.fr-en.cometcompare)
 
-#### [wmt15.en-fr](en-fr/wmt15.en-fr.cometcompare)
-- wmt15.microsoft.fr outperforms wmt15.bergamot.fr.
-- wmt15.google.fr outperforms wmt15.bergamot.fr.
+#### [flores-test.fr-en](fr-en/flores-test.fr-en.cometcompare)
 
-#### [wmt12.en-fr](en-fr/wmt12.en-fr.cometcompare)
-- wmt12.microsoft.fr outperforms wmt12.bergamot.fr.
-- wmt12.google.fr outperforms wmt12.bergamot.fr.
-- wmt12.microsoft.fr outperforms wmt12.google.fr.
+#### [wmt15.fr-en](fr-en/wmt15.fr-en.cometcompare)
 
-#### [iwslt17.en-fr](en-fr/iwslt17.en-fr.cometcompare)
-- iwslt17.microsoft.fr outperforms iwslt17.bergamot.fr.
-- iwslt17.google.fr outperforms iwslt17.bergamot.fr.
-- iwslt17.microsoft.fr outperforms iwslt17.google.fr.
+#### [wmt08.fr-en](fr-en/wmt08.fr-en.cometcompare)
 
-#### [wmt13.en-fr](en-fr/wmt13.en-fr.cometcompare)
-- wmt13.microsoft.fr outperforms wmt13.bergamot.fr.
-- wmt13.google.fr outperforms wmt13.bergamot.fr.
-- wmt13.microsoft.fr outperforms wmt13.google.fr.
+#### [mtedx_test.fr-en](fr-en/mtedx_test.fr-en.cometcompare)
 
-#### [flores-dev.en-fr](en-fr/flores-dev.en-fr.cometcompare)
-- flores-dev.microsoft.fr outperforms flores-dev.bergamot.fr.
-- flores-dev.google.fr outperforms flores-dev.bergamot.fr.
-- flores-dev.microsoft.fr outperforms flores-dev.google.fr.
+#### [wmt12.fr-en](fr-en/wmt12.fr-en.cometcompare)
 
----
-
-## en-pl
-
-| Translator/Dataset | flores-dev | flores-test | wmt20 |
-| --- | --- | --- | --- |
-| bergamot | 0.68 | 0.67 | 0.62 |
-| google | 0.85 (+0.17, +25.18%) | 0.84 (+0.17, +25.53%) | 0.78 (+0.16, +25.87%) |
-| microsoft | 0.81 (+0.13, +19.77%) | 0.81 (+0.14, +21.62%) | 0.77 (+0.15, +23.45%) |
-
-![Results](img/en-pl-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-dev.en-pl](en-pl/flores-dev.en-pl.cometcompare)
-- flores-dev.microsoft.pl outperforms flores-dev.bergamot.pl.
-- flores-dev.google.pl outperforms flores-dev.bergamot.pl.
-- flores-dev.google.pl outperforms flores-dev.microsoft.pl.
-
-#### [flores-test.en-pl](en-pl/flores-test.en-pl.cometcompare)
-- flores-test.microsoft.pl outperforms flores-test.bergamot.pl.
-- flores-test.google.pl outperforms flores-test.bergamot.pl.
-- flores-test.google.pl outperforms flores-test.microsoft.pl.
-
-#### [wmt20.en-pl](en-pl/wmt20.en-pl.cometcompare)
-- wmt20.microsoft.pl outperforms wmt20.bergamot.pl.
-- wmt20.google.pl outperforms wmt20.bergamot.pl.
-- wmt20.google.pl outperforms wmt20.microsoft.pl.
-
----
-
-## pt-en
-
-| Translator/Dataset | flores-test | mtedx_test | flores-dev |
-| --- | --- | --- | --- |
-| bergamot | 0.80 | 0.63 | 0.81 |
-| google | 0.85 (+0.05, +6.39%) | 0.70 (+0.07, +10.56%) | 0.85 (+0.04, +4.40%) |
-| microsoft | 0.85 (+0.05, +6.39%) | 0.69 (+0.05, +8.54%) | 0.84 (+0.03, +4.17%) |
-
-![Results](img/pt-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [flores-test.pt-en](pt-en/flores-test.pt-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-
-#### [mtedx_test.pt-en](pt-en/mtedx_test.pt-en.cometcompare)
-- mtedx_test.microsoft.en outperforms mtedx_test.bergamot.en.
-- mtedx_test.google.en outperforms mtedx_test.bergamot.en.
-- mtedx_test.google.en outperforms mtedx_test.microsoft.en.
-
-#### [flores-dev.pt-en](pt-en/flores-dev.pt-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-
----
-
-## es-en
-
-| Translator/Dataset | wmt08 | flores-test | mtedx_test | wmt09 | wmt11 | wmt12 | wmt10 | flores-dev | wmt13 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.46 | 0.66 | 0.43 | 0.47 | 0.52 | 0.56 | 0.58 | 0.66 | 0.60 |
-| google | 0.52 (+0.06, +12.89%) | 0.74 (+0.08, +12.52%) | 0.53 (+0.09, +21.84%) | 0.55 (+0.07, +15.87%) | 0.57 (+0.04, +8.52%) | 0.61 (+0.04, +7.32%) | 0.65 (+0.07, +11.52%) | 0.74 (+0.08, +12.89%) | 0.65 (+0.05, +7.48%) |
-| microsoft | 0.53 (+0.07, +14.99%) | 0.73 (+0.07, +11.40%) | 0.54 (+0.11, +24.18%) | 0.55 (+0.08, +17.25%) | 0.60 (+0.07, +14.17%) | 0.63 (+0.07, +11.90%) | 0.66 (+0.07, +12.86%) | 0.73 (+0.07, +11.07%) | 0.67 (+0.07, +10.80%) |
-
-![Results](img/es-en-comet.png)
-### Comparisons between systems
-*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
-#### [wmt08.es-en](es-en/wmt08.es-en.cometcompare)
-- wmt08.microsoft.en outperforms wmt08.bergamot.en.
-- wmt08.google.en outperforms wmt08.bergamot.en.
-- wmt08.microsoft.en outperforms wmt08.google.en.
-
-#### [flores-test.es-en](es-en/flores-test.es-en.cometcompare)
-- flores-test.microsoft.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.bergamot.en.
-- flores-test.google.en outperforms flores-test.microsoft.en.
-
-#### [mtedx_test.es-en](es-en/mtedx_test.es-en.cometcompare)
-- mtedx_test.microsoft.en outperforms mtedx_test.bergamot.en.
-- mtedx_test.google.en outperforms mtedx_test.bergamot.en.
-
-#### [wmt09.es-en](es-en/wmt09.es-en.cometcompare)
-- wmt09.microsoft.en outperforms wmt09.bergamot.en.
-- wmt09.google.en outperforms wmt09.bergamot.en.
-- wmt09.microsoft.en outperforms wmt09.google.en.
-
-#### [wmt11.es-en](es-en/wmt11.es-en.cometcompare)
-- wmt11.microsoft.en outperforms wmt11.bergamot.en.
-- wmt11.google.en outperforms wmt11.bergamot.en.
-- wmt11.microsoft.en outperforms wmt11.google.en.
-
-#### [wmt12.es-en](es-en/wmt12.es-en.cometcompare)
-- wmt12.microsoft.en outperforms wmt12.bergamot.en.
-- wmt12.google.en outperforms wmt12.bergamot.en.
-- wmt12.microsoft.en outperforms wmt12.google.en.
-
-#### [wmt10.es-en](es-en/wmt10.es-en.cometcompare)
-- wmt10.microsoft.en outperforms wmt10.bergamot.en.
-- wmt10.google.en outperforms wmt10.bergamot.en.
-- wmt10.microsoft.en outperforms wmt10.google.en.
-
-#### [flores-dev.es-en](es-en/flores-dev.es-en.cometcompare)
-- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.bergamot.en.
-- flores-dev.google.en outperforms flores-dev.microsoft.en.
-
-#### [wmt13.es-en](es-en/wmt13.es-en.cometcompare)
-- wmt13.microsoft.en outperforms wmt13.bergamot.en.
-- wmt13.google.en outperforms wmt13.bergamot.en.
-- wmt13.microsoft.en outperforms wmt13.google.en.
+#### [wmt09.fr-en](fr-en/wmt09.fr-en.cometcompare)
 
 ---
 
 ## en-de
 
-| Translator/Dataset | wmt12 | wmt13 | wmt22 | flores-dev | wmt15 | wmt08 | wmt18 | wmt14 | wmt19 | wmt17 | wmt21 | iwslt17 | wmt20 | wmt11 | flores-test | wmt09 | wmt10 | wmt16 |
+| Translator/Dataset | wmt12 | wmt16 | wmt15 | flores-dev | wmt21 | wmt17 | wmt10 | flores-test | wmt08 | wmt18 | wmt22 | wmt20 | wmt19 | wmt09 | wmt11 | wmt13 | wmt14 | iwslt17 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.43 | 0.51 | 0.46 | 0.60 | 0.54 | 0.42 | 0.65 | 0.55 | 0.55 | 0.55 | 0.46 | 0.43 | 0.50 | 0.41 | 0.62 | 0.43 | 0.49 | 0.60 |
-| google | 0.52 (+0.08, +19.17%) | 0.59 (+0.08, +15.78%) | 0.62 (+0.16, +34.59%) | 0.70 (+0.09, +15.43%) | 0.64 (+0.10, +17.92%) | 0.52 (+0.10, +24.24%) | 0.72 (+0.07, +10.80%) | 0.66 (+0.10, +18.81%) | 0.62 (+0.07, +13.58%) | 0.64 (+0.09, +16.72%) | 0.52 (+0.06, +14.16%) | 0.52 (+0.10, +22.49%) | 0.60 (+0.10, +19.53%) | 0.50 (+0.10, +24.37%) | 0.70 (+0.09, +14.23%) | 0.53 (+0.10, +22.21%) | 0.57 (+0.07, +15.28%) | 0.67 (+0.08, +12.64%) |
-| microsoft | 0.54 (+0.10, +23.89%) | 0.60 (+0.09, +18.10%) | 0.63 (+0.17, +36.02%) | 0.70 (+0.09, +15.61%) | 0.64 (+0.10, +18.87%) | 0.54 (+0.12, +27.31%) | 0.73 (+0.08, +12.41%) | 0.66 (+0.11, +19.77%) | 0.64 (+0.09, +16.54%) | 0.64 (+0.10, +18.33%) | 0.55 (+0.09, +19.86%) | 0.52 (+0.10, +22.70%) | 0.61 (+0.11, +22.10%) | 0.52 (+0.12, +29.30%) | 0.71 (+0.09, +14.73%) | 0.54 (+0.11, +25.27%) | 0.59 (+0.10, +19.38%) | 0.69 (+0.09, +15.21%) |
+| bergamot | 0.44 | 0.60 | 0.55 | 0.61 | 0.46 | 0.55 | 0.49 | 0.62 | 0.43 | 0.66 | 0.46 | 0.50 | 0.55 | 0.44 | 0.41 | 0.51 | 0.56 | 0.43 |
+| google | 0.52 (+0.07, +16.77%) | 0.67 (+0.07, +11.42%) | 0.64 (+0.09, +16.54%) | 0.70 (+0.09, +14.75%) | 0.52 (+0.07, +14.61%) | 0.64 (+0.09, +15.87%) | 0.57 (+0.07, +14.40%) | 0.70 (+0.08, +12.93%) | 0.52 (+0.10, +23.13%) | 0.72 (+0.07, +10.06%) | 0.62 (+0.16, +34.06%) | 0.60 (+0.10, +19.39%) | 0.62 (+0.07, +13.04%) | 0.53 (+0.09, +20.46%) | 0.50 (+0.09, +22.41%) | 0.59 (+0.07, +14.58%) | 0.66 (+0.10, +17.52%) | 0.52 (+0.09, +20.25%) |
+| microsoft | 0.54 (+0.09, +21.40%) | 0.69 (+0.08, +13.96%) | 0.64 (+0.10, +17.47%) | 0.70 (+0.09, +14.93%) | 0.55 (+0.09, +20.33%) | 0.64 (+0.10, +17.47%) | 0.59 (+0.09, +18.46%) | 0.71 (+0.08, +13.43%) | 0.54 (+0.11, +26.18%) | 0.73 (+0.08, +11.66%) | 0.63 (+0.16, +35.49%) | 0.61 (+0.11, +21.95%) | 0.64 (+0.09, +15.99%) | 0.54 (+0.10, +23.47%) | 0.52 (+0.11, +27.26%) | 0.60 (+0.09, +16.88%) | 0.66 (+0.10, +18.46%) | 0.52 (+0.09, +20.46%) |
 
 ![Results](img/en-de-comet.png)
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [wmt12.en-de](en-de/wmt12.en-de.cometcompare)
-- wmt12.microsoft.de outperforms wmt12.bergamot.de.
-- wmt12.google.de outperforms wmt12.bergamot.de.
-- wmt12.microsoft.de outperforms wmt12.google.de.
-
-#### [wmt13.en-de](en-de/wmt13.en-de.cometcompare)
-- wmt13.microsoft.de outperforms wmt13.bergamot.de.
-- wmt13.google.de outperforms wmt13.bergamot.de.
-- wmt13.microsoft.de outperforms wmt13.google.de.
-
-#### [wmt22.en-de](en-de/wmt22.en-de.cometcompare)
-- wmt22.microsoft.de outperforms wmt22.bergamot.de.
-- wmt22.google.de outperforms wmt22.bergamot.de.
-
-#### [flores-dev.en-de](en-de/flores-dev.en-de.cometcompare)
-- flores-dev.microsoft.de outperforms flores-dev.bergamot.de.
-- flores-dev.google.de outperforms flores-dev.bergamot.de.
-
-#### [wmt15.en-de](en-de/wmt15.en-de.cometcompare)
-- wmt15.microsoft.de outperforms wmt15.bergamot.de.
-- wmt15.google.de outperforms wmt15.bergamot.de.
-
-#### [wmt08.en-de](en-de/wmt08.en-de.cometcompare)
-- wmt08.microsoft.de outperforms wmt08.bergamot.de.
-- wmt08.google.de outperforms wmt08.bergamot.de.
-- wmt08.microsoft.de outperforms wmt08.google.de.
-
-#### [wmt18.en-de](en-de/wmt18.en-de.cometcompare)
-- wmt18.microsoft.de outperforms wmt18.bergamot.de.
-- wmt18.google.de outperforms wmt18.bergamot.de.
-- wmt18.microsoft.de outperforms wmt18.google.de.
-
-#### [wmt14.en-de](en-de/wmt14.en-de.cometcompare)
-- wmt14.microsoft.de outperforms wmt14.bergamot.de.
-- wmt14.google.de outperforms wmt14.bergamot.de.
-- wmt14.microsoft.de outperforms wmt14.google.de.
-
-#### [wmt19.en-de](en-de/wmt19.en-de.cometcompare)
-- wmt19.microsoft.de outperforms wmt19.bergamot.de.
-- wmt19.google.de outperforms wmt19.bergamot.de.
-- wmt19.microsoft.de outperforms wmt19.google.de.
-
-#### [wmt17.en-de](en-de/wmt17.en-de.cometcompare)
-- wmt17.microsoft.de outperforms wmt17.bergamot.de.
-- wmt17.google.de outperforms wmt17.bergamot.de.
-- wmt17.microsoft.de outperforms wmt17.google.de.
-
-#### [wmt21.en-de](en-de/wmt21.en-de.cometcompare)
-- wmt21.microsoft.de outperforms wmt21.bergamot.de.
-- wmt21.google.de outperforms wmt21.bergamot.de.
-- wmt21.microsoft.de outperforms wmt21.google.de.
-
-#### [iwslt17.en-de](en-de/iwslt17.en-de.cometcompare)
-- iwslt17.microsoft.de outperforms iwslt17.bergamot.de.
-- iwslt17.google.de outperforms iwslt17.bergamot.de.
-
-#### [wmt20.en-de](en-de/wmt20.en-de.cometcompare)
-- wmt20.microsoft.de outperforms wmt20.bergamot.de.
-- wmt20.google.de outperforms wmt20.bergamot.de.
-- wmt20.microsoft.de outperforms wmt20.google.de.
-
-#### [wmt11.en-de](en-de/wmt11.en-de.cometcompare)
-- wmt11.microsoft.de outperforms wmt11.bergamot.de.
-- wmt11.google.de outperforms wmt11.bergamot.de.
-- wmt11.microsoft.de outperforms wmt11.google.de.
-
-#### [flores-test.en-de](en-de/flores-test.en-de.cometcompare)
-- flores-test.microsoft.de outperforms flores-test.bergamot.de.
-- flores-test.google.de outperforms flores-test.bergamot.de.
-
-#### [wmt09.en-de](en-de/wmt09.en-de.cometcompare)
-- wmt09.microsoft.de outperforms wmt09.bergamot.de.
-- wmt09.google.de outperforms wmt09.bergamot.de.
-- wmt09.microsoft.de outperforms wmt09.google.de.
-
-#### [wmt10.en-de](en-de/wmt10.en-de.cometcompare)
-- wmt10.microsoft.de outperforms wmt10.bergamot.de.
-- wmt10.google.de outperforms wmt10.bergamot.de.
-- wmt10.microsoft.de outperforms wmt10.google.de.
 
 #### [wmt16.en-de](en-de/wmt16.en-de.cometcompare)
-- wmt16.microsoft.de outperforms wmt16.bergamot.de.
-- wmt16.google.de outperforms wmt16.bergamot.de.
-- wmt16.microsoft.de outperforms wmt16.google.de.
+
+#### [wmt15.en-de](en-de/wmt15.en-de.cometcompare)
+
+#### [flores-dev.en-de](en-de/flores-dev.en-de.cometcompare)
+
+#### [wmt21.en-de](en-de/wmt21.en-de.cometcompare)
+
+#### [wmt17.en-de](en-de/wmt17.en-de.cometcompare)
+
+#### [wmt10.en-de](en-de/wmt10.en-de.cometcompare)
+
+#### [flores-test.en-de](en-de/flores-test.en-de.cometcompare)
+
+#### [wmt08.en-de](en-de/wmt08.en-de.cometcompare)
+
+#### [wmt18.en-de](en-de/wmt18.en-de.cometcompare)
+
+#### [wmt22.en-de](en-de/wmt22.en-de.cometcompare)
+
+#### [wmt20.en-de](en-de/wmt20.en-de.cometcompare)
+
+#### [wmt19.en-de](en-de/wmt19.en-de.cometcompare)
+
+#### [wmt09.en-de](en-de/wmt09.en-de.cometcompare)
+
+#### [wmt11.en-de](en-de/wmt11.en-de.cometcompare)
+
+#### [wmt13.en-de](en-de/wmt13.en-de.cometcompare)
+
+#### [wmt14.en-de](en-de/wmt14.en-de.cometcompare)
+
+#### [iwslt17.en-de](en-de/iwslt17.en-de.cometcompare)
+
+---
+
+## es-en
+
+| Translator/Dataset | wmt13 | wmt10 | wmt11 | flores-dev | flores-test | wmt08 | mtedx_test | wmt12 | wmt09 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.60 | 0.58 | 0.52 | 0.66 | 0.65 | 0.46 | 0.44 | 0.57 | 0.47 |
+| google | 0.65 (+0.04, +7.39%) | 0.65 (+0.06, +11.14%) | 0.57 (+0.04, +8.27%) | 0.74 (+0.08, +12.83%) | 0.74 (+0.08, +12.65%) | 0.52 (+0.06, +12.45%) | 0.53 (+0.09, +21.03%) | 0.61 (+0.04, +7.04%) | 0.55 (+0.07, +15.21%) |
+| microsoft | 0.67 (+0.06, +10.71%) | 0.66 (+0.07, +12.47%) | 0.60 (+0.07, +13.91%) | 0.73 (+0.07, +11.02%) | 0.73 (+0.08, +11.54%) | 0.53 (+0.07, +14.55%) | 0.54 (+0.10, +23.36%) | 0.63 (+0.07, +11.60%) | 0.55 (+0.08, +16.58%) |
+
+![Results](img/es-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt13.es-en](es-en/wmt13.es-en.cometcompare)
+
+#### [wmt10.es-en](es-en/wmt10.es-en.cometcompare)
+
+#### [wmt11.es-en](es-en/wmt11.es-en.cometcompare)
+
+#### [flores-dev.es-en](es-en/flores-dev.es-en.cometcompare)
+
+#### [flores-test.es-en](es-en/flores-test.es-en.cometcompare)
+
+#### [wmt08.es-en](es-en/wmt08.es-en.cometcompare)
+
+#### [mtedx_test.es-en](es-en/mtedx_test.es-en.cometcompare)
+
+#### [wmt12.es-en](es-en/wmt12.es-en.cometcompare)
+
+#### [wmt09.es-en](es-en/wmt09.es-en.cometcompare)
+
+---
+
+## en-it
+
+| Translator/Dataset | wmt09 | flores-test | flores-dev |
+| --- | --- | --- | --- |
+| bergamot | 0.65 | 0.69 | 0.70 |
+| google | 0.72 (+0.07, +10.99%) | 0.78 (+0.10, +13.97%) | 0.78 (+0.08, +10.98%) |
+| microsoft | 0.73 (+0.09, +13.53%) | 0.78 (+0.09, +13.60%) | 0.78 (+0.07, +10.49%) |
+
+![Results](img/en-it-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt09.en-it](en-it/wmt09.en-it.cometcompare)
+
+#### [flores-test.en-it](en-it/flores-test.en-it.cometcompare)
+
+#### [flores-dev.en-it](en-it/flores-dev.en-it.cometcompare)
+
+---
+
+## en-pl
+
+| Translator/Dataset | wmt20 | flores-test | flores-dev |
+| --- | --- | --- | --- |
+| bergamot | 0.63 | 0.67 | 0.68 |
+| google | 0.78 (+0.16, +24.86%) | 0.84 (+0.17, +25.25%) | 0.85 (+0.16, +23.46%) |
+| microsoft | 0.77 (+0.14, +22.46%) | 0.81 (+0.14, +21.35%) | 0.81 (+0.12, +18.13%) |
+
+![Results](img/en-pl-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt20.en-pl](en-pl/wmt20.en-pl.cometcompare)
+
+#### [flores-test.en-pl](en-pl/flores-test.en-pl.cometcompare)
+
+#### [flores-dev.en-pl](en-pl/flores-dev.en-pl.cometcompare)
+
+---
+
+## en-es
+
+| Translator/Dataset | flores-test | wmt12 | flores-dev | wmt13 | wmt10 | wmt11 | wmt09 | wmt08 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.65 | 0.63 | 0.65 | 0.65 | 0.65 | 0.58 | 0.59 | 0.51 |
+| google | 0.76 (+0.11, +17.55%) | 0.69 (+0.06, +9.01%) | 0.75 (+0.10, +16.17%) | 0.71 (+0.06, +8.59%) | 0.72 (+0.08, +12.00%) | 0.66 (+0.07, +12.82%) | 0.65 (+0.06, +10.53%) | 0.60 (+0.09, +16.85%) |
+| microsoft | 0.74 (+0.10, +14.77%) | 0.71 (+0.08, +12.32%) | 0.74 (+0.09, +13.92%) | 0.72 (+0.07, +10.66%) | 0.73 (+0.08, +12.85%) | 0.68 (+0.09, +15.98%) | 0.66 (+0.07, +12.59%) | 0.60 (+0.09, +17.42%) |
+
+![Results](img/en-es-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.en-es](en-es/flores-test.en-es.cometcompare)
+
+#### [wmt12.en-es](en-es/wmt12.en-es.cometcompare)
+
+#### [flores-dev.en-es](en-es/flores-dev.en-es.cometcompare)
+
+#### [wmt13.en-es](en-es/wmt13.en-es.cometcompare)
+
+#### [wmt10.en-es](en-es/wmt10.en-es.cometcompare)
+
+#### [wmt11.en-es](en-es/wmt11.en-es.cometcompare)
+
+#### [wmt09.en-es](en-es/wmt09.en-es.cometcompare)
+
+#### [wmt08.en-es](en-es/wmt08.en-es.cometcompare)
+
+---
+
+## pl-en
+
+| Translator/Dataset | flores-dev | wmt20 | flores-test |
+| --- | --- | --- | --- |
+| bergamot | 0.59 | 0.53 | 0.58 |
+| google | 0.68 (+0.09, +14.95%) | 0.62 (+0.09, +17.28%) | 0.68 (+0.10, +16.78%) |
+| microsoft | 0.67 (+0.08, +13.54%) | 0.64 (+0.11, +20.61%) | 0.68 (+0.10, +16.78%) |
+
+![Results](img/pl-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.pl-en](pl-en/flores-dev.pl-en.cometcompare)
+
+#### [wmt20.pl-en](pl-en/wmt20.pl-en.cometcompare)
+
+#### [flores-test.pl-en](pl-en/flores-test.pl-en.cometcompare)
+
+---
+
+## en-fr
+
+| Translator/Dataset | wmt10 | flores-dev | iwslt17 | flores-test | wmt14 | wmt09 | wmt11 | wmt08 | wmt13 | wmt15 | wmt12 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.52 | 0.74 | 0.59 | 0.71 | 0.63 | 0.48 | 0.53 | 0.40 | 0.55 | 0.50 | 0.49 |
+| google | 0.63 (+0.12, +22.88%) | 0.83 (+0.10, +13.08%) | 0.67 (+0.08, +13.88%) | 0.84 (+0.13, +17.98%) | 0.75 (+0.12, +18.77%) | 0.59 (+0.11, +21.79%) | 0.62 (+0.09, +17.70%) | 0.54 (+0.13, +33.20%) | 0.64 (+0.10, +17.59%) | 0.67 (+0.17, +34.34%) | 0.58 (+0.09, +18.24%) |
+| microsoft | 0.65 (+0.14, +26.42%) | 0.85 (+0.11, +15.04%) | 0.69 (+0.10, +16.57%) | 0.85 (+0.14, +19.16%) | 0.78 (+0.15, +22.98%) | 0.61 (+0.13, +26.35%) | 0.64 (+0.11, +21.40%) | 0.54 (+0.14, +34.81%) | 0.66 (+0.11, +21.01%) | 0.68 (+0.18, +35.90%) | 0.61 (+0.12, +23.99%) |
+
+![Results](img/en-fr-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt10.en-fr](en-fr/wmt10.en-fr.cometcompare)
+
+#### [flores-dev.en-fr](en-fr/flores-dev.en-fr.cometcompare)
+
+#### [iwslt17.en-fr](en-fr/iwslt17.en-fr.cometcompare)
+
+#### [flores-test.en-fr](en-fr/flores-test.en-fr.cometcompare)
+
+#### [wmt14.en-fr](en-fr/wmt14.en-fr.cometcompare)
+
+#### [wmt09.en-fr](en-fr/wmt09.en-fr.cometcompare)
+
+#### [wmt11.en-fr](en-fr/wmt11.en-fr.cometcompare)
+
+#### [wmt08.en-fr](en-fr/wmt08.en-fr.cometcompare)
+
+#### [wmt13.en-fr](en-fr/wmt13.en-fr.cometcompare)
+
+#### [wmt15.en-fr](en-fr/wmt15.en-fr.cometcompare)
+
+#### [wmt12.en-fr](en-fr/wmt12.en-fr.cometcompare)
+
+---
+
+## et-en
+
+| Translator/Dataset | flores-dev | flores-test | wmt18 |
+| --- | --- | --- | --- |
+| bergamot | 0.64 | 0.64 | 0.53 |
+| google | 0.81 (+0.17, +27.28%) | 0.79 (+0.15, +23.50%) | 0.70 (+0.17, +32.95%) |
+| microsoft | 0.78 (+0.14, +22.47%) | 0.76 (+0.12, +18.90%) | 0.67 (+0.15, +28.27%) |
+
+![Results](img/et-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.et-en](et-en/flores-dev.et-en.cometcompare)
+
+#### [flores-test.et-en](et-en/flores-test.et-en.cometcompare)
+
+#### [wmt18.et-en](et-en/wmt18.et-en.cometcompare)
+
+---
+
+## bg-en
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | 0.68 | 0.68 |
+| google | 0.75 (+0.07, +10.78%) | 0.75 (+0.07, +10.20%) |
+| microsoft | 0.73 (+0.05, +7.24%) | 0.73 (+0.05, +6.85%) |
+
+![Results](img/bg-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.bg-en](bg-en/flores-dev.bg-en.cometcompare)
+
+#### [flores-test.bg-en](bg-en/flores-test.bg-en.cometcompare)
+
+---
+
+## de-en
+
+| Translator/Dataset | wmt16 | wmt13 | iwslt17 | wmt10 | wmt17 | wmt21 | wmt14 | wmt19 | wmt11 | flores-dev | wmt22 | wmt20 | flores-test | wmt15 | wmt08 | wmt12 | wmt09 | wmt18 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.56 | 0.51 | 0.48 | 0.45 | 0.52 | 0.48 | 0.49 | 0.42 | 0.39 | 0.68 | 0.40 | 0.54 | 0.68 | 0.52 | 0.40 | 0.39 | 0.41 | 0.59 |
+| google | 0.67 (+0.11, +19.14%) | 0.59 (+0.09, +17.02%) | 0.57 (+0.09, +17.90%) | 0.57 (+0.12, +26.30%) | 0.65 (+0.13, +24.59%) | 0.61 (+0.13, +26.55%) | 0.62 (+0.13, +26.73%) | 0.56 (+0.14, +33.82%) | 0.48 (+0.09, +23.84%) | 0.76 (+0.08, +11.20%) | 0.56 (+0.16, +39.97%) | 0.66 (+0.12, +21.72%) | 0.76 (+0.08, +11.39%) | 0.64 (+0.12, +22.16%) | 0.51 (+0.11, +28.55%) | 0.52 (+0.13, +32.01%) | 0.51 (+0.10, +24.67%) | 0.70 (+0.11, +18.64%) |
+| microsoft | 0.69 (+0.13, +22.61%) | 0.62 (+0.11, +22.04%) | 0.58 (+0.10, +20.38%) | 0.59 (+0.14, +31.49%) | 0.66 (+0.14, +26.89%) | 0.62 (+0.14, +29.45%) | 0.63 (+0.14, +28.91%) | 0.59 (+0.17, +40.49%) | 0.53 (+0.13, +34.47%) | 0.77 (+0.09, +13.35%) | 0.55 (+0.15, +38.39%) | 0.69 (+0.15, +27.66%) | 0.77 (+0.09, +13.01%) | 0.65 (+0.13, +24.18%) | 0.53 (+0.13, +33.38%) | 0.55 (+0.16, +39.30%) | 0.54 (+0.12, +30.32%) | 0.72 (+0.13, +22.61%) |
+
+![Results](img/de-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt16.de-en](de-en/wmt16.de-en.cometcompare)
+
+#### [wmt13.de-en](de-en/wmt13.de-en.cometcompare)
+
+#### [iwslt17.de-en](de-en/iwslt17.de-en.cometcompare)
+
+#### [wmt10.de-en](de-en/wmt10.de-en.cometcompare)
+
+#### [wmt17.de-en](de-en/wmt17.de-en.cometcompare)
+
+#### [wmt21.de-en](de-en/wmt21.de-en.cometcompare)
+
+#### [wmt14.de-en](de-en/wmt14.de-en.cometcompare)
+
+#### [wmt19.de-en](de-en/wmt19.de-en.cometcompare)
+
+#### [wmt11.de-en](de-en/wmt11.de-en.cometcompare)
+
+#### [flores-dev.de-en](de-en/flores-dev.de-en.cometcompare)
+
+#### [wmt22.de-en](de-en/wmt22.de-en.cometcompare)
+
+#### [wmt20.de-en](de-en/wmt20.de-en.cometcompare)
+
+#### [flores-test.de-en](de-en/flores-test.de-en.cometcompare)
+
+#### [wmt15.de-en](de-en/wmt15.de-en.cometcompare)
+
+#### [wmt08.de-en](de-en/wmt08.de-en.cometcompare)
+
+#### [wmt12.de-en](de-en/wmt12.de-en.cometcompare)
+
+#### [wmt09.de-en](de-en/wmt09.de-en.cometcompare)
+
+#### [wmt18.de-en](de-en/wmt18.de-en.cometcompare)
+
+---
+
+## en-cs
+
+| Translator/Dataset | wmt13 | wmt08 | wmt20 | wmt18 | wmt12 | flores-test | wmt22 | wmt15 | wmt19 | flores-dev | wmt10 | wmt21 | wmt11 | wmt17 | wmt16 | wmt14 | wmt09 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.69 | 0.54 | 0.56 | 0.64 | 0.56 | 0.71 | 0.62 | 0.67 | 0.52 | 0.69 | 0.62 | 0.47 | 0.57 | 0.63 | 0.64 | 0.75 | 0.60 |
+| google | 0.85 (+0.16, +23.48%) | 0.78 (+0.23, +42.55%) | 0.78 (+0.22, +40.24%) | 0.81 (+0.17, +27.29%) | 0.76 (+0.20, +35.71%) | 0.94 (+0.22, +31.15%) | 0.97 (+0.35, +56.87%) | 0.86 (+0.19, +28.21%) | 0.72 (+0.19, +36.99%) | 0.93 (+0.24, +35.25%) | 0.81 (+0.20, +31.98%) | 0.65 (+0.18, +39.55%) | 0.77 (+0.21, +36.28%) | 0.81 (+0.18, +28.54%) | 0.85 (+0.20, +31.30%) | 0.95 (+0.20, +26.09%) | 0.81 (+0.21, +35.50%) |
+| microsoft | 0.87 (+0.18, +26.24%) | 0.78 (+0.24, +43.93%) | 0.81 (+0.26, +46.36%) | 0.82 (+0.19, +29.54%) | 0.78 (+0.22, +39.87%) | 0.93 (+0.22, +30.79%) | 0.94 (+0.32, +51.72%) | 0.87 (+0.20, +29.32%) | 0.77 (+0.25, +47.26%) | 0.93 (+0.24, +35.06%) | 0.83 (+0.21, +34.19%) | 0.69 (+0.22, +47.65%) | 0.80 (+0.23, +41.09%) | 0.83 (+0.19, +30.58%) | 0.85 (+0.21, +32.08%) | 0.97 (+0.22, +28.96%) | 0.82 (+0.22, +36.38%) |
+
+![Results](img/en-cs-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt13.en-cs](en-cs/wmt13.en-cs.cometcompare)
+
+#### [wmt08.en-cs](en-cs/wmt08.en-cs.cometcompare)
+
+#### [wmt20.en-cs](en-cs/wmt20.en-cs.cometcompare)
+
+#### [wmt18.en-cs](en-cs/wmt18.en-cs.cometcompare)
+
+#### [wmt12.en-cs](en-cs/wmt12.en-cs.cometcompare)
+
+#### [flores-test.en-cs](en-cs/flores-test.en-cs.cometcompare)
+
+#### [wmt22.en-cs](en-cs/wmt22.en-cs.cometcompare)
+
+#### [wmt15.en-cs](en-cs/wmt15.en-cs.cometcompare)
+
+#### [wmt19.en-cs](en-cs/wmt19.en-cs.cometcompare)
+
+#### [flores-dev.en-cs](en-cs/flores-dev.en-cs.cometcompare)
+
+#### [wmt10.en-cs](en-cs/wmt10.en-cs.cometcompare)
+
+#### [wmt21.en-cs](en-cs/wmt21.en-cs.cometcompare)
+
+#### [wmt11.en-cs](en-cs/wmt11.en-cs.cometcompare)
+
+#### [wmt17.en-cs](en-cs/wmt17.en-cs.cometcompare)
+
+#### [wmt16.en-cs](en-cs/wmt16.en-cs.cometcompare)
+
+#### [wmt14.en-cs](en-cs/wmt14.en-cs.cometcompare)
+
+#### [wmt09.en-cs](en-cs/wmt09.en-cs.cometcompare)
+
+---
+
+## cs-en
+
+| Translator/Dataset | wmt16 | wmt13 | wmt10 | wmt17 | wmt21 | wmt14 | wmt11 | flores-dev | wmt22 | wmt20 | flores-test | wmt15 | wmt08 | wmt12 | wmt09 | wmt18 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.49 | 0.50 | 0.44 | 0.45 | 0.48 | 0.58 | 0.42 | 0.65 | 0.56 | 0.35 | 0.65 | 0.49 | 0.37 | 0.43 | 0.43 | 0.48 |
+| google | 0.62 (+0.14, +28.02%) | 0.61 (+0.11, +22.27%) | 0.57 (+0.13, +29.34%) | 0.58 (+0.12, +27.16%) | 0.60 (+0.13, +26.57%) | 0.70 (+0.12, +21.51%) | 0.53 (+0.12, +28.57%) | 0.76 (+0.10, +15.57%) | 0.70 (+0.15, +26.20%) | 0.51 (+0.16, +45.11%) | 0.77 (+0.11, +17.54%) | 0.62 (+0.13, +25.73%) | 0.52 (+0.15, +40.50%) | 0.54 (+0.12, +27.53%) | 0.56 (+0.13, +30.04%) | 0.59 (+0.11, +21.91%) |
+| microsoft | 0.62 (+0.14, +27.98%) | 0.63 (+0.13, +26.54%) | 0.58 (+0.13, +30.17%) | 0.57 (+0.12, +27.05%) | 0.59 (+0.11, +23.82%) | 0.72 (+0.14, +23.88%) | 0.56 (+0.14, +34.49%) | 0.75 (+0.10, +14.81%) | 0.72 (+0.16, +29.08%) | 0.50 (+0.15, +43.38%) | 0.76 (+0.11, +16.39%) | 0.63 (+0.13, +27.25%) | 0.52 (+0.15, +40.53%) | 0.56 (+0.14, +32.00%) | 0.57 (+0.14, +31.69%) | 0.60 (+0.12, +24.30%) |
+
+![Results](img/cs-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt16.cs-en](cs-en/wmt16.cs-en.cometcompare)
+
+#### [wmt13.cs-en](cs-en/wmt13.cs-en.cometcompare)
+
+#### [wmt10.cs-en](cs-en/wmt10.cs-en.cometcompare)
+
+#### [wmt17.cs-en](cs-en/wmt17.cs-en.cometcompare)
+
+#### [wmt21.cs-en](cs-en/wmt21.cs-en.cometcompare)
+
+#### [wmt14.cs-en](cs-en/wmt14.cs-en.cometcompare)
+
+#### [wmt11.cs-en](cs-en/wmt11.cs-en.cometcompare)
+
+#### [flores-dev.cs-en](cs-en/flores-dev.cs-en.cometcompare)
+
+#### [wmt22.cs-en](cs-en/wmt22.cs-en.cometcompare)
+
+#### [wmt20.cs-en](cs-en/wmt20.cs-en.cometcompare)
+
+#### [flores-test.cs-en](cs-en/flores-test.cs-en.cometcompare)
+
+#### [wmt15.cs-en](cs-en/wmt15.cs-en.cometcompare)
+
+#### [wmt08.cs-en](cs-en/wmt08.cs-en.cometcompare)
+
+#### [wmt12.cs-en](cs-en/wmt12.cs-en.cometcompare)
+
+#### [wmt09.cs-en](cs-en/wmt09.cs-en.cometcompare)
+
+#### [wmt18.cs-en](cs-en/wmt18.cs-en.cometcompare)
 
 ---
