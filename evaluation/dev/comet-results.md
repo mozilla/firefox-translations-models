@@ -48,13 +48,42 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ## avg
 
-| Translator/Dataset | ru-en | en-nl | en-ru | en-fa | nl-en | uk-en | fa-en | ca-en | en-uk | is-en |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.49 | 0.58 | 0.54 | 0.31 | 0.63 | 0.52 | 0.50 | 0.65 | 0.51 | 0.15 |
-| google | 0.59 (+0.10, +20.83%) | 0.67 (+0.08, +14.30%) | 0.76 (+0.21, +39.38%) | 0.70 (+0.39, +126.54%) | 0.70 (+0.07, +10.71%) | 0.67 (+0.15, +28.26%) | 0.74 (+0.24, +48.00%) | 0.82 (+0.16, +24.78%) | 0.79 (+0.27, +53.31%) | 0.70 (+0.55, +370.91%) |
-| microsoft | 0.60 (+0.11, +22.13%) | 0.65 (+0.06, +11.05%) | 0.72 (+0.18, +32.36%) | 0.41 (+0.10, +31.65%) | 0.69 (+0.06, +9.12%) | 0.64 (+0.12, +23.16%) | 0.66 (+0.16, +32.78%) | 0.79 (+0.14, +21.22%) | 0.75 (+0.23, +45.60%) | 0.67 (+0.52, +353.71%) |
+| Translator/Dataset | hu-en | ru-en | en-nl | en-ru | en-fa | nl-en | uk-en | fa-en | ca-en | en-uk | is-en |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.56 | 0.49 | 0.58 | 0.54 | 0.31 | 0.63 | 0.52 | 0.50 | 0.65 | 0.51 | 0.15 |
+| google | 0.66 (+0.10, +17.32%) | 0.59 (+0.10, +20.83%) | 0.67 (+0.08, +14.30%) | 0.76 (+0.21, +39.38%) | 0.70 (+0.39, +126.54%) | 0.70 (+0.07, +10.71%) | 0.67 (+0.15, +28.26%) | 0.74 (+0.24, +48.00%) | 0.82 (+0.16, +24.78%) | 0.79 (+0.27, +53.31%) | 0.70 (+0.55, +370.91%) |
+| microsoft | 0.66 (+0.10, +17.85%) | 0.60 (+0.11, +22.13%) | 0.65 (+0.06, +11.05%) | 0.72 (+0.18, +32.36%) | 0.41 (+0.10, +31.65%) | 0.69 (+0.06, +9.12%) | 0.64 (+0.12, +23.16%) | 0.66 (+0.16, +32.78%) | 0.79 (+0.14, +21.22%) | 0.75 (+0.23, +45.60%) | 0.67 (+0.52, +353.71%) |
 
 ![Results](img/avg-comet.png)
+---
+
+## hu-en
+
+| Translator/Dataset | wmt08 | flores-test | wmt09 | flores-dev |
+| --- | --- | --- | --- | --- |
+| bergamot | 0.44 | 0.66 | 0.47 | 0.68 |
+| google | 0.54 (+0.10, +22.47%) | 0.76 (+0.10, +15.46%) | 0.57 (+0.10, +20.66%) | 0.77 (+0.09, +13.48%) |
+| microsoft | 0.55 (+0.11, +23.95%) | 0.76 (+0.10, +15.33%) | 0.57 (+0.10, +21.81%) | 0.77 (+0.09, +13.63%) |
+
+![Results](img/hu-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt08.hu-en](hu-en/wmt08.hu-en.cometcompare)
+- wmt08.microsoft.en outperforms wmt08.bergamot.en.
+- wmt08.google.en outperforms wmt08.bergamot.en.
+
+#### [flores-test.hu-en](hu-en/flores-test.hu-en.cometcompare)
+- flores-test.microsoft.en outperforms flores-test.bergamot.en.
+- flores-test.google.en outperforms flores-test.bergamot.en.
+
+#### [wmt09.hu-en](hu-en/wmt09.hu-en.cometcompare)
+- wmt09.microsoft.en outperforms wmt09.bergamot.en.
+- wmt09.google.en outperforms wmt09.bergamot.en.
+
+#### [flores-dev.hu-en](hu-en/flores-dev.hu-en.cometcompare)
+- flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
+- flores-dev.google.en outperforms flores-dev.bergamot.en.
+
 ---
 
 ## ru-en
