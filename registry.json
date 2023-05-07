@@ -602,6 +602,29 @@
       "modelType": "dev"
     }
   },
+  "huen": {
+    "model": {
+      "name": "model.huen.intgemm.alphas.bin",
+      "size": 17140899,
+      "estimatedCompressedSize": 13181613,
+      "expectedSha256Hash": "518356dbb0c071739318601963a87580fb41732652f52bd3635246330c186d9e",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.huen.s2t.bin",
+      "size": 5162428,
+      "estimatedCompressedSize": 2778202,
+      "expectedSha256Hash": "fff56b2501258ec4c46a8fc715caee7aeb15d853f859cdfacd3ef9903ed2fff1",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.huen.spm",
+      "size": 820746,
+      "estimatedCompressedSize": 419908,
+      "expectedSha256Hash": "0db772702235b02d1f29abafb7a49ed77e54c60245b3a46e90716e74263aedd6",
+      "modelType": "dev"
+    }
+  },
   "isen": {
     "model": {
       "name": "model.isen.intgemm.alphas.bin",
