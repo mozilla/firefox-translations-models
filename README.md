@@ -92,3 +92,4 @@ Suffix of the model file in the registry:
 - Ukrainian <-> English
 - Dutch <-> English
 - Catalan -> English
+- Hungarian -> English
