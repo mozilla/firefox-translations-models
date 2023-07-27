@@ -11,9 +11,9 @@ When a dev model has satisfactory quality, it is moved to prod.
 
 # Automatic quality evaluation
 
-[Results for prod models](evaluation/prod/results.md)
+Results for prod models: [BLEU](evaluation/prod/bleu-results.md), [COMET](evaluation/prod/comet-results.md)
 
-[Resutls for dev models](evaluation/dev/results.md)
+Results for dev models: [BLEU](evaluation/dev/bleu-results.md), [COMET](evaluation/dev/comet-results.md)
 
 Automatic evaluation is a part of pull request CI. 
 It uses Microsoft and Google translation APIs and pushes results back to the branch (not available for forks).
