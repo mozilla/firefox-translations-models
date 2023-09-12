@@ -93,3 +93,4 @@ Suffix of the model file in the registry:
 - Dutch <-> English
 - Catalan -> English
 - Hungarian -> English
+- Finnish -> English
