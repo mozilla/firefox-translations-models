@@ -1,9 +1,9 @@
 # Firefox Translations models
-CPU-optimized NMT models for [Firefox Translations](https://github.com/mozilla-extensions/firefox-translations).
+CPU-optimized NMT models for Firefox Translations.
 
 The model files are hosted using [Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/about-git-large-file-storage).
 
-[prod](models/prod) - production quality models 
+[prod](models/prod) - higher quality models 
 
 [dev](models/dev) - test models under development (can be of low quality or speed). 
 
@@ -71,6 +71,8 @@ Suffix of the model file in the registry:
 ## 
 
 # Currently supported Languages
+
+The prod/dev labels in this repo correspond to the labels in the [legacy web extension](https://github.com/mozilla/firefox-translations) and are not related to the native integration in Firefox.
 
 ## Prod
 - Spanish <-> English
