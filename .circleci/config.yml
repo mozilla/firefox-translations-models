@@ -41,6 +41,7 @@ jobs:
       - run:
           name: Running evaluation
           command: |
+            find ./models -type f -exec git lfs pull {} \;
             bash scripts/update-results.sh
       - run:
           name: Showing results
