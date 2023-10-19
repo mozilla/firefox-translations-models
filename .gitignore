@@ -132,6 +132,3 @@ dmypy.json
 ._.DS_Store
 *.bin
 *.spm
-
-evals/data/
-data/
