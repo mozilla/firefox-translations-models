@@ -19,7 +19,7 @@ jobs:
             bash scripts/upload.sh
   evaluate:
     machine:
-      image: ubuntu-2004-cuda-11.4:202110-01
+      image: linux-cuda-11:default
     resource_class: gpu.nvidia.large
     working_directory: ~/mozilla/firefox-translations-models
     steps:
