@@ -17,7 +17,7 @@ Results for dev models: [BLEU](evaluation/dev/bleu-results.md), [COMET](evaluati
 
 Automatic evaluation is a part of pull request CI. 
 It uses Microsoft and Google translation APIs and pushes results back to the branch (not available for forks).
-It is performed using [firefox-translations-evaluation](https://github.com/mozilla/firefox-translations-evaluation) tool.
+It is performed using the [evals](/evals) tool.
 
 # Model training
 
