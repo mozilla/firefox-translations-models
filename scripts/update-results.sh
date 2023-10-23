@@ -21,15 +21,8 @@ xargs rm -f
 echo "Extracting models"
 gzip -drf models/*/*/*
 
-echo "Cloning evaluation repo"
-if [ ! -e firefox-translations-evaluation ]; then
-  git clone https://github.com/mozilla/firefox-translations-evaluation.git
-fi
-
 echo "Building docker image"
-cd firefox-translations-evaluation
-docker build -t bergamot-eval .
-cd ..
+make build-docker
 
 echo "Running evaluation"
 GCP_CREDS_PATH="/tmp/.gcp_creds"
