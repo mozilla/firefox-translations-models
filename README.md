@@ -94,5 +94,5 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 - Ukrainian <-> English
 - Dutch <-> English
 - Catalan -> English
-- Hungarian -> English
+- Hungarian <-> English
 - Finnish -> English
