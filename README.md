@@ -1,9 +1,9 @@
 # Firefox Translations models
-CPU-optimized NMT models for [Firefox Translations](https://github.com/mozilla-extensions/firefox-translations).
+CPU-optimized NMT models for Firefox Translations.
 
 The model files are hosted using [Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/about-git-large-file-storage).
 
-[prod](models/prod) - production quality models 
+[prod](models/prod) - higher quality models 
 
 [dev](models/dev) - test models under development (can be of low quality or speed). 
 
@@ -17,7 +17,7 @@ Results for dev models: [BLEU](evaluation/dev/bleu-results.md), [COMET](evaluati
 
 Automatic evaluation is a part of pull request CI. 
 It uses Microsoft and Google translation APIs and pushes results back to the branch (not available for forks).
-It is performed using [firefox-translations-evaluation](https://github.com/mozilla/firefox-translations-evaluation) tool.
+It is performed using the [evals](/evals) tool.
 
 # Model training
 
@@ -72,6 +72,8 @@ Suffix of the model file in the registry:
 
 # Currently supported Languages
 
+The prod/dev labels in this repo correspond to the labels in the [legacy web extension](https://github.com/mozilla/firefox-translations) and are not related to the native integration in Firefox.
+
 ## Prod
 - Spanish <-> English
 - Estonian <-> English
@@ -92,4 +94,5 @@ Suffix of the model file in the registry:
 - Ukrainian <-> English
 - Dutch <-> English
 - Catalan -> English
-- Hungarian -> English
+- Hungarian <-> English
+- Finnish -> English

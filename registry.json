@@ -435,13 +435,6 @@
     }
   },
   "pten": {
-    "model": {
-      "name": "model.pten.intgemm.alphas.bin",
-      "size": 17140899,
-      "estimatedCompressedSize": 13204180,
-      "expectedSha256Hash": "b4a1fd101f59ca258bfb051a3a4e5762497b9f91d7e74f28b7a2d68dc075f8fa",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.pten.s2t.bin",
       "size": 4801740,
@@ -454,6 +447,13 @@
       "size": 817234,
       "estimatedCompressedSize": 410584,
       "expectedSha256Hash": "2326a27577b5ffa0b822c55fe850986961728097521de35fcc186f7d6dce72d4",
+      "modelType": "prod"
+    },
+    "model": {
+      "name": "model.pten.intgemm.alphas.bin",
+      "size": 17140899,
+      "estimatedCompressedSize": 13204180,
+      "expectedSha256Hash": "b4a1fd101f59ca258bfb051a3a4e5762497b9f91d7e74f28b7a2d68dc075f8fa",
       "modelType": "prod"
     }
   },
@@ -500,6 +500,29 @@
       "size": 794181,
       "estimatedCompressedSize": 372636,
       "expectedSha256Hash": "ecf95b5cf04b86bf68113b3d6fdcf23c2728eb5929cebc0f5aa5c4d8b8330fa4",
+      "modelType": "dev"
+    }
+  },
+  "enhu": {
+    "model": {
+      "name": "model.enhu.intgemm.alphas.bin",
+      "size": 17140898,
+      "estimatedCompressedSize": 13161507,
+      "expectedSha256Hash": "3c639b9cf912049e4f6bc8cb612ae9d7a8e3a0e7879591b82c644a41dd527c45",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.enhu.s2t.bin",
+      "size": 4167800,
+      "estimatedCompressedSize": 1608766,
+      "expectedSha256Hash": "cd5f4424ab156b158c57707a1491a17922e1b2498e6af47ee324264834e4f319",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.enhu.spm",
+      "size": 822969,
+      "estimatedCompressedSize": 421159,
+      "expectedSha256Hash": "7c29d374a73886fac74a205c6a30dcd3dd7b3199126bee48312c55481b2cf505",
       "modelType": "dev"
     }
   },
@@ -599,6 +622,29 @@
       "size": 845020,
       "estimatedCompressedSize": 421102,
       "expectedSha256Hash": "c3a675794dcba12dde8e1a343a82d973b7c9584f9dce3dad37f99dfe64fd29de",
+      "modelType": "dev"
+    }
+  },
+  "fien": {
+    "model": {
+      "name": "model.fien.intgemm.alphas.bin",
+      "size": 17140995,
+      "estimatedCompressedSize": 13240505,
+      "expectedSha256Hash": "1bcc9d3b178ca8d6a99e4ed4263044308cc94381c27b46930252d92fd9445c67",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.fien.s2t.bin",
+      "size": 5046280,
+      "estimatedCompressedSize": 2702886,
+      "expectedSha256Hash": "07110471bcdf71ce248a471adc00b6fbb4ead00591a2fbfd24c0d00bcb552595",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.fien.spm",
+      "size": 821437,
+      "estimatedCompressedSize": 416678,
+      "expectedSha256Hash": "30feb41f8297548bd94addd2e3dda57ad1153deaf88870f13764029d673518e0",
       "modelType": "dev"
     }
   },

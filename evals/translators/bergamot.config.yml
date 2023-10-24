@@ -1,0 +1,28 @@
+
+# These Marian options are set according to
+# https://github.com/mozilla/firefox-translations/blob/main/extension/controller/translation/translationWorker.js
+# to imitate production setting
+
+
+bergamot-mode: wasm
+models:
+  - MODEL
+vocabs:
+  - SRCVOCAB
+  - TRGVOCAB
+shortlist:
+    - SHORTLIST
+    - false
+beam-size: 1
+normalize: 1.0
+word-penalty: 0
+max-length-break: 128
+mini-batch-words: 1024
+workspace: 128
+max-length-factor: 2.0
+skip-cost: true
+cpu-threads: 0
+quiet: false
+quiet-translation: false
+gemm-precision: PRECISION
+alignment: soft
