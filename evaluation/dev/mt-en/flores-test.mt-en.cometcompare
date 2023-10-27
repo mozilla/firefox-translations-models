@@ -21,13 +21,13 @@ y_name: flores-test.google.en
 
 Bootstrap Resampling Results:
 x-mean:	0.7598
-y-mean:	0.8392
+y-mean:	0.8391
 ties (%):	0.0000
 x_wins (%):	0.0000
 y_wins (%):	1.0000
 
 Paired T-Test Results:
-statistic:	-29.4395
+statistic:	-29.4188
 p_value:	0.0000
 Null hypothesis rejected according to t-test.
 Scores differ significantly across samples.
@@ -38,13 +38,13 @@ y_name: flores-test.google.en
 
 Bootstrap Resampling Results:
 x-mean:	0.8292
-y-mean:	0.8392
+y-mean:	0.8391
 ties (%):	0.0000
 x_wins (%):	0.0000
 y_wins (%):	1.0000
 
 Paired T-Test Results:
-statistic:	-6.9801
+statistic:	-6.9638
 p_value:	0.0000
 Null hypothesis rejected according to t-test.
 Scores differ significantly across samples.

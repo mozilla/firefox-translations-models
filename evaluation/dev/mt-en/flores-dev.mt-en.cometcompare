@@ -27,7 +27,7 @@ x_wins (%):	0.0000
 y_wins (%):	1.0000
 
 Paired T-Test Results:
-statistic:	-30.1261
+statistic:	-30.1219
 p_value:	0.0000
 Null hypothesis rejected according to t-test.
 Scores differ significantly across samples.
@@ -44,7 +44,7 @@ x_wins (%):	0.0000
 y_wins (%):	1.0000
 
 Paired T-Test Results:
-statistic:	-8.9756
+statistic:	-8.9718
 p_value:	0.0000
 Null hypothesis rejected according to t-test.
 Scores differ significantly across samples.
