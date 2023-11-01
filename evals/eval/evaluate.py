@@ -12,6 +12,10 @@ import pandas as pd
 from mtdata import iso
 from os.path import exists
 
+UNSUPPORTED_LANGUAGES = {
+    "argos": ["is"],
+}
+
 HOME_DIR = './'
 EVAL_DIR = os.path.join(HOME_DIR, 'eval')
 EVAL_PATH = os.path.join(EVAL_DIR, 'eval.sh')
@@ -169,6 +173,9 @@ def run_dir(lang_pairs, skip_existing, translators, evaluation_engines, gpus, re
 
             for dataset_name in find_datasets(pair):
                 for translator in reordered:
+                    if translator in UNSUPPORTED_LANGUAGES and any(unsupported_language in pair for unsupported_language in UNSUPPORTED_LANGUAGES[translator]):
+                        continue
+
                     print(f'Evaluation for dataset: {dataset_name}, translator: {translator}, pair: {pair[0]}-{pair[1]}, evaluation engine: {evaluation_engine}')
 
                     res_path = get_bleu_path(dataset_name, pair, results_dir, translator, evaluation_engine)
