@@ -32,7 +32,8 @@ TRANS_ORDER = {'bergamot': 0,
                'google': 1,
                'microsoft': 2,
                'argos': 3,
-               'nllb': 4}
+               'nllb': 4,
+               'opusmt': 5}
 
 
 def get_dataset_prefix(dataset_name, pair, results_dir):
