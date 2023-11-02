@@ -1,11 +1,15 @@
 import os
 
+os.environ['ARGOS_DEVICE_TYPE'] = "cuda"
+
 import argostranslate.package
 import argostranslate.translate
+import argostranslate.settings
 import sys
 
 from tqdm import tqdm
 
+assert argostranslate.settings.device == "cuda"
 
 def translate(texts, source, target):
     return [argostranslate.translate.translate(text, source, target) for text in tqdm(texts)]
