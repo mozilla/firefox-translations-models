@@ -12,8 +12,8 @@ import pandas as pd
 from mtdata import iso
 from os.path import exists
 
-UNSUPPORTED_LANGUAGES = {
-    "argos": ["is"],
+SUPPORTED_LANGUAGES = {
+    "argos": {"ar", "az", "ca", "zh", "cs", "da", "nl", "eo", "fi", "fr", "el", "he", "hi", "hu", "id", "ga", "it", "ja", "ko", "fa", "pl", "pt", "ru", "sk", "sp", "sv", "tr", "uk"},
 }
 
 HOME_DIR = './'
@@ -173,7 +173,7 @@ def run_dir(lang_pairs, skip_existing, translators, evaluation_engines, gpus, re
 
             for dataset_name in find_datasets(pair):
                 for translator in reordered:
-                    if translator in UNSUPPORTED_LANGUAGES and any(unsupported_language in pair for unsupported_language in UNSUPPORTED_LANGUAGES[translator]):
+                    if translator in SUPPORTED_LANGUAGES and not any(supported_language in pair for supported_language in SUPPORTED_LANGUAGES[translator]):
                         continue
 
                     print(f'Evaluation for dataset: {dataset_name}, translator: {translator}, pair: {pair[0]}-{pair[1]}, evaluation engine: {evaluation_engine}')
