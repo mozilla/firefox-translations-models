@@ -106,18 +106,18 @@
       "expectedSha256Hash": "e19c77231bf977988e31ff8db15fe79966b5170564bd3e10613f239e7f461d97",
       "modelType": "prod"
     },
-    "vocab": {
-      "name": "vocab.csen.spm",
-      "size": 769763,
-      "estimatedCompressedSize": 366392,
-      "expectedSha256Hash": "f71cc5d045e479607078e079884f44032f5a0b82547fb96eefa29cd1eb47c6f3",
-      "modelType": "prod"
-    },
     "qualityModel": {
       "name": "qualityModel.encs.bin",
       "size": 68,
       "estimatedCompressedSize": 108,
       "expectedSha256Hash": "d7eba90036a065e4a1e93e889befe09f93a7d9a3417f3edffdb09a0db88fe83a",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.csen.spm",
+      "size": 769763,
+      "estimatedCompressedSize": 366392,
+      "expectedSha256Hash": "f71cc5d045e479607078e079884f44032f5a0b82547fb96eefa29cd1eb47c6f3",
       "modelType": "prod"
     }
   },
