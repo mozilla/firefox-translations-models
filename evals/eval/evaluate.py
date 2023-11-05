@@ -13,7 +13,7 @@ from mtdata import iso
 from os.path import exists
 
 SUPPORTED_LANGUAGES = {
-    "argos": {"ar", "az", "ca", "zh", "cs", "da", "nl", "eo", "es", "et", "fi", "fr", "el", "he", "hi", "hu", "id", "ga", "it", "ja", "ko", "fa", "nb", "pl", "pt", "ru", "sk", "sp", "sv", "tr", "uk"},
+    "argos": {"ar", "az", "bg", "ca", "cs", "da", "de", "el", "eo", "es", "et", "fa", "fi", "fr", "ga", "he", "hi", "hu", "id", "it", "ja", "ko", "nb", "nl", "pl", "pt", "ru", "sk", "sp", "sv", "tr", "uk", "zh"},
 }
 
 HOME_DIR = './'
