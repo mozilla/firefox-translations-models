@@ -12,6 +12,10 @@ import pandas as pd
 from mtdata import iso
 from os.path import exists
 
+SUPPORTED_LANGUAGES = {
+    "argos": {"ar", "az", "ca", "zh", "cs", "da", "nl", "eo", "fi", "fr", "el", "he", "hi", "hu", "id", "ga", "it", "ja", "ko", "fa", "pl", "pt", "ru", "sk", "sp", "sv", "tr", "uk"},
+}
+
 HOME_DIR = './'
 EVAL_DIR = os.path.join(HOME_DIR, 'eval')
 EVAL_PATH = os.path.join(EVAL_DIR, 'eval.sh')
@@ -30,7 +34,8 @@ BERGAMOT_EVAL_PATH = os.path.join(HOME_DIR, 'translators', 'bergamot.sh')
 
 TRANS_ORDER = {'bergamot': 0,
                'google': 1,
-               'microsoft': 2}
+               'microsoft': 2,
+               'argos': 3}
 
 
 def get_dataset_prefix(dataset_name, pair, results_dir):
@@ -118,6 +123,8 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
         cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'google_translate.py')}"
     elif translator == 'microsoft':
         cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'microsoft.py')}"
+    elif translator == 'argos':
+        cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'argos.py')}"
     else:
         raise ValueError(f'Translator is not supported: {translator}')
 
@@ -166,6 +173,9 @@ def run_dir(lang_pairs, skip_existing, translators, evaluation_engines, gpus, re
 
             for dataset_name in find_datasets(pair):
                 for translator in reordered:
+                    if translator in SUPPORTED_LANGUAGES and not any(supported_language in pair for supported_language in SUPPORTED_LANGUAGES[translator]):
+                        continue
+
                     print(f'Evaluation for dataset: {dataset_name}, translator: {translator}, pair: {pair[0]}-{pair[1]}, evaluation engine: {evaluation_engine}')
 
                     res_path = get_bleu_path(dataset_name, pair, results_dir, translator, evaluation_engine)

@@ -8,3 +8,4 @@ pandas==1.1.5
 matplotlib==3.4.2
 mtdata==0.2.9
 unbabel-comet==2.1.1
+argostranslate==1.9.1
