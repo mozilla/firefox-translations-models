@@ -53,7 +53,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 | bergamot | 0.48 | 0.86 | 0.68 | 0.59 | 0.86 | 0.60 | 0.64 | 0.68 | 0.61 | 0.80 | 0.61 | 0.49 | 0.62 | 0.56 | 0.56 | 0.66 | 0.75 | 0.55 | 0.51 |
 | google | 0.61 (+0.13, +26.78%) | 1.07 (+0.21, +24.57%) | 0.76 (+0.08, +12.35%) | 0.65 (+0.06, +10.69%) | 0.93 (+0.06, +7.42%) | 0.77 (+0.17, +28.18%) | 0.81 (+0.17, +26.28%) | 0.75 (+0.07, +10.49%) | 0.69 (+0.09, +14.08%) | 0.88 (+0.09, +10.75%) | 0.83 (+0.22, +35.44%) | 0.61 (+0.11, +22.99%) | 0.68 (+0.06, +10.18%) | 0.66 (+0.09, +16.81%) | 0.67 (+0.11, +20.19%) | 0.82 (+0.17, +25.52%) | 0.80 (+0.05, +6.85%) | 0.62 (+0.07, +11.99%) | 0.60 (+0.09, +17.91%) |
 | microsoft | 0.62 (+0.14, +27.97%) | 1.05 (+0.19, +22.64%) | 0.76 (+0.09, +12.87%) | 0.67 (+0.08, +13.12%) | 0.91 (+0.05, +5.54%) | 0.74 (+0.14, +23.46%) | 0.81 (+0.16, +25.57%) | 0.73 (+0.05, +7.05%) | 0.70 (+0.09, +14.92%) | 0.86 (+0.07, +8.17%) | 0.84 (+0.23, +37.82%) | 0.63 (+0.13, +26.85%) | 0.68 (+0.06, +10.18%) | 0.66 (+0.10, +17.36%) | 0.69 (+0.13, +23.23%) | 0.80 (+0.14, +21.56%) | 0.79 (+0.05, +6.20%) | 0.63 (+0.08, +13.82%) | 0.61 (+0.10, +20.20%) |
-| argos | 0.71 (+0.23, +47.04%) | N/A | 0.84 (+0.16, +23.80%) | 0.83 (+0.24, +40.62%) | 0.86 (+0.00, +0.22%) | N/A | N/A | 0.85 (+0.17, +25.46%) | N/A | 0.88 (+0.08, +10.43%) | 0.68 (+0.07, +10.78%) | 0.82 (+0.32, +65.62%) | 0.83 (+0.21, +34.46%) | 0.84 (+0.27, +48.24%) | 0.81 (+0.25, +44.97%) | 0.84 (+0.18, +28.14%) | 0.87 (+0.12, +16.05%) | N/A | 0.79 (+0.28, +54.08%) |
+| argos | 0.71 (+0.23, +47.04%) | 0.86 (-0.00, -0.02%) | 0.84 (+0.16, +23.80%) | 0.83 (+0.24, +40.62%) | 0.86 (+0.00, +0.22%) | 0.86 (+0.26, +43.97%) | 0.87 (+0.22, +35.00%) | 0.85 (+0.17, +25.46%) | 0.82 (+0.21, +35.21%) | 0.88 (+0.08, +10.43%) | 0.68 (+0.07, +10.78%) | 0.82 (+0.32, +65.62%) | 0.83 (+0.21, +34.46%) | 0.84 (+0.27, +48.24%) | 0.81 (+0.25, +44.97%) | 0.84 (+0.18, +28.14%) | 0.87 (+0.12, +16.05%) | 0.82 (+0.27, +49.21%) | 0.79 (+0.28, +54.08%) |
 
 ![Results](img/avg-comet.png)
 ---
@@ -152,7 +152,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 | bergamot | 0.86 | 0.83 | 0.87 |
 | google | 1.09 (+0.23, +26.39%) | 1.03 (+0.20, +23.75%) | 1.07 (+0.20, +23.56%) |
 | microsoft | 1.06 (+0.20, +22.76%) | 1.02 (+0.18, +22.12%) | 1.07 (+0.20, +23.04%) |
-| argos | N/A | N/A | N/A |
+| argos | 0.86 (-0.00, -0.51%) | 0.85 (+0.01, +1.32%) | 0.86 (-0.01, -0.81%) |
 
 ![Results](img/en-et-comet.png)
 ### Comparisons between systems
@@ -301,7 +301,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 | bergamot | 0.64 | 0.52 | 0.63 |
 | google | 0.79 (+0.15, +24.06%) | 0.70 (+0.18, +33.71%) | 0.81 (+0.18, +27.76%) |
 | microsoft | 0.76 (+0.12, +19.44%) | 0.67 (+0.15, +29.00%) | 0.78 (+0.15, +22.94%) |
-| argos | N/A | N/A | N/A |
+| argos | 0.87 (+0.23, +35.83%) | 0.85 (+0.32, +61.93%) | 0.87 (+0.24, +37.36%) |
 
 ![Results](img/et-en-comet.png)
 ### Comparisons between systems
@@ -330,7 +330,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 | bergamot | 0.65 | 0.64 |
 | google | 0.81 (+0.16, +24.86%) | 0.81 (+0.18, +27.71%) |
 | microsoft | 0.80 (+0.16, +24.41%) | 0.81 (+0.17, +26.75%) |
-| argos | N/A | N/A |
+| argos | 0.86 (+0.22, +33.79%) | 0.87 (+0.23, +36.23%) |
 
 ![Results](img/nb-en-comet.png)
 ### Comparisons between systems
@@ -377,7 +377,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 | bergamot | 0.58 | 0.64 | 0.51 | 0.64 | 0.64 | 0.64 | 0.58 | 0.63 |
 | google | 0.66 (+0.08, +13.74%) | 0.71 (+0.06, +9.98%) | 0.60 (+0.10, +18.96%) | 0.75 (+0.11, +17.02%) | 0.76 (+0.12, +19.02%) | 0.72 (+0.08, +13.00%) | 0.65 (+0.07, +11.55%) | 0.69 (+0.06, +10.04%) |
 | microsoft | 0.68 (+0.10, +16.92%) | 0.72 (+0.08, +12.08%) | 0.60 (+0.10, +19.53%) | 0.74 (+0.09, +14.75%) | 0.74 (+0.10, +16.21%) | 0.73 (+0.09, +13.86%) | 0.66 (+0.08, +13.63%) | 0.71 (+0.08, +13.38%) |
-| argos | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| argos | 0.82 (+0.24, +41.44%) | 0.83 (+0.19, +29.69%) | 0.80 (+0.30, +59.03%) | 0.82 (+0.18, +28.07%) | 0.83 (+0.19, +29.22%) | 0.83 (+0.19, +28.96%) | 0.82 (+0.24, +40.42%) | 0.82 (+0.19, +30.92%) |
 
 ![Results](img/en-es-comet.png)
 ### Comparisons between systems
@@ -825,12 +825,12 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ## es-en
 
-| Translator/Dataset | wmt08 | flores-test | mtedx_test | wmt09 | wmt11 | wmt12 | wmt10 | flores-dev | wmt13 |
+| Translator/Dataset | wmt08 | wmt12 | flores-test | mtedx_test | wmt09 | wmt11 | wmt13 | wmt10 | flores-dev |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.46 | 0.66 | 0.43 | 0.47 | 0.52 | 0.56 | 0.58 | 0.66 | 0.60 |
-| google | 0.52 (+0.06, +12.89%) | 0.74 (+0.08, +12.52%) | 0.53 (+0.09, +21.84%) | 0.55 (+0.07, +15.87%) | 0.57 (+0.04, +8.52%) | 0.61 (+0.04, +7.32%) | 0.65 (+0.07, +11.52%) | 0.74 (+0.08, +12.89%) | 0.65 (+0.05, +7.48%) |
-| microsoft | 0.53 (+0.07, +14.99%) | 0.73 (+0.07, +11.40%) | 0.54 (+0.11, +24.18%) | 0.55 (+0.08, +17.25%) | 0.60 (+0.07, +14.17%) | 0.63 (+0.07, +11.90%) | 0.66 (+0.07, +12.86%) | 0.73 (+0.07, +11.07%) | 0.67 (+0.07, +10.80%) |
-| argos | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+| bergamot | 0.46 | 0.56 | 0.66 | 0.43 | 0.47 | 0.52 | 0.60 | 0.58 | 0.66 |
+| google | 0.52 (+0.06, +12.89%) | 0.61 (+0.04, +7.32%) | 0.74 (+0.08, +12.52%) | 0.53 (+0.09, +21.84%) | 0.55 (+0.07, +15.87%) | 0.57 (+0.04, +8.52%) | 0.65 (+0.05, +7.48%) | 0.65 (+0.07, +11.52%) | 0.74 (+0.08, +12.89%) |
+| microsoft | 0.53 (+0.07, +14.99%) | 0.63 (+0.07, +11.90%) | 0.73 (+0.07, +11.40%) | 0.54 (+0.11, +24.18%) | 0.55 (+0.08, +17.25%) | 0.60 (+0.07, +14.17%) | 0.67 (+0.07, +10.80%) | 0.66 (+0.07, +12.86%) | 0.73 (+0.07, +11.07%) |
+| argos | 0.80 (+0.34, +73.14%) | 0.82 (+0.26, +45.63%) | 0.84 (+0.19, +28.91%) | 0.81 (+0.37, +85.62%) | 0.80 (+0.33, +69.65%) | 0.81 (+0.29, +55.54%) | 0.83 (+0.23, +37.98%) | 0.83 (+0.24, +41.87%) | 0.84 (+0.19, +28.72%) |
 
 ![Results](img/es-en-comet.png)
 ### Comparisons between systems
@@ -839,6 +839,11 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - wmt08.microsoft.en outperforms wmt08.bergamot.en.
 - wmt08.google.en outperforms wmt08.bergamot.en.
 - wmt08.microsoft.en outperforms wmt08.google.en.
+
+#### [wmt12.es-en](es-en/wmt12.es-en.cometcompare)
+- wmt12.microsoft.en outperforms wmt12.bergamot.en.
+- wmt12.google.en outperforms wmt12.bergamot.en.
+- wmt12.microsoft.en outperforms wmt12.google.en.
 
 #### [flores-test.es-en](es-en/flores-test.es-en.cometcompare)
 - flores-test.microsoft.en outperforms flores-test.bergamot.en.
@@ -859,10 +864,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - wmt11.google.en outperforms wmt11.bergamot.en.
 - wmt11.microsoft.en outperforms wmt11.google.en.
 
-#### [wmt12.es-en](es-en/wmt12.es-en.cometcompare)
-- wmt12.microsoft.en outperforms wmt12.bergamot.en.
-- wmt12.google.en outperforms wmt12.bergamot.en.
-- wmt12.microsoft.en outperforms wmt12.google.en.
+#### [wmt13.es-en](es-en/wmt13.es-en.cometcompare)
+- wmt13.microsoft.en outperforms wmt13.bergamot.en.
+- wmt13.google.en outperforms wmt13.bergamot.en.
+- wmt13.microsoft.en outperforms wmt13.google.en.
 
 #### [wmt10.es-en](es-en/wmt10.es-en.cometcompare)
 - wmt10.microsoft.en outperforms wmt10.bergamot.en.
@@ -873,11 +878,6 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.microsoft.en.
-
-#### [wmt13.es-en](es-en/wmt13.es-en.cometcompare)
-- wmt13.microsoft.en outperforms wmt13.bergamot.en.
-- wmt13.google.en outperforms wmt13.bergamot.en.
-- wmt13.microsoft.en outperforms wmt13.google.en.
 
 ---
 
