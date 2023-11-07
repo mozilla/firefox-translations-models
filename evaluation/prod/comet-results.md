@@ -29,6 +29,8 @@ Tool: https://github.com/Unbabel/COMET
 1. **bergamot** - uses compiled  [bergamot-translator](https://github.com/mozilla/bergamot-translator)  (wrapper for marian that is used by Firefox Translations web extension)
 2. **google** - uses Google Translation [API](https://cloud.google.com/translate)
 3. **microsoft** - uses Azure Cognitive Services Translator [API](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
+4. **argos** - uses [Argos Translate](https://github.com/argosopentech/argos-translate)
+5. **nllb** - uses [No Language Left Behind (NLLB)](https://github.com/facebookresearch/fairseq/tree/nllb)
 
 ## Method
 
