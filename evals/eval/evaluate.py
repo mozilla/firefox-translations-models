@@ -35,7 +35,8 @@ BERGAMOT_EVAL_PATH = os.path.join(HOME_DIR, 'translators', 'bergamot.sh')
 TRANS_ORDER = {'bergamot': 0,
                'google': 1,
                'microsoft': 2,
-               'argos': 3}
+               'argos': 3,
+               'nllb': 4}
 
 
 def get_dataset_prefix(dataset_name, pair, results_dir):
@@ -125,6 +126,8 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
         cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'microsoft.py')}"
     elif translator == 'argos':
         cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'argos.py')}"
+    elif translator == 'nllb':
+        cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'nllb.py')}"
     else:
         raise ValueError(f'Translator is not supported: {translator}')
 
