@@ -16,7 +16,7 @@ Results for prod models: [BLEU](evaluation/prod/bleu-results.md), [COMET](evalua
 Results for dev models: [BLEU](evaluation/dev/bleu-results.md), [COMET](evaluation/dev/comet-results.md)
 
 Automatic evaluation is a part of pull request CI. 
-It uses Microsoft and Google translation APIs, Argos Translate and NLLB models and pushes results back to the branch (not available for forks).
+It uses Microsoft and Google translation APIs, Argos Translate, NLLB and Opus-MT models and pushes results back to the branch (not available for forks).
 It is performed using the [evals](/evals) tool.
 
 # Model training
