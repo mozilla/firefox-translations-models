@@ -33,10 +33,11 @@ lang_to_lang_code = {
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+
 def translate(texts, tokenizer, model, target):
     results = []
 
-    forced_bos_token_id=tokenizer.lang_code_to_id[lang_to_lang_code[target]]
+    forced_bos_token_id = tokenizer.lang_code_to_id[lang_to_lang_code[target]]
 
     for partition in tqdm(list(toolz.partition_all(10, texts))):
         tokenized_src = tokenizer(partition, return_tensors="pt", padding=True).to(device)
@@ -46,15 +47,15 @@ def translate(texts, tokenizer, model, target):
     return results
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     texts = [line.strip() for line in sys.stdin]
 
-    source = os.environ['SRC']
-    target = os.environ['TRG']
+    source = os.environ["SRC"]
+    target = os.environ["TRG"]
 
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-distilled-600M", src_lang=source)
     model = AutoModelForSeq2SeqLM.from_pretrained("facebook/nllb-200-distilled-600M").to(device)
 
     translations = translate(texts, tokenizer, model, target)
-    sys.stdout.write('\n'.join(translations))
-    sys.stdout.write('\n')
+    sys.stdout.write("\n".join(translations))
+    sys.stdout.write("\n")
