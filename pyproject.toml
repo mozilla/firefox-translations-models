@@ -1,0 +1,48 @@
+[tool.poetry]
+name = "firefox-translations-models"
+version = "0.1.0"
+description = ""
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pip-tools = "^7.3.0"
+
+[tool.poetry.group.black.dependencies]
+black = "^23.7.0"
+
+[tool.poetry.group.lint.dependencies]
+ruff = "^0.0.287"
+
+[tool.black]
+extend-exclude= "/3rd_party"
+line-length = 99
+
+# Match the rules from mozilla-central.
+# https://searchfox.org/mozilla-central/source/pyproject.toml
+[tool.ruff]
+line-length = 99
+# See https://beta.ruff.rs/docs/rules/ for a full list of rules.
+select = [
+  "E", "W",    # pycodestyle
+  "F",         # pyflakes
+  "I",         # isort
+  "PL",        # pylint
+]
+ignore = [
+  # These are intentionally ignored.
+  "E741",      # ambiguous-variable-name
+  "PLR09",     # too-many-return-statements, too-many-branches, too-many-arguments, too-many-statements
+  "PLR2004",   # magic-value-comparison
+
+  # These are handled by black.
+  "E1", "E4", "E5", "W2", "W5"
+]
+exclude = [
+  "3rd_party"
+]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
