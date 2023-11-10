@@ -1,3 +1,4 @@
+import re
 import shutil
 import subprocess
 import os
@@ -18,10 +19,6 @@ SUPPORTED_LANGUAGES = {
 
 HOME_DIR = './'
 EVAL_DIR = os.path.join(HOME_DIR, 'eval')
-EVAL_PATH = os.path.join(EVAL_DIR, 'eval.sh')
-EVAL_PATH_COMET = os.path.join(EVAL_DIR, 'eval-comet.sh')
-EVAL_CUSTOM_PATH = os.path.join(EVAL_DIR, 'eval-custom.sh')
-EVAL_CUSTOM_PATH_COMET = os.path.join(EVAL_DIR, 'eval-custom-comet.sh')
 CLEAN_CACHE_PATH = os.path.join(EVAL_DIR, 'clean-cache.sh')
 
 CUSTOM_DATASETS = ['flores-dev', 'flores-test']
@@ -111,50 +108,72 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
     my_env = os.environ.copy()
     my_env['SRC'] = source
     my_env['TRG'] = target
-    my_env['DATASET'] = set_name
-    my_env['EVAL_PREFIX'] = get_dataset_prefix(set_name, pair, results_dir)
-    my_env['TRANSLATOR'] = translator
-    my_env['GPUS'] = gpus
+    eval_prefix = get_dataset_prefix(set_name, pair, results_dir)
 
     if translator == 'bergamot':
         my_env['MODEL_DIR'] = os.path.join(models_dir, f'{source}{target}')
         my_env['APP_PATH'] = BERGAMOT_APP_PATH
-        cmd = f'bash {BERGAMOT_EVAL_PATH}'
+        cmd = ["bash", BERGAMOT_EVAL_PATH]
     elif translator == 'google':
-        cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'google_translate.py')}"
+        cmd = ["python3", os.path.join(HOME_DIR, 'translators', 'google_translate.py')]
     elif translator == 'microsoft':
-        cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'microsoft.py')}"
+        cmd = ["python3", os.path.join(HOME_DIR, 'translators', 'microsoft.py')]
     elif translator == 'argos':
-        cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'argos.py')}"
+        cmd = ["python3", os.path.join(HOME_DIR, 'translators', 'argos.py')]
     elif translator == 'nllb':
-        cmd = f"python3 {os.path.join(HOME_DIR, 'translators', 'nllb.py')}"
+        cmd = ["python3", os.path.join(HOME_DIR, 'translators', 'nllb.py')]
     else:
         raise ValueError(f'Translator is not supported: {translator}')
 
-    my_env['TRANSLATOR_CMD'] = cmd
-    eval_path = EVAL_CUSTOM_PATH if set_name in CUSTOM_DATASETS else EVAL_PATH
+    COMET_PATTERN = re.compile(r'score: (.+)')
 
-    if set_name in CUSTOM_DATASETS and evaluation_engine == 'bleu':
-        eval_path = EVAL_CUSTOM_PATH
-    elif set_name in CUSTOM_DATASETS and evaluation_engine == 'comet':
-        eval_path = EVAL_CUSTOM_PATH_COMET
-    elif set_name not in CUSTOM_DATASETS and evaluation_engine == 'bleu':
-        eval_path = EVAL_PATH
-    elif set_name not in CUSTOM_DATASETS and evaluation_engine == 'comet':
-        eval_path = EVAL_PATH_COMET
+    os.makedirs(os.path.dirname(eval_prefix), exist_ok=True)
+
+    source_file = f"{eval_prefix}.{source}"
+    reference_file = f"{eval_prefix}.{target}"
+    translated_file = f"{eval_prefix}.{translator}.{target}"
+    result_file = f"{eval_prefix}.{translator}.{target}.{evaluation_engine}"
+
+    if set_name not in CUSTOM_DATASETS:
+        if not os.path.exists(source_file):
+            with open(source_file, "w") as output_file:
+                subprocess.run(["sacrebleu", "-t", set_name, "-l", f"{source}-{target}", "--echo", "src"], stdout=output_file, text=True, check=True)
+
+    if not os.path.exists(translated_file):
+        with open(source_file, "rb") as input_file:
+            with open(translated_file, "wb") as output_file:
+                subprocess.run(cmd, stdin=input_file, stdout=output_file, env=my_env, check=True)
 
     retries = 3
     while True:
         try:
-            res = subprocess.run(['bash', eval_path], env=my_env, stdout=subprocess.PIPE,
-                                 stderr=subprocess.PIPE)
-            print("stdout: ", res.stdout.decode('utf-8'))
-            print("stderr: ", res.stderr.decode('utf-8'))
             if evaluation_engine == "bleu":
-                float_res = float(res.stdout.decode('utf-8').strip())
-            elif evaluation_engine == "comet":
-                float_res = float(res.stdout.decode('utf-8').strip().split("\n")[-1])
-            return float_res
+                if set_name in CUSTOM_DATASETS:
+                    dataset_params = [reference_file]
+                else:
+                    dataset_params = ["-t", set_name]
+
+                if not os.path.exists(result_file):
+                    with open(translated_file, "r") as input_file:
+                        with open(result_file, "w") as output_file:
+                            subprocess.run(["sacrebleu", "--score-only", "-q", "-l", f"{source}-{target}"] + dataset_params, stdin=input_file, stdout=output_file, text=True, check=True)
+
+            if evaluation_engine == 'comet':
+                if set_name in CUSTOM_DATASETS:
+                    dataset_params = ["-s", source_file, "-r", reference_file]
+                else:
+                    dataset_params = ["-d", f"{set_name}:{source}-{target}"]
+
+                completed_process = subprocess.run(["comet-score", "--gpus", gpus, "--quiet", "--only_system", "-t", translated_file] + dataset_params, capture_output=True, text=True, check=True)
+                match = COMET_PATTERN.search(completed_process.stdout)
+                if match:
+                    with open(result_file, "w") as output_file:
+                        output_file.write(f"{match.group(1)}\n")
+                else:
+                    raise Exception("Unable to find Comet score in output")
+
+            with open(result_file, "r") as f:
+                return float(f.read())
         except:
             traceback.print_exc()
             if retries == 0:
