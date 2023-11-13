@@ -31,6 +31,7 @@ Tool: https://github.com/Unbabel/COMET
 3. **microsoft** - uses Azure Cognitive Services Translator [API](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 4. **argos** - uses [Argos Translate](https://github.com/argosopentech/argos-translate)
 5. **nllb** - uses [No Language Left Behind (NLLB)](https://github.com/facebookresearch/fairseq/tree/nllb)
+6. **opus-mt** - uses [Opus-MT models](https://github.com/Helsinki-NLP/Opus-MT)
 
 ## Method
 
