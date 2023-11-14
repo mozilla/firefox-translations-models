@@ -15,6 +15,13 @@ black = "^23.7.0"
 [tool.poetry.group.lint.dependencies]
 ruff = "^0.0.287"
 
+[tool.poetry.group.scripts.dependencies]
+argparse = "^1.4.0"
+kinto-http = "^11.0.1"
+packaging = "^23.2"
+requests = "^2.31.0"
+termcolor = "^2.3.0"
+
 [tool.black]
 extend-exclude= "/3rd_party"
 line-length = 99
