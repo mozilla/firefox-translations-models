@@ -13,8 +13,20 @@ CRUD operations.
 
 def main():
     parser = argparse.ArgumentParser(description=DESCRIPTION)
+    subparsers = parser.add_subparsers(
+        title="subcommands",
+        dest="subcommand",
+        help="the list of valid subcommands",
+    )
+
+    attach_create_subcommand(subparsers)
 
     args = parser.parse_args()
+
+    if args.subcommand == "create":
+        do_create(args)
+    else:
+        parser.print_help()
 
 
 if __name__ == "__main__":
