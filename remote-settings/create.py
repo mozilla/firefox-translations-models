@@ -25,6 +25,12 @@ def attach_create_subcommand(subparsers):
         help="verify the authentication and record data, but do not create",
     )
     create_parser.add_argument(
+        "-m",
+        "--mock-connection",
+        action="store_true",
+        help="mock the connection to the server for testing",
+    )
+    create_parser.add_argument(
         "-q",
         "--quiet",
         action="store_true",
@@ -82,7 +88,7 @@ def do_create(args):
     print_info(args, f"Record: {client.record_info_json()}")
     print_info(args)
 
-    if args.dry_run:
+    if args.dry_run or args.mock_connection:
         return
 
     print_info(args, f"Creating record...")

@@ -25,6 +25,19 @@ SERVER_URLS = {
 }
 
 
+class MockedClient:
+    def __init__(self, args):
+        self._server = args.server
+
+    def server_info(self):
+        return {
+            "url": SERVER_URLS.get(self._server),
+            "user": {
+                "id": "mocked_user",
+            },
+        }
+
+
 class RemoteSettingsClient:
     def __init__(self, args):
         """Initializes the RemoteSettingsClient by authenticating with the server.
@@ -34,6 +47,10 @@ class RemoteSettingsClient:
         Args:
             args (argparse.Namespace): The arguments passed through the CLI
         """
+        if args.mock_connection:
+            self._client = MockedClient(args)
+            return
+
         self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token()
         self._client = Client(
             server_url=SERVER_URLS.get(args.server),
