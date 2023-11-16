@@ -1,0 +1,268 @@
+==========================
+x_name: wmt14.bergamot.en
+y_name: wmt14.microsoft.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7832
+y-mean:	0.8787
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-55.3876
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.en outperforms wmt14.bergamot.en.
+==========================
+x_name: wmt14.bergamot.en
+y_name: wmt14.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7832
+y-mean:	0.8848
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-56.5746
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.en outperforms wmt14.bergamot.en.
+==========================
+x_name: wmt14.bergamot.en
+y_name: wmt14.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7832
+y-mean:	0.7958
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-7.2258
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.argos.en outperforms wmt14.bergamot.en.
+==========================
+x_name: wmt14.bergamot.en
+y_name: wmt14.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7832
+y-mean:	0.8673
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-51.2281
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.nllb.en outperforms wmt14.bergamot.en.
+==========================
+x_name: wmt14.bergamot.en
+y_name: wmt14.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7832
+y-mean:	0.7175
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	30.6057
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.bergamot.en outperforms wmt14.opusmt.en.
+==========================
+x_name: wmt14.microsoft.en
+y_name: wmt14.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8787
+y-mean:	0.8848
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-8.1240
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.en outperforms wmt14.microsoft.en.
+==========================
+x_name: wmt14.microsoft.en
+y_name: wmt14.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8787
+y-mean:	0.7958
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	51.3233
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.en outperforms wmt14.argos.en.
+==========================
+x_name: wmt14.microsoft.en
+y_name: wmt14.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8787
+y-mean:	0.8673
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	12.2642
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.en outperforms wmt14.nllb.en.
+==========================
+x_name: wmt14.microsoft.en
+y_name: wmt14.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8787
+y-mean:	0.7175
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	70.2903
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.microsoft.en outperforms wmt14.opusmt.en.
+==========================
+x_name: wmt14.google.en
+y_name: wmt14.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8848
+y-mean:	0.7958
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	53.1475
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.en outperforms wmt14.argos.en.
+==========================
+x_name: wmt14.google.en
+y_name: wmt14.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8848
+y-mean:	0.8673
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	16.8340
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.en outperforms wmt14.nllb.en.
+==========================
+x_name: wmt14.google.en
+y_name: wmt14.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8848
+y-mean:	0.7175
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	72.1933
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.google.en outperforms wmt14.opusmt.en.
+==========================
+x_name: wmt14.argos.en
+y_name: wmt14.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7958
+y-mean:	0.8673
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-45.7654
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.nllb.en outperforms wmt14.argos.en.
+==========================
+x_name: wmt14.argos.en
+y_name: wmt14.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7958
+y-mean:	0.7175
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	33.3619
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.argos.en outperforms wmt14.opusmt.en.
+==========================
+x_name: wmt14.nllb.en
+y_name: wmt14.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8673
+y-mean:	0.7175
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	67.4764
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt14.nllb.en outperforms wmt14.opusmt.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt14.bergamot.en    wmt14.microsoft.en    wmt14.google.en    wmt14.argos.en    wmt14.nllb.en    wmt14.opusmt.en
+---------------------  -------------------  --------------------  -----------------  ----------------  ---------------  -----------------
+wmt14.bergamot.en                           False                 False              False             False            True
+wmt14.microsoft.en     True                                       False              True              True             True
+wmt14.google.en        True                 True                                     True              True             True
+wmt14.argos.en         True                 False                 False                                False            True
+wmt14.nllb.en          True                 False                 False              True                               True
+wmt14.opusmt.en        False                False                 False              False             False
