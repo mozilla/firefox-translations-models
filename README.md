@@ -75,24 +75,24 @@ Suffix of the model file in the registry:
 The prod/dev labels in this repo correspond to the labels in the [legacy web extension](https://github.com/mozilla/firefox-translations) and are not related to the native integration in Firefox.
 
 ## Prod
-- Spanish <-> English
-- English <-> German
-- Dutch <-> English
 - Bulgarian <-> English
-- Portuguese <-> English
+- Dutch <-> English
+- French <-> English
+- German <-> English
 - Italian <-> English
 - Polish <-> English
-- French <-> English
+- Portuguese <-> English
+- Spanish <-> English
 
 ## Dev
+- Catalan -> English
 - Czech <-> English
 - Estonian <-> English
-- Russian <-> English
-- Persian (Farsi) <-> English
-- Icelandic -> English
-- Norwegian Nynorsk -> English
-- Norwegian Bokmål -> English
-- Ukrainian <-> English
-- Catalan -> English
-- Hungarian <-> English
 - Finnish -> English
+- Hungarian <-> English
+- Icelandic -> English
+- Norwegian Bokmål -> English
+- Norwegian Nynorsk -> English
+- Persian (Farsi) <-> English
+- Russian <-> English
+- Ukrainian <-> English
