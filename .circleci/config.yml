@@ -92,11 +92,11 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Test remote-settings.py create
+          name: Test remote_settings create
           command: |
             pip install poetry
             poetry install
-            poetry run python remote-settings/test-create.py
+            poetry run python remote_settings/tests/test-create.py
             TEST_RESULT=$?
             if [ $TEST_RESULT -eq 0 ]; then
               echo "All tests passed... CI passed."

@@ -19,14 +19,14 @@ SRCVOCAB_NAME = "srcvocab.esen.spm"
 TRGVOCAB_NAME = "trgvocab.esen.spm"
 VOCAB_NAME = "vocab.esen.spm"
 
-BASE_PATH = "remote-settings"
-LEX_PATH = f"{BASE_PATH}/test/{LEX_NAME}"
-LEX_5050_PATH = f"{BASE_PATH}/test/{LEX_5050_NAME}"
-MODEL_PATH = f"{BASE_PATH}/test/{MODEL_NAME}"
-QUALITY_MODEL_PATH = f"{BASE_PATH}/test/{QUALITY_MODEL_NAME}"
-SRCVOCAB_PATH = f"{BASE_PATH}/test/{SRCVOCAB_NAME}"
-TRGVOCAB_PATH = f"{BASE_PATH}/test/{TRGVOCAB_NAME}"
-VOCAB_PATH = f"{BASE_PATH}/test/{VOCAB_NAME}"
+BASE_PATH = "remote_settings"
+LEX_PATH = f"{BASE_PATH}/test-files/{LEX_NAME}"
+LEX_5050_PATH = f"{BASE_PATH}/test-files/{LEX_5050_NAME}"
+MODEL_PATH = f"{BASE_PATH}/test-files/{MODEL_NAME}"
+QUALITY_MODEL_PATH = f"{BASE_PATH}/test-files/{QUALITY_MODEL_NAME}"
+SRCVOCAB_PATH = f"{BASE_PATH}/test-files/{SRCVOCAB_NAME}"
+TRGVOCAB_PATH = f"{BASE_PATH}/test-files/{TRGVOCAB_NAME}"
+VOCAB_PATH = f"{BASE_PATH}/test-files/{VOCAB_NAME}"
 
 DEV_SERVER_URL = "https://remote-settings-dev.allizom.org/v1/"
 PROD_SERVER_URL = "https://settings-writer.prod.mozaws.net/v1/"
@@ -67,7 +67,8 @@ class CreateCommand:
             "poetry",
             "run",
             "python",
-            f"{BASE_PATH}/remote-settings.py",
+            "-m",
+            BASE_PATH,
             "create",
             "--mock-connection",
         ]
