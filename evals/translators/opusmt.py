@@ -9,6 +9,7 @@ import toolz
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+
 def translate(texts, tokenizer, model):
     results = []
 
@@ -20,15 +21,15 @@ def translate(texts, tokenizer, model):
     return results
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     texts = [line.strip() for line in sys.stdin]
 
-    source = os.environ['SRC']
-    target = os.environ['TRG']
+    source = os.environ["SRC"]
+    target = os.environ["TRG"]
 
     tokenizer = MarianTokenizer.from_pretrained(f"Helsinki-NLP/opus-mt-{source}-{target}")
     model = MarianMTModel.from_pretrained(f"Helsinki-NLP/opus-mt-{source}-{target}").to(device)
 
     translations = translate(texts, tokenizer, model)
-    sys.stdout.write('\n'.join(translations))
-    sys.stdout.write('\n')
+    sys.stdout.write("\n".join(translations))
+    sys.stdout.write("\n")

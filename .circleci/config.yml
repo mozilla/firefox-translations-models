@@ -66,6 +66,44 @@ jobs:
             else
               echo "### Nothing to commit"
             fi
+  test-python-formatting:
+    docker:
+      - image: cimg/python:3.10.2
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - checkout
+      - run:
+          name: Ensure black finds no changes
+          command: |
+            pip install poetry
+            poetry install
+            poetry run black --check .
+            BLACK_RESULT=$?
+            if [ $BLACK_RESULT -eq 0 ]; then
+              echo "Black found no code-format changes... CI passed."
+            else
+              echo "Black found code-format changes... Failing CI."
+              exit $BLACK_RESULT
+            fi
+  test-remote-settings:
+    docker:
+      - image: cimg/python:3.10.2
+    working_directory: ~/mozilla/firefox-translations-models
+    steps:
+      - checkout
+      - run:
+          name: Test remote-settings.py create
+          command: |
+            pip install poetry
+            poetry install
+            poetry run python remote-settings/test-create.py
+            TEST_RESULT=$?
+            if [ $TEST_RESULT -eq 0 ]; then
+              echo "All tests passed... CI passed."
+            else
+              echo "Some tests failed... Failing CI."
+              exit $TEST_RESULT
+            fi
   generate-registry:
     docker:
       - image: cimg/python:3.10.2
@@ -109,7 +147,13 @@ workflows:
   version: 2
   ci:
     jobs:
+      - test-python-formatting
+      - test-remote-settings:
+          requires:
+            - test-python-formatting
       - evaluate:
+          requires:
+            - test-python-formatting
           filters:
             branches:
               # Forked pull requests have CIRCLE_BRANCH set to pull/XXX

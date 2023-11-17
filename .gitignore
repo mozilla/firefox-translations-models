@@ -132,3 +132,5 @@ dmypy.json
 ._.DS_Store
 *.bin
 *.spm
+!remote-settings/test/*.bin
+!remote-settings/test/*.spm
