@@ -2,8 +2,8 @@ import argparse, os
 
 from packaging import version
 
-from ..client import RemoteSettingsClient
-from ..format import print_info
+from remote_settings.client import RemoteSettingsClient
+from remote_settings.format import print_info
 
 
 def attach_create_subcommand(subparsers):
