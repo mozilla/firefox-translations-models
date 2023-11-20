@@ -1,4 +1,4 @@
-import unittest
+import pytest
 import subprocess
 
 SUCCESS = 0
@@ -19,14 +19,14 @@ SRCVOCAB_NAME = "srcvocab.esen.spm"
 TRGVOCAB_NAME = "trgvocab.esen.spm"
 VOCAB_NAME = "vocab.esen.spm"
 
-BASE_PATH = "remote_settings"
-LEX_PATH = f"{BASE_PATH}/test-files/{LEX_NAME}"
-LEX_5050_PATH = f"{BASE_PATH}/test-files/{LEX_5050_NAME}"
-MODEL_PATH = f"{BASE_PATH}/test-files/{MODEL_NAME}"
-QUALITY_MODEL_PATH = f"{BASE_PATH}/test-files/{QUALITY_MODEL_NAME}"
-SRCVOCAB_PATH = f"{BASE_PATH}/test-files/{SRCVOCAB_NAME}"
-TRGVOCAB_PATH = f"{BASE_PATH}/test-files/{TRGVOCAB_NAME}"
-VOCAB_PATH = f"{BASE_PATH}/test-files/{VOCAB_NAME}"
+ATTACHMENTS_PATH = "tests/remote_settings/attachments"
+LEX_PATH = f"{ATTACHMENTS_PATH}/{LEX_NAME}"
+LEX_5050_PATH = f"{ATTACHMENTS_PATH}/{LEX_5050_NAME}"
+MODEL_PATH = f"{ATTACHMENTS_PATH}/{MODEL_NAME}"
+QUALITY_MODEL_PATH = f"{ATTACHMENTS_PATH}/{QUALITY_MODEL_NAME}"
+SRCVOCAB_PATH = f"{ATTACHMENTS_PATH}/{SRCVOCAB_NAME}"
+TRGVOCAB_PATH = f"{ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
+VOCAB_PATH = f"{ATTACHMENTS_PATH}/{VOCAB_NAME}"
 
 DEV_SERVER_URL = "https://remote-settings-dev.allizom.org/v1/"
 PROD_SERVER_URL = "https://settings-writer.prod.mozaws.net/v1/"
@@ -68,7 +68,7 @@ class CreateCommand:
             "run",
             "python",
             "-m",
-            BASE_PATH,
+            "remote_settings",
             "create",
             "--mock-connection",
         ]
@@ -79,256 +79,238 @@ class CreateCommand:
         return subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 
 
-class TestCreate(unittest.TestCase):
-    def test_create_command_quiet_flag(self):
-        result = (
-            CreateCommand()
-            .with_server("dev")
-            .with_version("1.0")
-            .with_path(MODEL_PATH)
-            .quiet()
-            .run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-
-    def test_create_command_missing_server(self):
-        result = CreateCommand().with_version("1.0").with_path(MODEL_PATH).quiet().run()
-        self.assertEqual(
-            result.returncode, INVALID_USE, f"The return code should be {INVALID_USE}"
-        )
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertIn("the following arguments are required: --server", result.stderr)
-
-    def test_create_command_missing_version(self):
-        result = CreateCommand().with_server("dev").with_path(MODEL_PATH).quiet().run()
-        self.assertEqual(
-            result.returncode, INVALID_USE, f"The return code should be {INVALID_USE}"
-        )
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertIn("the following arguments are required: --version", result.stderr)
-
-    def test_create_command_missing_path(self):
-        result = CreateCommand().with_server("dev").with_version("1.0").quiet().run()
-        self.assertEqual(
-            result.returncode, INVALID_USE, f"The return code should be {INVALID_USE}"
-        )
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertIn("the following arguments are required: --path", result.stderr)
-
-    def test_create_command_invalid_server(self):
-        result = (
-            CreateCommand()
-            .with_server("invalid_server")
-            .with_version("1.0")
-            .with_path(MODEL_PATH)
-            .quiet()
-            .run()
-        )
-        self.assertEqual(
-            result.returncode, INVALID_USE, f"The return code should be {INVALID_USE}"
-        )
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertIn(
-            "argument --server: invalid choice: 'invalid_server' (choose from 'dev', 'stage', 'prod')",
-            result.stderr,
-        )
-
-    def test_create_command_invalid_version(self):
-        result = (
-            CreateCommand()
-            .with_server("dev")
-            .with_version("invalid_version")
-            .with_path(MODEL_PATH)
-            .quiet()
-            .run()
-        )
-        self.assertEqual(
-            result.returncode, INVALID_USE, f"The return code should be {INVALID_USE}"
-        )
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertIn(
-            "argument --version: invalid value 'invalid_version' (use a valid semantic version number)",
-            result.stderr,
-        )
-
-    def test_create_command_invalid_path(self):
-        result = (
-            CreateCommand()
-            .with_server("dev")
-            .with_version("1.0")
-            .with_path("invalid_path")
-            .quiet()
-            .run()
-        )
-        self.assertEqual(
-            result.returncode, INVALID_USE, f"The return code should be {INVALID_USE}"
-        )
-        self.assertEqual("", result.stdout, "The standard output stream should be empty")
-        self.assertIn(
-            "argument --path: invalid value 'invalid_path' (path does not exist)", result.stderr
-        )
-
-    def test_create_command_display_authenticated_user(self):
-        result = CreateCommand().with_server("dev").with_version("1.0").with_path(MODEL_PATH).run()
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn("User: mocked_user", result.stdout)
-
-    def test_create_command_dev_server_url(self):
-        result = CreateCommand().with_server("dev").with_version("1.0").with_path(MODEL_PATH).run()
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f"Server: {DEV_SERVER_URL}", result.stdout)
-
-    def test_create_command_prod_server_url(self):
-        result = (
-            CreateCommand().with_server("prod").with_version("1.0").with_path(MODEL_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f"Server: {PROD_SERVER_URL}", result.stdout)
-
-    def test_create_command_stage_server_url(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f"Server: {STAGE_SERVER_URL}", result.stdout)
-
-    def test_create_command_alpha_filter_expression(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0a1").with_path(MODEL_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"', result.stdout)
-
-    def test_create_command_beta_filter_expression(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0b1").with_path(MODEL_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"filter_expression": "{BETA_FILTER_EXPRESSION}"', result.stdout)
-
-    def test_create_command_release_filter_expression(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-
-    def test_create_command_lex_5050_esen(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(LEX_5050_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{LEX_5050_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{LEX_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{LEX_5050_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": "{OCTET_STREAM}"', result.stdout)
-
-    def test_create_command_lex_esen(self):
-        result = CreateCommand().with_server("stage").with_version("1.0").with_path(LEX_PATH).run()
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{LEX_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{LEX_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{LEX_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": "{OCTET_STREAM}"', result.stdout)
-
-    def test_create_command_model_esen(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{MODEL_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{MODEL_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{MODEL_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": "{OCTET_STREAM}"', result.stdout)
-
-    def test_create_command_quality_model_esen(self):
-        result = (
-            CreateCommand()
-            .with_server("stage")
-            .with_version("1.0")
-            .with_path(QUALITY_MODEL_PATH)
-            .run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{QUALITY_MODEL_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{QUALITY_MODEL_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{QUALITY_MODEL_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": "{OCTET_STREAM}"', result.stdout)
-
-    def test_create_command_srcvocab_esen(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(SRCVOCAB_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{SRCVOCAB_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{SRCVOCAB_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{SRCVOCAB_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": null', result.stdout)
-
-    def test_create_command_trgvocab_esen(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(TRGVOCAB_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{TRGVOCAB_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{TRGVOCAB_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{TRGVOCAB_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": null', result.stdout)
-
-    def test_create_command_vocab_esen(self):
-        result = (
-            CreateCommand().with_server("stage").with_version("1.0").with_path(VOCAB_PATH).run()
-        )
-        self.assertEqual(result.returncode, SUCCESS, f"The return code should be {SUCCESS}")
-        self.assertEqual("", result.stderr, "The standard error stream should be empty")
-        self.assertIn(f'"name": "{VOCAB_NAME}"', result.stdout)
-        self.assertIn(f'"fromLang": "es"', result.stdout)
-        self.assertIn(f'"toLang": "en"', result.stdout)
-        self.assertIn(f'"version": "1.0"', result.stdout)
-        self.assertIn(f'"fileType": "{VOCAB_TYPE}"', result.stdout)
-        self.assertIn(f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"', result.stdout)
-        self.assertIn(f'"path": "{VOCAB_PATH}"', result.stdout)
-        self.assertIn(f'"mimeType": null', result.stdout)
+def test_create_command_quiet_flag():
+    result = (
+        CreateCommand().with_server("dev").with_version("1.0").with_path(MODEL_PATH).quiet().run()
+    )
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert "" == result.stderr, "The standard error stream should be empty"
 
 
-if __name__ == "__main__":
-    unittest.main()
+def test_create_command_missing_server():
+    result = CreateCommand().with_version("1.0").with_path(MODEL_PATH).quiet().run()
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert "the following arguments are required: --server" in result.stderr
+
+
+def test_create_command_missing_version():
+    result = CreateCommand().with_server("dev").with_path(MODEL_PATH).quiet().run()
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert "the following arguments are required: --version" in result.stderr
+
+
+def test_create_command_missing_path():
+    result = CreateCommand().with_server("dev").with_version("1.0").quiet().run()
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert "the following arguments are required: --path" in result.stderr
+
+
+def test_create_command_invalid_server():
+    result = (
+        CreateCommand()
+        .with_server("invalid_server")
+        .with_version("1.0")
+        .with_path(MODEL_PATH)
+        .quiet()
+        .run()
+    )
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert (
+        "argument --server: invalid choice: 'invalid_server' (choose from 'dev', 'stage', 'prod')"
+        in result.stderr
+    )
+
+
+def test_create_command_invalid_version():
+    result = (
+        CreateCommand()
+        .with_server("dev")
+        .with_version("invalid_version")
+        .with_path(MODEL_PATH)
+        .quiet()
+        .run()
+    )
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert (
+        "argument --version: invalid value 'invalid_version' (use a valid semantic version number)"
+        in result.stderr
+    )
+
+
+def test_create_command_invalid_path():
+    result = (
+        CreateCommand()
+        .with_server("dev")
+        .with_version("1.0")
+        .with_path("invalid_path")
+        .quiet()
+        .run()
+    )
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert "argument --path: invalid value 'invalid_path' (path does not exist)" in result.stderr
+
+
+def test_create_command_display_authenticated_user():
+    result = CreateCommand().with_server("dev").with_version("1.0").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert "User: mocked_user" in result.stdout
+
+
+def test_create_command_dev_server_url():
+    result = CreateCommand().with_server("dev").with_version("1.0").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f"Server: {DEV_SERVER_URL}" in result.stdout
+
+
+def test_create_command_prod_server_url():
+    result = CreateCommand().with_server("prod").with_version("1.0").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f"Server: {PROD_SERVER_URL}" in result.stdout
+
+
+def test_create_command_stage_server_url():
+    result = CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f"Server: {STAGE_SERVER_URL}" in result.stdout
+
+
+def test_create_command_alpha_filter_expression():
+    result = CreateCommand().with_server("stage").with_version("1.0a1").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
+
+
+def test_create_command_beta_filter_expression():
+    result = CreateCommand().with_server("stage").with_version("1.0b1").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"filter_expression": "{BETA_FILTER_EXPRESSION}"' in result.stdout
+
+
+def test_create_command_release_filter_expression():
+    result = CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+
+
+def test_create_command_lex_5050_esen():
+    result = (
+        CreateCommand().with_server("stage").with_version("1.0").with_path(LEX_5050_PATH).run()
+    )
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{LEX_5050_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{LEX_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{LEX_5050_PATH}"' in result.stdout
+    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+
+def test_create_command_lex_esen():
+    result = CreateCommand().with_server("stage").with_version("1.0").with_path(LEX_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{LEX_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{LEX_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{LEX_PATH}"' in result.stdout
+    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+
+def test_create_command_model_esen():
+    result = CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{MODEL_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{MODEL_PATH}"' in result.stdout
+    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+
+def test_create_command_quality_model_esen():
+    result = (
+        CreateCommand()
+        .with_server("stage")
+        .with_version("1.0")
+        .with_path(QUALITY_MODEL_PATH)
+        .run()
+    )
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{QUALITY_MODEL_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
+    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+
+def test_create_command_srcvocab_esen():
+    result = (
+        CreateCommand().with_server("stage").with_version("1.0").with_path(SRCVOCAB_PATH).run()
+    )
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{SRCVOCAB_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
+    assert f'"mimeType": null' in result.stdout
+
+
+def test_create_command_trgvocab_esen():
+    result = (
+        CreateCommand().with_server("stage").with_version("1.0").with_path(TRGVOCAB_PATH).run()
+    )
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
+    assert f'"mimeType": null' in result.stdout
+
+
+def test_create_command_vocab_esen():
+    result = CreateCommand().with_server("stage").with_version("1.0").with_path(VOCAB_PATH).run()
+    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
+    assert "" == result.stderr, "The standard error stream should be empty"
+    assert f'"name": "{VOCAB_NAME}"' in result.stdout
+    assert f'"fromLang": "es"' in result.stdout
+    assert f'"toLang": "en"' in result.stdout
+    assert f'"version": "1.0"' in result.stdout
+    assert f'"fileType": "{VOCAB_TYPE}"' in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"path": "{VOCAB_PATH}"' in result.stdout
+    assert f'"mimeType": null' in result.stdout
