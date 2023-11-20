@@ -76,7 +76,7 @@ jobs:
           name: Ensure black finds no changes
           command: |
             pip install poetry
-            poetry install
+            poetry install --no-root
             poetry run black --check .
             BLACK_RESULT=$?
             if [ $BLACK_RESULT -eq 0 ]; then
@@ -85,18 +85,18 @@ jobs:
               echo "Black found code-format changes... Failing CI."
               exit $BLACK_RESULT
             fi
-  test-remote-settings:
+  test-code:
     docker:
       - image: cimg/python:3.10.2
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - checkout
       - run:
-          name: Test remote_settings create
+          name: Run tests
           command: |
             pip install poetry
-            poetry install
-            poetry run python remote_settings/tests/test-create.py
+            poetry install --no-root
+            poetry run python -m pytest tests -v
             TEST_RESULT=$?
             if [ $TEST_RESULT -eq 0 ]; then
               echo "All tests passed... CI passed."
@@ -148,7 +148,7 @@ workflows:
   ci:
     jobs:
       - test-python-formatting
-      - test-remote-settings:
+      - test-code:
           requires:
             - test-python-formatting
       - evaluate:
