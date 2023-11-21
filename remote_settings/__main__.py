@@ -1,6 +1,6 @@
 import argparse
 
-from create import attach_create_subcommand, do_create
+from remote_settings.subcommands.create import attach_create_subcommand, do_create
 
 DESCRIPTION = """\
 A script to help with the management of language models in Remote Settings.

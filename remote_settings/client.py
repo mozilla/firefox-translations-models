@@ -1,8 +1,9 @@
 import os, sys, mimetypes, requests, uuid, json
 
-from format import print_error, print_help
 from kinto_http import Client, BearerTokenAuth
 from packaging import version
+
+from remote_settings.format import print_error, print_help
 
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
