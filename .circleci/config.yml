@@ -96,7 +96,7 @@ jobs:
           command: |
             pip install poetry
             poetry install --no-root
-            poetry run python -m pytest tests -v
+            poetry run python -m pytest tests -vv
             TEST_RESULT=$?
             if [ $TEST_RESULT -eq 0 ]; then
               echo "All tests passed... CI passed."
