@@ -20,6 +20,7 @@ argparse = "^1.4.0"
 kinto-http = "^11.0.1"
 packaging = "^23.2"
 pytest = "^7.4.3"
+pytest-clarity = "^1.0.1"
 requests = "^2.31.0"
 termcolor = "^2.3.0"
 
