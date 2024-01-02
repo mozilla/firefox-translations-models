@@ -24,12 +24,23 @@ cd models/dev/$pair/
 
 # or
 
-# sven
+# swen glen
 wget https://object.pouta.csc.fi/hplt_bitextor_models/${name}.zip
 unzip -j *.zip
 mv *.s2t.bin  lex.50.50.$pair.s2t.bin
 mv *.alphas.bin  model.$pair.intgemm.alphas.bin
 mv *.spm vocab.$pair.spm
+
+# or
+
+# zhen
+#wget https://object.pouta.csc.fi/hplt_bitextor_models/${name}.zip
+#unzip -j *.zip
+#mv *.s2t.bin  lex.50.50.$pair.s2t.bin
+#mv *.alphas.bin  model.$pair.intgemm.alphas.bin
+#mv *.spm vocab.$pair.spm
+
+
 
 find . -type f \
   -not -name "lex.50.50.$pair.s2t.bin" \
