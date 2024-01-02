@@ -48,12 +48,6 @@ You can run model evaluation locally by running `bash scripts/update-results.sh`
 Make sure to set environment variables `GCP_CREDS_PATH` and `AZURE_TRANSLATOR_KEY` to use Google and Microsoft APIs.
 If you want to run it with `bergamot` only, remove mentions of those variables from `bash scripts/update-results.sh` and remove `microsoft,google` from `scripts/eval.sh`. 
 
-# Model deployment
-
-Create a new release with a version tag `x.y.z` following semantic versioning.
-
-The models will be automatically uploaded to GCS bucket `gs://bergamot-models-sandbox/x.y.z/`. 
-
 # Model types
 
 ## Vocabulary
@@ -68,31 +62,41 @@ Suffix of the model file in the registry:
 - `intgemm8.bin`  - supports `gemm-precision: int8shiftAll` inference setting
 - `intgemm.alphas.bin` - supports `gemm-precision: int8shiftAlphaAll` inference setting
 
-## 
+# Model deployment
+
+Models are deployed to Remote Settings to be delivered to Firefox.
+
+Records and attachments are uploaded via a CLI tool which lives in the
+`remote_settings` directory in this repository.
+
+At present, records are uploaded by invoking the script manually, but we would
+like to automate this process whenever we merge a PR that adds new language models.
+
+Run `poetry run python -m remote_settings --help` to see more information.
 
 # Currently supported Languages
 
 The prod/dev labels in this repo correspond to the labels in the [legacy web extension](https://github.com/mozilla/firefox-translations) and are not related to the native integration in Firefox.
 
 ## Prod
-- Spanish <-> English
-- Estonian <-> English
-- English <-> German
-- Czech <-> English
 - Bulgarian <-> English
-- Norwegian Bokmål -> English
-- Portuguese <-> English
+- Dutch <-> English
+- French <-> English
+- German <-> English
 - Italian <-> English
 - Polish <-> English
-- French <-> English
+- Portuguese <-> English
+- Spanish <-> English
 
 ## Dev
-- Russian <-> English
-- Persian (Farsi) <-> English
-- Icelandic -> English
-- Norwegian Nynorsk -> English
-- Ukrainian <-> English
-- Dutch <-> English
 - Catalan -> English
-- Hungarian <-> English
+- Czech <-> English
+- Estonian <-> English
 - Finnish -> English
+- Hungarian <-> English
+- Icelandic -> English
+- Norwegian Bokmål -> English
+- Norwegian Nynorsk -> English
+- Persian (Farsi) <-> English
+- Russian <-> English
+- Ukrainian <-> English
