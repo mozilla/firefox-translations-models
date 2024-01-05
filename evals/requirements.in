@@ -1,0 +1,11 @@
+sacrebleu==2.3.1
+click==8.0.1
+google-cloud-translate==3.2.1
+requests
+toolz
+tqdm
+pandas
+matplotlib
+mtdata==0.2.9
+unbabel-comet==2.2.0
+argostranslate==1.9.1
