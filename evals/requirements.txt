@@ -243,7 +243,7 @@ typing-extensions==4.9.0
     #   torchmetrics
 tzdata==2023.4
     # via pandas
-unbabel-comet==2.2.0
+unbabel-comet @ git+https://github.com/Unbabel/COMET.git@45cb572516398b6994f112ed8ee7058dc5fb84ef
     # via -r requirements.in
 urllib3==2.1.0
     # via requests
