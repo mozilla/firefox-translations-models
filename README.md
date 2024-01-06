@@ -95,6 +95,7 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 - Finnish -> English
 - Hungarian <-> English
 - Icelandic -> English
+- Lithuanian -> English
 - Norwegian Bokmål -> English
 - Norwegian Nynorsk -> English
 - Persian (Farsi) <-> English

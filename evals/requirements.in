@@ -1,0 +1,12 @@
+sacrebleu==2.3.1
+click==8.0.1
+google-cloud-translate==3.2.1
+requests
+toolz
+tqdm
+pandas
+matplotlib
+mtdata==0.2.9
+# update to PyPi 2.2.1 when released. issue: https://github.com/Unbabel/COMET/issues/183
+git+https://github.com/Unbabel/COMET.git@45cb572516398b6994f112ed8ee7058dc5fb84ef
+argostranslate==1.9.1
