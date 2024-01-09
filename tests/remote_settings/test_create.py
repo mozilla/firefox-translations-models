@@ -29,7 +29,7 @@ TRGVOCAB_PATH = f"{ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
 VOCAB_PATH = f"{ATTACHMENTS_PATH}/{VOCAB_NAME}"
 
 DEV_SERVER_URL = "https://remote-settings-dev.allizom.org/v1/"
-PROD_SERVER_URL = "https://settings-writer.prod.mozaws.net/v1/"
+PROD_SERVER_URL = "https://remote-settings.mozilla.org/v1"
 STAGE_SERVER_URL = "https://settings-writer.stage.mozaws.net/v1/"
 
 ALPHA_FILTER_EXPRESSION = "env.channel == 'default' || env.channel == 'nightly'"

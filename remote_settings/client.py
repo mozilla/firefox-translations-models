@@ -21,7 +21,7 @@ BUCKET = "main-workspace"
 COLLECTION = "translations-models"
 SERVER_URLS = {
     "dev": "https://remote-settings-dev.allizom.org/v1/",
-    "prod": "https://settings-writer.prod.mozaws.net/v1/",
+    "prod": "https://remote-settings.mozilla.org/v1",
     "stage": "https://settings-writer.stage.mozaws.net/v1/",
 }
 
