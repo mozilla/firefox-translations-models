@@ -13,6 +13,33 @@ import pandas as pd
 from mtdata import iso
 from os.path import exists
 
+EVALUATION_LANGUAGES = [
+    "bg",
+    "ca",
+    "cs",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fa",
+    "fi",
+    "fr",
+    "hu",
+    "is",
+    "it",
+    "lt",
+    "mt",
+    "nb",
+    "nl",
+    "nn",
+    "pl",
+    "pt",
+    "ru",
+    "sl",
+    "tr",
+    "uk",
+]
+
 SUPPORTED_LANGUAGES = {
     "argos": {
         "ar": {"en"},
@@ -740,8 +767,8 @@ def run_comet_compare(lang_pairs, skip_existing, translators, gpus, models_dir, 
 # Report generation
 
 
-def build_report(res_dir, evaluation_engines):
-    os.makedirs(os.path.join(res_dir, "img"), exist_ok=True)
+def build_report(res_dir, deployment_type, evaluation_engines):
+    os.makedirs(os.path.join(res_dir, deployment_type, "img"), exist_ok=True)
 
     for evaluation_engine in evaluation_engines.split(","):
         results = read_results(res_dir, evaluation_engine)
@@ -749,18 +776,18 @@ def build_report(res_dir, evaluation_engines):
             lines = [l.strip() for l in f.readlines()]
 
         avg_results = get_avg_scores(results)
-        build_section(avg_results, "avg", lines, res_dir, evaluation_engine)
+        build_section(avg_results, "avg", lines, res_dir, deployment_type, evaluation_engine)
 
         for lang_pair, datasets in results.items():
-            build_section(datasets, lang_pair, lines, res_dir, evaluation_engine)
+            build_section(datasets, lang_pair, lines, res_dir, deployment_type, evaluation_engine)
 
-        results_path = os.path.join(res_dir, evaluation_engine + "-results.md")
+        results_path = os.path.join(res_dir, deployment_type, evaluation_engine + "-results.md")
         with open(results_path, "w+") as f:
             f.write("\n".join(lines))
             print(f"Results are written to {results_path}")
 
 
-def build_section(datasets, key, lines, res_dir, evaluation_engine):
+def build_section(datasets, key, lines, res_dir, deployment_type, evaluation_engine):
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
@@ -805,7 +832,7 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine):
     for translator, scores in inverted_formatted.items():
         lines.append(f'| {translator} | {" | ".join(scores.values())} |')
 
-    img_path = os.path.join(res_dir, "img", f"{key}-{evaluation_engine}.png")
+    img_path = os.path.join(res_dir, deployment_type, "img", f"{key}-{evaluation_engine}.png")
     plot_lang_pair(datasets, inverted_scores, img_path, evaluation_engine)
 
     img_relative_path = "/".join(img_path.split("/")[-2:])
@@ -925,10 +952,26 @@ def run(
     gpus,
     comet_compare,
 ):
-    lang_pairs = [
-        (pair[:2], pair[-2:])
-        for pair in (os.listdir(models_dir) if pairs == "all" else pairs.split(","))
-    ]
+    SUPPORTED_LANGUAGES["bergamot"] = {}
+    for pair in os.listdir(models_dir):
+        if pair[:2] in SUPPORTED_LANGUAGES["bergamot"]:
+            SUPPORTED_LANGUAGES["bergamot"][pair[:2]].add(pair[-2:])
+        else:
+            SUPPORTED_LANGUAGES["bergamot"][pair[:2]] = {pair[-2:]}
+
+    # Ensure we don't forget adding Bergamot models to EVALUATION_LANGUAGES.
+    for source, targets in SUPPORTED_LANGUAGES["bergamot"].items():
+        if source != "en":
+            assert source in EVALUATION_LANGUAGES, f"{source} missing in EVALUATION_LANGUAGES"
+        for lang in targets:
+            if lang != "en":
+                assert lang in EVALUATION_LANGUAGES, f"{lang} missing in EVALUATION_LANGUAGES"
+
+    if pairs == "all":
+        lang_pairs = sum(([("en", lang), (lang, "en")] for lang in EVALUATION_LANGUAGES), [])
+    else:
+        lang_pairs = [(pair[:2], pair[-2:]) for pair in pairs.split(",")]
+
     print(f"Language pairs to evaluate: {lang_pairs}")
     download_custom_data()
     run_dir(
@@ -949,7 +992,7 @@ def run(
             models_dir=models_dir,
             results_dir=results_dir,
         )
-    build_report(results_dir, evaluation_engine)
+    build_report(results_dir, os.path.basename(models_dir), evaluation_engine)
 
 
 if __name__ == "__main__":
