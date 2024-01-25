@@ -105,7 +105,3 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 - Slovenian -> English
 - Turkish -> English
 - Ukrainian <-> English
-
-
-
-
