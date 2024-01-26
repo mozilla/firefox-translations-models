@@ -23,7 +23,7 @@ def translate(texts):
 
     results = []
     # decrease partition size if hitting limit of max 204800 bytes per request
-    for partition in tqdm(list(toolz.partition_all(100, texts))):
+    for partition in tqdm(list(toolz.partition_all(77, texts))):
         response = translate_client.translate(
             partition, target_language=target, source_language=source
         )
