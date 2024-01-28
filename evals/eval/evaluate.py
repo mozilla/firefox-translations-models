@@ -33,6 +33,7 @@ EVALUATION_LANGUAGES = [
     "id",
     "is",
     "it",
+    "ja",
     "lt",
     "mt",
     "nb",
