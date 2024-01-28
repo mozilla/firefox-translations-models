@@ -359,18 +359,18 @@
       "expectedSha256Hash": "b4a1fd101f59ca258bfb051a3a4e5762497b9f91d7e74f28b7a2d68dc075f8fa",
       "modelType": "prod"
     },
-    "vocab": {
-      "name": "vocab.pten.spm",
-      "size": 817234,
-      "estimatedCompressedSize": 410584,
-      "expectedSha256Hash": "2326a27577b5ffa0b822c55fe850986961728097521de35fcc186f7d6dce72d4",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.pten.s2t.bin",
       "size": 4801740,
       "estimatedCompressedSize": 2639080,
       "expectedSha256Hash": "702d9b09fbc020168998bb81afc927e74262f5a1455e9b443608a5d8efa4b52d",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.pten.spm",
+      "size": 817234,
+      "estimatedCompressedSize": 410584,
+      "expectedSha256Hash": "2326a27577b5ffa0b822c55fe850986961728097521de35fcc186f7d6dce72d4",
       "modelType": "prod"
     }
   },
