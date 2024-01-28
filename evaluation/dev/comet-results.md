@@ -51,14 +51,14 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ## avg
 
-| Translator/Dataset | cs-en | tr-en | en-et | en-fi | en-it | fr-en | en-pt | hu-en | ru-en | mt-en | en-nb | en-hu | el-en | fi-en | en-nl | en-ru | en-fa | et-en | nb-en | en-ca | nl-en | bg-en | uk-en | en-es | fa-en | ca-en | en-uk | is-en | en-bg | en-cs | en-is | id-en | de-en | it-en | pl-en | sl-en | en-fr | en-pl | en-id | pt-en | es-en | lt-en | en-de |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| bergamot | 0.82 | 0.85 | 0.87 | N/A | 0.86 | 0.84 | 0.89 | 0.84 | 0.82 | 0.76 | N/A | 0.80 | 0.85 | 0.86 | 0.86 | 0.84 | 0.79 | 0.85 | 0.85 | N/A | 0.86 | 0.87 | 0.83 | 0.83 | 0.83 | 0.85 | 0.83 | 0.73 | 0.89 | 0.83 | N/A | N/A | 0.83 | 0.85 | 0.83 | 0.84 | 0.82 | 0.86 | N/A | 0.87 | 0.83 | 0.80 | 0.84 |
-| google | 0.85 (+0.03, +3.75%) | 0.89 (+0.04, +4.71%) | 0.91 (+0.04, +4.95%) | 0.91 | 0.88 (+0.02, +2.33%) | 0.86 (+0.02, +1.87%) | 0.90 (+0.02, +1.73%) | 0.86 (+0.03, +3.01%) | 0.85 (+0.02, +2.89%) | 0.84 (+0.08, +10.71%) | 0.90 | 0.88 (+0.08, +9.85%) | 0.87 (+0.02, +2.73%) | 0.89 (+0.03, +3.42%) | 0.88 (+0.02, +2.56%) | 0.90 (+0.06, +6.72%) | 0.88 (+0.09, +11.26%) | 0.89 (+0.04, +5.14%) | 0.89 (+0.04, +5.23%) | 0.88 | 0.88 (+0.02, +2.11%) | 0.89 (+0.02, +2.29%) | 0.87 (+0.04, +4.48%) | 0.85 (+0.02, +2.40%) | 0.89 (+0.06, +7.07%) | 0.89 (+0.05, +5.32%) | 0.90 (+0.07, +8.26%) | 0.87 (+0.14, +18.68%) | 0.92 (+0.02, +2.53%) | 0.89 (+0.06, +7.36%) | 0.86 | 0.90 | 0.86 (+0.03, +3.37%) | 0.86 (+0.02, +1.85%) | 0.86 (+0.02, +2.90%) | 0.88 (+0.05, +5.48%) | 0.85 (+0.03, +3.51%) | 0.90 (+0.04, +4.88%) | 0.92 | 0.89 (+0.01, +1.53%) | 0.84 (+0.01, +1.75%) | 0.87 (+0.06, +7.94%) | 0.87 (+0.03, +3.42%) |
-| microsoft | 0.85 (+0.03, +4.13%) | 0.89 (+0.04, +4.50%) | 0.91 (+0.04, +4.67%) | 0.92 | 0.88 (+0.02, +2.42%) | 0.86 (+0.02, +2.43%) | 0.90 (+0.01, +1.28%) | 0.87 (+0.03, +3.29%) | 0.85 (+0.03, +3.29%) | 0.83 (+0.07, +9.25%) | 0.90 | 0.89 (+0.08, +10.31%) | 0.87 (+0.02, +2.62%) | 0.89 (+0.03, +3.83%) | 0.88 (+0.02, +2.12%) | 0.89 (+0.05, +5.59%) | 0.82 (+0.02, +3.03%) | 0.88 (+0.04, +4.25%) | 0.89 (+0.04, +5.13%) | 0.88 | 0.87 (+0.02, +1.81%) | 0.88 (+0.01, +1.63%) | 0.86 (+0.03, +3.78%) | 0.86 (+0.02, +2.65%) | 0.87 (+0.04, +4.79%) | 0.89 (+0.04, +4.92%) | 0.89 (+0.06, +7.15%) | 0.86 (+0.13, +17.94%) | 0.91 (+0.02, +1.79%) | 0.90 (+0.07, +7.82%) | 0.85 | 0.90 | 0.86 (+0.03, +4.16%) | 0.86 (+0.02, +1.97%) | 0.86 (+0.03, +3.13%) | 0.87 (+0.03, +4.08%) | 0.86 (+0.03, +4.15%) | 0.89 (+0.04, +4.14%) | 0.92 | 0.89 (+0.01, +1.43%) | 0.85 (+0.02, +2.34%) | 0.86 (+0.05, +6.77%) | 0.87 (+0.03, +3.72%) |
-| argos | 0.71 (-0.11, -13.54%) | 0.76 (-0.09, -10.40%) | 0.86 (-0.02, -1.73%) | 0.85 | 0.84 (-0.02, -2.57%) | 0.83 (-0.01, -1.00%) | 0.86 (-0.02, -2.62%) | 0.66 (-0.18, -21.30%) | 0.78 (-0.05, -5.92%) | N/A | N/A | 0.78 (-0.03, -3.35%) | 0.85 (+0.00, +0.25%) | 0.79 (-0.07, -7.61%) | 0.85 (-0.01, -1.73%) | 0.84 (-0.00, -0.21%) | 0.80 (+0.01, +1.43%) | 0.86 (+0.01, +1.63%) | 0.87 (+0.02, +2.10%) | 0.77 | 0.86 (+0.00, +0.37%) | 0.85 (-0.01, -1.37%) | 0.76 (-0.07, -8.33%) | 0.82 (-0.01, -1.52%) | 0.82 (-0.01, -0.64%) | 0.87 (+0.02, +2.23%) | 0.70 (-0.14, -16.31%) | N/A | 0.88 (-0.01, -1.47%) | 0.68 (-0.16, -18.74%) | N/A | 0.81 | 0.82 (-0.01, -1.29%) | 0.83 (-0.01, -1.44%) | 0.84 (+0.00, +0.36%) | N/A | 0.81 (-0.01, -1.47%) | 0.84 (-0.02, -1.84%) | 0.83 | 0.87 (-0.01, -0.79%) | 0.82 (-0.01, -0.93%) | N/A | 0.79 (-0.05, -5.97%) |
-| nllb | 0.73 (-0.09, -11.15%) | 0.77 (-0.08, -9.17%) | 0.83 (-0.04, -4.59%) | 0.85 | 0.86 (+0.00, +0.21%) | 0.83 (-0.01, -0.77%) | 0.88 (-0.01, -0.61%) | 0.70 (-0.14, -16.93%) | 0.83 (+0.01, +0.98%) | 0.62 (-0.14, -17.90%) | 0.87 | 0.83 (+0.02, +2.74%) | 0.85 (+0.00, +0.50%) | 0.65 (-0.20, -23.75%) | 0.85 (-0.01, -0.76%) | 0.86 (+0.02, +1.84%) | 0.84 (+0.05, +5.81%) | 0.59 (-0.25, -30.00%) | 0.76 (-0.09, -10.49%) | 0.85 | 0.81 (-0.05, -5.79%) | 0.86 (-0.01, -1.17%) | 0.82 (-0.02, -1.81%) | 0.84 (+0.01, +0.91%) | 0.83 (+0.00, +0.16%) | 0.83 (-0.02, -2.68%) | 0.83 (-0.00, -0.39%) | 0.63 (-0.10, -13.68%) | 0.88 (-0.01, -1.54%) | 0.84 (+0.01, +1.41%) | 0.79 | 0.86 | 0.75 (-0.08, -9.91%) | 0.82 (-0.03, -3.55%) | 0.77 (-0.06, -7.70%) | 0.68 (-0.15, -18.21%) | 0.84 (+0.01, +1.81%) | 0.84 (-0.01, -1.50%) | 0.90 | 0.84 (-0.04, -4.16%) | 0.83 (-0.00, -0.10%) | 0.67 (-0.13, -16.62%) | 0.83 (-0.01, -1.09%) |
-| opusmt | 0.82 (+0.00, +0.21%) | 0.85 (-0.00, -0.05%) | 0.86 (-0.01, -1.30%) | 0.91 | 0.85 (-0.01, -0.77%) | 0.85 (+0.01, +0.72%) | N/A | 0.84 (+0.00, +0.58%) | 0.82 (-0.01, -1.13%) | N/A | N/A | 0.84 (+0.04, +4.68%) | N/A | 0.86 (+0.01, +0.63%) | 0.85 (-0.01, -1.22%) | 0.84 (+0.00, +0.10%) | N/A | 0.86 (+0.02, +2.05%) | N/A | 0.77 | 0.86 (+0.00, +0.43%) | 0.86 (-0.00, -0.52%) | 0.80 (-0.03, -3.99%) | 0.84 (+0.01, +1.12%) | N/A | 0.78 (-0.06, -7.63%) | 0.79 (-0.04, -4.37%) | 0.78 (+0.05, +7.09%) | 0.82 (-0.07, -7.86%) | 0.84 (+0.01, +1.36%) | 0.74 | 0.86 | 0.84 (+0.02, +1.83%) | 0.85 (+0.00, +0.27%) | 0.83 (-0.00, -0.23%) | N/A | 0.83 (+0.01, +1.43%) | N/A | 0.88 | N/A | 0.84 (+0.01, +0.97%) | N/A | 0.83 (-0.01, -1.31%) |
+| Translator/Dataset | cs-en | tr-en | en-et | en-fi | en-it | fr-en | en-pt | hu-en | ru-en | mt-en | en-nb | en-hu | en-el | el-en | fi-en | en-da | en-nl | en-mt | en-sv | en-ru | en-fa | bs-en | et-en | nb-en | en-ca | nl-en | en-lt | en-tr | bg-en | uk-en | en-es | fa-en | ca-en | en-uk | is-en | en-bg | en-bs | en-cs | sv-en | en-is | id-en | de-en | da-en | it-en | pl-en | sl-en | en-fr | en-pl | en-id | pt-en | es-en | en-sl | lt-en | en-de |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| bergamot | 0.82 | 0.85 | 0.87 | N/A | 0.86 | 0.84 | 0.89 | 0.84 | 0.82 | 0.76 | N/A | 0.80 | N/A | 0.85 | 0.86 | N/A | 0.86 | N/A | N/A | 0.84 | 0.79 | N/A | 0.85 | 0.85 | N/A | 0.86 | N/A | N/A | 0.87 | 0.83 | 0.83 | 0.83 | 0.85 | 0.83 | 0.73 | 0.89 | N/A | 0.83 | N/A | N/A | N/A | 0.83 | N/A | 0.85 | 0.83 | 0.84 | 0.82 | 0.86 | N/A | 0.87 | 0.83 | N/A | 0.80 | 0.84 |
+| google | 0.85 (+0.03, +3.75%) | 0.89 (+0.04, +4.71%) | 0.91 (+0.04, +4.95%) | 0.91 | 0.88 (+0.02, +2.33%) | 0.86 (+0.02, +1.87%) | 0.90 (+0.02, +1.73%) | 0.86 (+0.03, +3.01%) | 0.85 (+0.02, +2.89%) | 0.84 (+0.08, +10.71%) | 0.90 | 0.88 (+0.08, +9.85%) | 0.90 | 0.87 (+0.02, +2.73%) | 0.89 (+0.03, +3.42%) | 0.91 | 0.88 (+0.02, +2.56%) | 0.73 | 0.91 | 0.90 (+0.06, +6.72%) | 0.88 (+0.09, +11.26%) | 0.89 | 0.89 (+0.04, +5.14%) | 0.89 (+0.04, +5.23%) | 0.88 | 0.88 (+0.02, +2.11%) | 0.89 | 0.90 | 0.89 (+0.02, +2.29%) | 0.87 (+0.04, +4.48%) | 0.85 (+0.02, +2.40%) | 0.89 (+0.06, +7.07%) | 0.89 (+0.05, +5.32%) | 0.90 (+0.07, +8.26%) | 0.87 (+0.14, +18.68%) | 0.92 (+0.02, +2.53%) | 0.92 | 0.89 (+0.06, +7.36%) | 0.90 | 0.86 | 0.90 | 0.86 (+0.03, +3.37%) | 0.91 | 0.86 (+0.02, +1.85%) | 0.86 (+0.02, +2.90%) | 0.88 (+0.05, +5.48%) | 0.85 (+0.03, +3.51%) | 0.90 (+0.04, +4.88%) | 0.92 | 0.89 (+0.01, +1.53%) | 0.84 (+0.01, +1.75%) | 0.91 | 0.87 (+0.06, +7.94%) | 0.87 (+0.03, +3.42%) |
+| microsoft | 0.85 (+0.03, +4.13%) | 0.89 (+0.04, +4.50%) | 0.91 (+0.04, +4.67%) | 0.92 | 0.88 (+0.02, +2.42%) | 0.86 (+0.02, +2.43%) | 0.90 (+0.01, +1.28%) | 0.87 (+0.03, +3.29%) | 0.85 (+0.03, +3.29%) | 0.83 (+0.07, +9.25%) | 0.90 | 0.89 (+0.08, +10.31%) | 0.90 | 0.87 (+0.02, +2.62%) | 0.89 (+0.03, +3.83%) | 0.91 | 0.88 (+0.02, +2.12%) | 0.74 | 0.92 | 0.89 (+0.05, +5.59%) | 0.82 (+0.02, +3.03%) | 0.89 | 0.88 (+0.04, +4.25%) | 0.89 (+0.04, +5.13%) | 0.88 | 0.87 (+0.02, +1.81%) | 0.89 | 0.90 | 0.88 (+0.01, +1.63%) | 0.86 (+0.03, +3.78%) | 0.86 (+0.02, +2.65%) | 0.87 (+0.04, +4.79%) | 0.89 (+0.04, +4.92%) | 0.89 (+0.06, +7.15%) | 0.86 (+0.13, +17.94%) | 0.91 (+0.02, +1.79%) | 0.91 | 0.90 (+0.07, +7.82%) | 0.91 | 0.85 | 0.90 | 0.86 (+0.03, +4.16%) | 0.91 | 0.86 (+0.02, +1.97%) | 0.86 (+0.03, +3.13%) | 0.87 (+0.03, +4.08%) | 0.86 (+0.03, +4.15%) | 0.89 (+0.04, +4.14%) | 0.92 | 0.89 (+0.01, +1.43%) | 0.85 (+0.02, +2.34%) | 0.89 | 0.86 (+0.05, +6.77%) | 0.87 (+0.03, +3.72%) |
+| argos | 0.71 (-0.11, -13.54%) | 0.76 (-0.09, -10.40%) | 0.86 (-0.02, -1.73%) | 0.85 | 0.84 (-0.02, -2.57%) | 0.83 (-0.01, -1.00%) | 0.86 (-0.02, -2.62%) | 0.66 (-0.18, -21.30%) | 0.78 (-0.05, -5.92%) | N/A | N/A | 0.78 (-0.03, -3.35%) | 0.87 | 0.85 (+0.00, +0.25%) | 0.79 (-0.07, -7.61%) | 0.83 | 0.85 (-0.01, -1.73%) | N/A | 0.87 | 0.84 (-0.00, -0.21%) | 0.80 (+0.01, +1.43%) | N/A | 0.86 (+0.01, +1.63%) | 0.87 (+0.02, +2.10%) | 0.77 | 0.86 (+0.00, +0.37%) | N/A | 0.78 | 0.85 (-0.01, -1.37%) | 0.76 (-0.07, -8.33%) | 0.82 (-0.01, -1.52%) | 0.82 (-0.01, -0.64%) | 0.87 (+0.02, +2.23%) | 0.70 (-0.14, -16.31%) | N/A | 0.88 (-0.01, -1.47%) | N/A | 0.68 (-0.16, -18.74%) | 0.88 | N/A | 0.81 | 0.82 (-0.01, -1.29%) | 0.84 | 0.83 (-0.01, -1.44%) | 0.84 (+0.00, +0.36%) | N/A | 0.81 (-0.01, -1.47%) | 0.84 (-0.02, -1.84%) | 0.83 | 0.87 (-0.01, -0.79%) | 0.82 (-0.01, -0.93%) | N/A | N/A | 0.79 (-0.05, -5.97%) |
+| nllb | 0.73 (-0.09, -11.15%) | 0.77 (-0.08, -9.17%) | 0.83 (-0.04, -4.59%) | 0.85 | 0.86 (+0.00, +0.21%) | 0.83 (-0.01, -0.77%) | 0.88 (-0.01, -0.61%) | 0.70 (-0.14, -16.93%) | 0.83 (+0.01, +0.98%) | 0.62 (-0.14, -17.90%) | 0.87 | 0.83 (+0.02, +2.74%) | 0.87 | 0.85 (+0.00, +0.50%) | 0.65 (-0.20, -23.75%) | 0.88 | 0.85 (-0.01, -0.76%) | 0.69 | 0.88 | 0.86 (+0.02, +1.84%) | 0.84 (+0.05, +5.81%) | 0.75 | 0.59 (-0.25, -30.00%) | 0.76 (-0.09, -10.49%) | 0.85 | 0.81 (-0.05, -5.79%) | 0.81 | 0.86 | 0.86 (-0.01, -1.17%) | 0.82 (-0.02, -1.81%) | 0.84 (+0.01, +0.91%) | 0.83 (+0.00, +0.16%) | 0.83 (-0.02, -2.68%) | 0.83 (-0.00, -0.39%) | 0.63 (-0.10, -13.68%) | 0.88 (-0.01, -1.54%) | 0.87 | 0.84 (+0.01, +1.41%) | 0.77 | 0.79 | 0.86 | 0.75 (-0.08, -9.91%) | 0.78 | 0.82 (-0.03, -3.55%) | 0.77 (-0.06, -7.70%) | 0.68 (-0.15, -18.21%) | 0.84 (+0.01, +1.81%) | 0.84 (-0.01, -1.50%) | 0.90 | 0.84 (-0.04, -4.16%) | 0.83 (-0.00, -0.10%) | 0.84 | 0.67 (-0.13, -16.62%) | 0.83 (-0.01, -1.09%) |
+| opusmt | 0.82 (+0.00, +0.21%) | 0.85 (-0.00, -0.05%) | 0.86 (-0.01, -1.30%) | 0.91 | 0.85 (-0.01, -0.77%) | 0.85 (+0.01, +0.72%) | N/A | 0.84 (+0.00, +0.58%) | 0.82 (-0.01, -1.13%) | N/A | N/A | 0.84 (+0.04, +4.68%) | 0.86 | N/A | 0.86 (+0.01, +0.63%) | 0.88 | 0.85 (-0.01, -1.22%) | N/A | 0.89 | 0.84 (+0.00, +0.10%) | N/A | N/A | 0.86 (+0.02, +2.05%) | N/A | 0.77 | 0.86 (+0.00, +0.43%) | N/A | N/A | 0.86 (-0.00, -0.52%) | 0.80 (-0.03, -3.99%) | 0.84 (+0.01, +1.12%) | N/A | 0.78 (-0.06, -7.63%) | 0.79 (-0.04, -4.37%) | 0.78 (+0.05, +7.09%) | 0.82 (-0.07, -7.86%) | N/A | 0.84 (+0.01, +1.36%) | 0.89 | 0.74 | 0.86 | 0.84 (+0.02, +1.83%) | 0.89 | 0.85 (+0.00, +0.27%) | 0.83 (-0.00, -0.23%) | N/A | 0.83 (+0.01, +1.43%) | N/A | 0.88 | N/A | 0.84 (+0.01, +0.97%) | N/A | N/A | 0.83 (-0.01, -1.31%) |
 
 ![Results](img/avg-comet.png)
 ---
@@ -545,6 +545,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ---
 
+## en-el
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.89 | 0.90 |
+| microsoft | 0.89 | 0.90 |
+| argos | 0.87 | 0.87 |
+| nllb | 0.87 | 0.87 |
+| opusmt | 0.86 | 0.87 |
+
+![Results](img/en-el-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.en-el](en-el/flores-test.en-el.cometcompare)
+
+#### [flores-dev.en-el](en-el/flores-dev.en-el.cometcompare)
+
+---
+
 ## el-en
 
 | Translator/Dataset | flores-test | mtedx_test | flores-dev |
@@ -616,6 +636,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ---
 
+## en-da
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.91 | 0.91 |
+| microsoft | 0.91 | 0.91 |
+| argos | 0.83 | 0.83 |
+| nllb | 0.88 | 0.89 |
+| opusmt | 0.88 | 0.88 |
+
+![Results](img/en-da-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.en-da](en-da/flores-test.en-da.cometcompare)
+
+#### [flores-dev.en-da](en-da/flores-dev.en-da.cometcompare)
+
+---
+
 ## en-nl
 
 | Translator/Dataset | flores-dev | flores-test |
@@ -639,6 +679,46 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - flores-test.microsoft.nl outperforms flores-test.bergamot.nl.
 - flores-test.google.nl outperforms flores-test.bergamot.nl.
 - flores-test.google.nl outperforms flores-test.microsoft.nl.
+
+---
+
+## en-mt
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.73 | 0.73 |
+| microsoft | 0.74 | 0.74 |
+| argos | N/A | N/A |
+| nllb | 0.69 | 0.69 |
+| opusmt | N/A | N/A |
+
+![Results](img/en-mt-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.en-mt](en-mt/flores-dev.en-mt.cometcompare)
+
+#### [flores-test.en-mt](en-mt/flores-test.en-mt.cometcompare)
+
+---
+
+## en-sv
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.91 | 0.91 |
+| microsoft | 0.92 | 0.92 |
+| argos | 0.87 | 0.87 |
+| nllb | 0.88 | 0.88 |
+| opusmt | 0.89 | 0.89 |
+
+![Results](img/en-sv-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.en-sv](en-sv/flores-dev.en-sv.cometcompare)
+
+#### [flores-test.en-sv](en-sv/flores-test.en-sv.cometcompare)
 
 ---
 
@@ -744,6 +824,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ---
 
+## bs-en
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.89 | 0.89 |
+| microsoft | 0.89 | 0.89 |
+| argos | N/A | N/A |
+| nllb | 0.75 | 0.76 |
+| opusmt | N/A | N/A |
+
+![Results](img/bs-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.bs-en](bs-en/flores-test.bs-en.cometcompare)
+
+#### [flores-dev.bs-en](bs-en/flores-dev.bs-en.cometcompare)
+
+---
+
 ## et-en
 
 | Translator/Dataset | flores-test | wmt18 | flores-dev |
@@ -843,6 +943,54 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.microsoft.en.
+
+---
+
+## en-lt
+
+| Translator/Dataset | flores-dev | wmt19 | flores-test |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 0.91 | 0.86 | 0.91 |
+| microsoft | 0.90 | 0.86 | 0.90 |
+| argos | N/A | N/A | N/A |
+| nllb | 0.82 | 0.78 | 0.83 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/en-lt-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.en-lt](en-lt/flores-dev.en-lt.cometcompare)
+
+#### [wmt19.en-lt](en-lt/wmt19.en-lt.cometcompare)
+
+#### [flores-test.en-lt](en-lt/flores-test.en-lt.cometcompare)
+
+---
+
+## en-tr
+
+| Translator/Dataset | wmt17 | wmt18 | flores-test | flores-dev | wmt16 |
+| --- | --- | --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A | N/A | N/A |
+| google | 0.90 | 0.90 | 0.91 | 0.91 | 0.90 |
+| microsoft | 0.90 | 0.90 | 0.91 | 0.91 | 0.89 |
+| argos | 0.77 | 0.78 | 0.78 | 0.79 | 0.78 |
+| nllb | 0.86 | 0.86 | 0.86 | 0.87 | 0.85 |
+| opusmt | N/A | N/A | N/A | N/A | N/A |
+
+![Results](img/en-tr-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [wmt17.en-tr](en-tr/wmt17.en-tr.cometcompare)
+
+#### [wmt18.en-tr](en-tr/wmt18.en-tr.cometcompare)
+
+#### [flores-test.en-tr](en-tr/flores-test.en-tr.cometcompare)
+
+#### [flores-dev.en-tr](en-tr/flores-dev.en-tr.cometcompare)
+
+#### [wmt16.en-tr](en-tr/wmt16.en-tr.cometcompare)
 
 ---
 
@@ -1097,6 +1245,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ---
 
+## en-bs
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.91 | 0.92 |
+| microsoft | 0.91 | 0.91 |
+| argos | N/A | N/A |
+| nllb | 0.86 | 0.87 |
+| opusmt | N/A | N/A |
+
+![Results](img/en-bs-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.en-bs](en-bs/flores-test.en-bs.cometcompare)
+
+#### [flores-dev.en-bs](en-bs/flores-dev.en-bs.cometcompare)
+
+---
+
 ## en-cs
 
 | Translator/Dataset | wmt11 | wmt20 | wmt13 | flores-test | wmt08 | wmt21 | wmt14 | wmt17 | wmt22 | wmt12 | wmt18 | wmt15 | wmt10 | flores-dev | wmt16 | wmt19 | wmt09 |
@@ -1189,6 +1357,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 #### [wmt09.en-cs](en-cs/wmt09.en-cs.cometcompare)
 - wmt09.microsoft.cs outperforms wmt09.bergamot.cs.
 - wmt09.google.cs outperforms wmt09.bergamot.cs.
+
+---
+
+## sv-en
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.90 | 0.90 |
+| microsoft | 0.90 | 0.91 |
+| argos | 0.88 | 0.88 |
+| nllb | 0.77 | 0.78 |
+| opusmt | 0.89 | 0.89 |
+
+![Results](img/sv-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.sv-en](sv-en/flores-test.sv-en.cometcompare)
+
+#### [flores-dev.sv-en](sv-en/flores-dev.sv-en.cometcompare)
 
 ---
 
@@ -1336,6 +1524,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.bergamot.en.
 - flores-dev.microsoft.en outperforms flores-dev.google.en.
+
+---
+
+## da-en
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.90 | 0.91 |
+| microsoft | 0.91 | 0.91 |
+| argos | 0.84 | 0.85 |
+| nllb | 0.78 | 0.78 |
+| opusmt | 0.89 | 0.89 |
+
+![Results](img/da-en-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-test.da-en](da-en/flores-test.da-en.cometcompare)
+
+#### [flores-dev.da-en](da-en/flores-dev.da-en.cometcompare)
 
 ---
 
@@ -1627,6 +1835,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 - flores-dev.microsoft.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.bergamot.en.
 - flores-dev.google.en outperforms flores-dev.microsoft.en.
+
+---
+
+## en-sl
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.91 | 0.91 |
+| microsoft | 0.89 | 0.89 |
+| argos | N/A | N/A |
+| nllb | 0.84 | 0.84 |
+| opusmt | N/A | N/A |
+
+![Results](img/en-sl-comet.png)
+### Comparisons between systems
+*If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
+#### [flores-dev.en-sl](en-sl/flores-dev.en-sl.cometcompare)
+
+#### [flores-test.en-sl](en-sl/flores-test.en-sl.cometcompare)
 
 ---
 
