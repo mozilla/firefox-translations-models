@@ -18,6 +18,7 @@ EVALUATION_LANGUAGES = [
     "bs",
     "ca",
     "cs",
+    "da",
     "de",
     "el",
     "es",
