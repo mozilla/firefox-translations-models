@@ -27,6 +27,7 @@ EVALUATION_LANGUAGES = [
     "fi",
     "fr",
     "gl",
+    "hi",
     "hu",
     "id",
     "is",
