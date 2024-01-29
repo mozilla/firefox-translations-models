@@ -776,8 +776,8 @@ def run_comet_compare(lang_pairs, skip_existing, translators, gpus, models_dir, 
 # Report generation
 
 
-def build_report(res_dir, deployment_type, evaluation_engines):
-    os.makedirs(os.path.join(res_dir, deployment_type, "img"), exist_ok=True)
+def build_report(res_dir, evaluation_engines):
+    os.makedirs(os.path.join(res_dir, "img"), exist_ok=True)
 
     for evaluation_engine in evaluation_engines.split(","):
         results = read_results(res_dir, evaluation_engine)
@@ -785,18 +785,18 @@ def build_report(res_dir, deployment_type, evaluation_engines):
             lines = [l.strip() for l in f.readlines()]
 
         avg_results = get_avg_scores(results)
-        build_section(avg_results, "avg", lines, res_dir, deployment_type, evaluation_engine)
+        build_section(avg_results, "avg", lines, res_dir, evaluation_engine)
 
         for lang_pair, datasets in results.items():
-            build_section(datasets, lang_pair, lines, res_dir, deployment_type, evaluation_engine)
+            build_section(datasets, lang_pair, lines, res_dir, evaluation_engine)
 
-        results_path = os.path.join(res_dir, deployment_type, evaluation_engine + "-results.md")
+        results_path = os.path.join(res_dir, evaluation_engine + "-results.md")
         with open(results_path, "w+") as f:
             f.write("\n".join(lines))
             print(f"Results are written to {results_path}")
 
 
-def build_section(datasets, key, lines, res_dir, deployment_type, evaluation_engine):
+def build_section(datasets, key, lines, res_dir, evaluation_engine):
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
@@ -841,7 +841,7 @@ def build_section(datasets, key, lines, res_dir, deployment_type, evaluation_eng
     for translator, scores in inverted_formatted.items():
         lines.append(f'| {translator} | {" | ".join(scores.values())} |')
 
-    img_path = os.path.join(res_dir, deployment_type, "img", f"{key}-{evaluation_engine}.png")
+    img_path = os.path.join(res_dir, "img", f"{key}-{evaluation_engine}.png")
     plot_lang_pair(datasets, inverted_scores, img_path, evaluation_engine)
 
     img_relative_path = "/".join(img_path.split("/")[-2:])
@@ -1001,7 +1001,7 @@ def run(
             models_dir=models_dir,
             results_dir=results_dir,
         )
-    build_report(results_dir, os.path.basename(models_dir), evaluation_engine)
+    build_report(results_dir, evaluation_engine)
 
 
 if __name__ == "__main__":
