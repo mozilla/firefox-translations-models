@@ -41,6 +41,7 @@ EVALUATION_LANGUAGES = [
     "nn",
     "pl",
     "pt",
+    "ro",
     "ru",
     "sl",
     "sv",
