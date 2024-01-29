@@ -48,6 +48,7 @@ EVALUATION_LANGUAGES = [
     "sv",
     "tr",
     "uk",
+    "vi",
 ]
 
 SUPPORTED_LANGUAGES = {
