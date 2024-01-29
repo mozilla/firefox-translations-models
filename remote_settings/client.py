@@ -59,13 +59,13 @@ class RemoteSettingsClient:
             collection=COLLECTION,
             auth=BearerTokenAuth(self._auth_token),
         )
-        self._new_record_info = None
+        self._new_records = None
 
     @classmethod
     def init_for_create(cls, args):
         """Initializes the RemoteSettingsClient for the create subcommand
         This expects the CLI args to have information regarding creating a
-        new record, which populates the _new_record_info data member.
+        new record, which populates the _new_records data member.
 
         Args:
             args (argparse.Namespace): The arguments passed through the CLI
@@ -74,27 +74,32 @@ class RemoteSettingsClient:
             RemoteSettingsClient: A RemoteSettingsClient that can create new records
         """
         this = cls(args)
-        name = os.path.basename(args.path)
+        new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
+        this._new_records = [new_record_info]
+        return this
+
+    @staticmethod
+    def _create_record_info(path, version):
+        name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
-        filter_expression = RemoteSettingsClient._determine_filter_expression(args.version)
-        mimetype, _ = mimetypes.guess_type(args.path)
-        this._new_record_info = {
+        filter_expression = RemoteSettingsClient._determine_filter_expression(version)
+        mimetype, _ = mimetypes.guess_type(path)
+        return {
             "id": str(uuid.uuid4()),
             "data": {
-                "name": os.path.basename(args.path),
+                "name": os.path.basename(path),
                 "fromLang": from_lang,
                 "toLang": to_lang,
-                "version": args.version,
+                "version": version,
                 "fileType": file_type,
                 "filter_expression": filter_expression,
             },
             "attachment": {
-                "path": args.path,
+                "path": path,
                 "mimeType": mimetype,
             },
         }
-        return this
 
     @staticmethod
     def _retrieve_remote_settings_bearer_token():
@@ -208,57 +213,79 @@ class RemoteSettingsClient:
         """
         return self._client.server_info()["user"]["id"]
 
-    def attachment_path(self):
+    def attachment_path(self, index):
         """Retrieves the path of the attachment that will be attached to a newly created record.
+
+        Args:
+            index (int): The index of the record.
 
         Returns:
             str: The attachment path
         """
-        return self._new_record_info["attachment"]["path"]
+        return self._new_records[index]["attachment"]["path"]
 
-    def attachment_name(self):
+    def attachment_name(self, index):
         """Retrieves the name of the attachment that will be attached to a newly created record.
+
+        Args:
+            index (int): The index of the record.
 
         Returns:
             str: The attachment name
         """
-        return os.path.basename(self.attachment_path())
+        return os.path.basename(self.attachment_path(index))
 
-    def attachment_mimetype(self):
+    def attachment_mimetype(self, index):
         """Retrieves the determined mimetype of the attachment that will be attached to a newly created record.
+
+        Args:
+            index (int): The index of the record.
 
         Returns:
             Union[None | str]: The determined mimetype
         """
-        return self._new_record_info["attachment"]["mimeType"]
+        return self._new_records[index]["attachment"]["mimeType"]
 
-    def attachment_content(self):
+    def attachment_content(self, index):
         """Retrieves the file content of the attachment that will be attached to a newly created record.
+
+        Args:
+            index (int): The index of the record.
 
         Returns:
             bytes: The content of the attachment
         """
-        with open(self.attachment_path(), "rb") as f:
+        with open(self.attachment_path(index), "rb") as f:
             attachment_content = f.read()
         return attachment_content
 
-    def record_info_json(self):
+    def record_info_json(self, index):
         """Returns the information of the record to be created as JSON data.
+
+        Args:
+            index (int): The index of the record.
 
         Returns:
             str: The JSON-formatted string containing the record info
         """
-        return json.dumps(self._new_record_info, indent=2)
+        return json.dumps(self._new_records[index], indent=2)
 
-    def create_new_record(self):
-        """Creates a new record in the Remote Settings server along with its file attachment."""
-        id = self._new_record_info["id"]
-        data = self._new_record_info["data"]
+    def create_new_record(self, index):
+        """Creates a new record in the Remote Settings server along with its file attachment.
+
+        Args:
+            index (int): The index of the record.
+        """
+        id = self._new_records[index]["id"]
+        data = self._new_records[index]["data"]
         self._client.create_record(id=id, data=data)
-        self.attach_file_to_record()
+        self.attach_file_to_record(index)
 
-    def attach_file_to_record(self):
+    def attach_file_to_record(self, index):
         """Attaches the file attachment to the record of the matching id.
+
+        Args:
+            index (int): The index of the record.
 
         Raises:
             KintoException: An exception if the record was not able to be uploaded.
@@ -266,7 +293,7 @@ class RemoteSettingsClient:
         headers = {"Authorization": f"Bearer {self._auth_token}"}
 
         attachment_endpoint = "buckets/{}/collections/{}/records/{}/attachment".format(
-            BUCKET, COLLECTION, self._new_record_info["id"]
+            BUCKET, COLLECTION, self._new_records[index]["id"]
         )
 
         response = requests.post(
@@ -275,9 +302,9 @@ class RemoteSettingsClient:
                 (
                     "attachment",
                     (
-                        self.attachment_name(),
-                        self.attachment_content(),
-                        self.attachment_mimetype(),
+                        self.attachment_name(index),
+                        self.attachment_content(index),
+                        self.attachment_mimetype(index),
                     ),
                 )
             ],

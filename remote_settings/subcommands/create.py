@@ -86,14 +86,14 @@ def do_create(args):
     print_info(args)
     print_info(args, f"User: {client.authenticated_user()}")
     print_info(args, f"Server: {client.server_url()}")
-    print_info(args, f"Record: {client.record_info_json()}")
+    print_info(args, f"Record: {client.record_info_json(0)}")
     print_info(args)
 
     if args.dry_run or args.mock_connection:
         return
 
     print_info(args, f"Creating record...")
-    client.create_new_record()
-    print_info(args, f"{client.attachment_name()} created")
+    client.create_new_record(0)
+    print_info(args, f"{client.attachment_name(0)} created")
 
     print_info(args)
