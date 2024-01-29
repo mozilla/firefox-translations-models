@@ -48,6 +48,7 @@ EVALUATION_LANGUAGES = [
     "sl",
     "sr",
     "sv",
+    "th",
     "tr",
     "uk",
     "vi",
