@@ -35,6 +35,7 @@ EVALUATION_LANGUAGES = [
     "it",
     "ja",
     "lt",
+    "lv",
     "mt",
     "nb",
     "nl",
