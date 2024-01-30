@@ -497,6 +497,15 @@ BERGAMOT_EVAL_PATH = os.path.join(HOME_DIR, "translators", "bergamot.sh")
 TRANS_ORDER = {"bergamot": 0, "google": 1, "microsoft": 2, "argos": 3, "nllb": 4, "opusmt": 5}
 
 
+def fill_bergamot_supported_languages(models_dir):
+    SUPPORTED_LANGUAGES["bergamot"] = {}
+    for pair in os.listdir(models_dir):
+        if pair[:2] in SUPPORTED_LANGUAGES["bergamot"]:
+            SUPPORTED_LANGUAGES["bergamot"][pair[:2]].add(pair[-2:])
+        else:
+            SUPPORTED_LANGUAGES["bergamot"][pair[:2]] = {pair[-2:]}
+
+
 def get_dataset_prefix(dataset_name, pair, results_dir):
     dataset_name = dataset_name.replace("/", "_")
     return os.path.join(results_dir, f"{pair[0]}-{pair[1]}", f"{dataset_name}")
@@ -968,12 +977,7 @@ def run(
     gpus,
     comet_compare,
 ):
-    SUPPORTED_LANGUAGES["bergamot"] = {}
-    for pair in os.listdir(models_dir):
-        if pair[:2] in SUPPORTED_LANGUAGES["bergamot"]:
-            SUPPORTED_LANGUAGES["bergamot"][pair[:2]].add(pair[-2:])
-        else:
-            SUPPORTED_LANGUAGES["bergamot"][pair[:2]] = {pair[-2:]}
+    fill_bergamot_supported_languages(models_dir)
 
     # Ensure we don't forget adding Bergamot models to EVALUATION_LANGUAGES.
     for source, targets in SUPPORTED_LANGUAGES["bergamot"].items():
