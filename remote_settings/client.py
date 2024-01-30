@@ -74,12 +74,53 @@ class RemoteSettingsClient:
             RemoteSettingsClient: A RemoteSettingsClient that can create new records
         """
         this = cls(args)
-        new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
-        this._new_records = [new_record_info]
+        if args.path is not None:
+            new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
+            this._new_records = [new_record_info]
+        else:
+            paths = this._paths_for_lang_pair(args)
+            this._new_records = [
+                RemoteSettingsClient._create_record_info(path, args.version) for path in paths
+            ]
+
         return this
 
     @staticmethod
+    def _paths_for_lang_pair(args):
+        """Retrieves all of the file paths for the given language pair and version in args.
+
+        Args:
+            args (argparse.Namespace): The arguments passed through the CLI
+
+        Returns:
+            List[str]: A list of file paths in the specified language-pair directory.
+        """
+        parsed_version = version.parse(args.version)
+
+        if parsed_version.is_prerelease:
+            directory = os.path.join(RemoteSettingsClient._base_dir(args), "dev")
+        else:
+            directory = os.path.join(RemoteSettingsClient._base_dir(args), "prod")
+
+        full_path = os.path.join(directory, args.lang_pair)
+
+        if not os.path.exists(full_path):
+            print_error(f"Path does not exist: {full_path}")
+            exit(1)
+
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+
+    @staticmethod
     def _create_record_info(path, version):
+        """Creates a record-info dictionary for a file at the given path.
+
+        Args:
+            path (str): The path to the file
+            version (str): The version of the record attachment
+
+        Returns:
+            dict: A dictionary containing the record metadata
+        """
         name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
@@ -197,6 +238,21 @@ class RemoteSettingsClient:
         file_type_segment = segments[0]
         return file_type_segment
 
+    @staticmethod
+    def _base_dir(args):
+        """Get the base directory in which to search for record attachments.
+
+        Args:
+            args (argparse.Namespace): The arguments passed through the CLI
+
+        Returns:
+            str: The base directory for record attachments.
+        """
+        if args.test:
+            return os.path.join("tests", "remote_settings", "attachments")
+        else:
+            return "models"
+
     def server_url(self):
         """Retrieves the url of the server that this client is connected to.
 
@@ -258,6 +314,10 @@ class RemoteSettingsClient:
         with open(self.attachment_path(index), "rb") as f:
             attachment_content = f.read()
         return attachment_content
+
+    def record_count(self):
+        """Returns the count of new records to be created"""
+        return len(self._new_records)
 
     def record_info_json(self, index):
         """Returns the information of the record to be created as JSON data.
