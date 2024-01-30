@@ -3,41 +3,38 @@ import os
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import sys
+from mtdata import iso
 
 from tqdm import tqdm
 import toolz
 
 
-lang_to_lang_code = {
-    "bg": "bul_Cyrl",
-    "ca": "cat_Latn",
-    "cs": "ces_Latn",
-    "de": "deu_Latn",
-    "en": "eng_Latn",
-    "es": "spa_Latn",
-    "et": "est_Latn",
-    "fa": "pes_Arab",
-    "fi": "fin_Latn",
-    "fr": "fra_Latn",
-    "hu": "hun_Latn",
-    "is": "isl_Latn",
-    "it": "ita_Latn",
-    "nb": "nob_Latn",
-    "nl": "nld_Latn",
-    "nn": "nno_Latn",
-    "pl": "pol_Latn",
-    "pt": "por_Latn",
-    "ru": "rus_Cyrl",
-    "uk": "ukr_Cyrl",
-}
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+
+LANG_CODE_MAP = {
+    "fa": "pes_Arab",
+    "lv": "lvs_Latn",
+    "zh": "zho_Hans",
+}
 
 
 def translate(texts, tokenizer, model, target):
     results = []
 
-    forced_bos_token_id = tokenizer.lang_code_to_id[lang_to_lang_code[target]]
+    if target in LANG_CODE_MAP:
+        lang_code = LANG_CODE_MAP[target]
+    else:
+        lang_code = None
+        for lang in tokenizer.additional_special_tokens:
+            if lang.startswith(iso.iso3_code(target)):
+                assert (
+                    lang_code is None
+                ), "Multiple NLLB language codes found for the same language ID, need to disambiguate!"
+                lang_code = lang
+        assert lang_code is not None, f"Lang code for {target} was not found"
+
+    forced_bos_token_id = tokenizer.lang_code_to_id[lang_code]
 
     for partition in tqdm(list(toolz.partition_all(10, texts))):
         tokenized_src = tokenizer(partition, return_tensors="pt", padding=True).to(device)

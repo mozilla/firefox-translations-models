@@ -46,12 +46,12 @@ jobs:
       - run:
           name: Showing results
           command: |
-            git add evaluation/*/*/*.bleu
-            git --no-pager diff --staged evaluation/*/*/*.bleu
-            git add evaluation/*/*/*.comet
-            git --no-pager diff --staged evaluation/*/*/*.comet
-            git add evaluation/*/*/*.cometcompare
-            git --no-pager diff --staged evaluation/*/*/*.cometcompare
+            git add evaluation/*/*.bleu
+            git --no-pager diff --staged evaluation/*/*.bleu
+            git add evaluation/*/*.comet
+            git --no-pager diff --staged evaluation/*/*.comet
+            git add evaluation/*/*.cometcompare
+            git --no-pager diff --staged evaluation/*/*.cometcompare
       - run:
           name: Pushing results
           command: |

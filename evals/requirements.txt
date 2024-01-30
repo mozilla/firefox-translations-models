@@ -74,6 +74,8 @@ idna==3.6
     # via
     #   requests
     #   yarl
+ipadic==1.0.0
+    # via sacrebleu
 jinja2==3.1.2
     # via torch
 joblib==1.3.2
@@ -90,6 +92,14 @@ markupsafe==2.1.3
     # via jinja2
 matplotlib==3.5.3
     # via -r requirements.in
+mecab-ko==1.0.0
+    # via sacrebleu
+mecab-ko-dic==1.0.0
+    # via
+    #   mecab-ko
+    #   sacrebleu
+mecab-python3==1.0.5
+    # via sacrebleu
 mpmath==1.3.0
     # via sympy
 mtdata==0.2.9
@@ -182,9 +192,10 @@ requests==2.31.0
     #   transformers
 rsa==4.9
     # via google-auth
-sacrebleu==2.3.1
+sacrebleu[ja,ko]==2.3.1
     # via
     #   -r requirements.in
+    #   sacrebleu
     #   unbabel-comet
 sacremoses==0.0.53
     # via argostranslate

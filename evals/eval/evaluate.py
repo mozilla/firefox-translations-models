@@ -13,6 +13,49 @@ import pandas as pd
 from mtdata import iso
 from os.path import exists
 
+EVALUATION_LANGUAGES = [
+    "bg",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fa",
+    "fi",
+    "fr",
+    "gl",
+    "hi",
+    "hr",
+    "hu",
+    "id",
+    "is",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "mt",
+    "nb",
+    "nl",
+    "nn",
+    "pl",
+    "pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "uk",
+    "vi",
+    "zh",
+]
+
 SUPPORTED_LANGUAGES = {
     "argos": {
         "ar": {"en"},
@@ -452,6 +495,15 @@ BERGAMOT_EVAL_PATH = os.path.join(HOME_DIR, "translators", "bergamot.sh")
 
 
 TRANS_ORDER = {"bergamot": 0, "google": 1, "microsoft": 2, "argos": 3, "nllb": 4, "opusmt": 5}
+
+
+def fill_bergamot_supported_languages(models_dir):
+    SUPPORTED_LANGUAGES["bergamot"] = {}
+    for pair in os.listdir(models_dir):
+        if pair[:2] in SUPPORTED_LANGUAGES["bergamot"]:
+            SUPPORTED_LANGUAGES["bergamot"][pair[:2]].add(pair[-2:])
+        else:
+            SUPPORTED_LANGUAGES["bergamot"][pair[:2]] = {pair[-2:]}
 
 
 def get_dataset_prefix(dataset_name, pair, results_dir):
@@ -925,10 +977,21 @@ def run(
     gpus,
     comet_compare,
 ):
-    lang_pairs = [
-        (pair[:2], pair[-2:])
-        for pair in (os.listdir(models_dir) if pairs == "all" else pairs.split(","))
-    ]
+    fill_bergamot_supported_languages(models_dir)
+
+    # Ensure we don't forget adding Bergamot models to EVALUATION_LANGUAGES.
+    for source, targets in SUPPORTED_LANGUAGES["bergamot"].items():
+        if source != "en":
+            assert source in EVALUATION_LANGUAGES, f"{source} missing in EVALUATION_LANGUAGES"
+        for lang in targets:
+            if lang != "en":
+                assert lang in EVALUATION_LANGUAGES, f"{lang} missing in EVALUATION_LANGUAGES"
+
+    if pairs == "all":
+        lang_pairs = sum(([("en", lang), (lang, "en")] for lang in EVALUATION_LANGUAGES), [])
+    else:
+        lang_pairs = [(pair[:2], pair[-2:]) for pair in pairs.split(",")]
+
     print(f"Language pairs to evaluate: {lang_pairs}")
     download_custom_data()
     run_dir(
