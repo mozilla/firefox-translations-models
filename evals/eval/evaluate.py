@@ -814,6 +814,11 @@ def build_report(res_dir, evaluation_engines):
 
 
 def build_section(datasets, key, lines, res_dir, evaluation_engine, require_bergamot=False):
+    if require_bergamot:
+        datasets = {dataset_name: translators
+                    for dataset_name, translators in datasets.items()
+                    if "bergamot" in translators}
+
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
