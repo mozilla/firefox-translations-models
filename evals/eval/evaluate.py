@@ -686,6 +686,11 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
             print("Attempt failed, retrying")
 
 
+def is_supported(translator, source, target):
+    return translator in SUPPORTED_LANGUAGES and \
+           source in SUPPORTED_LANGUAGES[translator] and \
+           target in SUPPORTED_LANGUAGES[translator][source]
+
 def run_dir(
     lang_pairs, skip_existing, translators, evaluation_engines, gpus, results_dir, models_dir
 ):
@@ -693,6 +698,7 @@ def run_dir(
 
     for evaluation_engine in evaluation_engines.split(","):
         for pair in lang_pairs:
+            source, target = pair
             if "nn" in pair:
                 print(
                     "There are no evaluation datasets for Norwegian Nynorsk "
@@ -702,9 +708,8 @@ def run_dir(
 
             for dataset_name in find_datasets(pair):
                 for translator in reordered:
-                    if translator in SUPPORTED_LANGUAGES and pair[1] not in SUPPORTED_LANGUAGES[
-                        translator
-                    ].get(pair[0], {}):
+                    if not is_supported(translator, source, target):
+                        print(f"Language pair {source}-{target} is not supported for {translator}")
                         continue
 
                     print(
@@ -769,6 +774,9 @@ def run_comet_compare(lang_pairs, skip_existing, translators, gpus, models_dir, 
             source_dataset = f"{dataset_name}.{source}"
             targets = ""
             for translator in translators.split(","):
+                if not is_supported(translator, source, target):
+                    print(f"Language pair {source}-{target} is not supported for {translator}")
+                    continue
                 targets += f"{dataset_name}.{translator}.{target} "
             command = ""
             if dataset_name in CUSTOM_DATASETS:
