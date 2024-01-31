@@ -801,7 +801,8 @@ def build_report(res_dir, evaluation_engines):
             lines = [l.strip() for l in f.readlines()]
 
         avg_results = get_avg_scores(results)
-        build_section(avg_results, "avg", lines, res_dir, evaluation_engine)
+        # show only bergamot supported languages in the aggregated section
+        build_section(avg_results, "avg", lines, res_dir, evaluation_engine, require_bergamot=True)
 
         for lang_pair, datasets in results.items():
             build_section(datasets, lang_pair, lines, res_dir, evaluation_engine)
@@ -812,7 +813,7 @@ def build_report(res_dir, evaluation_engines):
             print(f"Results are written to {results_path}")
 
 
-def build_section(datasets, key, lines, res_dir, evaluation_engine):
+def build_section(datasets, key, lines, res_dir, evaluation_engine, require_bergamot=False):
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
@@ -822,8 +823,10 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine):
     comet_comparisons = defaultdict(dict)
     for dataset_name, translators in datasets.items():
         bergamot_res = translators.get("bergamot")
-        reordered = sorted(translators.items(), key=lambda x: TRANS_ORDER[x[0]])
+        if require_bergamot and bergamot_res is None:
+            continue
 
+        reordered = sorted(translators.items(), key=lambda x: TRANS_ORDER[x[0]])
         for translator, score in reordered:
             if score == 0:
                 formatted_score = "N/A"
