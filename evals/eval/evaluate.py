@@ -1,17 +1,18 @@
+import os
 import re
 import shutil
-import subprocess
-import os
-from collections import defaultdict
 import statistics
+import subprocess
 import traceback
-from sacrebleu import dataset
-import click
-from toolz import groupby
+from collections import defaultdict
 from glob import glob
+from os.path import exists
+
+import click
 import pandas as pd
 from mtdata import iso
-from os.path import exists
+from sacrebleu import dataset
+from toolz import groupby
 
 EVALUATION_LANGUAGES = [
     "bg",
@@ -687,9 +688,12 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
 
 
 def is_supported(translator, source, target):
-    return translator in SUPPORTED_LANGUAGES and \
-           source in SUPPORTED_LANGUAGES[translator] and \
-           target in SUPPORTED_LANGUAGES[translator][source]
+    return (
+        translator in SUPPORTED_LANGUAGES
+        and source in SUPPORTED_LANGUAGES[translator]
+        and target in SUPPORTED_LANGUAGES[translator][source]
+    )
+
 
 def run_dir(
     lang_pairs, skip_existing, translators, evaluation_engines, gpus, results_dir, models_dir
@@ -768,7 +772,7 @@ def run_comet_compare(lang_pairs, skip_existing, translators, gpus, models_dir, 
                 and os.path.isfile(output_filename)
                 and os.stat(output_filename).st_size > 0
             ):
-                print(f"Comparison exists. Skipping...")
+                print("Comparison exists. Skipping...")
                 continue
 
             source_dataset = f"{dataset_name}.{source}"
@@ -823,9 +827,11 @@ def build_report(res_dir, evaluation_engines):
 
 def build_section(datasets, key, lines, res_dir, evaluation_engine, require_bergamot=False):
     if require_bergamot:
-        datasets = {dataset_name: translators
-                    for dataset_name, translators in datasets.items()
-                    if "bergamot" in translators}
+        datasets = {
+            dataset_name: translators
+            for dataset_name, translators in datasets.items()
+            if "bergamot" in translators
+        }
 
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
