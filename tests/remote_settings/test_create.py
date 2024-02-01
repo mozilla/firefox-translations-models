@@ -464,3 +464,12 @@ def test_create_command_lang_pair_enes():
 
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_command_no_files_in_directory():
+    result = (
+        CreateCommand().with_server("stage").with_version("1.0a1").with_lang_pair("emty").run()
+    )
+    assert result.returncode == ERROR, f"The return code should be {ERROR}"
+    assert "No records found" in result.stderr
+    assert "You may need to unzip" in result.stdout
