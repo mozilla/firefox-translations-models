@@ -4,15 +4,56 @@ A CLI tool to upload language models to [Remote Settings](https://remote-setting
 
 ## When to use remote_settings
 
-The `remote_settings` CLI tool should be used when language models are added or 
-updated within the repository. 
+The `remote_settings` CLI tool should be used when language models are added or
+updated within the repository to publish them to Remote Settings.
 
-After new models are added to the repository, follow these steps:
+### Example: Publish a language pair to Remote Settings
 
-* Unzip the files you wish to upload from their compressed archives.
-* Run the script for the files you wish to upload.
+**1) Export your authentication token (see [Authentication](#authentication))**
+> ```
+> export REMOTE_SETTINGS_BEARER_TOKEN="Bearer ..."`
+> ```
 
-## Creating model records and attachments 
+**2) Ensure your files are present locally, and not stored remotely via [git-lfs](https://git-lfs.com/)**
+> ```
+> git lfs fetch --all
+> git lfs pull {path_to_your_files}/*
+> ```
+
+> [!NOTE]
+> Requires [installing](https://github.com/git-lfs/git-lfs#installing) git-lfs.
+
+**3) Unzip the model files you wish to publish**
+> ```
+> gzip -d {path_to_your_files}/*
+> ```
+
+> [!NOTE]
+> Requires [installing](https://www.gnu.org/software/gzip/) gzip.
+
+**4) Inspect the metadata of your to-be-published records by using the --dry-run flag**
+> ```
+> poetry run python -m remote_settings create --dry-run --lang-pair {lang_pair} --server {dev,stage,prod} --version {version}
+> ```
+
+**5) Publish the model records for a language pair by removing the --dry-run flag**
+> ```
+> poetry run python -m remote_settings create --lang-pair {lang_pair} --server {dev,stage,prod} --version {version}
+> ```
+
+> [!NOTE]
+> At this time [versions](#arg---version) are manually entered by the CLI user.
+>
+> For example, if you are publishing records for a version `1.0a2`, and `1.0a1` already exists,
+> you will need to input the version `1.0a2` manually.
+>
+> In the future, we would like to support one or many of the following:
+>
+> 1) Bumping versions relatively via the CLI, e.g. `--version {bump-alpha,bump-beta,bump-minor,bump-major}`
+>
+> 2) Retrieving version data elsewhere, possibly from the model names, paths, or JSON data generated alongside the models.
+
+## Creating model records and attachments
 
 The `create` subcommand is used to upload a new model to the Remote Settings.
 
@@ -79,7 +120,7 @@ Models can be uploaded to one of three servers using the `--server` flag:
 > Uploading to the `prod` or `stage` servers require VPN access, which can be acquired
 > by following the steps [here](https://mozilla-hub.atlassian.net/wiki/spaces/IT/pages/15761733/Mozilla+Corporate+VPN).
 
-### Arg: --version 
+### Arg: --version
 
 Applies a semantic version to the record.
 
