@@ -1,0 +1,26 @@
+==========================
+x_name: wmt18.argos.zh
+y_name: wmt18.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8314
+y-mean:	0.8125
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	14.3914
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.argos.zh outperforms wmt18.opusmt.zh.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt18.argos.zh    wmt18.opusmt.zh
+---------------------  ----------------  -----------------
+wmt18.argos.zh                           True
+wmt18.opusmt.zh        False

@@ -1,0 +1,25 @@
+==========================
+x_name: flores-dev.argos.ca
+y_name: flores-dev.opusmt.ca
+
+Bootstrap Resampling Results:
+x-mean:	0.7705
+y-mean:	0.7689
+ties (%):	0.2433
+x_wins (%):	0.6067
+y_wins (%):	0.1500
+
+Paired T-Test Results:
+statistic:	1.0416
+p_value:	0.2978
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    flores-dev.argos.ca    flores-dev.opusmt.ca
+---------------------  ---------------------  ----------------------
+flores-dev.argos.ca                           False
+flores-dev.opusmt.ca   False

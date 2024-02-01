@@ -1,0 +1,60 @@
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8334
+y-mean:	0.7329
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	52.8900
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.bergamot.en outperforms wmt18.argos.en.
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8334
+y-mean:	0.8343
+ties (%):	0.3667
+x_wins (%):	0.1633
+y_wins (%):	0.4700
+
+Paired T-Test Results:
+statistic:	-0.5732
+p_value:	0.5666
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: wmt18.argos.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7329
+y-mean:	0.8343
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-50.2030
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.opusmt.en outperforms wmt18.argos.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt18.bergamot.en    wmt18.argos.en    wmt18.opusmt.en
+---------------------  -------------------  ----------------  -----------------
+wmt18.bergamot.en                           True              False
+wmt18.argos.en         False                                  False
+wmt18.opusmt.en        False                True

@@ -167,14 +167,26 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [wmt17.tr-en](tr-en/wmt17.tr-en.cometcompare)
+- wmt17.bergamot.en outperforms wmt17.argos.en.
+- wmt17.bergamot.en outperforms wmt17.opusmt.en.
+- wmt17.opusmt.en outperforms wmt17.argos.en.
 
 #### [flores-test.tr-en](tr-en/flores-test.tr-en.cometcompare)
+- flores-test.bergamot.en outperforms flores-test.argos.en.
+- flores-test.opusmt.en outperforms flores-test.bergamot.en.
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [wmt18.tr-en](tr-en/wmt18.tr-en.cometcompare)
+- wmt18.bergamot.en outperforms wmt18.argos.en.
+- wmt18.opusmt.en outperforms wmt18.argos.en.
 
 #### [wmt16.tr-en](tr-en/wmt16.tr-en.cometcompare)
+- wmt16.bergamot.en outperforms wmt16.argos.en.
+- wmt16.opusmt.en outperforms wmt16.argos.en.
 
 #### [flores-dev.tr-en](tr-en/flores-dev.tr-en.cometcompare)
+- flores-dev.bergamot.en outperforms flores-dev.argos.en.
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 
@@ -193,8 +205,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.sk-en](sk-en/flores-test.sk-en.cometcompare)
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [flores-dev.sk-en](sk-en/flores-dev.sk-en.cometcompare)
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 
@@ -243,18 +257,25 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.en-fi](en-fi/flores-test.en-fi.cometcompare)
+- flores-test.opusmt.fi outperforms flores-test.argos.fi.
 
 #### [wmt19.en-fi](en-fi/wmt19.en-fi.cometcompare)
+- wmt19.opusmt.fi outperforms wmt19.argos.fi.
 
 #### [wmt18.en-fi](en-fi/wmt18.en-fi.cometcompare)
+- wmt18.opusmt.fi outperforms wmt18.argos.fi.
 
 #### [wmt17.en-fi](en-fi/wmt17.en-fi.cometcompare)
+- wmt17.opusmt.fi outperforms wmt17.argos.fi.
 
 #### [flores-dev.en-fi](en-fi/flores-dev.en-fi.cometcompare)
+- flores-dev.opusmt.fi outperforms flores-dev.argos.fi.
 
 #### [wmt16.en-fi](en-fi/wmt16.en-fi.cometcompare)
+- wmt16.opusmt.fi outperforms wmt16.argos.fi.
 
 #### [wmt15.en-fi](en-fi/wmt15.en-fi.cometcompare)
+- wmt15.opusmt.fi outperforms wmt15.argos.fi.
 
 ---
 
@@ -516,22 +537,29 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [wmt21.en-zh](en-zh/wmt21.en-zh.cometcompare)
+- wmt21.argos.zh outperforms wmt21.opusmt.zh.
 
 #### [wmt18.en-zh](en-zh/wmt18.en-zh.cometcompare)
+- wmt18.argos.zh outperforms wmt18.opusmt.zh.
 
 #### [iwslt17.en-zh](en-zh/iwslt17.en-zh.cometcompare)
 
 #### [flores-dev.en-zh](en-zh/flores-dev.en-zh.cometcompare)
+- flores-dev.argos.zh outperforms flores-dev.opusmt.zh.
 
 #### [wmt19.en-zh](en-zh/wmt19.en-zh.cometcompare)
+- wmt19.argos.zh outperforms wmt19.opusmt.zh.
 
 #### [wmt22.en-zh](en-zh/wmt22.en-zh.cometcompare)
 
 #### [wmt20.en-zh](en-zh/wmt20.en-zh.cometcompare)
+- wmt20.argos.zh outperforms wmt20.opusmt.zh.
 
 #### [flores-test.en-zh](en-zh/flores-test.en-zh.cometcompare)
+- flores-test.argos.zh outperforms flores-test.opusmt.zh.
 
 #### [wmt17.en-zh](en-zh/wmt17.en-zh.cometcompare)
+- wmt17.argos.zh outperforms wmt17.opusmt.zh.
 
 ---
 
@@ -766,8 +794,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.en-el](en-el/flores-test.en-el.cometcompare)
+- flores-test.argos.el outperforms flores-test.opusmt.el.
 
 #### [flores-dev.en-el](en-el/flores-dev.en-el.cometcompare)
+- flores-dev.argos.el outperforms flores-dev.opusmt.el.
 
 ---
 
@@ -788,6 +818,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 #### [flores-test.el-en](el-en/flores-test.el-en.cometcompare)
 
 #### [mtedx_test.el-en](el-en/mtedx_test.el-en.cometcompare)
+- mtedx_test.argos.en outperforms mtedx_test.bergamot.en.
 
 #### [flores-dev.el-en](el-en/flores-dev.el-en.cometcompare)
 
@@ -857,8 +888,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.en-da](en-da/flores-test.en-da.cometcompare)
+- flores-test.opusmt.da outperforms flores-test.argos.da.
 
 #### [flores-dev.en-da](en-da/flores-dev.en-da.cometcompare)
+- flores-dev.opusmt.da outperforms flores-dev.argos.da.
 
 ---
 
@@ -923,8 +956,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-dev.en-sv](en-sv/flores-dev.en-sv.cometcompare)
+- flores-dev.opusmt.sv outperforms flores-dev.argos.sv.
 
 #### [flores-test.en-sv](en-sv/flores-test.en-sv.cometcompare)
+- flores-test.opusmt.sv outperforms flores-test.argos.sv.
 
 ---
 
@@ -1163,6 +1198,7 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.en-ca](en-ca/flores-test.en-ca.cometcompare)
+- flores-test.argos.ca outperforms flores-test.opusmt.ca.
 
 #### [flores-dev.en-ca](en-ca/flores-dev.en-ca.cometcompare)
 
@@ -1283,10 +1319,13 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.ko-en](ko-en/flores-test.ko-en.cometcompare)
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [iwslt17.ko-en](ko-en/iwslt17.ko-en.cometcompare)
+- iwslt17.opusmt.en outperforms iwslt17.argos.en.
 
 #### [flores-dev.ko-en](ko-en/flores-dev.ko-en.cometcompare)
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 
@@ -1592,20 +1631,25 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [wmt20.zh-en](zh-en/wmt20.zh-en.cometcompare)
+- wmt20.opusmt.en outperforms wmt20.argos.en.
 
 #### [flores-test.zh-en](zh-en/flores-test.zh-en.cometcompare)
 
 #### [wmt21.zh-en](zh-en/wmt21.zh-en.cometcompare)
+- wmt21.opusmt.en outperforms wmt21.argos.en.
 
 #### [wmt17.zh-en](zh-en/wmt17.zh-en.cometcompare)
 
 #### [wmt18.zh-en](zh-en/wmt18.zh-en.cometcompare)
+- wmt18.opusmt.en outperforms wmt18.argos.en.
 
 #### [wmt19.zh-en](zh-en/wmt19.zh-en.cometcompare)
+- wmt19.opusmt.en outperforms wmt19.argos.en.
 
 #### [iwslt17.zh-en](zh-en/iwslt17.zh-en.cometcompare)
 
 #### [wmt22.zh-en](zh-en/wmt22.zh-en.cometcompare)
+- wmt22.opusmt.en outperforms wmt22.argos.en.
 
 #### [flores-dev.zh-en](zh-en/flores-dev.zh-en.cometcompare)
 
@@ -1626,10 +1670,13 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-dev.en-hi](en-hi/flores-dev.en-hi.cometcompare)
+- flores-dev.argos.hi outperforms flores-dev.opusmt.hi.
 
 #### [flores-test.en-hi](en-hi/flores-test.en-hi.cometcompare)
+- flores-test.argos.hi outperforms flores-test.opusmt.hi.
 
 #### [wmt14.en-hi](en-hi/wmt14.en-hi.cometcompare)
+- wmt14.argos.hi outperforms wmt14.opusmt.hi.
 
 ---
 
@@ -1825,8 +1872,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.sv-en](sv-en/flores-test.sv-en.cometcompare)
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [flores-dev.sv-en](sv-en/flores-dev.sv-en.cometcompare)
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 
@@ -1867,10 +1916,13 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.hi-en](hi-en/flores-test.hi-en.cometcompare)
+- flores-test.argos.en outperforms flores-test.opusmt.en.
 
 #### [flores-dev.hi-en](hi-en/flores-dev.hi-en.cometcompare)
+- flores-dev.argos.en outperforms flores-dev.opusmt.en.
 
 #### [wmt14.hi-en](hi-en/wmt14.hi-en.cometcompare)
+- wmt14.argos.en outperforms wmt14.opusmt.en.
 
 ---
 
@@ -1911,8 +1963,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.id-en](id-en/flores-test.id-en.cometcompare)
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [flores-dev.id-en](id-en/flores-dev.id-en.cometcompare)
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 
@@ -2036,8 +2090,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.da-en](da-en/flores-test.da-en.cometcompare)
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [flores-dev.da-en](da-en/flores-dev.da-en.cometcompare)
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 
@@ -2238,8 +2294,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-dev.en-id](en-id/flores-dev.en-id.cometcompare)
+- flores-dev.opusmt.id outperforms flores-dev.argos.id.
 
 #### [flores-test.en-id](en-id/flores-test.en-id.cometcompare)
+- flores-test.opusmt.id outperforms flores-test.argos.id.
 
 ---
 
@@ -2287,8 +2345,10 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [flores-test.en-sk](en-sk/flores-test.en-sk.cometcompare)
+- flores-test.opusmt.sk outperforms flores-test.argos.sk.
 
 #### [flores-dev.en-sk](en-sk/flores-dev.en-sk.cometcompare)
+- flores-dev.opusmt.sk outperforms flores-dev.argos.sk.
 
 ---
 
@@ -2387,16 +2447,22 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 ### Comparisons between systems
 *If a comparison is omitted, the systems have equal averages (tie). Click on the dataset for a complete report*
 #### [wmt20.ja-en](ja-en/wmt20.ja-en.cometcompare)
+- wmt20.argos.en outperforms wmt20.opusmt.en.
 
 #### [flores-test.ja-en](ja-en/flores-test.ja-en.cometcompare)
+- flores-test.opusmt.en outperforms flores-test.argos.en.
 
 #### [wmt21.ja-en](ja-en/wmt21.ja-en.cometcompare)
+- wmt21.argos.en outperforms wmt21.opusmt.en.
 
 #### [iwslt17.ja-en](ja-en/iwslt17.ja-en.cometcompare)
+- iwslt17.opusmt.en outperforms iwslt17.argos.en.
 
 #### [wmt22.ja-en](ja-en/wmt22.ja-en.cometcompare)
+- wmt22.argos.en outperforms wmt22.opusmt.en.
 
 #### [flores-dev.ja-en](ja-en/flores-dev.ja-en.cometcompare)
+- flores-dev.opusmt.en outperforms flores-dev.argos.en.
 
 ---
 

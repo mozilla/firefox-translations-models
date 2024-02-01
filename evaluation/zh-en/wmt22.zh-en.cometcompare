@@ -1,0 +1,26 @@
+==========================
+x_name: wmt22.argos.en
+y_name: wmt22.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7278
+y-mean:	0.7390
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-6.0864
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.opusmt.en outperforms wmt22.argos.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt22.argos.en    wmt22.opusmt.en
+---------------------  ----------------  -----------------
+wmt22.argos.en                           False
+wmt22.opusmt.en        True
