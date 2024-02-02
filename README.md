@@ -69,10 +69,7 @@ Models are deployed to Remote Settings to be delivered to Firefox.
 Records and attachments are uploaded via a CLI tool which lives in the
 `remote_settings` directory in this repository.
 
-At present, records are uploaded by invoking the script manually, but we would
-like to automate this process whenever we merge a PR that adds new language models.
-
-Run `poetry run python -m remote_settings --help` to see more information.
+View the `remote_settings` [README](https://github.com/mozilla/firefox-translations-models/blob/main/remote_settings/README.md) for more details on publishing models.
 
 # Currently supported Languages
 

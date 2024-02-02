@@ -3,7 +3,7 @@ import argparse, os
 from packaging import version
 
 from remote_settings.client import RemoteSettingsClient
-from remote_settings.format import print_info
+from remote_settings.format import print_info, print_error, print_help
 
 
 def attach_create_subcommand(subparsers):
@@ -45,22 +45,44 @@ def attach_create_subcommand(subparsers):
         required=True,
     )
     create_parser.add_argument(
-        "--path",
-        type=validate_path,
-        help="the path to the file attachment to upload",
-        required=True,
-    )
-    create_parser.add_argument(
         "--version",
+        metavar="VERSION",
         type=validate_version,
         help="the semantic version of the record",
         required=True,
+    )
+    create_parser.add_argument(
+        "--test",
+        action="store_true",
+        help=argparse.SUPPRESS,
+    )
+
+    group = create_parser.add_mutually_exclusive_group(required=True)
+    group.add_argument(
+        "--path",
+        metavar="PATH",
+        type=validate_path,
+        help="the path to the file attachment to upload",
+    )
+    group.add_argument(
+        "--lang-pair",
+        metavar="PAIR",
+        type=validate_lang_pair,
+        help="the language pair for which to publish all associated files, e.g. 'enes'",
     )
 
 
 def validate_path(value):
     if not os.path.exists(value):
         raise argparse.ArgumentTypeError(f"invalid value '{value}' (path does not exist)")
+    return value
+
+
+def validate_lang_pair(value):
+    if len(value) != 4:
+        raise argparse.ArgumentTypeError(
+            f"invalid language pair '{value}', expected only four letters, e.g. 'enes'"
+        )
     return value
 
 
@@ -86,14 +108,22 @@ def do_create(args):
     print_info(args)
     print_info(args, f"User: {client.authenticated_user()}")
     print_info(args, f"Server: {client.server_url()}")
-    print_info(args, f"Record: {client.record_info_json()}")
+
+    if client.record_count() == 0:
+        print_error("No records found.")
+        print_help("You may need to unzip the archives in the desired directory.")
+        exit(1)
+
     print_info(args)
 
-    if args.dry_run or args.mock_connection:
-        return
+    for i in range(client.record_count()):
+        print_info(args, f"Record: {client.record_info_json(i)}")
 
-    print_info(args, f"Creating record...")
-    client.create_new_record()
-    print_info(args, f"{client.attachment_name()} created")
+        if not (args.dry_run or args.mock_connection):
+            print_info(args, "Creating record...")
+            client.create_new_record(i)
+            print_info(args, f"{client.attachment_name(i)} created")
+
+        print_info(args)
 
     print_info(args)
