@@ -78,27 +78,30 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 ## Prod
 - Bulgarian <-> English
 - Dutch <-> English
+- Estonian <-> English
+- Finnish -> English
 - French <-> English
 - German <-> English
+- Greek -> English
+- Hungarian -> English
 - Italian <-> English
 - Polish <-> English
 - Portuguese <-> English
+- Russian -> English
+- Slovenian -> English
 - Spanish <-> English
+- Turkish -> English
+- Ukrainian -> English
 
 ## Dev
 - Catalan -> English
 - Czech <-> English
-- Estonian <-> English
-- Finnish -> English
-- Greek -> English
-- Hungarian <-> English
+- Hungarian <- English
 - Icelandic -> English
 - Lithuanian -> English
 - Maltese -> English
 - Norwegian Bokmål -> English
 - Norwegian Nynorsk -> English
 - Persian (Farsi) <-> English
-- Russian <-> English
-- Slovenian -> English
-- Turkish -> English
-- Ukrainian <-> English
+- Russian <- English
+- Ukranian <- English
