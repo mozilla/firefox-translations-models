@@ -33,9 +33,9 @@ SRCVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{SRCVOCAB_NAME}"
 TRGVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
 VOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{VOCAB_NAME}"
 
-DEV_SERVER_URL = "https://remote-settings-dev.allizom.org/v1/"
+DEV_SERVER_URL = "https://remote-settings-dev.allizom.org/v1"
 PROD_SERVER_URL = "https://remote-settings.mozilla.org/v1"
-STAGE_SERVER_URL = "https://settings-writer.stage.mozaws.net/v1/"
+STAGE_SERVER_URL = "https://remote-settings.allizom.org/v1"
 
 ALPHA_FILTER_EXPRESSION = "env.channel == 'default' || env.channel == 'nightly'"
 BETA_FILTER_EXPRESSION = "env.channel != 'release'"

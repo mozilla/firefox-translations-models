@@ -20,9 +20,9 @@ On the top right corner, use the 📋 icon to copy the authentication string
 BUCKET = "main-workspace"
 COLLECTION = "translations-models"
 SERVER_URLS = {
-    "dev": "https://remote-settings-dev.allizom.org/v1/",
+    "dev": "https://remote-settings-dev.allizom.org/v1",
+    "stage": "https://remote-settings.allizom.org/v1",
     "prod": "https://remote-settings.mozilla.org/v1",
-    "stage": "https://settings-writer.stage.mozaws.net/v1/",
 }
 
 
