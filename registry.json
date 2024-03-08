@@ -260,13 +260,6 @@
     }
   },
   "fren": {
-    "lex": {
-      "name": "lex.50.50.fren.s2t.bin",
-      "size": 8818768,
-      "estimatedCompressedSize": 4761904,
-      "expectedSha256Hash": "3148abf21ea98a4d69d0e4504e0d68a6c060204a9b9a39b76855aee1d5b2c8ea",
-      "modelType": "prod"
-    },
     "model": {
       "name": "model.fren.intgemm.alphas.bin",
       "size": 17140961,
@@ -279,6 +272,13 @@
       "size": 831382,
       "estimatedCompressedSize": 419721,
       "expectedSha256Hash": "4c84b95b62c930f0791466d73eb996841eef474c96d0c2f0e6c6d80640f2005a",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.fren.s2t.bin",
+      "size": 8818768,
+      "estimatedCompressedSize": 4761904,
+      "expectedSha256Hash": "3148abf21ea98a4d69d0e4504e0d68a6c060204a9b9a39b76855aee1d5b2c8ea",
       "modelType": "prod"
     }
   },
@@ -359,18 +359,18 @@
       "expectedSha256Hash": "b4a1fd101f59ca258bfb051a3a4e5762497b9f91d7e74f28b7a2d68dc075f8fa",
       "modelType": "prod"
     },
-    "lex": {
-      "name": "lex.50.50.pten.s2t.bin",
-      "size": 4801740,
-      "estimatedCompressedSize": 2639080,
-      "expectedSha256Hash": "702d9b09fbc020168998bb81afc927e74262f5a1455e9b443608a5d8efa4b52d",
-      "modelType": "prod"
-    },
     "vocab": {
       "name": "vocab.pten.spm",
       "size": 817234,
       "estimatedCompressedSize": 410584,
       "expectedSha256Hash": "2326a27577b5ffa0b822c55fe850986961728097521de35fcc186f7d6dce72d4",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.pten.s2t.bin",
+      "size": 4801740,
+      "estimatedCompressedSize": 2639080,
+      "expectedSha256Hash": "702d9b09fbc020168998bb81afc927e74262f5a1455e9b443608a5d8efa4b52d",
       "modelType": "prod"
     }
   },

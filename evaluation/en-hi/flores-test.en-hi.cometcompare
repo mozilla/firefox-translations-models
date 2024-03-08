@@ -1,0 +1,26 @@
+==========================
+x_name: flores-test.argos.hi
+y_name: flores-test.opusmt.hi
+
+Bootstrap Resampling Results:
+x-mean:	0.7377
+y-mean:	0.5961
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	33.1002
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-test.argos.hi outperforms flores-test.opusmt.hi.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    flores-test.argos.hi    flores-test.opusmt.hi
+---------------------  ----------------------  -----------------------
+flores-test.argos.hi                           True
+flores-test.opusmt.hi  False

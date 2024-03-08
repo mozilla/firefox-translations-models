@@ -1,17 +1,18 @@
+import os
 import re
 import shutil
-import subprocess
-import os
-from collections import defaultdict
 import statistics
+import subprocess
 import traceback
-from sacrebleu import dataset
-import click
-from toolz import groupby
+from collections import defaultdict
 from glob import glob
+from os.path import exists
+
+import click
 import pandas as pd
 from mtdata import iso
-from os.path import exists
+from sacrebleu import dataset
+from toolz import groupby
 
 EVALUATION_LANGUAGES = [
     "bg",
@@ -686,6 +687,14 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
             print("Attempt failed, retrying")
 
 
+def is_supported(translator, source, target):
+    return (
+        translator in SUPPORTED_LANGUAGES
+        and source in SUPPORTED_LANGUAGES[translator]
+        and target in SUPPORTED_LANGUAGES[translator][source]
+    )
+
+
 def run_dir(
     lang_pairs, skip_existing, translators, evaluation_engines, gpus, results_dir, models_dir
 ):
@@ -693,6 +702,7 @@ def run_dir(
 
     for evaluation_engine in evaluation_engines.split(","):
         for pair in lang_pairs:
+            source, target = pair
             if "nn" in pair:
                 print(
                     "There are no evaluation datasets for Norwegian Nynorsk "
@@ -702,9 +712,8 @@ def run_dir(
 
             for dataset_name in find_datasets(pair):
                 for translator in reordered:
-                    if translator in SUPPORTED_LANGUAGES and pair[1] not in SUPPORTED_LANGUAGES[
-                        translator
-                    ].get(pair[0], {}):
+                    if not is_supported(translator, source, target):
+                        print(f"Language pair {source}-{target} is not supported for {translator}")
                         continue
 
                     print(
@@ -763,12 +772,15 @@ def run_comet_compare(lang_pairs, skip_existing, translators, gpus, models_dir, 
                 and os.path.isfile(output_filename)
                 and os.stat(output_filename).st_size > 0
             ):
-                print(f"Comparison exists. Skipping...")
+                print("Comparison exists. Skipping...")
                 continue
 
             source_dataset = f"{dataset_name}.{source}"
             targets = ""
             for translator in translators.split(","):
+                if not is_supported(translator, source, target):
+                    print(f"Language pair {source}-{target} is not supported for {translator}")
+                    continue
                 targets += f"{dataset_name}.{translator}.{target} "
             command = ""
             if dataset_name in CUSTOM_DATASETS:
@@ -801,7 +813,8 @@ def build_report(res_dir, evaluation_engines):
             lines = [l.strip() for l in f.readlines()]
 
         avg_results = get_avg_scores(results)
-        build_section(avg_results, "avg", lines, res_dir, evaluation_engine)
+        # show only bergamot supported languages in the aggregated section
+        build_section(avg_results, "avg", lines, res_dir, evaluation_engine, require_bergamot=True)
 
         for lang_pair, datasets in results.items():
             build_section(datasets, lang_pair, lines, res_dir, evaluation_engine)
@@ -812,7 +825,14 @@ def build_report(res_dir, evaluation_engines):
             print(f"Results are written to {results_path}")
 
 
-def build_section(datasets, key, lines, res_dir, evaluation_engine):
+def build_section(datasets, key, lines, res_dir, evaluation_engine, require_bergamot=False):
+    if require_bergamot:
+        datasets = {
+            dataset_name: translators
+            for dataset_name, translators in datasets.items()
+            if "bergamot" in translators
+        }
+
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
@@ -822,8 +842,10 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine):
     comet_comparisons = defaultdict(dict)
     for dataset_name, translators in datasets.items():
         bergamot_res = translators.get("bergamot")
-        reordered = sorted(translators.items(), key=lambda x: TRANS_ORDER[x[0]])
+        if require_bergamot and bergamot_res is None:
+            continue
 
+        reordered = sorted(translators.items(), key=lambda x: TRANS_ORDER[x[0]])
         for translator, score in reordered:
             if score == 0:
                 formatted_score = "N/A"

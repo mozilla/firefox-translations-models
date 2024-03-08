@@ -1,0 +1,25 @@
+==========================
+x_name: wmt22.argos.zh
+y_name: wmt22.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7841
+y-mean:	0.7831
+ties (%):	0.2067
+x_wins (%):	0.5033
+y_wins (%):	0.2900
+
+Paired T-Test Results:
+statistic:	0.2938
+p_value:	0.7690
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt22.argos.zh    wmt22.opusmt.zh
+---------------------  ----------------  -----------------
+wmt22.argos.zh                           False
+wmt22.opusmt.zh        False
