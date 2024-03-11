@@ -15,8 +15,10 @@ Results for prod models: [BLEU](evaluation/prod/bleu-results.md), [COMET](evalua
 
 Results for dev models: [BLEU](evaluation/dev/bleu-results.md), [COMET](evaluation/dev/comet-results.md)
 
-Automatic evaluation is a part of pull request CI. 
-It uses Microsoft and Google translation APIs, Argos Translate, NLLB and Opus-MT models and pushes results back to the branch (not available for forks).
+The evaluation is run as part of a pull request in CI.
+The PR should include the models in the `models/dev` or `models/prod` category.
+The evaluation will automatically run, and then commits will be added to the pull request.
+The evaluation uses Microsoft and Google translation APIs, Argos Translate, NLLB and Opus-MT models and pushes results back to the branch (not available for forks).
 It is performed using the [evals](/evals) tool.
 
 # Model training
@@ -33,14 +35,16 @@ To see SacreBLEU datasets run `sacrebleu --list`.
 
 All models should be contributed to `dev` folder first.
 
-## By maintainers
+## Maintainers adding models
 
-Create a pull Request to `main` branch from another branch in this repo.
+Create a pull request to the `main` branch from another branch in this repo (not a fork).
+This pull request should include the models, and the evaluation will be added as extra commits in the CI task.
 
-## From forks
+## Contributors adding models
 
-Create a Pull Request to `contrib` branch. 
-When it is reviewed and merged, another pull request to `main` branch will be created by a maintainer to kick off automatic evaluation.
+Create a pull request to the `contrib` branch.
+When it is reviewed and merged, a maintainer should create a pull request from `contrib` to `main`.
+This second PR will run the automatic evaluation and add the evaluation commits.
 
 ## Local testing
 
