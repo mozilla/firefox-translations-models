@@ -32,13 +32,29 @@ updated within the repository to publish them to Remote Settings.
 > Requires [installing](https://www.gnu.org/software/gzip/) gzip.
 
 **4) Inspect the metadata of your to-be-published records by using the --dry-run flag**
+
+First install the project dependencies.
+
 > ```
-> poetry run python -m remote_settings create --dry-run --lang-pair {lang_pair} --server {dev,stage,prod} --version {version}
+> poetry install --no-root
+> ```
+
+Then run the command using the following arguments:
+
+> ```
+> poetry run python -m remote_settings create \
+>   --dry-run \
+>   --lang-pair {lang_pair} \
+>   --server {dev,stage,prod} \
+>   --version {version}
 > ```
 
 **5) Publish the model records for a language pair by removing the --dry-run flag**
 > ```
-> poetry run python -m remote_settings create --lang-pair {lang_pair} --server {dev,stage,prod} --version {version}
+> poetry run python -m remote_settings create \
+>   --lang-pair {lang_pair} \
+>   --server {dev,stage,prod} \
+>   --version {version}
 > ```
 
 > [!NOTE]
@@ -59,27 +75,45 @@ The `create` subcommand is used to upload a new model to the Remote Settings.
 
 ## Examples
 
+When uploading a new record, it should be uploaded to Nightly only via the `1.0a1` version.
+To do this run the `create` subcommand to add it to the
+[Remote Settings prod server](https://remote-settings.mozilla.org/v1/admin/#/buckets/main-workspace/collections/translations-models/records).
+The record will still need to be approved via Remote Settings, but you can stage the changes for testing in Nightly using the
+[Remote Settings Devtools](https://github.com/mozilla-extensions/remote-settings-devtools).
+
+```
+poetry run python -m remote_settings create \
+  --lang-pair esen \
+  --server prod \
+  --version 1.0a1
+```
+
 Create a record and attachment for esen/vocab.esen.spm on the dev server with a version of 1.0,
 but mock the server connection to inspect the record data and configuration without uploading.
 ```
-poetry run python -m remote_settings create --path models/prod/esen/vocab.esen.spm --server dev --version 1.0 --mock-connection
+poetry run python -m remote_settings create \
+  --path models/prod/esen/vocab.esen.spm \
+  --server dev \
+  --version 1.0 \
+  --mock-connection
 ```
 
 Create a record and attachment for esen/vocab.esen.spm on the prod server with a version of 1.0a1,
-but only do a dry run to inspect the record data, configuration, and server authentication without uploading. 
+but only do a dry run to inspect the record data, configuration, and server authentication without uploading.
 ```
-poetry run python -m remote_settings create --path models/prod/esen/vocab.esen.spm --server prod --version 1.0a1 --dry-run
+poetry run python -m remote_settings create \
+  --path models/prod/esen/vocab.esen.spm \
+  --server prod \
+  --version 1.0a1 \
+  --dry-run
 ```
 
 Create a record and attachment for esen/vocab.esen.spm on the stage server with a version of 2.1b2.
 ```
-poetry run python -m remote_settings create --path models/prod/esen/vocab.esen.spm --server stage --version 2.1b2
-```
-
-Create records and attachments for every model file in the esen directory with a version of 1.0 and upload them
-to the prod server
-```
-poetry run python -m remote_settings create --lang-pair esen --server prod --version 1.0
+poetry run python -m remote_settings create \
+  --path models/prod/esen/vocab.esen.spm \
+  --server stage \
+  --version 2.1b2
 ```
 
 ## Authentication
