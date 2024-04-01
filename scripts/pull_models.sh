@@ -16,10 +16,12 @@ TC_PREFIX="https://firefox-ci-tc.services.mozilla.com/api/queue/v1/task"
 rm -rf "${LOCAL_DIR}"
 mkdir "${LOCAL_DIR}"
 
-wget --directory-prefix="${LOCAL_DIR}" \
+wget -O "${LOCAL_DIR}"/lex.50.50.${SRC}${TRG}.s2t.bin.gz \
   ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Flex.50.50.${SRC}${TRG}.s2t.bin.gz
-wget --directory-prefix="${LOCAL_DIR}" \
+wget -O "${LOCAL_DIR}"/model.${SRC}${TRG}.intgemm.alphas.bin.gz \
   ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Fmodel.${SRC}${TRG}.intgemm.alphas.bin.gz
-wget --directory-prefix="${LOCAL_DIR}" \
+wget -O "${LOCAL_DIR}"/vocab.${SRC}${TRG}.spm.gz \
  ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Fvocab.${SRC}${TRG}.spm.gz
+
+git add "${LOCAL_DIR}"/*
 
