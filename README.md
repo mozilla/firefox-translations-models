@@ -66,6 +66,15 @@ Suffix of the model file in the registry:
 - `intgemm8.bin`  - supports `gemm-precision: int8shiftAll` inference setting
 - `intgemm.alphas.bin` - supports `gemm-precision: int8shiftAlphaAll` inference setting
 
+# Downloading a model from Taskcluster
+
+Example:
+```
+cd scripts
+SRC=lt TRG=en TASK_ID=SjPZGW9CRYeb9PQr68jCUw bash pull_models.sh
+```
+Where `TASK_ID` is a Taskcluster ID of the `export` task.
+
 # Model deployment
 
 Models are deployed to Remote Settings to be delivered to Firefox.
