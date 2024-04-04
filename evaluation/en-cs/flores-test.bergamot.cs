@@ -1,1012 +1,1012 @@
-„Máme teď čtyřměsíční myši, které nejsou diabetiky,“ dodal.
-Dr. Ehud Ur, profesor medicíny na Dalhousie University v Halifaxu v Novém Skotsku a předseda klinického a vědeckého oddělení Canadian Diabetes Association upozornil, že výzkum je stále v počátcích.
-Stejně jako někteří další odborníci je skeptický k tomu, zda lze cukrovku vyléčit, a poznamenal, že tyto nálezy nemají žádný význam pro lidi, kteří již diabetu 1. typu 2.
-V pondělí Sara Daniusová, stálá tajemnice Nobelova výboru pro literaturu na Švédské akademii, během rozhlasového pořadu na Sveriges Radio ve Švédsku veřejně oznámila, že výbor se nemůže dostat k Bobu Dylanovi přímo o získání Nobelovy ceny za literaturu v roce 2016, upustil od snah o jeho oslovení.
-Danius řekl: „Právě teď neděláme nic. Volal jsem a posílal e-maily jeho nejbližšímu spolupracovníkovi a obdržel jsem velmi přátelské odpovědi. Prozatím to bude jistě stačit.“
-Dříve ředitel společnosti Ring, Jamie Siminoff, poznamenal, že společnost začala, když mu v garáži nebyl slyšitelný zvonek na dveře.
-Řekl, že si postavil zvonek na WiFi.
-Siminoff řekl, že prodej se zvýšil po jeho vystoupení v roce 2013 v epizodě Shark Tank, kde televizní panel odmítl financovat startup.
+"Nyní máme čtyřměsíční myši, které jsou nediabetické, které bývaly diabetikem," dodal.
+Dr.. Ehud Ur, profesor medicíny na Dalhousie University v Halifaxu, Nova Scotia a předseda klinické a vědecké divize Kanadské diabetické asociace varoval, že výzkum je stále v raném období.
+Stejně jako někteří jiní odborníci je skeptický ohledně toho, zda může být diagnostikován diabetes, a poznamenal, že tato zjištění nemají žádný význam pro lidi, kteří již mají diabetes 1. typu.
+V pondělí Sara Danius, stálá tajemnice Nobelova výboru pro literaturu na Švédské akademii, veřejně oznámila během rozhlasového programu na Sveriges Radio ve Švédsku výbor, neschopný oslovit Boba Dylana přímo o získání Nobelovy ceny za literaturu za rok 2016, upustil od svého úsilí, aby se k němu dostal.
+Danius řekl: „Právě teď nic neděláme. Volal jsem a posílal e-maily svému nejbližšímu spolupracovníkovi a obdržel velmi přátelské odpovědi. Prozatím to určitě stačí.“
+Dříve generální ředitel společnosti Ring, Jamie Siminoff, poznamenal, že společnost začala, když jeho zvonek nebyl slyšitelný z jeho obchodu v jeho garáži.
+Vybudoval zvonek na dveře WiFi, řekl.
+Siminoff uvedl, že prodeje vzrostly po jeho 2013 vystoupení v epizodě Shark Tank, kde přehlídkový panel odmítl financování spuštění.
 Na konci roku 2017 se Siminoff objevil na nákupním televizním kanálu QVC.
-Ring také urovnal soudní spor s konkurenční bezpečnostní společností, ADT Corporation.
-I když se zdá, že jedna experimentální vakcína je schopna snížit úmrtnost na ebolu, až dosud nebyly jasně prokázány žádné léky vhodné pro léčbu existující infekce.
-Jeden protilátkový koktejl, ZMapp, se v terénu zpočátku projevil slibný, ale formální studie naznačovaly, že má menší přínos, než se snaží zabránit smrti.
-Ve studii PALM sloužil ZMapp jako kontrola, což znamená, že vědci jej používali jako výchozí a porovnávali s ní tři jiné druhy léčby.
-USA Gymnastika podporuje dopis Olympijského výboru Spojených států a přijímá absolutní potřebu olympijské rodiny na podporu bezpečného prostředí pro všechny naše sportovce.
-Souhlasíme s prohlášením USOC, že zájmy našich sportovců a klubů a jejich sport mohou být lépe posloužit tím, že se pohnou kupředu s smysluplnou změnou v naší organizaci, spíše než s decertifikací.
-USA Gymnastika podporuje nezávislé vyšetřování, které by mohlo zářit na tom, jak zneužití podílu, který tak odvážně popsali přeživší z Larryho Nassara, mohlo být tak dlouho nezjištěno a přijmout veškeré nezbytné a vhodné změny.
-USA Gymnastics a USOC mají stejný cíl — dělá sport gymnastiky, a další, co je to možné pro sportovce sledovat své sny v bezpečném, pozitivním a posilném prostředí.
-V šedesátých letech pracoval Brzezinski pro Johna F. Kennedy jako jeho poradce a pak Lyndon B. Johnsonova administrativa.
-Během výběrů v roce 1976 radil Carterovi v oblasti zahraniční politiky, v letech 1977 až 1981 působil jako poradce pro národní bezpečnost (NSA) a vystřídal Henryho Kissingera.
-Jako NSA asistoval Carterovi v diplomaticky zvládavých světových záležitostech, jako jsou dohody z Camp Davidu z roku 1978; normalizace americko-čínských vztahů se na konci 70. let 20. století domníval, že íránská revoluce, která vedla k krizi s íránskými rukojmími v roce 1979 a sovětskou invazi v Afghánistánu v roce 1979.
-Film s Ryanem Goslingem a Emmou Stone získal nominace ve všech hlavních kategoriích.
+Ring také urovnal žalobu s konkurenční bezpečnostní společností ADT Corporation.
+Zatímco se zdá, že jedna experimentální vakcína je schopna snížit úmrtnost na ebolu, až dosud nebyly jasně prokázány žádné léky vhodné pro léčbu stávající infekce.
+Jeden koktejl protilátek, ZMapp, zpočátku ukázal slib v terénu, ale formální studie ukázaly, že má menší přínos, než se snažilo zabránit smrti.
+Ve studii PALM sloužil ZMapp jako kontrola, což znamená, že vědci ji použili jako výchozí bod a porovnali s ní tři další léčby.
+Americká gymnastika podporuje dopis olympijského výboru Spojených států a přijímá absolutní potřebu olympijské rodiny podporovat bezpečné prostředí pro všechny naše sportovce.
+Souhlasíme s prohlášením USOC, že zájmům našich sportovců a klubů a jejich sportu může být lépe posloužit pokrokem ve smysluplných změnách v rámci naší organizace, spíše než decertifikace.
+Americká gymnastika podporuje nezávislé vyšetřování, které může osvětlit, jak zneužití podílu tak odvážně popsané přeživšími Larryho Nassara mohlo tak dlouho nepředvídat a přijmout nezbytné a vhodné změny.
+USA Gymnastika a USOC mají stejný cíl - učinit sport gymnastiky a dalších tak bezpečných, jak je to možné pro sportovce, aby následovali své sny v bezpečném, pozitivním a posíleném prostředí.
+V průběhu šedesátých let pracoval Brzezinski pro Johna F. Kennedy jako jeho poradce a pak Lyndon B. Johnsonova administrativa.
+Během výběru v roce 1976 radil Carterovi v oblasti zahraniční politiky, pak sloužil jako poradce pro národní bezpečnost (NSA) od roku 1977 do roku 1981, nástupcem Henryho Kissingera.
+Jako NSA pomáhal Carterovi v diplomatickém řízení světových záležitostí, jako je Camp David Accords, 1978; normalizace americko-čínských vztahů si myslela koncem 70. let; Íránská revoluce, která vedla k íránské krizi, 1979; a sovětská invaze v Afghánistánu v roce 1979.
+Film, ve kterém vystupují Ryan Gosling a Emma Stone, získal nominace ve všech hlavních kategoriích.
 Gosling a Stone získali nominace na nejlepšího herce a herečku.
-Mezi další nominace patří nejlepší film, režisér, Cinematografie, kostýmní design, filmová editace, Originální skóre, produkční design, střih zvuku, míchání zvuků a Original Screenplay.
-Dvě písně z filmu Audition (The Fools Who Dream) a City of Stars získaly nominace na nejlepší původní píseň. Lionsgate studio získalo 26 nominací – více než kterékoli jiné studio.
-V neděli pozdě večer americký prezident Donald Trump v prohlášení předneseném prostřednictvím tiskového mluvčího oznámil, že američtí vojáci opustí Sýrii.
-Oznámení bylo oznámeno poté, co Trump měl telefonický rozhovor s tureckým prezidentem Recepem Tayyipem Erdoğanem.
-Turecko také převezme střežení zajatců bojovníků ISIS, což podle prohlášení evropské národy odmítly repatriovat.
-To nejen potvrzuje, že alespoň někteří dinosauři měli peří, což je teorie již rozšířená, ale poskytuje detaily, které zkameněliny obecně nemohou, jako je barva a trojrozměrné uspořádání.
-. Vědci tvrdí, že švestka tohoto zvířete byla kaštanově na vrcholu s podložkou bledou nebo karotenobrově zbarvenou.
-Nalůz také poskytuje vhled do vývoje peří u ptáků.
-Protože dinosauří peří nemá dobře vyvinutou šachtu, zvanou rachis, ale mají jiné rysy peří – ostrny a barbuly – vědci usoudili, že rachis je pravděpodobně pozdější evoluční vývoj, že tyto další rysy.
-Struktura peří naznačuje, že nebyly použity za letu, ale spíše pro regulaci teploty nebo displeje. Výzkumníci naznačili, že i když je to ocas mladého dinosaura, vzorek ukazuje, že se pro dospělé švestko a ne o mládě.
-Výzkumníci naznačili, že i když je to ocas mladého dinosaura, vzorek ukazuje, že se pro dospělé švestko a ne o mládě.
-Na policejním velitelství v Gaziantepu v Turecku včera ráno vybuchla v autě a včera ráno zabila dva policisty a zranila více než dvacet dalších lidí.
-Guvernérova kancelář uvedla, že v devatenácti zraněných byli policisté.
-Policie uvedla, že má podezření na údajného útočícího za útok, který je údajně obviněn z odpovědnosti.
-Zjistili, že Slunce funguje na stejných základních principech jako ostatní hvězdy: Bylo zjištěno, že aktivita všech hvězd v systému je poháněna jejich svítivostí, jejich rotací a ničím jiným.
-Zářkaost a rotace se používají společně k určení Rossbyho čísla hvězdy, které souvisí s průtokem plazmy.
-Čím menší je Rossbyho číslo, tím méně aktivní hvězda s ohledem na magnetické zvraty.
-Během své cesty se Iwasaki mnohokrát dostal do problémů.
-Byl okraden piráty, napaden v Tibetu vzteklým psem, utekl v sňatku v Nepálu a byl zatčen v Indii.
-Standard 802.11n funguje na frekvencích 2.4Ghz i 5.0Ghz.
-To umožní být zpětně kompatibilní s 802.11a, 802.11b a 802.11g, pokud má základní stanice dvojtéž sádro.
-Rychlosti 802.11n jsou podstatně rychlejší než rychlosti jeho předchůdců s maximální teoretickou propustností 600 Mbit/s.
-Duvall, který je ženatý a má dvě dospělé děti, nenechal na Millera velký dojem, se kterým příběh byl příbuzný.
-Když byl Miller požádán o komentář, řekl: „Mike během slyšení hodně mluví... jsem se připravoval, takže jsem vlastně neslyšeli, co říká.“
-„Budeme se snažit snížit emise oxidu uhličitého na jednotku HDP do roku 2020 výrazným rozdílem oproti úrovni roku 2005,“ řekl Chu.
-Nezadal žádnou částku na škrty a prohlásil, že budou provedeny na základě čínského ekonomického výkonu.
-Chu povzbuzoval rozvojové země, aby se nejprve vyhnuly staré cestě znečišťujících látek a později uklízet.
-Dodal, že „by však neměli být požádáni, aby převzali závazky, které přesahují fázi jejich rozvoje, odpovědnost a schopnosti“.
-Irácká studijní skupina dnes představila svou zprávu ve 12:00 SELČ.
-Varuje, že nikdo nemůže zaručit, že jakýkoli postup v Iráku v tomto okamžiku zastaví sektářskou válku, rostoucí násilí nebo skluzavku k chaosu.
-Zpráva je otevřenou prosbou o otevřenou rozpravou a sestavením konsensu ve Spojených státech ohledně politiky vůči Blízkému východu.
-Zpráva je velmi kritická téměř ke všem aspektům současné politiky exekutivy vůči Iráku a naléhavě vyzývá k okamžité změně směřování.
-První z jejích 78 doporučení je, že do konce letošního roku by měla být přijata nová diplomatická iniciativa, která by zajistila irácké hranice proti nepřátelským intervencím a obnovila diplomatické vztahy se svými sousedy.
-Současná senátorka a argentinská první dáma Cristina Fernandez de Kirchner včera večer oznámila svou prezidentskou kandidaturu v La Plata, městě vzdáleném 50 kilometrů od Buenos Aires.
-Paní. Kirchnerová oznámila svůj záměr kandidovat na prezidentku v Argentinském divadle, na stejném místě, kde začínala v roce 2005 vést kampaň do Senátu jako členka delegace provincie Buenos Aires.
-Debatu vyvolaly polemika ohledně výdajů na pomoc a rekonstrukci v důsledku hurikánu Katrina, který někteří fiskální konzervativci v humánně označili za „Bushovu New Orleanskou dohodu“.
-Liberální kritika úsilí o rekonstrukci se zaměřila na zadání zakázek na rekonstrukci vnímaným zasvěceným z Washingtonu.
-Přes čtyři miliony lidí se zúčastnily pohřbu.
-Počet přítomných byl tak velký, že se nemohl dostat na pohřeb v St. Petrovo náměstí.
-Na různých místech v Římě bylo instalováno několik velkých televizních obrazovek, aby se lidé mohli na obřad dívat.
-V mnoha dalších italských městech a ve zbytku světa, zejména v Polsku, se podobné sestavy vyráběly, které si prohlédlo velké množství lidí.
-Historici kritizovali minulou politiku FBI za to, že se zdroje zaměřují na případy, které lze snadno vyřešit, zejména na případy ukradených aut, s úmyslem zvýšit úspěšnost agentury.
-Kongres začal financovat obscénní iniciativu ve fiskálním roce 2005 a upřesnil, že FBI musí věnovat 10 agentů na dospělou pornografii.
-Robin Uthappa dal nejvyšší skóre, 70 runs v pouhých 41 míčů tím, že trefil 11 čtyřek a 2 šestky.
-Střední pořadí pálkaři, Sachin Tendulkar a Rahul Dravid, si vedli dobře a uzavřeli stometrové partnerství.
-Ale po prohře s kapitánem branky Indie pouze 36 runs vypustil 7 branek na konci směny.
+Mezi další nominace patří nejlepší film, režisér, kinematografie, kostýmní design, filmová edice, původní skóre, Production Design, Sound Editing, Sound Mixing a Original Screenplay.
+Dvě písně z filmu, The Fools Who Dream) a City of Stars, získaly nominace na nejlepší původní píseň. Studio Lionsgate získalo 26 nominací - více než jiné studio.
+Pozdě v neděli americký prezident Donald Trump v prohlášení předneseném prostřednictvím tiskového mluvčího oznámil, že američtí vojáci opustí Sýrii.
+Oznámení bylo učiněno poté, co Trump telefonoval s tureckým prezidentem Recepem Tayyipem Erdoganem.
+Turecko by také převzalo stíhací zajaté bojovníky ISIS, což, jak uvedlo prohlášení, evropské národy odmítly repatriovat.
+To nejen potvrzuje, že alespoň někteří dinosauři měli peří, což je již rozšířená teorie, ale poskytuje detaily, které fosilie obecně nemohou, jako je barva a trojrozměrné uspořádání.
+. . Vědci říkají, že peklam tohoto zvířete byl kaštanově hnědý na vrcholu s bledou nebo karotenoidově zbarvenou spodní straně.
+Tento nález také poskytuje vhled do evoluce peří u ptáků.
+Vzhledem k tomu, že dinosauří peří nemají dobře vyvinutou šachtu, nazývanou rachis, ale mají další rysy peří - barby a barbule - vědci odvodili, že rači byl pravděpodobně pozdějším evolučním vývojem, že tyto další rysy.
+Struktura peří naznačuje, že nebyly použity v letu, ale spíše pro regulaci teploty nebo zobrazení. Vědci navrhli, že i když se jedná o ocas mladého dinosaura, vzorek ukazuje dospělé peří a ne mládě dolů.
+Vědci navrhli, že i když se jedná o ocas mladého dinosaura, vzorek ukazuje dospělé peří a ne mládě dolů.
+Bomba v autě vybuchla na policejním ředitelství v Gaziantep v Turecku včera ráno, zabila dva policisty a zranila více než dvacet dalších lidí.
+Úřad guvernéra uvedl, že devatenáct ze zraněných byli policisté.
+Policie uvedla, že má podezření na údajného bojovníka Daesh (ISIL) z odpovědnosti za útok.
+Zjistili, že Slunce operovalo na stejných základních principech jako ostatní hvězdy: byla shledána aktivitou všech hvězd v systému, která byla poháněna jejich svítivostí, jejich rotací a ničím jiným.
+Svítivost a rotace se používají společně k určení hvězdného Rossbyho čísla, které souvisí s proudem plazmatu.
+Čím menší je Rossbyho číslo, tím méně aktivní je hvězda s ohledem na magnetické zvraty.
+Během jeho cesty se Iwasaki při mnoha příležitostech dostal do potíží.
+Byl okraden piráty, napaden v Tibetu vzteklým psem, unikl sňatkům v Nepálu a byl zatčen v Indii.
+Norma 802.11n pracuje na frekvencích 2,4 GHz a 5,0 GHz.
+To umožní, aby byl zpětně kompatibilní s 802.11a, 802.11b a 802.11 g, za předpokladu, že základna má duální rádia.
+Rychlost 802,11n je podstatně rychlejší než u jeho předchůdců s maximální teoretickou propustností 600Mbit/s.
+Duvall, který je ženatý a má dvě dospělé děti, nezanechal na Millera velký dojem, s nímž příběh vztahoval.
+Když byl dotázán na komentář, Miller řekl: "Mike mluví hodně během slyšení ... já jsem se připravoval, takže jsem opravdu neslyšel, co říká."
+"Budeme se snažit snížit emise oxidu uhličitého na jednotku HDP o pozoruhodnou marži do roku 2020 z úrovně z roku 2005," řekl Hu.
+Nestanovil pro škrty číslo a řekl, že budou vyrobeny na základě čínského hospodářského výkonu.
+Hu povzbuzoval rozvojové země, aby se „vyhnuly nejprve staré cestě znečišťování a vyčištění později“.
+Dodal, že „by však neměli být požádáni, aby převzali povinnosti, které překračují jejich vývojovou fázi, odpovědnost a schopnosti“.
+Irácká studijní skupina dnes představila svou zprávu ve 12:00 GMT.
+Varuje, že nikdo nemůže zaručit, že jakýkoli postup v Iráku v tomto okamžiku zastaví sektářské válčení, rostoucí násilí nebo sklouznutí k chaosu.
+Zpráva začíná prosbou o otevřenou debatu a vytvořením konsensu ve Spojených státech o politice vůči Blízkému východu.
+Zpráva je velmi kritická k téměř všem aspektům současné politiky exekutivy vůči Iráku a vyzývá k okamžité změně směru.
+První ze 78 doporučení je, že do konce tohoto roku by měla být přijata nová diplomatická iniciativa k zajištění iráckých hranic proti nepřátelským intervencím a obnovení diplomatických vztahů se svými sousedy.
+Současná senátorka a argentinská první dáma Cristina Fernandez de Kirchner oznámila svou prezidentskou kandidaturu včera večer v La Plata, městě vzdáleném 50 kilometrů od Buenos Aires.
+Paní. Kirchner oznámila svůj záměr kandidovat na prezidentku v argentinském divadle, na stejném místě, kde zahájila svou kampaň v roce 2005 pro Senát jako člen delegace provincie Buenos Aires.
+Debata byla vyvolána kontroverzí nad výdaji na pomoc a rekonstrukci v brázdném hurikánu Katrina; což někteří fiskální konzervativci humorně označili za "Bushův New Orleans Deal".
+Liberální kritika úsilí o rekonstrukci se zaměřila na zadávání zakázek na rekonstrukci vnímaným washingtonským insiderům.
+Více než čtyři miliony lidí se zúčastnily pohřbu, aby se zúčastnili pohřbu.
+Počet přítomných lidí byl tak velký, že nebylo možné, aby všichni získali přístup k pohřbu v St. Peterovo náměstí.
+Několik velkých televizních obrazovek bylo instalováno na různých místech v Římě, aby lidé mohli sledovat obřad.
+V mnoha dalších městech Itálie a ve zbytku světa, zejména v Polsku, byla vyrobena podobná zařízení, která byla viděna velkým počtem lidí.
+Historici kritizovali minulé politiky FBI za to, že zaměřují zdroje na případy, které lze snadno vyřešit, zejména ukradené případy automobilů, se záměrem zvýšit úspěšnost agentury.
+Kongres začal financovat iniciativu obscénnosti ve fiskálním roce 2005 a stanovil, že FBI musí věnovat 10 agentům pornografii pro dospělé.
+Robin Uthappa udělal směny nejvyšší skóre, 70 běží v pouhých 41 míčů tím, že bít 11 čtyřky a 2 šestky.
+Břišní pálkaři, Sachin Tendulkar a Rahul Dravid, si vedli dobře a udělali stodolaré partnerství.
+Ale poté, co ztratil kapitánskou branku Indie udělal jen 36 běhů ztrácí 7 branek ukončit směny.
 USA. Prezident George W. Bush přijel do Singapuru ráno 16. listopadu a zahájil týdenní turné po Asii.
-Singapurský vicepremiér Wong Kan Seng ho přivítal a jednal o otázkách obchodu a terorismu se singapurským premiérem Lee Hsienem Loongem.
-Po týdnu ztrát ve volbách do Kongresu Bush řekl publiku o expanzi obchodu v Asii.
-Premiér Stephen Harper souhlasil s vysláním vládního „Čistého zákona o ovzduší“ celistranickému výboru k přezkoumání, před jeho druhým čtením, po úterním 25 minutovém setkání s vůdcem NDP Jackem Laytonem v PMO.
-Layton během setkání s premiérkou požádal o změny v ekologickém zákoně konzervativců a žádal o „důkladné a úplné přepsání“ návrhu konzervativní strany na ochranu životního prostředí.
-Od té doby, co se federální vláda vložila do úřadu Merseyho nemocnice v Devonportu, Tasmánie, státní správa a někteří federální poslanci kritizují tento čin jako trik v předehře k federálním volbám, které mají být vypsány do listopadu.
-Ale premiér John Howard řekl, že tento čin byl jen proto, aby ochránil zařízení nemocnice před snížením tasmánskou vládou, když dal navíc 45 milionů AUD.
-Podle posledního bulletinu údaje na hladině moře ukazovaly, že byla vytvořena tsunami. Byla zaznamenána určitá aktivita tsunami poblíž Pago Pago a Niue.
-V Tongě nebyly hlášeny žádné větší škody ani zranění, ale elektřina byla dočasně ztracena, což údajně zabránilo heanským úřadům v obdržení varování před tsunami vydaného PTWC.
-Čtrnáct škol na Havaji na pobřeží nebo v její blízkosti bylo po celé středu uzavřeno, přestože varování byla zrušena.
+Byl přivítán singapurským vicepremiérem Wong Kan Sengem a diskutoval o otázkách obchodu a terorismu se singapurským premiérem Lee Hsien Loongem.
+Po týdnu prohrách v polovině volebního období Bush řekl publiku o rozšíření obchodu v Asii.
+Premiér Stephen Harper souhlasil s tím, že pošle vládní „Clean Air Act“ do všestranného výboru k přezkoumání před svým druhým čtením po úterním 25 minutovém setkání s vůdcem NDP Jackem Laytonem v PMO.
+Layton požádal o změny v zákoně o životním prostředí konzervativců během setkání s premiérem a požádal o "důkladné a úplné přepsání" zákona o životním prostředí Konzervativní strany.
+Od té doby, co federální vláda zasáhla, aby převzala financování nemocnice Mersey v Devonportu v Tasmánii, státní vláda a někteří federální poslanci kritizovali tento čin jako kaskadérský kousek ve předzvěsti federálních voleb, které mají být předvolány do listopadu.
+Ale premiér John Howard řekl, že zákon byl jen proto, aby ochránil zařízení nemocnice před snížením tasmánské vlády, když poskytla další 45 milionů AUD.
+Podle posledního bulletinu údaje o hladině moře ukázaly, že tsunami byla generována. V blízkosti Pago Pago a Niue byla zaznamenána určitá aktivita tsunami.
+V Tonga nebyly hlášeny žádné velké škody ani zranění, ale energie byla dočasně ztracena, což údajně zabránilo tonganským úřadům, aby obdržely varování před tsunami vydaným PTWC.
+Čtrnáct škol na Havaji se nachází na nebo v blízkosti pobřeží bylo uzavřeno po celou středu navzdory varováním, které byly zrušeny.
 USA. Prezident George W. Bush toto oznámení uvítal.
-Bushův mluvčí Gordon Johndroe označil severokorejský slib za „významný krok směrem k dosažení ověřitelné denuklearizace Korejského poloostrova“.
-Desátá bouře atlantické hurikány, subtropická bouře Jerry, se dnes zformovala v Atlantském oceánu.
-Národní středisko pro hurikány (NHC) uvádí, že v tuto chvíli Jerry nepředstavuje pro pevninu žádnou hrozbu.
-Spojené státy. Armetránský sbor odhadoval, že šest centimetrů srážek by mohlo prolomit dříve poškozená hráz.
-Devátá okrsek, která během hurikánu Katrina zaznamenala záplavy až do výšky 20 stop, je v současné době ve vodě po pás, když se převrhla nedaleká hráz.
-Voda se přelévá na hrázi v úseku široký 100 stop.
-Commonsový administrátor Adam Cuerden vyjádřil svou frustraci nad vypuštěním, když minulý měsíc hovořil s Wikinews.
-„On [Wales] nám v podstatě lhal od začátku. Zaprvé, když jednal, jako by to bylo z právních důvodů. Za druhé, předstíráním, že nás poslouchá, až po své umělecké mazání.“
-Divosnictví vedlo k současným snahám navrhnout politiku týkající se sexuálního obsahu pro stránku, která hostí miliony otevřeně licencovaných médií.
-Práce, kterou bylo provedeno, byla většinou teoretická, ale program byl napsán tak, aby simuloval pozorování v galaxii Střelce.
-Výsledek, který tým hledal, by byl způsoben slapovými silami mezi temnou hmotou galaxie a temnou hmotou Mléčné dráhy.
-Stejně jako měsíc vyvíjí tah na zemi, což způsobuje příliv, stejně jako Mléčná dráha sílu na postřelce.
-Vědci byli schopni dojít k závěru, že temná hmota ovlivňuje jinou temnou hmotu stejným způsobem, jakým to dělá běžná hmota.
-Tato teorie říká, že většina temné hmoty v galaxii se nachází v galaxii v jakési svatbě a je vyrobena ze spousty malých částic.
-Televizní zprávy ukazují bílý kouř vycházející z rostliny.
-Místní úřady varují obyvatele v blízkosti rostliny, aby zůstali doma, vypnuli klimatizaci a nepili vodu z kohoutku.
-Podle japonské jaderné agentury bylo v závodě identifikováno radioaktivní cesík a jód.
-Úřady spekulují, že to naznačuje, že kontejnery s uranem v místě mohly prasknout a prosakují.
-Dr. Tony Moll objevil Extrémně léčiva odolného Tuberculosóze (XDR-TB) v jihoafrickém regionu KwaZulu-Natal.
-V rozhovoru řekl, že nová varianta je „velmi znepokojivá a alarmující kvůli velmi vysoké úmrtnosti“.
-Někteří pacienti se mohli nakazit v nemocnici, doktore. Moll si myslí a nejméně dva byli nemocniční zdravotničtí pracovníci.
-Za jeden rok může nakažená osoba infikovat 10 až 15 blízkých kontaktů.
-Nicméně se zdá, že procento XDR-TB v celé skupině lidí s tuberkulózou je stále nízké; 6 000 z celkového počtu 330 000 lidí nakažených v určitém okamžiku v Jižní Africe.
-Satelity, které měly přes 1000 liber, jely rychlostí přibližně 17 500 mil za hodinu, se srazily nad Zemí nad Zemí.
-Podle vědců byla exploze způsobená kolizí obrovská.
-Stále se snaží zjistit, jak velký byl havárie a jak bude zasažena Země.
-Strategické velení Spojených států USA. Ministerstvo obrany sleduje trosky.
-Výsledek analýzy zakončení bude zveřejněn na veřejném webu.
-Lékař, který pracoval v Dětské nemocnici v Pittsburghu v Pensylvánii, bude obviněn z vraždy s přitěžujícími okolnostmi poté, co byla ve středu nalezena mrtvá matka v kufru svého auta, tvrdí úřady v Ohiu.
-Dr. Devětadvacetiletý Malar Balasubramanian byl nalezen v Blue Ash v Ohiu, předměstí asi 15 mil severně od Cincinnati ležícího na zemi u silnice v tričku a spodním prádle ve zjevně silně medikovaném stavu.
-Navedla důstojníky na její černý Oldsmobile Intrigue, který byl vzdálen 150 stop.
-Tam našli tělo Saroji Balasubramani, 53, pokryté zakrvácenými přikrývkami.
-Policie uvedla, že tělo tam bylo asi celý den.
+Bushův mluvčí Gordon Johndroe označil severokorejský slib za „významný krok směrem k cíli dosáhnout ověřitelné denuklearizace Korejského poloostrova“.
+Desátá pojmenovaný bouře atlantické hurikánové sezóny, subtropická bouře Jerry, která se dnes vytvořila v Atlantském oceánu.
+Národní středisko pro hurikány (NHC) říká, že v tomto okamžiku Jerry nepředstavuje žádnou hrozbu pro přistání.
+Spojené státy americké. Sbor inženýrů odhaduje, že 6 palců srážek by mohlo prolomit dříve poškozené hráze.
+Deváté oddělení, které viděl záplavy až 20 stop během hurikánu Katrina, je v současné době v pase-vysoká voda jako nedaleké hráze byla překryta.
+Voda se rozlévá přes hráze v části 100 stop široká.
+Administrátor Commons Adam Cuerden vyjádřil svou frustraci nad vymazáním, když minulý měsíc mluvil s Wikinews.
+"On (Wales) nám v podstatě lhal od začátku. Za prvé, jednat tak, jako by tomu bylo z právních důvodů. Za druhé, předstíráním, že nás poslouchá, až do svého uměleckého vymazání.“
+Podráždění komunity vedlo k současnému úsilí o vypracování politiky týkající se sexuálního obsahu pro web, který hostí miliony otevřeně olizovaných médií.
+Práce byla většinou teoretická, ale program byl napsán tak, aby simuloval pozorování galaxie Střelce.
+Účinek, který tým hledal, by byl způsoben slapovými silami mezi temnou hmotou galaxie a temnou hmotou Mléčné dráhy.
+Stejně jako Měsíc vyvíjí tah na Zemi, což způsobuje přílivy, stejně tak Mléčná dráha vyvíjí sílu na galaxii Střelce.
+Vědci byli schopni dospět k závěru, že temná hmota ovlivňuje další temnou hmotu stejným způsobem jako pravidelná hmota.
+Tato teorie říká, že většina temné hmoty kolem galaxie se nachází v galaxii v jakémsi svatyni a je vyrobena z mnoha malých částic.
+Televizní zprávy ukazují, že z rostliny přicházel bílý kouř.
+Místní úřady varují obyvatele v okolí elektrárny, aby zůstali doma, vypnuli klimatizace a nepili vodu z vodovodu.
+Podle japonské jaderné agentury bylo v elektrárně identifikováno radioaktivní cesium a jód.
+Úřady spekulují, že to naznačuje, že kontejnery s uranovým palivem v místě se mohly propadnout a unikají.
+Dr.. Tony Moll objevil extrémně drogovou rezistentní tuberkulózu (XDR-TB) v jihoafrické oblasti KwaZulu-Natal.
+V rozhovoru řekl, že nová varianta je "velmi velmi znepokojující a alarmující kvůli velmi vysoké míře úmrtnosti".
+Někteří pacienti mohli nakazit brouk v nemocnici, Dr. Moll si myslí, a nejméně dva byli zdravotníci z nemocnice.
+Za jeden rok může infikovaná osoba infikovat 10 až 15 blízkých kontaktů.
+Procento XDR-TB v celé skupině lidí s tuberkulózou se však stále zdá být nízké; 6 000 z celkového počtu 330 000 lidí infikovaných v jakémkoliv konkrétním okamžiku v Jižní Africe.
+Satelity, které vážily více než 1000 liber a cestovaly rychlostí přibližně 17 500 mil za hodinu, se srazily 491 mil nad Zemí.
+Vědci tvrdí, že exploze způsobená srážkou byla masivní.
+Stále se snaží zjistit, jak velká byla havárie a jak bude ovlivněna Země.
+Strategické velení Spojených států amerických Úřad ministerstva obrany sleduje trosky.
+Výsledek analýzy spiknutí bude zveřejněn na veřejných internetových stránkách.
+Lékař, který pracoval v dětské nemocnici v Pittsburghu v Pensylvánii, bude obviněn z přitěžující vraždy poté, co byla její matka ve středu nalezena mrtvá v kufru svého auta, říkají úřady v Ohiu.
+Dr.. Malar Balasubramanian, 29, byl nalezen v Blue Ash v Ohiu, předměstí přibližně 15 mil severně od Cincinnati ležící na zemi vedle silnice v tričku a spodním prádle ve zjevně silně medikovaném stavu.
+Nasměrovala policisty na svou černou Oldsmobile Intrigu, která byla 500 stop daleko.
+Tam našli tělo Saoji Balasubramanianové, 53 let, pokryté krví potřísněných přikrývek.
+Policie uvedla, že tělo tam zřejmě bylo asi den.
 První případy onemocnění v této sezóně byly hlášeny koncem července.
-Nově přenášejí prasata, která se pak přesmořují na člověka prostřednictvím komárů.
-Epidemie přiměla indickou vládu, aby provedla taková opatření, jako je nasazení chytačů prasat v vážně zasažených oblastech, distribuce tisíců oponek s komáry a postřikování pesticidů.
-Několik milionů lahviček vakcíny proti encefalici byla také přislíbena vládou, která pomůže připravit zdravotnické agentury na příští rok.
-Plány na to, aby byly vakcíny dodány do historicky nejvíce postižených oblastí v letošním roce, se zpozdily kvůli nedostatku finančních prostředků a nízkému stanovení priorit ve vztahu k jiným nemocem.
-V roce 1956 se Słania přestěhovala do Švédska, kde o tři roky později začal pracovat pro švédskou poštu a stal se jejich hlavním rytečem.
-Produkoval přes 1000 známek pro Švédsko a 28 dalších zemí.
-Jeho práce je tak uznávané kvality a detailu, že je jedním z mála „domácetních jmen“ mezi filatelisty. Někteří se specializují na sbírání práce sami.
-Jeho 1000. razítkem byl velkolepý „Velké skutky švédských králů“ od Davida Klöckera Ehrenstrahla v roce 2000, který je uveden v Guinnessově knize rekordů.
-Byl také zapojen do rytých bankovek pro mnoho zemí, nedávné příklady jeho práce včetně premiérových portrétů na přední straně nové kanadské a stodolarové bankovky.
-Po nehodě byl Gibson převezen do nemocnice, ale krátce poté zemřel.
-Řidič kamionu, kterému je 64 let, nebyl při havárii zraněn.
-Samotné vozidlo bylo odvezeno z místa nehody přibližně v 1200 SELČ ve stejný den.
-Osoba pracující v garáži poblíž místa, kde k nehodě došlo, řekl: „Byly tam děti, které čekaly, aby přejely silnici, a všechny křičely a plakaly.“
-Všichni se stáli od místa, kde se nehoda stala.
-Mezi další témata na Bali patří záchrana zbývajících světových lesů a sdílení technologií, které mají rozvojovým zemím pomoci rozrůst méně znečišťujícími způsoby.
+Onemocnění je přenášeno prasaty, která pak na člověka přemigruje přes komáry.
+Epidemie přiměla indickou vládu, aby přijala taková opatření, jako je nasazení lovců prasat v vážně postižených oblastech, distribuující tisíce moskytiérových závěsů a postřik pesticidů.
+Několik milionů lahviček vakcíny proti encefalitidě bylo také přislíbeno vládou, což pomůže připravit zdravotnické agentury na příští rok.
+Plány na vakcíny, které mají být v letošním roce dodány do historicky nejvíce postižených oblastí, byly zpožděny kvůli nedostatku finančních prostředků a nízkému upřednostňování ve srovnání s jinými nemocemi.
+V roce 1956 se Słania přestěhovala do Švédska, kde o tři roky později začal pracovat pro švédskou poštu a stal se jejich hlavním rytiprostřed.
+Pro Švédsko a dalších 28 zemí vyrobil více než 1000 známek.
+Jeho práce je tak uznávanou kvalitou a detailem, že je jedním z mála „názvy domácností“ mezi filatelisty. Někteří se specializují na sbírání jeho práce sami.
+Jeho 1000. známkou bylo velkolepé "Velké debuty švédských králů" od Davida Klöckera Ehrenstrahla v roce 2000, který je uveden v Guinnessově knize rekordů.
+Zapojil se také do rytiny bankovek pro mnoho zemí, nedávné příklady jeho práce, včetně premiérských portrétů na přední straně nových kanadských 5 a 100 dolarů bankovek.
+Po nehodě byl Gibson převezen do nemocnice, ale krátce nato zemřel.
+Řidič kamionu, který je ve věku 64 let, nebyl při nehodě zraněn.
+Samotné vozidlo bylo odvezeno z místa nehody přibližně ve 12:00 GMT ve stejný den.
+Osoba pracující v garáži poblíž místa, kde se nehoda stala, řekla: "Byly tam děti, které čekaly na přecházení silnice a všichni křičeli a plakali."
+Všichni se vrátili z místa, kde se ta nehoda stala.
+Další témata na programu na Bali zahrnují záchranu zbývajících světových lesů a sdílení technologií, které mají pomoci rozvojovým zemím růst méně znečišťujícími způsoby.
 OSN také doufá, že dokončí fond, který pomůže zemím postiženým globálním oteplováním vyrovnat se s dopady.
-Peníze by mohly jít na protipovodňové domy, lepší hospodaření s vodou a diverzifikaci úrody.
-Společnost Fluke napsala, že snaha některých lidí přehlušit ženy od vyjadřování se zdravím žen bylo neúspěšné.
-K tomuto závěru došla kvůli množství pozitivních komentářů a povzbuzení, které jí zaslaly jak jedinci, tak muži, kteří naléhali, aby antikoncepce byla považována za lékařskou nutnost.
-Když boje po převozu ranění do nemocnice přestaly, asi 40 zbývajících vězňů zůstalo na dvoře a odmítlo se vrátit do cely.
-Vyjednavači se snažili situaci napravit, ale požadavky vězňů nejsou jasné.
-V letech 22-11:00 MDT vypálili vězni na dvoře požár.
-Brzy vstoupili do dvora důstojníci vybavení výtržnostmi a zahnali vězně do kouta slzným plynem.
-Hasiči nakonec oheň polili kolem 23:35.
-Po výstavbě přehrady v roce 1963 byly zastaveny sezónní záplavy, které se rozšířily sedimenty po celé řece.
-Tento sediment byl nezbytný pro výrobu sandarů a pláží, které sloužily jako přírodní stanoviště.
-V důsledku toho vyhynuly dva druhy ryb a další dva se změnili, včetně chva hrbatého.
-I když hladina vody potopě jen pár metrů stoupne, oficiální činitelé doufají, že to bude stačit k obnovení erodovaných sandbarů po proudu.
-Žádné varování před tsunami nebylo vydáno a podle geofyzikální agentury v Jakartě nebude vydáno žádné varování před tsunami, protože zemětřesení nesplnilo požadavek magnitudy 6,5.
-Přestože se nešlo o žádnou hrozbu tsunami, začali obyvatelé panikařit a začali opouštět své podniky a domy.
-I když se Winfrey na rozloučenou plakala, dala svým fanouškům jasně najevo, že se vrátí.
-„Tohle se nerozloučí. Toto je uzavření jedné kapitoly a otevření nové.“
-Konečné výsledky namibijských prezidentských a parlamentních voleb naznačují, že úřadující prezident Hifikepunye Pohamba byl s velkým náskokem znovu zvolen.
-Vládnoucí strana Jihozápadní Afrika Lidová organizace (SWAPO) si také udržela většinu v parlamentních volbách.
-Koaliční a afghánské jednotky se přesunuly do oblasti, aby zabezpečily místo a další koaliční letadla byla vyslána na pomoc.
-K havárii došlo vysoko v hornatém terénu a předpokládá se, že byla následkem nepřátelské palby.
-Snahy o pátrání po místě havárie se setkávají se špatným počasím a drsným terénem.
-Lékařská charita Mangola, Medecines Sans Frontieres a Světová zdravotnická organizace tvrdí, že je to nejhorší epidemie zaznamenaná v zemi.
-Mluvčí společnosti Medecines Sans Frontiere Richard Veerman řekl: „Angola se ubírá k nejhoršímu vypuknutí a situace je v Angole stále velmi špatná,“ řekl.
-Zápasy odstartovaly v 10:00 s velkým počasím a kromě ranního mrholení, které se rychle vyčistilo, to byl perfektní den pro 7 rugby.
-Turnajová nejvýše nasazená Jihoafrická republika odstartovala správně, když měla pohodlnou výhru 26 – 00 proti 5. nasazené Zambii.
-Jihoafrická republika, která se v zápase proti svým jižním sestrám rozhodně zřela, se však s postupujícím turnajem neustále zlepšovala.
-Jejich disciplinovaná obrana, dovednost v oblasti manipulace s míčem a výborná týmová práce je vynikla a bylo jasné, že to byl tým, který je třeba porazit.
-Úředníci města Amsterdamu a Muzea Anny Frankové uvádějí, že strom je infikován houbou a představuje riziko pro veřejné zdraví, když tvrdí, že hrozilo nebezpečí, že se z něj upustí.
-V úterý měla být omezena, ale byla zachráněna po naléhavém soudním rozhodnutí.
-Všechny vchodové do jeskyně, které se jmenovaly „Sedm Sestra“, mají v průměru nejméně 100 až 250 metrů (328 až 820 stop).
-Infračervené snímky ukazují, že teplotní výkyvy z noci a dne ukazují, že jsou to pravděpodobně jeskyně.
-„Jsou chladnější než okolní povrch ve dne a teplejší v noci.
-Jejich tepelné chování není tak stabilní jako velké jeskyně na Zemi, které často udržují poměrně konstantní teplotu, ale je v souladu s tím, že jsou to hluboké díry v zemi,“ řekl Glen Cushing z Astrogeology Team United States Geological Survey (USGS) a Northern Arizona University se nachází ve Flagstaffu v Arizoně.
-Ve Francii je hlasování tradičně málo technologicky nezávadným zážitkem: voliči se izolují do stánku, vložili do obálky předtištěný list papíru, který uvádí svého kandidáta, který si zvolí.
-Poté, co si úředníci ověřují totožnost voliče, volič vreduje obálku do volební urny a podepíše hlasovací lístek.
-Francouzský volební zákon spíše striktně kodifikuje řízení.
-Od roku 1988 musí být volební urny transparentní, aby voliči a pozorovatelé mohli být svědky toho, že na začátku hlasování nejsou přítomny žádné obálky a aby se nenamítaly žádné obálky kromě obálek řádně sečtených a schválených voličů.
-Uchazeči mohou vyslat zástupce, aby byli svědky každé části procesu. Večer jsou hlasy dobrovolníci pod přísným dohledem na základě zvláštních postupů sečteny.
-Společnost ASUS Eee PC, která byla dříve celosvětově spuštěna pro faktory úspor nákladů a funkčnosti, se v roce 2007 stala žhavým tématem Tchaj-pej IT Měsíc.
-Spotřebitelský trh s přenosovým počítačem se však bude radikálně lišit a změněn poté, co byla společnost ASUS oceněna na Tchaj-wan Sustainable Award v roce 2007 od výkonného Yuana Čínské republiky.
-Webové stránky stanice popisují pořad jako „staré školní rádio s novým a pobuřujícím geeky spinem!“
-V počátcích se pořad objevoval výhradně na dlouholetém internetovém rádiu TogiNet Radio, což je stránka zaměřená na talk radio.
-Na konci roku 2015 založil společnost AstroNet Radio jako dceřinou stanici.
-Původně se v seriálu objevili amatérští hlasoví herci z místního východního Texasu.
-Rozsáhlé rabování údajně pokračovalo přes noc, protože strážci zákona nebyli na Biškekových ulicích přítomni.
-Bishkek byl jedním pozorovatelem popsán jako potopení se do stavu „anarchie“, když se v ulicích potulovaly gangy lidí a plenili zásoby spotřebního zboží.
-Několik obyvatel Biškeku obvinilo z bezpráví protestující z ní.
-Jihoafrická republika porazila All Blacks (Nový Zéland) v rugby Union Tri Nations na stadionu Royal Bafokeng v Rustenburgu, Jižní Afrika.
-Konečné skóre bylo jednobodové vítězství 21 ku 20 a ukončilo vítěznou sérii All Blacks 15 zápasů.
-Pro Springboks ukončil pětizápasovou sérii porážek.
-Byl to poslední zápas pro All Blacks, kteří už před dvěma týdny získali trofej.
-Poslední zápas série se bude konat v Ellis Parku v Johannesburgu příští týden, kdy Springboks hrají Austrálii.
-Umírněné zemětřesení otřáslo západní Montanou v pondělí ve 22:08.
-Žádné bezprostřední zprávy o škodách neobdržely United States Geological Survey (USGS) a jeho Národním informačním středisku pro zemětřesení.
-Zemětřesení se soustředilo asi 20 km severo-severovýchodně od Dillonu a asi 65 km jižně od Butte.
-Bylo potvrzeno, že kmen ptačí chřipky smrtící lidem, H5N1, infikoval mrtvou divokou kachnu, nalezenou v pondělí, v bažinách poblíž Lyonu na východě Francie.
-Francie je sedmou zemí v Evropské unii, která trpí tímto virem; po Rakousku, Německu, Slovinsku, Bulharsku, Řecku a Itálii.
-Podezřelé případy H5N1 v Chorvatsku a Dánsku zůstávají nepotvrzené.
-Chambers zažaloval Boha za „rozsáhlou smrt, zkázu a terorizování milionů obyvatel Země“.
-Chambers, agnostik, tvrdí, že jeho žaloba je „frivolní“ a „kdokoliv může žalovat kohokoliv“.
-Příběh, který ve francouzské opeře představila Camille Saint-Saens, je umělce, „jehož život je diktován láskou k drogám a Japonsku“.
-V důsledku toho účinkující kouří konopné klouby na jevišti a divadlo samo o sobě povzbuzuje diváky, aby se připojili.
-Bývalý předseda Sněmovny reprezentantů Newt Gingrich, guvernér Texasu Rick Perry a kongresmanka Michele Bachmannová skončili na čtvrtém, pátém a šestém místě.
-Poté, co výsledky přišly, Gingrich si Santoruma pochvaloval, ale měl pro Romneyho tvrdá slova, v jejichž prospěch byly negativní předvolební inzeráty odvysílány v Iowě proti Gingrichovi.
-Perry uvedl, že se „vrátí do Texasu, aby posoudil výsledky dnešního grémia, rozhodl, zda v tomto závodě pro mě existuje cesta vpřed pro mě“, ale později řekl, že zůstane v závodě a bude soutěžit v primárkách v Jižní Karolíně 21. ledna.
-Bachmann, která v srpnu vyhrála Ames Straw Poll, se rozhodla ukončit svou kampaň.
-Fotograf byl transportován do nemocnice Ronalda Reagana UCLA, kde následně zemřel.
-Údajně mu bylo kolem 20 let. V prohlášení Bieber řekl: „[v]hile jsem nebyl přítomen ani přímo zapojen do této tragické nehody, mé myšlenky a modlitby jsou s rodinou oběti.“
-Zábavný zpravodajský web TMZ chápe, že fotograf zastavil své vozidlo na druhé straně bulváru Sepulveda a pokusil se vyfotit policejní zastávku, než přejel silnici a pokračoval, což přimělo policistu z kalifornské dálniční policie, který provedl dopravní zastávku, aby mu nařídil, aby se dvakrát vrátil.
-Podle policie je nepravděpodobné, že by řidič vozidla, který fotografa srazil, nebude čelit obvinění z trestného činu.
-S pouhými osmnácti medailí denně se řada zemí na stupních medailistek nedostala.
-Zahrnují Nizozemsko, včera v Super-G skončila Anna Jochemsenová devátá v ženské třídě a Finsko s Katjou Saarinenovou, které ve stejné disciplíně skončilo desetinnou.
-Australan Mitchell Gourley skončil jedenáctý v mužské Super-G. Český závodník Oldrich Jelínek skončil na šestnáctém místě v mužské Super-G.
-Arly Velasquez z Mexika skončil patnáctý v mužské Super-G. Novozélandský Adam Hall skončil devátý v mužském Super-G.
-Polská mužská vizuálně postižená lyžařka Maciej Krezel a průvodkyně Anna Ogarzynska skončili v Super-G třináctého. Jihokorejský Jong Seork Park skončil na sedmadvacátém místě v mužském Super-G.
-Mírové sbory OSN, které dorazily na Haiti po zemětřesení v roce 2010, jsou obviňovány z šíření nákazy, která začala poblíž tábora vojsk.
-Podle žaloby nebyl odpad z tábora OSN řádně dezinfikován, což způsobilo, že bakterie vstoupily do přítoku řeky Artibonit, jedné z největších na Haiti.
-Před příchodem jednotek se Haiti od 20. století s touto nemocí nesetkal s problémy.
-Haitský institut pro spravedlnost a demokracii se zmiňuje o nezávislých studiích, které naznačují, že nepálský mírový prapor OSN nevědomky přinesl nemoc na Haiti.
-Danielle Lantagneová, expertka OSN na tuto nemoc, uvedla, že nákaza byla pravděpodobně způsobena mírovými silami.
-Hamilton potvrdil, že fakultní nemocnice Howarda přiznala pacienta ve stabilizovaném stavu.
-Pacient byl v Nigérii, kde se vyskytly některé případy viru Ebola.
-Nemocnice se řídila protokolem pro kontrolu infekce, včetně oddělení pacienta od ostatních, aby se zabránilo možné infekci ostatních.
-Před Simpsons pracoval Simon na několika vystoupeních na různých pozicích.
+Peníze by mohly jít na povodněné domy, lepší hospodaření s vodou a diverzifikaci plodin.
+Fluke napsal, že úsilí některých utopit ženy z mluvení o zdraví žen bylo neúspěšné.
+Došla k tomuto závěru kvůli množství pozitivních komentářů a povzbuzení, které jí poslali žena i muži, kteří naléhali na to, aby antikoncepční léky byly považovány za lékařskou nutnost.
+Když boje skončily poté, co byli zranění převezeni do nemocnice, asi 40 dalších zbývajících vězňů zůstalo na dvoře a odmítlo se vrátit do svých cel.
+Vyjednavači se pokusili situaci napravit, ale požadavky vězňů nejsou jasné.
+Mezi 10:00 a 11:00 MDT, požár byl zahájen požáry na dvoře.
+Brzy důstojníci vybaveni výstrojem nastoupili do dvora a zahnali vězně do kouta slzným plynem.
+Hasiči záchranáři nakonec potopili požár do 23:35.
+Poté, co byla přehrada postavena v roce 1963, byly zastaveny sezónní povodně, které se rozšířily sedimenty po celé řece.
+Toto sedimenty byly nezbytné pro vytvoření písečných tyčí a pláží, které sloužily jako volně žijící živočichové.
+V důsledku toho dva druhy ryb vyhynuly a dva další se staly ohroženými, včetně keporkakackého baculaté.
+Ačkoli hladina vody po povodni vzroste jen o několik stop, úředníci doufají, že to bude stačit k obnovení erodovaných písečných tyčí po proudu.
+Žádné varování před tsunami nebylo vydáno a podle agentury Jakarta geofyzikální agentury nebude vydáno žádné varování před tsunami, protože zemětřesení nesplňuje požadavek rozsahu 6,5.
+Navzdory tomu, že nedošlo k žádné hrozbě tsunami, obyvatelé začali panikařit a začali opouštějí své podniky a domovy.
+Ačkoli Winfrey byla ve svém rozloučení slza v slzách, dala jasně najevo svým fanouškům, že se vrátí.
+"Tohle nebude sbohem. Toto je uzavření jedné kapitoly a otevření nové.“
+Konečné výsledky namibijských prezidentských a parlamentních voleb ukázaly, že úřadující prezident Hifikepunye Pohamba byl znovu zvolen velkým náskokem.
+Vládnoucí strana, Jihozápadní lidová organizace (SWAPO), si také udržela většinu v parlamentních volbách.
+Koaliční a afghánští vojáci se přestěhovali do oblasti, aby zajistili místo a další koaliční letadla byla vyslána na pomoc.
+Havárie se stala vysoko v horském terénu a předpokládá se, že byla výsledkem nepřátelského ohně.
+Snaha o hledání místa havárie se setkává se špatným počasím a drsným terénem.
+Lékařská charita Mangola, Lékaři bez hranic a Světová zdravotnická organizace tvrdí, že je to nejhorší epidemie zaznamenaná v zemi.
+Mluvčí Lékařů bez hranic Richard Veerman řekl: „Angola směřuje k nejhorší epidemii a situace zůstává v Angole velmi špatná,“ řekl.
+Hry začaly v 10:00 s velkým počasím a kromě středního ranního mrholení, které se rychle vyjasnilo, to byl perfektní den pro rugby 7.
+Turnaj top semena Jižní Afrika začala na správné notě, když měli pohodlné 26 - 00 vítězství proti 5. nasazené Zambie.
+Při pohledu rozhodně rezavý ve hře proti jejich jižním sestrám, Jižní Afrika, ale neustále zlepšován, jak turnaj postupoval.
+Jejich disciplinovaná obrana, dovednosti při manipulaci s míčem a vynikající týmová práce je vyničily a bylo jasné, že to byl tým, který byl poražen.
+Úředníci pro město Amsterdam a muzeum Anny Frankové uvádějí, že strom je infikován houbou a představuje riziko pro veřejné zdraví, protože tvrdí, že je v bezprostředním nebezpečí pádu.
+Plánovalo se to v úterý, ale bylo zachráněno po rozhodnutí o nouzovém soudu.
+Všechny vchody do jeskyně, které byly pojmenovány "Sedm sester", mají průměr nejméně 100 až 250 metrů (328 až 820 stop).
+Infračervené snímky ukazují, že teplotní změny z noci a dne ukazují, že jsou to pravděpodobně jeskyně.
+"Jsou chladnější než okolní povrch ve dne a v noci teplejší.
+Jejich tepelné chování není tak stabilní jako velké jeskyně na Zemi, které často udržují poměrně konstantní teplotu, ale je to v souladu s tím, že jsou to hluboké díry v zemi, "řekl Glen Cushing z Astrogeology Team (USGS) Spojených států a Northern Arizona University se nachází ve Flagstaff v Arizoně.
+Ve Francii bylo hlasování tradičně low-tech zkušeností: voliči se izolují ve stánku, dali předem vytištěný list papíru, který indikuje jejich kandidáta na výběr do obálky.
+Poté, co úředníci ověří totožnost voliče, volič upustí obálku do volební urny a podepíše hlasovací listinu.
+Francouzský volební zákon spíše přísně kodifikuje řízení.
+Od roku 1988 musí být volební urny transparentní, aby voliči a pozorovatelé mohli být svědky toho, že na začátku hlasování nejsou přítomny žádné obálky a že nejsou přidány žádné obálky kromě těch řádně zapsaných a autorizovaných voličů.
+Kandidáti mohou vyslat zástupce, aby byli svědky každé části procesu. Ve večerních hodinách, hlasy jsou počítány dobrovolníky pod silným dohledem, podle konkrétních postupů.
+ASUS Eee PC, dříve spuštěno po celém světě pro úsporné a funkční faktory, se v roce 2007 stalo horkým tématem IT měsíce Taipei.
+Spotřebitelský trh na přenosném počítači však bude radikálně rozmanitý a změněn poté, co byl ASUS udělen v roce 2007 na Tchaj-wanu Executivem Yuanem Čínské republiky.
+Webová stránka stanice popisuje přehlídku jako "staré školní rozhlasové divadlo s novým a pobuřujícím geeky spinem!"
+Ve svých počátcích, přehlídka byla uvedena výhradně na dlouhotrvajícím internetovém rozhlasovém webu TogiNet Radio, webu zaměřeném na talk rádio.
+Koncem roku 2015 společnost TogiNet založila společnost AstroNet Radio jako dceřinou stanici.
+Přehlídka původně představoval amatérské hlasové herce, místní do východního Texasu.
+Rozšířené rabování údajně pokračovalo přes noc, protože policisté nebyli přítomni v ulicích Biškeka.
+Biškek byl popsán jako ponoření do stavu „anarchie“ jedním pozorovatelem, protože gangy lidí se potulovaly po ulicích a drancovaly obchody spotřebního zboží.
+Několik obyvatel Biškeku obvinilo demonstranty z jihu z bezpráví.
+Jihoafrická republika porazila All Blacks (Nový Zéland) v rugbyovém svazu Tri Nations zápas na Royal Bafokeng Stadium v Rustenburgu v Jižní Africe.
+Konečné skóre bylo jednobodové vítězství, 21 ku 20, končit All Blacks ' 15 vítězné série.
+Pro Springboks to ukončilo pětizápasovou ztrátovou sérii.
+Byl to finálový zápas pro All Blacks, kteří už před dvěma týdny vyhráli trofej.
+Fitální zápas série se bude konat příští týden v Ellis Parku v Johannesburgu, kdy Springboks hrají s Austrálií.
+Mírné zemětřesení otřáslo západní Montanou v pondělí ve 22:08.
+Bezprostřední zprávy o škodách obdržely United States Geological Survey (USGS) a jeho Národní informační centrum pro zemětřesení.
+Zemětřesení bylo soustředěno asi 20 km (15 mil) severo-severovýchodně od Dillonu a asi 65 km (40 mil) jižně od Butte.
+Kmen ptačí chřipky smrtelně pro lidi, H5N1, bylo potvrzeno, že infikoval mrtvou divokou kachnu nalezenou v pondělí v bažinách poblíž Lyonu na východě Francie.
+Francie je sedmou zemí v Evropské unii, která trpí tímto virem, po Rakousku, Německu, Slovinsku, Bulharsku, Řecku a Itálii.
+Podezřelý počet případů H5N1 v Chorvatsku a Dánsku zůstává nepotvrzen.
+Chambers žaloval Boha za „rozšíření smrti, ničení a terorizování milionů a milionů obyvatel Země“.
+Chambers, agnostik, tvrdí, že jeho žaloba je "lehkovážná" a "každý může žalovat kohokoliv".
+Příběh prezentovaný ve francouzské opeře Camille Saint-Saens je umělcem, "jehož život je diktován láskou k drogám a Japonsku."
+Výsledkem je, že umělci kouří konopné jointy na jevišti a samotné divadlo povzbuzuje publikum, aby se připojilo.
+Bývalý předseda Sněmovny reprezentantů Newt Gingrich, texaský guvernér Rick Perry a kongresmanka Michele Bachmannová skončili na čtvrtém, pátém a šestém místě.
+Poté, co přišly výsledky, Gingrich chválil Santoruma, ale měl tvrdá slova pro Romneyho, jehož jménem byly v Iowě vysílány negativní reklamy na kampaň proti Gingrichovi.
+Perry uvedl, že se „vrátí do Texasu, aby posoudil výsledky dnešního výboru, rozhodl, zda existuje cesta vpřed pro mě v tomto závodě“, ale později řekl, že zůstane v závodě a bude soutěžit v primárkách 21. ledna v Jižní Karolíně.
+Bachmannová, která v srpnu vyhrála průzkum Ames Straw, se rozhodla ukončit svou kampaň.
+Fotograf byl převezen do Ronald Reagan UCLA Medical Center, kde následně zemřel.
+Údajně mu bylo dvacet. Ve svém prohlášení Bieber uvedl: "[W]hile jsem nebyl přítomen ani přímo zapojen do této tragické nehody, mé myšlenky a modlitby jsou s rodinou oběti."
+Zábavní zpravodajský web TMZ chápe, že fotograf zastavil své vozidlo na druhé straně Sepulveda Boulevard a pokusil se vyfotografovat policejní zastávku před přechodem na silnici a pokračoval, což přimělo kalifornského policistu dálniční hlídky, který provedl dopravní zastávku, aby mu nařídil zpět, dvakrát.
+Podle policie je nepravděpodobné, že by řidič vozidla, které fotografa srazilo, čelí trestnímu stíhání.
+S pouhými 18 medailemi denně se řada zemí nepodařilo dostat medailové pódium.
+Patří mezi ně Nizozemsko, Anna Jochemsenová skončila devátá v ženské společenské třídě v Super-G včera a Finsko s Katja Saarinen skončil desátý ve stejné události.
+Australan Mitchell Gourley skončil jedenáctý v mužském stojícím Super-G. Český závodník Oldrich Jelinek skončil šestnáctý v pánském sedadly Super-G.
+Arly Velasquez z Mexika skončil patnáctý v mužském sedícím Super-G. Nový Zéland Adam Hall skončil devátý v mužském pořadí Super-G.
+Polský pánský zrakově postižený lyžař Maciej Krezel a průvodce Anna Ogarzynska skončil třináctý v Super-G. Jihokorejský Jong Seork Park skončil čtyřicátý v mužském sedícím Super-G.
+Mírové jednotky OSN, které dorazily na Haiti po zemětřesení v roce 2010, jsou obviňovány z šíření nemoci, která začala v blízkosti tábora vojska.
+Podle žaloby nebyl odpad z tábora OSN řádně dezinfikován, což způsobilo, že bakterie vstoupily do přítoku řeky Artibonite, jedné z největších na Haiti.
+Před příchodem vojáků se Haiti od roku 1800 nesetkalo s problémy souvisejícími s touto nemocí.
+Haitský institut pro spravedlnost a demokracii odkazuje na nezávislé studie, které naznačují, že nepálský mírový prapor OSN nevědomky přinesl nemoc na Haiti.
+Danielle Lantagneová, expertka OSN na tuto nemoc, uvedla, že epidemie byla pravděpodobně způsobena mírovými jednotkami.
+Hamilton potvrdil, že Howardova fakultní nemocnice přijala pacienta ve stabilizovaném stavu.
+Pacient byl v Nigérii, kde došlo k některým případům viru Ebola.
+Nemocnice se řídila protokolem pro kontrolu infekcí, včetně oddělení pacienta od ostatních, aby se zabránilo možné infekci ostatních.
+Před Simpsons Simon pracoval na několika přehlídkách v různých pozicích.
 V 80. letech pracoval na seriálech jako Taxi, Cheers a The Tracy Ullman Show.
-V roce 1989 pomáhal vytvořit Simpsonovy s Brooksem a Groeningem a byl zodpovědný za najmutí prvního spisovatelského týmu seriálu.
-Přestože v roce 1993 opustil show, ponechal si titul výkonného producenta a v sezoně na licenčních poplatcích nadále dostával desítky milionů dolarů.
-Čínská tisková agentura Sin-chua již dříve informovala o uneseném letadle.
-Pozdější zprávy pak uváděly, že letadlo dostalo bombovou hrozbu a bylo odkloněno zpět do Afghánistánu, kde přistálo v Kandaháru.
-První zprávy říkají, že letadlo bylo odkloněno zpět do Afghánistánu poté, co mu bylo odepřeno nouzové přistání v Ürümqi.
+V roce 1989 pomohl vytvořit Simpsonovi s Brooksem a Groeningem a byl zodpovědný za najímání prvního psacího týmu.
+Navzdory opuštění přehlídky v roce 1993 si udržel titul výkonného producenta a pokračoval v přijímání desítek milionů dolarů každou sezónu v licenčních poplatcích.
+Čínská tisková agentura Xinhua informovala o tom, že letadlo bylo uneseno.
+Pozdější zprávy pak uvedly, že letadlo obdrželo bombovou hrozbu a bylo odkloněno zpět do Afghánistánu, přistálo v Kandaháru.
+První zprávy uvádějí, že letadlo bylo odkloněno zpět do Afghánistánu poté, co mu bylo odepřeno nouzové přistání v Ürümqi.
 Letecké nehody jsou běžné v Íránu, který má stárnoucí flotilu, která je špatně udržována jak pro civilní, tak pro vojenské operace.
-Mezinárodní sankce znamenaly, že nová letadla nelze zakoupit.
-Počátkem týdne při havárii policejního vrtulníku zahynuli tři lidé a další tři zranili.
-Minulý měsíc zažil Írán nejhorší leteckou katastrofu za poslední roky, kdy se zřítilo letadlo mířící do Arménie a 168 na palubě zahynulo.
-Téhož měsíce bylo na Mashhadu další dopravní letadlo zapustilo ranvej a narazilo do zdi, kde jich bylo zabito sedmnáct.
-Aerosmith zrušila zbývající koncerty na turné.
-Rocková kapela měla koncertovat po Spojených státech a Kanadě do 16. září.
-Turné zrušili poté, co se zpěvák Steven Tyler zranil poté, co při vystoupení 5. srpna spadl z pódia.
-Murray ztratil první set v nerozhodném setu poté, co oba muži drželi každý a každý podání v sadě.
-Del Potro měl brzy výhodu ve druhé sadě, ale i to vyžadovalo nerozhodující po výhře 6:6.
-Potro se v tuto chvíli léčil na rameni, ale podařilo se mu vrátit se do hry.
-Program začal ve 20:30 místního času (15:00 UTC).
-Známí zpěváci po celé zemi předávali bhajanům neboli zbožným písním Shri Shyamovi nohy.
-Zpěvák Sanju Sharma začal večer, následuje Jai Shankar Choudhary. esemiloval chhappan bhog bhajan stejně. Zpěvák, Raju Khandelwal ho doprovázel.
-Pak se Lakkha Singh ujal vedení a zpíval bhajany.
-108 talířů Chhappan Bhog (v hinduismu bylo Baba Shyamba, jako jsou bonbóny, ovoce, ořechy, pokrmy atd. nabízeno božstvům).
-Lakkha Singh představil chhappan bhog bhajan stejně. Zpěvák, Raju Khandelwal ho doprovázel.
-Na čtvrteční hlavní prezentaci Tokyo Game Show, Nintendo prezident Satoru Iwata představil správce pro novou konzoli Nintendo Revolution.
-V rámci televizního ovladače se připojí k televiznímu ovladači, který je umístěn v blízkosti uživatelské televize, aby trianguloval jeho polohu v trojrozměrném prostoru.
-To hráčům umožní kontrolovat akce a pohyby ve videohrách pohybem zařízení vzduchem.
-Giancarlo Fisichella ztratil kontrolu nad vozem a závod ukončil velmi brzy po startu.
-Jeho týmový kolega Fernando Alonso byl po většinu závodu ve vedení, ale hned po zastávce v boxech to ukončil, pravděpodobně proto, že špatně zastrčené pravé přední kolo.
-Michael Schumacher ukončil svůj závod nedlouho po Alonsovi, kvůli poškození zavěšení v četných bojích během závodu.
-„Je velmi roztomilá a také docela dobře zpívá,“ řekl podle přepisu tiskové konference.
-„Pokaždé, když jsme na to udělali zkoušku, z hloubi srdce mě dojali.“
-Přibližně po 3 minutách startu se palubní kamera ukázala, že se mnoho částí izolační pěny odlomí od palivové nádrže.
-Nemají se však za to, že by raketoplán způsobil žádnou škodu.
-Šéf raketoplánu N. Wayne Hale Jr. řekl, že pěna spadla „po chvíli, co nás znepokojuje.“
-Po pěti minutách se začne valit vítr, asi o minutu později, vítr dosahuje 70km/h... pak přichází déšť, ale tak silně a tak velký, že vám plácne kůži jako jehla, pak z oblohy spadnou krupobití, lidé panikaří a křičí a běží po sobě.
-Ztratil jsem sestru a její kamarádku a na cestě tam byli dva postižení lidé na kolečkových křeslech, lidé prostě skákali a tlačili je,“ řekl Armand Versace.
-NHK také oznámila, že jaderná elektrárna Kariwa Kariwa v prefektuře Niigata funguje normálně.
-Společnost Hokuriku Electric Power Co. nehlásila žádné účinky zemětřesení a že reaktory číslo 1 a 2 v jaderné elektrárně Shika byly uzavřeny.
-Uvádí se, že v regionu je bez vody a přibližně 100 bez elektřiny.
+Mezinárodní sankce znamenaly, že se nové letadlo nekoupilo.
+Začátkem tohoto týdne havárie policejní helikoptéry zabila tři lidi a další tři zranila.
+Minulý měsíc zaznamenal Írán nejhorší leteckou katastrofu za poslední roky, když se zřítilo letadlo mířící do Arménie a zabilo 168 lidí na palubě.
+Ve stejném měsíci viděl další letadlo za přejet přistávací dráhu v Mashhad a udeřit do zdi, zabíjet sedmnáct.
+Aerosmith zrušili své zbývající koncerty na svém turné.
+Rocková kapela měla turné po Spojených státech a Kanadě až do 16. září.
+Zrušili turné poté, co byl zpěvák Steven Tyler zraněn poté, co spadl z pódia při vystoupení 5. srpna.
+Murray prohrál první set v tie přestávce poté, co oba muži drželi každý a každý servis v sadě.
+Del Potro měl časnou výhodu ve druhém setu, ale to také vyžadovalo tie přestávku po dosažení 6-6.
+Potro dostal léčbu na rameni v tomto okamžiku, ale podařilo se mu vrátit do hry.
+Program začal ve 20:30 místního času (15.00 UTC).
+Slavní zpěváci po celé zemi představili bhajany nebo zbožné písně Shri Shyamovým nohám.
+Zpěvačka Sanju Sharma začala večer, následoval Jai Shankar Choudhary. zasadil i chappan bhog bhajan. Zpěvačka Raju Khandelwal ho doprovázela.
+Pak se Lakkha Singh ujal vedení při zpěvu bhajanů.
+108 talířů Chappan Bhog (v hinduismu, 56 různých jedlých předmětech, jako jsou sladkosti, ovoce, ořechy, pokrmy atd., Které jsou nabízeny božstvu) byly podávány Baba Shyamovi.
+Lakkha Singh představil také chappan bhog bhajan. Zpěvačka Raju Khandelwal ho doprovázela.
+Na čtvrteční hlavní prezentaci Tokyo Game Show, Nintendo prezident Satoru Iwata představil design ovladače pro novou konzoli Nintendo Revolution společnosti.
+Připomeňme si televizní dálkový ovladač, regulátor používá dva senzory umístěné v blízkosti televizoru uživatele, aby trianguloval svou polohu v trojrozměrném prostoru.
+To umožní hráčům ovládat akce a pohyby ve videohrách tím, že přesune zařízení vzduchem.
+Giancarlo Fisichella ztratil kontrolu nad svým vozem a závod ukončil velmi brzy po startu.
+Jeho týmový kolega Fernando Alonso byl ve vedení po většinu závodu, ale skončil hned po jeho zastávce v boxech, pravděpodobně proto, že špatně zastrčený pravé přední kolo.
+Michael Schumacher ukončil svůj závod nedlouho po Alonsovi, kvůli poškození odpružení v četných bitvách během závodu.
+"Ona je velmi roztomilá a zpívá docela dobře," řekl podle přepisu tiskové konference.
+"Byl jsem dojat pokaždé, když jsme na tom udělali zkoušku, z hloubi svého srdce."
+Asi 3 minuty do startu, palubní kamera ukázala četné kusy izolace pěny odtrhat od palivové nádrže.
+Předpokládá se však, že by způsobili žádné škody na raketoplánu.
+NASA Shuttle Program hlavní N. Wayne Hale Jr. řekl, že pěnu spadla "po čase, kdy jsme se obávali."
+Pět minut do displeje se začne valit vítr, asi o minutu později, vítr dosahuje 70 km/h... pak přijde déšť, ale tak tvrdý a tak velký, že vám plácne kůži jako je jehla, pak krupobití spadlo z oblohy, lidé panikaří a křičí a běží jeden druhého.
+Ztratil jsem svou sestru a její kamarádku a na cestě tam byli dva postižení lidé na invalidním vozíku, lidé jen skákali a tlačili na ně,“ řekl Armand Versace.
+NHK také oznámila, že jaderná elektrárna Kashiwa Kiriwa v prefektuře Niigata byla normálně provozována.
+Společnost Hokuriku Electric Power Co. nehlásila žádné dopady zemětřesení a že reaktory Number 1 a 2 v jeho jaderné elektrárně Shika byly odstaveny.
+Uvádí se, že asi 9400 domů v regionu je bez vody a přibližně 100 bez elektřiny.
 Některé silnice byly poškozeny, železniční doprava přerušena v postižených oblastech a letiště Noto v prefektuře Ishikawa zůstává uzavřeno.
-Jedna bomba vybuchla před kanceláří guvernéra.
-Další tři bomby explodovaly poblíž vládních budov za dvě hodiny.
-Některé zprávy uvádějí oficiální počet obětí na osm a oficiální zprávy potvrzují, že až 30 bylo zraněno; konečná čísla zatím nejsou známa.
-Kyselina a melanurová i melamin byly nalezeny ve vzorcích moči od domácích zvířat, která zemřela po požití kontaminované krmiva pro domácí mazlíčky.
-Dva sloučeniny reagují mezi sebou a vytvářejí krystaly, které mohou blokovat funkci ledvin, uvedli vědci z univerzity.
-Výzkumníci pozorovali krystaly tvořené kočičí močí přidáním melaminu a kyseliny kyanurové.
-Složení těchto krystalů se shoduje s těmi, které se nacházejí v moči postižených domácích zvířat ve srovnání s infračervenou spektroskopií (FTIR).
-Nevím, jestli si to uvědomujete nebo ne, ale většina zboží ze Střední Ameriky se do této země bezcelně dostala.
-Přesto bylo osmdesát procent našeho zboží zdaněno cly v zemích Střední Ameriky. Chováme se k vám.
-To mi nedávalo smysl; rozhodně to nebylo fér.
-Lidem říkám jen to, že se k nám chováš tak, jak se chováme.
+Před úřadem generálního guvernéra vybuchla jedna bomba.
+Další tři bomby vybuchly v blízkosti vládních budov během dvou hodin.
+Některé zprávy uvádějí oficiální počet obětí na osm a oficiální zprávy potvrzují, že až 30 bylo zraněno; ale konečné číslo ještě není známo.
+Kyselina kyanurová i melamin byly nalezeny ve vzorcích moči od domácích zvířat, kteří zemřeli po konzumaci kontaminovaných krmiv pro domácí zvířata.
+Tyto dvě sloučeniny reagují navzájem, aby vytvořily krystaly, které mohou blokovat funkci ledvin, uvedli vědci z univerzity.
+Vědci pozorovali krystaly vytvořené v kočičí moči přidáním melaminu a kyseliny kyaňové.
+Složení těchto krystalů odpovídá těm, které se nacházejí v moči postižených domácích zvířat ve srovnání s infračervenou spektroskopií (FTIR).
+Nevím, jestli si to uvědomujete nebo ne, ale většina zboží ze Střední Ameriky vstoupila do této země bezcelního.
+Přesto bylo z 80 procent našeho zboží zdaněno z cel ve středoamerických zemích, zacházíme s vámi.
+Nezdálo se mi, že by to dávalo smysl; rozhodně to nebylo fér.
+Vše, co říkám lidem, je, že se k nám chováte tak, jak se k vám chováme.
 Kalifornský guvernér Arnold Schwarzenegger podepsal zákon, který zakazuje prodej nebo pronájem násilných videoher nezletilým.
-Návrh zákona vyžaduje, aby byly násilné videohry prodávané ve státě Kalifornie označeny s depeádem „18“ a činí jejich prodej nezletilým trestem pokuty ve výši 1000 dolarů za trestný čin.
-Vrchní státní zástupkyně Kier Starmer QC dnes ráno vydal prohlášení, ve kterém oznámil stíhání Huhneho i Pryce.
-Huhne rezignoval a v kabinetu ho nahradí poslanec Ed Davey. Očekává se, že poslanec Norman Lamb převezme místo ministra obchodu, které Davey vyklízí.
-Huhne a Pryce se mají 16. února objevit u soudu ve Westminsteru.
-Na životech byl Nicholas Alden, 25, a Zachary Cuddeback, 21. Cuddeback byl řidič.
-Edgar Veguilla utrpěl rány na ruce a čelisti, zatímco Kristoffer Schneider musel na obličej operovat rekonstrukční operaci.
-Ukova zbraň selhala, když ukazovala pátému muži na hlavu. Schneider má trvalou bolest, slepotu v jednom oku, chybějící část lebky a obličej přestavěný z titanu.
-Schneider svědčil prostřednictvím videolinky ze základny USAF ve své vlasti.
-Po středečním turnaji se Carpanedo zúčastnil dvou individuálních závodů na šampionátu.
-První byla slalom, kde si při své první jízdě vysloužila Did Not Finish. 36 ze 116 závodníků mělo stejný výsledek v tomto závodě.
-Její další závod, obří slalom, ji viděl skončit v desáté v ženské sedmé skupině s vombinčním běhu 4:41.30, 2:11,60 minut pomalejší než první místo finišer Rakušan Claudia Loesch a 1:09.02 minuty pomalejší než devátý místo finišer Gyöngyi Dani z Maďarska.
-Čtyři lyžařky v ženské skupině se nepodařilo dojet a 45 ze 117 lyžařů v obřím slalomu se neuspělo v závodě.
-Policie v Madhjapradéš našla ukradený notebook a mobilní telefon.
-Zástupce generálního inspektora D K Arya řekl: „Zatkli jsme pět osob, které znásilnily Švýavu ženu a našly jí mobil a laptop“.
-Obvinění jsou jmenováni jako Baba Kanjar, Bhutha Kanjar, Rampro Kanjar, Gaza Kanjar a Višnu Kanjar.
-Policejní superintendantka Chandra Shekhar Solankiová uvedla, že se obviněný objevil u soudu se zakrytými tvářemi.
-I když byli v domě tři lidé, když do něj auto narazilo, nikdo z nich nebyl zraněn.
-Řidička však utrpěla vážná zranění hlavy.
-Silnice, kde se nehoda stala, byla dočasně uzavřena, zatímco záchranná služba osvobodila řidiče z červeného Audi TT.
-Zpočátku byl hospitalizován v nemocnici Jamese Pageta v Great Yarmouth.
-Následně byl přemístěn do Addenbrookovy nemocnice v Cambridge.
-Adekoya byla od té doby u soudu v Edinburghu, obviněna z vraždy svého syna.
-Je ve vazbě a čeká na obžalobu a soud, ale důkazy očitých svědků mohou být poskvrněny, protože její obraz byl široce publikován.
-Je to běžná praxe jinde ve Spojeném království, ale skotská justice funguje jinak a soudy vnímají zveřejnění fotografií jako potenciálně škodlivé.
-Profesorka Pamela Fergusonová z Dundeeské univerzity poznamenává, že „novorec se zdá, že když publikují fotografie podezřelých, tak i po ní.“
-Korunní úřad, který má na starosti stíhání, novinářům naznačil, že nebudou vzneseny žádné další komentáře alespoň do obžaloby.
-Dokument se podle úniku informací bude zmiňovat o sporu o hranice, který si Palestina přeje na základě hranic před namoznul na Středním východě v roce 1967.
-Mezi další témata, která se údajně týkala, patří budoucí stát Jeruzalém, který je posvátný jak národům, tak pro otázku Jordánského údolí.
-Izrael požaduje trvalou vojenskou přítomnost v údolí na deset let, jakmile bude podepsána dohoda, zatímco palebná samospráva bude souhlasit s opouštěním takové přítomnosti jen na pět let.
-Střelci v doplňkovém řízení škůdců měli být pečlivě pod dohledem rangerů, protože byl sledován proces a jeho účinnost byla vyhodnocena.
-V partnerství NPWS a Sporting Shooters Association of Australia (NSW) Inc. byli kvalifikovaní dobrovolníci najati v rámci loveckého programu Sporting Shooters Association.
-Podle Micka O'Flynna, úřadujícího ředitele Park Conservation and Heritage z NPWS, se čtyři střelci vybraní pro první střeleckou operaci proběhla u komplexního bezpečnostního a výcvikového výcviku.
-Martelly včera zaklel v nové Prozatímní volební radě (CEP) s devíti členy.
+Návrh zákona vyžaduje, aby násilné videohry prodávané ve státě Kalifornie byly označeny s deklarovaným čtením "18" a činí jejich prodej nezletilým trestem pokutou ve výši 1 000 dolarů za trestný čin.
+Ředitel státního zastupitelství Kier Starmer QC dnes ráno vydal prohlášení oznamující stíhání Huhneho i Pryce.
+Huhne rezignoval a v kabinetu bude nahrazen Edem Daveym MP. Očekává se, že Norman Lamb MP vezme ministru obchodu práci, kterou Davey uvolňuje.
+Huhne a Pryce se mají objevit u Westminsterského magistrátního soudu 16. února.
+Úmrtí byli Nicholas Alden, 25 let, a Zachary Cuddeback, 21 let. Cuddeback byl řidič.
+Edgar Veguilla dostal zranění od zbraně a čelisti, zatímco Kristoffer Schneider byl ponechán vyžadující rekonstrukční operaci pro jeho obličej.
+Ukaova zbraň selhala, zatímco mířila na hlavu pátého muže. Schneider má pokračující bolest, slepotu v jednom oka, chybějící část lebky a obličej přestavěný z titanu.
+Schneider svědčil prostřednictvím videolinku ze základny USAF ve své vlasti.
+Kromě středečního turnaje Carpanedo soutěžil ve dvou jednotlivých závodech na šampionátu.
+Její první byl slalom, kde si získala Did Not Finish ve svém prvním běhu. V tomto závodě mělo stejný výsledek ze všech 16 soutěžících.
+Její druhý závod, Giant Slalom, viděl její cíl na desátém místě v ženském sezení skupiny s kombinovaným časem běhu 4:41,30, 2:11,60 minut pomalejší než první místo finišérka Rakoula Claudia Loesch a 1:09,02 minuty pomalejší než devátém místě finišer Gyöngy Dani z Maďarska.
+Čtyři lyžaři v ženské sedící skupině nedokázali dokončit své běhy a 45 ze 117 celkových lyžařů v Giant Slalom nedokázalo zařadit do závodu.
+Policie v Madhya Pradesh našla ukradený notebook a mobilní telefon.
+Zástupce generálního inspektora DK Arya řekl: „Zatkli jsme pět osob, které znásilnily švýcarskou ženu a získaly její mobil a notebook.“
+Obviněný je považován za Baba Kanjar, Bhutha Kanjar, Rampro Kanjar, Gaza Kanjar a Vishnu Kanjar.
+Policejní superintendant Chandra Shekhar Solanki uvedl, že obviněný se objevil u soudu se zakrytými tvářemi.
+Ačkoli tři lidé byli uvnitř domu, když ho auto zasáhlo, nikdo z nich nebyl zraněn.
+Řidič však utrpěl vážná zranění hlavy.
+Silnice, kde se nehoda stala, byla dočasně uzavřena, zatímco záchranné služby osvobodily řidiče z červeného Audi TT.
+Původně byl hospitalizován v nemocnici Jamese Pageta v Great Yarmouth.
+Následně byl přemístěn do Addenbrookské nemocnice v Cambridge.
+Adekoya je od té doby u edinburského šerifa soudu obviněna z vraždy svého syna.
+Je ve vazbě až do obžaloby a soudu, ale jakýkoli očitý svědek může být poskvrněn, protože její obraz byl široce publikován.
+To je běžná praxe jinde ve Velké Británii, ale skotská justice funguje jinak a soudy považují zveřejnění fotografií za potenciálně předpojaté.
+Profesorka Pamela Fergusonová z University of Dundee poznamenává, že „novináři se zdají chodit po nebezpečné linii, pokud publikují fotografie atd.
+Korunní úřad, který je v celkovém počtu obvinění ze stíhání, naznačil novinářům, že žádné další připomínky nebudou učiněny alespoň do doby až do obvinění.
+Dokument bude podle úniku informací odkazovat na hraniční spor, který chce Palestina na základě hranic před válkou na Středním východě v roce 1967.
+Další témata údajně zahrnují budoucí stát Jeruzalém, který je posvátný jak pro národy, tak pro problém Jordánského údolí.
+Izrael požaduje pokračující vojenskou přítomnost v údolí po dobu deseti let, jakmile bude podepsána dohoda, zatímco Palestinská samospráva souhlasí s tím, že takovou přítomnost opustí pouze na pět let.
+Střelci v doplňkové studii ochrany proti škůdcům měli být pečlivě kontrolováni rangery, protože studie byla sledována a její účinnost hodnocena.
+V rámci partnerství NPWS a Asociace sportovců střelců Austrálie (NSW) Inc, kvalifikovaní dobrovolníci byli přijati v rámci programu Sporting Shooters Association.
+Podle Micka O'Flynn, úřadujícího ředitele Park Conservation and Heritage with the NPWS, čtyři střelci, kteří byli vybráni pro první střelbu, obdrželi komplexní bezpečnostní a výcvikové instrukce.
+Martelly včera přislíbil v nové Prozatímní volební radě (CEP) z devíti členů.
 Je to Martellyho pátý CEP za poslední čtyři roky.
-Minulý měsíc prezidentská komise doporučila předchozí rezignaci CEP jako součást balíčku opatření, která mají zemi posunout k novým volbám.
-Komise byla Martellyho reakcí na rozsáhlé protireagreční protesty, které začaly v říjnu.
-Někdy násilné protesty byly vyvolány neúspěchem ve volbách, které se měly konat od roku 2011.
-Bylo hlášeno přibližně 60 případů nefunkčních ohřívačů iPodů, které způsobily celkem šest požárů a čtyři lidé s lehkými popáleninami.
-Japonské ministerstvo hospodářství, obchodu a průmyslu (METI) uvedlo, že si bylo vědomo 27 nehod souvisejících s přístroji.
-Minulý týden METI oznámila, že ji společnost Apple informovala o 34 dalších přehřívajících incidentech, které společnost označila za „nevážné“.
-Ministerstvo reagovalo tím, že odklad zprávy společností Apple označil za „skutečně politováníhodnou“.
-Eathquake udeřil na Marianu v 7:19 místního času (09:19 GMT v pátek).
-Úřad pro krizové situace v Severní Marianas uvedl, že v zemi nebyly hlášeny žádné škody.
-Také Pacific TChancléřské varovné centrum uvedlo, že tam není žádný náznak Tsunami.
-Bývalý filipínský policista drží hongkongské turisty jako rukojmí tím, že unesou jejich autobus v Manile, hlavním městě Filipín.
-Rolando Mendoza vystřelil na turisty M16.
-Několik rukojmích bylo zachráněno a nejméně šest bylo dosud potvrzeno jako mrtvé.
-Šest rukojmích, včetně dětí a starších, bylo předčasně propuštěno, stejně jako filipínští fotografové.
-Fotografové později zaujali místo seniory, která potřebovala toaletu. Mendoza byl zastřelen.
-Liggins šel v otcových stopách a vstoupil do lékařské kariéry.
-Vystudoval porodníka a v roce 1959 začal pracovat v Aucklandské národní ženské nemocnici.
-Zatímco pracoval v nemocnici, Liggins začal ve volném čase vyšetřovat předčasné porodní porodní porodu.
-Jeho výzkum ukázal, že pokud by byl hormon podán, urychlilo by to zrání plodu plodu dítěte.
-Sin-chua oznámila, že vládní vyšetřovatelé ve středu našli dva letové záznamy „černé skříně“.
-Kolegové zápasníci také vzdali hold Luně.
-Tommy Snící řekl: „Luna byla první královnou extrémní. Můj první manažer. Luna zemřela v noci na dvou měsíců. Docela jedinečné jako ona. Silná žena.“
-Dustin „Goldust“ Runnels poznamenal, že „Luna byla stejně uštědřená jako já...možná ji ještě víc...milovat a bude jí chybět...doufejme, že je na lepším místě.“
-Ze 1400 dotázaných před federálními volbami v roce 2010 vzrostli ti, kdo jsou proti tomu, aby se Austrálie stala republikou, od roku 2008 o 8 procent.
-Vládkyně vlády Julia Gillardová během kampaně ve federálních volbách v roce 2010 prohlásila, že věří, že by se Austrálie měla stát republikou na konci vlády královny Alžběty II.
-34 procent z volebních místností se tento názor dělí a chce, aby se královna Alžběta II. stala poslední australskou panovnicí.
-V extrémech průzkumu se 29 procent dotázaných domnívá, že by se Austrálie měla co nejdříve stát republikou, zatímco 31 procent se domnívá, že by se Austrálie nikdy neměla stát republikou.
-Olympijský medailista měl plavat v běhu na 100 a 200 m volným stylem a ve třech štaflích na Hrách Commonwealthu, ale kvůli jeho stížnostem byla jeho kondice pochyby.
-Nebyl schopen vzít si léky potřebné k překonání jeho bolesti, protože jsou zakázány na hrách.
-Curtis Cooper, matematik a profesor informatiky na University of Central Missouri, objevil dosud největší známé prvořadé číslo 25. ledna.
-Několik lidí si objev ověřilo pomocí jiného hardwaru a softwaru do začátku února a bylo oznámeno v úterý.
-Komety mohly být zdrojem vodního dodávání do země spolu s organickou hmotou, která může vytvářet proteiny a podporovat život.
-Vědci doufají, že pochopí, jak se tvoří planety, zejména jak se zformovala Země, protože komety se kdysi dávno narazily na Zemi.
-Třiatřicetiletý Cuomo začal letos guvernérský post a minulý měsíc podepsal zákon o stejnopohlavním manželství.
-O fámách se zmiňoval jako o „politickém tlachání a hloubkářství“.
-Spekuluje se, že se v roce 2016 uchází o post prezidenta.
-NextGen je systém, o němž FAA tvrdí, že by letouny umožnily létat na kratších trasách a ušetřit každý rok miliony galonů paliva a snížit emise uhlíku.
-Používá satelitní technologii na rozdíl od starší pozemní raděrové technologie, aby řídící letového provozu mohli s větší přesností určit letadla a poskytnout pilotům přesnější informace.
-Ve Wembley se ve Wembley neporazí žádná doprava a ve Wembley nebude zastavovat a parkovací a parkovací a odbavovací zařízení nejsou v zemi k dispozici.
-Obavy z nedostatku dopravy vyvolaly možnost, že hra bude nucena hrát za zavřenými dveřmi bez příznivců týmu.
-Studie zveřejněná ve čtvrtek v časopise Science referovala o založení nového ptačího druhu na Ekvádorských Galapágách.
-Výzkumníci z Princetonské univerzity ve Spojených státech a Uppsalovy univerzity ve Švédsku uvedli, že se nový druh vyvinul za pouhé dvě generace, i když se věřilo, že tento proces trvá mnohem déle, a to díky rozmnožování mezi endemickou Darwinovou ploutev, opevnění Geospiza a kaktusem pro imigrantský, Geospiza conirostris.
-Zlato se může zapracovat do všech druhů tvarů. Může se převalovat do malých tvarů.
-Může být vtažen do tenkého drátu, který lze zkroutit a spletit. Může být bušit nebo válet do prostěradel.
-Může být velmi tenký a přilepený na jiný kov. Může být vyroben tak tenký, že se někdy používal k výzdobě ručně malovaných obrázků v knihách zvaných „luminované rukopisy“.
-To se nazývá pH chemikálií. Můžete udělat indikátor pomocí šťávy z červeného zelí.
-Zelí šťáva mění barvu v závislosti na tom, jak je chemická látka kyselá nebo základní.
-Hladina pH je indikována množstvím vodíkových (H v pH) v testované chemické látce.
-Vodíkové ionty jsou protony, které měly jejich elektrony odříznuty (odkazuje, že atomové vodíkové se skládají z jednoho protonu a jednoho elektronu).
-Otoč dva suché prášky k sobě a pak, s čistýma mokrýma rukama, je vmáčkni do koule.
-Vlhkost na rukou zareaguje s vnějšími vrstvami, které budou působit legračně a vytvoří jakousi skořápku.
-Města Harappa a Mohenjo-daro měla téměř v každém domě splachovací záchod, připojený k sofistikovanému kanalizovému systému.
-Pozůstatky kanalizačních systémů byly nalezeny v domech minojských měst Kréta a Santorini v Řecku.
-Byly tam také toalety ve starověkém Egyptě, Persii a Číně. V římské civilizaci byly toalety někdy součástí veřejných lázní, kde byli muži a ženy ve smíšené společnosti.
-Když zavoláte někoho, kdo je tisíce mil daleko, používáte satelit.
-Satelit ve vesmíru zavolá a pak ho téměř okamžitě odrazí zpět dolů.
-Satelit byl vyslán do vesmíru raketou. Vědci používají ve vesmíru dalekohledy, protože zemská atmosféra zkresluje některé z našich světel a výhledu.
-To trvá obří raketa přes 100 stop vysoká dát satelit nebo dalekohled do vesmíru.
-Kolo změnilo svět neuvěřitelným způsobem. Největší věc, kterou pro nás kolo udělalo, nám dává mnohem jednodušší a rychlejší dopravu.
-Přivezl nám vlak, vůz a mnoho dalších dopravních zařízení.
-Pod nimi jsou středně velké kočky, které jedí středně velkou kořist od králíků po antilopy a jeleny.
-A konečně, existuje mnoho malých koček (včetně volných koček), které požírají mnohem početnější malou kořist, jako je hmyz, hlodavci, ještěrky a ptáci.
-Tajemstvím jejich úspěchu je koncept výklenku, zvláštní práce, kterou má každá kočka a která ji drží a která ji drží od konkurence s ostatními.
-Lions jsou nejvíce sociálních koček, žijící ve velkých skupinách zvaných hrdinky.
-Pýcha se skládají z jednoho až tří příbuzných dospělých mužů spolu s třiceti ženami a mláďaty.
-Samice jsou obvykle úzce příbuzné, jsou početnou rodinou sester a dcer.
-Lion pyšní se chová podobně jako smečky vlků nebo psů, zvířata se překvapivě podobají lvům (ale ne jiným velkým kočkám) v chování a také velmi smrtící pro svou kořist.
-Dobře zaoblené sportovec, tygr může šplhat (i když ne dobře), plavat, poskočit velké vzdálenosti a táhnout s pětkrát větší silou silného člověka.
-Tygr je ve stejné skupině (Genus Panthera) jako lvi, leopardy a jaguáry. Tyto čtyři kočky jsou jediné, které mohou řvát.
-Tygrův řev není jako výraz lva s plným hlasem, ale spíš jako větu vrčnaté, vykřikovaná slova.
-Oceloty rádi jedí malá zvířátka. Chytí opice, hady, hlodavce a ptáky, když to půjde. Téměř všechna zvířata, která honí na ocelot, jsou mnohem menší než ve skutečnosti.
-Vědci si myslí, že oceloti následují a hledají zvířata, která bude jíst (kořist) zápachem, čichající tam, kde jsou na zemi.
-Ve tmě vidí velmi dobře s nočním viděním a pohybují se také velmi nenápadně. Oceloti loví svou kořist tím, že se vmísí do okolního prostředí a vrhají se na svou kořist.
-Když se malá skupina živých tvorů (malého obyvatelstva) oddělí od hlavní populace, ze které pocházejí (jako by se pohybovali nad pohořím nebo řekou, nebo když se přestěhují na nový ostrov, aby se nemohli snadno odstěhovat), často se ocitnou v jiném prostředí, než v jakém byli předtím.
-Toto nové prostředí má různé zdroje a různé konkurenty, takže nová populace bude potřebovat různé rysy nebo úpravy, aby byla silným konkurentem, než jaké potřebovali dříve.
+Minulý měsíc prezidentská komise doporučila předchozí rezignaci CEP jako součást balíčku opatření k posunu země směrem k novým volbám.
+Komise byla Martellyho reakcí na rozsáhlé protirežimní protesty, které začaly v říjnu.
+Někdy násilné protesty byly vyvolány tím, že se nepodařilo uspořádat volby, některé z nich jsou splatné od roku 2011.
+Bylo hlášeno asi 60 případů nefunkčních iPodů přehřátí, což způsobilo celkem šest požárů a zanechalo čtyři lidi s menšími popáleninami.
+Japonské ministerstvo hospodářství, obchodu a průmyslu (METI) uvedlo, že si je vědomo 27 nehod souvisejících se zařízeními.
+Minulý týden společnost METI oznámila, že ji Apple informoval o 34 dalších přehřátých incidentech, které společnost označila za "nezávažné".
+Ministerstvo reagovalo tím, že Apple označilo odložení zprávy ze strany Appry za „opravdu politováníhodné“.
+Pojízdící zemětřesení udeřilo Marianu v 07:19 místního času (09:19). GMT pátek).
+Úřad pro krizové řízení Severní Mariany uvedl, že v zemi nebyly hlášeny žádné škody.
+Také Pacific Tsunami Warning Center řekl, že neexistuje žádný náznak Tsunami.
+Bývalý filipínský policista držel hongkongské turisty jako rukojmí tím, že unesl jejich autobus v Manile, hlavním městě Filipín.
+Rolando Mendoza vystřelil ze své pušky M16 na turisty.
+Několik rukojmích bylo zachráněno a nejméně šest lidí bylo potvrzeno, že jsou zatím potvrzeni.
+Šest rukojmích, včetně dětí a starších lidí, bylo propuštěno brzy, stejně jako filipínské fotografy.
+Fotografové později zaujali místo staré dámy, protože potřebovala toaletu. Mendoza byl zastřelen.
+Liggins šel ve stopách svého otce a vstoupil do lékařské kariéry.
+Trénoval jako porodník a začal pracovat v Aucklandské národní ženské nemocnici v roce 1959.
+Zatímco pracoval v nemocnici Liggins začal vyšetřovat předčasný porod během svého volného času.
+Jeho výzkum ukázal, že kdyby byl hormon podáván, urychlil by zrání plodových plic dítěte.
+Xinhua oznámila, že vládní vyšetřovatelé objevili ve středu dva „černé skříňky“ letadlové lodě.
+Spoluhráči také vzdali hold Luně.
+Tommy Dreamer řekl: „Luna byla první královnou extrému. - Můj první manažer. Luna zemřela v noci na dva měsíce. Pěkně jedineční stejně jako ona. Silná žena.“
+Dustin "Goldust" Runnels poznamenal, že "Luna byla stejně šílená jako já... možná ještě víc... milujte ji a bude jí chybět ... doufejme, že je na lepším místě."
+Z 1 400 lidí dotázaných před federálními volbami v roce 2010 ti, kteří jsou proti tomu, aby se Austrálie stala republikou, vzrostla od roku 2008 o 8 procent.
+Opatrovatelka premiérka Julia Gillardová během kampaně federálních voleb v roce 2010 tvrdila, že věří, že Austrálie by se měla stát republikou na konci vlády královny Alžběty II.
+34 procent z těch, kteří jsou v průzkumu, sdílí tento názor a chtějí, aby královna Alžběta II. byla posledním australským monarchou.
+V extrémech průzkumu 29 procent dotázaných věří, že Austrálie by se měla stát republikou co nejdříve, zatímco 31 procent věří, že Austrálie by se nikdy neměla stát republikou.
+Olympijský zlatý medailista měl plavat na 100m a 200m freestyle a ve třech štafetách na hrách Commonwealthu, ale kvůli jeho stížnostem byla jeho zdatnost zpochybněna.
+Nebyl schopen užívat léky potřebné k překonání bolesti, protože jsou zakázány z her.
+Curtis Cooper, matematik a profesor informatiky na University of Central Missouri, objevil největší známé hlavní číslo k 25. lednu.
+Několik lidí ověřilo objev pomocí různého hardwaru a softwaru do začátku února a bylo oznámeno v úterý.
+Komety mohou být zdrojem dodávání vody do země spolu s organickou hmotou, která může vytvářet bílkoviny a podporovat život.
+Vědci doufají, že pochopí, jak se formují planety, zejména jak se Země zformovala, protože komety se srazily se Zemí už dávno.
+Cuomo, 53 let, zahájil své guvernérské řízení na začátku tohoto roku a minulý měsíc podepsal zákon o legalizaci manželství osob stejného pohlaví.
+Poukázal na tyto zvěsti jako na „politické tlachání a hloupost“.
+V roce 2016 se spekulovalo, že bude kandidovat na prezidenta.
+NextGen je systém, který by podle odhadů FAA umožnil letu letadla létat kratší trasy a každoročně ušetřil miliony galonů paliva a snížil emise uhlíku.
+Používá satelitní technologii na rozdíl od starší technologie založené na zemních radarech, která umožňuje řídícím letového provozu určit letadla s větší přesností a poskytnout pilotům přesnější informace.
+Žádná další doprava je nasazena a nadzemní vlaky nezastavují ve Wembley a parkoviště a parkovací a jízdenky nejsou k dispozici na zemi.
+Obavy z nedostatku dopravy zvýšily možnost, že hra bude nucena hrát za zavřenými dveřmi bez fanoušků týmu.
+Studie zveřejněná ve čtvrtek v časopise Science informovala o vzniku nového druhu ptáků na Ekvádorských galapástských ostrovech.
+Výzkumníci z Princetonské univerzity ve Spojených státech a Uppsalské univerzity ve Švédsku oznámili, že nový druh se vyvinul za pouhé dvě generace, ačkoli se věřilo, že tento proces trvá mnohem déle, kvůli rozmnožování mezi endemickým Darwinovým pěchou, Geospizo fortes a přistěhovaleckým pěchou, Geospizoněm kanirosteris.
+Zlato může být zpracováno do všech druhů tvarů. Lze jej válcovat do malých tvarů.
+Může být vtažen do tenkého drátu, který může být zkroucený a spražen. Může být zatlučen nebo válcován do prostěradla.
+Může být velmi tenká a přilepená na jiný kov. Může být vyroben tak tenká, že se někdy používá k výzdobě ručně malovaných obrázků v knihách nazývaných "osvětlené rukopisy".
+Říká se tomu pH chemické látky. Můžete vytvořit indikátor pomocí červeného zelí.
+Zdveřejňová šťáva mění barvu v závislosti na tom, jak kyselá nebo základní (alkalická) je chemická látka.
+Hladina pH je indikována množstvím vodíku (h pH) iontů ve zkoušené chemické látce.
+Vodíkiony jsou protony, které byly jejich elektrony odstraněny (protože atomy vodíku se skládají z jednoho prototonu a jednoho elektronu).
+Rozvíjejte dva suché prášky dohromady a pak, s čistými mokrými rukama, vtlačte je do koule.
+Vlhkost na vašich rukou bude reagovat vnějšími vrstvami, které se budou cítit legračně a vytvoří jakousi skořápku.
+Města Harappa a Mohenjo-daro měla splachovací toaletu téměř v každém domě, připojeném k sofistikovanému kanalizačnímu systému.
+Pozůstatky kanalizace byly nalezeny v domech minonských měst Kréta a Santorini v Řecku.
+Ve starověkém Egyptě, Persii a Číně byly také toalety. V římské civilizaci byly toalety někdy součástí veřejných lázeňských domů, kde byli muži a ženy ve smíšené společnosti.
+Když zavoláte někoho, kdo je tisíce kilometrů daleko, používáte satelit.
+Satelit ve vesmíru dostane hovor a pak ho odráží zpět dolů, téměř okamžitě.
+Satelit byl vyslán do vesmíru raketou. Vědci používají teleskopy ve vesmíru, protože zemská atmosféra zkresluje některé naše světlo a pohled.
+Vyžaduje obří raketu přes 100 stop vysokou, aby se satelit nebo teleskop dostal do vesmíru.
+Kolo změnilo svět neuvěřitelným způsobem. Největší věc, kterou pro nás kolo udělalo, je, že nám poskytla mnohem jednodušší a rychlejší dopravu.
+Přineslo nám to vlak, auto a mnoho dalších dopravních zařízení.
+Pod nimi jsou více středně velké kočky, které jedí středně velkou kořist od králíků až po antelopy a jeleny.
+A konečně, existuje mnoho malých koček (včetně volných domácích koček), které jedí mnohem více malé kořisti, jako je hmyz, hlodavci, ještěrky a ptáci.
+Tajemstvím jejich úspěchu je koncept výklenku, speciální práce, kterou každá kočka má, která ji udržuje v soutěži s ostatními.
+Lvi jsou nejspolečenštější kočky, žijící ve velkých skupinách nazývaných pýchání.
+Pýchaky se skládají z jednoho až tří příbuzných dospělých mužů, spolu s až třiceti ženami a mláďaty.
+Samice jsou obvykle úzce příbuzné mezi sebou, protože jsou velkou rodinou sester a dcer.
+Lion pýcha působí podobně jako smečky vlků nebo psů, zvířata překvapivě podobná lvům (ale ne jiným velkým kočkám) v chování a také velmi smrtící pro jejich kořist.
+Dobře zaoblený sportovec, tygr může vylézt (i když ne dobře), plavat, skákat velké vzdálenosti a táhnout s pětinásobkem síly silného člověka.
+Těžbavá je ve stejné skupině (Genus Panthera) jako lvi, leopardi a jaguárové. Tyto čtyři kočky jsou jediné, které mohou řvát.
+Tygří řev není jako plnohodnotný řev lva, ale spíše jako věta varlících, vykřikovaných slov.
+Ocelots rád jedí malá zvířata. Chytí opice, hady, hlodavce a ptáky, pokud mohou. Téměř všechna zvířata, která ocelot loví, jsou mnohem menší než to jsou.
+Vědci se domnívají, že oceloty sledují a nacházejí zvířata k jídlu (chrpávky) zápachem, čichající k tomu, kde byli na zemi.
+Ve tmě vidí velmi dobře v temnotě nočním viděním a také se pohybují velmi nenápadně. Oceloty loví svou kořist tím, že splývají se se svým okolím a pak vrhají na svou kořist.
+Když se malá skupina živých věcí (malá populace) oddělí od hlavního obyvatelstva, ze které pocházejí (jako kdyby se přesunuly přes pohoří nebo řeku, nebo pokud se přestěhují na nový ostrov, aby se nemohly snadno vrátit) se často ocitnou v jiném prostředí, než byli předtím.
+Toto nové prostředí má různé zdroje a různé konkurenty, takže nová populace bude potřebovat různé rysy nebo úpravy, aby byla silným konkurentem, než bylo dříve potřeba.
 Původní populace se vůbec nezměnila, stále potřebují stejné úpravy jako předtím.
-Postupem času, když se nová populace začíná přizpůsobovat svému novému prostředí, se začínají méně a méně podobat ostatním obyvatelům.
-Nakonec, po tisících nebo dokonce milionech let, budou tyto dvě populace vypadat tak jinak, že se jim nedaří se nazývat stejným druhem.
-Nazýváme tento proces speciace, což znamená jen zakládání nových druhů. Druh je nevyhnutelným důsledkem a velmi důležitou součástí evoluce.
-Rostliny dělají kyslík, který lidé dýchají, a užívají oxidem uhličitým, který lidé vydrodí (to jest, vydechnout).
-Rostliny vyrábějí jídlo ze slunce fotosyntézou. Poskytují také stín.
-Vyrábějeme si domy z rostlin a vyrábíme oblečení z rostlin. Většina jídel, které jíme, jsou rostliny. Bez rostlin by zvířata nemohla přežít.
-Mosasaurus byl vrcholovým predátorem své doby, takže se nebál ničeho, kromě jiných moasaurů.
-Dlouhé čelisti byly poseté více než 70 břitově ostrými zuby, spolu s extra zasazenou do střechy tlamy, což znamenalo, že nebylo úniku pro nic, co by mu zkříželo cestu.
-Nevíme to jistě, ale možná to mělo rozpůlené. Jeho strava zahrnovala želvy, velké ryby, další mosasaurové, a to dokonce mohlo být kanibal.
-Napadl také všechno, co se dostalo do vody; ani obří dinosaurus jako T. rex by se jí nemohl rovnat.
-Zatímco většina jejich jídla by nám byla povědomá, Římanům se na nich dělalo podivné nebo neobvyklé hostiny, včetně divočáka, páva, šnevec a druhu hlodavce zvaného dormouse
-Dalším rozdílem bylo, že zatímco chudí lidé a žena jedli jídlo, když seděli na židlích, bohatí muži si rádi nechávali na sobě rakety, kde se po boku hájí, zatímco jedli jídlo.
-Starověká římská jídla nemohla zahrnovat potraviny, které v pozdějších staletích přišly do Evropy z Ameriky nebo z Asie.
-Například neměli kukuřici, rajčata, brambory, ani kakao a žádný starověký Říman nikdy nechutnal krocana.
-Babyloňanům postavili každý z jejich bohů primární chrám, který byl považován za domov boha.
-Lidé přinášeli bohům oběti a kněží se budou snažit věnovat potřebám bohů prostřednictvím obřadů a svátků.
-Každý chrám měl otevřené chrámové nádvoří a pak vnitřní svatyně, do kterého mohli vstoupit jen kněží.
-Někdy byly zvláštní věže ve tvaru pyramidy, zvané zikguraty, postaveny tak, aby byly součástí chrámů.
-Vrcho věže byl zvláštní útočištěm boha.
-V teplém podnebí na Blízkém východě nebyl dům tak důležitý.
-Většina života hebrejské rodiny se odehrávala pod širým nebem.
-Na dvoře vařily ženy, obchody byly jen otevřené pulty, které se dívaly do ulice. Stone byl použit pro stavbu domů.
-V zemi Kanaán nebyl žádný velký lesy, takže dřevo bylo extrémně drahé.
-Grónsko bylo usadilo řídce. Na severských ságách říkají, že Erik rudý byl vyhoštěn z Islandu za vraždu, a když cestoval dále na západ, našel Grónsko a pojmenoval ho Grónsko.
-Ale bez ohledu na jeho objev, Eskimo kmeny tam v té době žily.
-Ačkoli každá země byla „skandinávská“, mezi lidmi, králi, zvyky a dějinou Dánska, Švédska, Norska a Islandu byly mnoho rozdílů.
-Pokud jste se dívali na film National Treasure, můžete si myslet, že na zadní straně Deklarace nezávislosti byla napsána mapa pokladu.
-To však není pravda. I když je na zadní straně dokumentu napsáno něco, není to mapa pokladu.
-Na oplátku Deklarace nezávislosti byla napsána slova „Originální deklarace nezávislosti ze 4. července 1776“. Text se zobrazí na dně dokumentu, vzhůru nohama.
-I když nikdo neví s jistotou, kdo ji napsal, je známo, že na počátku svého života byl velký pergamenový dokument (měří 293 a půl palce) srolovaný pro uskladnění.
-Je tedy pravděpodobné, že notace byla přidána jednoduše jako etiketa.
-Vylodění v den D a následující bitvy osvobodily sever Francie, ale jih stále nebyl volný.
-Vládla mu francouzská „Vichy“. Byli to Francouzi, kteří uzavřeli s Němci v roce 1940 a pracovali s útočníky, místo aby s nimi bojovali.
-15. srpna 1940, napadli spojenci jižní Francii, se invaze jmenovala „Operace Dragoon“.
-Za pouhé dva týdny osvobodili Američané a Svobodné francouzské síly jižní Francii a obraceli se k Německu.
-Civilizací je jedinečná kultura, kterou sdílí významná velká skupina lidí, kteří žijí a pracují společně, společnost.
-Slovo civilizace pochází z latinskoamerických civilistů, což znamená civilní, příbuzné latinské občance, což znamená občan a citky, což znamená město nebo městský stát, a to také nějak definuje velikost společnosti.
-Městské státy jsou předchůdci národů. Civilní kultura předpokládá předávání znalostí napříč několika generacemi, přetrvávající kulturní stopu a spravedlivé šíření.
-Menší kultury často mizí, aniž by zanechaly relevantní historické důkazy a nebyly uznány jako řádné civilizace.
-Během války za nezávislost tvořilo třináct států nejprve slabou centrální vládu – přičemž jediným součástí byl Kongres – pod články Konfederace.
-Kongres neměl pravomoc ukládat daně, a protože neexistovala národní exekutiva ani soudnictví, spoléhal se na státní orgány, které často nespolupracovaly, aby si všechny své činy vynutily.
-Rovněž neměla pravomoc překazit daňové zákony a cla mezi státy.
-Články vyžadovaly jednomyslný souhlas všech států, než mohly být změněny, a státy považovaly ústřední vládu na lehkou váhu, že jejich zástupci často chybí.
-Italský fotbalový fotbal je spolu s německým fotbalovým týmem druhým nejúspěšnějším týmem na světě a v roce 2006 se stal mistrem světa ve fotbale.
-Mezi oblíbené sporty patří fotbal, basketbal, volejbal, vodní plak, oplocení, ragby, cyklistika, lední hokej, kolečkové hokej a automobilové závody F1.
-Zimní sporty jsou nejpopulárnější v severních regionech, Italové soutěží v mezinárodních hrách a olympijských hrách.
-Japáňané pojmou téměř 7000 ostrovů (největší je Honšú), což z Japonska dělá 7. největší ostrov na světě!
-Vzhledem ke klastru/skupině ostrovů, které Japonsko má, se o zeměpisném postoji často hovoří jako o „archipeře“
-Tchaj-wan začíná již v 15. století, kde evropští námořníci projíždějí místem pojmenování ostrova jako Ilha Formosa, neboli krásný ostrov.
-V roce 1624 založí společnost v oblasti východní Indie základnu na jihozápadním Tchaj-wanu, která zahajuje transformaci v domorodých těžebních praktikách a zaměstnává čínské dělníky, aby pracovali na jejích rýžových a cukerných plantážích.
-V roce 1683 převzaly síly dynastie Čching (1644-1912) kontrolu nad západními a severními pobřežními oblastmi Tchaj-wanu a v roce 1885 vyhlásily Tchaj-wan za provincii Čchingské říše.
-V roce 1895, po porážce v první čínsko-japonské válce (1894-1895), Čchingská vláda podepisuje smlouvu Šimonoseki, kterou předává svrchovanost Tchaj-wanu Japonsku, které vládne ostrovu až do roku 1945.
-Machu Picchu se skládají ze tří hlavních staveb, a to Intihuatany, chrámu Slunce a Sněmovny tří oken.
-Většina budov na okrajích komplexu byla přestavěna, aby turisté lépe představili, jak se původně objevili.
-V roce 1976 bylo obnoveno třicet procent Machu Picchu a obnovování pokračuje dodnes.
-Například nejběžnější statický obrazový obrazový obrazový formát na světě je 35mm, což byla dominantní velikost filmu na konci analogové filmové éry.
-Produkuje se dodnes, ale co je důležitější, jeho poměr stran byl zděděn formáty snímků snímačů digitálních fotoaparátů.
-35mm formát je vlastně, poněkud matoucí, 36mm na šířku 24mm ve výšce.
-Poměr stran tohoto formátu (rozdělení o dvanáct za účelem získání nejjednoduššího poměru celé číslo) je tedy 3:2.
-Mnoho společných formátů (například rodina formátů APS) se toto poměry stran rovná nebo se přibližuje.
-Tolik zneužívaná a často sušená vláda třetin je prostým vodítkem, který vytváří dynamiku a zároveň zachovává měřítko pořádku v obrazu.
-Uvádí, že nejúčinnějším místem hlavního předmětu je průsečík řádků dělí obraz na třetí osoby vertikálně a horizontálně (viz příklad).
-Během tohoto období evropských dějin se katolická církev, která se stala bohatou a mocnou, ocitla pod drobnohledem.
-Přes tisíc let křesťanské náboženství spojovalo evropské státy navzdory rozdílům v jazyce a zvycích. Já
-Jeho všestranná moc postihla každého, kdo byl od krále po prostý.
-Jednou z hlavních křesťanských principů je, že bohatství by mělo být použito ke zmírnění utrpení a chudoby a že peněžní fondy církve jsou k dispozici právě z tohoto důvodu.
-Ústřední autorita církve byla v Římě více než tisíc let a tato koncentrace moci a peněz vedla mnohé k otázce, zda se tento nájemník nesetuje.
-Brzy po vypuknutí nepřátelských akcí Británie iniciovala námořní blokádu Německa.
-Strategie se ukázala jako účinná a odřízla životně důležité vojenské a civilní dodávky, i když tato blokáda porušovala obecně uznávané mezinárodní právo kodifikované několika mezinárodními dohodami z minulých dvou století.
-Británie vytěžila mezinárodní vody, aby zabránila jakýmkoli lodím vplout do celé části oceánu, což způsobilo nebezpečí i neutrálních lodí.
-Vzhledem k tomu, že na tuto taktiku reagovalo jen omezenou, očekávalo Německo podobnou reakci na svou neomezenou ponorkovou válku.
-Během dvacátých let 20. století byly převládající postoje většiny občanů a národů pacifismem a izolací.
-Poté, co země za první světové války spatřovaly hrůzy a zvěčnit zvěrstva války, toužilo vyhnout se v budoucnu podobné situaci.
-V roce 1884 se Tesla přestěhovala do Spojených států amerických, aby přijala práci u Edison Company v New Yorku.
-Do USA přijel s 4 centy na své jméno, knihou poezie a doporučujícím dopisem od Charlese Batchelora (jeho manažera v jeho předchozí funkci) Thomase Edisona.
-Starověká Čína měla jedinečný způsob, jak ukázat jiná časová období; každá etapa Číny nebo každé rodiny, která byla u moci, byla výraznou dynastie.
-Také mezi každou dynastií bylo nestabilní doby rozdělených provincií. Nejznámější z těchto období byla epocha Tři království, která se konala po dobu 60 let mezi Chan a dynastie Ťi-Ťin.
-Během těchto období se odehrával nelítostný boj mezi mnoha šlechtici bojujícími o trůn.
-Tři království byla jednou z nejkrvavějších dob v historii Ancient China, zahynuly tisíce lidí, aby se posadili na nejvyšší sedadlo ve velkém paláci v Xi'anu.
-Existuje mnoho sociálních a politických efektů, jako je používání metrického systému, posun od absolutismu k republikánství, nacionalismu a přesvědčení, že země patří lidem, kteří nepatří jedinému vládci.
-Také po revolučních povoláních byla otevřena všem mužským uchazečům, kteří umožnili uspět nejambicióznější a nejúspěšnější.
-To samé platí pro armádu, protože místo armádního žebříčku se zakládají na třídě, byly nyní založeny na cailaber.
-Francouzská revoluce také inspirovala mnoho dalších utlačených pracujících tříd z jiných zemí, aby zahájili své vlastní revoluce.
-Muhammad se hluboce zajímal o záležitosti mimo tento všední život. Často navštěvoval jeskyni, která se stala známou jako „Hira“ na hoře „Noor“ (světlo) pro rozjímání.
-sám se ustlaněl, který přežil časy, velmi živě vyobrazí Muhammadovy duchovní sklony.
-Pobyty na vrcholu jedné z hor severně od Mekky jsou jeskyně zcela izolovaná od zbytku světa.
-Ve skutečnosti není snadné vůbec najít, i když člověk věděl, že existuje. Jakmile se dostanete do jeskyně, je to naprostá izolace.
-Nic jiného není vidět než jasná, krásná obloha nad a mnoho okolních hor. Jen málo z tohoto světa je vidět nebo slyšet z vnitřku jeskyně.
-Velká pyramida v Gíze je jediná ze sedmi divů, které stojí dodnes.
-Velká pyramida postavená Egypťany ve třetím století př. n. l. je jednou z mnoha velkých pyramidních staveb postavených na počest mrtvých faraona.
-Gídiza Plateau, neboli „Giza Necropolis“ v egyptském údolí mrtvých, obsahuje několik pyramid (jeho největší pyramida), několik malých hrobek, několik chrámů a velkou Sfing.
-Velká pyramida byla vytvořena na počest faraona Khufu a mnoho menších pyramid, hrobek a chrámů bylo postaveno na počest Khufuových manželek a rodinných příslušníků.
-„Záhle“ značka vypadá jako V a „podle příďové značky“ jako staple nebo čtverec chybí jeho spodní straně.
-Vstřihem znamená, že byste měli začít na špičce a tlačit luk, a dolů znamená, že byste měli začít u žáby (což je místo, kde vaše ruka drží luk) a vytáhnout luk.
-Vzrušený obvykle generuje měkčí zvuk, zatímco duh je silnější a asertivnější.
-Klidně si pili ve vlastních značkách, ale pamatujte, že tištěné skvrny jsou tu z hudebního důvodu, takže by měly být respektovány.
-Vyděšený král Ludvík XVI., královna Marie Antoinette jejich dvě malé děti (11 let Marie Therese a čtyřletý Ludvík-Charles) a králova sestra, paní Elizabeth, 6. října 1789 byli 6. října 1789 zatlačeni do Paříže z Versailles davem na trhu.
-V kočáře odjížděli zpět do Paříže obklopeni davem lidí, kteří křičeli a vyhrožovali králi a královně.
-Dav lidí donutil krále a královnu, aby měli rozepnutá kočárová okna.
-V jednu chvíli jeden člen davu zamával hlavou královské gardy, která byla zabita ve Versailles před vyděšenou královnou.
-Za válečné výdaje amerického imperialismu v dobytí Filipín hájili sami filipínští lidé.
-Byli nuceni platit daně koloniálnímu režimu USA, aby uhradili velkou část výdajů a úroky z dluhopisů, které se objevily ve jménu filipínské vlády prostřednictvím bankovních domů na Wall Street.
-Samozřejmě, že superprofesiva odvozená z vleklou vykořisťování filipínských lidí by představovala základní zisky amerického imperialismu.
-Abyste pochopili templáře, musí člověk pochopit kontext, který podnítil vytvoření řádu.
-Věk, kde se události konaly, se běžně označuje jako střední středověk období evropských dějin v 11., 12. a 13. století (NV. 1000–1300).
-Vrcholově středověku předcházel raný středověk a následoval pozdní středověk, který končí na konvencích kolem roku 1500.
-Technologický determinismus je termín, který zahrnuje širokou škálu myšlenek v praxi, od technologie-push nebo technologický imperativ k přísnému pocitu, že lidský osud je veden základní logikou spojenou s vědeckými zákony a jejich projevem v oblasti technologií.
-Většina interpretací technologického determinismu sdílí dvě obecné myšlenky: že vývoj technologií sám jde do značné míry mimo kulturní nebo politický vliv a že technologie mají zase „účery“ na společnosti, které jsou vlastní, nikoli sociálně podmíněné.
-Dalo by se například říci, že motorový automobil nutně vede k rozvoji silnic.
-Celostátní silniční síť však není ekonomicky životaschopná jen pro hrstku automobilů, takže se vyvíjejí nové způsoby výroby, aby se snížily náklady na vlastnictví automobilů.
-Vlastnictví masopravá automobilku také vede k vyššímu výskytu nehod na silnicích, což vede k vynálezu nových technik ve zdravotnictví pro opravu poškozených těl.
-Romantismus měl velký prvek kulturní determinismu, který čerpal ze spisovatelů jako Goetethe, Fichte a Schlegel.
-V kontextu romantismu se v geografii formovaly jedince a časem zvyky a kultura související s touto geografií vznikly a ty byly v harmonii s místem společnosti lepší než svévolně uvalené zákony.
-Po vzoru, kterým je Paříž známá jako hlavní město módy současného světa, byla Konstantinopole považována za hlavní město módy feudální Evropy.
-Jeho věhlas pro epicentrum luxusu začalo asi v 400 n.l. a trvalo až do doby kolem roku 1100 n.l.
-Její status se během dvanáctého století snížil hlavně kvůli tomu, že se křižáci vraceli s dárky, jako jsou hedvábí a koření, které byly ceněny více než byzantské trhy.
-Právě v této době byl proveden převod titulu Fashion Capital z Konstantinopoli do Paříže.
-Gotický styl vyvrcholil v období mezi 10. – 11. stoletím a 14. stoletím.
+Postupem času, kdy se nová populace začíná přizpůsobovat svému novému prostředí, začínají vypadat stále méně jako ostatní populace.
+Nakonec, po tisících nebo dokonce milionech let, budou obě populace vypadat tak odlišně, že nemohou být nazývány stejným druhem.
+Říkáme tomu, že tento proces se zabývá speciace, což znamená pouze vznik nových druhů. Speciace je nevyhnutelným důsledkem a velmi důležitou součástí evoluce.
+Rostliny vytvářejí kyslík, který lidé dýchají, a berou oxid uhelnatý, který lidé vydechují (to znamená, vydechněte).
+Rostliny dělají své jídlo ze slunce fotosyntézou. Poskytují také stín.
+Vyrábíme naše domy z rostlin a vyrábíme oblečení z rostlin. Většina potravin, které jíme, jsou rostliny. Bez rostlin by zvířata nepřežila.
+Mosasaurus byl vrcholovým predátorem své doby, takže se ničeho nebál, kromě jiných mozadorů.
+Jeho dlouhé čelist byly posety více než 70 ostrými zuby, spolu s extra sadou ve střeše úst, což znamená, že nedošlo k úniku pro nic, co se zkřížilo jeho cestu.
+Nevíme to jistě, ale možná to mělo rozvinutý jazyk. Jeho strava zahrnovala želvy, velké ryby, další mozaiky a dokonce to mohl být kanibal.
+Také zaútočil na vše, co vstoupilo do vody; dokonce i obří dinosaurus, jako je T. rex, by se mu nevyrovnal.
+Zatímco většina jejich jídla by nám byla známá, Římané měli svůj podíl podivných nebo neobvyklých svátečních předmětů, včetně divokých prasat, pávů, hlemýždích a druhu hlodavce nazývaného dormouse.
+Dalším rozdílem bylo, že zatímco chudí lidé a žena jedli své jídlo, zatímco seděli na židlích, bohatí muži rádi měli společné bankety, kde se při jídle posypali.
+Starověká římská jídla nemohla zahrnovat potraviny, které přišly do Evropy z Ameriky nebo z Asie v pozdějších stoletích.
+Například neměli kukuřici, ani rajčata, ani brambory, ani kakao a žádný starověký Roman nikdy neochutnal krocana.
+Babyloňané postavili každého ze svých bohů primární chrám, který byl považován za domov boha.
+Lidé by přinesli oběti bohům a kněží by se snažili věnovat potřebám bohů prostřednictvím obřadů a svátků.
+Každý chrám měl otevřené chrámové nádvoří a pak vnitřní svatyni, do které mohli vstoupit pouze kněží.
+Někdy byly postaveny speciální pyramidy veličiny, nazývané cigátorové, jako součást chrámů.
+Vrchol věže byl pro boha zvláštní útočiště.
+V teplém podnebí Blízkého východu nebyl dům tak důležitý.
+Většina života hebrejské rodiny se odehrála pod širým nebem.
+Ženy dělal vaření na dvoře; obchody byly jen otevřené počítadlo při pohledu na ulici. Kámen byl využíván ke stavbě domů.
+V kanaánu nebyly žádné velké lesy, takže dřevo bylo extrémně drahé.
+Grónsko bylo osídleno řídce. V norských ságách říkají, že Erik Rudý byl vyhoštěn z Islandu za vraždu, a když cestoval dále na západ, našel Grónsko a pojmenoval ho Grónsko.
+Ale bez ohledu na jeho objev, Eskimo kmeny už tam v té době žily.
+Ačkoli každá země byla „Skandinávská“, existovalo mnoho rozdílů mezi lidmi, králi, zvyky a historií Dánska, Švédska, Norska a Islandu.
+Pokud jste viděli film National Treasure, možná si myslíte, že na pozadí Deklarace nezávislosti byla napsána mapa pokladu.
+To však není pravda. Ačkoli je na zadní straně dokumentu něco napsáno, není to mapa pokladu.
+Na pozadí Deklarace nezávislosti byla napsána slova „Parvní prohlášení nezávislosti ze dne 4. července 1776“. Text se zobrazí na spodní části dokumentu, vzhůru nohama.
+Zatímco nikdo neví jistě, kdo ji napsal, je známo, že na počátku svého života byl velký pergamenový dokument (měří 293⁄4 palce o 24 1⁄2 palce) pro skladování.
+Takže je pravděpodobné, že zápis byl přidán jednoduše jako štítek.
+Vylodění D-Day a následující bitvy osvobodily sever Francie, ale jih stále nebyl volný.
+Vládl mu "Vichy" francouzština. Byli to Francouzi, kteří uzavřeli mír s Němci v roce 1940 a pracovali s útočníky místo toho, aby s nimi bojovali.
+Dne 15. srpna 1940, spojenci napadli jižní Francii , invaze byla nazývána „Operace Dragoon“.
+Za pouhé dva týdny Američané a Svobodní francouzští vojáci osvobodili jižní Francii a obrátili se k Německu.
+Civilizace je jedinečná kultura sdílená významnou velkou skupinou lidí, kteří žijí a pracují společně, společností.
+Slovo civilizace pochází z latinské civilizace, což znamená občanské, vztahující se k latinskému občanovi, což znamená občan a civitas, což znamená město nebo městský stát, a to také nějak definuje velikost společnosti.
+Městské státy jsou předchůdci národů. Civilizační kultura implikuje předávání znalostí napříč několika generacemi, přetrvávající kulturní stopu a spravedlivé šíření.
+Menší kultury často mizí, aniž by zanechaly relevantní historické důkazy, a nejsou uznány jako řádné civilizace.
+Během revoluční války, třináct států nejprve tvořil slabý centrální vláda - s Kongresem je jeho jedinou složkou - pod stanovy konfederace.
+Kongres postrádal jakoukoli pravomoc ukládat daně, a protože tam byl žádný národní výkonný nebo soudnictví, to spoléhal na státní orgány, kteří byli často nespolupracující, prosazovat všechny své činy.
+Také neměla pravomoc přehlasovat daňové zákony a tarify mezi státy.
+Články vyžadovaly jednomyslný souhlas všech států před tím, než mohly být změněny, a státy vzaly ústřední vládu tak lehce, že jejich zástupci často chyběli.
+Italský národní fotbal, spolu s německým národním fotbalovým týmem je druhým nejúspěšnějším týmem na světě a v roce 2006 se zúčastnili vítězové mistrovství světa FIFA.
+Mezi oblíbené sporty patří fotbal, basketbal, volejbal, vodní pólo, šerm, rugby, cyklistika, lední hokej, horolezec a F1 motoristické závody.
+Zimní sporty jsou nejoblíbenější v severních regionech, s Italy soutěží v mezinárodních hrách a olympijských akcích.
+Japonsko má téměř 7000 ostrovů (největší je Honšú), čímž se Japonsko stalo 7. největším ostrovem na světě!
+Vzhledem ke klastr / skupině ostrovů Japonsko má, Japonsko je často označováno, na geografickém postoji, jako „archipelago“ .
+Tchaj-wan začíná v 15. století, kdy evropští námořníci procházející rekordem jméno ostrova jako Ilha Formosa, nebo krásný ostrov.
+V roce 1624, holandská Východoindická společnost zřídí základnu v jihozápadním Tchaj-wanu, iniciovat transformaci v domorodých postupech výroby obilí a zaměstnává čínské dělníky pracovat na svých rýžových a cukrových plantážích.
+V roce 1683, Qing dynastie (1644-1912) síly převzít kontrolu nad západní a severní pobřežní oblasti Tchaj-wanu a vyhlásil Taiwan jako provincie Qing říše v roce 1885.
+V roce 1895, po porážce v první čínsko-japonské válce (1894-1895), čtvrťova vláda podepíše smlouvu Shimonoseki , kterým postupuje suverenitu nad Tchaj-wanem na Japonsko , který vládne ostrov až do roku 1945.
+Machu Picchu se skládá ze tří hlavních struktur, jmenovitě Intihuatana, chrámu Slunce a místnosti tří oken.
+Většina budov na okrajích komplexu byla přestavěna, aby turisté měli lepší představu o tom, jak se původně objevili.
+V roce 1976 bylo obnoveno 30 procent Machu Picchu a restaurování pokračuje dodnes.
+Například nejběžnější formát fotografie na světě je 35 mm, což byla dominantní velikost filmu na konci analogové filmové éry.
+To je ještě vyrobeno dnes, ale co je důležitější, jeho poměr stran byl zděděn formáty digitálních obrazových snímačů fotoaparátu.
+Formát 35 mm je ve skutečnosti, poněkud matoucí, 36 mm na šířce o výšce 24 mm.
+Poměr stran tohoto formátu (rozdělený o dvanáct, aby získal nejjednodušší poměr celého čísla) je proto říká, že je 3:2.
+Mnoho společných formátů (například APS rodiny formátů) se rovná nebo se blíží tomuto poměru stran.
+Velmi zneužívané a často zesměšňované pravidlo třetiny je jednoduchým vodítkem vytvářející dynamiku při zachování míry pořadí v obraze.
+Uvádí, že nejefektivnějším místem pro hlavní předmět je na křižovatce linií, které rozdělují obraz na třetiny vertikálně a horizontálně (viz příklad).
+Během tohoto období evropských dějin se katolická církev, která zbohatla a mocná, dostala pod kontrolu.
+Více než tisíc let Křesťanské náboženství svázalo evropské státy dohromady navzdory rozdílům v jazyce a zvycích. Já
+Jeho všeprostupující moc ovlivnila každého od krále až po obyčejného.
+Jedním z hlavních křesťanských principů je, že bohatství by mělo být použito ke zmírnění utrpení a chudoby a že peněžní fondy církve jsou zde konkrétně z tohoto důvodu.
+Ústřední autorita církve byla v Římě více než tisíc let a tato koncentrace moci a peněz vedla mnohé k otázce, zda byl tento princip uspokojován.
+Brzy po vypuknutí nepřátelských akcí zahájila Británie námořní blokádu Německa.
+Tato strategie se ukázala jako účinná, odřízla životně důležité vojenské a civilní dodávky, ačkoli tato blokáda porušila obecně přijímané mezinárodní právo kodifikovaným několika mezinárodními dohodami posledních dvou století.
+Británie těžila mezinárodní vody, aby zabránila jakýmkoli lodím vplující do celých útrob oceánu, což způsobilo nebezpečí i neutrálním lodím.
+Vzhledem k tomu, že na tuto taktiku došlo k omezené reakci, Německo očekávalo podobnou reakci na svou neomezenou ponorkovou válku.
+Během dvacátých let 20. století byly převládajícími postoji většiny občanů a národů pacifismu a izolace.
+Poté, co národy viděly hrůzy a zvěrstva války během první světové války, chtěly se v budoucnu znovu vyhnout takové situaci.
+V roce 1884 se Tesla přestěhovala do Spojených států amerických, aby přijala práci u Edisonovy společnosti v New Yorku.
+Přijel do USA se svými čtyřmi centy na jméno, knihou poezie a doporučujícím dopisem od Charlese Batchelora (jeho manažera v jeho předchozím zaměstnání) Thomasovi Edisonovi.
+Starověká Čína měla jedinečný způsob, jak ukázat různá časová období; každá fáze Číny nebo každá rodina, která byla u moci, byla výraznou dynastií.
+Také mezi každou dynastií byl nestabilní věk rozdělených provincií. Nejznámější z těchto období byla epocha Tří království, která se konala 60 let mezi Hanem a Jinskou dynastií.
+Během těchto období se konala zuřivá válka mezi mnoha šlechticy bojujícími o trůn.
+Tři království byla jednou z nejkrvavějších období ve starověké čínské historii, kdy tisíce lidí zemřelo, když bojovaly, aby seděly na nejvyšším místě ve velkém paláci v Xi'anu.
+Existuje mnoho sociálních a politických účinků, jako je použití metrického systému, posun od absolutismu k republikanismu, nacionalismu a přesvědčení, že země patří lidem, ne jedinému vládci.
+Také po revoluci okupace byly otevřeny pro všechny mužské žadatele umožňující nejambicióznější a nejúspěšnější uspět.
+Totéž platí pro armádu, protože místo toho, aby armádní žebříčky byly založeny na třídě, byly nyní založeny na kalibru.
+Francouzská revoluce také inspirovala mnoho dalších potlačených dělnických lidí z jiných zemí, aby zahájili své vlastní revoluce.
+Mohamed se hluboce zajímal o záležitosti mimo tento světský život. On častovat jeskyni, která se stala známou jako „Hira“ na hoře „Noor“ (světlo) pro rozjímání.
+On se mástí sám, který přežil časy, dává velmi živý obraz Mohamedových duchovních sklonů.
+Posahá na vrcholu jedné z hor severně od Mekky, jeskyně je zcela izolována od zbytku světa.
+Ve skutečnosti není vůbec snadné najít, i když člověk věděl, že existuje. Jakmile jste uvnitř jeskyně, je to naprostá izolace.
+Nic jiného než jasné, krásné oblohy nad a mnoho okolních hor. Velmi málo z tohoto světa je vidět nebo slyšet zevnitř jeskyně.
+Velká pyramida v Gíze je jediným ze sedmi divů, které stojí dodnes.
+Postaven Egypťany v roce třetího století před naším letopočtem, Velká pyramida je jedním z mnoha velkých pyramidových staveb postavených na počest mrtvého faraona.
+Náhorní plošina Gíza, neboli „Giza Necropolis“ v egyptském Údolí mrtvých, obsahuje několik pyramid (je z nichž největší je velká pyramida), několik malých hrobek, několik chrámů a velká sfinga.
+Velká pyramida byla vytvořena na počest faraona Chufua a mnoho menších pyramid, hrobek a chrámů bylo postaveno na počest Khufuových manželek a rodinných příslušníků.
+Značka "up luk" vypadá jako V a "dolní luk" jako základ nebo čtverec, který postrádá spodní stranu.
+Nahoře znamená, že byste měli začít na špičce a tlačit na příď a dolů znamená, že byste měli začít u žáby (což je místo, kde vaše ruka drží luk) a vytáhnout luk.
+Up-bow obvykle generuje měkčí zvuk, zatímco down-bow je silnější a asertivnější.
+Neváhejte na tužku ve svých vlastních znaménech, ale nezapomeňte, že tištěné luk jsou tam z hudebního důvodu, takže by měly být obvykle respektovány.
+Vyděšený král Ludvík XVI., královna Marie Antoinetta jejich dvě malé děti (11letá Marie Terezie a čtyřletá Louis-Charles) a králova sestra, madam Elizabeth, 6. října 1789 byly nuceny zpět do Paříže z Versailles davem tržních žen.
+V kočárku cestovali zpět do Paříže obklopeni davem lidí, kteří křičeli a křičeli výhrůžky králi a královně.
+Dav lidí přinutil krále a královnu, aby měli okna kočáru dokořán.
+V jednu chvíli mával člen davu hlavou královské gardy zabité ve Versailles před vyděšenou královnou.
+Válečné výdaje amerického imperialismu při dobytí Filipín byly hrazeny samotným filipínským lidem.
+Byli nuceni platit daně americkému koloniálnímu režimu, aby uhradili hlavní část výdajů a úroky z dluhopisů plovoucích ve jménu filipínské vlády prostřednictvím bankovních domů na Wall Street.
+Samozřejmě, že superzisk odvozené z vleklého vykořisťování filipínského lidu by představovaly základní zisky amerického imperialismu.
+Chcete-li porozumět templářům, musíte pochopit kontext, který podnítil vytvoření řádu.
+Věk, kdy se události konaly, je běžně označován jako ve středním věku období evropských dějin v 11., 12. a 13. století (AD 1000-11300).
+Ve středověku předcházely raném středověku a následovaném pozdním středověkem, který podle konvencí končí kolem roku 1500.
+Technologický determinismus je termín, který zahrnuje širokou škálu idejí v praxi, od technologického tlačiště nebo technologického imperativu až po striktní pocit, že lidský osud je řízen základní logikou spojenou s vědeckými zákony a jejich projevem v technologii.
+Většina interpretací technologického determinismu sdílí dvě obecné myšlenky: že samotný vývoj technologie následuje cestu z velké části mimo kulturní nebo politický vliv a že technologie má „účinnosti“ na společnostech, které jsou spíše inherentní, spíše než sociálně podmíněné.
+Například lze říci, že automobilka nutně vede k rozvoji silnic.
+Celostátní silniční síť však není ekonomicky životaschopná pouze pro několik automobilů, takže jsou vyvíjeny nové výrobní metody ke snížení nákladů na vlastnictví automobilů.
+Vlastnictví hmotnostních automobilů také vede k vyššímu výskytu nehod na silnicích, což vede k vynálezu nových technik ve zdravotnictví pro opravu poškozených těl.
+Romantikismus měl velký prvek kulturního determinismu, který byl čerpán od spisovatelů jako Goethe, Fichte a Schlegel.
+V kontextu romantismu, geografie formované jednotlivce, a v průběhu času zvyky a kultura související s touto geografie vznikla, a ty, které byly v souladu s místem společnosti, byly lepší než svévolně zavedené zákony.
+Jak je Paříž známá jako módní hlavní město současného světa, byla Konstantinopol považována za hlavní město módy feudální Evropy.
+Jeho proslulost pro to, že je epicentrem luxusu, začalo asi v roce 400 n.l. a trvalo až do roku asi 1100 n. l.
+Jeho status se během dvanáctého století snížil především kvůli tomu, že křižáci se vrátili s dary, jako jsou hedvábí a koření, které byly oceněny více než to, co nabídly byzantské trhy.
+V té době byl uskutečněn převod titulu Fashion Capital z Konstantinopole do Paříže.
+Gotický styl vyvrcholil v období mezi 10. - 11. stoletím a 14. stoletím.
 Na začátku byly šaty silně ovlivněny byzantskou kulturou na východě.
-Nicméně, kvůli pomalým komunikačním kanálům, styly na západě by mohly zaostávat o 25 až 30 let.
-Ke konci středověku se západní Evropa začala rozvíjet svůj vlastní styl. Jeden z největších vývoj v té době v důsledku křížových výprav začal lidé používat knoflíky k upevnění oblečení.
-Zemědělství s dodávkou je zemědělství, které se provádí za účelem výroby dostatečného množství potravin, které uspokojí jen potřeby zemědělce a jeho rodiny.
-Zemědělství s podáním je jednoduchý, často ekologický systém využívající zachráněné semeno původem z např. ivigionu v kombinaci s střídáním plodin nebo jinými relativně jednoduchými technikami pro maximalizaci výnosu.
-Historicky se většina zemědělců angažovala v samozásobitelském zemědělství a v mnoha rozvojových zemích tomu stále je.
-Subkultura spojují podobně smýšlející jedince, kteří se cítí opomíjeni společenskými standardy a umožňují jim rozvíjet si pocit identity.
-Subkultury mohou být výrazné díky věku, etnickému původu, třídě, umístění a/nebo pohlaví členů.
-Vlastnosti, které určují subkulturu jako odlišnou, mohou být jazykové, estetické, náboženské, politické, sexuální, geografické nebo kombinace faktorů.
-Členové subkultury často signalizují své členství osobitým a symbolickým použitím stylu, který zahrnuje módu, manýristy a argóny.
-Jednou z nejběžnějších metod používaných k ilustraci důležitosti socializace je čerpat z několika nešťastných případů dětí, které byly zanedbávání, neštěstím nebo úmyslně zneužiti, ne socializovány dospělými, když vyrůstali.
-Takovým dětem se říká „chvěj“ nebo divoká. Některé divoké děti byly omezeny lidmi (obvykle jejich vlastními rodiči); v některých případech se toto dítě opustilo kvůli tomu, že rodiče odmítli vážné duševní nebo fyzické postižení dítěte.
-Feralské děti mohly mít těžké zneužívání nebo trauma dítěte před opuštěním nebo útěkem.
-Jiní údajně byla vychována zvířaty; někteří prý žili ve volné přírodě sami.
-Když je divoké dítě zcela vychovává nelidská zvířata, projevuje chování (v rámci fyzických limitů) téměř zcela podobné chování konkrétnímu pečovatelskému zvířete, jako je jeho strach z člověka nebo lhostejnost k lidem.
-Zatímco učení založené na projektech by mělo usnadňovat a zajímavit učení, lešení jde o krok dál.
-Lešení není metodou učení, ale spíše pomocí, která poskytuje podporu jednotlivcům, kterým se podstupují novou studijní zkušenost, jako je použití nového počítačového programu nebo zahájení nového projektu.
-Lešení mohou být virtuální i skutečné, jinými slovy, učitel je formou lešení, ale stejně tak malý paperclip man v Microsoft Office.
-Virtual Scaffolds jsou internalizovány v softwaru a mají zpochybňovat, vyzvat a vysvětlovat postupy, které mohly být náročné pro studenta zvládnout sám.
-Děti jsou umístěny do Foster Care z různých důvodů, které sahají od zanedbávání, přes zneužívání, a dokonce až po vydírání.
-Žádné dítě by nikdy nemělo vyrůstat v prostředí, které není pečující, starostlivé a poučné, ale dělá.
-Považujeme systém péče o Foster za bezpečnou zónu pro tyto děti.
+Nicméně, vzhledem k pomalým komunikačním kanálům, styly na západě by mohly zaostávat o 25 až 30 let.
+Na konci středověku západní Evropa začala rozvíjet svůj vlastní styl. jeden z největších vývojů té doby v důsledku křížových výprav lidí začal používat tlačítka k upevnění oblečení.
+Subsperační zemědělství je zemědělství prováděné pro výrobu dostatečného množství potravin, aby vyhovovalo potřebám zemědělce a jeho rodiny.
+Subsperantské zemědělství je jednoduchý, často organický systém využívající zachráněné osivo pocházející z ekoregionu v kombinaci s rotací plodin nebo jinými relativně jednoduchými technikami pro maximalizaci výnosu.
+Historicky se většina zemědělců zabývala samozásobitelským zemědělstvím a to je stále případ v mnoha rozvojových zemích.
+Subkultury sdružují podobně smýšlející jedince, kteří se cítí opomíjeni společenskými standardy a umožňují jim rozvíjet smysl pro identitu.
+Subkultury mohou být charakteristické vzhledem k věku, etniku, třídě, umístění a/nebo pohlaví členů.
+Vlastnosti, které určují subkulturu tak odlišné, mohou být jazykové, estetické, náboženské, politické, sexuální, geografické nebo kombinace faktorů.
+Členové subkultury často signalizují své členství prostřednictvím výrazného a symbolického použití stylu, který zahrnuje módu, manýry a argoty.
+Jednou z nejběžnějších metod používaných k ilustraci je čerpat z několika nešťastných případů dětí, které byly, prostřednictvím zanedbávání, neštěstí nebo úmyslného zneužívání, nespolečenštěny dospělými, když vyrůstaly.
+Těmto dětem se říká "divoké" nebo divoké. Některé divoké děti byly uvězněny lidmi (obvykle jejich vlastními rodiči); v některých případech bylo toto opuštění dítěte způsobeno odmítnutím rodičů o vážném intelektuálním nebo fyzickém postižení dítěte.
+Ferální děti mohly zažít závažné zneužívání nebo trauma dítěte před tím, než byly opuštěny nebo utekly.
+Jiní jsou údajně vychováváni zvířaty; někteří údajně žili v přírodě na vlastní pěst.
+Když zcela vychováváni nelidskými zvířaty, divoké dítě vykazuje chování (v rámci fyzických limitů) téměř zcela podobné těm, které jsou konkrétního pečovatelského/zvířecího masa, jako je jeho strach nebo lhostejnost k lidem.
+Zatímco učení založené na projektech by mělo usnadnit a zajímavější, lešení jde o krok za ním.
+Scuffolding není metodou učení, ale spíše pomůckou, která poskytuje podporu jednotlivcům, kteří procházejí novou vzdělávací zkušeností, jako je využití nového počítačového programu nebo zahájení nového projektu.
+Lešení mohou být jak virtuální, tak skutečné, jinými slovy, učitel je forma lešení, ale stejně tak malý papírová sponka v Microsoft Office.
+Virtuální Scafolds jsou internalizovány v softwaru a mají zpochybňovat, vyzvat a vysvětlovat postupy, které mohou být náročné pro studenta zvládnout sám.
+Děti jsou umístěny v pěstounské péči z různých důvodů, které sahají od zanedbávání, ke zneužívání a dokonce i vydírání.
+Žádné dítě by nikdy nemělo vyrůstat v prostředí, které není výchařstvím, péčí a vzděláním, ale dělá.
+Vnímáme systém pěstounské péče jako bezpečnostní zónu pro tyto děti.
 Náš systém pěstounské péče má poskytovat bezpečné domovy, milující pečovatele, stabilní vzdělání a spolehlivou zdravotní péči.
-Fosterova péče má poskytnout všechny potřeby, které chyběly v domě, ze kterého byly předtím odebrán.
-Internet kombinuje prvky masové i mezilidské komunikace.
-Výrazné vlastnosti internetu vedou k dodatečným rozměrům, pokud jde o použití a naplasu.
-Například „učení“ a „socializace“ jsou navrhovány jako důležitá motivace pro používání internetu (James et al., 1995).
-„Osobní zapojení“ a „pokračující vztahy“ byly také označeny jako nové motivační aspekty Eighmey a McCord (1998), když zkoumali reakce publika na webové stránky.
-Použití videozáznamu vedlo k důležitým objevům v interpretaci mikrojagresí, pohybů obličeje, které trvají několik milisekund.
-Zejména se tvrdí, že lze zjistit, zda člověk lže, tak, že mikro-výkresně správně vykládá.
-Oliver Sacks ve své listině Prezidentova řeč naznačil, jak jsou lidé, kteří nejsou schopni pochopit řeč kvůli poškození mozku, přesto schopni přesně posoudit upřímnost.
-Dokonce naznačuje, že takové schopnosti v interpretaci lidského chování mohou být sdíleny zvířaty, jako jsou domácí psi.
-Výzkum z dvacátého století ukázal, že existují dva ságy genetické variace: skryté a exprimované.
-Mutace přidává nové genetické variace a výběr ji odstraňuje z části expresní variace.
-Segregace a rekombinace míchání kolísání mezi oběma jezírky s každou generací.
-Venku na savaně je těžké pro primáta s trávicím systémem, jako je ten u lidí, aby se uspokojily jeho amino-kykypoli z dostupných rostlinných zdrojů.
-Navíc selhání má vážné důsledky: deprese růstu, podvýživa a nakonec i smrt.
-Nejpromožnějšími rostlinnými zdroji by byly bílkoviny přístupné v listech a luštěninách, ale pro primáty, jako jsme my, je těžké trávit je, pokud nejsou uvařeni.
-Oproti tomu živočišné potraviny (kromě ryb, termitů, vajec) jsou nejen snadno stravitelné, ale poskytují vysoce tricitné proteiny, které obsahují všechny esenciální aminokyseliny.
-Když se to vezme kolem, neměli bychom být překvapeni, kdyby naši vlastní předkové vyřešili svůj „proteinový problém“ v poněkud podobném, jakým šimpanzi dnes dělají savany.
-Přerušení spánku je proces objektivně probouzející se během normálního období spánku a usnutí o chvíli později (10–60 minut).
-To lze snadno provést pomocí relativně tichého budíku, který vás přivede do vědomí, aniž byste se probudili.
-Pokud zjistíte, že jste znovu nastavili hodiny ve spánku, může být umístěn na druhé straně pokoje, což vás nutí vstát z postele a vypnout ji.
-Další možnosti založené na biorhymenci zahrnují před spaním pití hodně tekutin (zejména vody nebo čaje, známý diuretikum) a nutí ho vstávat do močí.
-Množství vnitřního klidu, který člověk má, přesně koreluje s množstvím napětí v těle i v duchu.
-Tím nižším napětím je, tím pozitivnější je životní síla. Každý člověk má potenciál najít absolutní klid a spokojenost.
-Každý může dosáhnout osvícení. Jediná věc, která stojí v cestě tomuto cíli, je naše vlastní napětí a negativita.
-Tibetský buddhismus je založen na učení Buddhy, ale byl rozšířen mahayánovou cestou lásky a spoustou technik z indické jógy.
-V zásadě je tibetský buddhismus velmi prostý. Skládá se z Kundaliniho jógy, meditace a cesty všeobjímající lásky.
-S Kundalini Yoga je Kundalini energie (energetika osvícení) probuzena jógou, dechovými cviky, mantrasami a vizualzemi.
-Středem tibetské meditace je jóga Deity. Prostřednictvím vizualizace různých božstev jsou energetické kanály vyčištěny, aktivují se čakry a je vytvořeno osvícenské vědomí.
-Německo bylo ve druhé světové válce společným nepřítelem, což vedlo ke spolupráci mezi SSSR a USA. S koncem války vedly střety systému, proces a kultury k tomu, že se země nepohodly.
-Po dvou letech po válce byli bývalí spojenci nepřátelé a studená válka začala.
-Následovalo by to dalších 40 let a bojovaly se o skutečné, zástupné armády, na bojištích od Afriky po Asii, v Afghánistánu, na Kubě a na mnoha dalších místech.
-Do 17. září 1939 už byla polská obrana prolomena a jedinou nadějí bylo ustupovat a reorganizovat se podél rumunského předmostí.
-Tyto plány se však téměř přes noc stali zastaralými, když se do země sestoupilo přes 800 000 vojáků ze sovětské armády Unie a vytvořilo běloruské a ukrajinské fronty poté, co vniklo na východní oblasti Polska v rozporu s mírovou smlouvou Rižan, Sovětsko-polským paktem o lokusu a dalšími mezinárodními smlouvami, jak bilaterálními, tak multilaterálními smlouvami.
-Používání lodí k přepravě zboží je zdaleka nejefektivnějším způsobem, jak přesočit velké množství lidí a zboží přes oceány.
-Úkolem námořnictva bylo tradičně zajistit, aby vaše země udržovala schopnost pohybovat svůj lid a zboží, a zároveň zasahovat do schopnosti nepřítele pohybovat svým lidem a zbožím.
-Jedním z nejpozoruhodnějších nedávných příkladů to byla severoatlantická kampaň ve druhé světové válce. Američané se snažili přesívat muže a materiály přes Atlantický oceán, aby pomohli Británii.
-Německý námořník se zároveň, který používal hlavně ponorky na U-boje, snažil tuto dopravu zastavit.
-Kdyby Spojenci neuspěli, Německo by pravděpodobně dokázalo dobýt Británii jako zbytek Evropy.
-Zdá se, že kozy byly prohlášeny zhruba před 10 000 lety v íránských pohoří Zagros.
-Starověké kultury a kmeny si je začaly nechávat pro snadný přístup k mléku, vlasům, masu a kožicím.
-Domácí kozy byly obvykle drženy ve stádech, která se bloudí po kopcích nebo jiných pastvinách, často se starají o děti nebo dospívající, podobně jako v širším známém pastýři. Tyto způsoby stádování se používají dodnes.
-V Anglii byly postaveny ještě šestého století.
-Přestože se vagonové dráhy skládaly pouze z paralelních prken se dřevem, dovolili koním, aby je tahali za sebou, aby dosáhli větší rychlosti a zatahovali větší náklad než na o něco drsnějších silnicích dne.
-Crossties byly zavedeny poměrně brzy, aby udržely koleje na místě. Postupně si však bylo uvědomováno, že stopy by byly zčestnější, kdyby měly na vrcholu lajny se zilo.
-Stalo se to běžnou praxí, ale železolo způsobilo další opotřebení dřevěných koleček.
-Dřevěná kola nakonec nahradila železná kola. V roce 1767 byly představeny první plže železné kolejnice.
-První známá přeprava byla chůze, lidé se před dvěma miliony let vydali vzpřímeně za sebou se vznášením Homo Erectus (což znamená vzpřímený muž).
-Jejich předchůdci Australopithecus se nešli na svorně.
-Bipedal specializace se nacházejí ve fosílie Australopithecus před 4,2-3,9 miliony let, i když Sahelanthropus mohl jít po dvou nohách již před sedmi miliony let.
-Můžeme začít žít vstřícnější k životnímu prostředí, můžeme se připojit k ekologickému hnutí a můžeme být dokonce aktivisty, abychom v určité míře snížili budoucí utrpení.
-Je to v mnoha případech jako symptomatická léčba. Pokud však nechceme jen dočasné řešení, pak bychom měli najít kořen problémů a měli bychom je deaktivovat.
-Je dost zřejmé, že se svět změnil mnoho kvůli vědeckému a technologickému pokroku lidstva a problémy se z větších změnily kvůli přelidnění a extravagantnímu životnímu stylu lidstva.
-Po jeho přijetí Kongresem 4. července byl ručně psaný návrh podepsaný prezidentem Kongresu Johnem Hancockem a ministrem Charlesem Thomsonem poslán o několik bloků dál do tiskárny Johna Dunlapa.
-Během noci bylo vyrobeno 150 až 200 kopií, nyní známé jako „Dunlap broadsides“.
-První veřejné čtení dokumentu bylo Johnem Nixonem ve dvoře Independence Hall 8. července.
-Jeden byl poslán 6. července do George Washington, který ho 9. července předal svým vojákům v New Yorku. Kopie se dostala do Londýna 10. srpna.
-25 Dunlapových salónů, o nichž je stále známo, že existují, jsou nejstaršími dochovanými kopiemi dokumentu. Původní ručně psaná kopie se ještě nezachovala.
-Mnoho paleontologů dnes věří, že jedna skupina dinosaurů přežila a je dnes naživu. Říkáme jim ptáci.
-Mnoho lidí o nich nemyslí jako na dinosaury, protože mají peří a umí létat.
+Pěstounská péče by měla poskytnout všechny potřeby, které chyběly v domě, ze kterého byly dříve odebrány.
+Internet kombinuje prvky masové i interpersonální komunikace.
+Odlišné vlastnosti internetu vedou k dalším rozměrům z hlediska přístupu k použití a uspokojení.
+Například „učení“ a „socializace“ jsou považovány za důležitou motivaci pro používání internetu (James et al., 1995).
+"Osobní zapojení" a "pokračující vztahy" byly také identifikovány jako nové motivační aspekty Eighmeyho a McCorda (1998), když zkoumali reakce publika na webové stránky.
+Použití videozáznamu vedlo k důležitým objevům v interpretaci mikro-vyjádření, pohybů obličeje, které trvají několik milisekund.
+Zejména se tvrdí, že lze zjistit, zda člověk lže tím, že správně interpretuje mikrovýrazy.
+Oliver Sacks ve svém článku Prezidentův projev ukázal, jak lidé, kteří nejsou schopni pochopit řeč kvůli poškození mozku, jsou nicméně schopni přesně posoudit upřímnost.
+Dokonce naznačuje, že takové schopnosti při interpretaci lidského chování mohou sdílet zvířata, jako jsou domácí psi.
+Výzkum dvacátého století ukázal, že existují dva kalíže genetické variace: skryté a vyjádřené.
+Mutace přidává novou genetickou variabilitu a výběr ji odstraňuje z bazénu vyjádřených variací.
+Segregace a rekombinace míchání variace tam a zpět mezi oběma bazény s každou generací.
+Na savaně je těžké pro primáta s trávicím systémem, jako je ten člověk, aby uspokojil své požadavky na aminokyseliny z dostupných rostlinných zdrojů.
+Navíc to má vážné důsledky: růstová deprese, podvýživa a nakonec i smrt.
+Nejvolnějšími rostlinnými zdroji by byly proteiny dostupné v listech a výkresech, ale ty jsou pro primáty, jako jsme my, těžko tráví, pokud nejsou vařeni.
+Naproti tomu živočišné potraviny (mravenci, termiti, vejce) jsou nejen snadno stravitelné, ale poskytují vysoce kvantové proteiny, které obsahují všechny esenciální aminokyseliny.
+Vezmeme-li v úvahu všechny věci, neměli bychom být překvapeni, kdybychom naši vlastní předkové vyřešili svůj „problém s proteinem“ poněkud stejným způsobem, jako to dnes dělají šimpanzi.
+Přerušení spánku je proces účelného probuzení během normálního spánku a usnutí o chvíli později (10-60 minut).
+To lze snadno provést pomocí relativně tichého poplašného času, který vás přivede k vědomí, aniž byste vás plně probudili.
+Pokud zjistíte, že resetujete hodiny ve spánku, může být umístěn na druhé straně místnosti, což vás nutí vstát z postele, abyste ji vypnuli.
+Jiné možnosti na bázi biorytmu zahrnují pití velkého množství tekutin (zejména vody nebo čaje, známého diuretika) před spaním, což nutí jeden, aby se dostal na močení.
+Množství vnitřního míru, které člověk má, koreluje v opačném množství napětí v těle a duchu.
+Tím nižším napětím, tím pozitivnější je přítomnost životní síly. Každý člověk má potenciál najít absolutní mír a spokojenost.
+Každý může dosáhnout osvícení. Jedinou věcí, která stojí v cestě tomuto cíli, je naše vlastní napětí a negativita.
+Tibetský buddhismus je založen na Buddhově učení, ale byl rozšířen o mahájskou cestu lásky a mnoha technikami z indické jógy.
+V zásadě je tibetský buddhismus velmi jednoduchý. Skládá se z Kundaliní jógy, meditace a cesty všeobjímající lásky.
+S Kundalini jógou je energie Kundalini (energie osvícenství) probuzena jógovými postoji, dýchacími cvičeními, manthrami a vizualizacemi.
+Středem tibetské meditace je jednotná jóga. Vizualizace různých božstev jsou energetické kanály vyčištěny, čakry jsou aktivovány a osvícenské vědomí je vytvořeno.
+Německo bylo ve druhé světové válce společným nepřítelem, což vedlo ke spolupráci mezi SSSR a USA. Po skončení války vedly střety systému, procesů a kultury, které země vypadly.
+Po dvou letech konce války byli bývalí spojenci nepřátelé a začala studená válka.
+To mělo trvat dalších 40 let a bude bojovat za skutečné, zástupné armády, na bojištích od Afriky po Asii, v Afghánistánu, na Kubě a na mnoha dalších místech.
+Do 17. září 1939 byla polská obrana již přerušena a jedinou nadějí bylo ustoupit a reorganizovat podél rumunského předmostí.
+Tyto plány však byly téměř přes noc zastaralé, když více než 800 000 vojáků ze sovětské Rudé armády vstoupilo a vytvořilo běloruskou a ukrajinskou frontu poté, co napadly východní regiony Polska v rozporu s mírovou smlouvou Riga, sovětsko-polským paktem o neútočení a dalšími mezinárodními smlouvami, a to jak bilaterální, tak multilaterálními.
+Použití lodí k přepravě zboží je zdaleka nejúčinnějším způsobem, jak přesunout velké množství lidí a zboží přes oceány.
+Úkolem námořnictva bylo tradičně zajistit, aby vaše země udržovala schopnost přesouvat své lidi a zboží, zatímco ve stejné době zasahovala do schopnosti vašeho nepřítele přesunout svůj lid a zboží.
+Jedním z nejpozoruhodnějších nedávných příkladů této byly severoatlantická kampaň druhé světové války. Američané se snažili přesunout muže a materiály přes Atlantický oceán, aby pomohli Británii.
+Ve stejné době se německé námořnictvo, využívající hlavně ponorky, snažilo zastavit tento provoz.
+Kdyby Spojenci selhali, Německo by pravděpodobně dokázalo dobýt Británii, stejně jako zbytek Evropy.
+Zdá se, že kozy byly poprvé domestikovány zhruba před 10 000 lety v íránských horách Zagros.
+Starověké kultury a kmeny je začaly udržovat pro snadný přístup k mléku, vlasům, masem a kůžím.
+Domácí kozy byly obecně uchovávány ve stádech, která putovala na kopcích nebo jiných pastvinách, často ošetřených koženými, kteří byli často dětmi nebo dospívajícími, podobně jako všeobecně známým pastýřem. Tyto metody pastení se používají dodnes.
+Wagonways byly postaveny v Anglii již v 16. století.
+Ačkoli se vagóny pouze skládaly z paralelních prken dřeva, umožnily koním, kteří je táhli, aby dosáhli větších rychlostí a táhli větší zatížení než na o něco více drsných silnicích dne.
+Křížové oblasti byly zavedeny poměrně brzy, aby udržely stopy na místě. Postupně však bylo zjištěno, že tratě by byly účinnější, kdyby měly na vrcholu špičku železa.
+To se stalo běžnou praxí, ale železo způsobilo více opotřebení na dřevěných kolech vozů.
+Dřevěná kola byla nakonec nahrazena železnými koly. V roce 1767 byly zavedeny první plnohlé železiny.
+První známá přeprava byla chůze, lidé začali chodit vzpřímeně před dvěma miliony let se vznikem Homo erektus (střednědý vzpřímený muž).
+Jejich předchůdci, Australopithecus nechodil vzpřímeně vzhůru nohama.
+Bipedální specializace se nacházejí ve fosiliích Australopiteku z doby před 4,2-3,9 miliony let, ačkoli Sahelantropus se mohl pohybovat po dvou nohách již před sedmi miliony let.
+Můžeme začít žít přátelštěji k životnímu prostředí, můžeme se připojit k hnutí za životní prostředí a můžeme být dokonce i aktivisty, abychom snížili budoucí utrpení do určité míry.
+To je v mnoha případech jako symptomatická léčba. Pokud však nechceme jen dočasné řešení, měli bychom najít příčinu problémů a měli bychom je deaktivovat.
+Je zřejmé, že svět se hodně změnil kvůli vědeckému a technologickému pokroku lidstva a problémy se staly většími kvůli přelidnění a extravagantnímu životnímu stylu lidstva.
+Po jeho přijetí Kongresem dne 4. července, ručně psaný návrh podepsaný prezidentem Kongresu John Hancock a tajemník Charles Thomson byl pak poslán několik bloků do tiskárny John Dunlap .
+Během noci bylo vyrobeno 150 až 200 kopií, nyní známé jako "Dunlap širokoúhly".
+První veřejné čtení dokumentu bylo od Johna Nixona v představenstvu Independence Hall 8. července.
+Jeden z nich byl poslán do George Washington 6. července, který ho 9. července přečetl svým jednotkám v New Yorku. Kopie dorazila do Londýna 10. srpna.
+25 Dunlap širokoúhlý již známý, že existuje je nejstarší dochovaný kopií dokumentu. Původní ručně psaná kopie nepřežila.
+Mnoho paleontologů dnes věří, že jedna skupina dinosaurů přežila a dnes žije. Říkáme jim ptáci.
+Mnoho lidí o nich nepřemýšlí jako o dinosaurech, protože mají peří a umí létat.
 Ale na ptácích je spousta věcí, které stále vypadají jako dinosaurus.
-Mají nohy s šupinami a drápy, kladou vejce a chodí po dvou zadních nohou jako T-Rex.
-Prakticky všechny dnes používané počítače jsou založeny na manipulaci s informacemi, které jsou kódovány ve formě binárních čísel.
-Bliniové číslo může mít pouze jednu ze dvou hodnot, tj. 0 nebo 1, a tato čísla jsou označována jako binární číslice – nebo bity, pro použití počítačového žargonu.
-Vnitřní otrava nemusí být okamžitě zjevná. Příznaky, jako je zvracení, jsou dostatečně obecné, že nelze okamžitě stanovit diagnózu.
-Nejlepším ukazatelem vnitřní otravy může být přítomnost otevřené nádoby s léky nebo jedovatými chemikáliemi pro domácnost.
-Zkontrolujte na etiketě konkrétní pokyny k první pomoci pro tento konkrétní jed.
-Termín brouka je používán entomology ve formálním smyslu pro tuto skupinu hmyzu.
-Tento termín je odvozen od prastaré pověsti s Bed-bugs, což jsou hmyz vysoce přizpůsobený parazitaci lidí.
-Jak Assassin-bugs a Bed-bugs jsou nidicolous, přizpůsobené k bydlení v hnízdě nebo bydlení svého hostitele.
-Po celých Spojených státech amerických je přibližně 400 000 známých případů roztrouškové sklerózy (MS), což ji ponechává jako hlavní neurologickou chorobu u mladších dospělých a dospělých středního věku.
-Roztroušená skleróza je onemocnění, které postihuje centrální nervový systém, který se tvoří mozek, mícha a zrakový nerv.
-Výzkum zjistil, že ženy jsou dvakrát více pravděpodobné, že MS než muži.
-Pár se může rozhodnout, že není v jejich nejlepším zájmu, nebo v zájmu jejich dítěte, vychovávat dítě.
-Tyto páry se mohou rozhodnout vytvořit pro své dítě adopční plán.
-V adopci rodiče ukončí rodičovská práva, aby jiný pár mohl být rodičem dítěte.
-Hlavním cílem vědy je zjistit, jak svět pracuje vědeckou metodou. Tato metoda ve skutečnosti vede většinu vědeckého výzkumu.
-Není to však samo o sobě, experimentování, a experiment je test, který se používá k odstranění jedné nebo více možných hypotéz, kladení otázek, a vytváření pozorování také průvodce vědecký výzkum.
-Přírodovědníci a filozofové se zaměřili na klasické texty a zejména na Bibli v latinsky.
-Přijaty byly Aristotellovy názory na všechny záležitosti vědy, včetně psychologie.
-Jak se znalost Řeka zhoršovala, Západ se ocitl odříznut od řeckých filozofických a vědeckých kořenů.
-Mnoho pozorovaných rytmů ve fyziologii a chování často zásadně závisí na přítomnosti endogenních cyklů a jejich produkci biologickými hodinami.
-Periodické rytmy, které nejsou pouze reakcí na vnější periodické podněty, byly zdokumentovány pro většinu živých bytostí, včetně bakterií, hub, rostlin a zvířat.
-Biologické hodiny jsou samoživitelné oscilátory, které budou pokračovat v období volně běžecké jízdy na kole i v nepřítomnosti vnějších podnětů.
-Hersheyův a Chaseův experiment byl jedním z hlavních návrhů, že DNA je genetický materiál.
-Hershey a Chase použili fáchy nebo viry, aby implantovali svou vlastní DNA do bakterie.
-Podnikli dva pokusy označující buď DNA ve fágu radioaktivním fosforem, nebo protein fágem radioaktivním sírou.
-Mutace mohou mít různé účinky v závislosti na typu mutace, významu ovlivněného části genetického materiálu a na tom, zda jsou postižené buňky zárodečnými buňkami.
-Pouze mutace v buňkách zárodečných linií mohou být předány dětem, zatímco mutace jinde mohou způsobit smrt a rakovinu.
-Příroda založená cestovní ruch přitahuje zájemce o návštěvu přírodních oblastí za účelem využití scenérie, včetně rostlinné a živočišné vryně.
-Příklady aktivit na místě zahrnují lov, rybaření, fotografii, pozorování ptáků a návštěv parky a studium informací o ekosystému.
-Příkladem je návštěva, fotografování a učení se o organgatuangangangangs na Borneu.
-Každé ráno lidé nechávají v autech malá venkovská města na své pracoviště a jsou prošvištěni jinými, jejichž pracovní destinací je místo, které právě odjeli.
-V této dynamické dopravní raketoplánu je každý nějak spojen a podporuje dopravní systém založený na soukromých automobilech.
-Věda nyní naznačuje, že toto masivní uhlíkové hospodářství uvolnilo biosféru z jednoho ze svých stabilních států, které v posledních dvou milionech let podporovaly lidskou evoluci.
-Každý se účastní společnosti a používá dopravní systémy. Téměř všichni si stěžují na dopravní systémy.
-V rozvinutých zemích zřídka slyšíte podobnou míru stížností na pokles kvality vody nebo na mosty.
-Proč dopravní systémy vyvolávají takové stížnosti, proč se jim to každodenně nedaří? Jsou dopravní inženýři prostě neschopní? Nebo se děje něco zásadnějšího?
-Dopravní toku je studium pohybu jednotlivých řidičů a vozidel mezi dvěma body a interakcemi, které spolu tvoří.
-Bohužel, studium dopravního toku je obtížné, protože chování řidičů nelze předvídat se stoprocentní jistotou.
-Řidiči se naštěstí chovají v přiměřeně konzistentním dosahu; proto mají dopravní proudy obvykle rozumnou konzistenci a mohou být zhruba reprezentovány matematicky.
-Pro lepší reprezentaci průtoku provozu byly navázány vztahy mezi třemi hlavními vlastnostmi: 1) průtokem, (2) hustotou a 3) rychlostí.
+Mají nohy s vahami a drápy, kladou vajíčka a chodí po svých dvou zadních nohách jako T-Rex.
+Prakticky všechny počítače, které se dnes používají, jsou založeny na manipulaci s informacemi, které jsou kódovány ve formě binárních čísel.
+Binární číslo může mít pouze jednu ze dvou hodnot, tj. 0 nebo 1, a tato čísla jsou označována jako binární číslice - nebo bity, které používají počítačový žargon.
+Vnitřní otrava nemusí být okamžitě zřejmá. Příznaky, jako je zvracení, jsou dostatečně obecné, aby se nedala provést okamžitou diagnózu.
+Nejlepším ukazatelem vnitřní otravy může být přítomnost otevřeného kontejneru s léky nebo toxických chemikálií pro domácnost.
+Zkontrolujte štítek pro konkrétní pokyny první pomoci pro tento konkrétní jed.
+Termín brouk je používán entomology ve formálním smyslu pro tuto skupinu hmyzu.
+Tento termín pochází ze starověké znalosti s štěnicemi, což je hmyz vysoce přizpůsobený parazitům lidí.
+Oba Assassin-bugs a Bed-bugs jsou zlomyslní, přizpůsobené k životu v hnízdě nebo bydlení svého hostitele.
+Ve Spojených státech amerických existuje přibližně 400 000 známých případů roztroušené sklerózy (MS), což je hlavní neurologické onemocnění u mladších a dospělých ve středním věku.
+MS je onemocnění, které postihuje centrální nervový systém, který se skládá z mozku, míchy a optického nervu.
+Výzkum zjistil, že ženy mají dvakrát větší pravděpodobnost, že budou mít MS než muži.
+Pár se může rozhodnout, že není v jejich nejlepším zájmu nebo v zájmu svého dítěte, o výchovu dítěte.
+Tyto páry se mohou rozhodnout pro adopční plán pro své dítě.
+V adopci, porodní rodiče ukončí svá rodičovská práva tak, aby jiný pár mohl dítě vychovávat.
+Hlavním cílem vědy je zjistit, jak svět funguje prostřednictvím vědecké metody. Tato metoda ve skutečnosti vede většinu vědeckého výzkumu.
+Není to však samo, experimentování a experiment je test, který se používá k odstranění jedné nebo více možných hypotéz, kladení otázek a provádění pozorování také vodítko vědeckého výzkumu.
+Přirození a filozofové se zaměřili na klasické texty a zejména na Bibli v latině.
+Přijatým byly Aristotelovy názory na všechny otázky vědy, včetně psychologie.
+Jak znalosti řečtiny klesaly, Západ se ocitl odříznutý od svých řeckých filozofických a vědeckých kořenů.
+Mnoho pozorovaných rytmů ve fyziologii a chování často zásadně závisí na přítomnosti endogenních cyklů a jejich produkci prostřednictvím biologických hodin.
+Periodické rytmy, které nejsou jen reakcemi na vnější periodické podněty, byly zdokumentovány pro většinu živých bytostí, včetně bakterií, hub, rostlin a zvířat.
+Biologické hodiny jsou soběstačné oscilátory, které budou pokračovat v období volně běžícího cyklistiky i v nepřítomnosti vnějších narážkách.
+Experiment Hershey a Chase byl jedním z hlavních náznaků, že DNA je genetickým materiálem.
+Hershey a Chase použili fágy nebo viry, aby implantovali vlastní DNA do bakterie.
+Provedli dva experimenty označující buď DNA ve fágu s radioaktivním fosforem nebo protein fág s radioaktivní sírou.
+Mutace mohou mít různé účinky v závislosti na typu mutace, významu části ovlivněného genetického materiálu a na tom, zda jsou ovlivněny buňky střevní linie.
+Pouze mutace v buňkách v zárodečné linii mohou být přenášeny na děti, zatímco mutace jinde mohou způsobit buněčnou smrt nebo rakovinu.
+Přírodní cestovní ruch přitahuje zájemce o návštěvu přírodních oblastí za účelem využití krajiny, včetně rostlinné a živočišné volně žijících živočichů.
+Příklady on-site aktivit zahrnují lov, rybaření, fotografování, pozorování ptáků a návštěvy parků a studium informací o ekosystému.
+Příkladem je návštěva, fotografování a učení o varhanách na Borneu.
+Každé ráno lidé nechávají malá venkovská města v autech, aby šli na své pracoviště, a jsou předáváni ostatními, jejichž pracovištěm je místo, které právě opustili.
+V tomto dynamickém dopravním kyvadle je každý nějak spojen a podporuje dopravní systém založený na soukromých vozidlech.
+Věda nyní naznačuje, že tato masivní uhlíková ekonomika vytlačila biosféru z jednoho ze svých stabilních stavů, které podporovaly lidskou evoluci v posledních dvou milionech let.
+Každý se podílí na společnosti a používá dopravní systémy. Téměř každý si stěžuje na dopravní systémy.
+Ve vyspělých zemích zřídkakdy slyšíte podobnou úroveň stížností na kvalitu vody nebo mosty klesající.
+Proč dopravní systémy takové stížnosti vyvolávají, proč klesají na denní bázi? Jsou dopravní inženýři jen nekompetentní? Nebo se děje něco zásadnějšího?
+Dopravní tok je studiem pohybu jednotlivých řidičů a vozidel mezi dvěma body a interakcemi, které spolu dělají.
+Bohužel, studium toku dopravy je obtížné, protože chování řidiče nelze předvídat se s jednou stým procentem jistoty.
+Naštěstí mají řidiči tendenci chovat se v přiměřeně konzistentním rozsahu; proto mají dopravní toky tendenci mít nějakou rozumnou konzistenci a mohou být zhruba matematicky zastoupeny.
+Pro lepší reprezentaci toku dopravy byly vytvořeny vztahy mezi třemi hlavními charakteristikami: (1) tok, (2) hustota a (3) rychlost.
 Tyto vztahy pomáhají při plánování, designu a provozu silničních zařízení.
-Hmyz byl prvním zvířátkem, která se vznesla do vzduchu. Jejich schopnost létat jim pomohla snadněji se vyhnout nepřátelům a najít potravu a kamarády efektivněji.
-Většina hmyzu má tu výhodu, že je schopen složit křídla zpět podél těla.
-To jim dává širší spektrum malých míst, kde se mohou před predátory schovat.
-Dnes jediné hmyzo, které nemohou složit křídla, jsou dračí mouchy a jezírka.
-Před tisíci lety muž jménem Aristarchus řekl, že sluneční soustava se pohybuje po Slunci.
-Někteří lidé si mysleli, že má pravdu, ale mnoho lidí věří opaku; že se kolem Země pohybovala Sluneční soustava, včetně Slunce (a dokonce i ostatních hvězd).
-To se zdá rozumné, protože Země nemá pocit, že se pohybuje, že?
-Amazonka je druhá nejdelší a největší řeka na Zemi. Nese více než 8krát více vody než druhá největší řeka.
-Amazonie je také nejširší řekou na Zemi, krát šest mil široký.
-Plných 20 procent vody, která se nenoze z řek planety do oceánů pochází z Amazonie.
-Hlavní řeka Amazonky je 6 387 km (3,980 mil). Sbírá vodu z tisíců menších řek.
-Přestože stavba pyramidy v kameni pokračovala až do konce Starého království, pyramidy v Gíze nikdy nepřekonaly svou velikostí a technickou dokonalostí jejich stavby.
-Nové království starověký Egypťané žasli nad svými předchůdci památek, které byly tehdy více než tisíc let staré.
-Počet obyvatel Vatikánu je kolem 800. Je to nejmenší nezávislá země na světě a země s nejnižším počtem obyvatel.
-Vatikán používá italsky ve svých právních předpisech a oficiální komunikaci.
-Italština je také každodenní jazyk používaný většinou těch, kteří pracují ve státě, zatímco latinsky je často používán v náboženských obřadech.
-Všichni občané Vatikánu jsou římskokatolické.
-Lidé se o základních chemických prvcích, jako je zlato, stříbro a měď ze starověku, protože všechny mohou být objeveny v přírodě v původní podobě a jsou relativně jednoduché těžit primitivními nástroji.
-Aristoteotle, filozof, se dosádal, že se všechno skládá ze směsi jednoho nebo více čtyř prvků. Byli to hlína, voda, vzduch a oheň.
-To se více podobalo čtyřem stavům hmoty (ve stejném pořadí): pevná, kapalná, plynová a plazma, i když také tvrdil, že se mění na nové látky, aby se vytvořily to, co vidíme my.
-Anora jsou v podstatě směsí dvou nebo více kovů. Nezapomeňte, že v periodické tabulce je mnoho prvků.
-Prvky jako vápník a draslík jsou považovány za kovy. Samozřejmě, že jsou tu také kovy jako stříbro a zlato.
+Hmyz byl prvními zvířaty, která se dostala do vzduchu. Jejich schopnost létat jim pomohla snadněji uniknout nepřátelům a najít jídlo a kamarády efektivněji.
+Většina hmyzu má tu výhodu, že je schopna složit křídla zpět po těle.
+To jim dává širší škálu malých míst, aby se před predátory schovali.
+Dnes, jediný hmyz, který nemůže složit zpět křídla, jsou dračí mouchy a muchle.
+Před tisíci lety muž jménem Aristarchus řekl, že sluneční soustava se pohybovala kolem Slunce.
+Někteří lidé si mysleli, že má pravdu, ale mnoho lidí věřilo o opaku; že sluneční soustava se pohybovala kolem Země, včetně Slunce (a dokonce i dalších hvězd).
+Zdá se to rozumné, protože Země nemá pocit, že se pohybuje, že?
+Amazonka je druhá nejdelší a největší řeka na světě. Přenáší více než 8krát více vody než druhá největší řeka.
+Amazonie je také nejširší řekou na Zemi, která je třikrát šest mil široká.
+Celých 20 procent vody, která proudí z řek planety do oceánů, pochází z Amazonie.
+Hlavní řeka Amazonka je 6 387 km (3 980 mil). Sbírá vodu z tisíců menších řek.
+Ačkoli stavba pyramid v kameni pokračovala až do konce Starého království, pyramidy v Gíze nebyly nikdy překonány ve své velikosti a technické dokonalosti jejich konstrukce.
+Staří Egypťané Nové říše žasli nad svými předchůdci památek, které byly tehdy více než tisíc let staré.
+Počet obyvatel Vatikánu je kolem 800. Je to nejmenší nezávislá země na světě a v zemi s nejnižší populací.
+Vatikán používá italštinu ve své legislativě a oficiální komunikaci.
+Italština je také každodenním jazykem používaným většinou těch, kteří pracují ve státě, zatímco latina se často používá při náboženských obřadech.
+Všichni občané Vatikánu jsou římští katolíci.
+Lidé věděli o základních chemických prvcích, jako je zlato, stříbro a měď ze starověku, protože tyto látky mohou být objeveny v přírodě v původní formě a jsou relativně jednoduché těžit primitivními nástroji.
+Aristoteles, filozof, teoretizoval, že vše je tvořeno směsí jednoho nebo více ze čtyř prvků. Byly to země, voda, vzduch a oheň.
+To bylo spíše jako čtyři stavy hmoty (ve stejném pořadí): pevná, kapalná, plynová a plazma, i když také teoretizoval, že se mění na nové látky, aby vytvořily to, co vidíme.
+Slitiny jsou v podstatě směsí dvou nebo více kovů. Nezapomeňte, že v periodické tabulce je mnoho prvků.
+Prvky jako vápník a draslík jsou považovány za kovy. Samozřejmě existují také kovy jako stříbro a zlato.
 Můžete mít také slitiny, které obsahují malé množství nekovových prvků, jako je uhlík.
-Všechno ve vesmíru je tvořeno hmotou. Veškerá hmota je vyrobena z drobných částic zvaných atomy.
-Atomy jsou tak neuvěřitelně malé, že by se z nich biliony mohly vejít do období na konci této věty.
-A tak byla tužka pro mnoho lidí dobrým přítelem, když se objevila.
-Bohužel, jak se objevily novější metody psaní, byla tužka odsunut na nižší postavení a využití.
-Lidé teď píší zprávy na obrazovky počítače, nemusí se přibližovat k ořezávátku.
-Člověk se může jen divit, čím se klávesnice stane, až se objeví něco novějšího.
-Čteňová bomba funguje na principu, že k vytvoření jader s mnoha protony a neutrony je potřeba energie.
-Jako by to bylo válcování těžkého vozíku na kopec. Znovu se rozděluje jádro a uvolní část této energie.
-Některé atomy mají nestabilní nukleáry, což znamená, že mají tendenci se rozlévat s malým nebo žádným šťouchnutím.
-Povrch Měsíce je vyroben z kamení a prachu. Vnější vrstva Měsíce se nazývá kůra.
-Kůrka je asi 70 km silná na blízké straně a 100 km silné na opačné straně.
-Pod celou zemí je tenčí a pod horskou.
-Na bližší straně může být více limézie, protože kůrka je tenčí. Pro lávu bylo jednodušší vystoupit na povrch.
-Tories obsahu se soustřeďují na to, co je lidi tiká nebo se jim to líbí.
-Tyto teorie naznačují, že lidé mají určité potřeby a/nebo touhy, které byly internalizovány do dospělosti.
-Tyto teorie se dívají na to, co je to o některých lidech, kteří je nutí chtít věci, které dělají a co je to ve svém prostředí, přiměje dělat nebo nedělají určité věci.
-Dvě populární teorie obsahu jsou Maslow's Hierarchy of Needs Theory a Hertzberg's Two Factor Theory.
-Obecně řečeno, dva chování se mohou objevit jako manažeři začít vést své bývalé vrstevníky. Jeden konec spektra se snaží zůstat „jedním z kluků“ (nebo holy).
-Tento typ manažera má potíže s činěním nepopulárních rozhodnutí, prováděním disciplinárního řízení, hodnocení výkonnosti, přiřazování odpovědnosti a pohnání lidí k odpovědnosti.
-Na druhém konci spektra se člověk promění v nepoznatelného jedince, který má pocit, že musí změnit všechno, co tým dělá, a udělat si to vlastní.
-Koneckonců, lídr je nakonec zodpovědný za úspěch a neúspěch týmu.
-Toto chování často vede k trhání mezi vůdci a zbytkem týmu.
-Virtuální týmy se drží stejných standardů excelence jako konvenčních týmů, ale jsou tu jemné rozdíly.
-Členové virtuálního týmu často fungují jako kontaktní místo pro svou bezprostřední fyzickou skupinu.
-Často mají větší samostatnost než členové konvenčního týmu, protože jejich týmy se mohou scházet podle různých časových pásem, kterým jejich místní vedení nemusí rozumět.
-Přítomnost skutečného „neviditelného týmu“ (Larson and LaFasto, 1989, p109) je také unikátní složkou virtuálního týmu.
-„Neviditelným týmem“ je manažerský tým, kterému každý z členů hlásí. Neviditelný tým stanovuje standardy pro každého člena.
-Proč by organizace chtěla projít procesem časového náročného založení vzdělávací organizace? Jedním z cílů pro uvedení organizačních studijních konceptů do praxe jsou inovace.
-Když jsou všechny dostupné zdroje efektivně využívány napříč funkčními odděleními organizace, může se projevit kreativita a vynalézavost.
-V důsledku toho může proces organizace, která se snaží překonat překážku, vést k novému inovativnímu procesu, který by sloužil potřebě zákazníka.
-Než bude moci být organizace inovativní, musí vedení vytvořit kulturu inovací, stejně jako sdílené znalosti a organizační učení.
-Anděl (2006), vysvětluje přístup Continuum jako metoda, která se používá k pomoci organizacím dosáhnout vyšší úrovně výkonu.
-Neurobiologické údaje poskytují fyzikální důkaz pro teoretický přístup k zkoumání poznávání. Proto se zužuje oblast výzkumu a činí ji mnohem přesnější.
-Souvislost mezi mozkovou patologií a chováním podporuje vědce v jejich výzkumu.
-Už dlouho je známo, že různé typy poškození mozku, traumata, léze a nádory ovlivňují chování a způsobují změny v některých duševních funkcích.
-Vzestup nových technologií nám umožňuje vidět a zkoumat mozkové struktury a procesy, které jsme dosud nikdy neviděli.
-To nám poskytuje mnoho informací a materiálu pro sestavení simulačních modelů, které nám pomáhají pochopit procesy v naší mysli.
-I když má AI silnou konotaci sci-fi, AI tvoří velmi důležitou obor informatiky, zabývající se chováním, učením se a inteligentní adaptací ve stroji.
-Výzkum v oblasti AI zahrnuje výrobu strojů pro automatizaci úkolů, které vyžadují inteligentní chování.
-Příkladem je kontrola, plánování a plánování, schopnost odpovídat na diagnózy zákazníků a otázky, stejně jako rozpoznávání rukopisu, hlas a tvář.
-Takové věci se staly samostatnými obory, které se zaměřují na poskytování řešení skutečných životních problémů.
-Systém umělé inteligence se dnes často používá v oblasti ekonomie, medicíny, inženýrství a armády, jak bylo vybudováno v několika domácích počítačových a videoherních softwarových aplikacích.
-Polní výlety jsou velkou součástí každé třídy. Docela často by učitelka ráda vzít své studenty místa, kam cesta autobusem nepřipadá v úvahu.
-Technologie nabízí řešení virtuálními exkurzi. Studenti se mohou podívat na muzejní artefakty, navštívit akvárium nebo obdivovat krásné umění, když sedí se svou třídou.
-Sdílení exkurze je také skvělý způsob, jak přemýšlet o cestě a sdílet zkušenosti s budoucími třídami.
-Například každý rok studenti z Bennet School v Severní Karolíně navrhují webové stránky o své cestě do hlavního města státu, každý rok se webové stránky předělávají, ale staré verze jsou průběžně online sloužit jako scrapbook.
-Blogy mohou také pomoci zlepšit psaní studentů. Zatímco studenti často začínají své blogové zkušenosti s nedbalou gramatikou a pravopisem, přítomnost publika to obecně mění.
-Vzhledem k tomu, že studenti jsou často nejkritičtějším publikem, začíná se blogující spisovatel snažit vylepšovat psaní, aby se vyhnul kritice.
-Také bloguje „zneužívá studenty, aby se stali důvtipnějšími o světě kolem sebe.“ Potřeba živit zájem publika inspiruje studenty, aby byli chytří a zajímaví (Toto, 2004).
-Blogování je nástroj, který inspiruje spolupráci a povzbuzuje studenty, aby se učili daleko za tradiční školní den.
-Vhodné používání blogů „může studenty posílit, aby se stali analytičtějšími a kritičtějšími; aktivní odpovědí na internetové materiály mohou studenti definovat své pozice v kontextu cizích spisů a nastiňovat své vlastní perspektivy v konkrétních otázkách (Oravec, 2002).
-Ottawa je okouzlující, dvojjazyčné hlavní město Kanady a nabízí řadu uměleckých galerií a muzeí, které předvádějí minulost a současnost v Kanadě.
-Dál na jih jsou Niagarské vodopády a na severu je domovem nevyužitých přírodních krás Muška a dále.
-Všechny tyto věci a více zdůrazňují Ontario jako to, co je z cizinců považováno za typicky kanadské.
-Rozsáhlé oblasti dále na sever jsou poměrně řídce osídleny a některé je téměř neobydlená divočina.
-Pro srovnání populace, která mnohé překvapuje: v USA žije v USA více Afroameričanů než kanadských občanů.
-Východoafrické ostrovy jsou v Indickém oceánu u východního pobřeží Afriky.
+Vše ve vesmíru je tvořeno hmotou. Veškerá hmota je tvořena malými částicemi nazývanými atomy.
+Atomy jsou tak neuvěřitelně malé, že by se do období této věty vešly biliony lidí.
+Tužka byla pro mnoho lidí dobrým přítelem, když vyšla ven.
+Bohužel, jak se objevily novější metody psaní, tužka byla odsunuta do nižšího postavení a použití.
+Lidé nyní píší zprávy na obrazovkách počítačů, nikdy se nemusí přiblížit k ořezávači.
+Člověk se může jen divit, co se klávesnice stane, když se objeví něco nového.
+Působní štěpná bomba funguje na principu, že k vytvoření jádra s mnoha protony a neutrony.
+Je to něco jako roztažení těžkého vozíku do kopce. Rozdělení jádra znovu nahoru a pak uvolní část této energie.
+Některé atomy mají nestabilní jádra, což znamená, že mají tendenci se rozpadat s malým nebo žádným šťouchnutím.
+Povrch Měsíce je tvořen horninami a prachem. Vnější vrstva Měsíce se nazývá kůra.
+Kůra je asi 70 km silná na blízké straně a 100 km tlustá na odvrácené straně.
+Je tenčí pod marií a silnější pod vysočinami.
+Na blízké straně může být více marie, protože kůra je tenčí. Pro lávu bylo snazší vystoupit na povrch.
+Konstverzace o obsahu jsou zaměřeny na nalezení toho, co způsobuje, že jim lidé klíštěte nebo apeluje.
+Tyto teorie naznačují, že lidé mají určité potřeby a / nebo touhy, které byly internalizovány, když dospívají do dospělosti.
+Tyto teorie se dívají na to, co je to o jistých lidech, kteří je nutí chtít věci, které dělají a co věci v jejich prostředí, je přiměje dělat nebo nedělat určité věci.
+Dvě populární teorie o obsahu jsou Maslowova teorie potřeb a Hertzbergova teorie dvou faktorů.
+Obecně řečeno, dvě chování se mohou objevit, protože manažeři začnou vést své bývalé vrstevníky. Jeden konec spektra se snaží zůstat „jedním z kluků“ (nebo gals).
+Tento typ manažera má potíže s přijímáním nepopulárních rozhodnutí, prováděním disciplinárních opatření, hodnocení výkonu, přiřazení odpovědnosti a pohnání lidí k odpovědnosti.
+Na druhém konci spektra se člověk promění v nerozpoznaného jedince, který má pocit, že on nebo ona musí změnit vše, co tým dělá, a aby to bylo jejich vlastní.
+Koneckonců, vůdce je nakonec zodpovědný za úspěch a neúspěch týmu.
+Toto chování často vede k rozporům mezi lídry a zbytkem týmu.
+Virtuální týmy jsou drženy na stejných standardech excelence jako konvenční týmy, ale existují jemné rozdíly.
+Členové virtuálního týmu často fungují jako kontaktní místo pro jejich bezprostřední fyzickou skupinu.
+Často mají větší autonomii než konvenční členové týmu, protože jejich týmy se mohou setkat v různých časových pásmech, které nemusí být chápány jejich místním vedením.
+Přítomnost skutečného „neviditelného týmu“ (Larson a LaFasto, 1989, p109) je také jedinečnou součástí virtuálního týmu.
+"Neviditelným týmem" je manažerský tým, kterému každý z členů hlásí. Neviditelný tým stanovuje standardy pro každého člena.
+Proč by organizace chtěla projít časově náročným procesem založení vzdělávací organizace? Jedním z cílů uvedení organizačních učebních konceptů do praxe je inovace.
+Když jsou všechny dostupné zdroje efektivně využívány napříč funkčními odděleními organizace, může se stát tvořivost a vynalézavost.
+Výsledkem je, že proces organizace, která spolupracuje na překonání překážky, může vést k novému inovativnímu procesu, který by sloužil potřebám zákazníka.
+Než může být organizace inovativní, musí vedení vytvořit kulturu inovací, stejně jako sdílené znalosti a organizační učení.
+Angel (2006) vysvětluje přístup kontinua jako metodu, která se používá k tomu, aby pomohla organizacím dosáhnout vyšší úrovně výkonu.
+Neurobiologické údaje poskytují fyzikální důkazy o teoretickém přístupu k výzkumu poznání. Proto zužuje oblast výzkumu a činí ji mnohem přesnější.
+Korelace mezi patologií mozku a chováním podporuje vědce v jejich výzkumu.
+Již dlouho je známo, že různé typy poškození mozku, traumat, léze a nádory ovlivňují chování a způsobují změny v některých duševních funkcích.
+Vzestup nových technologií nám umožňuje vidět a zkoumat struktury a procesy mozku, které jsme nikdy předtím neviděli.
+To nám poskytuje spoustu informací a materiálů pro vytvoření simulačních modelů, které nám pomáhají porozumět procesům v naší mysli.
+Ačkoli AI má silný význam sci-fi, AI tvoří velmi důležité odvětví informatiky, zabývající se chováním, učením a inteligentní adaptací ve stroji.
+Výzkum v oblasti umělé inteligence zahrnuje výrobu strojů pro automatizaci úkolů, které vyžadují inteligentní chování.
+Příklady zahrnují kontrolu, plánování a plánování, schopnost odpovídat na diagnózy a otázky zákazníků, stejně jako rozpoznávání rukopisu, hlas a obličej.
+Tyto věci se staly samostatnými disciplínami, které se zaměřují na poskytování řešení skutečných životních problémů.
+Systém AI je nyní často používán v oblasti ekonomie, medicíny, inženýrství a armády, jak bylo postaveno v několika domácích počítačových a videoherních softwarových aplikacích.
+Field výlety jsou velkou součástí každé třídy. Docela často by učitelka ráda vzala své studenty na místa, na která autobusová cesta není možnost.
+Technologie nabízí řešení s virtuálními exkurzemi. Studenti se mohou podívat na muzejní artefakty, navštívit akvárium nebo obdivovat krásné umění, zatímco sedí se svou třídou.
+Sdílení exkurze virtuálně je také skvělý způsob, jak odrážet výlet a sdílet zkušenosti s budoucími třídami.
+Například každý rok studenti z Bennet School v Severní Karolíně navrhují webové stránky o jejich cestě do hlavního města státu, každý rok se webová stránka předělává, ale staré verze jsou uchovávány online, aby sloužily jako výstřižek.
+Blogy mohou také pomoci zlepšit psaní studentů. Zatímco studenti často začínají své zkušenosti s blogem s nedbalou gramatikou a pravopisem, přítomnost publika to obecně mění.
+Vzhledem k tomu, že studenti jsou často nejkritičtějším publikem, spisovatel blogu se začíná snažit zlepšit psaní, aby se zabránilo kritice.
+Také blogování "nucuje studenty, aby se stali důvtipnějšími o světě kolem nich." Potřeba živit zájem publika inspiruje studenty k tomu, aby byli chytří a zajímali (Toto, 2004).
+Blogování je nástroj, který inspiruje spolupráci a povzbuzuje studenty, aby rozšířili učení daleko za tradiční školní den.
+Vhodné používání blogů „může umožnit studentům stát se více analytickými a kritickými; prostřednictvím aktivní reakce na internetové materiály mohou studenti definovat své pozice v kontextu spisů druhých, stejně jako nastínit své vlastní pohledy na konkrétní otázky (Oravec, 2002).
+Ottawa je okouzlující, dvojjazyčné hlavní město Kanady a nabízí řadu uměleckých galerií a muzeí, které představují kanadskou minulost a současnost.
+Dále na jih je Niagarské vodopády a sever je domovem nevyužitých přírodních krás Muskoka a dále.
+Všechny tyto věci a další zdůrazňují Ontario jako to, co je považováno za ryze kanadské outsidery.
+Velké oblasti dále na sever jsou poměrně řídce osídlené a některé jsou téměř neobydlené divočiny.
+Pro srovnání populace, která mnohé překvapuje: V USA žije více Afroameričanů než kanadských občanů.
+Východoafrické ostrovy se nacházejí v Indickém oceánu u východního pobřeží Afriky.
 Madagaskar je zdaleka největší a kontinent sám o sobě, pokud jde o divokou zvěř.
-Většina menších ostrovů jsou nezávislé národy nebo jsou s Francií spojovány a jsou známé jako luxusní plážová letoviska.
-Arabové také přivedli islám do zemí a ve velkém sešli na Komorách a v Mayotte.
-Evropský vliv a kolonialismus začaly v 15. století, když portugalský badatel Vasco da Gama našel Cape Route z Evropy do Indie.
-Na severu je oblast ohraničena Sahelem a na jihu a západě Atlantickým oceánem.
-Ženy: Doporučuje se, aby každá cestovatelka ženy tvrdily, že jsou vdané, bez ohledu na skutečný rodinný stav.
-Je užitečné také nosit prsten (jen ne jeden, který vypadá příliš drahé.
-Ženy by si měly uvědomit, že kulturní rozdíly mohou mít za následek to, co by považovaly za obtěžování, a není neobvyklé, že je třeba je sledovat, popadnout za ruku atd.
-Buďte pevně ponížit muže a nebojte se stát si za svým (kulturní rozdíly nebo ne, to v pořádku!).
-Moderní město Casablanca bylo založeno berberskými rybáři v 10. století př. n. l. a bylo využíváno Féniem, Římany a Merenidovými jako strategický přístav zvaný Anfa.
-Portugalci ji zničili a přestavěli pod názvem Casa Branca, aby ji opustili po zemětřesení v roce 1755.
-Maročanský sultán přestavěn město na Daru l-Badya a dostal jméno Casablanca od španělských obchodníků, kteří tam založili obchodní základny.
-Casablanca je jedním z nejméně zajímavých míst k nakupování v celém Maroku.
-Kolem starého Mediny je snadné najít místa, kde se prodává tradiční marocké zboží, jako jsou tagines, keramika, kožené zboží, vodní dýmka, a celé spektrum geegaws, ale je to vše pro turisty.
-Goma je turistické město Demokratické republiky Kongo na extrémním východě u Rwandy.
-V roce 2002 byla Goma zničena lávou ze sopky Nyiragongo, která pohřbila většinu městských ulic, zejména v centru města.
-Zatímco Goma je přiměřeně v bezpečí, všechny návštěvy mimo Gomě by měly být prozkoumány, aby se porozumělo stavu bojů, které přetrvávají v provincii Severní Kivu.
+Většina menších ostrovů jsou nezávislé národy nebo spojené s Francií a známé jako luxusní plážová letoviska.
+Arabové také přinesli islám do zemí a to trvalo ve velkém stylu v Komorách a Mayotte.
+Evropský vliv a kolonialismus začal v 15. století, kdy portugalský průzkumník Vasco da Gama založil mystní stezku z Evropy do Indie.
+Na severu je oblast ohraničena Sahelem a na jihu a západě Atlantským oceánem.
+Ženy: Doporučuje se, aby všechny ženy cestující řekly, že jsou vdané, bez ohledu na skutečný rodinný stav.
+Je užitečné také nosit prsten (jen ne ten, který vypadá příliš draze.
+Ženy by si měly uvědomit, že kulturní rozdíly mohou vést k tomu, co by považovaly za obtěžování a není neobvyklé, že je třeba sledovat, popadat za ruku atd.
+Buďte pevní při odvracení mužů a nebojte se obstát ve svém postavení (kulturní rozdíly nebo ne, to neznamená, že je to v pořádku!).
+Moderní město Casablana bylo založeno berberskými rybáři v 10. století před naším letopočtem a bylo používáno Féničany, Římany a Merenidy jako strategický přístav s názvem Anfa.
+Portugalec ji zničil a přestavěl pod názvem Casa Branca, jen aby ji opustil po zemětřesení v roce 1755.
+Marocký sultán přestavěl město jako Daru l-Badya a to bylo dáno jméno Casablana od španělských obchodníků, kteří tam založili obchodní základny.
+Casablanka je jedním z nejméně zajímavých míst pro nákup v celém Maroku.
+Kolem staré Mediny je snadné najít místa prodávající tradiční marocké zboží, jako jsou tagines, keramika, kožené zboží, vodní dýmky a celé spektrum geepů, ale to vše pro turisty.
+Goma je turistickým městem Demokratické republiky Kongo v extrémním východě poblíž Rwandy.
+V roce 2002 byla Goma zničena lávou ze sopky Nyiragongo, která pohřbila většinu ulic města, zejména v centru města.
+Zatímco Goma je přiměřeně bezpečná, každá návštěva mimo Goma by měla být zkoumána, aby se pochopily stav bojů, které přetrvávají v provincii Severní Kivu.
 Město je také základnou pro výstup na sopku Nyiragongo spolu s některými z nejlevnějších horských goril v Africe.
-Můžete použít boda-boda (motocykl taxi) se dostanete kolem Gomě. Běžná (místní) cena je ~500 konžských franšízů na krátkou jízdu.
-V kombinaci s relativní nedostupností se „Timbukt“ začal používat jako metafora pro exotické, vzdálené země.
-Dnes je Timbuktu zbídačeným městem, i když jeho pověst z něj dělá turistickou atrakci a má letiště.
-V roce 1990 byl zařazen na seznam ohnivých památek světového dědictví, což je hrozba pouštních písků.
-Byla to jedna z hlavních zastávek během speciálních divů afrického světa Henryho Louise Louise PBS.
-Město je v příkrém rozporu se zbytkem měst v zemi, protože má větší arabský nádech než africký.
-Krugerův národní park (KNP) leží v severovýchodě Jihoafrické republiky a táhne se podél hranice Mosambiku na východě, na severu Zimbabwe a jižní hranicí je Krokodýlová řeka.
-Park se rozkládá na 19 500 km2 a je rozdělen do 14 různých ecozonů, z nichž každá podporuje různé volně žijící živočichy.
-Je to jedna z hlavních atrakcí Jižní Afriky a je považována za vlajkovou loď jihoafrických národních parků (SANParks).
-Stejně jako u všech jihoafrických národních parků, tam jsou denní poplatky za zachování a vstup na vstup do parku.
-To může být také prospěšné pro jeden koupit Wild Card, který poskytuje vstup buď výběry parků v Jižní Africe nebo na všechny jihoafrické národní parky.
-Hongkongský ostrov dává území Hongkongu své jméno a je místem, které mnozí turisté považují za hlavní ohnisko.
-Přehlídka budov, které tvoří panorama Hongkongu, je přirovnávána k třpytivé barové mapě, který je patrný přítomností vod Viktorie Harbour.
-Chcete-li získat nejlepší pohledy na Hongkong, nechte ostrov a zamiřte na kowloonské nábřeží naproti.
-Velká většina městského rozvoje Hongkongského ostrova je hustě natužena na znovuzískané zemi podél severního pobřeží.
-To je místo, které si britští kolonizátoři vzali za své, a tak pokud hledáte důkazy o koloniální minulosti na území, je to dobré místo, kde začít.
-Sundarbans jsou největším littorálním mangrovovým páskem na světě, který se táhne 80 km do Bangladéšského a indického vnitrozemí od pobřeží.
-Sundarbans byli zapsáni na seznam světového dědictví UNESCO. Část lesa na indickém území se nazývá Národní park Sundarbans.
-Lesy ale nejsou jen mangrovové bažiny – patří mezi ně poslední zbývající porost s mocnými džunglemi, které kdysi pokrývaly gangetickou pláň.
-Sundarbans pokrývají plochu 3 850 km2, z nichž asi jedna třetina je pokryta vodními a marshlicemi.
-Od roku 1966 jsou Sundarbans útočištěm divoké zvěře a odhaduje se, že v oblasti je nyní 400 britských bengálských tygrů a v oblasti je asi 30 000 spatřených jelenů.
-Autobusy odjíždějí po celý den z mezidryční autobusové zastávce (nač. břehem), i když většina, zejména ty, které míří na východ a Jakar/Bumthang odjíždějí mezi 06:30 a 07:30.
-Vzhledem k tomu, že meziokresní autobusy jsou často plné, je vhodné zakoupit si lístek několik dní předem.
-Většinu okresů obsluhují malé japonské kořínové vozy, které jsou pohodlné a robustní.
-Sdílené taxislužby jsou rychlým a pohodlným prostředkem cestování do okolních míst, jako jsou Paro (Nu 150) a Punakha (Nu 200).
-Oyapock River Bridge je lanový most. Pobírá řeku Oyapock, aby spojila města Oiapoque v Brazílii a Saint-Georges de l'Oyapock ve Francouzské Guyaně.
-Dvě věže se zvedají do výšky 83 metrů, je dlouhá 378 metrů a má dvě pruhy o šířce 3,50 m.
-Svislé odbavení pod mostem je 15 metrů. Stavba byla dokončena v srpnu 2011, kdy se otevřela pro dopravu až v březnu 2017.
-Most má být plně funkční v září 2017, kdy se očekává dokončení brazilských celních kontrol.
-Guaraní byla nejvýznamnější domorodá skupina obývající dnes východní Paraguay, žijící jako polokomaderští lovci, kteří také praktikovali samozásobitelské zemědělství.
-Region Chaco byl domovem dalších skupin domorodých kmenů, jako jsou Guaycurú a Payaguá, kteří přežili lovem, shromažďováním a rybařením.
-V Paraguayi ze 16. století, dříve nazývané „Obří provincii Indiánů“, se zrodila v důsledku setkání španělských dobyvatelů s domorodými domorodými skupinami.
-Španělé začali kolonizační období, které trvalo tři století.
-Od založení Asunción v roce 1537 se Paraguayi podařilo udržet mnoho svého domorodého charakteru a identity.
-Argentina je známá tím, že má jeden z nejlepších pólových týmů a hráče na světě.
-Největší turnaj roku se koná v prosinci na pólových hřištích v Las Cañitas.
-Menší turnaje a zápasy jsou zde také v jiných ročních obdobích.
-Pro zprávy o turnajích a kde koupit vstupenky na zápasy póla, podívejte se na Asociacion Argentina de Polo.
-Oficiální měnou Falkland je Falklandská libra (FKP), jejíž hodnota je rovnající se jedné britské libře (GBP).
-Peníze si můžete vyměnit pouze na ostrovech, které se nacházejí ve Stanley naproti obchodu FIC West.
-Britské libry budou obecně akceptovány kdekoliv na ostrovech a v rámci kreditních karet Stanley a americké dolary jsou také často přijímány.
-Na okrajových ostrovech nebudou kreditní karty pravděpodobně přijaty, i když britská a americká měna může být přijata; předem se poraďte s majiteli, aby se určilo, co je přijatelnou platební metodou.
-Je téměř nemožné vyměnit si měnu Falklandů mimo ostrovy, takže si vyměňovat peníze před opuštěním ostrovů.
-Vzhledem k tomu, Montevideo je jižně od rovníku, je tam léto, kdy je zima na severní polokouli a naopak.
-Montevideo je v subtrofikách, v letních měsících jsou běžné teploty nad +30°C.
-Zima může být klamně chladná: teploty se zřídka dostanou pod bodrým, ale vítr a vlhkost se spojují, aby se cítila chladněji než teploměr.
-Neexistují žádná zvláštní „úniková“ a „suchý“ období: množství deště zůstane zhruba stejné po celý rok.
-I když mnoho zvířat v parku je zvyklé vidět lidi, volně žijících živočichů je přesto divoká a neměla by být krmena nebo narušována.
-Podle parkových úřadů se zdržte nejméně 100 metrů od medvědů a vlků a 25 yardů/metrů od všech ostatních divokých zvířat!
-Bez ohledu na to, jak poslušnější mohou vypadat, bizoní, los, los, medvědi a téměř všechna velká zvířata mohou zaútočit.
-Každý rok jsou desítky návštěvníků zraněny, protože si nedržely pořádnou vzdálenost. Tato zvířata jsou velká, divoká a potenciálně nebezpečná, takže jim dejte prostor.
-Kromě toho, mějte na paměti, že zápachy přitahují medvědy a další divokou zvěř, takže se vyhýbejte potravinám nebo vaření a udržujte čistý tábor.
-Apia je hlavním městem Samoy. Město se nachází na ostrově Upolu a má necelých 40 000 obyvatel.
-Apia byla založena v 50. letech 19. století a od roku 1959 je oficiálním hlavním městem Samoa.
-Přístav byl v roce 1889 nechvalně proslulou námořní patovou. Sedm lodí z Německa, USA a Británie odmítlo opustit přístav.
-Všechny lodě byly potopené, až na jedno britské křižník. Téměř 200 amerických a německých životů bylo ztraceno.
-Během boje za nezávislost organizovaném hnutím Mau, mírumilovné shromáždění ve městě vyústilo v zabití nejvyššího šéfa Tupua Tamasese Lealofi III.
-Existuje mnoho pláží, protože Auckland je rozkročení dvou přístavů. Ty nejoblíbenější jsou ve třech oblastech.
-Pláže North Shore (v okrese North Harbour) jsou na Tichém oceánu a táhnou se od Long Bay na severu až po Devonport na jihu.
-Jsou to téměř všechny písečné pláže s bezpečným koupáním a většina z nich má stín na pohárch.
-Pláže Tamaki Drive jsou v přístavu Waitemata, na předměstí Mission Bay a St Heliers v centru Aucklandu.
-Jedná se někdy o rodinné pláže s pořádnou řadou obchodů lemujících pobřeží. Plavání je bezpečné.
-Hlavním místním pivem je „Číslo jedna“, není to složité pivo, ale příjemné a osvěžující. Druhé místní pivo se jmenuje „Manta“.
-Existuje mnoho francouzských vín, která je třeba mít, ale Nový Zéland a australská vína by mohla cestovat lépe.
-Místní voda z kohoutku je naprosto bezpečná k pití, ale balenou vodu se snadno najde, pokud se bojíte.
-Pro Australany je myšlenka „ploché bílé“ kávy cizí. Krátká černá je 'espresso', cappuccino se vřele do výšky smetany (nenajdou) a čaj se podává bez mléka.
-Horká čokoláda je na belgických měřících metrech. Ovocné šťávy jsou drahé, ale výborné.
-Mnoho cest na útes se koná po celý rok a zranění v důsledku těchto příčin na útesu jsou vzácná.
-Přesto si nech poradit od úřadů, poslechnout všechny značky a věnovat pozornost bezpečnostním varováním.
-Boxské medúzy se vyskytují v blízkosti pláží a v blízkosti ústí řek od října do dubna severně od 1770. Občas se mohou najít mimo tyto časy.
-Žraloci existují, ale málokdy útočí na lidi. Většina žraloků se bojí lidí a plave pryč.
-Saltwater Krokodýli aktivně nežijí v oceánu, jejich hlavní stanoviště je v ústí řek na sever od Rockhamptonu.
-Rezervace předem dává cestovatelům klid, že bude mít kde spát, jakmile dorazí na místo určení.
-Cestovní kanceláře mají často obchody s konkrétními hotely, i když je možné si rezervovat jiné formy ubytování, jako je kempování, přes cestovní kancelář.
-Cestovní kanceláře obvykle nabízejí balíčky, které zahrnují snídani, dopravní opatření na/z letiště nebo dokonce kombinované letové a hotelové balíčky.
-Mohou pro vás také podstoupit rezervaci, pokud potřebujete čas na rozmyšlenou nabídku nebo pořizovat další doklady pro místo určení (např. vízum).
-Jakékoli změny nebo žádosti by však měly být koronovat přes cestovní kancelář nejprve a ne přímo u hotelu.
-U některých festivalů se drtivá většina návštěvníků hudebních festivalů rozhodne kempovat na místě a většina průvodců ji považuje za zásadní součást zážitku.
-Pokud chcete být blízko akce budete muset dostat brzy, aby se kempování blízko k hudby.
-Pamatujte, že i když hudba na hlavních pódiích možná skončila, mohou se objevit části festivalu, které budou hrát hudbu až do konce večera.
-Některé festivaly mají speciální kempinkové prostory pro rodiny s malými dětmi.
-Pokud přes severní Baltské moře v zimě přejde přes severní Balt, zkontrolujte polohu kabiny, protože procházka ledem způsobí těm, kteří jsou nejvíce postiženi, docela příšerný hluk.
-Petrohradské plavby zahrnují čas ve městě. Cestující na výpomat jsou osvobozeni od vízové povinnosti (zkontrolujte podmínky).
-Kasina obvykle snaží co nejvíce usilovat o coximurizičku, aby se hosté utratili. Okna a hodiny obvykle chybí a východy se těžko hledají.
-Obvykle mají speciální nabídky na jídlo, pití a zábavu, aby měli hosté dobrou náladu a udržovali je na premisii.
-Některá místa nabízejí alkoholické nápoje na domě. Nicméně opilost zhoršuje úsudek a všichni dobří hráči vědí, jak je důležité zůstat střízlivý.
-Každý, kdo bude jezdit ve vysokých zeměpisných šířkách nebo nad horskými průsmyky, by měl zvážit možnost sněhu, ledu nebo mrazivých teplot.
-Na ledových a zasněžených vozovkách je tření nízké a nemůžete řídit, jako byste byli na holém asfaltu.
-Během sněhových bouří může přilepit dost sněhu na zem v malém čase.
-Viditelnost může být rovněž omezena pádem nebo foukáním sněhu nebo kondenzací nebo ledem na oknech vozidla.
-Na druhé straně jsou v mnoha zemích normální ledové a sněhové podmínky a doprava se po celý rok většinou neruší.
-Safari jsou možná největším tahákem cestovního ruchu v Africe a vrcholem pro mnoho návštěvníků.
-Termín safari v oblíbeném používání se týká poletování po souměře na polet, aby si prohlédli ohromující africkou divokou zvěř, zejména na savaně.
-Některá zvířata, jako jsou sloni a žirafy, mají tendenci se přibližovat k autům a standardní vybavení umožní dobré prohlížení.
-Lvi, gepardi a leopardy jsou někdy plaší a lépe je uvidíte s dalekohledem.
-Pojízdné posezení (naživa se nazývá „bush walk“, „totokové safari“ nebo „footing“) se skládá z pěší turistiky, a to buď na několik hodin nebo na několik dní.
+Můžete použít Boda-boda (motocyklové taxi) pro cestu kolem Goma. Normální (místní) cena je ~ 500 konžských franků pro krátkou jízdu.
+V kombinaci s jeho relativní nedostupností se "Timbuktu" používá jako metafora pro exotické, vzdálené země.
+Dnes je Timbuktu zbídačené město, i když jeho pověst z něj dělá turistickou atrakci a má letiště.
+V roce 1990 byla přidána na seznam míst světového dědictví v nebezpečí kvůli hrozbě pouštních písků.
+Byla to jedna z hlavních zastávek během Henryho Louise Gatesova speciálu PBS Wonders of the African World.
+Město je v ostrém kontrastu se zbytkem měst země, protože má více arabského vkusu než Afričan.
+Krugerský národní park (KNP) se nachází na severovýchodě Jižní Afriky a vede podél hranice Mosambiku na východě, Zimbabwe na severu a jižní hranice je řeka Crocodil.
+Park pokrývá 19 500 km2 a je rozdělen do 14 různých ekozón, z nichž každá podporuje různé volně žijící živočichy.
+Je to jedna z hlavních atrakcí Jihoafrické republiky a je považována za vlajkovou loď jihoafrických národních parků (SANParks).
+Stejně jako u všech jihoafrických národních parků jsou pro park denně rezervační a vstupní poplatky.
+To může být také prospěšné pro jeden koupit divokou kartu, která poskytuje vstup do buď výběrů parků v Jižní Africe nebo všech jihoafrických národních parků.
+Hongkongský ostrov dává území Hongkongu jeho jméno a je místem, které mnozí turisté považují za hlavní zaměření.
+Přehlídka budov, které tvoří panorama Hongkongu, byla přirovnána k třpytivému barovému grafu, který je zřejmý přítomností vod Victoria Harbour.
+Chcete-li získat nejlepší výhled na Hongkong, otročte ostrov a zamiřte na nábřeží Kowloon naproti.
+Velká většina městského rozvoje ostrova Hong Kong je hustě zabalena na rekultivované půdě podél severního pobřeží.
+To je místo, které britští kolonizátoři vzali jako své vlastní, a tak pokud hledáte důkazy o koloniální minulosti území, je to dobré místo pro začátek.
+Sundarbans jsou největší přímořský mangrovový pás na světě, táhnoucí se 80 km (50 mi) do bangladéšského a indického vnitrozemí od pobřeží.
+Sundarbans byl vyhlášen světovým dědictvím UNESCO. Část lesa na indickém území se nazývá Sundarbans National Park.
+Lesy však nejsou jen mangrovové bažiny - zahrnují některé z posledních zbývajících stojanů mohutných džunglí, které kdysi pokrývaly Gangeticovu pláni.
+Sundarbans pokrývá rozlohu 3 850 km2, z nichž asi jedna třetina je pokryta vodními/malbovými oblastmi.
+Od roku 1966 jsou Sundarbans útočištěm pro divokou zvěř a odhaduje se, že nyní existuje 400 královských bengálských tygrů a asi 30.000 spatřených jelenů v této oblasti.
+Autobusy odjíždějí inter-okresní autobusové nádraží (přes řeku) po celý den, i když většina, zejména ty, které míří na východ a Jakar / Bombang odjezd mezi 06:30 a 07:30.
+Vzhledem k tomu, že meziokresní autobusy jsou často plné, je vhodné zakoupit jízdenku několik dní předem.
+Většina okresů je obsluhována malými japonskými pobřežními autobusy, které jsou pohodlné a robustní.
+Sdílené taxislužby jsou rychlým a pohodlným prostředkem k cestování do blízkých míst, jako jsou Paro (Nu 150) a Punakha (Nu 200).
+Oyapock River Bridge je lanovkou. To zahrnuje řeku Oyapock, která spojuje města Oiapoque v Brazílii a Saint-Georges de l'Oyapock ve Francouzské Guyze.
+Obě věže stoupají do výšky 83 metrů, je to 378 metrů dlouhé a má dva pruhy o šířce 3,50 m.
+Vertikální odbavení pod mostem je 15 metrů. Výstavba byla dokončena v srpnu 2011, to nebylo otevřeno pro provoz až do března 2017.
+Most má být plně funkční v září 2017, kdy se očekává, že brazilské celní kontroly budou dokončeny.
+Guaraní byla nejvýznamnější domorodá skupina obývající to, co je nyní východní Paraguay, žijící jako polokově kočovní lovci, kteří také praktikovali samozásobitelské zemědělství.
+Oblast Chaco byla domovem dalších skupin domorodých kmenů, jako jsou Guaycurú a Payaguá, které přežily lovem, sběrem a rybařením.
+V 16. století Paraguaye, dříve nazývané „Obří provincie Indies“, se narodil v důsledku setkání španělských dobyvatelů s domorodými skupinami.
+Španělé zahájili kolonizační období, které trvalo tři století.
+Od založení Asunción v roce 1537 se Paraguayi podařilo udržet si mnoho svého domorodého charakteru a identity.
+Argentina je známá tím, že má jeden z nejlepších pólo týmů a hráčů na světě.
+Největší turnaj roku se koná v prosinci na pólech póla v Las Cañitas.
+Menší turnaje a zápasy jsou zde vidět i v jiných obdobích roku.
+Pro zprávy o turnajích a kde koupit vstupenky na zápasy póla, zkontrolujte Asociacion Argentina de Polo.
+Oficiální měnou Falkland je Falklandská libra (FKP), jejíž hodnota je stanovena rovnocenná hodnotě jedné britské libry (GBP).
+Peníze lze vyměňovat v jediné bance na ostrovech, které se nacházejí ve Stanley naproti obchodu FIC West.
+Britské libry budou obecně přijímány kdekoli na ostrovech a v rámci Stanley kreditních karet a amerických dolarů jsou také často přijímány.
+Na odlehlých ostrovech kreditní karty pravděpodobně nebudou přijaty, i když britská a americká měna může být přijata; poraďte se s majiteli předem, abyste zjistili, co je přijatelný způsob platby.
+Je téměř nemožné vyměnit Falklandskou měnu mimo ostrovy, takže si vyměňujte peníze před opuštěním ostrovů.
+Vzhledem k tomu, že Montevideo je jižně od rovníku, je tam v létě, když je zima na severní polokouli a naopak.
+Montevideo je v subtropicích, v letních měsících jsou běžné teploty nad +30 °C.
+Zima může být klamně chladná: teploty zřídka jdou pod bod mrazu, ale vítr a vlhkost se spojují, aby se cítil chladněji než to, co říká teploměr.
+Neexistují žádná konkrétní "zápalná" a "sušená" roční období: množství deště zůstává zhruba stejné po celý rok.
+Ačkoli mnoho zvířat v parku je zvyklých vidět lidi, divoká zvěř je nicméně divoká a neměla by být krmena nebo narušena.
+Podle orgánů parku se pobyde nejméně 100 metrů od medvědů a vlků a 25 metrů od všech ostatních divokých zvířat!
+Bez ohledu na to, jak poslušní mohou vypadat, bizoni, los, los, medvědi a téměř všechna velká zvířata mohou útočit.
+Každý rok jsou desítky návštěvníků zraněny, protože si neudrželi pořádnou vzdálenost. Tato zvířata jsou velká, divoká a potenciálně nebezpečná, takže jim dejte prostor.
+Kromě toho si uvědomte, že pachy přitahují medvědy a další divokou zvěř, takže se vyhněte přenášení nebo vaření padělatých potravin a udržovat čistý tábor.
+Apia je hlavním městem Samoa. Město se nachází na ostrově Upolu a má necelých 40 000 obyvatel.
+Společnost Apia byla založena v 50. letech 19. století a od roku 1959 je oficiálním hlavním městem Samoa.
+Přístav byl místem nechvalně známé námořní patové situace v roce 1889, kdy sedm lodí z Německa, USA a Británie odmítlo opustit přístav.
+Všechny lodě byly potopeny, až na jeden britský křižník. Ztratilo se téměř 200 amerických a německých životů.
+Během boje za nezávislost organizované hnutím Mau , mírové shromáždění ve městě vyústilo v zabití nejvyššího šéfa Tupua Tamasese Lealofi III.
+Existuje mnoho pláží, vzhledem k Auckland rozkročení dvou přístavů. Nejpopulárnější jsou ve třech oblastech.
+North Shore pláže (v severní přístavní čtvrti) se nacházejí v Tichém oceánu a táhnou se od Long Bay na severu k Devonportu na jihu.
+Jsou to téměř všechny písečné pláže s bezpečným koupáním a většina z nich má stín pohutukawa stromy.
+Pláže Tamaki Drive jsou na přístavu Waitemata, na luxusních předměstích Mission Bay a St Heliers v centrálním Aucklandu.
+Jedná se o někdy přeplněné rodinné pláže s dobrou škálou obchodů lemujících břeh. Plavání je v bezpečí.
+Hlavní místní pivo je "Číslo jedna", není to komplexní pivo, ale příjemné a osvěžující. Druhé místní pivo se nazývá "Manta".
+Existuje mnoho francouzských vín, které je třeba mít, ale novozélandská a australská vína by mohla cestovat lépe.
+Místní voda z vodovodu je naprosto bezpečná k pití, ale balená voda je snadno k nalezení, pokud máte strach.
+Pro Australany je myšlenka "ploché bílé" kávy cizí. Krátká černá je "espresso", cappuccino přichází navršeno smetanou (ne pěnou) a čaj se podává bez mléka.
+Horká čokoláda je podle belgických standardů. Ovocné šťávy jsou drahé, ale vynikající.
+Mnoho výletů na útes je prováděno po celý rok a zranění z jakýchkoli z těchto příčin na útesu jsou vzácná.
+Přesto si vezměte rady od úřadů, poslouchejte všechny značky a věnujte velkou pozornost bezpečnostním varováním.
+Box medúzy se vyskytují v blízkosti pláží a v blízkosti ústí řek od října do dubna severně od roku 1770. Příležitostně se nacházejí mimo tuto dobu.
+Žraloci existují, ale zřídka útočí na lidi. Většina žraloků se bojí lidí a plave pryč.
+Krokodýli slané vody nežijí aktivně v oceánu, jejich primární stanoviště je v ústí řek severně od Rockhamptonu.
+Rezervace předem dává cestujícímu klid, že budou mít někde spát, jakmile dorazí na místo určení.
+Cestovní kanceláře mají často obchody s konkrétními hotely, i když můžete najít, že je možné rezervovat jiné formy ubytování, jako je kempy, prostřednictvím cestovní kanceláře.
+Cestovní kanceláře obvykle nabízejí balíčky, které zahrnují snídaně, přepravní opatření na / z letiště nebo dokonce kombinované letové a hotelové balíčky.
+Mohou také uspořádat rezervaci pro vás, pokud potřebujete čas přemýšlet o nabídce nebo získat další dokumenty pro vaši destinaci (např. vízum).
+Jakékoli změny nebo žádosti by však měly být nejprve směrovány prostřednictvím cestovní kanceláře a ne přímo s hotelem.
+Pro některé festivaly se drtivá většina účastníků hudebních festivalů rozhodne tábořit na místě a většina zájemců to považuje za důležitou součást tohoto zážitku.
+Pokud chcete být blízko k akci, budete se muset dostat brzy, abyste získali místo pro kempování blízko hudby.
+Nezapomeňte, že i když hudba na hlavních pódiích může skončit, mohou existovat části festivalu, které budou hrát hudbu až do pozdních hodin.
+Některé festivaly mají speciální kempování pro rodiny s malými dětmi.
+Pokud v zimě přejdete severní Baltské, zkontrolujte umístění kabiny, protože procházení ledem způsobuje docela hrozný hluk pro ty nejvíce postižené.
+Petrohradské plavby zahrnují čas ve městě. Cestující na plavbě jsou osvobozeni od vízových požadavků (podmínek).
+Kasina obvykle vynakládají mnoho úsilí, aby maximalizovali čas a peníze vynaložené hosty. Okna a hodiny jsou obvykle chybí a výstupy mohou být těžké najít.
+Obvykle mají speciální nabídky jídla, pití a zábavy, aby udrželi hosty v dobré náladě a udrželi je v premisu.
+Některá místa nabízejí alkoholické nápoje na domě. Nicméně, opilost narušuje úsudek a všichni dobří hráči vědí, že je důležité zůstat střízlivý.
+Každý, kdo se chystá jet ve vysokých zeměpisných šířkách nebo nad horskými průsmyky, by měl zvážit možnost sněžení, ledu nebo mrazu.
+Na ledových a zasněžených silnicích je tření nízké a nemůžete řídit, jako byste byli na holém asfaltu.
+Během sněhových vápen, dostatek sněhu, aby vás uvízl, může spadnout ve velmi krátkém čase.
+Viditelnost může být také omezena padajícím nebo foukáním sněhu nebo kondenzací nebo ledem na oknech vozidel.
+Na druhou stranu, ledové a zasněžené podmínky jsou v mnoha zemích normální a provoz probíhá většinou bez přerušení po celý rok.
+Safari jsou možná největším cestovním ruchem v Africe a vrcholem pro mnoho návštěvníků.
+Termín safari v populárním použití odkazuje na pozemní cestování, aby si prohlédli ohromující africkou divokou zvěř, zejména na savaně.
+Některá zvířata, jako jsou sloni a žirafy, mají tendenci přistupovat k automobilům a standardní výživné umožní dobré prohlížení.
+Lvi, gepardi a leopardi jsou někdy stydliví a uvidíte je lépe s dalekohledem.
+Chůze safari (také volal „bush walk“, „tish safari“, nebo jít „nohy“) se skládá z turistiky, a to buď na několik hodin nebo několik dní.
 Paralympiáda se bude konat od 24. srpna do 5. září 2021. Některé akce se budou konat na jiných místech po celém Japonsku.
-Tokio bude jediným asijským městem, které hostilo dvě letní olympiády, které hostilo hry v roce 1964.
-Pokud jste si zarezervovali letenky a ubytování na rok 2020 před oznámením odložení, můžete mít ošidnou situaci.
-Politiky na zrušení se liší, ale od konce března většina zrušení založené na koronaviru se nebude prodlužovat do července 2020, kdy byly na plánované olympiády.
-Očekává se, že většina vstupenek na pořádání bude stát 2 500 až 130 000 jenů, přičemž typické vstupenky stojí kolem 7 000 jenů.
-Hlení vlhké oblečení jim může pomoci uschnout. Mnoho hotelů má k dispozici pro výpůjční stravu a žehlicí prkno, a to i v případě, že se v místnosti neobjeví.
-Pokud není k dispozici železo nebo nechcete nosit vyžehlené ponožky, pak si můžete zkusit použít fén, pokud je k dispozici.
-Dávejte pozor, aby se látka příliš horké (což může způsobit smršť nebo v extrémních případech, pálení).
-Existují různé způsoby čištění vody, některé účinnější proti konkrétním hrozbám.
-V některých oblastech je vroucí voda na minutu stačí, v jiných je potřeba několik minut.
-Filtry se liší účinností, a pokud máte zájem, pak byste měli zvážit nákup vody v zapečetěné láhvi od renomované společnosti.
-Cestující se mohou setkat se škůdci zvířat, které ve svých domovských oblastech neznají.
-Pesty mohou zkazit jídlo, způsobit podráždění nebo v horším případě vyvolat alergické reakce, šířit jed nebo přenášet infekce.
-Samotná infekční onemocnění nebo nebezpečná zvířata, která mohou zranit nebo zabít lidi silou, se obvykle kvalifikují jako škůdci.
-Bezplatné nakupování je příležitostí k nákupu zboží osvobozeného od daní a vyčíslení na některých místech.
-Cestující směřující do zemí s vysokým zdaněním mohou někdy ušetřit značné množství peněz, zejména na produktech, jako jsou alkoholické nápoje a tabák.
-Úsek mezi Point Marion a Fairmont představuje nejnáročnější jízdní podmínky na Buffalo-Pittsburgh Highway, které často projíždějí izolovaným terénem zalesněného dřeva.
-Pokud nejste zvyklí jezdit po venkovských silnicích, mějte na vás své smýšlení: stoupající známky, úzké pruhy a ostré křivky.
-Zveřejněné rychlostní limity jsou znatelně nižší než v předchozích a následných úsecích – běžně 35-40 mph (56-64 km/h) – a přísná poslušnost je k nim ještě důležitější než jinak.
-Je však zvláštní, že mobilní telefonová služba je zde mnohem silnější než na mnoha jiných úsecích trasy, např. Pensylvánie Wilds.
-Německé pečivo je poměrně dobré a v Bavorsku jsou poměrně bohaté a rozmanité, podobné těm, které jsou jejich jižanský soused, Rakousko.
-Ovocné pečivo je běžné, jablka vařená do pečiva porochá a třešně a švestky se v létě objevují.
-Mnoho německých pečiva má také mandle, lískové ořechy a další ořechy. Populární koláče se často pováží zejména s šálkem silné kávy.
-Pokud chcete nějaké malé, i když bohaté pečivo, zkuste to, co v závislosti na regionu se nazývají Berliner, Pfannkuchen nebo Krapfen.
-Kari je jídlo založené na bylinkách a kořeních, spolu s masem nebo zeleninou.
-Kari může být buď „suchý“ nebo „mokré“ v závislosti na množství kapaliny.
-Ve vnitrozemských oblastech severní Indie a Pákistánu se jogurt běžně používá v kari; v jižní Indii a v některých dalších pobřežních oblastech subkontinentu se kokosové mléko běžně používá.
-Se 17 000 ostrovy na výběr, indonéské jídlo je zastřele pokrývající širokou škálu regionální kuchyně vyskytující se v celé zemi.
-Pokud se však tento termín používá bez dalších kvalifikantů, má ve smyslu potravu původem ze střední a východní části hlavní ostrovní Jáva.
-Javanská kuchyně je nyní široce dostupná v celém souostroví, s řadou jednoduše rozhořčených jídel, převládajícími ochucováním, které javánská přízeňně patří arašídy, chilčí, cukr (zejména javánský kokosový cukr) a různá aromatická koření.
-Mírná střela jsou podpěry pro nohy jezdce, které visí dole na obou stranách sedla.
-Zajišťují jezdci větší stabilitu, ale mohou mít obavy o bezpečnost kvůli možnosti, že se v nich uvíznou nohy jezdce.
-Pokud je jezdec vyhozen z koně, ale má nohu uvízlou ve třmenním úbočí, mohl by být vlečen, kdyby kůň utekl. Aby se minimalizovalo toto riziko, lze přijmout řadu bezpečnostních opatření.
-Za prvé, většina jezdců nosí jezdecké boty s podpatkem a hladkou, docela úzkou, podrážkou.
-Dále, některé sedla, zejména anglické sedla, mají bezpečnostní mříže, které umožňují střižnovat koženou z sedla, když ho padající jezdec stáhne dozadu.
-Cochamó Valley – přední horolezecká destinace v Chile, známá jako Yosemite of South America, s řadou žulových velkých zdí a útesů.
-Summity zahrnují dech beroucí výhledy z vrcholů. Horolezci ze všech částí světa neustále zavádějí nové cesty mezi jeho nekonečným potenciálem zdí.
-Sněžné sporty s kopce, které zahrnují lyžování a snowboarding, jsou oblíbené sporty sjíždění po zasněženém terénu s lyžemi nebo snowboardu připevněném k nohám.
-Lyžování je hlavní putovní aktivitou s mnoha nadšenci, občas známými jako „lysty vandráci“, které plánují celou dovolenou kolem lyžování na určitém místě.
-Myšlenka lyžování je velmi stará – jeskynní malby zobrazující lyžaře se datují až do roku 5000 př. n. l.
-Sjezdové lyžování jako sport sahá nejméně do 17. století a v roce 1861 byl v Austrálii otevřen první rekreační lyžařský klub.
-Backbachefing by ski: Tato činnost se nazývá také backcountry ski, lyžařské túry nebo pěší turistika.
-Souvisí to, ale obvykle nezahrnuje lyžování v alpském stylu nebo horolezectví, ty druhé se dělí v příkrém terénu a vyžadují mnohem tužší lyže a boty.
-Představte si lyžařskou trasu jako na podobné turistické trase.
-V dobrých podmínkách budete moci pokrýt o něco větší vzdálenosti než chůze – ale jen velmi zřídka získáte rychlost běžeckého lyžování bez těžkého batohu v upravených tratích.
-Evropa je relativně malý kontinent, ale s mnoha nezávislými zeměmi. Za normálních okolností by cestování přes více zemí znamenalo několikrát projít žádostmi o víza a pasovou kontrolou.
-Schengenská zóna však v tomto ohledu funguje poněkud jako jedna země.
-Pokud zůstanete v této zóně, můžete obecně překročit hranice, aniž byste znovu prošli kontrolními stanovišti pasové kontroly.
-Stejně tak tím, že máte schengenské vízum, nemusíte žádat o víza každé členské země Schengenu zvlášť, a tím šetřete čas, peníze a papírování.
-Neexistuje univerzální definice, pro kterou jsou vyrobené položky starožitností. Některé daňové agentury definují zboží starší než 100 let jako starožitnosti.
-Definice má geografické rozdíly, kdy by věková hranice mohla být v místech, jako je Severní Amerika, kratší než v Evropě.
-Výrobky v oblasti řemesel mohou být definovány jako starožitnosti, i když jsou mladší než podobné masově vyráběné výrobky.
-Ředitelství sobí je mezi Sámy důležitým živobytím a kultura obklopující obchod je důležitá i pro mnohé s jinými profesemi.
-I tradičně se však ne všichni Sámové podíleli na velkém měřítku sobí chovatelství, ale žily z rybaření, lovu a podobné, soby většinou jako kreslí zvířata.
-Dnes mnoho Sámů pracuje v moderních obchodech. Cestovní ruch je důležitým příjmem v oblasti Sápmi, Sámi.
-Ačkoliv je široce používán, zejména mezi neromskými, slovo „psyžikán“ je často považováno za urážlivé kvůli svým asociacím s negativními stereotypy a nepřesným dojmem Romů.
-Pokud se na zemi, kterou navštívíte, může být předmětem cestovního poradenství, může být ovlivněno vaše cestovní zdravotní pojištění nebo pojištění zrušení zájezdu.
-Možná si také přejete konzultovat rady jiných vlád než vlastních, ale jejich rady jsou určeny pro jejich občany.
-Jedním z příkladů mohou američtí občané na Blízkém východě čelit různým situacím ze strany Evropanů nebo Arabů.
-Poradce jsou pouze stručným shrnutím politické situace v jedné zemi.
-Předložené názory jsou často zběžné, obecné a příliš zjednodušené ve srovnání s podrobnějšími informacemi dostupnějšími jinde.
-Nepříznivé počasí je generickým termínem pro každý nebezpečný jev počasí s potenciálem způsobit škody, vážné sociální narušení nebo ztráty na lidských životech.
-Nepříznivé počasí se může vyskytovat kdekoliv na světě a existují různé jeho typy, které mohou záviset na geografii, topografii a atmosférických podmínkách.
-Vysoký vítr, krupobití, nadměrné srážky a požáry jsou formy a účinky nepříznivého počasí, stejně jako bouřky, tornáda, veličkové a cyklóny.
-Regionální a sezónní jevy nepříznivého počasí zahrnují sněhové bouře, sněhové bouře, ledové bouře a prašné bouře.
-Cestujícím se důrazně doporučuje, aby si byli vědomi jakéhokoli rizika nepříznivého počasí, které by mělo vliv na jejich oblast, protože by mohli ovlivnit případné cestovní plány.
-Každý, kdo plánuje návštěvu země, která by mohla být považována za válečnou zónu, by měl získat profesionální výcvik.
-Prohlídka internetu pro „Hostilový kurz životního prostředí“ pravděpodobně poskytne adresu místní společnosti.
-Kurz se obvykle bude zabývat všemi otázkami, o kterých se zde diskutuje, a to mnohem podrobněji, obvykle s praktickými zkušenostmi.
-Kurz bude obvykle od 2-5 dnů a bude zahrnovat roli, hodně první pomoci a někdy i výcvik zbraní.
-Knihy a časopisy zabývající se přežití divočiny jsou běžné, ale publikace zabývající se válečnými zónami jsou jen málo.
-Voyagery, které plánují operaci změny pohlaví v zahraničí, musí zajistit, že mají u sebe platné doklady pro zpáteční cestu.
-Ochota vlád vydávat pasy s genderem, které nejsou uvedeny (X) nebo dokumenty aktualizované tak, aby odpovídaly požadovanému názvu a pohlaví, se liší.
-Ochotnost zahraničních vlád ctít tyto dokumenty je stejně široce proměnlivá.
-Prohlídky na bezpečnostních kontrolách se také staly mnohem více dotěrnými v éře po 11. září 2001.
-Předoperační transgenderoví lidé by neměli očekávat, že projdou skenerem s nedotčenými soukromí a důstojností.
-Ripové proudy jsou vracející se proudění z vln, které se odvíjí od pláže, často na útesu nebo podobně.
-Vzhledem k podvodní topologii se návratový tok soustřeďuje na několika hlubších úsecích a rychlý proud do hluboké vody se tam může tvořit.
-K většině úmrtí dochází v důsledku únavy ve snaze uplavat proti proudu, což může být nemožné.
-Jakmile se dostanete z proudu, plavání zpět není o nic těžší než normálně.
-Zkuste mířit někam, kde vás znovu nechytí, nebo v závislosti na vašich dovednostech a na tom, zda jste si byli všimli, byste měli počkat na záchranu.
-Šok z opětovného vstupu přichází dříve než kulturní šok (je méně líbánkové fáze), trvá déle a může být závažnější.
-Cestující, kteří se snadně přizpůsobují nové kultuře, mají někdy obzvlášť problém přizpůsobit se své domorodé kultuře.
-Když se po životě v zahraničí vracíte domů, přizpůsobili jste se nové kultuře a ztratili některé své zvyky z vaší domovské kultury.
-Když jste zpočátku odjížděli do zahraničí, lidé byli pravděpodobně trpěliví a chápali, že cestující v nové zemi se musí přizpůsobit.
-Lidé nemusí předvídat, že trpělivost a porozumění jsou také nezbytné pro cestující vracející se domů.
-Pyroťastný zvuk a světelná show je pro děti jednou z nejzajímavějších věcí v oblasti.
-Ve tmě můžete vidět pyramidy a můžete je tiše vidět, než show začne.
-Obvykle tu vždy říkáte zvuk turistů a prodejců. Příběh zvuku a světla je jako z pohádkové knihy.
-Sfinga je zasazena do pozadí a vypravěčem dlouhého příběhu.
-Scény jsou zobrazeny na pyramidách a různé pyramidy jsou osvětlené.
-Jižní Shetlandské ostrovy, které byly objeveny v roce 1819, si nárokuje několik států a má nejvíce základen, v roce 2020 jich bylo šestičlenné.
-Souostroví leží 120 km severně od poloostrova. Největší je ostrov King George s osadou vily Las Estrellas.
-Mezi další patří Livingston Island a klamu, kde zaplavený kaldera stále aktivní sopky poskytuje velkolepý přírodní přístav.
-Ellsworth Land je oblast jižně od poloostrova, ohraničená Bellingshausenským mořem.
-Hory na poloostrově se spojují na plošinu a pak se znovu vynoří a vytvoří 360 km dlouhý řetěz pohoří Ellsworth, rozdělený Minnesotským ledovcem.
-Severní část nebo Sentinel Range má nejvyšší hory Antarktidy, Vinson Massif, vrcholící na 4892 m hora Vinson.
-Na odlehlých místech, bez pokrytí mobilním telefonem, může být vaše jediná možnost satelitního telefonu.
-Satelitní telefon není obecně náhradou za mobilní telefon, protože musíte být venku s jasnou linií z dohledu na satelitu, aby si mohli zavolat.
-Služba je často využívána lodím, včetně rekreačních plavidel, stejně jako expedice, které mají vzdálená data a hlasové potřeby.
+Tokio bude jediným asijským městem, které hostilo dvě letní olympijské hry, které hostilo hry v roce 1964.
+Pokud jste si rezervovali letenky a ubytování na rok 2020 před oznámením odložení, můžete mít záludnou situaci.
+Zrušení politiky se liší, ale od konce března se většina stornorupových politik na bázi koronaviru nevztahuje na červenec 2020, kdy byly naplánovány olympijské hry.
+Očekává se, že většina vstupenek na událost bude stát mezi ¥ 2 500 a ¥ 130 000, přičemž typické vstupenky stojí kolem 7 000 ¥.
+Železo navlhčovací oblečení jim může pomoci vyschnout. Mnoho hotelů má železnou a žehlící desku k dispozici k zapůjčení, i když jeden není přítomen v pokoji.
+Pokud není k dispozici železo, nebo pokud nemáte chuť nosit vyžehlené ponožky, můžete zkusit použít vysoušeč vlasů, pokud je k dispozici.
+Dávejte pozor, aby se tkanina nestala příliš horkou (což může způsobit smrštění nebo v extrémních případech spálen).
+Existují různé způsoby čištění vody, některé účinnější proti specifickým hrozbám.
+V některých oblastech je vroucí voda po dobu jedné minuty dostatečná, v jiných je zapotřebí několik minut.
+Filtry se liší v efektivitě a pokud máte obavy, pak byste měli zvážit nákup vody v zapečetěné láhvi od renomované společnosti.
+Cestovatelé se mohou setkat se zvířecími škůdci, které ve svých domovských oblastech nezná.
+Škůdci mohou zkazit jídlo, způsobit podráždění nebo v horším případě způsobit alergické reakce, šíření jedu nebo přenášet infekce.
+Infekční onemocnění sami nebo nebezpečná zvířata, která mohou zranit nebo zabít lidi silou, se obvykle nekvalifikují jako škůdci.
+Bezplatné nákupy jsou příležitostí k nákupu zboží osvobozeného od daní a spotřebních daní na určitých místech.
+Cestující pro země s vysokým zdaněním mohou někdy ušetřit značné množství peněz, zejména na produkty, jako jsou alkoholické nápoje a tabák.
+Úsek mezi Point Marion a Fairmont představuje nejnáročnější jízdní podmínky na Buffalo-Pittsburgh Highway, často procházející izolovaným zapadlým terénem.
+Pokud nejste zvyklí jezdit na venkovských silnicích, udržujte svůj důvtip o vás: strmé stupně, úzké pruhy a ostré zatáčky převládají.
+Zveřejněné rychlostní limity jsou znatelně nižší než v předchozích a následných úsecích - obvykle 35-40 mph (56-64 km / h) - a přísná poslušnost vůči nim je ještě důležitější než jinak.
+Je však velmi zajímavé, že služba mobilních telefonů je zde mnohem silnější než na mnoha jiných úsecích trasy, např. Pennsylvania Wilds.
+Německé pečivo je docela dobré a v Bavorsku jsou poměrně bohaté a rozmanité, podobné těm jejich jižního souseda, Rakouska.
+Ovocné pečivo jsou běžné, s jablky vařovanými do pečiva po celý rok a třešněmi a švestkami, které dělají jejich vystoupení v létě.
+Mnoho německého pečivu má také mandle, lískové ořechy a další ořechy. Populární koláče se často dobře spárují obzvláště dobře s šálkem silné kávy.
+Pokud chcete nějaké malé, i když bohaté pečivo, zkuste to, co je v závislosti na regionu se nazývá Berliner, Pfannkuchen nebo Krapfen.
+Curry je pokrm založený na bylinkách a kořeních, spolu s masem nebo zeleninou.
+Kryštof může být buď "sušené" nebo "vlhké" v závislosti na množství tekutiny.
+Ve vnitrozemských oblastech severní Indie a Pákistánu se jogurt běžně používá v kari; v jižní Indii a některých dalších pobřežních oblastech subkontinentu se běžně používá kokosové mléko.
+S 17 000 ostrovy, z nichž si můžete vybrat, je indonéské jídlo zastřešujícím termínem, který pokrývá širokou škálu regionálních kuchyní nalezených po celé zemi.
+Ale pokud se používá bez dalších kvalifikací, tento termín má tendenci znamenat jídlo původně z centrálních a východních částí hlavního ostrova Jáva.
+Nyní široce dostupná v celém souostroví, jávská kuchyně nabízí řadu jednoduše ochucených jídel, převládající příchutě Javanese upřednostňují být arašídy, chilli, cukr (zejména jávasní kokosový cukr) a různé aromatické koření.
+Stirrupy jsou podpěry pro nohy jezdce, které visí dolů na obou stranách sedla.
+Poskytují větší stabilitu pro jezdce, ale mohou mít bezpečnostní obavy kvůli potenciálu pro nohy jezdce, aby se v nich zasekl.
+Pokud je jezdec vyhozen z koně, ale má nohu chycenou ve třmenu, mohli by být odtaženi, kdyby kůň utekl. Aby se toto riziko minimalizovalo, lze přijmout řadu bezpečnostních opatření.
+Za prvé, většina jezdců nosí jezdecké boty s patou a hladkým, poměrně úzkým, podrážkou.
+Dále, některé sedla, zejména anglické sedlo, mají bezpečnostní tyče, které umožňují, aby se fňukání kůže spadlo ze sedla, pokud je tažena dozadu padajícím jezdcem.
+Cochamó Valley - Chilská přední horolezecká destinace, známá jako Yosemite z Jižní Ameriky, s různými žulovými velkými stěnami a srážkami.
+Summity zahrnují dech beroucí výhled z vrcholů. Hladiny ze všech částí světa neustále vytvářejí nové trasy mezi jeho nekonečným potenciálem zdí.
+Sníhové sněhové sporty, které zahrnují lyžování a snowboarding, jsou oblíbené sporty zahrnující posuvný zasněžený terén s lyžemi nebo snowboardem připojeným k vašim nohám.
+Lyžování je hlavní cestovní aktivita s mnoha nadšenci, příležitostně známá jako "ski bum", plánuje celé prázdniny kolem lyžování na určitém místě.
+Myšlenka lyžování je velmi stará – jeskynní malby zobrazující lyžaře se datují až do roku 5000 př. n. l.!
+Sjezdové lyžování jako sport sahá nejméně do 17. století a v roce 1861 byl otevřen první rekreační lyžařský klub Norové v Austrálii.
+Batokáre po ski: Tato aktivita se také nazývá backcountry lyže, lyžování na lyžích nebo pěší turistika.
+To souvisí s, ale obvykle ne zahrnuje alpské styl lyžování nebo horolezectví, ty dělaly ve strmém terénu a vyžadují mnohem tužší lyže a boty.
+Přemýšlejte o lyžařské trase jako o podobné turistické trase.
+V dobrých podmínkách budete schopni pokrýt poněkud větší vzdálenosti než chůze - ale jen velmi zřídka získáte rychlost běžeckého lyžování bez těžkého batohu v upravených tratích.
+Evropa je relativně malý, ale s mnoha nezávislými zeměmi. Za normálních okolností by cestování přes více zemí znamenalo muset několikrát projít žádostmi o víza a pasovou kontrolou.
+Schengenský prostor však v tomto ohledu funguje podobně jako jedna země.
+Dokud zůstanete v této zóně, můžete obecně překročit hranice, aniž byste znovu prošli kontrolními stanovišti pasu.
+Podobně, tím, že máte schengenské vízum, nemusíte žádat o víza do každé z členských zemí schengenského prostoru zvlášť, a tím ušetřit čas, peníze a papírování.
+Neexistuje žádná univerzální definice, pro kterou jsou vyráběné předměty starožitnosti. Některé daňové agentury definují zboží starší než 100 let jako starožitnosti.
+Definice má geografické rozdíly, kde by věkový limit mohl být kratší v místech, jako je Severní Amerika, než v Evropě.
+Ručně vyráběné produkty mohou být definovány jako starožitnosti, i když jsou mladší než podobné masově vyráběné zboží.
+Sobí chov je důležitým obživou mezi Sámy a kultura obklopující obchod je důležitá i pro mnoho dalších profesí.
+Dokonce i tradičně, ne všichni Sámové byli zapojeni do velkého měřítka sobů chovu, ale žili z rybolovu, lovu a podobně, mít sobs většinou jako odvody zvířat.
+Dnes mnoho Sámů pracuje v moderních obchodech. Cestovní ruch je důležitým příjmem v Sápmi, v oblasti Sámů.
+Ačkoli je široce používán, zejména mezi neromanim, slovo "cikán" je často považováno za urážlivé kvůli svým asociacím s negativními stereotypy a nepřesným vnímáním Romů.
+Pokud se země, kterou navštívíte, podléhá cestovnímu poradenství, může být ovlivněno cestovní zdravotní pojištění nebo pojištění zrušení cesty.
+Můžete také chtít konzultovat rady jiných vlád než vašich vlastních, ale jejich rady jsou určeny pro jejich občany.
+Jedním z příkladů mohou američtí občané na Blízkém východě čelit různým situacím než Evropané nebo Arabové.
+Poradenství jsou pouze stručným shrnutím politické situace v jedné zemi.
+Vyskytované názory jsou často zběžné, obecné a příliš zjednodušené ve srovnání s podrobnějšími informacemi, které jsou k dispozici jinde.
+Těžké počasí je obecný termín pro jakýkoli nebezpečný meteorologický jev s potenciálem způsobit škody, vážné sociální narušení nebo ztráty lidských životů.
+Těžké počasí se může objevit kdekoli na světě a existují různé typy, které mohou záviset na geografii, topografii a atmosférických podmínkách.
+Silné větry, krupobití, nadměrné srážky a požáry jsou formy a účinky nepříznivého počasí, stejně jako bouřky, tornáda, vodní smršť a cyklóny.
+Regionální a sezónní jevy počasí zahrnují sněhové bouře, sněhové bouře, ledové bouře a prachové bouře.
+Cestujícím se důrazně doporučuje, aby si byli vědomi jakéhokoli rizika závažného počasí, které ovlivňuje jejich oblast, protože mohou ovlivnit jakékoli cestovní plány.
+Každý, kdo plánuje návštěvu země, která by mohla být považována za válečnou zónu, by měl získat odbornou přípravu.
+Vyhledávání internetu pro "Hostile Environment kurz" bude pravděpodobně poskytnout adresu místní společnosti.
+Kurz bude obvykle pokrývat všechny otázky, které jsou zde diskutovány ve mnohem větším detailu, obvykle s praktickými zkušenostmi.
+Kurz bude obvykle od 2-5 dní a bude zahrnovat roli, hodně první pomoci a někdy výcvik zbraní.
+Knihy a časopisy zabývající se přežitím v divočině jsou běžné, ale publikace zabývající se válečnými zónami jsou jen málo.
+Voyagery, kteří plánují operaci změny pohlaví v zahraničí, musí zajistit, aby nesli platné dokumenty pro zpáteční cestu.
+Ochota vlád vydávat pasy s genderem, který není uveden (X) nebo dokumenty aktualizované tak, aby odpovídaly požadovanému jménu a pohlaví, se liší.
+Ochota zahraničních vlád ctít tyto dokumenty je stejně široce variabilní.
+Vyhledávání na bezpečnostních kontrolních stanovištích se také stalo mnohem rušivějším v době po 11. září 2001.
+Předoperační transsexuálové by neměli očekávat, že projdou skenery s jejich soukromím a důstojností neporušeným.
+Rip proudy jsou vracející se proud z vln odrážející se z pláže, často na útesu nebo podobném.
+Vzhledem k podvodní topologii je tok návratu soustředěn v několika hlubších částech a může se zde vytvořit rychlý proud do hluboké vody.
+Většina úmrtí se stane v důsledku únavy, která se snaží znovu plavat proti proudu, což může být nemožné.
+Jakmile se dostanete ven ze proudu, plavání není o nic těžší než normálně.
+Zkuste mířit někam, kde nejste znovu chyceni, nebo v závislosti na vašich dovednostech a na tom, zda jste byli zaznamenáni, možná budete chtít počkat na záchranu.
+Re-vstup šok přichází na dříve než kulturní šok (je méně líbánky fáze), trvá déle, a může být vážnější.
+Cestující, kteří měli snadný čas přizpůsobit se nové kultuře, mají někdy obzvláště těžké přizpůsobovat se své rodné kultuře.
+Když se vracíte domů po pobytu v zahraničí, přizpůsobili jste se nové kultuře a ztratili některé ze svých návyků z vaší domácí kultury.
+Když jste nejprve odjeli do zahraničí, lidé byli pravděpodobně trpěliví a chápaví, protože věděli, že cestující v nové zemi se musí přizpůsobit.
+Lidé nemusí předvídat, že trpělivost a porozumění jsou také nezbytné pro cestující, kteří se vracejí domů.
+Pyramidový zvuk a světelná show je jednou z nejzajímavějších věcí v oblasti pro děti.
+Pyramidy můžete vidět ve tmě a můžete je vidět v tichosti před začátkem představení.
+Obvykle sem vždy zobrazí zvuk turistů a prodejců. Příběh zvuku a světla je jako příběhová kniha.
+Sfinga je nastavena jako pozadí a vypravěč dlouhého příběhu.
+Scény jsou zobrazeny na pyramidách a různé pyramidy jsou rozsvíceny.
+Jižní Shetlandské ostrovy, objevené v roce 1819, jsou nárokovány několika národy a mají nejvíce základen, přičemž v roce 2020 jich bylo šestkrát aktivních.
+Souostroví se nachází 120 km severně od poloostrova. Největší je ostrov King George s osadou Villa Las Estrellas.
+Mezi další patří Livingston Island a Deception, kde zaplavená kaldera stále aktivní sopky poskytuje velkolepý přírodní přístav.
+Ellsworth Land je oblast jižně od poloostrova, ohraničená Bellingshamenským mořem.
+Hory poloostrova zde sloučí do plošiny, pak se znovu objeví tvořit 360 km řetězu Ellsworth Mountains, rozložený Minnesota Glacier.
+Severní část nebo Sentinel rozsah má nejvyšší hory Antarktidy, Vinson Massif , vrcholí na 4892 m Mount Vinson .
+V odlehlých místech, bez pokrytí mobilním telefonem, může být satelitní telefon jedinou možností.
+Satelitní telefon není obecně náhradou za mobilní telefon, protože musíte být venku s jasnou zornicí na satelit, abyste mohli telefonovat.
+Služba je často používána lodní dopravou, včetně rekreačních plavidel, stejně jako expedice, které mají vzdálené data a hlasové potřeby.
 Váš místní poskytovatel telefonních služeb by měl mít možnost poskytnout více informací o připojení k této službě.
-Stále populárnější volbou pro ty, kteří plánují mezerníkovou část, je cestovat a učit se.
-To je oblíbené zejména u školních absolventů, což jim umožňuje vzít rok ven před univerzitou, aniž by ohrozili jejich vzdělání.
-V mnoha případech může být zapsání mezera-rok kurzu v zahraničí skutečně zvýšeno vaše šance na přechod na vysokoškolské vzdělání zpět ve vaší domovské zemi.
-Obvykle bude mít školné, aby se zapsali do těchto vzdělávacích programů.
-Finsko je skvělá destinace na lodi. „Země tisíce jezer“ mají také tisíce ostrovů, v jezerech a v pobřežních souostrovích.
-V souostrovích a jezerech nepotřebujete nutně jachtu.
-I když pobřežní souostroví a největší jezera jsou skutečně dost velké pro jakoukoli jachtu, menší lodě nebo dokonce kajak nabízejí jiný zážitek.
-Lodě je národní zábava ve Finsku, s lodí na každých sedm nebo osm lidí.
-To se vyrovná Norsku, Švédsku a Novému Zélandu, ale jinak je to docela unikátní (např. v Nizozemsku je to číslo jedna až čtyřicet).
-Většina odlišných Baltic Cruises nabízí prodloužený pobyt v St. Petrohrad, Rusko.
-To znamená, že můžete navštívit historické město na několik celých dní při návratu a spát na lodi v noci.
-Pokud se pouze vyloďujete pomocí lodních výletů na palubu, budete potřebovat samostatné vízum (od roku 2009).
-Některé plavby představují Berlín, Německo v brožurách. Jak můžete vidět z mapy nad Berlínem není místo, kde v blízkosti moře a návštěva města není zahrnuta v ceně plavby.
-Cestování letadlem může být pro lidi všech věkových kategorií a zázemí děsivý zážitek, zejména pokud předtím neletěli nebo zažili traumatickou událost.
-Není to nic, za co by se člověk styděl: neliší se od osobních obav a nesnází jiných věcí, které má mnoho lidí.
-Pro někoho může pochopení toho, jak letadla fungují a co se stane během letu, pomoci překonat strach, který je založen na neznámém nebo na tom, že není pod kontrolou.
-Kurýrní společnosti jsou dobře placeny za rychlé dodání věcí. Často je čas velmi důležitý s obchodními dokumenty, zbožím nebo náhradními díly pro naléhavou opravu.
-Na některých trasách mají větší společnosti vlastní letadla, ale pro jiné trasy a menší firmy se vyskytoval problém.
-Pokud to rozmístili leteckou nákladní dopravou, na některých trasách mohlo trvat dny, než se dostali přes vykládku a celnici.
-Jediný způsob, jak se dostat přes to rychleji, bylo poslat ho jako odbavené zavazadlo. Nařízení o letecké dopravě jim nedovolí posílat zavazadla bez cestujícího, což je místo, kam přijdete.
-Samozřejmým způsobem létání v první nebo business třídě je forvy tlustého kolíka peněz pro privilegium (nebo ještě lépe, přimět svou firmu, aby to za vás udělala).
-To však není levné: jako hrubá pravidla palce, můžete očekávat, že zaplatí až čtyřnásobek běžné ekonomiky jízdné za podnikání, a jedenáctkrát pro první třídu!
-Obecně platí, že nemá smysl ani hledat slevy na obchodní nebo prvotřídní sedadla na přímých letech z A do bodu B.
-Letecké společnosti dobře vědí, že existuje určitá hlavní skupina letců, kteří jsou ochotni zaplatit nejvyšší dolar za privilegium dostat se někam rychle a v pohodlí, a podle toho účtovat.
-Hlavním městem Moldavska je Kišinău. Místní jazyk je rumunský, ale ruština je široce používána.
-Moldavsko je multietnická republika, která trpí etnickými konflikty.
-V roce 1994 vedl tento konflikt k vytvoření samozvané Podněstří na východě Moldavska, která má vlastní vládu a měnu, ale kterou žádná země OSN neuznává.
-Ekonomické vazby byly obnoveny mezi těmito dvěma částmi Moldavska navzdory neúspěchu v politických jednáních.
-Hlavním náboženstvím v Moldavsku je pravoslavný křesťan.
-İzmir je třetím největším městem v Turecku s přibližně 3,7 miliony obyvatel, druhým největším přístavem po Istanbulu a velmi dobrým dopravním uzlem.
-Kdysi starobylé město Smyrna, to je nyní moderní, vyvinutý, a rušné obchodní centrum, rozmístit kolem obrovské zátoky a obklopené horami.
-Široké bulváry, prosklené budovy a moderní nákupní centra jsou poseté tradičními střechami s červenými výstřihy, trhem z 18. století a starými mešitami a kostely, i když město má atmosféru více středomořské Evropy než tradiční Turecko.
-Vesnice Haldarsvík nabízí výhled na nedaleký ostrov Eysturoy a má neobvyklý osmibagonový kostel.
-Na hřbitově jsou na některých hrobkách zajímavé mramorové sochy holubic.
-Stojí za půl hodiny procházet se po zajímavé vesnici.
-Na severu a v dosahu je romantické a fascinující městečko Sintra, které proslavilo cizincům po zářivé výpovědi jeho nádhery zaznamenané lordem Byronem.
-Scotturb Bus 403 pravidelně jezdí do Sintry a zastavuje se v Cabo da Roca.
-Také na severu navštivte velké Sújrijce Panny Futimské (Shrine), místo celosvětově proslulých Mariánských zjevení.
-Prosím, nezapomeňte, že v podstatě navštěvujete masové hrobové místo, stejně jako místo, které má téměř nevypočitatelný význam pro značnou část světové populace.
-Stále je mnoho živých mužů a žen, kteří zde přežili svůj čas, a mnoho dalších, kteří tam byli zavražděni nebo pracovali k smrti, Židy i nežidy.
-Prosím, zacházejí s místem se vší důstojností, vážností a respektem, kterou si zaslouží. Nedělej si legraci o holocaustu nebo nacistech.
-Nehádejte místo značkou nebo poškrábanováním graffiti do struktur.
-Barcelonské úřední jazyky jsou katalánské a španělské. Asi z půl roku je raději katalánsky, drtivá většina to chápe a prakticky každý španělsky.
-Nicméně, většina označení je uvedena pouze v Katalánsku, protože je ze zákona stanovena jako první úřední jazyk.
-Španělština je však široce využívána také ve veřejné dopravě a dalších zařízeních.
-Pravidelná oznámení v metru se konají pouze v Katalánsku, ale neplánované poruchy oznamují automatizovaný systém v široké škále jazyků včetně španělštiny, angličtiny, francouzštiny, arabštiny a japonštiny.
+Stále populárnější volbou pro ty, kteří plánují mezeru rok, je cestovat a učit se.
+To je obzvláště populární u absolventů škol, což jim umožňuje vzít si rok před univerzitou, aniž by ohrozili své vzdělání.
+V mnoha případech, zápis na mezeru-rok kurzu v zahraničí může skutečně zlepšit vaše šance na přechod do vysokoškolského vzdělávání zpět ve vaší domovské zemi.
+Typicky bude existovat školné, aby se zapsal do těchto vzdělávacích programů.
+Finsko je skvělá lodní destinace. "Země tisíce jezer" má také tisíce ostrovů, v jezerech a v pobřežních souostrovích.
+V souostroví a jezerech nemusíte nutně potřebovat jachtu.
+Ačkoli pobřežní souostroví a největší jezera jsou skutečně dostatečně velké pro každou jachtu, menší lodě nebo dokonce kajak nabízejí jiný zážitek.
+Loď je národní zábava ve Finsku, s lodí na každých sedm nebo osm lidí.
+To odpovídá Norsku, Švédsku a Novému Zélandu, ale jinak zcela unikátní (např. v Nizozemsku je tato postava jedna až čtyřicet).
+Většina z odlišných baltských plaveb má prodloužený pobyt v St. Petersburg, Rusko.
+To znamená, že můžete navštívit historické město na několik celých dnů při návratu a spánku na lodi v noci.
+Pokud se vydáme na břeh pouze pomocí výletů na palubu, budete potřebovat samostatné vízum (k roku 2009).
+Některé plavby představují Berlín, Německo v brožurách. Jak vidíte z mapy nad Berlínem, není tam, kde se nachází moře a návštěva města není zahrnuta v ceně plavby.
+Cestování letadlem může být děsivým zážitkem pro lidi všech věkových kategorií a prostředí, zejména pokud předtím neletěli nebo nezažili traumatickou událost.
+Není to něco, za co byste se měli stydět: neliší se od osobních strachů a nelibostí jiných věcí, které má velmi mnoho lidí.
+Pro některé, pochopení něco o tom, jak letadlo funguje a co se stane během letu může pomoci překonat strach, který je založen na neznámém nebo na tom, že není pod kontrolou.
+Kurýrské společnosti jsou dobře placeny za to, že doručují věci rychle. Čas je velmi důležitý s obchodními dokumenty, zboží nebo náhradními díly pro naléhavou opravu.
+Na některých trasách mají větší společnosti svá vlastní letadla, ale pro jiné trasy a menší firmy došlo k problému.
+Pokud poslali věci leteckou dopravou, na některých trasách to může trvat dny, než se dostanou přes vykládku a zvyky.
+Jediný způsob, jak ji dostat rychleji, bylo poslat ji jako odbavená zavazadla. Letecké předpisy jim neumožní posílat zavazadla bez cestujícího, což je místo, kde přijdete.
+Zřejmý způsob létání v první nebo obchodní třídě je vyčlenit hustý balík peněz pro privilegium (nebo ještě lépe, dostat svou společnost, aby to pro vás udělala).
+To však není levné: jako drsná pravidla palce, můžete očekávat, že zaplatíte až čtyřnásobek normální ekonomiky za podnikání a jedenáctkrát za první třídu!
+Obecně řečeno, nemá smysl ani hledat slevy pro obchodní nebo prvotřídní sedadla na přímých letech z A do B.
+Letecké společnosti dobře vědí, že existuje určitá základní skupina letáků, kteří jsou ochotni zaplatit nejvyšší dolar za privilegium dostat se někam rychle a pohodlně a podle toho účtovat.
+Hlavním městem Moldavska je Chişinău. Místní jazyk je rumunština, ale ruština je široce používána.
+Moldavsko je multietnická republika, která trpí etnickým konfliktem.
+V roce 1994 tento konflikt vedl k vytvoření samozvané Podněstra ve východním Moldavsku, která má svou vlastní vládu a měnu, ale není uznána žádnou členskou zemí OSN.
+Mezi těmito dvěma částmi Moldavska byly obnoveny ekonomické vazby navzdory selhání v politických jednáních.
+Hlavním náboženstvím v Moldavsku je ortodoxní křesťan.
+Izmir je třetí největší město v Turecku s přibližně 3,7 miliony obyvatel, což je druhý největší přístav po Istanbulu a velmi dobrým dopravním uzlem.
+Kdysi starobylé město Smyrna, je to nyní moderní, rozvinuté a rušné obchodní centrum, které se nachází kolem obrovského zálivu a je obklopeno horami.
+Široké bulváry, skleněné budovy a moderní nákupní centra jsou rozmístěny tradičními červenými dlaždicemi, trhem z 18. století a starými mešitami a kostely, ačkoli město má atmosféru více středomořské Evropy než tradiční Turecko.
+Vesnice Haldarsvík nabízí výhled na nedaleký ostrov Eystouroy a má neobvyklý osmiúhelníkový kostel.
+Na hřbitově, tam jsou zajímavé mramorové sochy holubic nad některými hrobkami.
+Stojí za půl hodiny, abychom se procházeli po zajímavé vesnici.
+Na severu a v dosahu je romantické a fascinující město Sintra a které se proslavilo cizincům po zářícím popisu jeho nádhery zaznamenané lordem Byronem.
+Scotturb Bus 403 pravidelně cestuje do Sintra a zastavuje se v Cabo da Roca.
+Také na severu navštíví velkou svatyni Panny Marie z Fatimy (Sheň), místo celosvětových slavných mariánských zjevení.
+Nezapomeňte, že v podstatě navštěvujete masové hroby, stejně jako místo, které má téměř nevypočitatelný význam pro významnou část světové populace.
+Stále je naživu mnoho mužů a žen, kteří zde přežili svůj čas, a mnoho dalších, kteří měli své milované, kteří byli zavražděni nebo pracovali tam k smrti, Židé i nežidů.
+Prosím, zacházejte s místem s veškerou důstojností, vážností a respektem, který si zaslouží. Nevtipkujte o holocaustu nebo nacistech.
+Neponižujte místo tím, že označíte nebo poškrábejte graffiti do struktur.
+Oficiálními jazyky Barcelony jsou Katalánština a španělština. Asi polovina dává přednost tomu, aby mluvila katalánsky, drtivá většina to chápe a prakticky každý zná španělsky.
+Většina znaků je však uvedena pouze v katalánštině, protože je stanovena zákonem jako první úřední jazyk.
+Španělština je také široce používána ve veřejné dopravě a dalších zařízeních.
+Pravidelná oznámení v metru jsou přijímána pouze v katalánštině, ale neplánované narušení jsou oznamovány automatizovaným systémem v široké škále jazyků, včetně španělštiny, angličtiny, francouzštiny, arabštiny a japonštiny.
 Pařížané mají pověst egocentrických, hrubých a arogantních.
-I když je to často jen nepřesný stereotyp, nejlepší způsob, jak se v Paříži vyjít, je být ve svém nejlepším chování a chovat se jako někdo, kdo je „bien élevé“ (dobře vychován). Bude to podstatně jednodušší.
-Náhlé vnější vločky Pařížanské se rychle vypaří, pokud se zobrazí některé základní zdvořilosti.
-Národní park Plitvická jezera je silně zalesněn, především s bukem, smrště a jedlemi a má směs alpské a středomořské vegetace.
-Má výrazně širokou škálu rostlinných společenstev, a to díky své nabídce mikroklima, různé půdy a různé úrovně nadmořské výšky.
-Oblast je také domovem extrémně široké škály živočišných a ptačích druhů.
-Ujedu, jako je medvěd z hnědé, vlk, orlí, sova, rys, divoká kočka a cvičení, se zde nachází spolu s mnoha dalšími běžnými druhy
-Při návštěvě klášterů se od žen vyžaduje, aby si oblékaly sukně zakrývající kolena a také si měly zakrytá ramena.
-Většina klášterů poskytuje zábaly pro ženy, které přijdou nepřipravené, ale když si přinesete vlastní, zvlášť jednu s jasnými barvami, u vchodu se vám usměme.
-Ve stejné linii jsou muži povinni nosit kalhoty pokrývající kolena.
-I to si můžete půjčit ze zásob u vchodu, ale že oblečení se nepromýtí po každém uživateli, takže se možná necítíte pohodlně na sobě tyto sukně. Jedna velikost padne všem pro muže!
-Majorcan cuisine, stejně jako u podobných zón ve Středomoří, je založena na chlebu, zelenině a mase (zejména vepřovém), a používá olivový olej v celém.
-Jednoduchou oblíbenou večeří, zejména v létě, je Pa amb Oli: Chléb s olivovým olejem, rajčaty a k dispozici koření, jako je sýr, tuňák atd.
-Všechna podstatná jména, vedle slova Sie pro vás, vždy začínají s velkým písmenem, dokonce uprostřed věty.
-To je důležitý způsob, jak rozlišit některá slovesa a objekty.
-Také pravděpodobně usnadňuje čtení, i když psaní je poněkud komplikované potřebou zjistit, zda je sloveso nebo přídavné jméno použito v substantivaci.
-Výslovnost je v italštině poměrně snadná, protože většina slov se vyslovuje přesně tak, jak jsou napsána
-Hlavní písmena, na která je třeba si dávat pozor, jsou c a g, protože jejich výslovnost se liší na základě následující samohy.
-Také, ujistěte se, že vyslovit r a rr odlišně: caro znamená drahé, zatímco carro znamená vozík.
-Peršan má poměrně snadnou a většinou běžnou gramatiku.
-Proto, čtení této gramatické primer by vám pomohlo dozvědět se hodně o perské gramatice a lépe porozumět fráze.
-Netřeba říkat, že když znáte románský jazyk, bude pro vás jednodušší naučit se portugalštinu.
-Lidé, kteří znají trochu španělštiny, však mohou spěšně dospět k závěru, že Portugalci jsou natolik blízko, že se nemusí studovat odděleně.
-Předmoderní observatoře jsou dnes obvykle zastaralé a zůstávají jako muzea nebo vzdělávacích míst.
-Vzhledem k tomu, že světelné znečištění v jejich rozkvětu nebylo problémem, kterým je dnes, obvykle se nacházejí ve městech nebo na kampusech, na které se snadněji dosaží než ti, které jsou postaveny v moderní době.
-Většina moderních výzkumných teleskopů je obrovská zařízení v odlehlých oblastech s příznivými atmosférickými podmínkami.
-Sledování třešňových květů, známé jako hanami, je součástí japonské kultury od 8. století.
-Koncept pochází z Číny, kde švestkové květy byly květinou volby.
-V Japonsku pořádal první strany třešňových květů císař pouze pro sebe a další členy aristokracie kolem císařského dvora.
-Rostliny vypadají co nejlépe, když jsou v přírodním prostředí, takže odolávají pokušení odstranit i „jen jeden“ exemplář.
-Pokud navštívíte formálně uspořádanou zahradu, sběrem „specimens“ vás také odstraní, bez diskuze.
-Singapur je obecně extrémně bezpečné místo k pobavení a velmi snadné navigaci, a můžete si koupit téměř cokoliv po příjezdu.
-Ale když se umístí do „high tropů“ jen pár stupňů severně od rovníku, budete se muset vypořádat jak s vedrem (vždy) a silným sluncem (když je obloha jasná, zřídka).
-Existuje také několik autobusů jedoucího na sever do Hebronu, tradičního pohřebiště biblických patriarchů Abrahama, Izáka, Jákoba a jejich manželky.
-Zkontrolujte, zda autobus, který si myslíte, že vezmete do Hebronu a ne jen do nedaleké židovské osady Kirjat Arba.
-Vnitrozemské vodní cesty mohou být dobrým tématem k založení dovolené kolem.
-Například návštěva hradu v údolí Loiry, údolí Rýn nebo plavba na zajímavé citáty na Dunaji nebo na prkýnování podél kanálu Erie.
+I když je to často jen nepřesný stereotyp, nejlepší způsob, jak se dostat spolu v Paříži, je stále být na vašem nejlepším chování, chovat se jako někdo, kdo je "bien élevé" (dobře vychovávaný). Bude to být stále mnohem jednodušší.
+Náhlé exteriéry Pařížanů se rychle vypařují, pokud zobrazíte některé základní zdvořilosti.
+Národní park Plitvických jezer je silně zalesněný, hlavně s bukem, smrkem a jedlem, a má směs alpské a středomořské vegetace.
+Má výrazně širokou škálu rostlinných komunit, vzhledem k rozsahu mikroklimat, různých půd a měnících se úrovní nadmořské výšky.
+Tato oblast je také domovem velmi široké škály živočišných a ptačích druhů.
+Vzácná fauna, jako je evropský medvěda, vlka, orla, sova, rysa, divoké kočky a kapercaillie, lze nalézt spolu s mnoha dalšími běžnými druhy.
+Při návštěvě klášterů jsou ženy povinny nosit sukně pokrývající kolena a mít také zakrytá ramena.
+Většina klášterů poskytuje zábaly pro ženy, které přicházejí nepřipravené, ale pokud si přinesete své vlastní, zejména s jasnými barvami, získáte úsměv od mnicha nebo jeptišky u vchodu.
+Ve stejném duchu jsou muži povinni nosit kalhoty pokrývající kolena.
+To také může být vypůjčeno ze zásob u vchodu, ale toto oblečení není umyto po každém uživateli, takže se nemusíte cítit pohodlně nosit tyto sukně. Jedna velikost se hodí pro muže!
+Mallorcan kuchyně, stejně jako podobná zóna ve Středomoří, je založena na chlebu, zelenině a mase (speciálně vepřové) a používá olivový olej po celou dobu.
+Jednoduchá oblíbená večeře, zejména v létě, je Pa amb Oli: Bread s olivovým olejem, rajčaty a všechny dostupné koření, jako je sýr, tunafish atd.
+Všechna jména, vedle slova Sie pro vás, vždy začínají velkým písmenem, dokonce i uprostřed věty.
+To je důležitý způsob, jak rozlišit mezi některými slovesy a objekty.
+To také pravděpodobně usnadňuje čtení, i když psaní je poněkud komplikované tím, že je třeba zjistit, zda je sloveso nebo přídavné jméno použito v kladněné formě.
+Výslovnost je v italštině poměrně snadná, protože většina slov se vyslovuje přesně tak, jak jsou napsána.
+Hlavní písmena, na která je třeba dávat pozor, jsou c a g, protože jejich výslovnost se liší v závislosti na následující samohlásky.
+Také se ujistěte, že vyslovujete r a r jinak: auto znamená drahé, zatímco carro znamená vůz.
+Peršan má poměrně snadnou a většinou pravidelnou gramatiku.
+Proto by čtení tohoto gramagramového primeru vám pomohlo dozvědět se hodně o perské gramatu a lépe porozumět frázím.
+Netřeba dodávat, že pokud znáte řeč o románu, bude pro vás snazší se naučit portugalsky.
+Nicméně, lidé, kteří znají trochu španělštiny, mohou rychle dospět k závěru, že portugalština je dostatečně blízko, aby nemusela být studována samostatně.
+Pre-moderní observatoře jsou dnes obvykle zastaralé a zůstávají jako muzea nebo místa vzdělávání.
+Vzhledem k tomu, že světelné znečištění v jejich rozkvětu nebylo druhem problému, který je dnes, jsou obvykle umístěny ve městech nebo v kampusech, snadněji se dostanete než ty, které byly postaveny v moderní době.
+Většina moderních výzkumných dalekohledů je obrovskými zařízeními v odlehlých oblastech s příznivými atmosférickými podmínkami.
+Pohled na třtivý květ, známý jako hanami, je součástí japonské kultury od 8. století.
+Koncept přišel z Číny, kde švestkové květy byly květem volby.
+V Japonsku byly první večírky večírky pořádány císařem pouze pro sebe a další členy aristokracie kolem císařského dvora.
+Rostliny vypadají co nejlépe, když v přirozeném prostředí, takže odolejte pokušení odstranit i „jen jeden“ exemplář.
+Pokud navštívíte formálně uspořádanou zahradu, sbírání "specimenů" vás také vyvrhne, bez diskuse.
+Singapur je obecně velmi bezpečné místo k navigaci a velmi snadné navigovat a po příjezdu si můžete koupit téměř vše.
+Ale být umístěn v "vysokých tropech" jen několik stupňů severně od rovníku budete muset vypořádat jak s teplem (vždy) a silným sluncem (když je obloha jasná, vzácněji).
+Existuje také několik autobusů, které jedou na sever do Hebronu, tradiční pohřebiště biblických patriarchů Abrahama, Izáka, Jákoba a jejich manželek.
+Zkontrolujte, zda autobus, který uvažujete o tom, že se dostanete do Hebronu, a ne jen do nedaleké židovské osady Kiryat Arba.
+Vnitrozemské vodní cesty mohou být dobrým tématem pro založení dovolené kolem.
+Například návštěva hradů v údolí Loiry, údolí Rýna nebo plavba do zajímavých citací na Dunaji nebo lodí podél Erie Canal.
 Definují také trasy pro oblíbené turistické a cyklistické stezky.
-Vánoce jsou jedním z nejdůležitějších svátků křesťanství a jsou oslavovány jako Ježíšovy narozeniny.
-Mnoho tradic obklopujících dovolenou bylo přijato i nevěřícími v křesťanských zemích a nekřesťany po celém světě.
-Existuje tradice projít velikonoční nocí vzhůru v nějakém exponovaném místě, aby se viděl východ slunce.
-Pro tuto tradici jsou samozřejmě křesťanská teologická vysvětlení, ale může to být rituál předkřesťanského jara a plodnosti.
-Tradičnější církve se v sobotu během velikonočního víkendu často konají velikonoční vigilii, kde se kongregace často vloupají do oslav úderu půlnoci, aby oslavily Kristovo vzkříšení.
-Všechna zvířata, která původně dorazila na ostrovy, sem přišla buď plaváním, létáním nebo plovou.
-Vzhledem k dlouhé vzdálenosti od kontinentu se savci nemohli vydat na cestu a obří želva se stala hlavním pasáckým zvířetem na Galapáře.
-Od příchodu muže na Galapágy bylo zavedeno mnoho savců, včetně koz, koní, krav, krys, koček a psů.
-Pokud v zimě navštívíte arktické nebo antarktické oblasti, zažijete polární noc, což znamená, že slunce nevyletěe nad obzor.
-To nabízí dobrou příležitost vidět Aurora borealis, protože obloha bude temná více méně po celý den.
-Vzhledem k tomu, že oblasti jsou řídce osídleny, a proto je světelné znečištění často problém, budete si také moci užívat hvězdy.
-Japonská pracovní kultura je hierarchičtější a formálnější, na kterou mohou být lidé ze Západu zvyklí.
-Obleky jsou standardním obchodním oděvem a spolupracovníci se navzájem nazývají jmény nebo pracovním titulem.
-Zásadní je harmonie na pracovišti, která klade důraz na skupinové úsilí, spíše než chválit individuální úspěchy.
-Pracovníci musí často získat souhlas svých nadřízených ke všem rozhodnutím, která učiní, a očekává se, že bez otázek budou poslouchat pokyny svých nadřízených.
+Vánoce jsou jedním z nejdůležitějších svátků křesťanství a slaví se jako Ježíšovy narozeniny.
+Mnohé z tradic kolem svátku byly přijaty také nevěřícími v křesťanských zemích a nekřesťany po celém světě.
+Existuje tradice, kterou je třeba projít velikonoční noc vzhůru v nějakém exponovaném místě, abyste viděli východ slunce.
+Pro tuto tradici existují samozřejmě křesťanská teologická vysvětlení, ale může to být předkřesťanský rituál jara a plodnosti.
+Tradiční církve často pořádají velikonoční vigilii v sobotu večer během velikonočního víkendu, kdy se sbory často pronikají do oslavy úderu půlnoci, aby oslavily Kristovo vzkříšení.
+Všechna zvířata, která původně dorazila na ostrovy, sem přišla buď koupáním, létáním, nebo plovoucím.
+Vzhledem k dlouhé vzdálenosti od kontinentu savci nebyli schopni udělat cestu dělat obří želva primární pastviny na Galapáfy.
+Od příchodu člověka na Galapágy bylo představeno mnoho savců, včetně koz, koní, krav, krys, koček a psů.
+Pokud v zimě navštívíte arktické nebo antarktické oblasti, zažijete polární noc, což znamená, že slunce nevyjde nad horizont.
+To nabízí dobrou příležitost vidět Aurora borealis, protože obloha bude tma více či méně po celý den.
+Vzhledem k tomu, že oblasti jsou řídce osídlené a světelné znečištění proto často není problém, budete si také moci vychutnat hvězdy.
+Japonská pracovní kultura je více hierarchická a formální než to, na co mohou být lidé ze Západu zvyklí.
+Obleky jsou standardní obchodní oděv a spolupracovníci se navzájem nazývají svými rodinnými jmény nebo podle pracovních titulů.
+Harmonie na pracovišti je klíčová, zdůrazňující skupinové úsilí spíše než chválila individuální úspěchy.
+Pracovníci musí často získat souhlas svých nadřízených pro jakákoli rozhodnutí, která učiní, a očekává se, že budou bez otázek dodržovat pokyny svých nadřízených.

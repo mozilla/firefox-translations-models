@@ -1,1997 +1,1997 @@
-Velšští ampar. se obávají 'vypadat jako muppeti'
-Mezi některými AMS panuje zděšení na návrhu, že by se jejich titul měl změnit na MWPs (člen velšského parlamentu).
-Vznikla kvůli plánům změnit název shromáždění na velšský parlament.
-AMS napříč politickým spektrem se obávají, že by to mohlo vyvolat posměch.
-Jeden labouristický poslanec řekl, že jeho skupina je znepokojena „to rýmuje s Twp a Pwp.“
-Pro čtenáře mimo Wales: Ve Velšském twpu znamená hloupý a pwp znamená hovínko.
-A Plaid AM řekl, že skupina jako celek „není šťastná“ a navrhla alternativy.
-Velšský konzervativec řekl, že jeho skupina je „otevřena“ ohledně změny názvu, ale poznamenala, že to byl krátký slovní poskoč od MWP k Muppetovi.
-V této souvislosti Velšský dopis je vyslovován podobně jako Yorkshireská anglická výslovnost dopisu u.
-Komise Shromáždění, která v současné době připravuje legislativu, aby zavedla změny názvu, uvedla: „Konečné rozhodnutí o všech deskriptorech toho, co jsou poslanci shromáždění nazýváni, bude samozřejmě záležitostí samotných členů.“
-Zákon vlády Walesu z roku 2017 dal velšskému shromáždění pravomoc změnit svůj název.
-V červnu Komise zveřejnila výsledky veřejné konzultace k návrhům, která obecně podporuje svolání shromáždění velšským parlamentem.
-Pokud jde o název AMS, Komise upřednostnila poslance ve velšském parlamentu nebo WMP, ale možnost MWP získala největší podporu v rámci veřejné konzultace.
-AMS zjevně navrhují alternativní možnosti, ale boj o dosažení konsensu by mohl být bolet hlavy pro předsedu Elin Jonesovou, od níž se očekává, že během několika týdnů předloží návrh legislativy o změnách.
-Právní předpisy týkající se reforem budou zahrnovat další změny způsobu práce na shromáždění, včetně pravidel pro případ zákazu akony systému projednávání arizátorů.
-AMS se bude hlasovat o otázce, kterou by měly být nazvány při projednávání právních předpisů.
-Makedonci jdou v referendu k volbám o změně názvu země
-Voliči budou v neděli hlasovat o tom, zda změnit název své země na „Republika Severní Makedonie“.
-Lidové hlasování bylo zahájeno s cílem vyřešit desítky let trvající spor se sousedním Řeckem, které má vlastní provincii zvané Makedonie.
-Atény dlouho trval na tom, že jméno jeho severního souseda představuje nárok na jeho území a opakovaně protestuje proti svým nabídkám na členství v EU a NATO.
-Makedonský prezident Gjorge Ivanov, oponent plebiscitu na změně názvu, řekl, že hlasování nebude brát v potaz.
-Zastánci referenda, včetně premiéra Zorana Zavajeva, však tvrdí, že změna názvu je pouhou cenou za vstup do EU a NATO.
-Zvony ze St. Martin's Fall Silent as Churches in Harlem Struggle
-„Historicky ti staří lidé, se kterými jsem mluvil, říkali, že na každém rohu byl bar a kostel,“ řekl pan. Adams řekl.
-„Dnes nic není.“
-Řekl, že zmizení mříží je pochopitelné.
-„Lidé se dnes socializují jinak,“ řekl.
-„Bary už nejsou sousedské obýváky, kam lidé pravidelně chodí.“
-Pokud jde o církve, obává se, že peníze z prodeje aktiv nevydrží tak dlouho, jak lídři očekávají, že budou, „a dříve nebo později budou hned tam, kde začaly“.
-Jak dodal, že církve by mohly být nahrazeny bytovými domy s obytnými domy plnými lidí, kteří nebudou pomáhat zbývajícím útočištím v sousedství.
-„Drtivá většina lidí, kteří v těchto budovách kupují obytné domy, bude běloch,“ řekl, „a proto uspíší den, kdy se tyto církve zavřou úplně, protože je nepravděpodobné, že většina těchto lidí, kteří se do těchto kondominií nastěhují, se stane členy těchto církví.“
-Obě kostely byly postaveny bílými kongregacemi, než se Harlelem stal černošskou metropolitou – metropolitní komunitou v roce 1870, St. Martina je o deset let později.
-Původní bílá metodistická kongregace se odstěhovala ve třicátých letech.
-Černošská kongregace, která se chovala nedaleko, si k budově vzala titul.
-St. Martin převzal černý kongregace pod reverendem. John Howard Johnson, který vedl bojkot maloobchodníků na 125. ulici, hlavní ulici pro nákupy v Harlemu, který se bránil najímání nebo propagaci černochů.
-Požár v roce 1939 byl po požáru těžce poškozen, ale když farníci otce Johnsona plánovali přestavbu, objednali si carillon.
-Reverend. David Johnson, syn otce Johnsona a nástupce v St. Martin, hrdě nazval carillona „zvoněmi chudáků“.
-Odborník, který hrál carillon v červenci, ho nazval něco jiného: „Kulturní poklad“ a „neohromitelným historickým nástrojem“.
-Odbornice Tiffany Ngová z Michiganské univerzity také poznamenala, že to byl první carillon na světě, který hrál černošský hudebník Dionisio A. Lind, který se před 18 lety přestěhoval do většího karillonu v Riverside Church.
-Pane. Merriweather řekl, že St. Martin ho nenahradil.
-Co se odehrálo v St. Martin v posledních několika měsících byl komplikovaný příběh o architektech a dodavateli, z nichž některé přinesli laičtí vůdci církve, jiní episkopální diecézí.
-Vakroty – řídící orgán farnosti, složený z laických vůdců – napsal diecézi v červenci s obavami, že diecéze „bude usilovat o přenesení nákladů“ na sjevu kajutě, i když neverenantství nebylo zapojeno do najímání architektů a dodavatelů diecéze poslal dovnitř.
-Někteří farníci si stěžovali na nedostatek transparentnosti na straně diecéze.
-Žralok zranil třináctiletého při potopení humra v Kalifornii
-Žralok napadl a zranil třináctiletého chlapce v sobotu, když se potápěl na humra v Kalifornii v den zahájení sezóny humrů, uvedli oficiální činitelé.
-K útoku došlo těsně před sedmou ráno poblíž Beacon's Beach v Encinitas.
-Chad Hammel řekl KSWB-TV v San Diegu, že se v sobotu ráno potápěl s přáteli asi půl hodiny ráno, když uslyšel chlapce, jak křičí o pomoc, a pak se ženou a pak se ženou, aby ho vytáhla z vody.
-Hammel nejdřív řekl, že si nejdřív myslel, že je to jen vzrušení z chytání humra, ale pak si uvědomil, že křičí: „Kousla mě!
-Já mě kousl!“
-Celá jeho klíční kost byla rozervaná,“ řekl Hammel, všiml si, že když se dostal k chlapci.
-„Křičel jsem na všechny, ať vystoupí z vody: 'Ve vodě je žralok!'“ Hammel dodal.
-Chlapec byl letecky přepraven do Dětské nemocnice Rady v San Diegu, kde je v kritickém stavu.
-Druh žraloka zodpovědný za útok nebyl znám.
-Plavčík kapitán. Larry Giles na tiskovém brífinku řekl, že v oblasti byl před několika týdny spatřen žralok, ale bylo zjištěno, že se nejedná o nebezpečný druh žraloka.
-Giles dodal, že oběť utrpěla traumatická zranění v oblasti trupu.
-Úředníci uzavřeli přístup na pláž z Ponto Beach v Casabladu do Swami's v Ecinitas po dobu 48 hodin pro vyšetřování a bezpečnostní účely.
-Giles poznamenal, že v oblasti je více než 135 druhů žraloků, ale většina z nich není považována za nebezpečné.
-Sainsbury's plans push into UK beauty market
-Sainsbury's se pustí do Boots, Superdrug a Debenhams s uličkami krásy ve stylu obchodního domu obsazené specializovanými asistenty.
-V rámci výrazného tlaku na britský trh krásy za 2,8 miliardy liber, který nadále roste, zatímco prodej módy a domácích potřeb opět klesne, budou větší uličky krásy testovány v 11 obchodech po celé zemi a příští rok se v případě úspěchu přesunou do dalších obchodů.
-Investice do krásy přichází ve chvíli, kdy supermarkety loví způsoby, jak využít prostor v regálech, kdysi žalován pro televizi, mikrovlny a domácí potřeby.
-Sainsbury's uvedla, že zdvojnásobí velikost své nabídky krásy až na 3000 produktů, včetně značek jako Revlon, Essie, Tweezerman a Dr. PawPaw poprvé.
-Stávající se od L'Oreal, Maybelline a Burt's Bees také získají více prostoru s značkovými oblastmi podobnými těm, které se nacházejí v obchodech jako Boots.
-Supermarket také znovu zahajuje svůj sortiment Boutique, aby většina výrobků byla vegansky přátelská – což mladší zákazníci stále více požadují.
-Kromě toho bude obchodník s parfémy vrněn Virtuňák testovat koncese ve dvou obchodech Sainsbury's, z nichž první byl otevřen minulý týden v Croydonu v jižním Londýně, zatímco druhý se otevře v Selly Oak v Birminghamu, koncem tohoto roku.
-On-line nakupování a posun směrem k nákupu malého množství potravin denně v místních samoobsluhách znamená, že supermarkety musí udělat více přesvědčit lidi k návštěvě.
-Mike Coupe, šéf společnosti Sainsbury's, řekl, že prodejny budou vypadat stále více jako obchodní domy, protože řetězec supermarketů se snaží bojovat proti discounters Aldi a Lidl s více službami a nepotravinářské.
-Sainsbury's uvádí prodejny v Argosu ve stovkách obchodů a od doby, kdy před dvěma lety koupil oba řetězce, také zavedla řadu obyvatelstev, což podle ní posílilo prodej potravin a učinilo akvizice ziskovějšími.
-Předchozí pokus supermarketu o vylepšení svých kosmetických a lékárenských oddělení skončil neúspěchem.
-Sainsbury's na začátku 21. století testovali společný podnik s Boots, ale spojení skončilo po hádce o to, jak si rozdělit tržby z lékáren ve svých supermarketech.
-Nová strategie přichází poté, co Sainsbury's před třemi lety prodala svůj 281-store lékárenský podnik Celesiovi, majiteli řetězce Lloyds Pharmacy, za 125 milionů liber.
-Stálo v něm, že Lloyds bude hrát roli v plánu, přidáním širší škály luxusních značek péče o pleť včetně La Roche-Posay a Vichy ve čtyřech obchodech.
-Paul Mills-Hicks, obchodní ředitel Sainsbury's, řekl: „Proměnili jsme vzhled a pocit našich krásných uliček, abychom pro naše zákazníky zlepšili prostředí.
-Investovali jsme také do speciálně vyškolených kolegů, kteří budou mít po ruce, aby jim nabídli radu.
-Naše nabídka značek je navržena tak, aby vyhovovala každé potřebě a přiléhavému prostředí a pohodlným místům, což znamená, že jsme nyní přesvědčivou kosmetickou destinací, která zpochybňuje starý způsob nakupování.“
-Peter Jones „zuří“ po Holly Willoughbyové z obchodu za 11 milionů liber
-Hvězda seriálu Draci Peter Jones „zuří“ poté, co televizní moderátorka Holly Willoughbyová odstoupila z obchodu se svou obchodem se značkou životního stylu za 11 milionů liber, aby se zaměřila na své nové smlouvy s Marksem a Spencerem a ITV
-Willoughby nemá čas na své oblečení a doplňky značky Truly.
-Podnik dvojice byl přirovnáván ke značce Goop Gwyneth Paltrow.
-Moderátorka pořadu Morning, 37, na Instagramu oznámila, že odchází.
-Holly Willoughbyová nechala Dragons Denskou hvězdu Petera Jonese soptí, když na poslední chvíli vystoupila z jejich lukrativního podnikání v oblasti značky životního stylu – aby se zaměřila na své nové nárazové smlouvy s Marks & Spencer a ITV.
-Zdroje tvrdí, že Jones byl „zuřivý“, když zlatá televizní dívka přiznala během napjatého úterního setkání v sídle jeho obchodního impéria v Marlow, Buckinghamshire, že její nové nabídky – v hodnotě až 1,5 milionu liber – už nemají dost času věnovat své domácí a doplňky značky Truly.
-Podnik byl přirovnáván ke značce Goop Gwyneth Paltrow a dostal se na dvojnásobek Willoughbyho jmění v odhadované výši 11 milionů liber.
-Když sedmatřicetiletá Willoughbyová na Instagramu oznámila, že odjíždí Truly, odletěl Jones z Británie, aby zamířil do jednoho ze svých prázdninových domů.
-Zdroj řekl: „Opravdu to bylo zdaleka vrcholem Hollyiných priorit.
-Měla to být její dlouhodobá budoucnost, která ji čeká v příštích několika desetiletích.
-Její rozhodnutí stáhnout všechny, kterých se to týká, byli naprosto ohromeni.
-Nikdo nemohl uvěřit, co se děje v úterý, to bylo tak blízko k startu.
-Na velitelství v Marlow je sklad plný zboží, které je připraveno k prodeji.“
-Odborníci se domnívají, že odchod moderátora pořadu This Morning, který patří mezi nejbankovitější britské hvězdy, by mohl firmu stát miliony kvůli tučným investicím do výrobků od polštářů a svíček až po oblečení a domácí oblečení a možnosti dalších odkladů na uvedení na trh.
+Welsh AMs se obávají "vypadat jako muppets"
+Existuje zděšení mezi některými AM na návrh, že jejich název by se měl změnit na MWP (Člen z velšského parlamentu).
+Vznikla kvůli plánům na změnu názvu shromáždění na velšský parlament.
+AMs napříč politickým spektrem se obávají, že by to mohlo pozvat posměch.
+Jeden labouristický AM řekl, že jeho skupina byla znepokojena „to se rýmuje s Twp a Pwp“.
+Pro čtenáře mimo Wales: Ve velštině twp znamená daft a pwp znamená foukání.
+Plaid AM řekl, že skupina jako celek "nebyla šťastná" a navrhla alternativy.
+Velšský konzervativec řekl, že jeho skupina byla "otevřena" ohledně změny názvu, ale poznamenal, že to byl krátký slovní očkovací ráz od MWP po Muppet.
+V této souvislosti The Welsh Letter w je vyslovován podobně jako Yorkshire anglické výslovnosti písmene u.
+Komise Shromáždění, která v současné době připravuje legislativu, aby zavedla změny názvu, uvedla: "Konečné rozhodnutí o všech deskriptorech toho, co jsou poslanci shromáždění nazýváni, bude samozřejmě záležitostí samotných členů."
+Zákon o vládě Walesu z roku 2017 dal velšskému shromáždění pravomoc změnit svůj název.
+V červnu Komise zveřejnila výsledky veřejné konzultace o návrzích, které nalezly širokou podporu pro svolání shromáždění za velšský parlament.
+Ve věci týkající se titulu AMs Komise zvýhodnila velšské parlamentní poslance nebo WMP, ale možnost MWP získala největší podporu ve veřejné konzultaci.
+AMs zřejmě navrhují alternativní možnosti, ale boj o dosažení konsensu by mohl být bolest hlavy pro předsedajícího důstojníka Elina Jonese, který se očekává, že předloží návrh právních předpisů o změnách během několika týdnů.
+Právní předpisy o reformách budou zahrnovat další změny ve způsobu fungování shromáždění, včetně pravidel pro diskvalifikaci AM a návrhu systému výboru.
+AMs bude mít konečné hlasování o tom, co by měly být nazývány, když budou diskutovat o legislativě.
+Makedonci jdou k volbám v referendu o změně názvu země
+Voliči budou v neděli hlasovat o tom, zda změní jméno své země na „republiku Severní Makedonie“.
+Lidové hlasování bylo uspořádáno ve snaze vyřešit desetiletí trvající spor se sousedním Řeckem, které má vlastní provincii s názvem Makedonie.
+Atény již dlouho trvají na tom, že jméno jejího severního souseda představuje nárok na svém území a opakovaně vznesl námitky proti jeho žádostem o členství v EU a NATO.
+Makedonský prezident Gjorge Ivanov, odpůrce plebiscitu na změně názvu, řekl, že bude hlasování ignorovat.
+Příznivci referenda, včetně premiéra Zorana Zaeva, však tvrdí, že změna názvu je jednoduše cenou za vstup do EU a NATO.
+Zvony sv. S. Martinův pád mlčenlivý jako kostely v Harlemském boji
+"Historicky, staří lidé, se kterými jsem mluvil, říkají, že na každém rohu byl bar a kostel," řekl. Řekl Adams.
+"Dnes není ani jedno."
+Řekl, že zmizení barů je pochopitelné.
+"Lidé se socializují jinak" v dnešní době, řekl.
+"Banky již nejsou sousedními obývacími pokoji, kam lidé chodí pravidelně."
+Pokud jde o církve, obává se, že peníze z prodeje aktiv nebudou trvat tak dlouho, jak to očekávají vůdci, "a dříve nebo později budou zpět tam, kde začali."
+Kostely, dodal, by mohly být nahrazeny bytovými domy s byty naplněnými druhem lidí, kteří nebudou pomáhat zbývajícím svatyním v sousedství.
+"Drtivá většina lidí, kteří v těchto budovách kupují byty, bude bílá, a proto urychlí den, kdy se tyto církve úplně zavřou, protože je nepravděpodobné, že většina těchto lidí, kteří se přestěhují do těchto bytů, se stanou členy těchto církví."
+Oba kostely byly postaveny bílými kongregacemi předtím, než se Harlem stal černou metropolí - Metropolitní společenství v roce 1870, St. Martin je o deset let později.
+Původní bílá metodistická kongregace se přestěhovala ve třicátých letech minulého století.
+Černá kongregace, která uctívala poblíž, získala titul k budově.
+St. Martinovi převzala černošská kongregace pod Revem. John Howard Johnson, který vedl bojkot maloobchodníků na 125. ulici, hlavní ulici pro nákupy v Harlemu, který se bránil najímání nebo propagaci černochů.
+Požár v roce 1939 zanechal budovu těžce poškozenou, ale jak farníci otce Johnsona plánovali přestavět, oni pověřili carillona.
+Rev. David Johnson, syn otce Johnsona a nástupce v St. Martinův, hrdě nazývaným carillon "zvonění chudých lidí".
+Expert, který hrál na karolon v červenci, to nazval něčím jiným: „Kultivistický poklad“ a „nenahraditelný historický nástroj“.
+Expertka Tiffany Ng z University of Michigan také poznamenala, že se jedná o první kolonu na světě, který hrál černý hudebník Dionisio A. Lind, který se přestěhoval do většího carillonu v Riverside Church před 18 lety.
+Pane. Merriweather říkal, že St. Martin ho nenahradil.
+To, co se odehrálo na St. Martin je v posledních několika měsících byl komplikovaným příběhem architektů a dodavatelů, někteří přinesli laičtí vůdci církve, jiní episkopální diecéze.
+Vestry - farní řídící orgán, složený z laických vůdců - napsal diecézi v červenci s obavami, že diecéze "bude usilovat o to přenést náklady" na vestr, i když vestr nebyl zapojen do najímání architektů a dodavatelů diecéze poslal dovnitř.
+Někteří farníci si stěžovali na nedostatek transparentnosti ze strany diecéze.
+Žralok zranil 13letého chlapce na ponoru humrů v Kalifornii
+Žralok v sobotu napadl a zranil 13letého chlapce, když se potápěl pro humra v Kalifornii v den zahájení sezóny humrů, uvedli úředníci.
+K útoku došlo těsně před sedmou hodinou ráno poblíž Beaconovy pláže v Encinitas.
+Chad Hammel řekl KSWB-TV v San Diegu, že se potápěl s přáteli asi půl hodiny v sobotu ráno, když slyšel chlapce křičet o pomoc a pak pádloval se skupinou, která ho pomohla vytáhnout z vody.
+Hammel nejprve řekl, že si myslel, že je to jen vzrušení z chytání humra, ale pak si „uvědomil, že křičí: ‚Dostal jsem se do kousnutí!
+Dostal jsem se do kousnutí!"
+Celá jeho klíční kost byla roztrhaná," řekl Hammel, že si všiml, že jakmile se dostal k chlapci.
+"Křičel jsem na všechny, aby se dostali z vody:" Ve vodě je žralok! "" Přidal Hammel.
+Chlapec byl letecky převezen do dětské nemocnice Rady v San Diegu, kde je uveden v kritickém stavu.
+Druh žraloků zodpovědných za útok nebyl znám.
+Novinářský zajatec. Larry Giles na tiskové konferenci uvedl, že v oblasti byl před několika týdny spatřen žralok, ale bylo rozhodnuto, že nebude nebezpečným druhem žraloka.
+Giles dodal, že oběť utrpěla traumatická zranění v horní části trupu.
+Úředníci uzavřeli přístup na pláž od Ponto Beach v Casabraldu do Swami v Ecinitas na 48 hodin pro vyšetřování a bezpečnostní účely.
+Giles poznamenal, že v oblasti je více než 135 druhů žraloků, ale většina z nich není považována za nebezpečnou.
+Sainsbury plány tlačí na britský trh krásy
+Sainsbury's se ujímá Boots, Superdrug a Debenhams s obchodními skladbami ve stylu kosmetických uliček obsluhovaných specializovanými asistenty.
+Jako součást značného tlaku na britský trh krásy ve výši 2,8 miliardy liber, který pokračuje v růstu, zatímco prodej módy a domácích potřeb klesá, větší uličky krásy budou testovány v 11 obchodech po celé zemi a příští rok, pokud se ukáže jako úspěch.
+Investice do krásy přichází v době, kdy supermarkety loví způsoby, jak využít regálový prostor, jakmile je žalován pro televizory, mikrovlnné trouby a domácí potřeby.
+Sainsbury's uvedla, že zdvojnásobí velikost své nabídky krásy až na 3 000 produktů, včetně značek jako Revlon, Essie, Tweezerman a Dr. PawPaw poprvé.
+Stávající sagalovy od L'Oréal, Maybelline a Burt's Bees také získají více prostoru s značkovými oblastmi podobnými těm, které se nacházejí v obchodech, jako jsou Boots.
+Supermarket také obnovuje svůj sortiment make-upu Boutique tak, aby většina produktů byla vegansky přívětivá - něco, co je stále více požadováno mladšími nakupujícími.
+Kromě toho bude maloobchodník s parfémy The Fragance Shop testovat koncese ve dvou obchodech Sainsbury, z nichž první byl otevřen v Croydonu v jižním Londýně minulý týden, zatímco se otevře druhý v Selly Oak v Birminghamu, později v tomto roce.
+Online nakupování a posun směrem k nákupu malého množství potravin denně v místních obchodech s potravinami znamená, že supermarkety musí udělat více, aby přesvědčily lidi, aby navštívili.
+Mike Coupe, generální ředitel společnosti Sainsbury's, uvedl, že prodejny budou vypadat stále více jako obchodní domy, protože řetězec supermarketů se snaží bojovat proti diskontním osobám Aldimu a Lidl s více službami a nepotravinami.
+Sainsbury's umístila prodejny Argos ve stovkách obchodů a také představila řadu Habitatů od doby, kdy před dvěma lety koupila oba řetězce, což podle ní posílilo prodej potravin a učinilo akvizice ziskovějšími.
+Předchozí pokus supermarketu o přepracování svých kosmetických a farmaceutických oddělení skončil neúspěchem.
+Sainsbury's testoval společný podnik s Boots na počátku roku 2000, ale spojení skončilo po hádce o tom, jak rozdělit příjmy z obchodů s chemikem ve svých supermarketech.
+Nová strategie přichází poté, co společnost Sainsbury's prodala svůj 281-obchodní lékárna společnosti Celesio, majiteli řetězce Lloyds Pharmacy, za 125 milionů liber, před třemi lety.
+Společnost Lloyds bude hrát roli v plánu tím, že přidá rozšířenou škálu luxusních značek péče o pleť, včetně La Roche-Posay a Vichy ve čtyřech obchodech.
+Paul Mills-Hicks, obchodní ředitel společnosti Sainsbury, řekl: „Změnili jsme vzhled a pocit našich uliček krásy, abychom zlepšili životní prostředí pro naše zákazníky.
+Investovali jsme také do speciálně vyškolených kolegů, kteří budou po ruce, aby nabídli rady.
+Naše řada značek je navržena tak, aby vyhovovala všem potřebám a lákavému prostředí a pohodlným místům znamenají, že jsme nyní přesvědčivou kosmetickou destinací, která zpochybňuje starý způsob nakupování. "
+Peter Jones "rozzuřený" poté, co Holly Willoughbyová odstoupila z 11 milionů liber.
+Hvězda Dragons Den Peter Jones opustil "rozzuřený" poté, co televizní moderátorka Holly Willoughby vytáhne z 11 milionů liber dohody s jeho podnikáním v oblasti životního stylu, aby se zaměřila na své nové smlouvy s Marksem a Spencerem a ITV.
+Willoughby nemá čas na své domácí oblečení a doplňky značky Truly.
+Podnikání dvojice bylo přirovnáno ke značce Gwyneth Paltrow Goop.
+Tento ranní moderátor, 37, vzal na Instagram oznámit, že odchází.
+Holly Willoughby opustil Dragons "Den hvězda Peter Jones fuming tím, že se na poslední chvíli stáhne z jejich lukrativního podnikání v oblasti životního stylu - zaměřit se na své vlastní nové smlouvy s nárazníky s Marks & Spencer a ITV.
+Zdroje říkají, že Jones byl "rozzuřený", když televizní zlatá dívka přiznala během napjatého setkání v úterý v sídle svého obchodního impéria v Marlow v Buckinghamshire, že její nové dohody - v hodnotě až 1,5 milionu liber - znamenaly, že již neměla dostatek času věnovat se jejich domácímu oblečení a doplňků značce Truely.
+Podnikání bylo přirovnáváno ke značce Gwyneth Paltrow Goop a bylo nakloněn k tomu, aby zdvojnásobilo odhadované bohatství společnosti Willoughby ve výši 11 milionů liber.
+Když Willoughby, 37, vzal na Instagram, aby oznámil, že opouští Truly, Jones odletěl z Británie, aby zamířil do jednoho z jeho rekreačních domů.
+Zdroj řekl: „Opravdu byl zdaleka vrcholem Hollyiných priorit.
+Měla to být její dlouhodobá budoucnost, která by ji viděla v příštích několika desetiletích.
+Její rozhodnutí vytáhnout všechny zúčastněné zanechalo naprosto ohromené.
+Nikdo nemohl uvěřit tomu, co se stalo v úterý, bylo to tak blízko startu.
+V ústředí Marlow je sklad plný zboží, které je připraveno k prodeji.
+Odborníci se domnívají, že odchod moderátora This Morning, který je jedním z nejvíce bankovatelných hvězd v Británii, by mohl firmu stát miliony kvůli vysokým investicím do produktů od polštářů a svíček až po oblečení a domácí oblečení a potenciál pro další zpoždění až po jeho spuštění.
 A mohlo by to znamenat konec dlouhého přátelství.
-Matka tří dětí Willoughbyová a manžel Dan Baldwin mají s Jonesem a jeho ženou Tarou Cappovou deset let blízko.
-Willoughby se zformuloval s Cappem v roce 2016 a dvaapadesátiletý Jones se stal předsedou v březnu.
-Své prázdniny sety a Jones má 40% podíl v Baldwinově televizní produkční firmě.
-Willoughby se má stát ambasadorem značky M&S a nahradí Anta McPartlina v roli moderátora I'm A Celebrity ITV.
-Zdroj blízký Jonesovi včera večer řekl: „Nebudeme komentovat jeho obchodní záležitosti.“
-Těžké řeči a pak jsme se zamilovali.
-Vtipkoval o kritice, kterou by se mu zpravodajská média dostaly za to, že pronesl komentář, který by považoval za „neprezidentskou“ a že je tak pozitivní vůči severokorejskému vůdci.
-Proč se to prezident Trump vzdal tak často?
-Trump to řekl svým falešným hlasem „zpravodajkou“.
-„Nic jsem se nevzdal.“
-Poznamenal, že Kim má zájem o druhé setkání poté, co Trump v červnu v Singapuru přivítal jako velký krok k denuklearizaci Severní Koreje.
+Matka tří dětí Willoughby a manžel Dan Baldwin mají blízko k Jonesovi a jeho ženě Tarě Cappové už deset let.
+Willoughby založil Truly s Cappem v roce 2016 a Jones, 52, se připojil jako předseda v březnu.
+Páry spolu na dovolené a Jones má 40% podíl v Baldwinově televizní produkční firmě.
+Willoughby se stane ambasadorem značky M&S a nahradí Ant McPartlin jako moderátor I'm A Celebrity z ITV.
+Zdroj blízký Jonesovi včera večer řekl: "Nechceme komentovat jeho obchodní záležitosti."
+Tvrdý rozhovor "a pak jsme se zamilovali"
+Vtipkoval o kritice, kterou by dostal od zpravodajských médií za to, že učinil komentář, který by někteří považovali za „neprezidentské“ a za to, že jsou tak pozitivní ohledně severokorejského vůdce.
+Proč se prezident Trump tolik vzdal?
+Trump ve svém posměšném hlase „zpravodajské kotvy“ řekl.
+"Nic jsem se nevzdal."
+Poznamenal, že Kim má zájem o druhé setkání poté, co jejich první setkání v Singapuru v červnu bylo Trumpem oslavováno jako velký krok směrem k denuklearizaci Severní Koreje.
 Jednání o denuklearizaci se však zastavila.
-Více než tři měsíce po červnovém summitu v Singapuru řekl nejvyšší severokorejský diplomat Ri Yong Ho světovým lídrům v OSN. Valné shromáždění v sobotu, že Sever nevidí „reklamační odpověď“ od USA na rané odzbrojování Severní Koreje.
-Místo toho, jak poznamenal, Spojené státy pokračují v sankcích, jejichž cílem je udržet tlak.
-Trump ve svém manifestačním projevu zaujal mnohem optimističtější názor.
-„S Severní Koreou si vedeme skvěle,“ řekl.
-„Šli jsme do války se Severní Koreou.
-Miliony lidí by byly zabity.
-Teď máme skvělý vztah.“
-Řekl, že jeho snaha zlepšit vztahy s Kimem přinesla pozitivní výsledky – ukončení raketových testů, pomoc bez rukojmích a získání ostatků amerických vojáků vrácených domů.
-A hájil svůj neobvyklý přístup v rozhovorech o vztazích s Kimem.
-„Je to tak snadné být prezidentem, ale místo toho, aby se 10 000 lidí venku snažilo dostat se do této přeplněné arény, stálo by to asi 200 lidí,“ řekl Trump a ukázal na dav přímo před ním.
-Indonésie Tsunami a zemři kvadratit ostrov, Killing Hsil
-Po zemětřesení v Lombooku bylo například zahraničním nevládním organizacím řečeno, že je není zapotřebí.
-I když bylo více než 10 procent Lomokovy populace vykloubeno, nebyla vyhlášena žádná národní katastrofa, což je předpokladem katalyzátoru mezinárodní pomoci.
-„V mnoha případech se bohužel vyjádřili jasně, že nepožadují mezinárodní pomoc, takže je to trochu náročné,“ řekla paní. Sumbung řekl.
-Zatímco Save the Children dává dohromady tým, který bude cestovat do Palu, ještě si není jisté, zda zahraniční personál může pracovat na místě.
-Pane. Sutopo, mluvčí národní agentury pro katastrofy, řekl, že indonéští představitelé vyhodnocují situaci v Palu, aby zjistili, zda mezinárodní agentury budou moci přispět k úsilí o pomoc.
-Vzhledem k tomu, že se země otřásá, kterou Indonésie neustále snáší, zůstává země žalostně nedostatečně připravena na hněv přírody.
-Zatímco útulky tsunami byly postaveny v Aceh, nejsou na jiných pobřeží běžný jev.
-Zdánlivý nedostatek sirény s varováním před tsunami v Palu, přestože bylo v platnosti varování, pravděpodobně přispěla ke ztrátám na životech.
-V nejlepších časech je cestování mezi mnoha indonésickými ostrovy náročné.
+Více než tři měsíce po červnovém summitu v Singapuru řekl nejvyšší severokorejský diplomat Ri Yong Ho světovým vůdcům v OSN. Valné shromáždění v sobotu, že KLDR nevidí „odpovídající odpověď“ ze strany USA na první kroky Severní Koreje odzbrojení.
+Místo toho, poznamenal, USA pokračují v sankcích zaměřených na udržení tlaku.
+Trump ve svém svolávacím projevu zaujal mnohem optimističtější názor.
+"S Severní Koreou si vedeme skvěle," řekl.
+"Půjdeme do války se Severní Koreou.
+Miliony lidí by zahynuly.
+Teď máme tak skvělý vztah.“
+Řekl, že jeho úsilí o zlepšení vztahů s Kimem přineslo pozitivní výsledky - ukončení raketových testů, pomoc volným rukojmím a získání ostatků amerických vojáků se vrátil domů.
+A obhajoval svůj neobvyklý přístup, když mluvil o vztazích s Kimem.
+"Je to tak snadné být prezidentský, ale místo toho, aby měli 10 000 lidí venku, kteří by se snažili dostat do této balené arény, měli bychom tam asi 200 lidí," řekl Trump a ukázal na dav přímo před ním.
+Indonésie Tsunami a Quake Devastate a ostrov, zabijí stovky lidí
+V důsledku zemětřesení v Lomboku, například, zahraniční nevládní organizacím bylo řečeno, že nejsou potřeba.
+I když více než 10 procent obyvatel Lomboku bylo vykloubeno, nebyla vyhlášena žádná národní katastrofa, což je předpokladem pro katalyzování mezinárodní pomoci.
+"V mnoha případech, bohužel, dali jasně najevo, že nepožadují mezinárodní pomoc, takže je to trochu náročné," řekla. Řekl Sumbung.
+Zatímco Save the Children dává dohromady tým, který cestuje do Palu, ještě si není jistý, zda zahraniční pracovníci mohou pracovat na zemi.
+Pane. Sutop, mluvčí národní agentury pro katastrofy, uvedl, že indonéští úředníci posuzují situaci v Palu, aby zjistili, zda bude mezinárodním agenturám umožněno přispět k úsilí o pomoc.
+Vzhledem k tomu, že se země třásla, kterou Indonésie neustále vytrvá, zůstává země žalostně nepřipravená na hněv přírody.
+Zatímco v Acehu byly postaveny přístřešky tsunami, nejsou běžným pohledem na jiných pobřežích.
+Zjevný nedostatek varovného sirény tsunami v Palu, i když bylo v platnosti varování, pravděpodobně přispěl ke ztrátám na životech.
+V nejlepších časech je cestování mezi mnoha indonéskými ostrovy náročné.
 Přírodní katastrofy dělají logistiku ještě složitější.
-Nemocniční loď, která byla umístěna v Lomboku, aby ošetřila oběti zemětřesení, se dostává do Palu, ale bude trvat nejméně tři dny, než se dostane na místo nové kalamity.
-Prezident Joko Widodo učinil ze zlepšení potrhané indonéské infrastruktury středobínou jeho volební kampaně a rozhazoval peníze na silnicích a železnicích.
-Ale nedostatek financí trápí pana. Jokova administrativa, která ho čeká příští rok znovuzvolení.
-Pane. Joko také čelí tlaku přetrvávajících sektářských napětí v Indonésii, kde se členové muslimské většiny přiklonili ke konzervativnější formě víry.
-Více než 1000 lidí bylo zabito a desetitisíce lidí vykloubeny ze svých domovů, zatímco křesťanské a muslimské gangy bojovaly na ulicích s mačetami, mačetami, luky a šípy a dalšími hrubými zbraněmi.
-Podívejte se: Liverpool Daniel Sturridge klesá hluboko ekvalizér vs. Chelsea
-Daniel Sturridge zachránil Liverpool z Premier League ztrátu Chelsea s skóre v 89. minutě v sobotu na Stamford Bridge v Londýně.
-Sturridge dostal přihrávku od Xherdana Shaqiriho, zatímco asi 30 yardů od branky Chelsea s jeho týmem zaostává 1-0.
-Odposlouchl si míč doleva, než se vrhl na vzdálenější tyč.
-Pokus se proplul vysoko nad beden, který se vznášel k pravému hornímu rohu sítě.
-Míč nakonec přeletěl skákající Kepu Arrizabalagu a spadl do sítě.
-„Bylo to jen snaha dostat se do této pozice, dostat se na míč a hráči jako Shaq vždy hrát dopředu, jak je to možné, tak jsem se snažil vytvořit co nejvíce času,“ řekl Sturridge pro LiverpoolFC.com.
-„Viděl jsem, jak Kante přichází, vzal jsem jeden dotek a moc jsem o tom nepřemýšlel a prostě se na mě vrhl.“
-Chelsea vedla v poločase 1:0 poté, co získala skóre ve 25. minutě od belgické hvězdy Edena Hazarda.
-Útočník Blues na sebe přiklání na přihrávku Matea Koviacica na této hře, než se otočil poblíž středu pole a sprintoval do Liverpoolu.
-Kovačič udělal rychlý dát-a-jít na středu pole.
-Pak odpálil krásně skrz míč a vedl Hazarda do boxu.
-Hazard překonal obranu a zakončil do vzdálenější tyčové sítě s levou nohou vystřelenou přes Liverpool Alisson Becker.
-Liverpool bojuje s Neapolí ve skupinové fázi Ligy mistrů ve středu v 15 hodin na Stadio San Paolo v Neapoli, Itálie.
-Chelsea čelí Videoton v UEFA Europa Leaguge ve čtvrtek v 15 hodin v Londýně.
-Počet obětí tsunami v Indonésii vzrostl na 832
-Počet obětí zemětřesení a tsunami v Indonésii se vyšplhal na 832, uvedla v neděli agentura pro katastrofy.
-Mnoho lidí bylo hlášeno uvěznění v troskách budov, které se zřítilo při zemětřesení o síle 7,5 stupně, které udeřilo v pátek a vyvolalo vlny až do výšky šest metrů, řekl na tiskové konferenci mluvčí agentury Sutopo Purwo Nugroho.
+Nemocniční loď, která byla umístěna v Lomboku, aby léčila oběti zemětřesení, se dostává do Palu, ale bude trvat nejméně tři dny, než se dostane na místo nové kalamity.
+Prezident Joko Widodo učinil zlepšení indonéské roztrhané infrastruktury ústředním bodem jeho volební kampaně a on rozhazoval peníze na silnice a železnice.
+Ale finanční deficity sužují pana. Jokoova administrativa, když bude příští rok čelit znovuzvolení.
+Pane. Joko také čelí tlaku přetrvávajícího sektářského napětí v Indonésii, kde členové muslimské většiny přijali konzervativnější formu víry.
+Více než 1000 lidí bylo zabito a desítky tisíc vykloubených ze svých domovů, když křesťanské a muslimské gangy bojovaly na ulicích, používaly mačety, luky a šípy a další hrubé zbraně.
+Podívejte se: Liverpool Daniel Sturridge ponoří hlubokou ekvalizér vs. Chelseaová
+Daniel Sturridge zachránil Liverpool před prohrou Premier League s Chelsea se skóre v 89. minutě v sobotu na Stamford Bridge v Londýně.
+Sturridge dostal přihrávku od Xherdana Shaqiriho, zatímco asi 30 yardů od branky Chelsea se svým týmem vedl 1-0.
+On poklepal míč na jeho levou před nabírání výstřel směrem k dalekému postu.
+Pokus se plavil vysoko nad boxem, když se pohyboval směrem k pravému hornímu rohu sítě.
+Míč nakonec spadl přes skákací Kepa Arrizabalaga a spadl do sítě.
+"Prostě jsem se snažil dostat do této pozice, dostat se na míč a hráči jako Shaq ho vždy hrají dopředu, jak je to jen možné, takže jsem se snažil vytvořit si co nejvíce času," řekl Sturridge pro LiverpoolFC.com.
+"Viděl jsem Kanteho přicházet a vzal si jeden dotek a moc o tom nepřemýšlel a prostě jsem vystřelil."
+Chelsea vedla v poločase 1-0 poté, co získala skóre ve 25. minutě od belgické hvězdy Edena Hazarda.
+Blues útočník podal přihrávku zpět na Mateo Kovacic na této hře, před spin-ofet off v blízkosti středu pole a sprinting do Liverpoolu polovinu.
+Kovacic udělal rychlý give-and-go ve středu pole.
+On pak vystřelil krásný přes míč, což vede Hazard do krabice.
+Hazard předvedl obranu a skončil do vzdálené post-netování s levou nohou střelou kolem Liverpoolu Alisson Becker.
+Liverpool bojuje s Neapolí policií ve skupinové fázi Ligy mistrů ve středu v 15:00 na Stadio San Paolo v Neapoli v Itálii.
+Chelsea se utká s Videotonem v UEFA Europa Ligu ve čtvrtek v 15:00 v Londýně.
+Počet obětí tsunami v Indonésii stoupl na 832
+Počet obětí zemětřesení a tsunami v Indonésii se vyšplhal na 832, uvedla v neděli agentura pro katastrofy v zemi.
+Mnoho lidí bylo hlášeno uvězněno v troskách budov, které se zřítilo při zemětřesení o síle 7,5 stupně, které udeřilo v pátek a vyvolalo vlny až 20 stop, řekl mluvčí agentury Sutopo Purwo Nugroho na tiskové konferenci.
 Město Palu, které má více než 380 000 lidí, bylo poseto troskami ze zřícených budov.
 Policie zatkla muže, 32 let, pro podezření z vraždy poté, co byla žena ubodána k smrti.
-Vyšetřování vraždy bylo zahájeno poté, co bylo dnes ráno v Birkenheadu v Merseyside nalezeno tělo ženy.
-Čtyřiačtyřicetiletý muž byl nalezen v 7:55 s bodnými ranami na Graysonu Mewsovi na John Street, kde byl zatčen 32letý muž pro podezření z vraždy.
+Vyšetřování vraždy bylo zahájeno poté, co bylo dnes ráno nalezeno tělo ženy v Birkenheadu v Merseyside.
+Čtyřiačtyřicetiletý muž byl nalezen v 7:55 s bodnými ranami na Grayson Mews na John Street, přičemž 32letý muž byl zatčen pro podezření z vraždy.
 Policie vyzvala lidi v oblasti, kteří něco viděli nebo slyšeli, aby se přihlásili.
-Detektiv inspektor Brian O'Hagan řekl: „Vyšetřování je v počátečních fázích, ale apeluji na každého, kdo byl v blízkosti John Street v Birkenheadu a viděl nebo slyšel něco podezřelého, aby nás kontaktoval.
-Také bych chtěl apelovat na každého, zejména taxikáře, který mohl zachytit cokoliv na záběrech z palubní kamery, aby nás kontaktovali, protože mohou mít informace, které jsou pro naše vyšetřování životně důležité.“
-Policejní mluvčí potvrdil, že žena, jejíž tělo bylo nalezeno, je pro Birkenhead a byla nalezena uvnitř pozemku.
-Dnes odpoledne přátelé, kteří věří, že žena dorazila na místo činu, aby se vyptávali, kde byla ráno nalezena.
-Vyšetřování pokračuje, protože policie oznámila, že právě informuje nejbližší příbuzné oběti.
-Taxikář, který bydlí v Grayson Mews, se právě pokusil dostat do svého bytu, ale policie mu říká, že nikdo nesmí do budovy ani ven.
-Byl beze slov, když zjistil, co se stalo.
-Obyvatelům se nyní říká, že to bude hodiny, než budou vpuštěni zpět.
-Policejní důstojník byl spatřen, jak říká jednomu muži, že celá oblast je nyní považována za místo činu.
-Na místě se objevila žena v slzách.
-Pořád opakuje „to je tak hrozné“.
-Ve dvě hodiny odpoledne byly dvě policejní dodávky uvnitř kordonu s další dodávkou hned vedle.
-V kordonu stála řada policistů a monitorovali blok bytů.
-Každý, kdo má informace, je požádán na DM @MerPolCC, volejte 101 nebo kontaktujte Crimestoppers anonymně na 0800 555 111 cituje log 247 z 30. září.
-Parlamentní socha Cromwella se stala posledním pamětníkem, který „hráčuje historii“
-Jeho vyhnanství by bylo poetickou spravedlností pro jeho Talibanské zničení tolika anglických kulturních a náboženských artefaktů, které provedli jeho fanatičtí puritánští následovníci.
-Cromwellova společnost však návrh pana Cricka označila za „pošetilost“ a „pokoušení přepsat historii“.
-John Goldsmith, předseda Cromwellovy společnosti, řekl: „V současné debatě o odstranění soch bylo nevyhnutelné, že se postava Olivera Cromwella před Westminsterským palácem stane cílem.
-Ikonoclasmu anglických občanských válek nebyl objednán ani proveden Cromwellem.
-Možná, že špatný Cromwell bude obětován za činy svého předka Thomase v minulém století.
-Velkolepé ztvárnění Cromwella sira Williama Hamo Thorneycrofta je důkazem názorů z 19. století a součástí historiografie osob, o níž se mnozí domnívají, že stojí za to oslavit.
-Pan Goldsmith řekl listu The Sunday Telegraph: „Cromwell je mnohými považován spíše na konci 19. století než dnes za obhájce parlamentu proti vnějšímu tlaku, v jeho případě monarchii.
-Zda se jedná o zcela přesnou reprezentaci, je předmětem pokračující historické diskuse.
-Jisté je, že konflikt z poloviny 17. století formoval následný vývoj našeho národa a Cromwell je jedinečná rozpoznatelná osobnost, která reprezentuje jednu stranu této propasti.
-Jeho úspěchy jako lorda protektora také stojí za oslavu a vzpomínku.“
-Zabiják prase Mauls čínský farmář na smrt
-Farmář byl podle zpráv místních médií napaden a zabit prase na trhu v jihozápadní Číně.
-Muž, kterého identifikovalo pouze jeho příjmení „Yuan“, byl nalezen mrtvý s useknutou tepnou, pokrytou krví, poblíž šifru na trhu v Liupanshui v provincii Guizhou, napsal v neděli list South China Morning Post.
-Prasečí chovatel se připravuje na pile do prasátek v hoggery 30. května 2005 v provincii Čching-š-V čínská provincie Čching-šábes.
-Údajně ve středu cestoval se svým bratrancem ze sousední provincie Yunnan, aby na trhu prodal 15 prasat.
-Následující ráno ho jeho bratranec našel mrtvého a objevil otevřené dveře do sousedního prasečího kojene.
-Říkal, že v tom pračku je velký prasečí samec s krví na tlamě.
-Soudní ohled na forenzní šetření potvrdilo, že prasata o 550 liber podle zprávy podle zprávy ubila k smrti.
-„Moje bratranc měl nohy v zakrvácení a zmrzačené,“ řekl bratranec, o kterém se zmiňovalo jeho příjmení Wu, citované Guiyangovou večerní zprávou.
-Záběry z bezpečnostních kamer ukázaly, že Yuan vstoupil na trh ve čtvrtek ve 4:40 ráno, aby nakrmil svá prasata.
-Jeho tělo bylo nalezeno asi o hodinu později.
-Zvíře, které muže zabilo, nepatřilo Yuanovi ani jeho bratrovi.
-Manažer trhu řekl Evening News, že prase bylo zamčeno, aby se zabránilo útoku na kohokoliv jiného, zatímco policie shromažďovala důkazy na místě činu.
-Yuanovy rodinné a tržní úřady údajně vyjednávají odškodnění za jeho smrt.
-I když je to vzácné, případy prasat napadajících člověka byly zaznamenány již dříve.
-V roce 2016 napadlo prase ženu a jejího manžela na jejich farmě v Massachusetts a zanechalo muže s vážnými zraněními.
-Před deseti lety přišpendlilo prase 650 liber velšského farmáře ke svému traktoru, dokud jeho žena zvíře nevyděsila.
-Poté, co byl oregonský farmář v roce 2012 sežrán svými prasaty, jeden farmář z Manitoby řekl CBC News, že prasata nejsou normálně agresivní, ale chuť krve může působit jako „spouštěč“.
-„Jsou jen hraví.
-Jsou to nippers, velmi zvídaví... že vám nechtějí ublížit.
-Stačí jim jen zaplatit správnou míru respektu,“ řekl.
-Zbytky hurikánu Rosa přinesou rozsáhlé silné deště na jihozápad USA
-Podle předpovědi hurikán Rosa slábne, když se přesouvá nad chladnějšími vodami severního pobřeží Mexika.
-Nicméně, Rosa přinese záplavy v celém severním Mexiku a na jihozápadě USA v nadcházejících dnech.
-Rosa měla vítr o rychlosti 85 mil za hodinu, hurikán 1. kategorie, k 5:00. V neděli východního času se nacházelo 385 mil jihozápadně od Punta Eugenia v Mexiku.
+Detektiv Brian O'Hagan řekl: "Vyšetřování je v rané fázi, ale já bych se obrátil na každého, kdo byl v blízkosti John Street v Birkenheadu, kdo nás viděl nebo slyšel něco podezřelého, co by nás kontaktovalo.
+Také bych apeloval na každého, zejména taxikáře, kteří mohli zachytit cokoliv na záběrech z palubní kamery, aby nás kontaktovali, protože by mohli mít informace, které jsou životně důležité pro naše vyšetřování. "
+Policejní mluvčí potvrdil, že žena, jejíž tělo bylo nalezeno, je místní pro Birkenhead a byla nalezena uvnitř nemovitosti.
+Odpoledne přátelé, kteří věří, že žena zná, dorazili na místo činu, aby se zeptali, kde byla dnes ráno nalezena.
+Vyšetřování pokračuje, protože policie uvedla, že je v procesu informování nejbližších příbuzných oběti.
+Taxikář, který žije v Grayson Mews, se právě pokusil dostat zpět do svého bytu, ale policie jí říká, že nikdo nesmí dovnitř ani ven z budovy.
+Byl oněmělý, když zjistil, co se stalo.
+Obyvatelé jsou nyní informováni, že to bude trvat hodiny, než jim bude umožněno návrat.
+Policista byl slyšen, jak říká jednomu muži, že celá oblast je nyní považována za místo činu.
+Žena se objevila na scéně v slzách.
+Pořád opakuje "je to tak hrozné".
+Ve 14:00 byly dvě policejní dodávky uvnitř kordonu s další dodávkou venku.
+Několik policistů stálo uvnitř kordonu a monitorovalo blok bytů.
+Každý, kdo má informace, je požádán na DM @MerPolCC, volejte 101 nebo kontaktujte Crimestoppers anonymně na čísle 0800 555 111 s uvedením protokolu 247 ze dne 30. září.
+Parlamentní socha Cromwell se stává nejnovějším památníkem hitem "rewriting historie" řádek
+Jeho vyhnanství by bylo poetickou spravedlností pro jeho Taliban-jako zničení tolika anglických kulturních a náboženských artefaktů prováděných jeho fanatickými puritánskými následovníky.
+Ale Cromwellova společnost popsala Crickův návrh jako "blázen" a "pokus o přepsání historie".
+John Goldsmith, předseda Cromwell Society, řekl: „V současné debatě o odstranění soch bylo nevyhnutelné, že postava Olivera Cromwella mimo Westminsterský palác se stane terčem.
+Ikonoklast v anglických občanských válkách nebyl ani nařízen ani proveden Cromwellem.
+Možná by byl špatný Cromwell obětován za činy svého předka Thomase v minulém století.
+Velkolepá reprezentace Cromwella sira Williama Hama Thorneycrofta je důkazem názoru 19. století a součástí historiografie postavy, o které mnozí věří, že stále stojí za oslavu.
+Pan Goldsmith řekl The Sunday Telegraph: „Cromwell je mnohými, možná více na konci 19. století považován za mnoho, možná více než dnes, jako obhájce parlamentu proti vnějšímu tlaku, v jeho případě monarchie.
+Zda je to zcela přesné zastoupení, je předmětem pokračující historické debaty.
+Jisté je, že konflikt poloviny 17. století formoval následný rozvoj našeho národa a Cromwell je individuální rozpoznatelná postava, která představuje jednu stranu tohoto rozdělení.
+Jeho úspěchy jako Lord Protector také stojí za to oslavovat a připomínat.“
+Zabijácký prasečí Mauls čínský farmář k smrti
+Farmář byl podle místních médií napaden prasetem na trhu v jihozápadní Číně.
+Muž, identifikovaný pouze svým příjmením "Yuan", byl nalezen mrtvý s těžkou tepnou, pokrytou krví poblíž těla na trhu v Liupanshui v provincii Guizhou, informoval v neděli South China Morning Post.
+Farmář se připravuje na injekci vakcín do prasat na hoggery 30. května 2005 v Xiningu v provincii Qinghai v Číně.
+Údajně cestoval se svým bratrancem ze sousední provincie Yunnan ve středu, aby prodal 15 prasat na trhu.
+Následujícího rána ho jeho bratranec našel mrtvého a objevil dveře k sousednímu prasečímu chystanému.
+Řekl, že ve Sty to bylo velké mužské prase s krví na ústech.
+Forenzní vyšetření potvrdilo, že 550 liber prase roztrhalo farmáře k smrti, podle zprávy.
+"Lesy mého bratrance byly krvavé a znehybněné," řekl bratranec, označovaný jeho příjmením "Wu", jak citoval deník Guiyang Evening News.
+Záběry z bezpečnostních kamer ukázaly, že Yuan vstoupil na trh ve čtvrtek ve 4,40 ráno, aby nakrmil svá prasata.
+Jeho tělo bylo nalezeno o hodinu později.
+Zvíře, které zabilo muže, nepatřilo Yuanovi ani jeho sestřenici.
+Manažer trhu řekl Evening News, že prase bylo zamčeno, aby se zabránilo jeho útoku na někoho jiného, zatímco policie shromáždila důkazy na místě.
+Yuanova rodina a tržní úřady údajně vyjednávají o odškodnění za jeho smrt.
+I když vzácné, případy prasat útočících na člověka byly zaznamenány již dříve.
+V roce 2016 napadla prase na jejich farmě v Massachusetts ženu a jejího manžela a zanechalo muže s vážnými zraněními.
+Před deseti lety, 650 liber prase připnul velšského farmáře k jeho traktoru, dokud jeho žena nevyděsila zvíře.
+Poté, co byl v roce 2012 sežrán oregonským farmářem svými prasaty, jeden farmář z Manitoby řekl CBC News, že prasata nejsou normálně agresivní, ale chuť krve může působit jako "spouštěč".
+"Jsou jen hraví.
+Jsou to nippers, velmi zvídající... nejsou venku, aby vám ublížili.
+Stačí jim jen zaplatit správné skóre respektu,“ řekl.
+Zbytky hurikánu Rosa přinést rozsáhlý silný déšť na jihozápad USA
+Jak se předpokládá, hurikán Rosa slábne, jak se pohybuje přes chladnější vody severního pobřeží Mexika.
+Rosa však v příštích dnech přinese záplavy v severním Mexiku a jihozápadních Spojených státech.
+Rosa měla vítr 85 mph, kategorie 1 Hurikán, od 5 hodin ráno. Východní čas v neděli, a byl lokalizován 385 mil jihozápadně od Punta Eugenia v Mexiku.
 Rosa by se měla v neděli přesunout na sever.
-Mezitím se nad Tichým oceánem začíná rýsovat žhnouc, který se přesuje na východ k západnímu pobřeží USA. S blížící se Rosa v pondělí k polopenzi Baja California jako tropická bouře začne tlačit hlubokou tropickou vlhkost na sever na jihozápad USA.
-Rosa v úterý v některých částech Mexika naprší až 10 centimetrů.
-Pak tropická vlhkost, která se spojí s blížícím se žlajem, způsobí v nadcházejících dnech rozsáhlé silné dešti na jihozápadě.
-Mírně naprší 1 až 4 centimetry naprší nebezpečné bleskové záplavy, trosky a možnosti sesuvů půdy v poušti.
-Hluboká tropická vlhkost způsobí, že se srážky přiblíží 2 až 3 palce za hodinu na místech, zejména v částech jižní Nevady a Arizony.
-V některých částech jihozápadu se očekává až 2 až 4 palce deště, zejména na většině území Arizony.
-Bleskové záplavy jsou možné s rychle se zhoršujícími podmínkami v důsledku roztroušené povahy tropického deště.
-Bylo by velmi neléčeno, aby se odvážel do pouště pěšky s hrozbou tropických srážek.
-Silný déšť by mohl způsobit, že se kaňony stanou zuřící řeky a bouřky přinesou místně páteřní vítr a fouká prach.
-Blížící se koryto přinese lokálně silné deště do částí pobřeží jižní Kalifornie.
-Možné je dešťové úhrny přes půl palce, což by mohlo způsobit menších trosk toků a kluhavých vozovkách.
-To by byly první deště v regionu v období jejich dešťů.
-Některé roztroušené tropické dešťové přeháňky se začnou blížit k Arizoně v neděli a brzy v pondělí, než se déšť rozšíří v pondělí a úterý.
-Silný déšť se rozšíří do Four Corners v úterý a do poslední do středy.
-V říjnu se v USA může prohmatovat silné teplotní výkyvy, protože se Arktida ochlazuje, ale tropy zůstávají docela teplé.
-Někdy to vede k dramatickým změnám teploty na krátkých vzdálenostech.
-V neděli je prostřednictvím středoamerických USA velký příklad dramatických teplotních rozdílů.
-Je zde téměř 20 stupňů teplotní rozdíl mezi Kansas City, Missouri a Omaha v Nebrasce a mezi St. Louis a Des Moines, Iowa.
+Mezitím se nad Tichým oceánem začíná formovat korytos a přesunout se na východ směrem k západnímu pobřeží USA. Vzhledem k tomu, že Rosa se v pondělí blíží k poloostrovu Baja California jako tropická bouře, začne tlačit hlubokou tropickou vlhkost na sever do jihozápadních USA.
+Rosa v pondělí v některých částech Mexika přinese až 10 centimetrů deště.
+Pak tropická vlhkost interagující s blížícím se korytem vytvoří v příštích dnech rozsáhlé silné srážky na jihozápadě.
+Lokálně 1 až 4 palce deště způsobí nebezpečné bleskové záplavy, toky trosek a možné sesuvy půdy v poušti.
+Hluboká tropická vlhkost způsobí, že se míra srážek přiblíží 2 až 3 palce za hodinu v místech, zejména v částech jižní Nevady a Arizony.
+V některých částech jihozápadu se očekává až 2 až 4 palce deště, zejména nad velkou částí Arizony.
+Bleskové záplavy jsou možné s rychle se zhoršujícími podmínkami kvůli rozptýlené povaze tropického deště.
+Bylo by velmi špatně doporučeno, aby se vydal do pouště pěšky s hrozbou tropických srážek.
+Silný déšť by mohl způsobit, že se kaňony stanou zuřivými řekami a bouřky přinesou lokálně prudké větry a foukání prachu.
+Blížící se koryto přinese nějaký lokálně silný déšť do částí pobřeží jižní Kalifornie.
+Údolí srážek více než půl palce je možné, což by mohlo způsobit drobné toky úlomků a hladké silnice.
+To by bylo první srážky v regionu jejich mokré sezóny.
+Některé rozptýlené tropické dešťové přeháňky se začnou blížit k Arizoně pozdě v neděli a brzy v pondělí, než se déšť stane rozšířenějším pozdě v pondělí a úterý.
+Silný déšť se bude šířit do Four Corners v úterý a potrvá až do středy.
+Říjen může vidět některé intenzivní teplotní výkyvy po celých Spojených státech, protože Arktida se ochlazuje, ale tropy zůstávají docela teplé.
+Někdy to vede k dramatickým změnám teploty na krátké vzdálenosti.
+Existuje skvělý příklad dramatických teplotních rozdílů v centrálních Spojených státech v neděli.
+Existuje téměř 20 stupňů teplotní rozdíl mezi Kansas City, Missouri a Omaha, Nebraska a mezi St. Louis a Des Moines v Iowě.
 V příštích několika dnech se přetrvávající letní teplo pokusí znovu vybudovat a rozšířit.
-U většiny středových a východní části USA se očekává vřelý začátek října s rozsáhlými 80. lety od jižních plání až po části severovýchodu.
-New York by v úterý mohl dosáhnout 80 stupňů, což by bylo přibližně o 10 stupňů nad průměrem.
-Naše dlouhodobá předpověď klimatu naznačuje vysoké šance na nadprůměrné teploty pro východní USA až do první poloviny října.
-Více než 20 milionů lidí sledovalo slyšení Bretta Kavanaugha
-Více než 20 milionů lidí sledovalo čtvrteční strhující svědectví kandidáta do Nejvyššího soudu Bretta Kavanaugha a ženy, která ho obvinila ze sexuálního napadení, ke kterému údajně došlo v 80. letech v osmdesátých letech, Christine Blaseyovou Fordovou na šesti televizních stanicích.
-Mezitím pokračovala politická patová situace a televizní stanice přerušovaly pravidelný program pro páteční zvrat na poslední chvíli: dohodu zosnovanou arizonským senátorem. Jeff Flake, aby FBI provedla týdenní vyšetřování obvinění.
-Fordová řekla justičnímu výboru Senátu, že si je na 100% jistá, že ji Kavanaugh opile osahával a snažil se se svléknout na středoškolském večírku.
-Kavanaugh ve vášnivém svědectví řekl, že je si stoprocentně jistý, že se to nestalo.
-Je pravděpodobné, že to sledovalo více než 20,4 milionu lidí, které v pátek Nielsen nahlásil.
-Společnost počítala průměrnou sledovanost na CBS, ABC, NBC, CNN, Fox News Channel a MSNBC.
-Čísla nebyla okamžitě k dispozici pro jiné sítě, které to ukazovaly, včetně PBS, C-SPAN a Fox Business Network.
-A Nielsen má obvykle problémy s měřením lidí, kteří se dívají v kancelářích.
-Abychom to uvedli do souvislostí, je to velikost diváků podobná té pro play-off fotbalový zápas nebo udílení Oscarů.
-Fox News Channel, jehož názorologové Kavanaughovo jmenování silně podpořili, vedl všechny televize v průměru s 5,69 miliony diváků během celodenního slyšení, řekl Nielsen.
-ABC byla druhá s 3,26 miliony diváků.
-CBS měla 3,1 milionu, NBC 2,94 milionu, MSNBC 2,89 milionu a CNN 2,2 milionu, řekl Nielsen.
-Zájem zůstal po jednání vysoký.
+Očekává se, že velká část střední a východní USA bude mít teplý start do října s rozšířenými 80. let z jižních plání do částí severovýchodu.
+New York by mohl v úterý dosáhnout 80 stupňů, což by bylo přibližně o 10 stupňů nad průměrem.
+Naše dlouhodobá klimatická předpověď naznačuje vysoké šance na nadprůměrné teploty pro východní USA až do první poloviny října.
+Více než 20 milionů lidí sledovalo Bretta Kavanaugha slyšení
+Více než 20 milionů lidí sledovalo čtvrteční strhující svědectví kandidáta Nejvyššího soudu Bretta Kavanaugha a ženy, která ho obvinila ze sexuálního útoku, ke kterému údajně došlo v 80. letech, Christine Blasey Ford, na šesti televizních sítích.
+Mezitím politická patová situace pokračovala, přičemž vysílací společnosti přerušily pravidelné programování pro páteční zvrat na poslední chvíli: dohodu zkonstruovanou Arizonským senátorem. Jeff Flake pro FBI, aby provedla týdenní vyšetřování obvinění.
+Ford řekl senátnímu justičnímu výboru, že si je stoprocentně jistá, že ji Kavanaugh opile osahával a snažil se svléknout na středoškolském večírku.
+Kavanaugh ve vášnivém svědectví řekl, že si je stoprocentně jistý, že se to nestalo.
+Je pravděpodobné, že více než 20,4 milionu lidí, které Nielsen v pátek oznámil, sledovalo.
+Společnost počítá průměrnou sledovanost na CBS, ABC, NBC, CNN, Fox News Channel a MSNBC.
+Čísla nebyla okamžitě k dispozici pro jiné sítě, které ji ukázaly, včetně PBS, C-SPAN a Fox Business Network.
+A Nielsen má obvykle potíže s měřením lidí, kteří se dívají v kancelářích.
+Chcete-li to dát do perspektivy, je to velikost publika podobná jako pro playoff fotbalový zápas nebo Academy Awards.
+Fox News Channel, jehož názor hostitelé silně podpořili Kavanaughovo jmenování, vedl všechny sítě s průměrem 5,69 milionu diváků během celodenního slyšení, řekl Nielsen.
+Na druhém místě je ABC s 3,26 miliony diváků.
+CBS měla 3,1 milionu, NBC 2,94 milionu, MSNBC 2,89 milionu a CNN 2,52 milionu, řekl Nielsen.
+Zájem zůstal po slyšení vysoký.
 Flake byl ústřední postavou pátečního dramatu.
-Poté, co umírněná republikánská kancelář vydala prohlášení, že bude hlasovat ve prospěch Kavanaugha, byl v pátek ráno přistižen, jak na CNN a kamery CBS křičí demonstranty, když se snaží projet výtahem na slyšení v justičním výboru.
-Stál s očima skleslým několik minut, když mu nadávali, živě přenášen na CNN.
-„Stojím přímo před vámi,“ řekla jedna žena.
-„Myslíte, že říká zemi pravdu?
-Bylo mu řečeno, že máte moc, když je tolik žen bez moci."“
-Flake řekl, že jeho kancelář vydala prohlášení a před uzavřením výtahu řekl, že bude mít na slyšení ve výboru více co říct.
-Televizní a televizní stanice se všechny živě pokrývaly o několik hodin později, kdy měl justiční výbor hlasovat o postroje Kavanaughovu nominaci do Senátu k hlasování.
-Flake však prohlásil, že tak učiní jen s vědomím, že se FBI budou zabývat obviněními proti kandidátovi na příští týden, na která naléhají menšinoví demokraté.
-Flakea částečně přesvědčily rozhovory se svým přítelem, demokratickým senátorem. Chris Coons.
-Po rozhovoru s Coonsem a několika senátorech se rozhodl.
-Flakeova volba měla moc, protože bylo zřejmé, že republikáni nebudou mít hlasy pro schválení Kavanaugha bez vyšetřování.
+Poté, co umírněná republikánská kancelář vydala prohlášení, že bude hlasovat ve prospěch Kavanaugha, byl v pátek ráno přistižen, že se jedná o kamery CNN a CBS, které byly vykřikovány demonstranty, když se snažil jet výtahem na slyšení justičního výboru.
+Stál s očima sklíčenýma očima několik minut, když byl nadával, vysílán živě na CNN.
+"Sednu přímo před tebou," řekla jedna žena.
+"Myslíš, že říká zemi pravdu?
+Bylo mu řečeno: "Máte moc, když je tolik žen bezmocných."
+Flake uvedl, že jeho kancelář vydala prohlášení a před uzavřením výtahu uvedla, že bude mít více co říci na slyšení výboru.
+Kabelové a vysílací sítě byly všechny pokrývají živé o několik hodin později, když justiční výbor měl hlasovat o postupu Kavanaughova jmenování do celého Senátu pro hlasování.
+Ale Flake řekl, že tak učiní pouze s tím, že FBI se bude zabývat obviněními proti kandidátovi na příští týden, což menšinoví demokraté naléhají.
+Flake byl částečně přesvědčen rozhovory se svým přítelem, demokratickým senátorem. Chris Coonsová.
+Po rozhovoru s Coonsem a několika senátory poté se Flake rozhodl.
+Flakeova volba měla moc, protože bylo zřejmé, že republikáni nebudou mít hlasy, aby schválili Kavanaugha bez vyšetřování.
 Prezident Trump zahájil vyšetřování FBI ohledně obvinění proti Kavanaughovi.
-Britská premiérka Mayová obviňuje kritiky z „hraní na politiku“ kvůli brexitu
-Premiérka Theresa Mayová obvinila kritiky ze svých plánů na odchod z Evropské unie z „hraní politiky“ s budoucností Británie a podkopává národní zájem v rozhovoru pro deník Sunday Times.
-Britská premiérka Theresa Mayová přijíždí na Konferenci Konzervativní strany v britském Birminghamu 29. září 2018.
-V dalším rozhovoru, který měl na titulní straně novin, se její bývalý ministr zahraničí Boris Johnson zmlkl v útoku na její takzvaný plán Chequers na brexit a prohlásil, že návrh, aby si Británie a EU vzájemně vybíraly cla, je „naprosto absurdní“.
-Střelba ve Wayde Sims: Policie zatkla podezřelého Dyteona Simpsona při smrti hráče LSU
-Policie zatkla podezřelého ze zastřelení Wayde Simsové, dvacetileté basketbalové hráčky na LSU.
-Dyteon Simpson, 20, byl zatčen a uvězněn na základě obvinění z vraždy druhého stupně, Baton Rouge Police Department řekl.
-Úředníci zveřejnili video z konfrontace mezi Simsem a Simpsonem a podle policie Sims během rvačky ztratil brýle.
-Policie našla brýle z místa činu a řekla, že našla Simpsonovu DNA, píše WAFB.
-Po výslechu Simpsona policie uvedla, že se přiznal k smrtelné střelbě na Waydea.
-Jeho kauce byla stanovena na 350 000 dolarů, píše advokát.
-Úřad koronera v East Baton Rouge v pátek zveřejnil předběžnou zprávu, že příčinou smrti je střelná rána do krku.
-Ministerstvo připisuje pákové pracovní skupině státní policie v Louisianě, kriminální laboratoři státní policie, policii Southern University a oblastní občany, kteří pomáhají při vyšetřování, které vedlo k zatčení.
-Sportovní ředitel LSU Joe Alleva poděkoval oblastní policii za „pilínu a honbu za spravedlnost“.
+Britská premiérka Mayová obvinila kritiky z „hraní si politiky“ kvůli brexitu
+Premiérka Theresa Mayová obvinila kritiky, že plánuje opustit Evropskou unii z „hraní si politiky“ s budoucností Británie a podkopáváním národního zájmu v rozhovoru pro noviny Sunday Times.
+Britská premiérka Theresa Mayová přijíždí na konferenci Konzervativní strany v Birminghamu, Velká Británie, 29. září 2018.
+V dalším rozhovoru vedle toho s ní na titulní straně novin, její bývalý ministr zahraničí Boris Johnson tlačil na svůj útok na její takzvaný plán Chequers pro Brexit a řekl, že návrh, že Británie a EU by měly sbírat navzájem cla, byl "zcela absurdní".
+Střelba Wayde Sims: Policie zatkla podezřelého Dyteona Simpsona ve smrti hráče LSU
+Policie zatkla podezřelého ze smrti zastřelení Wayde Simse, 20letého basketbalisty v LSU.
+Dvacetiletý Dyteon Simpson byl zatčen a zadržen do vězení na základě obvinění z vraždy druhého stupně, uvedlo policejní oddělení Baton Rouge.
+Úředníci zveřejnili video konfrontace mezi Simsem a Simpsonem a policie uvedla, že Sims během rvaje ztratil brýle.
+Policie našla brýle z místa činu a uvedla, že na nich našla Simpsonovu DNA, hlásí pobočka CBS WAFB.
+Po vyslýchání Simpsona policie uvedla, že se přiznal k smrtelnému zastřelení Waydeho.
+Jeho dluhopis byl stanoven na 350 000 dolarů, hlásí Advocate.
+Úřad pařížského koronera East Baton Baton Rouge vydal v pátek předběžnou zprávu s tím, že příčinou smrti je střelná rána do hlavy do krku.
+Oddělení připisuje Louisianské státní policii uprchlickou jednotku, státní policejní kriminální laboratoř, policii na jižní univerzitě a oblastní občany při pomoci při vyšetřování vedoucím k zatčení.
+Atletický ředitel LSU Joe Alleva poděkoval oblastním orgánům činným v trestním řízení za její "diligenii a snahu o spravedlnost".
 Simsovi bylo 20 let.
-Šest stop vysoký útočník vyrůstal v Baton Rouge, kde jeho otec Wayne také hrál basketbal za LSU.
-V minulé sezoně měl průměr 5,6 bodů a 2,6 doskoku.
-V pátek ráno trenér basketbalu LSU Will Wade řekl, že tým je Waydeho smrtí „zničen“ a „v šoku“.
-„To je to, čeho se staráte za všech okolností,“ řekl Wade.
+6-noha-6 dopředu vyrostl v Baton Rouge, kde jeho otec, Wayne, také hrál basketbal pro LSU.
+V minulé sezóně nastřílel průměrně 5,6 bodů a 2,6 doskoků za zápas.
+V pátek ráno basketbalový trenér LSU Will Wade řekl, že tým je "zničen" a "v šoku" Waydeho smrtí.
+"To je to, o co se za všech okolností obáváte," řekl Wade.
 Sopka chrlí popel na Mexico City
-Popel, chrlící se z sopky Popocatepetl, se dostal do jižních čtvrtí hlavního města Mexika.
-Národní centrum pro prevenci katastrof v sobotu varovalo Mexičany, aby se drželi dál od sopky poté, co se aktivita nabrala v kráteru a zaznamenala 183 emisí plynu a popela během 24 hodin.
-Centrum monitorovalo několik dunění a třes.
-Obrázky na sociálních sítích ukazovaly tenké vrstvy čelních skla popela, které vrůžely ve čtvrtích Mexico City, jako je Xochimilco.
-Geofyziky zaznamenaly nárůst aktivity u sopky, která se nachází 45 mil (72 kilometrů) jihovýchodně od hlavního města od září 2017, kdy zemětřesení o síle 7,1 stupně otřáslo středopožerným Mexikem.
-Sopka známá jako „Don Goyo“ je aktivní od roku 1994.
-Policejní střet s katalánskými separatisty před výročím hlasování o nezávislosti
-Šest lidí bylo v sobotu zatčeno v Barceloně poté, co se demonstranti podporující nezávislost střetli s pořádkovými silami, a tisíce se připojily k demonstracím soupeře u příležitosti prvního výročí polarizujícího hlasování Katalánska o odtržení.
-Skupina maskovaných prose-separatistů zadržených pořádkovými silami je hnali vajíčky a vrželi práškovou barvou a vytvářeli v ulicích tmavé oblaky prachu, které se obvykle táhly turisty.
-Později během dne také vypukla v poupětí a policie použila jejich obušky k potlačení bojů.
-Během několika hodin se skupiny podporující nezávislost skandovaly „Na to, že nezapomeň, žádné odpuštění“ se utkaly s unionistickými demonstranty křičenými „Ať žije Španělsko“.
-Čtrnáct lidí se léčilo lehká zranění, která utrpěla při protestech, uvedla místní tisk.
-Napětí v regionu smýšlejících na nezávislost zůstává rok po referendu z 1. října, které Madrid považoval za nezákonné, ale slavil je separatista Katalánci.
-Voliči se drtivou většinou rozhodli stát se nezávislými, i když volební účast byla nízká a ti, kdo se odtržím odtrženectem do značné míry bojkotovali.
-Podle katalánských úřadů bylo loni zraněno téměř 1000 lidí poté, co se policie pokusila zastavit hlasování ve volebních místnostech po celém regionu při násilných střetech.
-Skupiny pro nezávislost se v noci na pátek utábořily, aby zabránily demonstraci na podporu národní policie.
+Popel chrlící ze sopky Popocatepl se dostal do jižních čtvrtí hlavního města Mexika.
+Národní centrum pro prevenci katastrof v sobotu varovalo Mexičany, aby se drželi dál od sopky poté, co se v kráteru objevila aktivita a zaznamenala 183 emisí plynu a popela během 24 hodin.
+Centrum sledovalo několik rachotů a otřesů.
+Obrázky na sociálních médiích ukázaly tenké vrstvy poštu čelního skla aut v sousedství Mexico City, jako je Xochimilco.
+Geofyzikové zaznamenali nárůst aktivity na sopce, která se nachází 45 mil (72 kilometrů) jihovýchodně od hlavního města od zemětřesení o síle 7,1 stupně otřáslo centrálním Mexikem v září 2017.
+Sopka známá jako Don Goyo je aktivní od roku 1994.
+Policie se střetla s katalánskými separatisty před výročím hlasování o nezávislosti
+Šest lidí bylo zatčeno v Barceloně v sobotu poté, co se pro-nezávislost demonstrantů střetli s pořádkovou policií a když se tisíce lidí připojily k konkurenčním demonstracím u příležitosti prvního výročí polarizujícího hlasování Katalánska o odtržení.
+Skupina maskovaných pro-separatistů zadržovaných vzpoura pořádkovou policií je házela vejci a házela práškovou barvou, což vytvořilo tmavé mraky prachu v ulicích, které by se obvykle sužovaly s turisty.
+Potyčky také vypukly později v průběhu dne s policií pomocí svých obuštálů, aby potlačily boje.
+Více než několik hodin pro-nezávislé skupiny skandují „Nezapomínání, žádné odpuštění“ čelili odborářským demonstrantům, kteří křičeli: „Dlouho naživu Španělsko.“
+Čtrnáct lidí bylo léčeno kvůli drobným zraněním, které bylo přijato při protestech, informoval místní tisk.
+Napětí zůstává v regionu smýšlejícím s nezávislostí rok po referendu z 1. října, které Madrid považoval za nezákonné, ale oslavované separatistickými Katalánci.
+Voliči se rozhodli drtivou většinou, aby se stali nezávislými, ačkoli účast byla nízká s těmi proti odtržení do značné míry bojkotující hlasování.
+Podle katalánských úřadů bylo v loňském roce zraněno téměř 1000 lidí poté, co se policie pokusila zastavit hlasování ve volebních místnostech v celém regionu při násilných střetech.
+Pro-nezávislé skupiny se v pátek v noci utábořily, aby zabránily demonstraci na podporu národní policie.
 Demonstrace pokračovala, ale byla nucena jít jinou cestou.
-Osmašedesátiletý Narcis Termes, který se zúčastnil separatistického protestu se svou ženou, řekl, že už nemá naději na vyhlídky Katalánska na získání nezávislosti.
-„Minulý rok jsme prožili jeden z nejlepších okamžiků.
-S radostí se díval, jak se moji rodiče plakají, ale teď jsme se zasekli,“ řekl.
-Navzdory rozhodujícímu životně důležitému, byť úzkému vítězství v regionálních volbách loni v prosinci se katalánské strany podporující nezávislost letos snažily udržet si na obrátky a mnoho jejich nejznámějších lídrů buď v sebevržencovém exilu, nebo ve vazbě, kteří čekají na soudní proces za jejich roli při organizování referenda a následném vyhlášení nezávislosti.
-Dvaačtyřicetiletý mechanik Joan Puig, který protest na podporu policie na jeho telefonně zaznamenal, řekl, že konflikt rozdmýchali politici na obou stranách.
-„Je to čím dál napjatější,“ řekl.
-Oriol Junqueras, jeden z devíti katalánských lídrů v přípravném vězení od konce loňského roku, v sobotu oznámil, že bude příští rok kandidovat ve volbách do Evropského parlamentu.
-„Stát se jako kandidát na evropské volby je nejlepší způsob, jak odsoudit regresi v demokratických hodnotách a represích, které jsme viděli od španělské vlády,“ řekl.
-Londonderry: Muži zatčení po domem vrazil autem
-Tři muži ve věku 33 a 39 let byli zatčeni poté, co bylo do domu v Londonderry opakovaně vrazeno auto.
-Incident se odehrál v Ballynagard Crescent ve čtvrtek kolem 19:30 SELČ.
-Detektiv inspektor Bob Blemmings řekl, že škody byly způsobeny na bránách a na samotné budově.
-Kuše mohla být také jednou vystřelena na auto.
-Menga stávka dává Livingston 1-0 vítězství nad Rangers
-První gól Dolly Mengové pro Livingstona zajistil vítězství
-Propagoval Livingston ohromil Rangers poslat Steven Gerrard k jeho druhé porážce v 18 hrách jako manažer klubu Ibrox.
-Stávka Dolly Mengové se ukázala být v tomto rozdílu, když se Gary Holt posunul na úroveň s Hibernianem na druhém místě.
-Gerrardova strana zůstává bez výhry v premiéře v této sezoně a čelí lídrům Hearts, které zaostávají o osm bodů, příští neděli.
-Do té doby, Rangers hostí Rapid Vídeň v Evropské lize ve čtvrtek.
-Livingston mezitím prodloužit jejich neporazitelný běh v divizi na šest zápasů, s trenérem Holt stále chutná porážka od nahrazení Kenny Miler minulý měsíc.
-Livingston promarnil šance proti neomaleným návštěvníkům
-Holtův tým měl být vpřed dlouho předtím, než skóroval, s jejich přímočarost způsobující Rangers všechny možné problémy.
-Scott Robinson prorazil, ale přetáhl svou snahu přes tvář branky, pak Alan Lithgow mohl jen nasměrovat jeho úsilí široko poté, co sklouzl do střetnutí hlavičkou Craiga Halketta přes branku.
-Hostitelé byli spokojeni s tím, aby Rangers hrát před nimi, s vědomím, že mohou trápit návštěvníky na scéně.
-A to byl způsob, jakým rozhodující cíl přišel.
-Rangers připustil volný kop a Livingston pracoval otevření, Declan Gallagher a Robinson kombinovat nastavit Menga, který vzal dotek a skóroval ze středu pole.
-V té fázi Rangers dominovali v držení míče, ale shledali domácí obranu neproniknutelnou a brankář Liam Kelly byl z velké části klidný,
-Tento vzorec pokračoval až do druhé půle, i když Alfredo Morelos si vynutil zákrok před Kellym.
-Scott Pittman byl odmítnut nohama brankáře Rangers Allana McGregora a Lithgow švihem z další Livingstonovy scény.
-Křížové neustále vstupovali do branky Livingston a neustále se čistili, zatímco dvě trestní žaloby – po Halkettově souboji o náhradníka Glenna Middletona a jeden za házenou – byly odmávnuté.
-'Fenomenální' z Livingstonu – analýza
-BBC Skotský Alasdair Lamont v Tony Macaroni Arena
+Osmašedesátiletý Narcis Termes, elektrikář, který se účastní separatistického protestu se svou ženou, řekl, že už naděje ohledně vyhlídek, že Katalánsko získá nezávislost.
+"Loni jsme zažili jeden z našich nejlepších okamžiků.
+Sledoval jsem, jak moji rodiče pláčou radostí, když jsme mohli volit, ale teď jsme uvízli,“ řekl.
+Navzdory tomu, že loni v prosinci zvládají zásadního i těsného vítězství v regionálních volbách, se katalánské pro-nezávislosti strany v letošním roce snažily udržet dynamiku s mnoha jejich nejznámějšími vůdci buď ve svém dobrovolném exilu, nebo ve vazbě, která čeká na soud za svou roli při organizaci referenda a následné vyhlášení nezávislosti.
+Joan Puig, 42letý mechanik nahrávající protest na podporu policie na svém telefonu, řekl, že konflikt byl rozdmýchán politiky na obou stranách.
+"Je to čím dál tím víc napjaté," řekl.
+V sobotu Oriol Junqueras, jeden z devíti katalánských vůdců v pre-soudním vězení od konce loňského roku, oznámil, že bude příští rok kandidovat ve volbách do Evropského parlamentu.
+"Stát jako kandidát do evropských voleb je nejlepší způsob, jak odsoudit regresi v demokratických hodnotách a represe, které jsme viděli od španělské vlády," dodal.
+Londonderry: Muži zatčeni poté, co dům narazil autem
+Tři muži ve věku 33, 34 a 39 let byli zatčeni poté, co bylo do domu v Londonderry opakovaně naloženo auto.
+Incident se odehrál ve čtvrtek v Ballynagard Crescent kolem 19:30 BST.
+Det Insp Bob Blommings řekl, že škody byly způsobeny branám a samotné budově.
+Kuše mohla být také vypálena na auto v určitém okamžiku.
+Menga strike dává Livingston 1-0 vítězství nad Rangers
+První gól Dolly Mengy pro Livingston zajistil vítězství
+Propagoval Livingston ohromil Rangers, aby poslal Stevena Gerrarda k jeho druhé porážce v 18 zápasech jako manažer klubu Ibrox.
+Stávka Dolly Menga se ukázala být rozdíl jako Gary Holtova strana posunula úroveň s Hibernianem na druhém místě.
+Gerrardova strana zůstává bez vítězství v Premiership v této sezóně a čelí vůdcům Hearts, které sledují o osm bodů, příští neděli.
+Do té doby Rangers hostí Rapid Vídeň v Evropské lize ve čtvrtek.
+Livingston mezitím prodloužil svůj neporažený běh v divizi na šest her, přičemž hlavní trenér Holt ještě ochutnal porážku od té doby, co minulý měsíc nahradil Kennyho Milera.
+Livingston promarní šance proti tupým návštěvníkům
+Holtův tým měl být vpředu dlouho předtím, než skórovali, přičemž jejich přímost způsobila Rangers všechny druhy problémů.
+Scott Robinson prolomil, ale táhl jeho úsilí přes tvář branky, pak Alan Lithgow mohl jen režírovat jeho úsilí široký poté, co sklouzl v setkat Craig Halkett je hlavička přes branku.
+Hostitelé byli spokojeni s tím, aby Rangers hráli před nimi, protože věděli, že by mohli obtěžovat návštěvníky na set kusech.
+A to byl způsob, jakým přišel rozhodující cíl.
+Rangers připustil volný kop a Livingston pracoval otvor, Declan Gallagher a Robinson kombinoval nastavit Menga, který vzal dotek a skóroval ze středu boxu.
+V té fázi, Rangers dominoval držení, ale našel domácí obranu neproniknutelný a brankář Liam Kelly byl do značné míry bezproblémový,
+Tento vzor pokračoval do druhého poločasu, i když Alfredo Morelos udělal vynutit záchranu od Kellyho.
+Scott Pittman byl odmítnut nohama brankáři Rangers Allan McGregor a Lithgow švihl široko od jiné Livingston set hry.
+Kříže neustále přicházely do krabice Livingston a byly neustále vyčištěny, zatímco dvě penaltové nároky - po Halkettově výzvě na náhradníka Glenna Middletona a jeden pro házelkičku - byly zamaceny.
+"Fenomenal" z Livingstonu - analýza
+Alasdair Lamont z BBC v aréně Tonyho Macaroniho
 Fenomenální výkon a výsledek pro Livingstona.
-Pro člověka byli výborní a nadále překonávali očekávání na této vzestupné trajektorii.
-Jejich styl hry a personálu se od návratu do nejvyšší soutěže sotva změnil, ale skvělá zásluha musí jít do Holta za způsob, jakým od svého příchodu vyburcoval tým.
-Měl tolik hrdinů.
-Kapitán Halkett byl obrovský a seškozoval skvěle organizovanou obranu, zatímco Menga po celou dobu držel Connora Goldsona a Joea Worralla na nohou.
-Rangers ale chyběla inspirace.
-I když byli občas pod Gerrardem dobří, za těmito standardy zdaleka nedosahovali.
-Jejich poslední míč chyběl – jen jednou se jim rozřízlo domácí – a je to něco jako budíček pro Rangers, kteří se ocitnou ve středu tabulky.
-Erdogan dostal smíšené přijetí v Kolíně nad Rýnem
-V sobotu (29. září) se objevily úsměvy a modré oblohy, když se představitelé Turecka a Německa sešli v Berlíně krůček po neporušené.
-Je to poslední den kontroverzní návštěvy prezidenta Erdogana v Německu – které je zaměřeno na nápravu vztahů, které jsou spojenci NATO.
-Pohádali se v otázkách, jako jsou lidská práva, svoboda tisku a nastupování Turecka do EU.
-Erdogan pak zamířil do Kolína nad Rýnem, aby si otevřel obří novou mešitu.
+Pro muže byli vynikající, nadále překračovali očekávání na této vzestupné trajektorii.
+Jejich styl hry a personál se od jejich návratu do nejvyššího letu sotva změnil, ale skvělý kredit musí jít do Holtu za způsob, jakým galvanizoval tým od svého příjezdu.
+- Měl tolik hrdinů.
+Kapitán Halkett byl obrovský, seřazené skvěle organizovanou obranu, zatímco Menga držel Connor Goldson a Joe Worrall na jejich špičkách po celou dobu.
+Rangers však měli nedostatek inspirace.
+Jak dobrý byl občas pod Gerrard, oni nedosáhli těchto standardů.
+Jejich poslední míč byl postrádal - jen jednou sestřihnout domácí stranu otevřít - a to je něco jako budíček pro Rangers, kteří se ocitnou v polovině stolu.
+Erdogan dostal v Kolíně nad Rýnem smíšené přijetí
+V sobotu (29. září) došlo k úsměvům a modré obloze, když se vedoucí představitelé Turecka a Německa setkali na breakastu v Berlíně.
+Je to poslední den kontroverzní návštěvy prezidenta Erdogana v Německu, která je zaměřena na nápravu vztahů, které jsou vedeny k tomu, aby se spojily spojenci z NATO.
+Pohádali se kvůli otázkám, jako jsou lidská práva, svoboda tisku a přistoupení Turecka k EU.
+Erdogan pak zamířil do Kolína nad Rýnem, aby otevřel obří novou mešitu.
 Město je domovem největší turecké populace mimo Turecko.
-Policie uvedla bezpečnostní důvody, aby zabránila davu 25 000 lidí shromáždit před mešit, ale spousta příznivců se v okolí vydala za svým prezidentem.
-Stovky protestujících proti Erdoganovi – z nichž mnozí byli Kurdové – také vyslyšely své hlasy a odsoudily Erdoganovu politiku i rozhodnutí německé vlády přivítat ho v zemi.
-Soubojové protesty odrážejí rozštěpenost návštěvníka, kterého někteří němečtí Turci oslavují jako hrdinu a jiní ho jako autokrata kritizovali.
-Pád na silnici v Deptfordu: Cyklista zemřel při srážce s autem
+Policie citovala bezpečnostní důvody, aby zablokovala 25.000 silný dav ze shromažďování před mešitou, ale spousta příznivců se objevila v blízkosti, aby viděla svého prezidenta.
+Stovky protierdoganských demonstrantů – mnozí z nich kurdští – také vyslyšeli svůj hlas, odsoudili jak Erdoganovu politiku, tak rozhodnutí německé vlády ho v této zemi přivítat.
+Soubojové protesty odrážejí rozvratnost návštěvníka oslavovaného jako hrdina některými německými Turky a zavrženého jako autokrat jinými.
+Deptford Road havárie: Cyklista zemřel při srážce s autem
 Cyklista zemřel při srážce s autem v Londýně.
-K havárii došlo kolem křižovatky Bestwood Street a Evelyn Street, rušné silnice v Deptfordu, na jihovýchodě města, kolem 10:15 SELČ.
-Řidič vozu se zastavil a zdravotníci se dostavili, ale muž na místě zemřel.
-K havárii došlo několik měsíců poté, co další cyklista zemřel při srážce a ujet na Childers Street, asi míli od sobotní havárie.
-Metropolitní policie uvedla, že policisté pracují na identifikaci muže a informují jeho další příbuzné.
-Uzávěrky silnic a odklony autobusů a motoristům bylo doporučeno, aby se oblasti vyhnuli.
-Dlouhá věznice Lartin: šest policistů zraněno při nepokojích
-Šest vězeňských důstojníků bylo zraněno při výtržnostech ve věznici s vysokým bezpečnostním věznic, uvedl vězeňský úřad.
-Porucha vypukne v HMP Long Lartin ve Worcestershire v neděli kolem 9:30 SELČ a pokračuje.
-Specialističtí „Tornado“ důstojníci byli přivedeni, aby se vypořádali s výtržnostmi, které se týkají osmi vězňů a jsou v něm obsaženy na křídle.
-Policisté byli na místě ošetřeni s lehkými poraněními obličeje.
-Mluvčí Vězeňské služby řekl: „Speciálně vyškolený vězeňský personál byl nasazen, aby se vypořádal s probíhajícím incidentem v HMP Long Lartin.
-Šest zaměstnanců bylo ošetřeno se zraněními.
-Netolerujeme násilí v našich věznicích a je jasné, že ti, kdo jsou za to zodpovědní, budou předáni policii a mohli by za mřížemi strávit déle.“
-HMP Long Lartin zadržuje více než 500 vězňů, včetně některých nejnebezpečnějších pachatelů v zemi.
-V červnu bylo oznámeno, že guvernér věznice podstoupil nemocniční ošetření poté, co byl napaden vězněm.
-A v říjnu loňského roku byli do věznice povoláni těžkooděnci, aby se vypořádali s vážnými výtržnostmi, při nichž byli zaměstnanci napadeni kulečníkem.
-Hurikán Rosa hrozí Phoenix, Las Vegas, Salt Lake City s Flash povodni (Skořové oblasti květen Benefit)
-Je vzácné, aby tropická deprese zasáhla Arizonu, ale to je přesně to, co se pravděpodobně stane brzy začátkem příštího týdne, když se zbývající energie hurikánu Rosa poletí po celém Poušti Jihozápad a přináší rizika bleskových záplav.
-Národní meteorologická služba již vydala bleskové povodňové hlídky pro pondělí a úterý pro západní Arizonu do jižní a východní Nevady, jihovýchodní Kalifornie a Utahu, včetně měst Phoenix, Flagstaff, Las Vegas a Salt Lake City.
-Očekává se, že Rosa se v úterý vydá přímou cestou nad Phoenix a v pondělí se blíží dešti.
-Národní meteorologická služba ve Phoenixu ve svém tweetu poznamenala, že pouze „ten tropických cyklón udržuje tropickou bouři nebo stav deprese v okruhu 200 mil od Phoenixu od roku 1950!
-Katrina (1967) byla hurikánem v okruhu 40 mil od hranice AZ.“
-Nejnovější modely Národního střediska pro hurikány předpovídají 2 až 4 palce srážek, ojedinělé množství až 6 palců v Mogollonském okraji Arizony.
-Ostatní oblasti pouště jihozápad, včetně středních hor a Velké pánve, pravděpodobně získají 1 až 2 palce, s ojedinělými úhrny až 4 palce.
-Pro ty, kteří se nerozejí povodňovým potopením, může být Rosin déšť požehnáním, protože region je suchem sužovaný.
-Ačkoli záplavy jsou velmi vážnou obavou, některé srážky budou pravděpodobně prospěšné, protože Jihozápad v současné době zažívá sucho.
-Podle USA. Monitor sucha, jen něco málo přes 40 procent Arizony zažívá alespoň extrémní sucho, druhá nejvyšší kategorie,“ art.com uvedl.
-Nejdřív cesta hurikánu Rosa vede k pevnině přes poloostrov Baja California Mexico.
-Rosa, stále na síle hurikánu v neděli ráno s maximálním větrem 85 mil za hodinu, je 385 mil jižně od Punta Eugenia, Mexiko a pohybuje se na sever rychlostí 12 mil za hodinu.
-Bouře se setkává s chladnějšími vodami v Pacifiku, a proto se napájení.
-Očekává se, že v pondělí odpoledne nebo večer v pondělí odpoledne nebo večer dorazí v Mexiku na pevninu v Mexiku.
-Srážce v částech Mexika by mohlo být silné, což by představovalo značné riziko záplav.
-„Odehráčkové úhrny 3 až 6 palců se očekávají z Baja California do severozápadní Sonory, což je možné až 10 palců,“ uvedl weather.com.
-Rosa pak bude na sever přes Mexiko jako tropická bouře, než se v časných ranních hodinách v časných ranních hodinách dostane do Arizony v úterý v pozdních australských deprese, která se pak v úterý pozdě večer projede po Arizoně a do jižního Utahu.
-„Hlavní nebezpečí, které se očekávají od Rosy nebo jejích zbytků, jsou velmi silné deště v Baja California, severozápadní Sonora a USA. Pouštní jihozápad,“ uvedlo Národní středisko pro hurikány.
-Očekává se, že tyto deště způsobí život ohrožující bleskové záplavy a trosky v pouštích a sesuvy půdy v hornatém terénu.
-Útok v Midsomeru Norton: Čtyři pokus o vraždu
-Tři nezletilí chlapci a dvacetiletý muž byli zatčeni pro podezření z pokusu o vraždu poté, co byl v Somersetu nalezen šestnáctiletý s bodnými ranami.
-Mladý chlapec byl nalezen zraněný v oblasti Excelsior Terrace v Midsomeru Norton v sobotu kolem 04:00 SEČ.
-Byl převezen do nemocnice, kde zůstává ve „stabilním“ stavu.
-Sedmnáctiletý, dva osmnáctiletí a dvacetiletý muž byli zatčeni v oblasti Radstock, uvedla Avon a Somersetská policie.
-Policisté žádají každého, kdo by mohl mít záznam z mobilního telefonu, aby se přihlásil.
-Trump říká, že Kavanaugh „trpěl, podlost, zlost“ Demokratické strany
-„Hlas pro soudce Kavanaugha je hlasem, který odmítá nelítostnou a pobuřující taktiku Demokratické strany,“ řekl Trump na shromáždění ve Wheelingu v Západní Virginii.
-Trump řekl, že Kavanaugh „trpěl podlení, hněvem“ Demokratické strany během svého nominačního procesu.
-Kavanaugh ve čtvrtek vypověděl před Kongresem, energicky a emocionálně popřel obvinění Christine Blaseyové Fordové, že ji před desítkami let sexuálně napadl, když byli teenageři.
-Fordová také svědčila při slyšení o svém obvinění.
-Prezident v sobotu prohlásil, že „americký lid vidí brilantní a kvalitní a odvahu“ Kavanaugha toho dne.
-„Hlasování o potvrzení soudce Kavanaugh je hlasem pro potvrzení jednoho z nejvíce úspěšných právních mozků naší doby, právníka se skvělým záznamem veřejné služby,“ řekl davu příznivců Západní Virginie.
-Prezident se nepřímo zmínil o Kavanaughově nominaci, když hovořil o důležitosti republikánské účasti ve volbách do Kongresu.
-„Pět týdnů od jednoho z nejdůležitějších voleb za našeho života.
-Neutákám, ale opravdu utíkám,“ řekl.
-„Proto jsem všude a bojuji za skvělé kandidáty.“
-Trump tvrdil, že demokraté jsou na misi „odporné a překážet“.
-První klíčové procedurální hlasování na půdě Senátu o Kavanaughově nominaci by se mělo konat nejpozději v pátek, řekl CNN vysoce postavený poradce ve vedení ČSSD.
-Stovky lidí zahynuly indonéským zemětřesením, tsunami, s mýtným stoupá
-Nejméně 384 lidí zahynulo, mnozí utekli, když se na pláže zřítily obří vlny, když na indonéském ostrově Sulawesi zasáhlo velké zemětřesení a tsunami, uvedly v sobotu úřady.
-Stovky lidí se v pátek se sešly na festivalu na pláži ve městě Palu, když se vlny až šest metrů (18 stop) se za soumraku rozbíjely na pevnině, mnohé smetly na smrt a zničily všechno, co jim stálo v cestě.
-Tsunami následovalo po zemětřesení o síle 7,5 stupně.
-„Když se včera objevila hrozba tsunami, lidé stále dělali svou činnost na pláži a neběželi hned a stali se oběťmi,“ uvedl na brífinku v Jakartě Sutopo Purwo Nugroho, mluvčí indonéské agentury pro zmírňování následků katastrof BNPB.
-„Tesunami se neporazila sama, táhla auta, klády, domy, všechno na pevnině,“ řekl Nugroho a dodal, že tsunami přeletěla po otevřeném moři rychlostí 800 km/h, než zasáhla pobřeží.
-Někteří lidé vylezli na tsunami a přežili, řekl.
-Přibližně 16 700 lidí bylo evakuováno do 24 středisek v Palu.
-Letecké fotografie zveřejněné agenturou pro katastrofy ukázaly mnoho budov a obchodů zničených, mosty se zkroutily a zřícily a mešitu obklopenou vodou.
-Následné otřesy v pobřežním městě v sobotu otřásly.
-Série zemětřesení byla pociťována v oblasti s 2,4 miliony obyvatel.
-Indonéská Agentura pro hodnocení a aplikaci technologie (BPPT) uvedla v prohlášení, že energie uvolněná pátečním masivním zemětřesením byla přibližně 200krát větší než síla atomové bomby svržené na Hirošima ve druhé světové válce.
-Geografie města, které leží na konci dlouhého, úzkého zálivu, by mohla zvětšit velikost tsunami, stálo tam.
-Nugroho popsal škody jako „rozsáhlé“ a řekl, že se zřítily tisíce domů, nemocnic, nákupních center a hotelů.
-Těla některých obětí byla podle něj nalezena uvězněná pod troskami zřícených budov a dodal, že bylo zraněno 540 lidí a 29 se pohřešuje.
-Nugroho řekl, že oběti a škody by mohly být větší podél pobřeží 300 km severně od Palu, oblasti zvané Donggala, která je blíže epicentru zemětřesení.
-Komunikace „byla naprosto ochromena bez informací“ od Donggaly, řekl Nugroho.
-Žije tam více než 300 000 lidí,“ uvedl Červený kříž v prohlášení a dodal, že jeho zaměstnanci a dobrovolníci míří do postižených oblastí.
-„Už teď je to tragédie, ale mohlo by se to ještě zhoršit,“ řekl.
-Agentura byla v sobotu široce kritizována za to, že neinformovala o tsunami, které zasáhlo Palu, ačkoliv podle oficiálních činitelů se vlny dostavily do doby, kdy bylo varování vydáno.
-Na amatérských záběrech sdílených na sociálních sítích je slyšet muže v horním patře budovy, jak křičí zběsilá varování před blížícím se tsunami na lidi na ulici dole.
-Během několika minut se na břeh zřítí vodní stěna a odnese budovy a auta.
-Reuters nebyl schopen záznam okamžitě ověřit.
-Zemětřesení a tsunami způsobily velký výpadek proudu, který přerušil komunikaci kolem Palu, což orgánům ztěžovalo koordinaci záchranných prací.
-Armáda začala posílat nákladní letadla s pomocí z Jakarty a dalších měst, uvedly úřady, ale evakuovaní stále nutně potřebují potraviny a další základní potřeby.
-Městské letiště bylo znovu otevřeno pouze kvůli záchranným silám a do října zůstane uzavřeno.
+Nehoda se stala poblíž křižovatky Bestwood Street a Evelyn Street, rušné silnice v Deptfordu na jihovýchodě města, asi v 10:15 BST.
+Řidič auta zastavil a záchranáři se zúčastnili, ale muž na místě zemřel.
+Nehoda přichází měsíce poté, co další cyklista zemřel při srážce na Childers Street, asi míli od sobotní havárie.
+Metropolitní policie uvedla, že policisté pracují na identifikaci muže a informují jeho nejbližšího příbuzenského.
+Uzavření silnic a odklony autobusů jsou na místě a motoristům bylo doporučeno, aby se oblast vyhnuli.
+Dlouhá Lartinská věznice: Šest policistů zraněno v nepořádku
+Šest vězeňských důstojníků bylo zraněno při nepokojích ve věznici s vysokou ostrahou mužů, uvedl vězeňský úřad.
+Porucha vypukla v HMP Long Lartin ve Worcestershire v neděli kolem 09:30 BST a pokračuje.
+Specializovaní "Tornado" důstojníci byli přivedeni, aby se vypořádali s nepokoji, které zahrnují osm vězňů a je obsaženo na jedno křídlo.
+Policisté byli na místě ošetřeni kvůli drobným zraněním obličeje.
+Mluvčí vězeňské služby uvedl: „Zvláštně vyškolený vězeňský personál byl nasazen, aby se vypořádal s probíhajícím incidentem v HMP Long Lartin.
+Šest členů personálu bylo ošetřeno kvůli zranění.
+Netolerujeme násilí v našich věznicích a je nám jasné, že ti, kteří jsou za to zodpovědní, budou předáni policii a mohli by trávit déle za mřížemi.
+HMP Long Lartin zadržuje více než 500 vězňů, včetně některých z nejnebezpečnějších pachatelů v zemi.
+V červnu bylo oznámeno, že guvernér věznice byl hospitalizován poté, co byl napaden vězněm.
+A v říjnu loňského roku byli do věznice přivoláni pořádkové policisté, aby se vypořádali s vážnými nepokoji, při nichž byli zaměstnanci napadeni kulečníkovými koulemi.
+Hurikán Rosa Ohrožuje Phoenix, Las Vegas, Salt Lake City S bleskovými záplavami (Duught Areas May Pay)
+Je vzácné, aby tropická deprese zasáhla Arizonu, ale to je přesně to, co se pravděpodobně stane brzy příští týden, protože hurikán Rosa zůstává energetické stopy přes poušť jihozápad, což přináší bleskové povodňové riziko.
+Národní meteorologická služba již vydala bleskové povodňové hodinky na pondělí a úterý pro západní Arizonu do jižní a východní Nevady, jihovýchodní Kalifornie a Utahu, včetně měst Phoenix, Flagstaff, Las Vegas a Salt Lake City.
+Očekává se, že Rosa se v úterý vydá přímou cestou přes Phoenix, blíží se pozdě v pondělí s deštěm.
+Národní meteorologická služba ve Phoenixu ve svém tweetu uvedla, že pouze „deset tropických cyklón udržuje tropickou bouři nebo stav deprese v okruhu 200 mil od Phoenixu od roku 1950!
+Katrina (1967) byl hurikán v okruhu 40 mil od hranice AZ.
+Nejnovější modely National Hurricane Center předpovídají 2 až 4 palce srážek, s izolovaným množstvím až 6 palců v Mogollon Rim v Arizoně.
+Další oblasti pouštního jihozápadu, včetně centrálních Skalnatých hor a Velké pánve, se pravděpodobně dostanou 1 až 2 palce, přičemž izolované úhrny až 4 palce mohou.
+Pro ty, kteří jsou z bleskového povodňového rizika, může být Rosův déšť požehnáním, protože region je suchem zasažen.
+Ačkoli záplavy jsou velmi vážným problémem, některé z těchto srážek budou pravděpodobně prospěšné, protože jihozápad v současné době zažívá sucho.
+Podle USA Dřevo Monitor, něco málo přes 40 procent Arizony zažívá přinejmenším extrémní sucho, což je druhá nejvyšší kategorie,“ uvedl weather.com.
+Za prvé, cesta hurikánu Rosa vede k landfall přes poloostrov Baja California v Mexiku.
+Rosa, která je stále v síle hurikánu v neděli ráno s maximálním větrem 85 mil za hodinu, je 385 mil jižně od Punta Eugenia v Mexiku a pohybuje se na sever rychlostí 12 mil za hodinu.
+Bouře se setkává s chladnějšími vodami v Pacifiku a proto se pohltí.
+Očekává se tedy, že v pondělí v pondělí učiní landfall v Mexiku při síle tropické bouře.
+Srážky v částech Mexika by mohly být těžké, což představuje významné povodňové riziko.
+"Údajné mraky 3 až 6 palců se očekávají z Baja California do severozápadní Sonora, s možností až 10 palců," uvedl weather.com.
+Rosa pak bude sledovat sever přes Mexiko jako tropická bouře před dosažením hranice Arizony v časných ranních hodinách v úterý jako tropická deprese, která pak bude sledovat přes Arizonu a do jižního Utahu do pozdního úterního večera.
+"Hlavním nebezpečím očekávaným od Rosy nebo jejích zbytků jsou velmi silné srážky v Baja California, severozápadní Sonora a USA. Pouštní jihozápad,“ uvedlo Národní centrum pro hurikány.
+Očekává se, že tyto deště budou produkovat život ohrožující bleskové záplavy a toky trosek v pouštích a sesuvy půdy v horském terénu.
+Útok v Midsomeru Norton: Čtyři pokusy o vraždu
+Tři dospívající chlapci a 20letý muž byli zatčeni pro podezření z pokusu o vraždu poté, co byl v Somersetu nalezen 16letý chlapec s bodnými ranami.
+Dospívající chlapec byl nalezen zraněný v oblasti Excelsior Terrace v Midsomer Norton v sobotu kolem 04:00 BST.
+Byl převezen do nemocnice, kde zůstává ve "stabilním" stavu.
+Sedmnáctiletý chlapec, dva 18letí a 20letý muž byli v noci zatčeni v oblasti Radstock, uvedla policie Avon a Somerset.
+Policisté apelovali na každého, kdo by mohl mít nějaké záběry z mobilního telefonu o tom, co se stalo, aby se přihlásil.
+Trump říká, že Kavanaugh "trpěl, podlost, hněv" Demokratické strany
+"Hlasování pro soudce Kavanaugha je hlasováním o odmítnutí nemilosrdné a pobuřující taktiky Demokratické strany," řekl Trump na shromáždění v Wheelingu v Západní Virginii.
+Trump řekl, že Kavanaugh "trpěl podlosti, hněvem" Demokratické strany během svého nominačního procesu.
+Kavanaugh svědčil ve čtvrtek před Kongresem, což násilně a emocionálně popřelo obvinění od Christine Blaseyové Fordové, že ji před desítkami let sexuálně napadl, když byli teenageři.
+Ford také svědčil na slyšení o svém obvinění.
+Prezident v sobotu řekl, že "Američané viděli brilantní a kvalitní a odvahu" Kavanaugha ten den.
+"Hlasování o potvrzení soudce Kavanaugha je hlasováním o potvrzení jednoho z nejdokonalejších právních mozků naší doby, právníka s librovým záznamem veřejné služby," řekl davu příznivců Západní Virginie.
+Prezident se šikmo odvolával na Kavanaughovu nominaci, když hovořil o důležitosti republikánské účasti ve volbách v polovině volebního období.
+"Pět týdnů od jednoho z nejdůležitějších voleb v našich životech.
+Neutíkám, ale opravdu běhám," řekl.
+"Proto jsem všude a bojuji za skvělé kandidáty."
+Trump tvrdil, že demokraté jsou na misi „odporovat a bránit“.
+Očekává se, že první klíčové procedurální hlasování na podlaze Senátu o Kavanaughově nominaci se bude konat nejpozději v pátek, řekl CNN vedoucí poradce GOP.
+Stovky lidí zabitých indonéským zemětřesením, tsunami, s mýtným, který byl vidět na vzestupu
+Nejméně 384 lidí bylo zabito, mnoho z nich bylo smeteno, když se obrovské vlny zřítily na pláže, když velké zemětřesení a tsunami zasáhly indonéský ostrov Sulawesi, uvedly úřady v sobotu.
+Stovky lidí se v pátek shromáždily na festivalu na pláži ve městě Palu, když vlny vysoké až šest metrů (18 stop) rozbily na břeh za soumraku, zametly mnoho k jejich smrti a zničily něco v jejich cestě.
+Tsunami následovalo zemětřesení o síle 7,5 stupně.
+"Když včera vznikla hrozba tsunami, lidé stále dělali své aktivity na pláži a okamžitě neběželi a stali se oběťmi," řekl Sutopo Purwo Nugroho, mluvčí indonéské agentury pro zmírňování katastrof BNPB na briefingu v Jakartě.
+"Tsunami se nenohýlo samo o sobě, táhlo auta, klády, domy, zasáhlo vše na souši," řekl Nugroho a dodal, že tsunami cestovala přes otevřené moře rychlostí 800 km / h (497 mph) předtím, než udeřila na pobřeží.
+Někteří lidé šplhali po stromech, aby unikli tsunami a přežili, řekl.
+V Palu bylo evakuováno 16 700 lidí do 24 center.
+Letecké fotografie zveřejněné agenturou pro katastrofy ukázaly, že mnoho budov a obchodů bylo zničeno, mosty zkroucené a zříceniny a mešita obklopena vodou.
+Následné otřesy pokračovaly v hoření pobřežního města v sobotu.
+Série zemětřesení byla pociťována v oblasti s 2,4 miliony lidí.
+Indonéská agentura pro hodnocení a aplikaci technologií (BPPT) ve svém prohlášení uvedla, že energie zveřejněná pátečním masivním zemětřesením byla přibližně 200násobkem výkonu atomové bomby shozené na Hirošimu za druhé světové války.
+Geografie města, která se nachází na konci dlouhého, úzkého zálivu, by mohla zvětšit velikost tsunami.
+Nugroho popsal škody jako "rozsáhlé" a uvedl, že se zhroutily tisíce domů, nemocnic, nákupních center a hotelů.
+Těla některých obětí byla nalezena uvězněná pod troskami zřícených budov, řekl a dodal, že 540 lidí bylo zraněno a 29 se pohřešuje.
+Nugroho uvedl, že oběti a škody by mohly být větší podél pobřeží 300 km severně od Palu, oblasti zvané Donggala, která je blíže epicentru zemětřesení.
+Komunikace "byla zcela zmrzačena bez informací" od Donggaly, řekl Nugroho.
+Žije zde více než 300 000 lidí,“ uvedl Červený kříž v prohlášení a dodal, že jeho zaměstnanci a dobrovolníci míří do postižených oblastí.
+"Už je to tragédie, ale mohlo by se to ještě zhoršit," řekl.
+Agentura byla v sobotu široce kritizována za to, že neinformovala, že zasáhla Paluova tsunami, ačkoli úředníci uvedli, že vlny přišly v době, kdy bylo vydáno varování.
+V amatérských záběrech sdílených na sociálních sítích může být slyšet muž v horním patře budovy, jak křičí zběsilé varování před blížící se tsunami lidem na ulici pod nimi.
+Během několika minut se na břeh zřítí stěna vody a odnese budovy a auta.
+Reuters nebyl schopen okamžitě ověřit záběry.
+Zemětřesení a tsunami způsobily velký výpadek proudu, který přerušil komunikaci kolem Palu, což ztěžovalo úřadům koordinovat záchranné úsilí.
+Armáda začala posílat nákladní letadla s pomocí z Jakarty a dalších měst, uvedly úřady, ale evakuovaní stále nutně potřebují jídlo a další základní potřeby.
+Městské letiště bylo znovu otevřeno pouze pro pomocné úsilí a zůstane uzavřeno až do října.
 Prezident Joko Widodo měl v neděli navštívit evakuační centra v Palu.
-Indonésie Tsunami Toll Soars Nad 800.
+Indonésii Tsunami Toll Vysazí Nad 800.
 Je to velmi špatné.
-Zatímco se zaměstnanci World Vision z Donggaly bezpečně dostali do města Palu, kde se zaměstnanci ukrývají ve strouhacích útulcích, které jsou na nádvoří jejich kanceláře, cestou prošli poskvrny zkázy, pane. Doseba řekla.
-„Řekli mi, že viděli spoustu zničených domů,“ řekl.
+Zatímco zaměstnanci World Vision z Donggala se bezpečně dostali do města Palu, kde se zaměstnanci ukrývají v plachtařských útulcích zřízených na nádvoří své kanceláře, prošli scénami devastace na cestě, pane. Řekl Doseba.
+"Řekli mi, že viděli spoustu zničených domů," řekl.
 Je to velmi špatné.
-I když humanitární skupiny začaly s ponurými návrhy na zahájení rozlučkových výstrojí pomoci při katastrofách, někteří si stěžovali, že zahraničním humanitárním pracovníkům s hlubokými odbornými znalostmi bylo zabráněno cestovat do Palu.
-Podle indonéských předpisů mohou finanční prostředky, dodávky a personální obsazení ze zámoří začít proudit pouze v případě, že místo kalamity bude prohlášeno za národní oblast katastrofy.
+I když humanitární skupiny začaly chmurné pohyby zahájení převodů pomoci při katastrofách, někteří si stěžovali, že zahraničním humanitárním pracovníkům s hlubokými odbornými znalostmi bylo bráněno v cestování do Palu.
+Podle indonéských předpisů mohou finanční prostředky, dodávky a personálně ze zámoří začít proudit pouze tehdy, pokud je místo kalamity prohlášeno za národní zónu katastrofy.
 To se ještě nestalo.
-„Pořád je to katastrofa na úrovni provincie,“ řekla Aulia Arriani, mluvčí indonéského Červeného kříže.
-„Jakmile vláda řekne, „O.K., tohle je národní katastrofa,“ můžeme otevřít pro mezinárodní pomoc, ale zatím žádný status nemáme.“
-Když na Palačinou a tsunami padla druhá noc na Palu, přátelé a rodina pohřešovaných se stále zdržovali v naději, že jejich blízcí budou zázraky, které budou pobouřenými pomyje se pochlaných příběhových liniích přírodních katastrof.
-V sobotu byl z kanálu vytažen malý chlapec.
-V neděli záchranáři osvobodili ženu, která byla dva dny přišpendlená pod sutinami s tělem své matky vedle sebe.
-Gendon Subandon, trenér indonéského národního paraglidingového týmu, trénoval dva chybějící paraglidery na Asijské hry, které se tento měsíc v Indonésii zabouraly.
-Další z těch, kteří jsou uvězněni v hotelu Roa Roa, pane. Mandagi včetně, byli jeho studenti.
-„Jako maturant na paraglidingu mám své vlastní emocionální břemeno,“ řekl.
-Pane. Gendon vylíčil, jak v hodinách poté, co se mezi paraglidingovou komunitou roznesla zpráva o zřícení hotelu Roa Roa, zoufale posílal zprávy WhatsApp konkurentům v Palu, kteří se účastnili festivalu na pláži.
-Jeho poselství však vyústila pouze v jednu šedou šekovku, a ne v modrou šeky.
-„Myslím, že to znamená, že zprávy nebyly doručeny,“ řekl.
-Zloději berou 26 750 dolarů během nlvy bankomatu v Newportu na Levee
-Zloději v pátek ráno ukradli pracovníkovi Brink's dolafiánovi 26 750 dolarů, který si na Levee připsal bankomat v Newportu na Levee, podle tiskové zprávy newportského policejního oddělení.
-Řidič auta vyprazdňoval bankomat v zábavním komplexu a připravoval se na dodávku dalších peněz, detekt. Dennis McCarthy to napsal ve vydání.
-Zatímco byl zaměstnán, další muž „pokračoval zpoza Brinkova zaměstnance“ a ukradl pytlík peněz určené k dodání.
-Svědci si podle zprávy všimli několika podezřelých, kteří prchali z místa činu, ale policie neupřesnila počet účastníků incidentu.
-Každý, kdo má informace o své totožnosti, by měl kontaktovat policii v Newportu na telefonním čísle 859-292-3680.
-Kanye West: Rapper si změnil jméno na Ye
-Rapper Kanye West si mění jméno na Ye.
-V sobotu na Twitteru zprávu o změně oznámil: „Být formálně známou jako Kanye West.“
-Jednačtyřicetiletý West byl již nějakou dobu přezdíván Ye a tuto přezdívku použil jako titul pro své osmé album, které bylo vydáno v červnu.
-Změna přichází před jeho vystoupením v Saturday Night Live, kde by měl uvést své nové album Yandhi.
-V pořadu nahradí zpěvačku Arianu Grande, která to zrušila z „emocionálních důvodů“, řekl tvůrce seriálu.
-Kromě toho, že je zkratkou jeho současného profesionálního jména, West již dříve řekl, že slovo má pro něj náboženský význam.
-„Věřím, že 'ye' je nejběžněji používané slovo v Bibli a v Bibli to znamená 'vy',“ řekl letos West a pojednával o názvu svého alba s moderátorem Big Boyem.
-„Takže já jsem ty, jsem to my, to jsme my.
-Z Kanyeho, což znamená, že je jediný, přešel k Ye – jen to, že jsme odrazem našeho dobra, našeho zla, našeho zlí, našeho zmateného, všeho.
-Album je spíše odrazem toho, kým jsme.“
-Je jedním z řady slavných rapperů, kteří si změnili jméno.
-Sean Combs byl různě známý jako Puff Daddy, P. Diddy nebo Diddy, ale letos oznámili, že preferuje jména Love a Brother Love.
-Bývalý západorský spolupracovník JAY-Z se také vystříkl s pomlčkou a hlavními městy nebo bez nich.
-Mexiko AMLO slibuje, že nepoužije armádu proti civilistům
-Nově zvolený mexický prezident Andres Manuel Lopez Obrador slíbil, že nikdy nepoužije vojenskou sílu proti civilistům, až se země bude blížit k 50. výročí krvavé odvety proti studentům.
-Lopez Obrador slíbil v sobotu na Tlatelolco Plaza, že „nikdy nepoužije armádu k potlačení mexického lidu“.
-Vojáci stříleli na pokojnou demonstraci na náměstí v říjnu. 2, 1968, zabití až 300 lidí v době, kdy levicová studentská hnutí zakořenila po celé Latinské Americe.
-Lopez Obrador se zavázal, že bude podporovat mladé Mexičany tím, že poskytne měsíční dotace těm, kteří studují a otevřou více bezplatných veřejných univerzit.
-Řekl, že nezaměstnanost a nedostatek vzdělávacích příležitostí přitahuje mládež k kriminálním gangům.
-Spojené státy by měly zdvojnásobit financování A.I.
-Jak se Čína stává aktivnější v umělé inteligenci, USA by měly zdvojnásobit částku, kterou utratí na výzkum v terénu, říká investor a AI praktice Kai-Fu Lee, který pracoval pro Google, Microsoft a Apple.
-Komentáře přicházejí poté, co různé části americké vlády učinily oznámení o AI, i když USA celkově postrádá formální strategii umělé invalidy.
-Čína přitom loni zavedla svůj plán: do roku 2030 chce být jedničkou v AI.
-„Dvakrát by byl rozpočet na výzkum umělé matematiky dobrým začátkem, vzhledem k tomu, že všechny ostatní země jsou o tolik dál za USA, a hledáme další průlom v AI,“ řekl Lee.
-Zdvojnásobení financování by mohlo zdvojnásobit šance, že příští velký úspěch AI bude v USA, řekl Lee CNBC v rozhovoru pro tento týden.
-Lee, jehož kniha „AI Superpowers: China, Silicon Valley and the New World Order“ byla vydána tento měsíc Houghton Mifflin Harcourt, je CEO společnosti Sinovation Ventures, která investovala do jedné z nejvýznamnějších AI společností v Číně, Face++.
-V osmdesátých letech na Carnegie Mellon University pracoval na systému umělé inteligence, který porazil nejvýše postaveného hráče amerického Othella, a později byl výkonným ředitelem Microsoft Research a prezidentem pobočky Googlu v Číně.
-Lee uznal předchozí americké vládní technologické soutěže jako Robotics Challenge Defense Advanced Research Projects Agency a zeptal se, kdy bude další, aby pomohl identifikovat další vizionáře.
-Výzkumníci v USA musí často tvrdě pracovat, aby získali vládní granty, řekl Lee.
-„Není to Čína, kdo bere akademické představitele; jsou to korporace,“ řekl Lee.
-Facebook, Google a další technologické společnosti si v posledních letech na AI najaly na univerzitách, aby pracovaly na AI.
-Lee řekl, že změny imigrační politiky by také mohly pomoci USA posílit své úsilí o umělou inteligenci.
-„Myslím, že zelené karty by měly být automaticky nabízeny doktorátům v AI,“ řekl.
-Čínská státní rada vydala v červenci 2017 plán rozvoje umělé inteligence nové generace.
-Čínská Národní nadaci pro přírodní vědy poskytuje lidem na akademických institucích finanční prostředky podobně jako National Science Foundation a další vládní organizace rozdávat peníze americkým výzkumníkům, ale kvalita akademické práce je v Číně nižší, řekl Lee.
-Počátkem tohoto roku USA. Ministerstvo obrany zřídilo Společné středisko pro umělou inteligenci, které má zahrnovat partnery z průmyslu a akademické obce, a Bílý dům oznámil vytvoření Výběrového výboru pro umělou inteligenci.
-A tento měsíc DARPA oznámila investici ve výši 2 miliard dolarů do iniciativy s názvem AI Next.
+"Stále je to katastrofa na úrovni provincie," uvedla mluvčí indonéského Červeného kříže Aulia Arianiová.
+"Jakmile vláda řekne:" O.K., je to národní katastrofa ", můžeme otevřít mezinárodní pomoc, ale zatím neexistuje žádný status."
+Vzhledem k tomu, že druhá noc padla na Palu po pátečním zemětřesení a tsunami, přátelé a rodina těch, kteří se stále pohřešují, se drželi naděje, že jejich milovaní budou zázraky, které kvasí bezútěšné dějové linie přírodních katastrof.
+V sobotu byl z kanálu vytržen malý chlapec.
+V neděli záchranáři osvobodili ženu, která byla dva dny přišpendlená pod troskami s tělem své matky vedle ní.
+Gendon Subandono, trenér indonéského národního paraglidingového týmu, vycvičil dva z pohřešovaných paraglidů pro asijské hry, které skončily počátkem tohoto měsíce v Indonésii.
+Jiní z těch, kteří jsou uvězněni v hotelu Roa Roa, pane. Mandagi včetně, byli jeho studenti.
+"Jako senior v oblasti paraglidingu mám své vlastní emocionální břemeno," řekl.
+Pane. Gendon líčil, jak v hodinách poté, co zpráva o kolapsu hotelu Roa Roa šířela mezi paraglidingovou komunitou, zoufale poslal WhatsApp zprávy konkurentům Palu, kteří se účastnili plážového festivalu.
+Jeho zprávy však vedly pouze k jednomu šedému kontrolnímu značce, spíše než v páru modrých šeků.
+"Myslím, že to znamená, že zprávy nebyly doručeny," řekl.
+Zloději si během ATM replul v Newportu na Levee vzali 26 750 dolarů.
+Zloději v pátek ráno ukradli 26 750 dolarů z pracovníka Brinka, který doplnil bankomat v Newportu na Levee, podle tiskové zprávy z policejního oddělení v Newportu.
+Řidič vozu vyprazdňoval bankomat v zábavním komplexu a připravoval se na dodání více peněz, Dete. Dennis McCarthy napsal ve svém vydání.
+Zatímco byl obsazen, další muž "vyběhl zpoza zaměstnance Brink" a ukradl pytel peněz určených na doručení.
+Svědci si podle propuštění všimli několika podezřelých, kteří prchali z místa činu, ale policie neupřesnila počet zapojených do incidentu.
+Každý, kdo má informace o své totožnosti, by měl kontaktovat policii v Newportu na čísle 859-292-3680.
+Kanye West: Rapper mění své jméno na Ye
+Rapper Kanye West si mění jméno - na Ye.
+Oznámil změnu na Twitteru v sobotu, napsal: "Falformálně známá jako Kanye West."
+West, 41, byl už nějakou dobu přezdíván Ye a použil přezdívku jako název pro své osmé album, které bylo vydáno v červnu.
+Změna přichází před jeho vystoupením v Saturday Night Live, kde se očekává, že vydá své nové album Yandhi.
+Nahradí zpěvačku Arianu Grande v pořadu, který zrušil z "emocionálních důvodů", řekl tvůrce seriálu.
+Kromě toho, že je zkratkou svého současného profesionálního jména, West již dříve řekl, že toto slovo má pro něj náboženský význam.
+"Věřím, že 'jo' je nejčastěji používané slovo v Bibli a v Bibli to znamená 'vy'," řekl West na začátku tohoto roku a diskutoval o svém albu s rozhlasovým moderátorem Big Boyem.
+"Takže já jsem ty, já jsme to my, jsme to my.
+Přešlo to od Kanyeho, což znamená jediný, jen na Ye - jen být odrazem našeho dobrého, našeho špatného, našeho zmateného, všeho.
+Album je spíše odrazem toho, kdo jsme.“
+Je jedním z mnoha slavných rapperů, kteří si změnili jméno.
+Sean Combs byl různě známý jako Puff Daddy, P. Diddy nebo Diddy, ale letos oznámil svou preferenci pro jména Láska a bratrská láska.
+Bývalý západní spolupracovník, JAY-Z, si také vystačil s pomlčkou a hlavními městy nebo bez ní.
+Mexický AMLO slíbil, že nepoužije armádu proti civilistům
+Nově zvolený mexický prezident Andres Manuel Lopez Obrador slíbil, že nikdy nepoužije vojenskou sílu proti civilistům, protože země se blíží k 50. výročí krvavé odvety proti studentům.
+Lopez Obrador v sobotu v Tlatelaco Plaza slíbil, že „nikdy nikdy nepoužil armádu k potlačování mexických lidí“.
+Vojáci vystřelili na pokojnou demonstraci na náměstí v říjnu. 2, 1968, zabíjet až 300 lidí v době, kdy levicové studentské hnutí zapustilo kořeny v celé Latinské Americe.
+Lopez Obrador se zavázal podporovat mladé Mexičany tím, že poskytne měsíční dotace těm, kteří studují, a otevře více bezplatných veřejných univerzit.
+Řekl, že nezaměstnanost a nedostatek vzdělávacích příležitostí přitahuje mládež ke zločineckým gangům.
+USA by měly zdvojnásobit financování A.I.
+Vzhledem k tomu, že Čína se stala aktivnější v oblasti umělé inteligence, měly by USA zdvojnásobit částku, kterou vynakládají na výzkum v této oblasti, říká investor a praktikující AI Kai-Fu Lee, který pracoval pro Google, Microsoft a Apple.
+Komentáře přicházejí poté, co různé části americké vlády učinily oznámení AI, i když USA celkově postrádají formální strategii AI.
+Mezitím Čína představila svůj plán v loňském roce: má v úmyslu být č. 1 v oblasti inovací AI do roku 2030.
+"Duble, že rozpočet na výzkum AI by byl dobrým začátkem, vzhledem k tomu, že všechny ostatní země jsou mnohem dále za USA, a my hledáme další průlom v AI," řekl Lee.
+Zdvojnásobení financování by mohlo zdvojnásobit šance, že další velký úspěch AI bude dosažen v USA, řekl Lee v rozhovoru pro CNBC tento týden.
+Lee, jehož kniha „AI Superpowers: China, Silicon Valley a New World Order“ byla tento měsíc publikována společností Houghton Mifflin Harcourt, je generálním ředitelem společnosti Sination Ventures, která investovala do jedné z nejvýznamnějších společností AI v Číně, Face++.
+V 80. letech na Carnegie Mellon University pracoval na systému AI, který porazil nejvýše postaveného amerického hráče Othella, a později byl výkonným ředitelem společnosti Microsoft Research a prezidentem pobočky společnosti Google v Číně.
+Lee uznal předchozí technologické soutěže americké vlády, jako je Defense Advanced Research Projects's Robotics Challenge, a zeptal se, kdy bude další, aby pomohla identifikovat další vizionáře.
+Výzkumníci v USA často musí tvrdě pracovat, aby získali vládní granty, řekl Lee.
+"Není to Čína, kdo bere akademické vůdce; jsou to korporace," řekl Lee.
+Facebook, Google a další technologické společnosti najaly osobnosti z univerzit, aby v posledních letech pracovaly na AI.
+Lee uvedl, že změny imigrační politiky by také mohly pomoci USA posílit své úsilí o AI.
+"Myslím, že zelené karty by měly být automaticky nabízeny PhD v AI," řekl.
+Čínská státní rada vydala svůj plán rozvoje umělé inteligence nové generace v červenci 2017.
+Čínská národní nadace přírodních věd poskytuje finanční prostředky lidem v akademických institucích podobně jako National Science Foundation a další vládní organizace rozdávají peníze americkým výzkumníkům, ale kvalita akademické práce je v Číně nižší, řekl Lee.
+Začátkem letošního roku se Spojené státy. Ministerstvo obrany zřídilo Společné centrum umělé inteligence, které má zapojit partnery z průmyslu a akademické obce, a Bílý dům oznámil vytvoření užšího výboru pro umělou inteligenci.
+A tento měsíc DARPA oznámila investici 2 miliardy dolarů do iniciativy nazvané AI Next.
 Pokud jde o NSF, v současné době investuje více než 100 milionů dolarů ročně do výzkumu AI.
-Mezitím americké právní předpisy, které se snažily vytvořit Národní bezpečnostní komisi pro umělou inteligenci, nezažila v několika měsících akci.
-Makedonci hlasovali v referendu o tom, zda změnit název země
-Lidé v Makedonii v nedělním referendu hlasovali o tom, zda změní svůj název na „Republika Severní Makedonie“, což by vyřešilo desítky let starý spor s Řeckem, který zablokoval její nabídky členů pro Evropskou unii a NATO.
-Řecko, které má provincii zvanou Makedonie, tvrdí, že název jeho severního souseda představuje nárok na jeho území a vetovalo jeho vstup do NATO a EU.
-Obě vlády uzavřely v červnu dohodu na základě navrhovaného nového názvu, ale nacionalističtí oponenti tvrdí, že změna by podkopala etnickou identitu slovanského většinového obyvatelstva Makedonie.
-Prezident Gjorge Ivanov řekl, že nebude hlasovat v referendu a bojkotová kampaň vyvolala pochybnosti o tom, zda volební účast splní minimum, které je potřeba pro platnost referenda.
-Otázka k hlasování o referendu zněla: „Jste pro NATO a členství v EU s přijetím dohody s Řeckem.“
-Zastánci změny názvu, včetně premiéra Zorana Zavaje, tvrdí, že je to cena, kterou stojí za to zaplatit, aby se do nich mohlo jít o vstup do orgánů, jako je EU a NATO pro Makedonii, jedna ze zemí, které vzejdou z kolapsu Jugoslávie.
-„Dnes jsem přišla hlasovat pro budoucnost země, pro mladé lidi v Makedonii, aby mohli žít svobodně pod zastřešováním Evropské unie, protože to znamená bezpečnější život pro nás všechny,“ řekla devětasedmdesátiletá ve Skopje Olivera Georgijevska.
-I když není právně závazný, dostatečný počet poslanců prohlásil, že se budou řídit výsledkem hlasování, aby to bylo rozhodující.
-Změna názvu by vyžadovala dvoutřetinovou většinu v parlamentu.
-Státní volební komise uvedla, že do 13:00 nebyly hlášeny nesrovnalosti.
-Účast však činila pouze 16 procent, oproti 34 procentům v posledních parlamentních volbách v roce 2016, kdy 66 procent registrovaných voličů odevzdalo svůj hlas.
-„Přišel jsem volit kvůli svým dětem, naše místo je v Evropě,“ řekl dvaašedesátiletý Gjose Tanevski, volič v hlavním městě Skopje.
-Makedonský premiér Zoran Zaev, jeho žena Zorica a jeho syn Dushko odevzdali 30. září 2018 hlasování na referendum v Makedonii o změně názvu země, který by otevřel cestu pro vstup do NATO a Evropské unie ve Strumice v Makedonii 30. září 2018.
-Čtyřiapadesátiletý Vladimir Kavardarkov před parlamentem ve Skopje připravoval malé pódium a před stany postavenými těmi, kdo budou rvalovat referendum, si předvolání před sebou stojí.
-„Jsme pro NATO a EU, ale chceme se spojit s našimi hlavami nahoru, ne dveřmi služby,“ řekl Kaváárjov.
-„Jsme chudá země, ale máme důstojnost.
-Pokud nás nechtějí brát jako Makedonii, můžeme se obrátit na další, jako je Čína a Rusko, a stát se součástí integrace mezi Eurem a Asií.“
-Premiér Zaev říká, že členství v NATO přinese tolik potřebné investice do Makedonie, kde je míra nezaměstnanosti více než 20 procent.
-„Věřím, že velká většina bude pro, protože více než 80 procent našich občanů je pro EU a NATO,“ řekl Zaev po odevzdání svého voleb.
-Řekl, že „ano“ výsledkem bude „potvrzení naší budoucnosti“.
-Minulé pondělí zveřejněný průzkumem makedonského Institutu pro výzkum politiky se podle rozvojejeje v referendu zúčastní 30 až 43 procent voličů – což je pod požadovanou účastí.
-Další průzkum provedený makedonskou televizí Telma zjistil, že 57 procent respondentů plánuje v neděli hlasovat.
-Z nich 70 procent řeklo, že budou hlasovat.
-Aby se referendum konalo v úspěšné volební účasti, musí být 50 procent plus jeden hlas.
-Selhání v referendu by představovalo první vážnou ránu do politiky prozápadní vlády od jejího nástupu v květnu loňského roku.
-Podívejte se: Manchester City Sergio Aguero naviguje celou obranu Brightonu pro branku
-Sergio Aguero a Raheem Sterling vyřadili obranu Brightonu v sobotu na Etihad Stadium v anglickém Manchesteru 2:0 na výhře 2:0 na Etihad Stadium.
-Aguero dělal to vypadat směšně snadné na jeho skóre v 65. minutě.
-Argentinský útočník dostal na začátku sekerou na hřišti.
-Závodil mezi tři obránce Brightonu, než sekl do otevřeného pole.
-Aguero pak zjistil, že je obklopen čtyřmi zelenými košilí.
-Postrčil se kolem jednoho obránce, než jich několik dalších předběhne na okraji Brightonovy lóže.
-Pak se protáhl doleva a našel Sterlinga.
-Anglický útočník využil svůj první dotek v boxu a vrátil míč Aguerovi, který pravou botu porazil brankáře Brightonu Mathewa Ryana střelou do pravé strany sítě.
-„Aguero se potýká s nějakými problémy v nohou,“ řekl novinářům manažer City Pep Guardiola.
-„Mluvili jsme o tom, že hraje 55, 60 minut.
-To se stalo.
-Měli jsme štěstí, že v tu chvíli dal gól.“
-Ale byl to Sterling, kdo dal Sky Blues počáteční výhodu v potyčce Premier League.
-Ten gól přišel ve 29. minutě.
-Aguero dostal míč hluboko v Brightonském území.
-Krásně poslal míč po levém křídle na Leroy Sane.
-Sane se ho dotkl, než vedl Sterlinga ke vzdálenější tyči.
-Sky Blues útočník poklepal míč do sítě těsně předtím, než sklouzl z mezí.
-City bojuje s Hoffenheimem ve skupině Ligy mistrů hrát v úterý ve 12:55 v Rhein-Neckar-Arenena v Sinsheimu, Německo.
-Scherzer si chce hrát na spoiler vs. Rockies
-Vzhledem k tomu, že národní kolo bylo vyřazeno z play-off.
-Ale stále soutěžní Scherzer doufá, že se kopec v neděli proti Colorado Rockies, ale pouze v případě, že jsou stále v play-off důsledky pro Rockies, kteří drží jedno-herní náskok před Los Angeles Dodgers v NL západ.
-Rockies si v pátek večer připsali alespoň místo na divokou kartu výhrou 5:2 nad národním, ale stále chtějí zamknout svůj první titul v divizi.
-„I když hrajeme pro nic za nic, alespoň se můžeme držet gumy s vědomím, že atmosféra tady v Denveru s davem a druhým týmem bude hrát asi na nejvyšší úrovni jakéhokoli bodu, kterému bych se letos utkal.
-Proč bych v tom neměl soutěžit?“
-Národní tým ještě neoznámil startujícího hráče na neděli, ale údajně se přiklání k tomu, aby se Scherzer v takové situaci dostal.
-Scherzer, který bude dělat jeho 34. start, hodil bullpen zasedání ve čtvrtek a bude nadhazovat na jeho normální odpočinek v neděli.
-Washington pravý obránce je 18-7 s 2,53 ERA a 300 strikeouts v 220 2/3 směny v této sezoně.
-Trump se v Západní Virginii
-Prezident se nepřímo zmiňuje o situaci kolem jeho kandidáta do Nejvyššího soudu Bretta Kavanaugha, když hovořil o důležitosti účasti republikánů ve volbách do Kongresu.
-„Všechno, co jsme udělali, jsme v sázce v listopadu.
-Pět týdnů do jednoho z nejdůležitějších voleb v našem životě.
-Tohle je jedna z velkých, velkých – nekandiduji, ale opravdu kandiduji, proto všude bojuji za skvělé kandidáty,“ řekl.
-Trump pokračoval: „Vidíte tu hroznou, příšernou radikální skupinu demokratů, vidíte, že se to děje právě teď.
-A jsou odhodláni převzít zpět moc pomocí všech nezbytných prostředků, vidíte podlost, nechutnost.
-Je jim jedno, komu ublíží, koho musí přeběhnout, aby získali moc a kontrolu, to je to, co chtějí, je moc a kontrola, my jim ji nedáme.“
-Demokraté jsou podle něj na misi „odolat a bránit“.
-„A to vidíte v posledních čtyřech dnech,“ řekl a nazval demokraty „naštvými a zlým, ošklivým a nepravdivým.“
-Zmínil se o senátním justičním výboru, který se stal demokratickým senátorem. Dianne Feinsteinová jménem, která publikum hlasitě zpívala.
+Mezitím americká legislativa, která se snažila vytvořit Národní bezpečnostní komisi pro umělou inteligenci, nezaznamenala akci v měsících.
+Makedonci v referendu hlasovali v referendu o tom, zda změnit jméno země
+Lidé v Makedonii v neděli hlasovali v referendu o tom, zda změnit svůj název na „Republic of North Makedonie“, což je krok, který by vyřešil desítky let starý spor s Řeckem, který zablokoval své členské nabídky pro Evropskou unii a NATO.
+Řecko, které má provincii zvanou Makedonie, tvrdí, že jméno jeho severního souseda představuje nárok na jeho území a vetovalo svůj vstup do NATO a EU.
+Obě vlády uzavřely dohodu v červnu na základě navrhovaného nového názvu, ale nacionalističtí odpůrci tvrdí, že změna by podkopala etnickou identitu makedonského slovanského většinového obyvatelstva.
+Prezident Gjorge Ivanov řekl, že nebude hlasovat v referendu a kampaň bojkotu zpochybňuje, zda volební účast splní minimálně 50 procent potřebných pro referendum, které má být platné.
+Otázka na hlasování v referendu zní: "Jste pro členství v NATO a EU s přijetím dohody s Řeckem."
+Zastánci změny názvu, včetně premiéra Zorana Zaeva, tvrdí, že je to cena, kterou stojí za to, aby usilovaly o vstup do orgánů, jako je EU a NATO pro Makedonii, jednu ze zemí, která se vynořila z kolapsu Jugoslávie.
+"Přišla jsem dnes hlasovat pro budoucnost země, pro mladé lidi v Makedonii, aby mohli svobodně žít pod záštitou Evropské unie, protože to znamená bezpečnější život pro nás všechny," řekla Olivera Georgijevska, 79 let, ve Skopje.
+I když to není právně závazné, dostatek členů parlamentu uvedlo, že se budou řídit výsledkem hlasování, aby bylo rozhodující.
+Změna názvu by v parlamentu vyžadovala dvoutřetinovou většinu.
+Státní volební komise uvedla, že do 13:00 nebyly hlášeny žádné nesrovnalosti.
+Volební účast však činila pouze 16 procent ve srovnání s 34 procenty v posledních parlamentních volbách v roce 2016, kdy 66 procent registrovaných voličů odevzdalo svůj hlasovací lístek.
+"Vyšel jsem k volbám kvůli mým dětem, naše místo je v Evropě," řekl Gjose Tanevski, 62 let, volič v hlavním městě Skopje.
+Makedonský premiér Zoran Zaev, jeho manželka Zorica a jeho syn Dushko odevzdali svůj hlas pro referendum v Makedonii o změně názvu země, která by otevřela cestu pro vstup do NATO a Evropské unie v Strumice, Makedonie, 30. září 2018.
+Před parlamentem ve Skopje, Vladimir Kavardarkov, 54, připravoval malou scénu a vytáhl židle před stany zřízené těmi, kteří budou referendum bojkotovat.
+"Jsme pro NATO a EU, ale chceme se spojit s našimi hlavami nahoru, ne prostřednictvím služebních dveří," řekl Kavadarkov.
+"Jsme chudá země, ale máme důstojnost.
+Pokud nás nechtějí vzít jako Makedonii, můžeme se obrátit na ostatní, jako je Čína a Rusko, a stát se součástí euro-aisijské integrace.
+Premiér Zaev říká, že členství v NATO přinese Makedonii tolik potřebné investice, která má míru nezaměstnanosti více než 20 procent.
+"Věřím, že obrovská většina bude pro, protože více než 80 procent našich občanů je pro EU a NATO," řekl Zaev po svém hlasování.
+Řekl, že výsledkem "ano" by bylo "potvrzení naší budoucnosti".
+Průzkum zveřejněný v pondělí Makedonským institutem pro politický výzkum uvedl, že se referenda zúčastní 30 až 43 procent voličů - pod požadovanou účastí.
+Další průzkum provedený makedonskou televizí Telma zjistil, že 57 procent respondentů plánuje hlasovat v neděli.
+Z nich 70 procent uvedlo, že budou hlasovat pro.
+Aby referendum bylo úspěšné, musí být 50 procent plus jeden hlas.
+Selhání v referendu by znamenalo první vážnou ránu politice prozápadní vlády od doby, kdy převzala moc v květnu loňského roku.
+Sledujte: Manchester City je Sergio Aguero naviguje celou Brighton obranu pro gól
+Sergio Aguero a Raheem Sterling vyslali z obrany Brightonu v sobotu vítězství Manchesteru City 2-0 na stadionu Etihad v Manchesteru v Anglii.
+Aguero to v 65. minutě udělal na svém skóre směšně snadno.
+Argentinský útočník obdržel přihrávku ve středu pole na začátku sekvence.
+Závodil mezi třemi obránci Brightonu, než se propadl do otevřeného pole.
+Aguero se pak ocitl obklopen čtyřmi zelenými košilemi.
+Tlačil kolem jednoho obránce, než vynechal několik dalších na okraji Brighton boxu.
+Pak tlačil přihrávku doleva a našel Sterlinga.
+Anglický útočník použil svůj první dotek v krabici, aby vrátil míč zpět Agueroovi, který použil svou pravou botu, aby porazil Brightonského brankáře Mathewa Ryana střelou do pravé strany sítě.
+"Aguero se potýká s problémy v nohách," řekl novinářům manažer City Pep Guardiola.
+"Mluvili jsme o tom, že hraje 55, 60 minut.
+- Přesně to se stalo.
+Měli jsme štěstí, že v tu chvíli vstřelil gól.“
+Ale byl to Sterling, kdo dal Sky Blues počáteční výhodu v Premier League rvačky.
+Tento gól přišel v 29. minutě.
+Aguero obdržel míč hluboko v Brighton území na této hře.
+Poslal krásný přes míč podél levého křídla Leroy Sane.
+Sane vzal několik doteků, než vedl Sterling směrem k dalekému postu.
+Sky Blues dopředu poklepal míč do sítě těsně předtím, než sklouzl mimo hranice.
+City bojuje s Hoffenheimem ve skupině Ligy mistrů v úterý ve 12:55 v Rhein-Neckar-Arena v Sinsheimu v německém Sinsheimu.
+Scherzer chce hrát spoiler vs. Rockiesová
+S Nationals vyřazen z play-off tvrzení, tam nebyl moc důvod vynutit další start.
+Ale stále-konkurenceschopný Scherzer doufá, že se v neděli dostane do kopce proti Colorado Rockies, ale pouze v případě, že stále existují důsledky pro Rockies, kteří mají jeden herní náskok nad Los Angeles Dodgers v NL West.
+Rockies získali alespoň divokou kartu bod s výhrou 5-2 nad Nationals v pátek večer, ale stále se snaží zamknout svůj první divizní titul.
+I když hrajeme pro nic za nic, alespoň můžeme být schopni držet se gumy s vědomím, že atmosféra tady v Denveru s davem a druhým týmem by hrála pravděpodobně nejvyšší úroveň ze všech stran, které bych letos čelil.
+Proč bych v tom nechtěl soutěžit?“
+Národní týmy mají ještě oznámit startér pro neděli, ale jsou údajně nakloněni nechat Scherzer hřiště v takové situaci.
+Scherzer, který by měl mít svůj 34. start, hodil bullpen session ve čtvrtek a bude nadhazovat na jeho normální odpočinek v neděli.
+Washingtonský pravák je 18-7 s 2,53 ERA a 300 strikeouts v 220 2/3 směnách v této sezóně.
+Trump se shromáždil v Západní Virginii
+Prezident se šikmo odvolával na situaci kolem jeho výběru Nejvyššího soudu Bretta Kavanaugha, zatímco mluvil o důležitosti republikánské účasti ve volbách v polovině volebního období.
+"Všechno, co jsme udělali, je v sázce v listopadu.
+Pět týdnů od jednoho z nejdůležitějších voleb v našich životech.
+Tohle je jeden z velkých, velkých - nekandiduji, ale opravdu běžím, to je důvod, proč jsem všude a bojuji za skvělé kandidáty.
+Trump pokračoval: „Vidíte tuto hroznou, hroznou radikální skupinu demokratů, vidíte, že se to děje právě teď.
+A jsou odhodláni převzít zpět moc pomocí všech nezbytných prostředků, vidíte podlost, ošklivost.
+Je jim jedno, komu ublíží, komu musí přejet, aby získali moc a kontrolu, to je to, co chtějí, je moc a kontrola, my jim to nedáme.“
+Demokraté, řekl, jsou na misi „odporovat a obstruovat“.
+"A vidíte to v posledních čtyřech dnech," řekl a nazval demokraty "naštvanými a zlými a ošklivými a nepravdivými".
+Odkazoval se na senátní justiční výbor žebříčku demokratického senátora. Dianne Feinstein jménem, která obdržela hlasité bučení z publika.
 „Pamatuješ na její odpověď?
-Prosranul jsi ten dokument?
-Uh, uh, co.
-Ne, ne, počkám jeden – to byla opravdu ošklivost těla – nejhorší řeč těla, jakou jsem kdy viděl.“
-Labouristická práce už není široká církev.
-Je netolerantní k těm, kdo mluví svým mozkem
-Když aktivisté Momentum v mé místní straně hlasovali pro vyslovení nedůvěřivosti, nebylo to žádné překvapení.
-Koneckonců jsem poslední z řady labouristických poslanců, kteří se dozvědí, že nejsme vítáni – to vše pro vyjádření.
-Mé parlamentní kolegyni Joan Ryanové se dostalo podobného zacházení, protože se rezolutně postavila antisemitismu.
-V mém případě mě návrh na vyslovení nedůvěry kritizoval za nesouhlas s Jeremym Corbynem.
-O významu odpovědné hospodářské politiky, v oblasti národní bezpečnosti, na Evropu, ironicky podobné otázky, na nichž Jeremy nesouhlasil s předchozími lídry.
-V pátečním oznámení pro Nottingham East Labour setkání se uvádí, že „chceme, aby schůzky byly inkluzivní a produktivní“.
-Po většinu z mých osmi let jako místní labouristické poslankyně byla páteční schůzka GC přesně taková.
-Dnes je smutné, že to není tón mnoha setkání a slib „kindelkovnější, jemnější“ politiky bylo dlouho zapomenuto, kdyby skutečně někdy začala.
-Stále více se ukazuje, že v labouristické straně nejsou tolerovány rozdílné názory a každý názor je posuzován podle toho, zda je pro vedení strany přijatelné.
-Začalo to krátce poté, co se Jeremy stal lídrem, protože kolegové, s nimiž jsem si předtím myslel, že sdílím podobný politický názor, začali očekávat, že udělám obrat a zaujím postoje, se kterými bych jinak jinak nesouhlasil – ať už o národní bezpečnosti nebo o jednotném trhu EU.
-Kdykoli veřejně promluvím – a ve skutečnosti nezáleží na tom, co říkám – následuje po tirádě nadávek na sociálních sítích, které volají po deselection, odsuzují politiku středu a říkají mi, že bych neměl být v Labouristické straně.
+Prozradila jste ten dokument?
+Uh, uh, cože.
+Ne, uh, ne, já počkám jeden - to byla opravdu špatná řeč těla - nejhorší řeč těla, jakou jsem kdy viděl."
+Práce už není široká církev.
+Je to netolerantní k těm, kteří říkají svůj názor.
+Když aktivisté Momentum v mé místní straně hlasovali, aby mě odsoudili, nebylo to překvapení.
+Koneckonců, jsem poslední v řadě labouristických poslanců, kterým bylo řečeno, že nejsme vítáni - všichni za to, že jsme si mysleli, že se na to podívám.
+Moje parlamentní kolegyně Joan Ryanová se dostalo podobného zacházení, protože se rezolutně postavila proti antisemitismu.
+V mém případě mě návrh cenzury kritizoval za nesouhlas s Jeremym Corbynem.
+Pokud jde o význam odpovědné hospodářské politiky, na národní bezpečnost, v Evropě, ironicky podobných otázek, na nichž Jeremy nesouhlasil s předchozími vůdci.
+Oznámení na setkání Nottingham East Labour v pátek uvedlo, že „chceme, aby schůzky byly inkluzivní a produktivní“.
+Po většinu z mých osmi let jako místní labouristický poslanec, páteční večerní schůzky GC byly přesně to.
+Je smutné, že dnes to není tón mnoha setkání a příslib "laskavé, jemnější" politiky byl dlouho zapomenut, kdyby skutečně začal.
+Je stále více zřejmé, že rozdílné názory nejsou v Labouristické straně tolerovány a každý názor je posuzován podle toho, zda je přijatelný pro vedení strany.
+To začalo krátce poté, co se Jeremy stal vůdcem, protože kolegové, s nimiž jsem si dříve myslel, že sdílím podobný politický výhled, začali očekávat, že udělám obrat a zaujme pozice, se kterými bych se jinak nedohodl - ať už o národní bezpečnosti nebo na jednotném trhu EU.
+Kdykoli mluvím veřejně - a ve skutečnosti nezáleží na tom, co říkám - následuje tirádu zneužívání na sociálních médiích vyzývající k odvolení, odsuzování politiky centra, říká mi, že bych neměl být v Labour Party.
 A to není jen moje zkušenost.
-Vskutku, vím, že mám větší štěstí než někteří míroví, protože komentáře, které jsou na mě namířené, mívají k politické.
-Jsem v úžasu nad profesionalitou a odhodláním těch kolegů, kteří každý den čelí přívalu sexistických nebo rasistických nadávek, ale nikdy se neostýchat.
+Ve skutečnosti vím, že mám větší štěstí než někteří z mých kolegů, protože komentáře namířené proti mně mají tendenci být politické.
+Jsem v úžasu z profesionality a odhodlání těch kolegů, kteří čelí přívalu sexistického nebo rasistického zneužívání každý den, ale nikdy se nevyhýbají.
 Jedním z nejvíce neuspokojivých aspektů této éry politiky je, jak se úroveň zneužívání normalizovala.
 Jeremy Corbyn minulý týden prohlásil, že labouristická strana by měla podporovat kulturu tolerance.
-Realita je taková, že už nejsme v tom, že široká církev a s každým návrhem „nedůvěry“ nebo změnou výběru se strana zužuje.
-Za poslední dva roky jsem měl spoustu rad, na které jsem naléhal, abych se držel při zemi, abych nebyl tak hlasitý a pak bych byl „v pořádku“.
-Ale to není to, kvůli čemu jsem se dostal do politiky.
-Od té doby, co jsem před 32 lety nastoupil k labouristům jako žák školy, vyprovokovaný zanedbáním Thatcherovy vlády, která zanechala mou komplexní školní třídu, doslova padá, jsem se snažil prosazovat lepší veřejné služby pro ty, kteří je nejvíce potřebují – ať už jako místní radní nebo ministr vlády.
-Nikdy jsem svou politiku neskrýval, a to i při posledních volbách.
-Nikdo v Nottinghamu na východě nemohl být nijak zmatený z mých politických postojů a oblastí neshod se současným vedením.
-Těm, kdo návrh v pátek prosazovali, bych chtěl říci jen to, že když se země žene k brexitu, který poškodí domácnosti, podniky a naše veřejné služby, nechápu touhu ztrácet čas a energii na svou loajalitu k předsedovi labouristické strany.
-Ale ve skutečnosti jediné poselství, které mám, není pro Nottingham Momentum, pro mé voliče, ať už členy labouristické strany nebo ne: jsem hrdý na to, že vám mohu sloužit a slibuji, že mě žádné výhrůžky na zrušení voleb nebo politické účelnosti neodradí od toho, co považuji za nejlepší zájmy vás všech.
-Chris Leslie je poslanec za Nottingham East
-Ayr 38 – 17 Melrose: Unbeaten Ayr jde nahoru
-Dva pozdní pokusy možná zkreslily konečný výsledek poněkud, ale není pochyb o tom, že si Ayr zasloužil triumf v tomto úžasně zábavném Tennentově premiérovém zápase dne.
-Nyní stojí v čele stolu, jediná neporažená strana z deseti.
-Nakonec to byla jejich lepší obrana, stejně jako jejich větší šance-uberoucí, což vyneslo domácí a trenér Peter Murchie měl plné právo být rád.
-„Byli jsme testováni na našich hrách tak daleko a jsme stále neporaženi, takže musím být šťastný,“ řekl.
-Robyn Christie z Melrose řekla: „Kredit pro Ayr, oni riskovali lépe než my.“
-Ve 14. minutě Grant Anderson, který proměnil Frazier Climo, poslal Ayra do vedení, ale žlutá karta pro Skotsko čepici Rory Hughes, uvolněné pro hru Warriors, dovolil Melrose, aby čísla říct a Jason Baggot chytil neproměněný pokus.
-Klima natáhl Ayr vedení s penaltou, předtím, těsně v poločase, skóroval pak proměnil sólový pokus, aby to 17-5 na Ayr v přestávce.
-Ale Melrose začal druhý poločas dobře a Patrick Anderson pokus, přestavěný Baggot, snížil volnost na pět bodů.
-Následovala dlouhá zdržovačka pro vážné zranění Ruaridha Knotta, který byl natažen, a od restartu se Ayr vyhoupl dále dopředu přes pokus Stafforda McDowalla, který přebránil Climo.
-Ayr úřadující kapitán Blair Macpherson byl pak žlutou kartou, a opět, Melrose donutil další zaplatit s nepřekonatelným pokusem Bruce Colvine, na konci kouzla prudkého tlaku.
-Domácí se však vrátili, a když měl Struan Hutchinson žlutou kartu za to, že se s Klimem bez míče dostal do kupy, z trestné řady, MacPherson se doklard na hřbetu postupující Ayr maul.
-Climo proměnil, jako to udělal téměř po restartu, poté, co Kyle Rowe shromáždil David Armstrongův boxový kop a poslal křídelního hráče Gregora Henryho k pátému pokusu domácích.
-Still Game hvězda se chystá na novou kariéru v restauračním průmyslu
-Stále Game hvězda Ford Kieran se chystá na přechod do pohostinství poté, co bylo zjištěno, že byl jmenován ředitelem licencované společnosti v restauracích.
-Šestapadesátiletý Jack Jarvis v populárním pořadu BBC, který píše a hraje spolu s dlouholetým komediálním partnerem Gregem Hemphillem.
-Duo oznámilo, že nadcházející devátá série bude poslední v seriálu a zdá se, že Kiernan plánuje po Craiglangovi život.
-Podle oficiálních záznamů je ředitelem Adriftmorn Limited.
-Herec odmítl příběh komentovat, i když zdroj ze skotského deníku Sun naznačil, že Kiernan se chce zapojit do glasgowského „prosazujícího restauračního obchodu“.
-'Moře je naše': vnitrozemská Bolívie doufá, že soud znovu otevře cestu do Tichomoří
-Námořníci hlídkují na lanovědě oděném námořním velitelství v La Paz.
-Veřejné budovy vyvěšené oceánem-modrá.
-Námořní základny od jezera Titicaca po Amazonii jsou potřísněny mottem: „Moře je naše pravými.
-získat ji zpět je povinností.“
-V celé Bolívii je vzpomínka na pobřeží ztracené Chile v krvavém konfliktu se zdroji z 19. století stále živá – stejně jako touha znovu plout v Tichém oceánu.
-Tyto naděje jsou možná nejvyšší za poslední desetiletí, neboť Bolívii čeká na rozhodnutí mezinárodního soudního dvora dne 1. října po pěti letech jednání.
-„Bolívie má dynamiku, ducha jednoty a vyrovnanosti a s pozitivním výhledem na výsledek samozřejmě očekává,“ řekl Bolivijský diplomat Roberto Calzadilla.
-Mnoho Bolivijců bude sledovat rozhodnutí ICJ na velkých obrazovkách po celé zemi a bude doufat, že tribunál v Haagu shledá ve prospěch bolivijského tvrzení, že po desetiletích neklidných rozhovorů je Chile povinno vyjednat, že Bolívii bude mít suverénní odnoř k moři.
-Evo Morales, charismatický domorodý prezident Bolívie – který čelí kontroverznímu boji o znovuzvolení v příštím roce – má také hodně na sebe v pondělním rozsudku.
-„Jsme velmi blízko návratu do Tichého oceánu,“ slíbil koncem srpna.
-Někteří analytici se však domnívají, že soud pravděpodobně nerozhodne ve prospěch Bolívie – a že by se to jen málo změnilo.
-Orgán OSN se sídlem v Nizozemsku nemá pravomoc udělovat chilské území a stanovil, že nebude rozhodovat o výsledku možných rozhovorů.
-To, že rozsudek ICJ přichází jen šest měsíců poté, co byly vyslechnuty konečné argumenty, naznačuje, že případ „nebyl komplikovaný“, řekl Paz Zárate, chilský odborník na mezinárodní právo.
-A ani zdaleka se nepodílí bolivijské věci, které uplynulé čtyři roky mohly vrátit.
-„Probíží přístupu do moře byla unesena současnou bolivijskou administrativou,“ řekl Zárate.
-Moralesova bojovná rétorika zničila zbytkovou chilskou dobrou vůli, podotkla.
-Bolívie a Chile budou v určitém okamžiku pokračovat v rozhovorech, ale po tomto bude krajně obtížné vést diskuse.
-Obě země si nevyměnily velvyslance od roku 1962.
-Bývalý prezident Eduardo Rodríguez Veltzé, zástupce Bolívie v Haagu, odmítl myšlenku, že by rozhodování soudu bylo neobvykle rychlé.
-Pondělí přinese Bolívii „mimořádnou příležitost otevřít novou éru vztahů s Chile“ a šanci „ukončit 139 let neshod s oboustrannými přínosy,“ řekl.
-Calzadilla také popřel, že by Morales – stále jeden z nejpopulárnějších latinskoamerických prezidentů – využíval námořní otázku jako politickou berličku.
-„Bolívie se nikdy nevzdá svého práva na přístup do Tichého oceánu,“ dodal.
-„Rozhodování je příležitostí, jak zjistit, že musíme překonat minulost.“
+Skutečností je, že už nejsme tak široká církev a s každým „dohledným“ pohybem nebo změnou pravidel výběru se strana stává užší.
+V posledních dvou letech jsem měl spoustu rad, abych naléhal, abych držel hlavu dole, ne abych byl tak hlasitý a pak bych "byl v pořádku".
+Ale to není to, co jsem přišel do politiky.
+Od té doby, co jsem před 32 lety vstoupil do Labouristické strany jako školní žák, vyprovokovaný zanedbáváním Thatcherové vlády, které zanechalo mou komplexní školní třídu doslova padat, jsem se snažil prosazovat lepší veřejné služby pro ty, kteří je nejvíce potřebují - ať už jako místní radní nebo ministr vlády.
+Nikdy jsem neskrýval svou politiku, včetně posledních voleb.
+Nikdo v Nottinghamu na východě nemohl být žádným způsobem zmatený ohledně mých politických pozic a oblastí nesouhlasu se současným vedením.
+Těm, kteří tento návrh v pátek podpořili, vše, co bych řekl, je, že když země směřuje k Brexitu, který ublíží domácnostem, podnikům a našim veřejným službám, nechápu touhu ztrácet čas a energii na mou loajalitu k vůdci Labouristické strany.
+Ale opravdu jediné poselství, které mám, není pro Nottingham Momentum, je to pro mé voliče, ať už labouristy nebo ne: Jsem hrdý na to, že vám mohu sloužit a slibuji, že žádné množství vylučovacích hrozeb nebo politické účelnosti mě neodradí od toho, co věřím, že je nejlepším zájmem vás všech.
+Chris Leslie je poslancem za Nottingham East.
+Ayr 38 - 17 Melrose: Unbeaten Ayr ke stažení.
+Dva pozdní pokusy mohly poněkud zkreslit konečný výsledek, ale není pochyb o tom, že Ayr si zaslouží triumf v tomto úžasně zábavné Tennent Premiership zápas dne.
+Nyní nahrávají stůl, jedinou neporaženou stranu deseti.
+Nakonec to byla jejich nadřazená obrana, stejně jako jejich lepší šance-out, který nesl domácí stranu a trenér Peter Murchie měl plné právo být potěšen.
+"Byli jsme testováni v našich zápasech tak daleko a jsme stále neporaženi, takže musím být šťastný," řekl.
+Robyn Christie z Melrose řekla: "Credit na Ayr, oni využili své šance lépe než my."
+Grant Anderson je 14. minuta pokus, převeden Frazier Climo, dal Ayr dopředu, ale, žlutá karta pro Scotland cap Rory Hughes, propuštěn pro hru Warriors, dovolil Melrose, aby čísla říct a Jason Baggot chytil nekonvertiovaný pokus.
+Climo protáhl Ayr vedení s penaltou, předtím, těsně na poločase, on skóroval pak konvertoval sólový pokus, aby to 17-5 na Ayr v přestávce.
+Ale Melrose začal druhou polovinu dobře a Patrick Anderson pokus, konvertoval Baggot, snížil prostor na pět bodů.
+Tam byl pak zdlouhavý zdržení pro vážné zranění na Ruaridh Knott, který byl natažený off, a od restartu, Ayr se šplhal dále dopředu přes Stafford McDowall pokus, převedeny Climo.
+Ayr úřadující kapitán Blair Macpherson byl pak žlutý-kartován, a opět, Melrose udělal extra muž platit s nekonvertiovaným Brucem Colvine pokusem, na konci kouzla divokého tlaku.
+Domácí strana se však vrátila, a když byl Struan Hutchinson žluto: Držen žlutě za to, že se vypořádal s Climo bez míče, z penaltového line-out, MacPherson se dotkl na zadní straně postupujícího Ayr maul.
+Climo konvertoval, stejně jako to udělal znovu téměř od restartu, poté, co Kyle Rowe shromáždil David Armstrong box kop a poslal flankera Gregora Henryho pryč pro domácí straně pátý pokus.
+Still Game hvězda vypadá na novou kariéru v restauračním průmyslu
+Still Game hvězda Ford Kieran vypadá, že se přesune do pohostinství poté, co bylo zjištěno, že byl jmenován jako ředitel licencované restaurační společnosti.
+56letý hráč hraje Jacka Jarvise v populární show BBC, kterou píše a hraje s dlouholetým komediálním partnerem Gregem Hemphillem.
+Duo oznámilo, že nadcházející devátý série bude poslední v běhu přehlídky a zdá se, že Kiernan plánuje život po Craiglangovi.
+Podle oficiálních záznamů je ředitelem společnosti Adriftmorn Limited.
+Herec odmítl komentovat příběh, ačkoli zdroj ze Skotského Sunu naznačil, že Kiernan se snaží zapojit do Glasgowského "prosperujícího restauračního obchodu".
+„Moře je naše“: vnitrozemská Bolívie doufá, že soud znovu otevře cestu do Pacifiku
+Námořníci hlídkují zmanipulované námořní velitelství v La Paz.
+Veřejné budovy mají pod oceánskou modrou vlajkou.
+Námořní základny od jezera Titicaca až po Amazonii jsou na dabovány heslem: „Moře je naše na místě.
+Zotavit se na to je povinnost.“
+V celé vnitrozemské Bolívii je vzpomínka na pobřeží ztraceného s Chile v krvavém konfliktu o zdrojích z 19. století stále živá - stejně jako touhá znovu plavit se s Tichým oceánem.
+Tyto naděje jsou možná nejvyšší za desetiletí, protože Bolívie čeká na rozhodnutí mezinárodního soudního dvora dne 1. října po pěti letech jednání.
+"Bolivia má dynamiku, ducha jednoty a klidu a samozřejmě s pozitivním názorem na výsledek očekává," řekl Roberto Calzadilla, bolivijský diplomat.
+Mnoho Bolivijců bude sledovat rozhodnutí ICJ na velkých obrazovkách po celé zemi, doufat, že tribunál v Haagu najde ve prospěch tvrzení Bolívie, že - po desetiletích fitových rozhovorů - Chile je povinno vyjednat udělení Bolívie suverénnímu outletu do moře.
+Evo Morales, bolivijský charismatický domorodý prezident - který čelí kontroverzní bitvě o znovuzvolení v příštím roce - má také spoustu jízdy v pondělním rozhodnutí.
+"Jsme velmi blízko návratu do Tichého oceánu," slíbil koncem srpna.
+Někteří analytici se však domnívají, že je nepravděpodobné, že by soud rozhodl ve prospěch Bolívie – a to by se změnilo jen málo, kdyby se tak stalo.
+Nizozemský orgán OSN nemá pravomoc udělit chilské území a stanovil, že nebude určovat výsledek možných rozhovorů.
+To, že rozhodnutí ICJ přichází pouhých šest měsíců poté, co byly vyslyšeny konečné argumenty, naznačuje, že případ "nebyl komplikovaný," řekl Paz Zárate, chilský expert na mezinárodní právo.
+A daleko od podpory Bolívie příčiny, poslední čtyři roky ji mohly vrátit zpět.
+"Otázka přístupu k moři byla unesena současnou bolivijskou administrativou," řekl Zárate.
+Moralesova agresivní rétorika oslabila jakoukoli zbytkovou chilskou dobrou vůli, navrhla.
+Bolívie a Chile budou v určitém okamžiku pokračovat v rozhovorech, ale po tomto bude extrémně obtížné vést diskuse.
+Obě země si od roku 1962 nevyměnily velvyslance.
+Bývalý prezident Eduardo Rodríguez Veltzé, zástupce Bolívie v Haagu, odmítl myšlenku, že rozhodnutí soudu je neobvykle rychlé.
+Pondělí přinese Bolívii „mimořádnou příležitost otevřít novou éru vztahů s Chile“ a šanci „ukončit 139 let neshod se vzájemnými výhodami,“ řekl.
+Calzadilla také popřel, že Morales - stále jeden z nejpopulárnějších latinskoamerických prezidentů - používá námořní záležitost jako politickou berliť.
+"Bělita se nikdy nevzdá svého práva na přístup do Tichého oceánu," dodal.
+"Rozsudek je příležitostí vidět, že musíme překonat minulost."
 Severní Korea tvrdí, že jaderné odzbrojení nepřijde, pokud nebude moci věřit USA
-Severokorejský ministr zahraničí Ri Yong Ho tvrdí, že jeho národ nikdy nezneučí své jaderné zbraně jako první, pokud nebude moci věřit Washingtonu.
-Ri hovořil v sobotu na Valném shromáždění OSN.
-Vyzvasil Spojené státy, aby splnily sliby učiněné během summitu v Singapuru mezi lídry soupeřů.
-Jeho komentáře přicházejí jako USA. Zdá se, že ministr zahraničí Mike Pompeo je na pokraji opětovného zahájení zablokované jaderné diplomacie více než tři měsíce po Singapuru se severokorejským Kim Čong-unem.
-Ri říká, že je to „sen o pase“, který pokračující sankce a americké námitky proti prohlášení zakončující korejskou válku někdy srazí Sever na kolena.
-Washington je ostražitý, aby s prohlášením nesouhlasil, aniž by Pchjongjang nejprve učinil významné odzbrojovací kroky.
-Kim a USA. Prezident Donald Trump chce druhý summit.
-Panuje však široká skepse, že Pchjongjang to s odříkáním arzenálu považuje za jediný způsob, jak si země zaručit svou bezpečnost.
-Pompeo se chystá příští měsíc navštívit Pchjongjang, aby se připravil na druhý summit Kim-Trump.
-Paříž módní přehlídky odhalit nejnovější řadu v masivní čelenku na to je cesta k High Street blízko vás
-Pokud chcete zvýšit kolekci klobouků nebo úplně zablokovat slunce, pak už se nehledejte.
-Návrháři Valentino a Thom Browneovi odhalili na dráhu na dráze praštěnou přerost kterouenou do hlavy na koleji SS19, která oslnila stylovou scénu na Paris Fashion Week.
-Velmi nepraktické klobouky se přehnaly Instagram letos v létě a tito návrháři poslali své oko-popping krejek dolů po lávce.
-Výstřední kousek od Valentina byl přes-the-top béžový klobouk ozdobený peřím-jako široký okraj, který zaplavil hlavy modelek.
-Další nadměrné doplňky zahrnovaly šperskané vodní melouny, klobouk s čarodějem a dokonce ananas – ale nejsou navrženy tak, aby vaše hlava byla teplá.
-Thom Browne také odhalil výběr bizarních masek a právě včas na Halloween.
-Mnoho barevných masek sešilo na rty a připomínalo spíš Hannibal Lecter než haute couture.
-Jeden výtvor připomínal potápěčskou výstroj s šnorchlem a brýlemi, zatímco druhý vypadal jako rozpuštěný kužel na zmrzliny.
-A pokud budete pokračovat v obrovském módním prohlášení, máte štěstí.
-Pozorovatelé stylu předpovídají, že obrovské čepice by se mohly dostat do ulic vedle vás.
-Hrnec z velké výšky se rozohněněly po „La Bombě“, slaměném klobouku s půl metrem širokým okrajem, který byl viděn na každém od Rihanny po Emily Ratajkowski.
-Kultovizní nálepka za vysoce nepraktickým kloboukem, která se rozplazila na sociálních sítích, poslala po loutce další velký výtvor – slaměný plážový sáček skoro jako model oděná v plavkách, která ji nosila.
-Spálená oranžová taška s raffií, lemovaná rafií a nastína bílou koženou rukojetí, byla vyčnívajícím kouskem v kolekci La Riviera SS19 Jacquemus na Paris Fashion Week.
-Celebrity stylista Luke Armitage řekl FEMAIL: „Očekávám, že na příští léto dorazí na hlavní ulici velké klobouky a plážové tašky – protože návrhář má tak obrovský dopad, že by bylo těžké ignorovat poptávku po nadměrném doplňku.“
-John Edward: Jazykové dovednosti nezbytné pro světové občany
-Nezávislé školy ve Skotsku si udržují bilanci akademické excelence, a to pokračovalo i v roce 2018 s dalším sadu vynikajících výsledků zkoušek, které jsou posíleny pouze individuálním a kolektivním úspěchem v oblasti sportu, umění, hudby a dalších komunitních snah.
-S více než 30 000 žáky po celém Skotsku se tyto školy, zastoupené Skotskou radou nezávislých škol (SCIS), snaží poskytnout nejlepší úroveň služeb svým žákům a rodičům.
-Nezávislé školy se snaží připravit své žáky na další a vysokoškolské vzdělávání, zvolenou kariéru a místo jako globální občané.
-Jako vzdělávací sektor, který může navrhovat a realizovat školní osnovy na míru, vidíme, že moderní jazyky pokračují jako populární a žádoucí předmět volby ve školách.
-Nelson Mandela řekl: „Když mluvíte s mužem v jazyce, kterému rozumí, jde mu to na hlavu.
-Když s ním promluvíte v jeho vlastním jazyce, jde mu to do srdce.“
-To je mocná připomínka toho, že se nemůžeme spoléhat jen na angličtinu, když chceme budovat vztahy a důvěřovat lidem z jiných zemí.
-Z letošních výsledků zkoušek z poslední doby vidíme, že jazyky jsou na vrcholu ligových tabulek s nejvyšší míjností v rámci nezávislých škol.
-Celkem 68 procent žáků, kteří studovali cizí jazyky, dosáhlo vyšší známky A.
-Údaje, získané ze 74 členských škol SCIS, ukázaly, že 72 procent studentů dosáhlo vyšší třídy A v mandarínštině, zatímco 72 procent studentů studuje německy, 69 procent studujících ve francouzštině a 63 procent studovaných ve španělštině také dosáhlo jedničky.
-To dokazuje, že nezávislé školy ve Skotsku podporují cizí jazyky jako zásadní dovednosti, které budou děti a mladí lidé v budoucnu nepochybně vyžadovat.
-Jazyky, které jsou nyní předmětem volby, se nyní považují za samozvané předměty STEM (věda, technologie, inženýrství a matematika) v nezávislých školních osnovách a jinde.
-Průzkum Komise Spojeného království pro zaměstnanost a dovednosti v roce 2014 zjistil, že z důvodů, které zaměstnavatelé uvedli za to, že se snaží zaplnit volná pracovní místa, je 17 procent přisuzováno nedostatku jazykových dovedností.
-Proto se stále více a více stává nezbytností jazykové dovednosti, aby se mladí lidé připravili na jejich budoucí kariéru.
-Vzhledem k tomu, že více perspektivních pracovních příležitostí vyžadujících jazyky jsou v globalizovaném světě zásadní tyto dovednosti.
-Bez ohledu na kariéru, kterou si někdo vybere, pokud se naučí druhý jazyk, bude mít v budoucnu skutečnou výhodu, jako je tato, bude mít doživotní dovednosti.
-Možnost komunikovat přímo s lidmi z cizích zemí bude automaticky předcházet vícejazyčné osoby.
-Podle průzkumu YouGov mezi více než 4000 dospělými ve Spojeném království v roce 2013 nebylo 75 procent schopno mluvit v cizím jazyce dostatečně dobře, aby vedli konverzaci, a s francouzštinou, kterým se vyslovuje dvouciferné procento, 15 procent.
-Proto je nyní důležité být investováním do výuky jazyků pro dnešní děti důležité.
-Mít více jazyků, zejména jazyků rozvojových ekonomik, vybaví děti větší šancí na nalezení smysluplného zaměstnání.
-Ve Skotsku se každá škola bude lišit v jazycích, které vyučuje.
-Řada škol se zaměří na klasičtější moderní jazyky, zatímco jiné budou učit jazyky, které jsou považovány za nejdůležitější pro Spojené království při pohledu do roku 2020, jako je mandarínština nebo japonština.
-Ať už se o vaše dítě zajímá cokoliv, v rámci nezávislých škol bude vždy na výběr řada jazyků, s pedagogickými pracovníky, kteří jsou specialisty v této oblasti.
-Nezávislé skotské školy se věnují tomu, aby poskytovaly vzdělávací prostředí, které děti připraví a vyzbrojí je dovednostmi potřebnými k úspěchu, bez ohledu na to, co budoucnost přinese.
-V tuto chvíli nelze popřít, v globálním podnikatelském prostředí, že jazyky jsou i nadále životně důležité pro budoucnost země, takže to musí být zrcadlené ve vzdělávání.
-Moderní jazyky by měly být skutečně považovány za „mezorné komunikační dovednosti“.
-Nezávislé školy budou i nadále nabízet tuto volbu, rozmanitost a excelenci pro mladé lidi Skotska.
-Il faut bien le faire.
-John Edward je ředitelem Skotské rady nezávislých škol
-LeBron debutuje v neděli v San Diegu
-Čekání je téměř u konce pro fanoušky, kteří chtějí vidět LeBron James dělat jeho první start za Los Angeles Lakers.
-Trenér Lakers Luke Walton oznámil, že James bude hrát v nedělním předsezonním zápase proti Denver Nuggets v San Diegu.
-Ale kolik minut bude hrát, se ještě nerozhodlo.
-„Bude to více než jeden a méně než 48,“ řekl Walton na oficiálních internetových stránkách Lakers.
-Reportér Lakers Mike Trudell tweetoval, že James bude pravděpodobně hrát omezené minuty.
-Po tréninku na začátku tohoto týdne byl James dotázán na své plány na šestizápasový předsezonní program Lakers.
-„Nepotřebuji přípravné zápasy v této fázi své kariéry, abych se připravil,“ řekl.
-Trump West Virginia Rally Time, YouTube Channel
-Prezident Donald Trump dnes večer zahajuje bouřlivé předvolební shromáždění ve Wheelingu v Západní Virginii.
-Je to Trumpova první z pěti plánovaných shromáždění v příštím týdnu, včetně zastávek na přátelských místech včetně Tennessee a Mississippi.
-S potvrzovacím hlasováním o jeho výběru k obsazení volných míst u Nejvyššího soudu chce Trump vybudovat podporu pro nadcházející volby do Kongresu, protože republikánům hrozí, že ztratí kontrolu nad Kongresem, až budou na Nově odevzdány hlasy.
-V kolik je dnes Trumpovo shromáždění v Západní Virginii a jak se díváte na internet?
-Trump's Wheeling, West Virginia rally je naplánováno na 19:00. ET dnes večer, sobota 29. září 2018.
-Můžete sledovat Trump West Virginia rally níže prostřednictvím živého vysílání na YouTube.
-Trump se tento týden pravděpodobně bude zabývat jednáním kandidáta do Nejvyššího soudu Bretta Kavanaugha, který se stal napjatým kvůli obvinění ze sexuálního obtěžování s očekávaným potvrzovacím hlasováním v Senátu až na týden, než FBI vyšetřuje.
-Primárním cílem tohoto příval manifestu však je pomoci republikánům, kteří čelí dotklopovkám listopadových voleb, získat určitou dynamiku.
-Kampaň prezidenta Trumpa tak uvedla, že těchto pět shromáždění v příštím týdnu je zaměřena na „zvětšenou energii dobrovolníků a příznivců, jak se republikáni snaží chránit a rozšiřovat většinu, které mají v Senátu a Sněmovně reprezentantů,“ uvedla Reuters.
-„Kontrola Kongresu je pro jeho program natolik kritická, že prezident bude cestovat do co nejvíce států, jak se vydáme do rušné předvolební sezóny,“ řekl agentuře Reuters mluvčí Trumpovy kampaně, který odmítl být jmenován.
-Naplánováno pro Wesbanco Arena ve Wheeling, dnešní shromáždění by mohlo přivést příznivce z „Ohio a Pensylvánie a čerpat zpravodajství z Pittsburgh médií,“ podle West Virginia Metro News.
-V sobotu bude v minulém měsíci podruhé, co Trump navštívil Západní Virginii, stát, který v roce 2016 vyhrál o více než 40 procentních bodů.
-Trump se snaží pomoci republikánskému kandidátovi do Senátu za Západní Virginií Patricku Morriseym, který v průzkumech zaostává.
-„Pro Morriseyho to není dobré znamení, že prezident musí přijít, aby se ho pokusil povzbudit v průzkumech,“ řekl podle agentury Reuters agentuře Reuters politolog ze Západní Virginské univerzity.
-Ryder Cup 2018: Tým USA ukazuje břicho pro boj udržet naděje na nedělní singly
-Po třech jednostranných sezeních mohly být sobotní odpolední čtyřhry to, co Ryder Cup potřeboval.
-Houpající se kyvadlo momentu je zcela vymyšlený sportovní koncept, ve který však hráči skutečně věří a nikdy víc než na soutěžích, jako jsou tyto.
-Tak kde by se dalo říct, že je teď hybná síla?
-„Měli šestibodový náskok a teď jsou čtyři, takže to asi neseme jako trochu hybnosti,“ řekl Jordan Spieth, když se pro dnešek vyrazil.
-Evropa má samozřejmě výhodu, před nimi má čtyři body a další dvanáct ve hře.
-Američané, jak říká Spieth, cítí, že mají trochu větru v plachtěi ačkoli a mají spoustu povzbuzen být podporován, v neposlední řadě forma Spieth a Justin Thomas, kteří hráli spolu celý den a každý se může pochlubit tři body ze čtyř.
-Spieth byl letesmutý od odpaliště na zelené a příkladem.
-Ty hrdelní výkřiky oslav se přibývajívaly hlasitější, když se jeho kolo rozběhlo, potopil rozhodující putt, aby se dožijme čtyřku všech dob, když s Thomasem po dvou prohrávali dva.
-Jeho putt, který jim vyhrál zápas na 15, se setkal s podobným výkřikem, který vám říká, že věří, že americký tým z toho není venku.
-„Opravdu se musíš pořádně ponořit a starat se o svůj vlastní zápas,“ řekl Spieth.
-Je to všechno, co každý z těchto hráčů teď odešel.
-18 jamek na značku.
-Jedinými hráči s více body než Spieth a Thomas v posledních dvou dnech jsou Francesco Molinari a Tommy Fleetwood, nepostižitelný příběh Ryder Cupu.
-Oddrstý, ale rozkošný pár v Evropě je čtyři ze čtyř a nemůže se mýlit.
-„Moliwood“ byl jediný pár, který nestřílel bogey v sobotu odpoledne, ale také se vyhnul bogey v sobotu ráno, v pátek odpoledne a zadní devítce v pátek ráno.
-Tento běh, a způsob, jakým se zdá, že jejich energie proudí jak do a z tohoto bouřlivé davové cements, že jsou hráči porazit v neděli, a tam by nebylo více populární hráč zpečetit potenciální evropské vítězství jako slunce zapadá nad Le Golf National než Fleetwood nebo Molinari.
-Nejlépe obojí současně na různých dírách.
-Řeči o evropské slávě však zůstávají předčasné.
-Bubba Watson a Webb Simpson se krátce podíleli na Sergiem Garciou, ranním hrdinem čtyřlí míčů, když byl ve dvojici s Alexem Norenem.
-Bogey a dvě dvouhra na přední deváté kopaly Španěly a Švýcaře do jamky, ze které se nikdy nedostali blízko k vylezení.
-V neděli ale není nikdo, kdo by vám pomohl z díry.
-Čtveňové a čtyřhry jsou tak fascinující sledovat zblízka kvůli interakce mezi párovy, rady, které dávají, rady, které nedělají, radám, které ne a způsobu, jakým se může strategie změnit v mžiku.
-Evropa hrála lépe jako tým tak daleko a vzít významný náskok do posledního dne, ale tento čtyřhomes zasedání také ukázal, že tým USA má žaludek na boj, že někteří, zejména Stateside, pochybovali.
-Evropa má 10-6 vedení do finále Ryder Cupu
-Evropa využije zdravou výhodu do finálového dne Ryder Cupu poté, co se vynoří ze sobotních čtyřkolek a čtyřhry s náskokem 10:6 s náskokem 10:6.
-Inspirováno duo Tommy Fleetwood a Francesco Molinari vedli útok se dvěma vítězstvími nad zápasícím Tigerem Woodsem a získali dosud svůj součet na Le Golf National na čtyři body.
-Evropan Thomas Bjorn se ucházel o trofej, kterou před dvěma lety prohráli v Hazeltine, ovládl v ranních čtyřkole s přestávkou v sérii 3:1.
-Spojené státy nabídly větší odpor ve čtyřhře, vyhrál dva zápasy, ale nemohli se napočítat do deficitu.
-Svěřenci Jima Furyka potřebují osm bodů z nedělních 12 dvouherních zápasů, aby si udrželi trofej.
-Fleetwood je prvním evropským nováčkem, který získal čtyři body v řadě, zatímco on a Molinari, přezdívaní „Molliwood“ po senzačním víkendu jsou teprve druhý pár, který získal čtyři body z úvodních čtyř zápasů v historii Ryder Cupu.
-Poté, co rozdrtili Woodse a Patricka Reeda ve čtyřhře, pak skvěle nagelovali, aby porazili vyfouklého Woodse a amerického nováčka Brysona Dechambeaua ještě důraznějším 5&4.
-Woods, který se v sobotu protáhl dvěma zápasy, občasně projevil brilantnosti, ale nyní prohrál 19 z 29 zápasů ve čtyřhrách a čtyřhrách a sedm v řadě.
-Justin Rose, odpočatý pro ranní čtyřkolky, se vrátil k partnerovi Henriku Stensonovi ve čtyřhře k porážce Dustina Johnsona a Brookse Koepky, který se umístil na svět.
-Evropa to neměla po svém, ale v příjemném, rozverném dni jihozápadně od Paříže.
-Třikrát major vítěz Jordan Spieth a Justin Thomas nastavit měřítko pro Američany se dvěma body v sobotu.
-Získali drsnou výhru 2&1 nad Španělem Jonem Rahmem a Ianem Poulterem ve čtyřhře a později se vrátili, aby porazili Poultera a Roryho McIlroye 4&3 ve čtyřhrách, když prohráli úvodní dvě jamky.
-Pouze dvakrát v historii Ryder Cupu se tým vrátil z čtyřbodového deficitu do dvouhry, i když jako držitelé Furyk potřebují remízu jen udržet trofej.
-Po dvou dnech však bude druhý nejlepší, nedělní protiútok vypadá, že bude nad nimi.
-Severní Korea říká, že „v žádném případě“ bude jednostranně odzbrojovat bez důvěry
-Severokorejský ministr zahraničí řekl OSN, že pokračující sankce prohlubují její nedůvěru ve Spojených státech a není možné, aby se země za těchto okolností jednostranstráčsky vzdala jednostranně.
-Ri Yong Ho řekl každoročnímu Valnému shromáždění světové organizace, že Severní Korea přijala v minulém roce „významná opatření dobré vůle“, jako je zastavení zkoušek jaderné a rakety, demontáž jaderného testovacího střediska a zavázala se, že nebude rozšiřovat jaderné zbraně a jadernou technologii.
-„Nicméně nevidíme žádnou odpovídající odezvu ze strany USA,“ řekl.
-„Bez jakékoliv důvěry v USA nebude věřit v naši národní bezpečnost a za takových okolností se nemůžeme jednostranně odzbrojit jako první.“
-Zatímco si Ri zopakoval známé severokorejské stížnosti na odpor Washingtonu vůči „fázově“ přístupu k denuklearizaci, v jehož rámci bude Severní Korea odměňována, když podniká postupné kroky, jeho prohlášení se zdálo významné v tom, že neodmítla jednostrannou denuklearizaci, jak to v minulosti učinil Pchjongjang.
-Ri se zmiňuje o společném prohlášení, které vydali Kim Čong-un a Donald Trump na vůbec prvním summitu mezi úřadujícím americkým prezidentem a severokorejským vůdcem v Singapuru 12. června, kdy se Kim zavázal pracovat na „denuklearizaci Korejského poloostrova“, zatímco Trump slíbil záruky bezpečnosti Severní Koreje.
-Severní Korea usiluje o formální ukončení korejské války z let 1950-53, ale Spojené státy prohlásily, že Pchjongjang se musí nejprve vzdát svých jaderných zbraní.
-Washington se také bránil výzvám ke zmírnění tvrdých mezinárodních sankcí vůči Severní Koreji.
-„Spojené státy trvají na „denuklearizaci napřed“ a zvyšují tlak sankcí, aby svým cílem dosáhly svého cíle, a dokonce protestují proti „prohlášením konce války“,“ řekl Ri.
-„Vnímání, že nás sankce mohou srazit na kolena, je pouštní sen lidí, kteří o nás nevěří.
+Severokorejský ministr zahraničí Ri Yong Ho řekl, že jeho země nikdy neodzbrojí své jaderné zbraně jako první, pokud nemůže věřit Washingtonu.
+Ri v sobotu vystoupil na Valném shromáždění OSN.
+Vyzval Spojené státy, aby dodržely sliby učiněné během summitu v Singapuru mezi vůdci soupeřů.
+Jeho komentáře přicházejí jako USA. Zdá se, že ministr zahraničí Mike Pompeo je na pokraji obnovení slepé uličky jaderné diplomacie více než tři měsíce po Singapuru se severokorejským Kim Čong-unem.
+Ri říká, že je to "dneš o dýmkách", že pokračující sankce a americká námitka proti vyhlášení ukončení korejské války někdy srazí Severní Koreu na kolena.
+Washington se obává, že bude souhlasit s prohlášením, aniž by Pchjongjang nejprve učinil významné kroky odzbrojení.
+Jak Kim, tak v USA. Prezident Donald Trump chce druhý summit.
+Existuje však rozšířená skepse, že Pchjongjang myslí vážně zřeknutí se arzenálu, který země pravděpodobně vidí jako jediný způsob, jak zaručit svou bezpečnost.
+Pompeo plánuje příští měsíc navštívit Pchjongjang, aby se připravil na druhý summit Kim-Trumpa.
+Pařížské módní přehlídky odhalují nejnovější linku v masivních pokrývkách hlavy na cestě na High Street poblíž vás
+Pokud chcete zvýšit sběr klobouku nebo zcela zablokovat slunce, pak nehledejte dál.
+Designéři Valentino a Thom Browne představili řadu bláznivých nadrozměrných head vybavení pro jejich kolekci SS19 na dráze, která oslnila stylovou sadu na pařížském týdnu módy.
+Vysoce nepraktické klobouky letos v létě zametly Instagram a tito designéři poslali své oko-popíjení výtvory dolů na molo.
+Vyčnívající kus Valentino byl over-the-top béžový klobouk zdobený s peřím-jako široký okraj, který zaplavil modely hlavy.
+Jiné nadrozměrné doplňky zahrnovaly bejtesazené melouny, kouzelnický klobouk a dokonce i ananas - ale nejsou navrženy tak, aby udržely hlavu v teple.
+Thom Browne také odhalil výběr bizarních masek - a právě včas na Halloween.
+Mnoho barevných masek zašilo rty a připomínalo spíše jako Hannibal Lecter než haute couture.
+Jeden výtvor připomínal potápěčské vybavení kompletní se šnorchlováním a brýlemi, zatímco jiný vypadal jako roztavený zmrzlinový kužel.
+A pokud budete pokračovat v obrovském módním prohlášení - máte štěstí.
+Pozorovatelé ve stylu předpovídají, že obrovské kapotě by se mohly dostat do vysokých ulic ve vašem okolí.
+Oborkované klobouky se rozpálí v patách "La Bomba", slaměného klobouku s dvoumetrovým širokým okrajem, který byl viděn na všech od Rihanny po Emily Ratajkowski.
+Kultovní štítek za vysoce nepraktický klobouk, který byl postříkal přes sociální média poslal další velký výtvor dolů na molu - slaměná plážová taška téměř tak velká jako plavky oděný model toing to it.
+Vypálená pomerančová raffia taška, oříznutá rafie lemováním a zakončenou bílou koženou rukojetí, byla vyčnívající kus v kolekci Jacquemus' La Riviera SS19 na pařížském týdnu módy.
+Stylista Celebrity Luke Armitage řekl FEMAIL: "Očekávám, že na příští léto dorazí velké klobouky a plážové tašky na hlavní ulici - protože návrhář má tak obrovský dopad, že by bylo těžké ignorovat poptávku po nadměrných doplňcích."
+John Edward: Jazykové dovednosti nezbytné pro globální občany
+Nezávislé školy ve Skotsku udržují historii akademické excelence, a to pokračovalo v roce 2018 s dalším souborem vynikajících výsledků zkoušek, které jsou pouze posíleny individuálním a kolektivním úspěchem ve sportu, umění, hudbě a dalších komunitních snahách.
+S více než 30.000 žáků v celém Skotsku, tyto školy, zastoupené Skotskou radou nezávislých škol (SCIS), se snaží poskytovat nejlepší úroveň služeb svým žákům a rodičům.
+Nezávislé školy mají za cíl připravit své žáky na další a vyšší vzdělání, jejich zvolenou kariéru a jejich místo jako globální občané.
+Jako vzdělávací sektor, který může navrhnout a implementovat zakázkové školní osnovy, vidíme, že moderní jazyky pokračují jako populární a požadovaný předmět výběru ve školách.
+Nelson Mandela řekl: „Když mluvíte s mužem jazykem, kterému rozumí, jde mu to do hlavy.
+Když s ním mluvíte v jeho vlastním jazyce, který jde k jeho srdci.“
+To je velmi dobrá připomínka toho, že se nemůžeme spoléhat jen na angličtinu, když chceme budovat vztahy a důvěru s lidmi z jiných zemí.
+Z letošních nedávných výsledků zkoušek můžeme vidět, že jazyky jsou na vrcholu ligových tabulek s nejvyššími sazbami průchodu v rámci nezávislých škol.
+Celkem 68 procent žáků, kteří studovali cizí jazyky, dosáhlo vyššího stupně A.
+Údaje shromážděné ze 74 členských škol SCIS ukázaly, že 72 procent studentů dosáhlo vyššího stupně A v mandarínštině, zatímco 72 procent těch, kteří studují němčinu, 69 procent těch, kteří studují francouzštinu a 63 procent studuje španělštinu, také dosáhlo A.
+To ukazuje, že nezávislé školy ve Skotsku podporují cizí jazyky jako životně důležité dovednosti, které budou děti a mladí lidé v budoucnu nepochybně potřebovat.
+Jazyky nyní, jako předmět volby, jsou drženy ve stejném ohledu jako předměty STEM (věda, technologie, inženýrství a matematika) v nezávislých školních osnovách i jinde.
+Průzkum Komise pro zaměstnanost a dovednosti Spojeného království v roce 2014 zjistil, že z důvodů, které zaměstnavatelé dali za to, že se snaží obsadit volná místa, bylo 17 procent přičítáno nedostatku jazykových dovedností.
+Proto stále více a více se jazykové dovednosti stávají nezbytnými, aby se mladí lidé připravili na jejich budoucí kariéru.
+S většími potenciálními pracovními příležitostmi, které vyžadují jazyky, jsou tyto dovednosti nezbytné v globalizovaném světě.
+Bez ohledu na kariéru, kterou si někdo vybere, pokud se naučili druhý jazyk, budou mít v budoucnu skutečnou výhodu, že budou mít celoživotní dovednosti, jako je tato.
+Schopnost komunikovat přímo s lidmi z cizích zemí automaticky upřednostní vícejazyčnou osobu před konkurencí.
+Podle průzkumu YouGov více než 4000 dospělých ve Velké Británii v roce 2013 75 procent nebylo schopno mluvit cizím jazykem natolik, aby vedli konverzaci, a s tím, že francouzština je jediným jazykem, kterým mluví dvouciferné procento, 15 procent.
+To je důvod, proč uvedení investic do výuky jazyků je nyní důležité pro dnešní děti.
+Mít více jazyků, zejména v rozvojových ekonomikách, vybaví děti s větší šancí na nalezení smysluplného zaměstnání.
+V rámci Skotska se každá škola bude lišit v jazycích, které učí.
+Řada škol se zaměří na klasičtější moderní jazyky, zatímco jiné budou učit jazyky, které jsou považovány za nejdůležitější pro Spojené království, když se budou dívat na rok 2020, jako je Mandarin nebo Japonec.
+Ať už je váš dětský zájem jakýkoliv, vždy bude existovat řada jazyků, ze kterých si můžete vybrat v rámci nezávislých škol, s pedagogickým personálem, který je v této oblasti specialisty.
+Skotské nezávislé školy jsou odhodlány poskytovat učební prostředí, které připraví děti a vyzbrojí dovednosti potřebné k úspěchu, bez ohledu na budoucnost.
+V této době nelze popřít, v globálním podnikatelském prostředí, že jazyky jsou i nadále životně důležité pro budoucnost země, takže to musí být zrcadlí ve vzdělávání.
+Moderní jazyky by měly být skutečně považovány za „mezinárodní komunikační dovednosti“.
+Nezávislé školy budou i nadále nabízet tuto volbu, rozmanitost a excelenci pro mladé lidi ve Skotsku.
+Il falešná bien le Faireová.
+John Edward je ředitelem Skotské rady nezávislých škol.
+LeBron bude v neděli v San Diegu debutovat Lakers
+Čekání je téměř u konce pro fanoušky, kteří chtějí vidět LeBrona Jamese, aby jeho první start pro Los Angeles Lakers.
+Trenér Lakers Luke Walton oznámil, že James bude hrát v nedělním předsezónním úvodu proti Denver Nuggets v San Diegu.
+Ale kolik minut bude hrát, musí být ještě rozhodnuto.
+"Bude to více než jeden a méně než 48," řekl Walton na oficiálních stránkách Lakers.
+Reportér Lakers Mike Trudell na Twitteru napsal, že James bude pravděpodobně hrát omezené minuty.
+Po tréninku na začátku tohoto týdne byl James dotázán na jeho plány pro šest-herní předsezónní plán.
+"Nepotřebuji předsezónní zápasy v této fázi své kariéry, abych se připravil," řekl.
+Trumpův summit West Virginia Rally Time, YouTube Channel
+Prezident Donald Trump začíná příval volebních shromáždění dnes večer v Wheelingu v Západní Virginii.
+Je to Trumpova první z pěti plánovaných shromáždění v příštím týdnu, včetně zastávek v přátelských místech, včetně Tennessee a Mississippi.
+S potvrzovacím hlasováním na místě pro jeho výběr vyplnit Nejvyšší soud volné místo, Trump je zaměřena na vybudování podpory pro nadcházející střednědobé volby, protože republikáni jsou v ohrožení ochrání kontrolu nad Kongresem, když jsou hlasy odevzdané na listopad.
+V kolik hodin je dnes večer Trumpovo shromáždění v Západní Virginii a jak se díváte online?
+Trumpův summit Wheeling v Západní Virginii je naplánován na 19:00. ET dnes večer, v sobotu 29. září 2018.
+Můžete sledovat Trumpovu rally v Západní Virginii online níže prostřednictvím živého přenosu na YouTube.
+Trump se pravděpodobně bude zabývat slyšeními tento týden pro kandidáta Nejvyššího soudu Bretta Kavanaugha, který se stal napjatým nad obviněními ze sexuálního zneužívání s očekávaným senátním potvrzovacím hlasováním až na týden, zatímco FBI vyšetřuje.
+Ale primárním cílem tohoto přívalu shromáždění je pomoci republikánům, kteří čelí dotykovým listopadovým volbám, získat nějaký impuls.
+Proto kampaň prezidenta Trumpa uvedla, že těchto pět shromáždění v příštím týdnu je zaměřeno na "pohání dobrovolníků a příznivců, protože republikáni se snaží chránit a rozšiřovat většinu, kterou mají v Senátu a Sněmovně reprezentantů," uvádí agentura Reuters.
+"Kontrola Kongresu je pro jeho agendu tak kritická, že prezident bude cestovat do co nejvíce států, kolik směřujeme do rušné kampaně," řekl agentuře Reuters mluvčí Trumpovy kampaně, který odmítl být jmenován.
+Plánovaný pro Wesbanco Arena v Wheelingu, dnešní shromáždění by mohlo přivést příznivce z "Ohio a Pensylvánie a čerpat pokrytí z médií Pittsburghu", podle West Virginia Metro News.
+Sobota bude podruhé za poslední měsíc, kdy Trump navštívil Západní Virginii, stát, který v roce 2016 získal o více než 40 procentních bodů.
+Trump se snaží pomoci kandidátovi republikánského senátu Západní Virginie Patricku Morriseymu, který v průzkumech veřejného mínění vede.
+"Pro Morriseyho to není dobré znamení, že prezident musí přijít, aby se mu pokusil podpořit v průzkumech veřejného mínění," řekl Simon Haeder, politolog na univerzitě v Západní Virginii.
+Ryder Cup 2018: Tým USA vykazuje žaludek na boj, aby udržel naděje naživo směřující do nedělních singlů
+Po třech jednostranných sezeních, sobotní odpolední čtveřice by mohlo být právě to, co tento Ryder Cup potřeboval.
+Houpací kyvadlo hybnosti je zcela vymyšlený sportovní koncept, ale ten, kterému hráči skutečně věří, a nikdy více než v soutěžích, jako jsou tyto.
+Tak kde by řekli, že je teď dynamika?
+"Měli šestibodový náskok a teď jsou to čtyři, takže to neseme jako trochu hybnosti, myslím," řekl Jordan Spieth, když se procházel na den.
+Evropa má výhodu, samozřejmě, čtyři body dopředu s dvanácti více ve hře.
+Američané, jak říká Spieth, mají pocit, že mají trochu větru ve svých plachtách a mají spoustu, aby byli povzbuzeni, v neposlední řadě forma Spietha a Justina Thomase, kteří hráli společně celý den a každý se může pochlubit třemi body ze čtyř.
+Spieth byl smrtelný od odpaliště k zelenému a jde příkladem.
+Tyto hrdelní výkřiky oslavy se staly hlasitější, jak jeho kolo pokračovalo, potápějící se rozhodující putt, aby se zápas čtyři all-square, když on a Thomas byl dva dolů po dvou.
+Jeho putt, který jim vyhrál zápas na 15, se setkal s podobným výkřikem, ten druh, který vám řekne, že věří, že americký tým z toho není venku.
+"Opravdu musíte kopat hluboko a starat se o svůj vlastní zápas," řekl Spieth.
+Je to všechno, co všichni tito hráči teď odešli.
+18 jamek, aby se značka.
+Jedinými hráči, kteří mají za poslední dva dny více bodů než Spieth a Thomas, jsou Francesco Molinari a Tommy Fleetwood, nesporný příběh Ryder Cupu.
+Lichý, ale roztomilý pár Evropy je čtyři ze čtyř a nemůže udělat nic špatného.
+"Moliwood" byl jediný pár, který v sobotu odpoledne nestřílel bogey, ale také se vyhnuli bogey v sobotu ráno, v pátek odpoledne a zadní devítce v pátek ráno.
+To běží a způsob, jakým se zdá, že jejich energie proudí jak do, tak z tohoto bouřlivého davu, cementuje, že jsou hráči, kteří by v neděli porazili, a nebyl by žádný více populární hráč, který by zpečetil potenciální evropské vítězství, když slunce zapadá nad Le Golf National než Fleetwood nebo Molinari.
+Upřednostněny oba současně na různých otvorech.
+Řeč o evropské slávě však zůstává předčasná.
+Bubba Watson a Webb Simpson dělal krátkou práci Sergia Garcii, ranního čtyřkolového hrdiny, když byl spárován s Alexem Norenem.
+Bogey a dvě čtyřhry na přední devítce vykopaly Španěla a Švéda do díry, ze které se nikdy nedostali blízko k vylezu.
+V neděli však nikdo, kdo by vám pomohl z vaší díry.
+Čtyřka a čtveřice jsou tak fascinující sledovat zblízka kvůli interakcím mezi páry, radami, které dávají, rad, a způsobu, jakým se strategie může změnit v okamžiku.
+Evropa hrála lépe jako tým dosud a bere významný náskok do posledního dne, ale toto čtyřhry zasedání také ukázalo, že tým USA má žaludek na boj, že někteří, zejména Stateside, byli pochybovat.
+Evropa se ujala vedení 10-6 do finále Ryder Cupu
+Evropa bude mít zdravou výhodu do posledního dne Ryder Cupu poté, co se vynořil ze sobotních čtyř míčů a čtyřhry s náskokem 10-6 nad Spojenými státy.
+Inspirované duo Tommy Fleetwood a Francesco Molinari vedli obvinění se dvěma vítězstvími nad bojujícím Tigerem Woodsem, aby se jejich dosud v Le Golf National na čtyři body.
+Thomas Bjorn je evropská strana, ucházejíc o udržení trofeje, kterou ztratili v Hazeltine před dvěma lety, dominoval chybné americké straně v ranních čtyřech míčích, přičemž série 3-1.
+Spojené státy nabídly větší odpor ve čtyřech výhře, vyhrály dva zápasy, ale nemohly jíst do deficitu.
+Jim Furyk potřebuje osm bodů z nedělních 12 zápasů dvouhry, aby si udržel trofej.
+Fleetwood je prvním evropským nováčkem, který vyhrál čtyři body v řadě, zatímco on a Molinari, přezdívaný "Molliwood" po senzačním víkendu, jsou teprve druhým párem, který vyhrál čtyři body ze svých úvodních čtyř zápasů v historii Ryder Cupu.
+Poté, co rozdrtil Woods a Patrick Reed ve čtyřech koulích pak geloval skvěle porazit vychýlený Woods a americký nováček Bryson Dechabeau ještě důraznější 5 & 4.
+Woods, který se v sobotu protáhl dvěma zápasy, ukázal občasné výbuchy brilantnosti, ale nyní prohrál 19 ze svých 29 zápasů ve čtyřech míčích a čtveřicích a sedmi v řadě.
+Justin Rose, odpočíval na ranní čtyři koule, se vrátil k partnerovi Henrik Stenson ve čtveřici na 2 & 1 porážce Dustina Johnsona a Brookse Koepky - zařadil jeden a tři na světě.
+Evropa neměla to al-vlastní cestu, i když na příjemné, svěží den jihozápadně od Paříže.
+Trojnásobný vítěz majoru Jordan Spieth a Justin Thomas stanovili měřítko pro Američany se dvěma body v sobotu.
+Oni získali drsné 2 & 1 vítězství nad Španělem Jon Rahm a Ian Poulter ve čtyřech míčích a vrátil se později porazit Poulter a Rory McIlroy 4 & 3 ve čtveřici poté, co ztratil úvodní dvě jamky.
+Pouze dvakrát v historii Ryder Cupu má tým se vrátil ze čtyřbodového deficitu jít do dvouhry, i když jako držitelé Furyk strana potřebuje jen remízu udržet trofej.
+Poté, co byl druhý nejlepší po dobu dvou dnů, nicméně, nedělní protiútok vypadá, jako by to bude mimo ně.
+Severní Korea říká, že „žádná cesta“ bude jednostranně odzbrojit bez důvěry
+Severokorejský ministr zahraničí v sobotu řekl, že sankce prohlubují její nedůvěru ve Spojených státech a neexistuje žádný způsob, jak by se země za takových okolností vzdala svých jaderných zbraní jednostranně.
+Ri Yong Ho řekl Světovému orgánu výročnímu Valnému shromáždění, že Severní Korea v uplynulém roce přijala "významná opatření dobré vůle", jako je zastavení jaderných a raketových testů, demontáž jaderného testovacího místa a slib, že nebude množit jaderné zbraně a jaderné technologie.
+"Nicméně nevidíme žádnou odpovídající reakci ze strany USA," řekl.
+"Bez jakékoli důvěry v USA nebude existovat žádná důvěra v naši národní bezpečnost a za takových okolností neexistuje žádný způsob, jak se nejprve jednostranně odzbrojíme," dodal.
+Zatímco Ri zopakoval známé severokorejské stížnosti na odpor Washingtonu vůči „fázovanému“ přístupu k denuklearizaci, podle kterého by byla Severní Korea odměňována, protože podnikla postupné kroky, jeho prohlášení se zdálo významné v tom, že neodmítlo jednostrannou denuklearizaci z rukou, jak to v minulosti učinil Pchjongjang.
+Ri se odvolával na společné prohlášení vydané Kim Čong-unem a Donaldem Trumpem na prvním summitu mezi sloužícím americkým prezidentem a severokorejským vůdcem v Singapuru 12. června, kdy se Kim zavázal pracovat na „denuklearizaci Korejského poloostrova“, zatímco Trump slíbil záruky bezpečnosti Severní Koreje.
+Severní Korea usiluje o formální ukončení korejské války v letech 1950-53, ale Spojené státy uvedly, že Pchjongjang se musí nejprve vzdát svých jaderných zbraní.
+Washington také odolal výzvám k uvolnění tvrdých mezinárodních sankcí vůči Severní Koreji.
+"Spojené státy trvají na "denuklearizaci na prvním místě" a zvyšují úroveň tlaku sankcí, aby dosáhly svého účelu donucovacím způsobem, a dokonce mají námitky proti "vyhlášení konce války", " řekl Ri.
+„Vnímání, že sankce nás mohou svrhnout na kolena, je snem lidí, kteří o nás neznají.
 Ale problém je v tom, že pokračující sankce prohlubují naši nedůvěru.“
-Ri se nezmínil o plánech na druhý summit mezi Kimem a Trumpem, na který počátkem týdne upozornil americký vůdce v OSN.
-Ministr místo toho vyzdvihl tři schůzky mezi Kimem a jihokorejským vůdcem Moon Jae-inem v posledních pěti měsících a dodal: „Kdyby strana této otázky denuklearizace byla Jižní Korea a ne USA, denuklearizace Korejského poloostrova by se tak na mrtvém bodě nedostala.“
-I tak se tón Riova projevu dramaticky lišil od loňska, kdy to řekl OSN. Valné shromáždění, které se zaměřují na americkou pevninu s raketami Severní Koreje, bylo nevyhnutelné poté, co „povzřelý prezident“ Trump nazval Kima „rakeťákem“ na sebevražedné misi.
-Letos v OSN Trump, který loni pohrozil Severní Koreou „trojivě zničením“, chválil Kima za jeho odvahu podniknout kroky k odzbrojení, ale řekl, že ještě musí udělat mnoho práce a sankce musí zůstat v platnosti, dokud se Severní Korea nevycichene.
-Ve středu Trump řekl, že na to nemá žádný časový rámec, a řekl: „Pokud to bude trvat dva roky, tři roky nebo pět měsíců – na tom nezáleží.“
-Čína a Rusko tvrdí, že OSN. Rada bezpečnosti by měla Pchjongjang za podniknuté kroky.
-Nicméně, USA. Ministr zahraničí Mike Pompeo to řekl OSN. Rada bezpečnosti ve čtvrtek, že: „Vynucování sankcí Rady bezpečnosti musí pokračovat rázně a bez selhání, dokud si plně, konečná, ověřená denuklearizace uvědoměme.“
-Rada bezpečnosti od roku 2006 jednomyslně posílila sankce vůči Severní Koreji ve snaze zadusit financování jaderného a balistického raketového programu Pchjongjangu.
-Pompeo se setkal s Riem na okraji OSN. Valné shromáždění a poté prohlásilo, že příští měsíc znovu navštíví Pchjongjang, aby se připravil na druhý summit.
-Pompeo už letos už třikrát navštívil Severní Koreu, ale jeho poslední cesta nedopadla dobře.
-Pchjongjang v červenci opustil s tím, že bylo dosaženo pokroku, pouze pro Severní Koreu během několika hodin, aby ho odsoudila za to, že učinil „gangsterské požadavky“.
-Severní Korea se na setkání s Moonem tento měsíc zavázala k demontování raketového střediska a také jaderného komplexu, pokud Spojené státy přijmou „odpovídající opatření“.
-Řekl, že mu Kim řekl, že „odpovídající opatření“, o která usiluje, jsou zárukou, že se Trump v Singapuru zavázal a směřuje k normalizaci vztahů s Washingtonem.
-Studenti Harvardu si dávají kurz na odpočinek
-Nový kurz na Harvardově univerzitě letos přiměl všechny své vysokoškoláky více spát ve snaze bojovat proti rostoucí macho kultuře studia prostřednictvím kofeinem poháněného 'celé zácpu'.
-Akademik zjistil, že studenti světové univerzity číslo jedna jsou často bezradní, pokud jde o základní věci o tom, jak se o sebe postarat.
-Charles Czeisler, profesor spánkové medicíny na Harvard Medical School a specialista z Brigham and Women's Hospital, navrhl kurz, který je podle něj první svého druhu v USA.
-Inspiroval se k zahájení kurzu poté, co přednesl rozhovor o dopadu nedostatku spánku na učení.
-„Na konci za mnou přišla jedna dívka a řekla: 'Proč mi to říkají až teď, v posledním ročníku?'
-Říkala, že jí nikdy nikdo neřekl o důležitosti spánku – což mě překvapilo,“ řekl listu The Telegraph.
-Kurz, který se letos poprvé rozjel, vysvětluje studentům základní potřeby, jak dobré spánkové návyky pomáhají akademickým a atletickým výkonům, stejně jako zlepšují jejich celkovou pohodu.
-Paul Barreira, profesor psychiatrie na Harvard Medical School a výkonný ředitel univerzitních zdravotnických služeb, řekl, že univerzita se rozhodla zavést kurz poté, co zjistila, že studenti byli vážně spaní nedostatek během týdne.
-Hodinový kurz zahrnuje řadu interaktivních úkolů.
-V jedné sekci je obraz pokoje na koleji, kde studenti klikatí na kávové šálky, záclony, trenéry a knihy, které se mají vyprávět o účincích kofeinu a světla a jak je sportovní výkon ovlivněn nedostatkem spánku, a důležitosti rutiny před spaním.
-V jiné části se účastníci dozvědí, jak může dlouhodobá spánková deprivace zvýšit riziko infarktu, cévní mozkové příhody, deprese a rakoviny.
-Mapa kampusu s interaktivními ikonami pak povzbuzuje účastníky, aby přemýšleli o své každodenní rutině.
-„Víme, že to chování studentů okamžitě nezmění.
-Ale věříme, že mají právo to vědět – stejně jako máte právo znát účinky na zdraví, že se rozhodnete kouřit cigarety,“ dodal prof. Czeisler.
-Kultura hrdosti na „tahání všech nocí“ stále existuje, řekl a dodal, že moderní technologie a stále rostoucí tlak na studenty znamená nedostatek spánku rostoucí problém.
-Zajistit, že máte dostatek spánku, dobré kvality, by měla být studentova „tajná zbraň“ pro boj proti stresu, vyčerpání a úzkosti, řekl – dokonce aby se vyhnul přibírání na váze, protože nedostatek spánku dává mozek do režimu hladovění, takže mají neustále hladovět.
-Devatenáctiletý Kaliforňan Raymond So, který studoval chemickou a fyzikální biologii, pomáhal profesoru Czeislerovi navrhnout kurz, když loni během prvního ročníku na Harvardu absolvoval jednu z jeho tříd.
-Řekl, že mu kurz otevřel oči a inspiroval ho k tomu, aby se prosadil na celosturzu.
-Doufá, že další krok požádá všechny postgraduální studenty, aby před nástupem do konkurenční instituce dokončili podobný studijní program.
-Profesor Czeisler doporučil studentům, aby zvážili nastavení poplachu pro to, kdy jít do postele, stejně jako kdy se probudit, a být si vědomi škodlivých účinků „modrého světla“ vyzařovaného elektronickými zákavrnami a LED osvětlením, které může hodit váš cirkadiánní rytmus z lichva, což vede k problémům s usínáním.
-Livingston 1 – 0 Rangers: Menga gól sestřelí Gerrardovy mužstvo
-Rangers utrpěli další zápas venku-day blues jako Dolly Menga strike odsunul Steven Steven Gerrard nesouvislé straně na 1-0 porážku v Livingstonu.
-Ibrox strana se snažila zaznamenat své první vítězství na silnici od únorového 4-1 triumf v St Johnstone, ale Gary Holt tým způsobil jen Gerrard druhou porážku v 18 hrách jako manažer nechat jeho straně osm bodů poproutoutné Ladbrokes Premiership leaders Hearts.
-Menga udeřil sedm minut před poločasem a Rangers line-up na inspiraci nikdy nevypadal jako vyrovnání.
-Zatímco Rangers nyní klesají na šesté místo, Livingston vyšplhat na třetí a pouze za Hibernian na rozdíl gólu.
-A Rangers by mohly být další potíže v zásobě poté, co čár Calum Spence musel být ošetřen s poraněním hlavy poté, co byl předmět zřejmě odhozen zvenčí.
-Gerrard udělal osm změn na straně, která se přehnala kolem Ayra do semifinále Betfred Cupu.
-Na druhou stranu Holt šel se stejnou Livi 11, která minulý týden sebrala o bod z Hearts a byl by nadšený z toho, jak jeho dobře vyšilovaný outfit udusil soupeře na každém kroku.
-Rangers možná dominovali v držení míče, ale Livingston udělal víc s míčem, který měli.
-Měli skórovat jen dvě minuty, když Menga poprvé propuštěn poslal Scotta Pittmana na branku Allana McGregora, ale záložník přetáhl svou velkou šanci.
-Hluboký volný kop Keaghana Jacobse pak našel kapitána Craiga Halketta, ale jeho defenzivní partner Alan Lithgow mohl na zadní tyči jen bodnout dokořán.
-Rangers to chytit kontrolu, ale zdálo se, že větší naděje než víra o jejich hře v poslední třetině.
-Alfredo Morelos rozhodně cítil, že by měl mít trest na čtvrthodinový trest, když se se Stevenem Lawlessem srazil, ale rozhodčí Steven Thomson odmávl Kolumbijcův apel.
-Rangers se podařilo jen dva první poločas na cíl, ale bývalý Ibrox brankář Liam Kelly byl sotva problém Lassana Coulibaly hlavičkou a tamej Ovie Ejaria strike.
-Zatímco Livi 34. minutě otvírák mohl být proti běhu hry, nikdo nemůže popřít, že si to za svůj úplatkář sám zasloužil.
-Rangers se opět nedokázali vypořádat s hlubokým Jacobsovým setpédou.
-Scott Arfield nereagoval, když Declan Gallagher odpálil míč Scottu Robinsonovi, který udržoval chladnou hlavu a vybral Mengu pro prostý finiš.
-Gerrard jednal v rozehrávce, když vyměnil Coulibaly za Ryana Kenta a vypínač téměř poskytl okamžitý dopad, když útočník v Morelosu odpálil, ale působivý Kelly se hnal z jeho čáry na blok.
-Ale Livingston dál cucal hosty, aby hráli přesně ten typ hry, kterou mají rádi, a Lithgow a Halkett sebrali dlouho po míči.
-Holtova strana mohla v závěrečné etapě natáhnout vedení, ale McGregor se dobře postavil, aby Jacobse odmítl, než Lithgow zamířil z rohu.
-Rangers náhradník Glenn Middleton měl další pozdní nárok na trest, když se zapletl s Jacobs, ale Thomson opět odvrátil.
-Almanach: vynálezce Geiger Counter
-A nyní stránku z naší „nedělní ráno“ Almanach: 30. září, 1882, 136 let dnes, a COUNTING ... den, kdy se v Německu narodil budoucí fyzik Johannes Wilhelm „Hans“ Geiger.
+Ri se nezmínil o plánech na druhý summit mezi Kimem a Trumpem, který americký vůdce zdůraznil v OSN na začátku týdne.
+Ministr místo toho zdůraznil tři setkání mezi Kimem a jihokorejským vůdcem Mun Če-inem v posledních pěti měsících a dodal: "Pokud by strana této otázky denuklearizace byla Jižní Koreou a ne USA, denuklearizace Korejského poloostrova by se nedostala do takového slepé uličky."
+Přesto se tón Riova projevu dramaticky lišil od loňského roku, kdy řekl OSN. Valné shromáždění, které se zaměřilo na americkou pevninu se severokorejskými raketami, bylo nevyhnutelné poté, co „pan Zlý prezident“ Trump nazval Kima „raketovým mužem“ na sebevražedné misi.
+Letos v OSN v OSN Trump, který loni pohrozil, že „zcela zničí“ Severní Koreu, nahromadil na Kima chválu za jeho odvahu při přijímání kroků k odzbrojení, ale řekl, že ještě musí být vykonáno mnoho práce a sankce musí zůstat v platnosti, dokud Severní Korea denuklearizuje.
+Ve středu Trump řekl, že na to nemá časový rámec a řekl: "Pokud to bude trvat dva roky, tři roky nebo pět měsíců - na tom nezáleží."
+Čína a Rusko tvrdí, že OSN Rada bezpečnosti by měla odměnit Pchjongjang za kroky.
+Nicméně, USA. Ministr zahraničí Mike Pompeo to oznámil při OSN. Rada bezpečnosti ve čtvrtek, že: "Vymáhání sankcí Rady bezpečnosti musí pokračovat rázně a bez selhání, dokud si neuvědomíme, že plně, konečná, ověřená denuklearizace."
+Rada bezpečnosti jednomyslně zvýšila sankce vůči Severní Koreji od roku 2006 ve snaze udusit financování jaderného a balistického raketového programu Pchjongjangu.
+Pompeo se setkal s Riem na okraji OSN. Valné shromáždění a poté řekl, že příští měsíc znovu navštíví Pchjongjang, aby se připravil na druhý summit.
+Pompeo navštívil Severní Koreu již letos třikrát, ale jeho poslední cesta nevydržela dobře.
+V červenci opustil Pchjongjang s tím, že bylo dosaženo pokroku, jen aby Severní Korea během několika hodin odsoudila za to, že učinil "gangsterské požadavky".
+Severní Korea se tento měsíc na setkání s Munem zavázala demontovat raketové místo a také jaderný komplex, pokud by Spojené státy přijaly „odpovídající opatření“.
+Řekl, že Kim mu řekl, že „pokladná opatření“, která hledá, jsou bezpečnostní záruky, které Trump slíbil v Singapuru, a kroky směrem k normalizaci vztahů s Washingtonem.
+Harvardští studenti absolvují kurz v získání dostatečného odpočinku
+Nový kurz na Harvardské univerzitě v letošním roce má všechny své vysokoškoláky, kteří se více vyspí ve snaze bojovat proti rostoucí macho kultuře studia prostřednictvím kofeinem poháněné "alnoci".
+Akademik zjistil, že studenti na světové univerzitě číslo jedna jsou často bezradní, pokud jde o samotné základy o tom, jak se o sebe starat.
+Charles Czeisler, profesor spánkové medicíny na Harvardské lékařské fakultě a specialista na Brigham and Women's Hospital, navrhl kurz, o kterém věří, že je první svého druhu ve Spojených státech.
+Byl inspirován k zahájení kurzu poté, co dal mluvit o dopadu spánkové deprivace na učení.
+'Na konci toho za mnou přišla jedna dívka a řekla: 'Proč mi to bylo řečeno jen teď, v mém posledním ročníku?'
+Řekla, že jí nikdo nikdy neřekl o důležitosti spánku - což mě překvapilo, "řekl The Telegraph.
+Kurz, který byl poprvé zahájen v letošním roce, vysvětluje studentům základy toho, jak dobré spánkové návyky pomáhají akademickému a atletickým výkonům, stejně jako zlepšit jejich celkovou pohodu.
+Paul Barreira, profesor psychiatrie na Harvardské lékařské fakultě a výkonný ředitel zdravotních služeb univerzity, uvedl, že univerzita se rozhodla zavést kurz poté, co zjistila, že studenti byli během týdne vážně zbaveni spánku.
+Hodinový dlouhý kurz zahrnuje řadu interaktivních úkolů.
+V jedné části je obraz koleje, kde studenti kliknou na šálky kávy, závěsy, trenéry a knihy, které mají být informovány o účincích kofeinu a světla a o tom, jak je atletický výkon ovlivněn nedostatkem spánku a důležitostí rutiny před spaním.
+V jiné části je účastníkům informováno, jak může dlouhodobá spánková deprivace zvýšit riziko infarktu, mrtvice, deprese a rakoviny.
+Mapa kampusu, s interaktivními ikonami, pak povzbuzuje účastníky, aby přemýšleli o své každodenní rutině.
+"Víme, že to okamžitě nezmění chování studentů.
+Ale věříme, že mají právo to vědět - stejně jako máte právo znát zdravotní účinky při výběru kouření cigaret, "dodal profesor Czeisler.
+Kultura hrdosti na "tažení celonočního" stále existuje, řekl a dodal, že moderní technologie a stále rostoucí tlak na studenty znamenaly, že spánková deprivace byla rostoucím problémem.
+Zajistit, abyste měli dostatek spánku, dobré kvality, by mělo být "tajnou zbraní" studenta pro boj se stresem, vyčerpáním a úzkostí, řekl - dokonce i aby se zabránilo přibírání na váze, protože spánková deprivace dává mozek do režimu hladovění, což je činí neustále hladovými.
+Raymond So, 19letý kalifornský student chemie a fyzikální biologie, pomohl profesoru Czeislerovi navrhnout kurz poté, co loni během svého prvního roku na Harvardu absolvoval jednu ze svých tříd.
+Řekl, že kurz otevřel oči a inspiroval ho, aby tlačil na kurz na celém kampusu.
+Dalším krokem, doufá, že požádá všechny postgraduální studenty, aby dokončili podobný studijní program před vstupem do konkurenční instituce.
+Profesor Czeisler doporučil, aby studenti zvážili nastavení poplachu, kdy jít do postele, stejně jako pro to, kdy se probudit, a být si vědomi škodlivých účinků "modrého světla" vyzařovaného elektronickými obrazovkami a LED osvětlením, které mohou vypustit váš cirkadiánní rytmus z kilteru, což vede k problémům usínání.
+Livingston 1 - 0 Rangers: Menga gól dolů Gerrardových mužů
+Rangers utrpěli další záchvat pryč-denní blues jako Dolly Menga stávka poslal Steven Gerrard je nesouvislé straně na 1-0 porážce v Livingstonu.
+Ibrox strana se snaží zaznamenat své první vítězství na silnici od únorového 4-1 triumfu na St Johnstone, ale tým Gary Holt způsobil jen Gerrardovu druhou porážku v 18 hrách jako manažer opustit svou stranu osm bodů z útěku Ladbrokes Premiership vůdce Hearts.
+Menga udeřil sedm minut před poločasem a Rangers sestava krátký na inspiraci nikdy nevypadal jako vyrovnání.
+Zatímco Rangers nyní klesají na šesté místo, Livingston se vyšplhal na třetí a pouze za Hibernian na brankový rozdíl.
+A tam by mohlo být další problémy v obchodě pro Rangers poté, co lineman Calum Spence musel být ošetřen pro zranění hlavy poté, co byl objekt zřejmě vyhozen ze vzdáleného konce.
+Gerrard udělal osm změn na straně, která prohnala Ayr do semifinále Betfred Cupu.
+Holt, na druhou stranu, šel se stejnou Livi 11, která minulý týden vzala bod z Hearts a byl by potěšen tím, jak jeho dobře vycvižený outfit udusilo jejich soupeře na každém kroku.
+Rangers mohli dominovat držení, ale Livingston udělal více s míčem, který měli.
+Měli skórovat jen dvě minuty v době, kdy Menga je první-time propouštění poslal Scott Pittman přes na Allan McGregor je gól, ale záložník tahal jeho velkou šanci široký.
+Hluboký Keaghan Jacobs volný kop pak našel kapitán Craig Halkett, ale jeho obranný partner Alan Lithgow mohl jen bodnout doširoka na zadním sloupku.
+Rangers chytili kontrolu, ale zdálo se, že je více naděje než víra o jejich hře v poslední třetině.
+Alfredo Morelos určitě cítil, že měl mít penaltu na čtvrthodinové značce, když se on a Steven Lawless srazil, ale rozhodčí Steven Thomson zamával kolumbijským odvoláním.
+Rangers podařilo jen dva první poločas střely na cíl, ale bývalý Ibrox brankář Liam Kelly byl sotva trápí Lassana Coulibaly hlavičku a krotký Ovie Ejaria stávku.
+Zatímco Liviho 34. minuta otvírák může být proti běhu hry, nikdo nemůže popřít, že si to zasloužil pro jejich štěpu sám.
+Opět Rangers se nedokázali vypořádat s hlubokým Jacobsovým set-piece.
+Scott Arfield nereagoval jako Declan Gallagher štěrbina míč na Scott Robinson, který držel jeho chladnou možnost vybrat Menga pro jednoduché dokončení.
+Gerrard jednal v přestávce, když vyměnil Coulibalyho za Ryana Kenta a přepínač téměř poskytl okamžitý dopad, když křídlo sloted v Morelosu, ale impozantní Kelly závodil z jeho linie na blok.
+Ale Livingston pokračoval v nasávání návštěvníků do hraní přesně ten typ hry, kterou si užívají, s Lithgow a Halkett zametání dlouhý míč po dlouhém míči.
+Holtova strana mohla natáhnout svůj náskok v závěrečných fázích, ale McGregor se postavil dobře, aby popřel Jacobse předtím, než Lithgow zamířil ze široka od rohu.
+Rangers náhradník Glenn Middleton měl další pozdní nárok na penaltu, když se zapletl s Jacobsem, ale opět Thomson se odvrátil.
+Almanach: vynálezce Geiger Counteru
+A nyní stránka z našeho "Nedělního rána" Almanachu: 30. září 1882, před 136 lety dnes a COUNTING ... v den, kdy se v Německu narodil budoucí fyzik Johannes Wilhelm "Hans" Geiger.
 Geiger vyvinul metodu pro detekci a měření radioaktivity, vynález, který nakonec vedl k zařízení známému jako Geiger Counter.
-Od té doby je oporou vědy, Geiger Counter se stal popkulovou oporou stejně jako ve filmu „Bells of Coronado“ z roku 1950 s těmi zdánlivě nepravděpodobnými krovemských vědců Roye Rogerse a Dalea Evanse:
-„Co to proboha je?“
-Rogers: „Je to Geiger Counter, používaný k lokalizaci radioaktivních nerostů, jako je uran.
-Když si nasadíte tato sluchátka, můžete skutečně slyšet účinky atomů vydaných radioaktivitou v minerálech.“
-Evans: „Poslechněte si to, teď se točí!“
-„Hans“ Geiger zemřel v roce 1945, jen pár dní před svými 63. narozeninami.
-Ale vynález, který nese jeho jméno, žije dál.
-Nová vakcína proti rakovině může učit imunitní systém „vidět“ nepoctivé buňky
-Nová vakcína proti rakovině může učit imunitní systém „vidět“ nepoctivé buňky a zabít je
-Vakcína učí imunitnímu systému rozpoznávat nepoctivé buňky jako součást léčby
-Metoda zahrnuje extrakci imunitních buněk od pacienta a jejich změnu v laboratoři
-Pak mohou „vidět“ protein společný pro mnoho nádorů a pak znovu nasazen
-Studie na vakcíně vykazuje slibné výsledky u pacientů s řadou nádorů.
-Jedna žena léčená vakcínou, která učí imunitním systému rozpoznávat zběhlé buňky, způsobila, že její rakovina vaječníků zmizela po více než 18 měsících.
-Metoda zahrnuje extrahování imunitních buněk od pacienta, jejich změnu v laboratoři, aby mohli „vidět“ protein běžný pro mnoho nádorů zvaných HER2 a pak znovu aplikující buňky.
-Profesor Jay Berzofsky z amerického Národního onkologického institutu v Bethesdě v Marylandu řekl: „Naše výsledky naznačují, že máme velmi slibnou vakcínu.“
-HER2 „je proráněna růstem několika typů rakoviny“, včetně karcinomů prsu, vaječníků, plic a tlustého střeva a konečníku, vysvětlil prof. Berzofsky.
-Podobný přístup spočívající v odebírání imunitních buněk pacientů a „učiňování“ je, jak se zaměřit na nádorové buňky, se při léčbě leukémie zabývaly.
-Kanye West se pustil do Pro-Trump Diatribe, Wearing a MAGA Hat, po jeho SNL Appearance.
-It Didn't Go Well
-Kanye West byl vypískán ve studiu během Saturday Night Live po nesouvislém vystoupení, ve kterém chválil USA. Prezident Donald Trump a řekl, že bude kandidovat v roce 2020.
-Poté, co předvedl svou třetí píseň večera zvanou Ghost Town, ve které měl na sobě čepici Make America Great, se pustil do proti demokratům a zopakoval svou podporu Trumpovi.
-„Tolikrát mluvím s bělochem a oni říkají: ,Jak se ti mohl líbit Trump, je rasista?'
-No, kdybych se obával rasismu, odstěhoval bych se z Ameriky už dávno,“ řekl.
-SNL zahájila show scénkou s Mattem Damonem v hlavní roli, ve které si hollywoodská hvězda utahovala z výpovědi Bretta Kavanaugha před senátním soudním výborem k sexuálním napadení tvrzení Christine Blaseyové Fordové.
-Přestože nebyl odvysílán, záběry Westových výlev nahrál na sociální sítě komik Chrisem Rockem.
-Není jasné, jestli se Rock snažil vysmátou Westa.
-Také si West stěžoval divákům, že se mu v zákulisí těžko honí nošení hlavy.
-„Zadržovali mě v zákulisí.
-Řekli si, že tam nejdi s tím kloboukem.'
-Šikovali mě!
-A pak se řekne, že jsem na zapadlém místě,“ řekl podle Washington Examineru.
-West pokračoval: „Chceš vidět to zapadlé místo?“ a řekl, že si na to „naje můj superman plášť, protože to znamená, že mi nemůžeš říkat, co mám dělat. Chceš, aby se svět pohnul?
+Oporou vědy od té doby, Geiger Counter se stal pop kultury oporou stejně, stejně jako v roce 1950 filmu "Bells of Coronado", hrát ty zdánlivě nepravděpodobné kovbojské vědce Roy Rogers a Dale Evans:
+Člověk: "Co je to na světě?"
+Rogers: „Je to Geigerův protiter, který se používá k lokalizaci radioaktivních minerálů, jako je uran.
+Když si nasadíte tato sluchátka, můžete skutečně slyšet účinky atomů vydaných radioaktivitou v minerálech.
+Evans: "Řekni, to určitě je teď praskání!"
+"Hans" Geiger zemřel v roce 1945, jen pár dní před jeho 63. narozeninami.
+Ale vynález, na kterém nese jeho jméno, žije dál.
+Nová vakcína proti rakovině může naučit imunitní systém, aby "vidět" nepoctivé buňky
+Nová vakcína proti rakovině může naučit imunitní systém, aby „vidět“ nepoctivé buňky a zabít je
+Vakcína učí imunitní systém rozpoznávat nepoctivé buňky jako součást léčby.
+Metoda zahrnuje extrakci imunitních buněk z pacienta, jejich změnu v laboratoři.
+Mohou pak "vidět" protein společný pro mnoho druhů rakoviny a pak znovu vstřikovány.
+Zkušební vakcína vykazuje slibné výsledky u pacientů s řadou druhů rakoviny.
+Jedna žena léčená vakcínou, která učí imunitní systém rozpoznávat nepoctivé buňky, viděla, že její rakovina vaječníků zmizela na více než 18 měsíců.
+Tato metoda zahrnuje extrakci imunitních buněk z pacienta, jejich změnu v laboratoři, aby mohli "vidět" protein společný pro mnoho druhů rakoviny nazývaných HER2 a pak znovu nastřižení buněk.
+Profesor Jay Berzofsky z amerického Národního institutu pro rakovinu v Bethesdě v Marylandu řekl: „Naše výsledky naznačují, že máme velmi slibnou vakcínu.“
+HER2 „řídí růst několika typů rakoviny“, včetně rakoviny prsu, vaječníků, plic a kolorektálního karcinomu, vysvětlil profesor Berzofsky.
+Podobný přístup k odvezení imunitních buněk z pacientů a jejich „učení“, jak se zaměřit na rakovinné buňky, pracoval při léčbě typu leukémie.
+Kanye West zaskočil na pro-Trump Diatribe, Nosí MAGA klobouk, po jeho SNL vzhledu.
+Nešelo To Dobře.
+Kanye West byl vypískán ve studiu během Saturday Night Live po nesourodém představení, ve kterém chválil USA. Prezident Donald Trump a oznámil, že se v roce 2020 ujme úřadu.
+Poté, co zahrál svou třetí píseň večera, nazvanou Ghost Town, ve které měl na sobě čepici Make America Great, šel na chvástání proti demokratům a zopakoval svou podporu pro Trumpa.
+Tolikrát mluvím s bělochem a oni říkají: "Jak se vám může líbit Trump, je to rasista?"
+No, kdybych se obával rasismus, už dávno bych se z Ameriky odstěhoval,“ řekl.
+SNL začala show skečem s Mattem Damonem, ve kterém si hollywoodská hvězda posmívala svědectví Bretta Kavanaugha před senátním soudním výborem pro tvrzení o sexuálním napadení, který učinila Christine Blasey Fordová.
+Ačkoli to nebylo odvysíláno, záběry Westova chvástání byly nahrány na sociální média komikem Chrisem Rockem.
+Není jasné, zda se Rock snažil zesměšnit Westa s vysláním.
+Také West si stěžoval publiku, že dostal těžké časy v zákulisí o jeho opotřebení hlavy.
+"Zastrašili mě v zákulisí.
+Řekli: "Nechoď tam s tím kloboukem."
+- Šikanovali mě!
+A pak říkají, že jsem na potopeném místě,“ řekl podle Washington Examiner.
+West pokračoval: "Chceš vidět potopené místo?" a řekl, že by "nasadil můj superman plášť, protože to znamená, že mi nemůžete říct, co mám dělat. Chcete, aby se svět pohnul kupředu?
 Zkus lásku.“
-Jeho komentáře vyvolaly v publiku bučení a členové obsazení v SNL se zdály být v rozpacích, uvedl Variety, s jednou osobou v publikaci: „Celé studio zmlklo.“
-West byl předveden jako pozdější náhradník za zpěvačku Arianu Grande, jejíž bývalý přítel, rapper Mac Miller, zemřel před několika dny.
-West z mnoha mátl vystoupením písně I Love it, oblečená jako Perrier Bottle.
-West získal podporu od šéfky konzervativní skupiny TPUSA, Candace Turner, která tweetovala: „Jedním z nejodvážnějších duchů: DĚKUJI PRO STANDINGUJI TO MOB.“
-Ale moderátorka talk show Karen Hunterová tweetovala, že West je prostě „je kým je a to je naprosto úžasné“.
-„Ale já jsem se rozhodl odměnit někoho (kupem jeho hudby nebo oblečení nebo podporou jeho „uměle“), který, jak věřím, přijímá a chrlí ideologii, která je škodlivá pro mou komunitu.
-Je volný.
-To my taky,“ dodala.
-Před vystoupením rapper na Twitteru oznámil, že si změnil jméno, a řekl, že je nyní „pakéčovanou jako Kanye West“.
-Není prvním umělcem, který si změnil jméno a jde po stopách Diddy, známého také jako Puff Daddy, Puffy a P Diddy.
-Spoluhráč, Snoop Dogg, se jmenoval Snoop Lion a samozřejmě zesnulá hudební legenda Prince, změnil si jméno na symbol a pak umělce, který byl dříve známý jako Prince.
-Obvinění z pokusu o vraždu v Belfastu kvůli pobodání v restauraci v Belfastu
-Pětačtyřicetiletý muž byl obviněn z pokusu o vraždu poté, co byl v pátek v restauraci ve východním Belfastu pobodán muž.
-Incident se stal v Ballyhackamore, uvedla policie.
-Obžalovaný by měl v pondělí předstoupit před soud v Belfastu.
-Obvinění přezkoumá státní zastupitelství.
-Hvězda Hry o trůny Kit Harington útočí na toxickou maskulinitu
-Kit Harington je známý pro svou roli Jona Sněha v násilné středověké fantasy sérii HBO Hra o trůny.
-Ale jedenatřicetiletý herec se ohradil proti stereotypu macho-hrdinského hrdiny, když řekl, že takové role na plátně znamenají, že mladí chlapci mají často pocit, že musí být těžko uznávaní.
-V rozhovoru pro The Sunday Times Culture Kit Kit řekl, že věří, že „něco se pokazilo“ a ptal se, jak řešit problém toxické maskulinity v éře #MeToo.
-Kit, která se nedávno provdala za svou kolegyni z Hry o trůny Rose Leslie, také jednatřicetiletá, přiznala, že se k této otázce vyjadřuje „docela silně“.
-„Osobně, v tuto chvíli cítím docela silně – kde jsme se mýlili s mužností?“ řekl.
-„Co jsme učili muže, když vyrůstali, co se týče problému, který teď vidíme?“
-Kit se domnívá, že televize může být částečně zodpovědná za nárůst toxické maskulinity díky svým mužským postavám.
+Jeho komentáře čerpal bučení nejméně dvakrát z publika a SNL herci členové se zdáli být v rozpacích, Variety hlášeny, s jednou osobou tam říká publikaci: „Celé studio spadlo mrtvé ticho.“
+West byl přiveden jako pozdní náhrada za zpěvačku Arianu Grande, jejíž bývalý přítel, rapper Mac Miller zemřel před několika dny.
+West zmátl mnoho lidí vystoupením písně I Love It, oblečený jako Perrier Bottle.
+West získal podporu od šéfa konzervativní skupiny TPUSA, Candace Turner, která tweetovala: "Jedním z nejodvážnějších duchů: DĚKUJÍTĚ NEŽENÍ NA MÍT."
+Ale moderátorka talk show Karen Hunterová tweetovala, že West prostě "bytím, kdo je, a to je naprosto úžasné."
+Ale rozhodl jsem se, že někoho neodměním (kupací jeho hudby nebo oblečení nebo podporou jeho "umění"), o kterém věřím, že přijímá a chrlí ideologii, která je škodlivá pro mou komunitu.
+- Je volný.
+Stejně tak jsme my,“ dodala.
+Před přehlídkou rapper oznámil na Twitteru, že si změnil jméno a řekl, že je nyní "formálně známý jako Kanye West".
+Není prvním umělcem, který si změnil jméno a vydal se ve stopách Diddyho, známého také jako Puff Daddy, Puffy a P Diddy.
+Spoluhráč, Snoop Dogg měl jméno Snoop Lion a samozřejmě pozdní hudební legenda Prince, změnil své jméno na symbol a pak umělec dříve známý jako Prince.
+Pokus o obvinění z vraždy z Belfastu za pobodání v restauraci v Belfastu
+45letý muž byl obviněn z pokusu o vraždu poté, co byl v pátek v restauraci ve východním Belfastu pobodán muž.
+K incidentu došlo v Ballyhackamore, uvedla policie.
+Očekává se, že obžalovaný se v pondělí objeví před soudem Belfastského magistrátu.
+Obvinění budou přezkoumána státním zastupitelstvím.
+Hvězda Hry o trůny Kit Harington udeřil na toxickou mužnost
+Kit Harington je známý pro svou roli houpajícího se mečem jako Jon Sníh v násilném středověkém fantasy seriálu HBO Hra o trůny.
+Ale herec, 31, udeřil na stereotyp macho hrdiny a řekl, že takové role na obrazovce znamenají, že mladí chlapci často mají pocit, že musí být těžké, aby byli respektováni.
+V rozhovoru pro The Sunday Times Culture Kit řekl, že věří, že se "něco pokazilo" a zpochybnil, jak se vypořádat s problémem toxické maskulinity v éře #MeToo.
+Kit, který se nedávno oženil se svou hvězdou Hry o trůny Rose Leslie, také 31, připustil, že se cítí "docela silně" při řešení tohoto problému.
+"Cítím se osobně, docela silně, v tuto chvíli - kde jsme se pokazili s mužností?" řekl.
+"Co jsme učili muže, když vyrůstali, pokud jde o problém, který vidíme teď?"
+Kit věří, že televize může být částečně zodpovědná za nárůst toxické maskulinity díky svým velmi mužským postavám.
 Pokračoval: „Co je vrozené a co se učí?
-Co se učí v televizi a v ulicích, že mladí chlapci cítí, že musí být taková, že jsou mužem?
-Myslím, že to je opravdu jedna z velkých otázek v naší době – jak to změníme?
-Protože pro mladé muže se očividně něco pokazilo.“
-V rozhovoru také přiznal, že nebude dělat žádné prequely nebo pokračování Hry o trůny, až se seriál příští léto docílí skončí, a řekl, že je „vystřižen s bojištěmi a koní“.
-Od listopadu si Kit zahrání v revivalu Sama Sheparda True West, který je příběhem filmového producenta a jeho bratra, který je lupičem.
-Herec nedávno prozradil, že považuje setkání se svou ženou Rose za nejlepší věc, která vzejde ze Hry o trůny.
-„Svou ženu jsem potkal v tomto představení, takže mi to tak dalo mou budoucí rodinu a odteď svůj život,“ řekl.
-Rose si zahrála Ygritte, milostný zájem postavy Jona Sněha od Kita, v fantasy seriálu, který získal cenu Emmy.
-Pár se vzal v červnu 2018 na pozemku Lesliina rodinného sídla ve Skotsku.
-HIV/Aids: Čína hlásí v nových případech nárůst o 14%
-Čína oznámila, že počet jejích občanů, kteří žijí s HIV a AIDS, zvýšil o 14% vyšší počet.
-V zemi je postiženo více než 820 000 lidí, tvrdí zdravotníci.
-Jen ve druhém čtvrtletí roku 2018 bylo nahlášeno asi 40 000 nových případů.
-Drtivá většina nových případů byla přenášena prostřednictvím pohlaví, což znamenalo změnu oproti minulosti.
-HIV se tradičně v některých částech Číny rychle šíří v důsledku infikovaných krevních transfuzí.
-Počet lidí, kteří se takto nakazili virem HIV, se však snížil na téměř nulu, uvedli čínští zdravotníci na konferenci v provincii Jün-nün-nün-nót.
-Meziročně se však počet osob žijících v Číně s HIV a AIDS zvýšil o 100 000 lidí.
-Vysílání HIV prostřednictvím sexu je v čínské LGBT komunitě akutní problém.
-Homosexualita byla v Číně dekriminalizována v roce 1997, ale diskriminace LGBT osob je prý na hojnosti.
-Vzhledem ke konzervativním hodnotám v zemi se studie odhadují, že 70-90% mužů, kteří mají sex s muži, si nakonec vezme ženy.
+Co se učí v televizi a na ulici, to způsobuje, že mladí chlapci cítí, že musí být touto jistou stranou toho, že jsou mužem?
+Myslím, že je to opravdu jedna z velkých otázek v naší době - jak to změníme?
+Protože je zřejmé, že se pro mladé muže něco pokazilo.“
+V rozhovoru také přiznal, že by nedělal žádné prequely Game of Thrones nebo pokračování, když seriál skončí příští léto, a řekl, že je "skončeno s bojišti a koňmi".
+Od listopadu bude Kit hrát v revivalu Sama Sheparda's True West, což je příběh filmového producenta a jeho bratra, který je lupič.
+Herec nedávno odhalil, že považuje setkání se svou ženou Rose za nejlepší věc, která vzešla ze Hry o trůny.
+"Setkal jsem se se svou ženou v této show, takže tak mi to dalo mou budoucí rodinu a můj život odsud odtažit dovnitř," řekl.
+Rose hrála Ygritte, milostný zájem Kitovy postavy Jona Sna, ve fantasy seriálu o ceny Emmy.
+Pár se oženil v červnu 2018 z důvodu Leslieho rodinného majetku ve Skotsku.
+HIV/Pomoci: Čína hlásí 14% nárůst nových případů
+Čína oznámila 14% nárůst počtu svých občanů, kteří žijí s HIV a AIDS.
+V zemi je postiženo více než 820 000 lidí, říkají zdravotničtí činitelé.
+Jen ve druhém čtvrtletí roku 2018 bylo hlášeno asi 40 000 nových případů.
+Drtivá většina nových případů byla přenášena prostřednictvím sexu, což znamenalo změnu z minulosti.
+Tradičně se HIV rychle šíří v některých částech Číny v důsledku infikovaných krevních transfuzí.
+Ale počet lidí nakažených virem HIV tímto způsobem byl snížen na téměř nulu, uvedli čínští zdravotničtí činitelé na konferenci v provincii Yunnan.
+Meziročně se však počet lidí žijících s HIV a AIDS v Číně zvýšil o 100 000 lidí.
+Přenos HIV prostřednictvím sexu je akutním problémem v čínské LGBT komunitě.
+Homosexualita byla v Číně dekriminalizována v roce 1997, ale diskriminace LGBT lidí je prý rozšířená.
+Vzhledem k konzervativním hodnotám země studie odhadují, že 70-90% mužů, kteří mají sex s muži, se nakonec ožení se ženami.
 Mnoho přenosů nemocí pochází z nedostatečné sexuální ochrany v těchto vztazích.
-Od roku 2003 čínská vláda slibuje všeobecný přístup k lékům proti HIV jako součást snahy o řešení tohoto problému.
-Maxine Watersová popírá, že by štáb zveřejnil údaje senátorů senáristů, kritizuje „nebezpečné lži“ a „konspirační teorie“
-USA. Rep. Maxine Watersová v sobotu odsoudila obvinění, že členka jejího štábu zveřejnila osobní informace tří republikánských amerických senátorů na stránky zákonodárců na Wikipedii.
-Demokrat z Los Angeles tvrdil, že se o tato tvrzení přihlásilo „ultra-pravicové“ experti a webové stránky.
-„Lži, lži a opovrženíhodnější lži,“ uvedl Waters v prohlášení na Twitteru.
-Zveřejněné informace údajně zahrnovaly adresy domů a telefonní čísla pro USA. Senáristé. Lindsey Graham z Jižní Karolíny a Mike Lee a Orrin Hatch, oba z Utahu.
-Informace se objevily na internetu ve čtvrtek, zveřejněné neznámou osobou na Capitol Hill během slyšení senátní komise o obvinění ze sexuálního zneužití proti kandidátu do Nejvyššího soudu proti kandidátu do Nejvyššího soudu Brettu Kavanaughovi.
-Únik informací se objevil někdy poté, co tři senátoři vyslechli Kavanaugha.
-Konzervativní stránky jako Gateway Pundit a RedState oznámily, že IP adresa, která identifikuje zdroj pracovních míst, byla spojena s Watersovou kanceláří a zveřejnila informace o zaměstnancech člena Watersových, uvedl list The Hill.
-„Toto nepodložené tvrzení je zcela nepravdivé a absolutní lež,“ pokračoval Waters.
-„Zaměstnanec mého štábu – jehož totožnost, osobní údaje a bezpečnost byly ohroženy v důsledku těchto podvodných a falešných obvinění – nebyl v žádném případě zodpovědný za únik těchto informací.
-Toto neopodstatněné tvrzení je zcela nepravdivé a je to naprostá lež.“
-Watersovo prohlášení rychle vyvolalo na internetu kritiku, včetně bývalého tiskového mluvčího Bílého domu Ariho Fleischera.
-„To popírání je rozzlobené,“ napsal Fleischer.
-„To naznačuje, že nemá točit jako členka Kongresu.
+Od roku 2003 čínská vláda přislíbila univerzální přístup k lékům proti HIV v rámci úsilí o řešení tohoto problému.
+Maxine Waters popírá zaměstnance unikly údaje GOP senátorů, výbuchy „nebezpečné lži“ a „konspirační teorie“
+USA. Rep. Maxine Waters v sobotu odsoudila obvinění, že členka jejího personálu zveřejnila osobní informace tří republikánských amerických senátorů na stránky zákonodárců na Wikipedii.
+Losangeleský demokrat tvrdil, že tato tvrzení byla šlapala „ultra-pravo-křídlo“ učenci a webovými stránkami.
+"Lež, lži a opovrženíhodnější lži," uvedl Waters v prohlášení na Twitteru.
+Zveřejněné informace údajně zahrnovaly adresy domů a telefonní čísla pro USA. Sens. Lindsey Graham z Jižní Karolíny a Mike Lee a Orrin Hatch, oba z Utahu.
+Informace se objevila on-line ve čtvrtek, zveřejněná neznámou osobou na Capitol Hill během slyšení senátního panelu o obviněních ze sexuálního pochybení proti kandidátovi Nejvyššího soudu Brettu Kavanaughovi.
+Únik přišel někdy poté, co tři senátoři vyslýchali Kavanaugha.
+Konzervativní weby, jako je Gateway Pundit a RedState, uvedly, že IP adresa, která identifikuje zdroj příspěvků, byla spojena s Watersovou kanceláří a zveřejnila informace člena personálu Waters, informoval deník The Hill.
+"Toto nepodložené obvinění je zcela nepravdivé a absolutní lež," pokračoval Waters.
+"Člen mých zaměstnanců - jehož totožnost, osobní informace a bezpečnost byly ohroženy v důsledku těchto podvodných a falešných obvinění - nebyl v žádném případě zodpovědný za únik těchto informací.
+Toto nepodložené obvinění je zcela nepravdivé a absolutní lež.
+Watersovo prohlášení rychle vyvolalo kritiku online, včetně bývalého tiskového mluvčího Bílého domu Ariho Fleischera.
+"Toto popření je rozzlobené," napsal Fleischer.
+"To naznačuje, že nemá to utrpení být členem Kongresu.
 Když je někdo obviněn z něčeho, co neudělal, nesmí se zlobit.
-Nesmí být vzdorovití.
+- Nesmí být vzdorovití.
 Nesmí zpochybňovat motivy žalobce.
 Musí být klidní a klidní.“
-Fleischer podle všeho přirovnal Watersovu reakci na kritiku demokratů na soudce Kavanaugha, kterého kritici obvinili z toho, že se během čtvrtečního slyšení jevil příliš rozzlobený.
-Omar Navarro, republikánský kandidát, který se ve volbách do Kongresu uvalil na Watersova seskoku, také vyjádřil své myšlenky na Twitteru.
-„Velké, je to pravda,“ tweetoval.
-Watersová ve svém prohlášení uvedla, že její úřad upozornil „příležitné orgány a donucovací orgány na tyto podvodné nároky.
-„Zajistíme, aby pachatelé byli odhaleni,“ pokračovala, „a že budou činěni právně odpovědní za všechny své činy, které jsou ničitelné a nebezpečné pro všechny členy mého personálu.“
-Johnny English zasáhl opět recenzi – podmanil Rowan Atkinson špionážní spoof
-Je to tradiční nyní hledat význam brexitu v každém novém filmu s britským sklonem a to se zdá být použitelné na toto oživení Johnnyho anglického akčního komedie ve spanech – která začala v roce 2003 s Johnnym Englishem a v roce 2011 se s Johnnym Anglem znovuzrozeným vrátila k životu.
-Bude sebemrstej samopařit v otázce toho, jak jsme očividně odpadem, že jsme novou národní exportní příležitostí?
-V každém případě si popíjovitý, gumový neschopný Johnny English má svůj řidičák na kohoutí už podruhé obnovený – to jméno jeho signalizující víc než cokoliv jiného, že je to široká komiksová kreace určená pro neanglicky mluvící cinagoing teritoria.
-Je to samozřejmě hloupý tajný agent, který má navzdory bizarním předstírání, že má kouzlo smoothie trochu Clouseau, špetka pana Beana a hromadu toho chlapíka, který na zahajovacím ceremoniálu olympiády v Londýně 2012 přispěl jedinou notou do melodie z Ohnivých sil.
-Také je původně založen na cestujícím a mezinárodním záhadném atkinsonovi, který kdysi hrál v nyní zapomenutých televizních reklamách Barclaycard a zanechává za sebou chaos.
-Na tomto posledním JE výletu je jeden nebo dva pěkné momenty.
-Miloval jsem Johnnyho Englera, jak se blíží k helikoptéře, oblečený ve středověkém zbroji a listiny rotoru krátce řinčících proti jeho helmě.
-Atkinsonův dar fyzické komedie je na odiv, ale humor působí dost podmaněně a podivně nadbytečným, zejména proto, že „seriózní“ filmové značky jako 007 a Mission Impossible samy nyní sebevědomě nabízejí komedii jako přísady.
-Humor mi připadá, jako by byl spíše na děti než na dospělé, a pro mě jsou praštěná neštěstí Johnnyho Englise tak vynalézavé a soustředěné jako Atkinsonovy muziky gagy v osobnosti Fazolek.
-V trvale aktuální premisou je, že Velká Británie má vážné potíže.
-Kybernetický útočník infiltroval britskou supertajnou webovou síť špionů a odhalil totožnost všech britských agentů v terénu ke zděšení agenta ve službě – což je bohužel malá role pro Kevina Eldona.
-Je to poslední kapka pro premiéra, který je pompézní a zaujatí postavou, už teď se úplně zhroutí politická neoblíbenost: Emma Thompsonová dělá, co může s touto postavou kvazi-Teresa-May, ale ve scénáři není nic moc na práci.
-Její zpravodajští poradci ji informují, že až bude každý aktivní špion zkompromitován, bude muset někoho dostat z důchodu.
-A to znamená brzdit samotného Johnnyho Englera, který je nyní zaměstnán jako učitel v nějakém nóbl podniku, ale vydávat lekce, jak být v utajení agent: tady nějaké pěkné gagy, protože angličtina nabízí akademii špionáže School of Rock.
-Angličtina je odvezena zpět do Whitehallu na mimořádnou poradu a znovu sešla se svým bývalým dlouho trpělým parťákem Boughem, kterého znovu zahrál Ben Miller.
-Bough je teď ženatý muž, připoutaný k veliteli ponorky, role žlučových hokejků, v níž je Vicki Pepperdineová trochu oplzlá.
-A tak Batman a Robin, že se věci na Tajné službě Jejího Veličenstva strašně mýlí, jsou opět v akci a setkají se s krásnou femme fatale Opheli Bulletovou od Olgy Kurylenkové.
-Mezitím se premiér nebezpečně zapadá pod kouzlem charismatického technologického miliardáře, který tvrdí, že dokáže vyřešit britské počítačové strasti: zlověstného Jasona Volty, kterého hraje Jake Lacy.
-Anglicky a Bough začínají svou odysey fraškovitých výškově: maskovaní jako číšníci, zapalují flash francouzskou restauraci; vytvářejí zmatek, kteří se pašují na luxusní jachtě Volty; a anglicky spouští čistou anarchii, když se pokouší použít headset Virtual Reality, aby se seznámil s vnitřkem Voltyina domu.
-Všechny zastávky jsou jistě staženy pro poslední sekvenci, ale jakkoli je to přívětivé a bouřlivé, o tom je docela dětská televize.
-Dost umírněný materiál.
-A stejně jako u dalších Johnnyho anglických filmů jsem se nemohl ubránit myšlence: nemůže britský filmový průmysl dát Rowanu Atkinsonovi roli, která skutečně dělá spravedlnost jeho talentu?
-Labouristé popírá, že by Brity vymýšleli plán pracovat čtyřdenní týden, ale byli placeni na pět dní.
-Labouristická strana Jeremyho Corbyna má zvážit radikální plán, ve kterém budou Britové pracovat čtyřdenního týdne – ale dostat zaplaceno za pět.
-Strana údajně chce, aby šéfové společností předali úsporám dosažených prostřednictvím revoluce umělé inteligence (AI) na zaměstnance tím, že jim dali den volna navíc.
-Zaměstnanci by si užili třídenní víkend – ale přesto si domů odnesli stejný plat.
-Zdroje uvedly, že tato myšlenka bude „splněna“ s ekonomickou agendou strany a plánuje naklonit zemi ve prospěch pracujících.
-Přesun na čtyřdenní týden byl schválen Kongresem odborové unie jako způsob, jak mohou dělníci využít měnící se ekonomiky.
-Vysoce postavený zdroj z Labouristické strany řekl listu The Sunday Times: „Očekává se, že do konce roku bude oznámen přezkum politiky.
-„Neskuteční se to přes noc, ale čtyřdenní pracovní týden je aspirace, která zapadá do přístupu strany k obnovení rovnováhy ekonomiky ve prospěch dělníka i celkové průmyslové strategie strany.“
-Labouristická strana by takovou myšlenku nepodpořila jako první, kdy by se Strana zelených zavázala během své předvolební kampaně v roce 2017 čtyřdenní pracovní týden.
-Aspirace však v současné době není podporována Labouristickou stranou jako celkem.
-Mluvčí Labouristické strany řekl: „Čtyřdenní pracovní týden není stranickou politikou a nezvažuje ji strana.“
-Stínový kancléř John McDonnell využil minulý týden labouristickou konferenci k tomu, aby zhmotnil svou vizi socialistické revoluce v ekonomice.
-Pan McDonnell řekl, že je odhodlán získat zpět moc od „režisérů bez tváře“ a „profitezů“ ve veřejných službách.
-Plány stínového kancléře také znamenají, že současní akcionáři vodárenských společností nemusí získat zpět celý svůj podíl, protože labouristická vláda by mohla „odpočet“ provést „odpočet“ na základě domnělého provinění.
-Potvrdil také plány na dosazení pracovníků do představenstev společností a vytvoření fondů pro vlastnictví společnosti Inclusive, které by předaly 10 procent vlastního kapitálu soukromých firem zaměstnancům, kteří si mohou přivlastnit roční dividendy ve výši až 500 liber.
-Lindsey Graham, John Kennedy řekl „60 minut“, zda by vyšetřování FBI s Kavanaughem mohlo změnit jejich názor
-Vyšetřování FBI ohledně obvinění proti soudci Brettu Kavanaughovi odložilo konečné hlasování o jeho nominaci k Nejvyššímu soudu nejméně o týden a vyvolává otázku, zda by zjištění úřadu mohla ovlivnit republikánské senátory, aby stáhli svou podporu.
-V nedělním rozhovoru, který se vysílal, se korespondent „60 minut“ Scott Pelley zeptal republikánů Sens. John Kennedy a Lindsey Graham, zda FBI může odhalit něco, co by je vedlo ke změně názoru.
+Zdálo se, že Fleischer porovnává Watersovu reakci na kritiku demokratů soudce Kavanaugha, který byl obviněn kritiky, že se během čtvrtečního slyšení zdál příliš rozzlobený.
+Omar Navarro, republikánský kandidát, který kandiduje na sesazení Waterse ve střednědobých volbách, také vyjádřil své myšlenky na Twitteru.
+"Velké, pokud je to pravda," tweetoval.
+Ve svém prohlášení Watersová uvedla, že její kancelář upozornila "příslušné orgány a orgány činné v trestním řízení na tyto podvodné nároky.
+"Zajistíme, že pachatelé budou odhaleni," pokračovala, "a že budou právně zodpovědní za všechny své činy, které jsou nezničitelné a nebezpečné pro všechny členy mého personálu."
+Johnny English Strikes Again recenze - poddimenzovaný Rowan Atkinson špionážní spoof
+Je to tradiční nyní hledat Brexit významy v každém novém filmu s britským sklonem a to se zdá být použitelné pro toto oživení Johnny English akční komedie spoof franšízy - která začala v roce 2003 s Johnny English a prsa zpět k životu v roce 2011 s Johnny English Reborn.
+Bude jazyk-in-tváře self-satire na téma, jak zjevně odpad jsme my, že jsme nové exportní příležitosti národa?
+V každém případě, pop-eyed, gumový nekompetentní Johnny English měl jeho licenci na kohout věci na kohout po druhém - to jméno jeho signalizace více než cokoli jiného, že je to široký komický výtvor určený pro non-anglicky mluvící kinematografická území.
+On je samozřejmě hloupý tajný agent, který navzdory jeho bizarním nárokům na smoothie glamour má trochu Clouseau, pomlčka pana Beana a dollop tohoto chlapíka, který přispívá jedinou poznámkou k tematické melodii Chariots of Fire na zahajovacím ceremoniálu olympijských her v Londýně 2012.
+On je také původně založen na cestovateli a mezinárodní muž tajemství Atkinson kdysi hrál v nyní zapomenutých Barclaycard televizních reklam, takže chaos v jeho následku.
+V tomto posledním výletu je jeden nebo dva pěkné momenty.
+Miloval jsem Johnnyho Englishe, který se blížil k helikoptéře, když byl oblečen ve středověkém obleku brnění a rotorové lopatky krátce se mu klaněly o helmě.
+Atkinsonův dar pro fyzickou komedii je na displeji, ale humor se cítí docela poddimenzovaný a podivně nadbytečný, zvláště jako "závažné" filmové značky jako 007 a Mission Imposible samy nyní sebevědomě nabízejí komedii jako přísadu.
+Humor se cítí, jako by byl nasazen na děti spíše než na dospělé, a pro mě Johnny Englishovy bláznivé neštěstí nejsou tak vynalézaví a soustředěné jako Atkinsonovy tiché filmové gagy v osobnosti Bean.
+Trvale aktuální premisa nyní je, že Velká Británie je ve vážných potížích.
+Kybernetický hacker infiltroval britskou supertajnou webovou síť špionů, odhalil identitu všech britských agentů v terénu, ke zděšení agenta ve službě - bohužel malá role pro Kevina Eldona.
+Je to poslední kapka pro premiéra, který je pompézní a vyřčená postava, která již utrpěla úplné zhroucení politické neoblíbenosti: Emma Thompson dělá to nejlepší s tímto kvazi-Teresa-May charakterem, ale ve scénáři není nic moc, se kterým by bylo možné pracovat.
+Její zpravodajští poradci ji informují, že jako každý aktivní špion byl kompromitován, bude muset někoho přivést z důchodu.
+A to znamená nebouření sám Johnny English, nyní zaměstnaný jako učitel v nějakém nóbl establishmentu, ale dává mimo záznam lekce v tom, jak být tajným agentem: některé pěkné gags zde, jako angličtina nabízí School of Rock-typ akademie špionáže.
+Angličtina je odvezena zpět do Whitehallu na pohotovostní briefing a znovu se setkala se svým bývalým dlouho trpícím pomocníkem Boughem, který hrál znovu Ben Miller.
+Bough je nyní ženatý muž, připevněný k veliteli ponorky, jolly-hockey-sticks roli, ve které je Vicki Pepperdine trochu promarněna.
+Takže Batman a Robin, že se v tajné službě Jejího Veličenstva mýlí, jsou opět v akci a setkávají se s krásnou feme osudovou Ophelinou Buletovou.
+Mezitím premiér nebezpečně padá pod kouzlo charismatického technologického miliardáře, který tvrdí, že může vyřešit britské počítačové strasti: zlověstný Jason Volta, kterého hraje Jake Lacy.
+Angličtina a Bough začínají svou odyseu fračálků high-jinks: maskovaný jako číšníci, zapálili bleskovou francouzskou restauraci; vytvořili chaos pašování sebe na palubě luxusní jachty Volta; a angličtina spouští čistou anarchii, když se pokouší použít náhlavní soupravu pro virtuální realitu, aby se seznámil s interiérem Voltova domu.
+Všechny zastávky jsou určitě vytaženy pro tuto poslední sekvenci, ale i když je to přívětivé a bouřlivé, je tu docela dost dětské televize o celé věci.
+Pěkně umírněné věci.
+A stejně jako u ostatních filmů Johnnyho English jsem se nemohl ubránit myšlení: nemůže britský filmový průmysl dát Rowanovi Atkinsonovi roli, která opravdu dělá spravedlnost jeho talentu?
+Labouristická strana popírá, že by vypracovala plán pro Brity, aby pracovali na čtyřdenním týdnu, ale byli placeni po dobu pěti dnů.
+Labouristická strana Jeremyho Corbyna má zvážit radikální plán, který uvidí Brity pracovat čtyřdenní týden - ale dostanou zaplaceno za pět.
+Strana údajně chce, aby šéfové společností předali úspory dosažené prostřednictvím revoluce umělé inteligence (AI) pracovníkům tím, že jim dají další den volna.
+To by znamenalo, že zaměstnanci si uživnou třídenní víkend - ale stále si domů odnesou stejný plat.
+Zdroje uvedly, že myšlenka by se "zapadala" do ekonomické agendy strany a plánuje naklonit zemi ve prospěch pracovníků.
+Přesun na čtyřdenní týden byl schválen Kongresem odborů jako způsob, jak mohou pracovníci využít měnící se ekonomiku.
+Vysoce postavený zdroj z Labouristické strany řekl The Sunday Times: „Očekává se, že přezkum politiky bude oznámen do konce roku.
+"Nedojde to přes noc, ale čtyřdenní pracovní týden je aspirací, která zapadá do přístupu strany k rebalancování ekonomiky ve prospěch pracovníka, stejně jako celkové průmyslové strategie strany."
+Labouristická strana by nebyla první, kdo by takový nápad podpořil, přičemž Strana zelených slíbila čtyřdenní pracovní týden během své všeobecné volební kampaně v roce 2017.
+Aspirace v současné době není podporována Labouristickou stranou jako celkem.
+Mluvčí Labouristické strany řekl: "Čtyřdenní pracovní týden není stranickou politikou a strana ji nezvažuje."
+Stínový kancléř John McDonnell použil minulý týden labouristickou konferenci, aby zhmotnil svou vizi socialistické revoluce v ekonomice.
+Pan McDonnell řekl, že je odhodlán získat zpět moc od "beztvarých ředitelů" a "zisků" v inženýrských firmách.
+Plány stínové kancléřky také znamenají, že současní akcionáři ve vodárenských společnostech nemusí získat zpět celý svůj podíl, protože labouristická vláda by mohla udělat "odpočet" na základě vnímaného provinění.
+Potvrdil také plány dát pracovníky do správních rad společností a vytvořit Inkluzivní vlastník fondů, aby předali 10 procent vlastního kapitálu soukromých firem zaměstnancům, kteří stojí s kapesními ročními dividendami až do výše 500 liber.
+Lindsey Graham, John Kennedy, řekněte "60 minut", zda vyšetřování FBI o Kavanaughovi může změnit názor.
+Vyšetřování FBI ohledně obvinění proti soudci Brettu Kavanaughovi odložilo konečné hlasování o jeho nominaci do Nejvyššího soudu nejméně o týden a vyvolává otázku, zda by zjištění úřadu mohla ovlivnit jakékoli republikánské senátory, aby si stáhli svou podporu.
+V rozhovoru, který se vysílal v neděli, korespondent "60 minut" Scott Pelley požádal republikánské senátory. John Kennedy a Lindsey Graham, zda by FBI mohla odkrýt něco, co by je vedlo k tomu, aby změnili názor.
 Kennedy vypadal otevřenější než jeho kolega z Jižní Karolíny.
-„Myslím to samozřejmě,“ řekla Kennedyová.
-„Řekl jsem, že když jdu na slyšení, řekl jsem, mluvil jsem se soudcem Kavanaughem.
-Volal jsem mu po tom, co se to stalo, to obvinění vyšlo najevo a řekl: „Udělal jsi to?“
+"Myslím to samozřejmě," řekl Kennedy.
+"Řekl jsem, že jdu na slyšení, řekl jsem, že jsem mluvil se soudcem Kavanaughem.
+Zavolal jsem mu, když se to stalo, toto obvinění vyšlo najevo a řekl: "Udělali jste to?"
 Byl rozhodný, odhodlaný, jednoznačný.“
-Grahamův hlas se však zdá být v kameni.
-„Moje mysl se rozhodla o Brettu Kavanaughovi a vyžadovalo by to obvinění z dynamitu,“ řekl.
-„Doktor. Forde, nevím, co se stalo, ale vím tohle: Brett to velešně popřel,“ dodal Graham s odkazem na Christine Blaseyovou Fordovou.
-„A všichni, které jmenují, to nemohli ověřit.
-Je to 36 let.
-Nevidím nic nového, co by se změnilo.“
-Co je to Global Citizen Festival a udělal to There to Decrease Poverty?
-Tuto sobotu bude New York hostit Global Citizen Festival, každoroční hudební akci, která má nesmírně působivou řadu hvězd a stejně působivou misi; ukončí světovou chudobu.
-Již sedmým rokem se na Globálním občanském festivalu hrnou do Great Lawn v Central Parku, aby si nejen užili vystoupení jako Janet Jackson, Cardi B a Shawn Mendes, ale také zvýšit povědomí o skutečném cíli akce ukončit extrémní chudobu do roku 2030.
-Global Citizen Festival, který v roce 2012 prohlásil, že je prodloužením projektu Global Poverty Project, mezinárodní organizace prosazující chudobu, která doufá, že se utvoří chudobou tím, že se proti ní aktivně bojuje.
-Aby účastníci koncertu dostali na akci lístek zdarma (dokud nebyl ochoten zaplatit VIP vstupenku), museli návštěvníci koncertu dokončit řadu úkolů nebo „činout“ takové dobrovolnictví, poslat e-mail světového lídra, telefonovat nebo jiné smysluplné způsoby, jak pomoci zvýšit povědomí o jejich cíli skoncovat s chudobou.
-Ale jak úspěšní je Global Citizen s 12 lety do konce svého cíle?
-Je představa odměňování lidí koncertem zdarma skutečným způsobem, jak přesvědčit lidi, aby požadovali výzvu k akci, nebo jen další případ tzv. „klikněteč“ – lidé s pocitem, že dělají skutečný rozdíl tím, že podepisují online petici nebo zasláním tweetu?
-Od roku 2011 společnost Global Citizen uvádí, že od svých příznivců zaznamenala více než 19 milionů „akcí“ a prosazuje řadu různých cílů.
-Píše se v ní, že tyto kroky pomohly podnítit světové lídry k ohlášení závazků a politik, které budou odpovídat více než 37 miliardám dolarů, které mají do roku 2030 ovlivnit životy více než 2,25 miliardy lidí.
-Na začátku roku 2018 skupina uvedla 390 závazků a oznámení vyplývající z jejích akcí, z nichž nejméně 10 miliard dolarů již bylo vyplaceno nebo financováno.
-Skupina odhaduje, že zajištěné fondy mají dosud přímý dopad na téměř 649 milionů lidí na celém světě.
-Některé z klíčových závazků jsou The Power of Nutrition, partnerství investorů a realizujících podniků založeného na Velké Británii, kteří se zavázali „pomáhat dětem doroste naplno a plně se jim zlepší“, a slibují, že Rwandě poskytnou 35 milionů dolarů na pomoc při ukončení podvýživy v kraji poté, co obdrží více než 4 700 tweetů od Global Citizens.
-„S podporou britské vlády, dárců, národních vlád a Global Citizens stejně jako vy, můžeme z sociální nespravedlnosti podvýživy v historii udělat poznámku podvýživu,“ řekla davu velvyslankyně Síla výživy Tracey Ullmanová během živého koncertu v Londýně v dubnu 2018.
-Skupina také uvedla, že poté, co bylo přijato více než 5000 kroků, které vyzývají Velké Británie ke zlepšení výživy pro matky a děti, oznámila vláda financování projektu, Power of Nutrition, který se dostane k 5 milionům žen a dětí s nutričními intervencemi.
-V reakci na jednu z často dotazovaných na svých internetových stránkách se ptá, „co vás vede k závěru, že můžeme skoncovat s extrémní chudobou?“
-Globální občan odpověděl: „Bude to dlouhá a tvrdá cesta – někdy padneme a selžeme.
-Ale stejně jako velká občanská práva a hnutí proti apartheidu, uspějeme, protože jsme spolu mocnější.
-Janet Jackson, The Weeknd, Shawn Mendes, Cardi B, Janelle Monáe jsou mezi jedněmi z vystoupení na letošním ročníku New Yorku, které budou hostit Deborra-Lee Furnessová a Hugh Jackman.
-USA by mohly použít námořnictvo jako „blokáda“ k brzdění ruského vývozu energie – ministr vnitra
-Washington se může „v případě potřeby“ uchýlit ke svému námořnictvu, aby se zabránilo ruské energii zasáhnout trhy, a to i na Blízkém východě, jak odhalil americký interní tajemník Ryan Zinke, jak uvedl Washington Examiner.
-Zinke tvrdil, že angažmá Ruska v Sýrii – zejména tam, kde působí na pozvání legitimní vlády – je záminkou k prozkoumání nových energetických trhů.
-„Domnívám se, že důvodem, proč jsou na Blízkém východě, je to, že chtějí zprostředkovat energii stejně jako ve východní Evropě, v jižním břišním břišním Yorku,“ řekl údajně.
-A podle úředníka existují způsoby a prostředky, jak to řešit.
-„Spojené státy mají s námořnictvem schopnost zajistit, aby byly mořské cesty otevřené, a v případě potřeby zablokovat, aby se ujistily, že jejich energie nešla na trh,“ řekl.
-Zinke se obracel na účastníky akce pořádané organizací Consumer Energy Alliance, neziskovou skupinou, která se stylizuje jako „hlas spotřebiteli energie“ v USA.
-Šel porovnat přístupy Washingtonu k jednání s Ruskem a Íránem a poznamenal, že jsou ve skutečnosti stejné.
-„Ekonomickou možností pro Írán a Rusko je víceméně pákový a nahrazující paliva,“ řekl a zároveň o Rusku mluvil jako o „jediném poníkovi“ s ekonomikou závislou na fosilních palivech.
-Prohlášení přicházejí ve chvíli, kdy Trumpova administrativa vede k posílení vývozu zkapalněného zemního plynu do Evropy a nahrazuje Rusko, což je pro evropské spotřebitele mnohem levnější možnost.
-Za tento efekt se představitelé Trumpovy administrativy, včetně samotného amerického prezidenta Donalda Trumpa, snaží přesvědčit Německo, aby se stáhlo z „nevhodného“ projektu plynovodu Nordream 2, který podle Trumpa učinil berlínskou Moskvu „zajatcem“.
-Moskva opakovaně zdůraznila, že plynovod Nord Stream 2 v hodnotě 11 miliard dolarů, který má zdvojnásobit stávající kapacitu plynovodu na 110 miliard krychlových metrů, je čistě ekonomickým projektem.
-Kreml tvrdí, že zanícený odpor Washingtonu vůči projektu je jednoduše veden ekonomickými důvody a je příkladem nekalé konkurence.
-„Domnívám se, že sdílíme názor, že energetika nemůže být nástrojem k vyvíjení tlaku a že spotřebitelé by měli mít možnost vybrat dodavatele,“ řekl ruský ministr energetiky Aleksandr Novak po zářijovém setkání s americkým ministrem energetiky Richem Perrym v Moskvě.
-Americký postoj vyvolal odpor Německa, které znovu potvrdilo svůj závazek k projektu.
-Přední německá průmyslová organizace, Federace německého průmyslu (BDI), vyzvala USA, aby se držely dál od energetické politiky EU a bilaterálních dohod mezi Berlínem a Moskvou.
-„Mám velký problém, když třetí stát zasáhne naše dodávky energie,“ řekl Dieter Kempf, šéf Federace německého průmyslu (BDI) po nedávném setkání německé kancléřky Angely Merkelové s ruským prezidentem Vladimirem Putinem.
-Elizabeth Warrenová se bude „Hard Look“ na kandidaturu na prezidenta v roce 2020, Massachusetts Senátor Says
-Massachusettská senátorka Elizabeth Warrenová v sobotu prohlásila, že se po volbách do Kongresu „tvrdě dívá“ na kandidaturu na prezidentku.
-Během radnice v Holyoke v Massachusetts Warrenová potvrdila, že zváží kandidaturu.
-„Je na čase, aby ženy odjely do Washingtonu a napravily naši rozvrácenou vládu, a to včetně ženy na vrcholu,“ řekla podle The Hill.
-„Po 6. listopadu se budu tvrdě dívat na kandidaturu na prezidenta.“
-Warren se během radnice zapojil do prezidenta Donalda Trumpa a prohlásil, že „už tento okres vede špatným směrem.
-„Dělám si starosti s tím, co Donald Trump dělá s naší demokracií,“ řekla.
-Warrenová otevřeně kritizovala Trumpa a kandidáta do Nejvyššího soudu Bretta Kavanaugha.
-V pátečním tweetu Warren uvedl, že „je samozřejmě potřebujeme vyšetřování FBI před hlasováním“.
+Grahamův hlas se však zdá být vytesán do kamene.
+"Moje mysl se skládá z Bretta Kavanaugha a bude to trvat dynamitové obvinění," řekl.
+"Dr. Forde, nevím, co se stalo, ale já to vím: Brett to důrazně popřel,“ dodal Graham s odkazem na Christine Blasey Fordovou.
+"A každý, koho jmenuje, to nemohl ověřit.
+Je jí 36 let.
+Nevidím žádnou novou změnu.“
+Co je Global Citizen Festival a udělal něco pro snížení chudoby?
+Tuto sobotu bude New York hostit Global Citizen Festival, každoroční hudební událost, která má velmi působivou sestavu hvězd a stejně působivou misi; ukončení světové chudoby.
+Nyní ve svém sedmém roce uvidí Global Citizen Festival desítky tisíc lidí, kteří se hrnou do Great Lawn v Central Parku, aby si nejen užili akty, jako jsou Janet Jackson, Cardi B a Shawn Mendes, ale také aby zvýšily povědomí o skutečném cíli této události ukončit extrémní chudobu do roku 2030.
+Global Citizen Festival, který byl uveden v roce 2012, je rozšířením Globálního projektu chudoby, mezinárodní skupiny obhajující naději na ukončení chudoby tím, že zvýší počet lidí, kteří proti němu aktivně bojují.
+Aby mohli obdržet bezplatnou vstupenku na akci (pokud jste nebyli ochotni zaplatit za VIP vstupenku), museli účastníci koncertu dokončit řadu úkolů nebo "akce" takové dobrovolnictví, e-mail světu, telefonovat nebo jiným smysluplným způsobům, jak pomoci zvýšit povědomí o jejich cíli ukončit chudobu.
+Ale jak úspěšný byl Global Citizen s 12 lety zbývá k dosažení svého cíle?
+Je myšlenka odměňování lidí bezplatným koncertem skutečným způsobem, jak přesvědčit lidi, aby požadovali výzvu k akci, nebo jen další případ takzvaného "kliktivismu" - lidé mají pocit, že dělají skutečný rozdíl podpisem online petice nebo odesláním tweetu?
+Od roku 2011 společnost Global Citizen uvedla, že od svých příznivců zaznamenala více než 19 milionů „akcí“ a prosazuje řadu různých cílů.
+Uvádí, že tyto akce pomohly povzbudit světové lídry, aby oznámili závazky a politiky ve výši více než 37 miliard dolarů, které mají ovlivnit životy více než 2,25 miliardy lidí do roku 2030.
+Na začátku roku 2018 skupina citovala 390 závazků a oznámení vyplývajících z jejích akcí, z nichž nejméně 10 miliard již bylo vyplaceno nebo fundraizováno.
+Skupina odhaduje, že zajištěné finanční prostředky dosud měly přímý dopad na téměř 649 milionů lidí po celém světě.
+Mezi některé z klíčových závazků patří The Power of Nutrition, partnerství investorů a realizátorů založených na britském partnerství investorů a realizátorů, kteří se zavázali „pomoci dětem růst k jejich plnému potenciálu“, a slíbil, že poskytne Rwandě 35 milionů dolarů na pomoc při ukončení podvýživy v kraji poté, co obdržel více než 4700 tweetů od Global Citizens.
+"S podporou vlády Spojeného království, dárců, národních vlád a globálních občanů stejně jako vy můžeme učinit sociální nespravedlnost podvýživou poznámkou pod nohama v historii," řekla v dubnu 2018 v Londýně v exhibelátorka Síla výživy Tracey Ullmanová během živého koncertu v Londýně.
+Skupina také uvedla, že poté, co bylo přijato více než 5 000 opatření vyzývající Spojené království ke zlepšení výživy pro matky a děti, vláda oznámila financování projektu, The Power of Nutrition, který dosáhne 5 milionů žen a dětí s výživovými zásahy.
+V reakci na jeden z FAQ na svých webových stránkách s dotazem: "Co vás nutí myslet si, že můžeme ukončit extrémní chudobu?"
+Globální občan odpověděl: „Bude to dlouhá a těžká cesta – někdy padneme a selžeme.
+Ale stejně jako velká občanská práva a hnutí proti apartheidu před námi, uspějeme, protože jsme společně silnější.
+Janet Jackson, The Weeknd, Shawn Mendes, Cardi B, Janelle Monáe patří mezi některé z letošních akcí v New Yorku, které budou hostit Deborra-Lee Furness a Hugh Jackman.
+USA by mohly využít námořnictvo pro „blokádu“ k tomu, aby bránily ruskému vývozu energie – ministr vnitra
+Washington se může „pokud to bude nutné“ uchýlit ke svému námořnictvu, aby zabránil ruské energii zasáhnout trhy, včetně Blízkého východu, odhalil americký ministr vnitra Ryan Zinke, jak citoval Washington Examiner.
+Zinke tvrdil, že ruské angažmá v Sýrii – zejména tam, kde působí na pozvání legitimní vlády – je záminkou pro zkoumání nových energetických trhů.
+"Věřím, že důvodem, proč jsou na Blízkém východě, je, že chtějí zprostředkovat energii stejně jako ve východní Evropě, na jižním břiše Evropy," řekl.
+A podle úředníka existují způsoby a prostředky k tomu, jak se s tím vypořádat.
+"Spojené státy mají tuto schopnost, s naším námořnictvem, zajistit, aby byly mořské pruhy otevřené, a pokud to bylo nutné, blokáda, aby se ujistily, že jejich energie nepůjde na trh," řekl.
+Zinke se obrátil na účastníky akce pořádané Consumer Energy Alliance, neziskovou skupinou, která se stylizuje jako "hlas spotřebitele energie" v USA.
+Šel porovnat přístupy Washingtonu k jednání s Ruskem a Íránem a poznamenal, že jsou v podstatě stejné.
+"Ekonomickou možností vůči Íránu a Rusku je víceméně využívat a nahrazovat paliva," řekl, zatímco označil Rusko za "jeden trik poník" s ekonomikou závislou na fosilních palivech.
+Prohlášení přichází v době, kdy je Trumpova administrativa na misi zvýšit vývoz svého zkapalněného zemního plynu do Evropy, což nahradí Rusko, což je pro evropské spotřebitele mnohem levnější.
+Za tímto účelem se představitelé Trumpovy administrativy, včetně samotného amerického prezidenta Donalda Trumpa, snaží přesvědčit Německo, aby se stáhlo z „nevhodného“ projektu plynovodu Nord Stream 2, který podle Trumpa učinil z Berlína Moskva „zajatec“.
+Moskva opakovaně zdůraznila, že plynovod Nord Stream 2 ve výši 11 miliard dolarů, který má zdvojnásobit stávající kapacitu plynovodu na 110 miliard kubických metrů, je čistě ekonomickým projektem.
+Kreml tvrdí, že vroucí opozice Washingtonu vůči projektu je jednoduše poháněna ekonomickými důvody a je příkladem nekalé soutěže.
+"Věřím, že sdílíme názor, že energie nemůže být nástrojem k vyvíjení tlaku a že spotřebitelé by měli mít možnost vybrat si dodavatele," řekl ruský ministr energetiky Aleksandr Novak po setkání s americkým ministrem energetiky Rickem Perrym v Moskvě.
+Americký postoj vyvolal odpor od Německa, které znovu potvrdilo svůj závazek k projektu.
+Přední německá organizace pro průmysl, Federace německého průmyslu (BDI), vyzvala USA, aby se držely dál od energetické politiky EU a bilaterálních dohod mezi Berlínem a Moskvou.
+"Mám velký problém, když třetí stát zasahuje do našich dodávek energie," řekl Dieter Kempf, šéf Federace německého průmyslu (BDI) po nedávném setkání mezi německou kancléřkou Angelou Merkelovou a ruským prezidentem Vladimirem Putinem.
+Elizabeth Warrenová bude mít "Těžký pohled" na kandidaturu na prezidenta v roce 2020, říká senátor Massachusetts
+Senátorka za stát Massachusetts Elizabeth Warrenová v sobotu uvedla, že se bude "těžce podívat" na kandidaturu na prezidenta po volbách v polovině volebního období.
+Během radnice v Holyoke v Massachusetts Warrenová potvrdila, že by zvážila kandidaturu.
+"Je čas, aby ženy jely do Washingtonu a opravily naši rozbitou vládu, a to zahrnuje ženu na vrcholu," řekla.
+"Po 6. listopadu se budu tvrdě dívat na kandidaturu na prezidenta."
+Warren zvážil prezidenta Donalda Trumpa během radnice a řekl, že „vzal tento kraj špatným směrem.
+"Jsem znepokojena až do svých kostí o tom, co Donald Trump dělá s naší demokracií," řekla.
+Warren byl otevřený ve své kritice Trumpa a jeho kandidáta na Nejvyšší soud Bretta Kavanaugha.
+Ve svém pátečním tweetu Warren uvedl: "Samozřejmě, že před hlasováním potřebujeme vyšetřování FBI."
 Průzkum zveřejněný ve čtvrtek však ukázal, že většina Warrenových vlastních voličů si nemyslí, že by měla kandidovat v roce 2020.
-Padesát osm procent „pravděpodobných“ voličů z Massachusetts uvedlo, že senátor by neměl kandidovat, jak uvedl průzkum Political Research Center/Boston Globe z univerzity v Suffolk University.
-Třicet dva procent z nich podpořilo takový běh.
-Průzkum ukázal, že kandidáta bývalého guvernéra Devala Patricka je více, když 38 procent podporuje potenciální kandidaturu a 48 procent proti.
-Mezi další významné demokratické jména diskutovaná v souvislosti s možnou kandidaturou v roce 2020 jsou bývalý viceprezident Joe Biden a vermonský senátor Bernie Sanders.
+Padesát osm procent "pravděpodobných" voličů v Massachusetts uvedlo, že senátor by neměl kandidovat, podle průzkumu Suffolk University Political Research Center / Boston Globe.
+Třicet dva procent podpořilo takovou jízdu.
+Průzkum ukázal větší podporu pro provoz bývalého guvernéra Devala Patricka, přičemž 38 procent podpořilo potenciální běh a 48 procent proti němu.
+Další vysoce postavená demokratická jména diskutovaná v souvislosti s potenciálním kandidaturou na rok 2020 zahrnují bývalého viceprezidenta Joe Bidena a senátora Vermontu Bernieho Sanderse.
 Biden řekl, že se oficiálně rozhodne do ledna, informovala agentura Associated Press.
-Sarah Palinová cituje traťovou PTSD Track Palin na shromáždění Donalda Trumpa
-Šestadvacetiletá trať Palinová strávila rok v Iráku poté, co se zúčastnila v září.
-Byl zatčen a v pondělí večer obviněn z domácího násilí.
-„Co si můj vlastní syn prochází, čím prochází, že se vrací, se můžu ztotožnit s ostatními rodinami, které cítí důsledky PTSD a některé raněné, se kterými se naši vojáci vracejí,“ řekla publiku na shromáždění Donalda Trumpa v Tulse v Oklahomě.
-Palin nazval své zatčení „slone v místnosti“ a řekl o jejím synovi a dalších válečných veteránech, „vrátili se trochu jinak, vrátili se ztvrdli, vrátili se s údivem, jestli je respekt k tomu, co jejich spolubojovníci a letci a všichni ostatní členové armády dali zemi.“
-V pondělí byl zatčen na Aljašce ve Wasille a obviněn z domácího násilí na ženu, který se vměšoval do zprávy o domácím násilí a držení zbraně, když byl pod vlivem napojen, podle Dana Bennetta, mluvčího policejního oddělení ve Wasille.
-18 států, D.C. podporuje námitku proti nové azylové politice
-Osmnáct států a District of Columbia podporuje právní napadení nové americké politiky, která popírá azyl obětem prchajícím před gangem nebo domácím násilím.
-Zástupci z 18 států a okresu podali v pátek ve Washingtonu zprávu o příteli na Twitteru, aby podpořili žadatele o azyl, který tuto politiku zpochybňuje, uvedla NBC News.
-Plné jméno žalobce v případu Grace vs. Sessions se obžalobou, že Americká unie občanských svobod podaná v srpnu proti federální politice nebyla odhalena.
-Řekla, že její partner „a jeho syny z řad násilného gangu“ ji zneužívali, ale americké úřady zamítly její žádost o azyl.
-Byla zadržena v Texasu.
-Státní zástupci podporující Grace popsali Salvadoru, Hondurasu a Guatemalu, které produkují velký počet žadatelů o azyl v USA, jako národy, které čelí všudypřítomným problémům s gangy a domácím násilím.
-Nová azylová politika Spojených států zvrátila rozhodnutí odvolacího výboru pro přistěhovalce z roku 2014 a která umožnila přistěhovalcům bez dokladů prchající před domácím násilím požádat o azyl.
-Generální prokurátor okresu Columbia Karl Racine v pátečním prohlášení uvedl, že nová politika „igruje desítky let státním, federálním a mezinárodním právem“.
-„Federální právo vyžaduje, aby všechny žádosti o azyl byly posouzeny na základě konkrétních skutečností a okolností nároku, a takový bar porušuje tuto zásadu,“ řekl předvolba soudního přítele.
-Advokáti ve zprávě dále argumentovali, že politika popírající vstupu imigrantům poškozuje americkou ekonomiku, když tvrdí, že s větší pravděpodobností se stanou podnikateli a „dodávají nezbytnou pracovní sílu“.
-Generální prokurátor Jeff Sessions nařídil imigračním soudcům, aby již v červnu neoprávněně poskytovali azyl obětem prchajícím před domácím násilím a násilím gangů.
-„Azyl je k dispozici pro ty, kteří opouštějí svou domovskou zemi kvůli pronásledování nebo strachu z důvodu rasy, náboženství, národnosti nebo členství v konkrétní sociální skupině nebo politickém názoru,“ řekl Sessions ve svém oznámení politiky z 11. června.
-Azyl nikdy nezmírnil všechny problémy – dokonce všechny vážné problémy – kterým se lidé potýkají každý den po celém světě.
-Zoufalé záchranné práce v Palu se zdvojnásobuje počet obětí v závodě o to, kdo přežije.
-Pro přeživší byla situace čím dál hrozivější.
-„Je to velmi napjaté,“ řekla 35letá matka Risa Kusumová a utěšovala svého horečnatého chlapečka v evakuačním centru ve vykuchaném městě Palu.
-„Každou minutu přivážejí sanitka těla.
+Sarah Palinová cituje Track Palinovu PTSD na shromáždění Donalda Trumpa
+Track Palin, 26, strávil rok v Iráku poté, co se přihlásil na Sept.
+Byl zatčen a obviněn z domácího násilí v pondělí večer.
+"To, čím prochází můj vlastní syn, čím prochází, když se vrací, se mohu vztahovat k dalším rodinám, které cítí důsledky PTSD a některé zranění, se kterými se naši vojáci vracejí," řekla publiku na shromáždění pro Donalda Trumpa v Tulse v Oklahomě.
+Palinová nazvala jeho zatčení „slonem v místnosti“ a řekla o svém synovi a dalších válečných veteránech, „se vracejí trochu jinak, vracejí se zatvrzelí, vracejí se a přemýšlejí, jestli existuje ten respekt k tomu, co je to, co jejich spoluvojáci a letci a všichni ostatní členové armády dali zemi.“
+V pondělí byl zatčen ve Wasille na Aljašce a obviněn z domácího násilí na ženě, zasahoval do zprávy o domácím násilí a držení zbraně, zatímco byl podnošený, podle Dana Bennetta, mluvčího policejního oddělení Wasilla.
+18 států, D.C. podporují výzvu pro novou azylovou politiku
+Osmnáct států a District of Columbia podporují právní výzvu k nové americké politice, která upírá azyl obětem prchajícím před gangem nebo domácím násilím.
+Zástupci z 18 států a okresu podali v pátek ve Washingtonu ve Washingtonu zprávu o přátelství-of-the-soudu, aby podpořili žadatele o azyl, který tuto politiku zpochybňuje, informovala NBC News.
+Celé jméno žalobce v Grace v. Sessionsova žaloba, kterou Americká unie občanských svobod podala v srpnu proti federální politice, nebyla zveřejněna.
+Řekla, že její partner "a jeho násilní členové gangu synové" ji zneužívali, ale američtí představitelé zamítli její žádost o azyl 20. července.
+Zadržen byl v Texasu.
+Státní právníci podporující Grace popsali Salvador, Honduras a Guatemalu, které produkují velké množství žadatelů o americký azyl, jako země, které čelí všudypřítomným problémům s gangy a domácím násilím.
+Nová americká azylová politika zvrátila rozhodnutí Rady pro přistěhovalce z roku 2014, které umožnilo neregistrovaným přistěhovalcům prchajícím prchajícímu před domácím násilím požádat o azyl.
+Generální prokurátor okresu Columbia Karl Racine ve svém pátečním prohlášení uvedl, že nová politika "ignoruje desetiletí státního, federálního a mezinárodního práva".
+"Spolchávací právo vyžaduje, aby všechny žádosti o azyl byly posuzovány podle konkrétních skutečností a okolností nároku a takový řádek porušil tuto zásadu," uvedl soudní správa.
+Advokáti dále argumentovali ve stručnosti, že tato politika, která upírá přistěhovalcům vstup, poškozuje americkou ekonomiku a říká, že je pravděpodobnější, že se stanou podnikateli a „dodají nezbytnou práci“.
+Generální prokurátor Jeff Sessions nařídil imigračním soudcům, aby již v červnu neposkytovali azyl obětem, které prchají před domácím násilím a násilím gangů.
+"Azyl je k dispozici pro ty, kteří opouštějí svou domovskou zemi kvůli pronásledování nebo strachu z rasy, náboženství, národnosti nebo členství v určité sociální skupině nebo politickém názoru," uvedl Sessions ve svém prohlášení o této politice z 11. června.
+Azyl nikdy neměl zmírňovat všechny problémy - dokonce i všechny vážné problémy - kterým lidé čelí každý den po celém světě.
+Zoufalé záchranné práce v Palu, protože počet obětí se zdvojnásobuje v závodě, aby našel přeživší
+Pro přeživší byla situace stále zoufalejší.
+"Je to velmi napjaté," řekla 35letá matka Risa Kusuma, která utěšovala svého horečnatého chlapečka v evakuačním centru ve vykušeném městě Palu.
+"Každou minutu sanitka přiveze těla.
 Čistá voda je vzácná.“
-Obyvatelé se vraceli do svých zničených domů, prodírali se podmáčenými věcmi a snažili se zachránit všechno, co našli.
-Stovky lidí byly zraněny a nemocnice, poškozené zemětřesením o síle 7,5 stupně, byly zavaleny.
-Někteří zranění, včetně Dwi Haris, který utrpěl zlomeninu páteře a ramene, odpočívali před Armádní nemocnicí v Palu, kde se pacienti léčí venku kvůli pokračujícím silným otřesům.
-Oči mu naplnily slzy, když líčil, jak se násilné zemětřesení otřáslo hotelovým pokojem v pátém patře, který sdílel se svou ženou a dcerou.
-„Nebyl čas se zachránit.
-Myslím, že mě vmáčkli do zříceniny zdi,“ řekl Haris agentuře Associated Press a dodal, že jeho rodina je ve městě na svatbě.
-„Slyšel jsem, jak moje žena volá o pomoc, ale pak ticho.
+Obyvatelé byli viděni, jak se vracejí do svých zničených domů, sbírají podmáčené věci, snaží se zachránit vše, co mohli najít.
+Stovky lidí byly zraněny a nemocnice, poškozeny zemětřesením o síle 7,5, byly zahlceny.
+Někteří ze zraněných, včetně Dwi Harise, který utrpěl zlomeninu zad a ramene, odpočívali před palubou armády Palu, kde byli pacienti ošetřováni venku kvůli pokračujícím silným následným otřesům.
+Slzy mu naplnily oči, když líčil pocit, že prudké zemětřesení otřáslo hotelovým pokojem v pátém patře, který sdílel se svou ženou a dcerou.
+"Nebyl čas na záchranu.
+Myslím, že jsem byl vtěsnán do trosek zdi,“ řekl Haris agentuře Associated Press a dodal, že jeho rodina byla ve městě na svatbě.
+"Slyšel jsem svou ženu, jak volá o pomoc, ale pak mlčet.
 Nevím, co se jí a mému dítěti stalo.
-Doufám, že jsou v bezpečí.“
-Americký velvyslanec obviňuje Čínu z „šikanování“ s „prorockými reklamami“
-Týden poté, co oficiální čínské noviny otiskly čtyřstránkový inzerát v americkém deníku, kde se oháněl vzájemnými výhodami americko-čínského obchodu, americký velvyslanec v Číně obvinil Peking, že využívá americký tisk k šíření propagandy.
-USA. Prezident Donald Trump minulou středu se zmínil o placeném příloze China Daily v Des Moines Register – státě Iowa je nejprodávanější noviny – poté, co obvinil Čínu, že se snaží vměšovat do Nově. 6 U.S. kongresové volby, což Čína popírá.
-Trumpovo obvinění, že se Peking snaží vměšovat do amerických voleb, označilo to, co američtí představitelé řekli agentuře Reuters, že je nová fáze eskalující kampaně Washingtonu, aby vyvinula tlak na Čínu.
-I když je normální, že zahraniční vlády umísťují reklamy na podporu obchodu, Peking a Washington se v současnosti zmítají v eskalující obchodní válce, která je viděla srovnávat se na kola cel na dovoz druhé strany.
-Odvetná cla Číny na počátku obchodní války byla navržena tak, aby zasáhla expory ve státech, jako je Iowa, které podporovaly Trumpovu republikánskou stranu, uvedli čínští a američtí experti.
-Terry Branstad, americký velvyslanec v Číně a bývalý dlouholetý guvernér Iowy, významný vývozce zemědělského zboží do Číny, řekl, že Peking poškodil americké dělníky, zemědělce a podniky.
-Čína, napsal Branstad v nedělním Des Moines Register, „je nyní zdvojování této šikany tím, že se v našem svobodném tisku propagandistuje propagandistické reklamy“.
-„Vyslanectví čínské vlády při šíření své propagandy využije hýčkané americké tradice svobody projevu a svobodného tisku tím, že v Des Moines Register umístí placenou reklamu,“ napsal Branstad.
-„Naopak, na novinovém stánku na ulici tady v Pekingu, najdete omezené nesouhlasné hlasy a neuvidíte žádný pravdivý odraz nesourodých názorů, které by čínský lid mohl mít na znepokojivou ekonomickou trajektorii Číny, vzhledem k tomu, že média jsou pod pevným pachem Komunistické strany Číny,“ napsal.
-Dodal, že „jeden z nejprominentnějších čínských novin se vyhýbal nabídce zveřejnění“ jeho článku, i když neřekl, které noviny.
-Republikáni Odcizení ženy Voters před Midterms s Kavanaugh Debacle, analytici varují
-Jak mnozí nejvyšší republikáni nečinnějí a hájí kandidáta do Nejvyššího soudu Bretta Kavanaugha tváří v tvář několika obviněním ze sexuálního napadení, analytik varoval, že během nadcházejících voleb do Kongresu se dočkají odporu, zejména ze strany žen.
-Emoce, které to obklopují, byly extrémně vysoké a většina republikánů už ve záznamu ukazuje, že chtějí pokračovat s hlasováním.
-Tyhle věci se nedají vrátit,“ řekl Grant Reeher, profesor politologie na Maxwellově škole Syracuse University v Syracuse, pro článek, který vyšel v sobotu.
-Reeher řekl, že pochybuje, že snaha senátora Jeffa Flakea na poslední chvíli na vyšetřování FBI bude stačit k uklidnění rozzlobených voličů.
-„Ženy nezapomenou na to, co se stalo včera – nezapomenou na to zítra a ne v listopadu,“ řekla v pátek podle deníku Washington, hlavní poradkyně a národní mluvčí progresivní skupiny MoveOn.
-V pátek ráno protestující skandovali „Novát se listopad!“, když demonstrovali na chodbě Senátu, když se republikáni ovládající justiční výbor rozhodli pokročit s Kavanaughovou nominací navzdory svědectví doktora. Christine Blasey Fordová, hlásil Mic.
-„Demokratické nadšení a motivace bude mimo míč,“ řekl Stu Rothenberg, nestranický politický analytik, pro zpravodajský server.
-„Lidé říkají, že už to bylo hodně, to je pravda.
-Mohla by však být vyšší, zejména mezi voličkami na předměstích a mladšími voličkami, které se osmnáctkám až devětadvacetiletým, které sice nemají prezidenta rádi, ale často volí.“
-Ještě před Fordovým veřejným svědectvím, které podrobně popisovalo její obvinění ze sexuálního napadení kandidáta do Nejvyššího soudu, analytici navrhli, že by se mohl po něm rezoloutvit, kdyby se republikáni prosadili.
-„Pro SPOZ se to stal zmatený průšin,“ řekl počátkem minulého týdne podle NBC News Michael Steele, bývalý předseda Národního republikánského výboru.
-„Nejde jen o hlasování výboru nebo o závěrečné hlasování, ani o to, jestli je Kavanaugh předveden na lavičku, ale také o tom, jak to řeší a jak se s tím vypořádali,“ zdůraznil na zpravodajský kanál Guy Cecil, ředitel skupiny Priorities USA, která pomáhá volit demokraty.
-Nicméně se zdá, že Američané jsou poněkud roztrženi kvůli tomu, komu věřit v po Fordově a Kavanaughově výpovědi, přičemž o něco více se přikloní na druhou stranu.
-Nový průzkum YouGov ukazuje, že 41 procent respondentů určitě nebo pravděpodobně věřili Fordovu výpovědi, zatímco 35 procent uvedlo, že Kavanaughovi rozhodně nebo pravděpodobně věří.
-Navíc 38 procent dotázaných uvedlo, že si myslí, že Kavanaugh během své výpovědi pravděpodobně nebo určitě lhal, zatímco pouhé 30 procent uvedlo totéž o Fordu.
-Po nátlaku od Flakea FBI v současné době vyšetřuje obvinění vznesená Fordem a nejméně jedním dalším žalobcem, Deborah Ramirezovou, napsal The Guardian.
-Fordová minulý týden vypověděla před soudním výborem Senátu pod přísahou, že ji v sedmnácti v opilosti napadl Kavanaugh.
-Ramirez tvrdí, že kandidát do Nejvyššího soudu jí vystavil své genitálie, když se v osmdesátých letech účastnili večírku během studia na Yaleově univerzitě.
-Vynálezce světově rozšířeného webového plánují začít nový internet, aby se na Googlu a Facebooku
+Doufám, že budou v bezpečí.“
+Americký velvyslanec obvinil Čínu z „šikany“ „šuilováním“ s „propagandistickými reklamami“
+Týden poté, co oficiální čínské noviny spustily čtyřstránkový inzerát v americkém deníku, který vychvaloval vzájemné výhody obchodu mezi USA a Čínou, americký velvyslanec v Číně obvinil Peking, že používá americký tisk k šíření propagandy.
+USA. Prezident Donald Trump minulou středu odkazoval na placený dodatek China Daily v registru Des Moines - stavu nejprodávanějších novin v Iowě - poté, co obvinil Čínu, že se snaží vměšovat do listopadu. 6 amerických kongresových voleb, obvinění, které Čína popírá.
+Trumpovo obvinění, že se Peking snažil vměšovat do amerických voleb, znamenalo, že američtí představitelé agentuře Reuters byli novou fází v eskalující kampani Washingtonu, aby vyvinuli tlak na Čínu.
+Zatímco je normální, že zahraniční vlády umisťují reklamy na podporu obchodu, Peking a Washington jsou v současné době uzamčeny v eskalující obchodní válce, která jim způsobila, že na sebe došlo k vyrovnání cel na dovoz toho druhého.
+Čínské odvetné tarify na počátku obchodní války byly navrženy tak, aby zasáhly vývozce ve státech, jako je Iowa, které podporovaly Trumpovu Republikánskou stranu, čínští a američtí experti.
+Terry Branstad, americký velvyslanec v Číně a bývalý dlouholetý guvernér Iowy, hlavní vývozce zemědělského zboží do Číny, uvedl, že Peking poškodil americké pracovníky, zemědělce a podniky.
+Čína, napsal Branstad v článku v nedělním Des Moines Register, "se nyní zdvojnásobuje tuto šikanu tím, že běží propagandistické reklamy v našem vlastním svobodném tisku."
+"Při šíření své propagandy čínská vláda vyučuje americkou oceňovanou tradici svobody projevu a svobodného tisku tím, že umístí placenou reklamu do registru Des Moines," napsal Branstad.
+"Naproti tomu na novinovém stánku i v ulicích v Pekingu najdete omezené nesouhlasné hlasy a neuvidíte žádný skutečný odraz různorodých názorů, které by čínský lid mohl mít na znepokojující ekonomickou trajektorii Číny, vzhledem k tomu, že média jsou pod pevnou palec čínské komunistické strany," napsal.
+Dodal, že „jeden z nejprominentnějších čínských novin se vyhnul nabídce publikovat“ jeho článek, i když neřekl, které noviny.
+Republikáni odciznění ženských voličů před pololetními termíny s Kavanaugh Debacle, Analytici Varují
+Stejně jako mnoho špičkových republikánů v pohotovosti a obhajuje kandidáta Nejvyššího soudu Bretta Kavanaugha tváří v tvář několika obviněním ze sexuálního napadení, analytik varoval, že během nadcházejících voleb uvidí odpor, zejména od žen.
+Emoce obklopující to byly extrémně vysoké a většina republikánů je již v záznamech, což ukazuje, že chtěli pokračovat s hlasováním.
+Tyto věci nemohou být zproudily zpět,“ řekl Grant Reeher, profesor politologie na Syracuse University Maxwell School, The Hill pro článek publikovaný v sobotu.
+Reeher řekl, že pochybuje o tom, že senátor Jeff Flake (R-Arizona) na poslední chvíli tlak na vyšetřování FBI bude stačit k usmíření rozzlobených voličů.
+"Ženy nezapomenou na to, co se stalo včera - nezapomenou na to zítra a ne v listopadu," řekla v pátek podle deníku Washington, D.C., hlavní poradkyně a národní mluvčí progresivní skupiny MoveOn.
+V pátek ráno demonstranti skandovali "November přichází!", jak demonstrovali v chodbě Senátu, když se republikáni ovládající justiční výbor rozhodli pokročit s Kavanaughovou nominací navzdory svědectví Dr. Christine Blasey Fordová, hlásí Mic.
+"Demokratické nadšení a motivace bude mimo graf," řekl Stu Rothenberg, nestranický politický analytik.
+"Lidé říkají, že už je to vysoké, to je pravda.
+Ale mohlo by to být vyšší, zejména mezi swingovými voliči na předměstích a mladšími voliči, 18 až 29letými, kteří, zatímco nemají rádi prezidenta, často nevolí.
+Ještě před Fordovým veřejným svědectvím, které podrobně popisuje její obvinění ze sexuálního napadení proti kandidátovi Nejvyššího soudu, analytici navrhli, že by odpor mohl následovat, pokud by republikáni tlačili dopředu s potvrzením.
+"Pro GOP se to stalo zmateným nepořádkem," řekl Michael Steele, bývalý předseda Republikánského národního výboru, na začátku minulého týdne, podle NBC News.
+"Není to jen o hlasování výboru nebo závěrečném hlasování nebo o tom, zda je Kavanaugh umístěn na lavičku, je to také o tom, jak to republikáni zvládli a jak se k ní chovali," řekl Guy Cecil, ředitel Priorities USA, skupina, která pomáhá volit demokraty, zdůraznil zpravodajský kanál.
+Nicméně, Američané se zdají být poněkud rozděleni o tom, kdo věřit v bdění Fordových a Kavanaughových svědectví, s o něco více na straně druhé.
+Nový průzkum společnosti YouGov ukazuje, že 41 procent respondentů rozhodně nebo pravděpodobně věřilo Fordovu svědectví, zatímco 35 procent uvedlo, že určitě nebo pravděpodobně věří Kavanaughovi.
+Navíc 38 procent uvedlo, že si myslí, že Kavanaugh pravděpodobně nebo určitě lhal během svého svědectví, zatímco jen 30 procent uvedlo totéž o Fordu.
+Po tlaku od Flakea FBI v současné době vyšetřuje obvinění vznesená Fordem, stejně jako nejméně jeden další žalobce, Deborah Ramirezová, informoval deník The Guardian.
+Fordová svědčila před senátním justičním výborem pod přísahou minulý týden, že ji Kavanaugh opile napadl ve věku 17 let.
+Ramirez tvrdí, že kandidát Nejvyššího soudu jí vystavil své genitálie, když se zúčastnili večírku během studia na Yale v 80. letech.
+Vynálezce World Wide Web plánuje zahájit nový internet, který bude mít Google a Facebook
 Tim Berners-Lee, vynálezce World Wide Web, spouští startup, který se snaží konkurovat Facebooku, Amazonu a Googlu.
-Nejnovější projekt technologické legendy, Inrupt, je společnost, která staví na open source platformě Solid Berners-Lee.
-Solid umožňuje uživatelům, aby si mohli vybrat, kde jsou jejich data uložena a jaké osoby mají přístup k jakým informacím.
-V exkluzivním rozhovoru pro Fast Company Berners-Lee žertoval, že záměrem Inrupt je „skladovina světa“.
-„Musíme to udělat teď,“ řekl o startupu.
-„Je to historický okamžik.“
-Aplikace využívá technologii Solid, která umožňuje lidem vytvářet si vlastní „osobní online datový úložiště“ nebo POD.
-Může obsahovat seznamy kontaktů, seznamy úkolů, kalendáře, hudební knihovnu a další osobní a profesionální nástroje.
-Je to jako Google Drive, Microsoft Outlook, Slack a Spotify jsou k dispozici v jednom prohlížeči a všechny ve stejnou dobu.
-O osobním online úložišti dat je unikátní, že je to zcela na uživateli, který má přístup k jakýmu informacím.
-Společnost to nazývá „osobní posílení prostřednictvím dat.“
-Myšlenkou na Inrupt, podle výkonného ředitele společnosti Johna Bruce, je, aby společnost přinesla zdroje, proces a vhodné dovednosti, které pomohou Solid zpřístupnit každému.
-Společnost se v současné době skládá z Berners-Lee, Bruce, bezpečnostní platformy koupené IBM, někteří on-staff vývojáři smluvně pracovat na projektu, a komunita dobrovolných kodérů.
-Od tohoto týdne by technologičtí vývojáři po celém světě mohli vytvořit vlastní decentralizované aplikace pomocí nástrojů dostupných na webových stránkách Inrupt.
-Berners-Lee řekl, že on a jeho tým nemluví s „Facebook a Google o tom, zda zavést úplnou změnu, kde všechny jejich obchodní modely jsou zcela převrácené přes noc.
-„Nežádáme o jejich svolení.“
-V příspěvku na Mediu zveřejněném v sobotu Berners-Lee napsal, že „mise Inrupt je poskytovat komerční energii a ekosystém, které pomáhají chránit integritu a kvalitu nové sítě postavené na Solidu“.
-V roce 1994 Berners-Lee proměnil internet, když založil World Wide Web Consortium na Massachusettském technologickém institutu.
+Nejnovější projekt technologické legendy, Inrupt, je společnost, která staví mimo platformu Berners-Lee s otevřeným zdrojovým kódem Solid.
+Solid umožňuje uživatelům vybrat si, kde jsou jejich data uložena a co mají lidé přístup k jakým informacím.
+V exkluzivním rozhovoru pro Fast Company Berners-Lee žertoval, že záměrem Inrupt je „světová nadvláda“.
+"Musíme to udělat teď," řekl o startupu.
+"Je to historický okamžik."
+Aplikace využívá technologii Solid, která umožňuje lidem vytvořit si vlastní „osobní online datový obchod“ nebo POD.
+Může obsahovat seznamy kontaktů, seznamy úkolů, kalendář, hudební knihovnu a další osobní a profesní nástroje.
+Je to jako Google Drive, Microsoft Outlook, Slack a Spotify jsou k dispozici v jednom prohlížeči a ve stejnou dobu.
+Co je na osobním internetovém datovém úložnictví jedinečné, je to, že je zcela na uživateli, který má přístup k jakýmsi informacím.
+Společnost to nazývá "osobní zplnomocnění prostřednictvím dat".
+Myšlenka společnosti Inrupt, podle generálního ředitele společnosti Johna Bruce, je, aby společnost přinesla zdroje, procesy a vhodné dovednosti, které pomohou zpřístupnit Solid všem.
+Společnost se v současné době skládá z Berners-Lee, Bruce, bezpečnostní platformy zakoupené společností IBM, někteří vývojáři na personálu, kteří mají smlouvu na práci na projektu, a komunity dobrovolných kodérů.
+Počínaje tímto týdnem by vývojáři technologií po celém světě mohli vytvořit své vlastní decentralizované aplikace pomocí nástrojů dostupných na webových stránkách Inrupt.
+Berners-Lee řekl, že on a jeho tým nemluví s "Facebookem a Googlem o tom, zda zavést úplnou změnu, kde jsou všechny jejich obchodní modely zcela převráceny přes noc.
+"Nežádáme o jejich svolení."
+V příspěvku na Mediu zveřejněném v sobotu Berners-Lee napsal, že Inruptovým "posláním je poskytovat komerční energii a ekosystém, který pomůže chránit integritu a kvalitu nového webu postaveného na Solid."
+V roce 1994 Berners-Lee změnil internet, když založil World Wide Web Consortium na Massachusetts Institute of Technology.
 V posledních měsících byl Berners-Lee vlivným hlasem v debatě o neutralitě sítě.
-I při spuštění společnosti Inrupt zůstane Berners-Lee zakladatelem a ředitelem World Wide Web Consortium, Web Foundation a Open Data Institute.
-„Jsem neuvěřitelně optimistický pro tuto další éru sítě,“ dodal Berners-Lee.
-Bernard Vann: WW1 Victoria Cross duchovní slavil
-Jediný duchovní anglikánské církve, který vyhrál Viktoriinu kříž během první světové války jako bojovník, se ve svém rodném městě slaví po 100 letech.
-Podplukovník Reverend Bernard Vann získal cenu 29. září 1918 v útoku na Bellenglise a Lehaucourt.
-O čtyři dny později ho však zabil ostřelovač a nikdy se nedozvěděl, že získal nejvyšší britskou vojenskou čest.
-V sobotu v roceli jeho dva vnuci odhalili pamětní kámen na přehlídce v Rushdanu v hrabství Northamptonshire.
-Jeden z jeho vnuků, Michael Vann, řekl, že je „brilantně symbolické“, že kámen bude odhalen přesně 100 let po pocituňského počinu jeho dědečka.
-Podle London Gazette vedl 29. září 1918 podplukovník Vann přes Canal de Saint-Quentin „velmi hustou mlhou a pod těžkou palbou z pole a kulometů“.
-Později se rozběhl k palebné linii a s „největší statečností“ vedl čáru dopředu, než se v ruce vrhl v polním děla a vyřadil tři odtažitost.
-Podplukovník Vann byl zabit německým ostřelovačem 4. října 1918 – něco přes měsíc před koncem války.
-Dvaasedmdesátiletý Michael Vann řekl, že jednání jeho dědečka je „něco, co vím, že bych nikdy nemohl žít, ale něco, co je pokořující“.
-On a jeho bratr Dr. James Vann také položili věnec po přehlídce, který vedl Brentwood Imperial Youth Band.
-Michael Vann řekl, že se „cítí velmi poctěn, že se může hrát na přehlídce“ a dodal, že „odvaha opravdového hrdiny je demonstrována podporou, kterou bude poskytováno mnoha lidmi“.
-Fanoušci MMA zůstali vzhůru celou noc a dívali se na Bellatora 206, místo toho dostali Peppa Pig
-Představte si, že jste celou noc zůstali vzhůru a dívali se na nabitého Bellatora 206, aby vám bylo odepřeno sledování hlavní události.
-Účet ze San Jose obsahoval 13 zápasů, z toho šest na hlavní kartě a byl přenášen živě v Británii na Channel 5.
-V šest ráno, právě když se Gegard Mousasi a Rory MacDonald chystali proti sobě, diváci ve Velké Británii zůstali ohromeni, když se zpravodajství změnilo na Peppa Pig.
-Někteří nebyli nijak nadšeni, když zůstali vzhůru až do časných ranních hodin zvlášť pro rvačku.
-Jeden fanoušek na Twitteru popsal přechod na dětský kreslený film jako „nějaký zvrácený vtip“.
-„Je to vládní nařízení, že v šest ráno nebyl tento obsah vhodný, takže museli přejít na programování pro děti,“ řekl Dave Schwartz, viceprezident pro marketing a komunikaci v Bellatoru, na dotaz ohledně přenosu.
-„Peppa prase,“ ano.“
-Prezident společnosti Bellator Scott Coker řekl, že budou pracovat na jejich plánování, aby zahrnovaly britské diváky v budoucnu.
-„Myslím, že když se zamyslím nad tím opakovaným záběrem, myslím, že to asi zvládneme,“ řekl Coker.
-„Ale v neděli je tam šest ráno a my to budeme moci vyřešit až v neděli, v pondělí jejich času.
+Dokonce i při spuštění Inrupt zůstane Berners-Lee zakladatelem a ředitelem World Wide Web Consortium, Web Foundation a Open Data Institute.
+"Jsem neuvěřitelně optimistický pro tuto další éru webu," dodal Berners-Lee.
+Bernard Vann: WW1 Victoria Cross duchovní slaví
+Jediný anglikánská duchovní, který vyhrál Viktoriin kříž během první světové války jako bojovník, byl oslavován ve svém rodném městě 100 let poté.
+Podplukovník The Reverend Bernard Vann získal cenu 29. září 1918 při útoku na Bellenglise a Lehaucourt.
+O čtyři dny později byl zabit odstřelovačem a nikdy nevěděl, že získal nejvyšší britskou vojenskou čest.
+Pampírační kámen byl odhalen jeho dvěma vnuci na přehlídce v Rushdenu v Northamptonshire v sobotu.
+Jeden z jeho vnuků, Michael Vann, řekl, že je "skvěle symbolické", že kámen bude odhalen přesně 100 let od oceněného výkonu svého dědečka.
+Podle London Gazette, 29. září 1918 podplukovník Vann vedl svůj prapor přes Canal de Saint-Quentin „přes velmi hustou mlhu a pod těžkou palbou z pole a kulometů“.
+On později spěchal k palebné linii a s „největší statečnost“ vedl linii dopředu před spěcháním polní zbraň sám a vyřadil tři z oddílu.
+Podplukovník Vann byl zabit německým odstřelovačem 4. října 1918 – jen necelý měsíc před koncem války.
+Michael Vann, 72, řekl, že činy jeho dědečka byly "něco, co vím, že jsem nikdy nemohl žít, ale něco, co je ponižující."
+On a jeho bratr Dr. James Vann také položili věnec po přehlídce, kterou vedl Brentwood Imperial Youth Band.
+Michael Vann řekl, že se "cítí velmi poctěn, že hraje roli v průvodu" a dodal, že "umělost skutečného hrdiny je demonstrována podporou, kterou bude poskytnuto mnoha lidmi."
+Fanoušci MMA zůstali vzhůru celou noc, aby sledovali Bellator 206, místo toho dostali Peppa Pig.
+Představte si to, zůstali jste celou noc vzhůru, abyste sledovali nabitý Bellator 206, jen aby byl odepřen sledování hlavní události.
+Návrh zákona ze San Jose obsahoval 13 zápasů, včetně šesti na hlavní kartě a byl vysílán živě v noci ve Velké Británii na kanálu 5.
+V 6 hodin ráno, stejně jako Gegard Mousasi a Rory MacDonald se připravovali čelit jeden druhému, diváci ve Velké Británii byli ponecháni ohromeni, když se pokrytí změnilo na Peppa Pig.
+Někteří byli nezaujatí poté, co zůstali vzhůru až do časných ranních hodin, zejména pro boj.
+Jeden fanoušek na Twitteru popsal přechod na dětskou karikaturu jako "nějako nějaký druh zvráceného vtipu".
+"Je to vládní nařízení, že v 6 hodin ráno tento obsah nebyl vhodný, takže museli přejít na dětské programování," řekl Dave Schwartz, senior viceprezident marketingu a komunikace společnosti Bellator, když byl dotázán na přenos.
+"Peppa to prase," ano."
+Prezident společnosti Bellator Scott Coker uvedl, že budou pracovat na jejich plánování, aby v budoucnu zahrnovali britské diváky.
+"Myslím, že když přemýšlím o opakování, myslím, že bychom to pravděpodobně mohli vyřešit," řekl Coker.
+Ale je tam šest v neděli ráno a my nebudeme schopni to vyřešit až do neděle našeho času, v pondělí jejich čas.
 Ale pracujeme na tom.
-Věřte mi, když se to změnilo, bylo tam hodně textů, které se vracely sem a tam a všechny nebyly přátelské.
+Věřte mi, když se to přepnulo, bylo tam hodně textů, které se týkaly tam a zpět a všechny nebyly přátelské.
 Snažili jsme se to napravit, mysleli jsme si, že je to technická závada.
-Ale nebylo to, byl to vládní problém.
+Ale nebylo to, byla to vládní záležitost.
 Můžu ti slíbit, že se to příště nestane.
-Necháme to na pěti zápasech místo šesti zápasů – jako normálně – a snažili jsme se přečerpat fanouškům a prostě jsme to zvládli.
+Udržíme to na pěti zápasech místo šesti - jako obvykle - a snažili jsme se přepracovat pro fanoušky a prostě jsme šli přes to.
 Je to nešťastná situace.“
-Desert Island Discs: Tom Daley cítil „nepodřadný“ nad sexualitou
-Olympijský potápěč Tom Daley říká, že vyrůstal s pocitem méněcennosti ke všem kvůli své sexualitě – ale to mu dalo motivaci stát se úspěchem.
-Čtyřiadvacetiletý mladík řekl, že si až do střední školy neuvědomil, že „ne každý je jako já“.
-V pořadu Radio 4 Desert Island Discs, který uvedla Lauren Laverne, řekl, že promluvil o právech homosexuálů, aby dal ostatním „naději“.
-Také řekl, že když se stal rodičem, bylo mu méně záleželo na vítězství na olympiádě.
-Pravidelná moderátorka dlouhodobé show, Kirsty Youngová, si kvůli nemoci vzala na trh několik měsíců volna.
-V Lavernovém prvním pořadu se objevil Daley jako trosečník v Laverneho prvním pořadu a řekl, že se cítí „méně než ostatní, když v dospívání vyrůstají, protože „to nebylo společensky přijatelné mít pro chlapce a dívky“.
-Řekl: „Dodnes byly ty pocity, které cítily méně než, a cítit se jinak, skutečné věci, které mi daly sílu a sílu, abych mohl uspět.“
-Chtěl dokázat, že je „něco“, řekl, aby nezklamal všechny, když se nakonec o jeho sexualitě konečně zjistili.
-Dvojnásobný bronzový olympijský medailista se stal vysoce postaveným LGBT aktivistou a na letošních hrách Commonwealthu v Austrálii využil k tomu, aby se více země odvolaly na dekriminalizaci homosexuality.
-Řekl, že promluvil, protože se cítil šťastný, že může žít otevřeně bez následků a chtěl dát ostatním „naději“.
-Trojnásobný mistr světa řekl, že se zamiloval do muže – amerického filmaře Dustina Lance Blacka, kterého potkal v roce 2013 – mě „zasvětil“.
-Daley se loni oženil s držitelem Oscara, který je o 20 let starší, ale řekl, že věkový rozdíl nikdy nebyl problém.
-„Když si v tak mladém věku projdete tolik“ – ve 14 letech odešel na svou první olympiádu a o tři roky později zemřel na rakovinu jeho otec – řekl, že je těžké najít někoho stejného věku, který by zažil podobné vrcholem a minima.
-Pár se v červnu stal rodiči, synovi Robertu Rayi Black-Daleyovi, a Daley řekl, že se změnila jeho „celá perspektiva“.
-„Kdybyste se mě loni zeptali, šlo jen o to, abych vyhrál zlatou medaili,“ řekl.
-„Víš co, jsou větší věci než zlaté olympijské medaile.
-Moje zlatá olympijská medaile je Robbie.“
+Desert Island Discs: Tom Daley se cítil "necitlivý" nad sexualitou
+Olympijský potápěč Tom Daley říká, že vyrůstal s pocitem nižšího než každý kvůli jeho sexualitě - ale to mu dalo motivaci stát se úspěšným.
+24-letý řekl, že si neuvědomil, dokud nešel na střední školu, že "ne každý není jako já."
+V rozhovoru pro první Radio 4 Desert Island Discs, které představila Lauren Laverne, řekl, že mluvil o právech homosexuálů, aby dal ostatním "naději".
+Také řekl, že stát se rodičem mu dělalo méně starostí o vítězství na olympijských hrách.
+Pravidelný moderátor dlouhotrvající show, Kirsty Young, si vzal několik měsíců volno kvůli nemoci.
+Objevuje se jako trosečník na Laverneho prvním programu, Daley řekl, že se cítil "méně než" všichni ostatní, když vyrůstali, protože "nebylo společensky přijatelné mít rád chlapce a dívky."
+Řekl: „Dodnes byly tyto pocity citu méně než, a pocit, odlišné, skutečné věci, které mi daly sílu a sílu, abych byl schopen uspět.“
+Chtěl dokázat, že je to "něco", řekl, aby nezklamal všechny, když se nakonec dozvěděl o jeho sexualitě.
+Dvojnásobný bronzový olympijský medailista se stal vysoce postaveným LGBT aktivistou a využil svého vystoupení na letošních hrách Commonwealthu v Austrálii, aby apeloval na další země, aby dekriminalizovaly homosexualitu.
+Řekl, že promluvil, protože se cítil šťastný, že mohl žít otevřeně bez následků a chtěl dát ostatním "naději".
+Trojnásobný mistr světa řekl, že se zamiloval do muže - amerického filmaře Dustina Lance Blacka, kterého potkal v roce 2013 - "mě chytil překvapením."
+Daley se oženil s vítězem Oscara, který je o 20 let starší, v loňském roce, ale řekl, že věkový rozdíl nikdy nebyl problém.
+"Když si projdete tolik v tak mladém věku" - šel na svou první olympiádu ve věku 14 let a jeho otec zemřel na rakovinu o tři roky později - řekl, že je těžké najít někoho stejného věku, kdo zažil podobné vzestupy a pády.
+Pár se stal rodiči v červnu, synovi Robertu Rayovi Black-Daleymu a Daley řekl, že jeho "celá perspektiva" se změnila.
+"Kdybyste se mě loni zeptali, bylo to všechno o tom, že potřebuji vyhrát zlatou medaili," řekl.
+"Víte co, jsou větší věci než olympijské zlaté medaile.
+"Mou olympijskou zlatou medailí je Robbie."
 Jeho syn má stejné jméno jako jeho otec Robert, který zemřel v roce 2011 ve věku 40 let poté, co mu byla diagnostikována rakovina mozku.
-Daley řekl, že jeho otec se nepřiznal, že zemře, a jednou z posledních věcí, na které se ptal, je, jestli mají už na Londýn 2012 lístky – protože chtěl být v první řadě.
-„Nemohl jsem mu říct, že nebudeš tady, aby se v první řadě mohl stát tátou v první řadě',“ řekl.
-„Držel jsem ho za ruku, když přestal dýchat a teprve když přestal dýchat a byl mrtvý, jsem konečně uznal, že není nepřemožitelný,“ řekl.
-Následující rok se zúčastnil olympiády 2012 a získal bronz.
-„Prostě jsem věděl, že o tomhle jsem snil celý život – potápět se před domácím publikem na olympijských hrách, lepší pocit nebyl,“ řekl.
-To také inspirovalo jeho první píseň – Hrdá Heather Small – která s ním rezonovala v přípravě na olympiádu a stále mu naskočila na husí kůži.
-Desert Island Discs je na BBC Radio 4 v neděli v 11:15 SELČ.
-Mimo-of-of-Formazlí Mickelson na lavičce v sobotu Ryder Cup
-Američan Phil Mickelson vytvoří rekord v neděli, kdy hraje svůj 47. zápas Ryder Cupu, ale bude muset otočit formu, aby se zabránilo tomu, že je to nešťastný milník.
-Mickelson, který hrál na bienálové události rekordní dvanácté, byl na lavičce kapitán Jim Furyk pro sobotní fourballs a foursomes.
-Místo toho, aby byl ve středu dění, jak byl tak často pro Spojené státy, pětinásobný major vítěz se dělil na to, že je roztleskávačka a pracuje na své hře na střelnici v naději, že napraví to, co ho trápí.
-Nikdy nejostřejší jezdci ani na vrcholu své kariéry, 48-rok-starý není ideální pro těsné Le Golf National hřiště, kde dlouhé hrubý rutsky trestá bota bistrojící výstřely.
-A pokud je kurz sám o sobě dost skličující, Mickelson v devátém zápase v neděli se střetne s přesným vítězem British Open Francescem Molinarim, který se spojil s nováčkem Tommym Fleetwoodem a tento týden vyhráli všechny čtyři zápasy.
-Pokud Američané, o čtyři body méně, kteří se rozehnou v zápalech ve dvouhře, se rozjede na parádním zápase, by se Mickelsonův zápas mohl ukázat jako naprosto zásadní.
-Furyk vyjádřil v jeho muže důvěru, ne že by mohl říct něco jiného.
-„Plně pochopil roli, kterou měl dnes, poplácal mě po zádech, objal mě a řekl, že bude zítra připraven,“ řekl Furyk.
-„Má v sebe hodně důvěry.
-Je to člen Síně slávy a v minulosti tolik přidal do týmů a tento týden.
-Asi jsem si ho nepředstavoval, že bude hrát dva zápasy.
-Představoval jsem si toho víc, ale tak to vyšlo a tak jsme si mysleli, že musíme jít.
+Daley řekl, že jeho otec nepřijal, že zemře a jedna z posledních věcí, kterou se zeptal, bylo, jestli mají ještě své vstupenky na Londýn 2012 - protože chtěl být v první řadě.
+"Nemohl jsem mu říct 'nebudeš nablízku, abys byl v první řadě táta'," řekl.
+"Hledal jsem ho za ruku, když přestal dýchat, a to až do té doby, než skutečně přestal dýchat a byl mrtvý, nakonec jsem přiznal, že není neporazitelný," řekl.
+Následující rok se Daley zúčastnil olympijských her v roce 2012 a získal bronz.
+"Prostě jsem věděl, že to je to, o čem jsem celý svůj život snil - ponořit se před domácím davem na olympijských hrách, nebyl tam lepší pocit," řekl.
+To také inspirovalo jeho první výběr písně - hrdý Heather Small - který rezonoval s ním v budově až do olympijských her a stále mu dal husí kůži.
+Desert Island Discs je na BBC Radio 4 v neděli v 11:15 BST.
+Out-of-forma Mickelson lavička na Ryder Cupu v sobotu
+Američan Phil Mickelson vytvoří rekord v neděli, kdy bude hrát svůj 47. zápas v Ryder Cupu, ale bude muset otočit svou formu, aby se zabránilo tomu, že je to nešťastný milník.
+Mickelson, hrající v bienále akci rekordních dvanáctých časů, byl podveden kapitánem Jimem Furykem pro sobotní čtyři koule a čtveřice.
+Místo toho, aby byl v centru akce, jak je tak často pro Spojené státy, pětinásobný hlavní vítěz rozdělil svůj den mezi tím, že je roztleskávačkou a pracoval na své hře na rozsahu v naději, že na opravu toho, co ho trápí.
+Nikdy nejrovnější z jezdců ani na vrcholu své kariéry, 48-letý není ideální pro těsné Le Golf National hřiště, kde dlouho hrubě rutinně trestá chybné výstřely.
+A pokud kurz sám o sobě není dostatečně skličující, Mickelson v devátém zápase v neděli čelí přesnému vítězi British Open Francesco Molinarimu, který se spojil s nováčkem Tommym Fleetwoodem, aby tento týden vyhrál všechny své čtyři zápasy.
+Pokud by Američané, čtyři body dolů od zahájení 12 zápasů dvou singlů, dostat se do horkého startu, Mickelsonův zápas by se mohl ukázat jako naprosto zásadní.
+Furyk vyjádřil důvěru ve svého muže, ne že by mohl říci mnoho dalšího.
+"Plně pochopil roli, kterou dnes měl, poplácal mě po zádech a dal mi ruku a řekl, že bude připraven zítra," řekl Furyk.
+"Má v sebe velkou důvěru.
+Je to síň slávy a přidal tolik do těchto týmů v minulosti, a tento týden.
+Asi jsem si nepředstavoval, že hraje dva zápasy.
+Představoval jsem si víc, ale tak to dopadlo a tak jsme si mysleli, že musíme jít.
 Chce tam být, stejně jako všichni ostatní.“
-Mickelson projde rekord Nicka Falda v počtu odehraných zápasů Ryder Cupu v neděli.
-To by mohlo znamenat konec Ryder Cup kariéry, která nikdy zcela vyrovnala výšin jeho individuální bilance.
-Mickelson má 18 výher, 20 proher a sedm polovin, i když Furyk řekl, že jeho přítomnost přinesla do týmu některé nehmotné.
-„Je vtipný, je sarkastický, vtipný, rád si na lidi utahuje a je to skvělý chlap, co ho v týmové místnosti,“ vysvětloval.
-„Myslím, že mladší hráči se bavili, když na něj jeli i tento týden, což bylo zábavné vidět.
-Poskytuje mnohem víc než jen hru.“
+Mickelson překoná rekord Nicka Falda pro nejvíce zápasů Ryder Cupu, které se hrály v neděli.
+Mohlo by to znamenat konec kariéry Ryder Cupu, která nikdy zcela nevyrovnala výšky jeho individuálního rekordu.
+Mickelson má 18 výher, 20 proher a sedm poločasů, i když Furyk řekl, že jeho přítomnost přinesla týmu některé nehmotné věci.
+"Je vtipný, je sarkastický, vtipný, rád si dělá legraci z lidí a je to skvělý chlap, který má v týmové místnosti," vysvětlil.
+„Myslím, že mladší hráči se bavili, když se po něm také tento týden pokusili, což bylo zábavné vidět.
+Dává mnohem víc než jen hrát.“
 Kapitán Evropy Thomas Bjorn ví, že velký náskok může brzy zmizet
-Thomas Bjorn, evropský kapitán, ze zkušenosti ví, že značný náskok v poslední den ve dvouhře v Ryder Cupu se může snadno proměnit v nepříjemnou jízdu.
-Dán debutoval v roce 1997 ve Valderramě, kde si vedli Seve Ballesteros s pětibodovým náskokem před Američany, ale teprve se dostali přes cílovou čáru s nosem v čele s nejtěsnějším rozdílem a získali 141⁄21)⁄22.
-„Nepřijdete si, že jsme měli velký náskok ve Valderrama; měli jsme velký náskok v Brookline, kde jsme prohráli, a ve Valderramě, kde jsme vyhráli, ale jen těsně,“ řekl Bjorn, na obrázku, poté, co sledoval, jak třída 2018 vyhrát 5-3 jak v pátek, tak v pátek a včera vést 10-6 na Le Golf National.
-Takže historie mi a všem v týmu ukáže, že to ještě není konec.
-Zítra půjdeš naplno.
-Vystup tam a udělej všechny ty správné věci.
-Tohle neskončí, dokud nezadáš body na palubě.
-Máme cíl, a to je pokusit se vyhrát tuto trofej, a to je místo, kde se pozornost.
-Řekl jsem celou dobu, že se zaměřuji na 12 hráčů, kteří jsou na naší straně, ale jsme si tak dobře vědomi toho, co stojí na druhé straně – na největších hráčích na světě.“
-Bjorn potěšil, jak si jeho hráči vedli na těžkém golfovém hřišti, dodal: „Nikdy bych se v tom nedostal před sebe.
-Zítří je jiné zvíře.
-Zítra jsou individuální výkony, které se přednesou, a to je něco jiného.
-Je skvělé být tam s partnerem, když se věci jdou dobře, ale když jste tam jednotlivě, pak jste otestováni na plný své schopnosti jako golfista.
-To je poselství, které musíte dostat na veřejnost k hráčům, je dostat ze sebe zítra to nejlepší.
-Teď tu necháte parťáka a on musí jít a dostat ze sebe i to nejlepší.“
-Na rozdíl od Bjorna bude protějšek Jim Furyk hledat své hráče, aby si vedli lépe individuálně než jako partneři, výjimkou jsou Jordan Spieth a Justin Thomas, kteří získali tři body ze čtyř.
-Furyk sám byl na obou koncích těchto velkých obměňků v poslední den, poté, co byl součástí vítězného týmu v Brookline, než skončil poražený jako Evropa vytáhl „Zázrak v Medinah.“
-„Pamatuji si z toho každé zatracené slovo,“ odpověděl na otázku, jak se Ben Crenshaw, kapitán v roce 1999, shromáždil své hráče, kteří se vydali do posledního dne.
-„Zítra máme 12 důležitých zápasů, ale rád byste se dostal k rychlému startu, jaký jste viděl v Brookline, jak jste viděl v Medinah.
-Když se ten impuls rozjede jedním směrem, vyvíjí to velký tlak na ty střední zápasy.
-Podle toho jsme sestavili sestavu a dali kluky ven tak, že jsme měli pocit, že se zítra snažíme udělat kouzlo.“
-Thomas byl předán úkol pokusit se vést boj a čelí Rory McIlroy v top utkání, s Paul Casey, Justin Rose, Jon Rahm, Tommy Fleetwood a Ian Poulter další Evropané v horní polovině pořadí.
-„V tomhle pořadí jsem šel s touhle skupinou kluků, protože si myslím, že to pokrývá až po celou dobu,“ komentoval Bjorn své singlové výběry.
-Nová německá válečná loď se opět odložila
-Nejnovější fregata německého námořnictva měla být v roce 2014 zadána jako náhrada za stárnoucí válečné lodě z dob studené války, ale bude tam nejméně do příštího roku kvůli vadným systémům a sněhové kouli, uvedla místní média.
-Zadávání „Rheinland-Pfalz“, hlavní lodi zbrusu nových fregat Baden-Wuerttemberg, bylo nyní odloženo na první polovinu roku 2019, podle deníku Die Zeit s odvoláním na vojenského mluvčího.
-Plavidlo se mělo připojit k námořnictvu v roce 2014, ale znepokojivé problémy po rozluštění sužovaly osud ambiciózního projektu.
-Čtyři lodě třídy Baden-Wuerttemberg, které námořnictvo objednalo v roce 2007, budou nahrazovat stárnoucí fregaty třídy Brém.
-Je zřejmé, že budou mít silné dělo, řadu protiletadlových a protilodních střel, stejně jako některé stealth technologie, jako je snížený radar, infračervené a akustické signatury.
-Mezi další důležité prvky patří delší dobu údržby – mělo by být možné nasadit nejnovější fregaty až na dva roky mimo domácí přístavy.
-Nicméně neustálé odklady znamenají, že špičkové válečné lodě – které mají Německu umožnit, aby mohlo předvádět energii v zámoří – se již zastaralí, jakmile vstoupí do služby, poznamenává Die Zeit.
-Neúspěšné fregaty F125 se loni dostaly na titulní stránky novin, když německé námořnictvo plavidlo oficiálně odmítlo uvést do provozu a vrátilo ji do loděnice Blohm & Voss v Hamburku.
-Bylo to poprvé, co námořnictvo po dodávce vrátilo loď na stavitele lodí.
-O důvodech návratu nebylo známo mnoho, ale německá média citovala řadu zásadních „softwarových a hardwarových vad“, které činily válečnou loď nepoužitelnou v případě, že byla nasazena na bojovou misi.
-Nedostatečné nedostatky ve výrobě softwaru byly obzvláště důležité, protože plavidla třídy Baden-Wuerttemberg budou provozována posádkou asi 120 námořníků – jen polovinu pracovních sil na starších fregatách třídy Brém.
-Také vyšlo najevo, že loď má dramaticky nadváhu, což snižuje její výkon a omezuje schopnost námořnictva přidávat budoucí vylepšení.
-7000tunová „Rheinland-Pfalz“ je pravděpodobně dvakrát těžká než lodě podobné třídy používané Němci ve druhé světové válce.
-Kromě vadného hardwaru se z cen celého projektu – včetně výcviku posádky – stává také problémem.
-Má se za to, že dosáhla závratných 3,1 miliardy eur (3,6 miliardy dolarů) – oproti původním 2,2 miliardy eur.
-Problémy, které svíraly nejnovější fregaty, se namočí zejména ve světle nedávných varování, že se německá námořní moc zmenšuje.
-Počátkem letošního roku Hans-Peter Bartels, šéf obranného výboru německého parlamentu, uznal, že námořnictvu ve skutečnosti „vybočuje z lodí schopných nasazení“.
-Úředník řekl, že problém se v průběhu času sníhoval, protože staré lodě byly vyřazeny z provozu, ale žádná náhradní plavidla nebyla poskytnuta.
-Naříkal, že žádná z fregat třídy Baden-Wuerttemberg se nemůže připojit k námořnictvu.
-National Trust odposlouchává tajný život netopýrů
-Nový výzkum, který se provádí na panství ve Skotské vysočině, si klade za cíl odhalit, jak netopýři používají krajinu v jejich lovu na potraviny.
-Doufáme, že zjištění vrhnou nové světlo na chování jedinečných létajících savců a pomohou řídit budoucí aktivity v oblasti ochrany přírody.
-Studie vědců z National Trust for Scotland bude následovat běžné a soprán pipistrelles, stejně jako hnědé dlouho-oared a Daubenton netopýry v Inverewe Gardens v Wester Ross.
-Speciální záznamníky budou umístěny na klíčových místech kolem pozemku sledovat bat aktivity po celou sezónu.
-Zaměstnanci a dobrovolníci NHS budou rovněž provádět mobilní průzkumy pomocí ručních detektorů.
-Odborná zvuková analýza všech záznamů se seznámí s četností netopýřích hovorů a které druhy co dělají.
-Poté bude vytvořena mapa a zpráva o biotopu, která vytvoří podrobný obraz jejich chování v krajině.
-Rob Dewar, poradce pro ochranu přírody pro NTS, doufá, že výsledky odhalí, které oblasti stanoviště jsou pro netopýry nejdůležitější a jak jsou používány každým druhem.
-Tyto informace pomohou určit výhody provozu v oblasti řízení stanovišť, jako je vytvoření louky a jak nejlépe udržovat lesy pro netopýry a další přidružené druhy.
-Populace netopýrů ve Skotsku a v celé Británii se v uplynulém století značně snížila.
-Jsou ohroženy stavebními a developerskými pracemi, které ovlivňují hřídla a ztrátu stanovišť.
-Rizikové turbíny a osvětlení mohou také představovat riziko, stejně jako mucholapky a některé chemické ošetření stavebních materiálů, stejně jako útoky koček v zájmovém chovu.
+Thomas Bjorn, evropský kapitán, ví ze zkušenosti, že značný náskok směřující do minulého dne dvouhry v Ryder Cupu se může snadno proměnit v nepohodlnou jízdu.
+Dane debutoval v roce 1997 zápasu ve Valderramě, kde strana kapitána Seve Ballesteros držela pětibodovou výhodu nad Američany, ale právě se dostala přes cílovou čáru s nosy v přední části nejužším z náskoků, vyhrála 141⁄2-131⁄2.
+„Pořád si připomínáte, že jsme měli velký náskok ve Valderrama; měli jsme velký náskok v Brookline, kde jsme prohráli, a ve Valderrama, kde jsme vyhráli, ale jen,“ řekl Bjorn, který si jen představoval, poté, co sledoval, jak třída 2018 vyhrála 5-3 v pátek a včera, aby vedla 10-6 v Le Golf National.
+Takže historie ukáže mně a všem v týmu, že to ještě neskončilo.
+Zítra půjdeš naplno nudit.
+Vypadni a udělej všechny správné věci.
+To není konec, dokud nezískáte body na šachtě.
+Máme cíl, a to je pokusit se vyhrát tuto trofej, a to je místo, kde se soustředění zůstává.
+Řekl jsem celou dobu, soustředil jsem se na 12 hráčů, kteří jsou na naší straně, ale jsme si tak dobře vědomi toho, co stojí na druhé straně - nejlepší hráči na světě.
+Potěšilo to, jak si jeho hráči vedli na tvrdém golfovém hřišti, Bjorn dodal: „Nikdy bych se v tom nedostal před sebe.
+Zítra je to jiné zvíře.
+Zítra jsou individuální výkony, které se přihlásí, a to je něco jiného.
+Je skvělé být tam s partnerem, když se věci vyvíjejí dobře, ale když jste tam jednotlivě, pak jste testováni na plných vašich schopností jako golfista.
+To je zpráva, kterou musíte dostat na hráče, je dostat to nejlepší ze sebe zítra.
+Nyní necháte svého partnera za sebou a on musí jít a dostat ze sebe to nejlepší, stejně.
+Na rozdíl od Bjorna, opačný počet Jim Furyk bude hledat své hráče, aby podali lepší výkony individuálně než oni jako partneři, výjimky jsou Jordan Spieth a Justin Thomas, který získal tři body ze čtyř.
+Furyk sám byl na obou koncích těchto velkých posledních denních obratů, protože byl součástí vítězného týmu v Brookline předtím, než skončil poražený, když Evropa vytáhla "Miracle at Medinah".
+"Vzpomínám si na každé zatracené slovo," odpověděl na otázku, jak se Ben Crenshaw, kapitán v roce 1999, shromáždil své hráče mířící do posledního dne.
+Zítra máme 12 důležitých zápasů, ale vy byste se rádi dostali na ten rychlý start, jak jste viděli v Brookline, jak jste viděli v Medinah.
+Když se tato dynamika dostane jedním směrem, vytváří to velký tlak na tyto střední zápasy.
+V souladu s nastavením jsme si sestavu připravili a dali kluky do módy, které jsme cítili jako, víte, snažíme se zítra udělat nějaké kouzlo. "
+Thomas byl předán úkol pokusit se vést bojový obojek a čelit Rory McIlroy v top zápase, s Paulem Caseym, Justinem Rosem, Jonem Rahmem, Tommym Fleetwoodem a Ianem Poulterem ostatními Evropany v horní polovině pořadí.
+"Šel jsem s touto skupinou kluků v tomto pořadí, protože si myslím, že to pokrývá celou cestu," řekl Bjorn o svých výběrech singlů.
+Nová německá válečná loď byla opět odložena
+Nejnovější fregata německého námořnictva měla být uvedena do provozu v roce 2014, aby nahradila stárnoucí válečné lodě z dob studené války, ale nebude tam nejméně příští rok kvůli vadným systémům a nákladům na sněžení, informovala místní média.
+Zadávání veřejných zakázku na „Rheinland-Pfalz“, vedoucí loď zbrusu nových zbrusu z Baden-Wuertmebergovy třídy – byla nyní odložena až do první poloviny roku 2019, podle deníku Die Zeit s odvoláním na vojenského mluvčího.
+Plavidlo mělo být napojeno na námořnictvo v roce 2014, ale znepokojující problémy po doručení sužovaly osud ambiciózního projektu.
+Čtyři lodě třídy BADA-Württembersko, které námořnictvo objednalo v roce 2007, přijdou jako náhrada za stárnoucí bremen třídy Bremen.
+Je zřejmé, že budou mít silný děla, řadu protiletadlových a protilodních raket, stejně jako některé technologie stealth, jako jsou snížené radary, infračervené a akustické podpisy.
+Mezi další důležité vlastnosti patří delší údržba - mělo by být možné nasadit nejnovější fregaty až na dva roky od domácích přístavů.
+Nicméně, kontinuální zpoždění znamená, že špičkové válečné lodě - řekl, aby Německo promítnout moc v zámoří - bude již zastaralé v době, kdy vstoupí do služby, Die Zeit.
+Nešťastná fregata F125 se dostala do titulků v loňském roce, když německé námořnictvo oficiálně odmítlo pověřit loď a vrátilo ji do loděnice Blohm & Voss v Hamburku.
+Bylo to poprvé, co námořnictvo po porodu vrátilo loď staviteli lodí.
+O důvodech návratu bylo známo jen málo, ale německá média citovala řadu klíčových „softwarových a hardwarových vad“, které učinily válečnou loď nepoužitelnou, pokud byla nasazena na bojovou misi.
+Softwarové nedostatky byly obzvláště důležité, protože lodě třídy Baden-Wuertmbers budou provozovány posádkou asi 120 námořníků - jen polovina pracovních sil na starších fregatách třídy Brém.
+Také se ukázalo, že loď má dramaticky nadváhu, což snižuje její výkon a omezuje schopnost námořnictva přidat budoucí vylepšení.
+7000 tun "Rheinland-Pfalz" je věřil být dvakrát tak těžké jako podobné lodě používané Němci ve druhé světové válce.
+Kromě vadného hardwaru se cena celého projektu - včetně výcviku posádky - také stává problémem.
+Uvádí se, že dosáhla ohromujících 3,1 miliardy eur (3,6 miliardy dolarů) - z počátečních 2,2 miliardy eur.
+Problémy s přilnavými nejnovějšími fregaty se stávají obzvláště důležitými ve světle nedávných varování, že německá námořní síla se zmenšuje.
+Začátkem tohoto roku Hans-Peter Bartels, šéf obranného výboru německého parlamentu, uznal, že námořnictvu ve skutečnosti „dochází z lodí schopných nasazení“.
+Úředník uvedl, že problém v průběhu času sněhová koule, protože staré lodě byly vyřazeny z provozu, ale nebyly poskytnuty žádné náhradní lodě.
+Naříkal, že žádná z bedých-Württemberských fregat nebyla schopna vstoupit do námořnictva.
+National Trust odposlouchává v tajném životě netopýrů
+Nový výzkum prováděný na panství ve skotské vysočině má za cíl odhalit, jak netopýři využívají krajinu při hledání potravy.
+Předpokládá se, že zjištění budou vrhnout nové světlo na chování jedinečných létajících savců a pomohou vést budoucí ochranářské aktivity.
+Studie vědců z National Trust for Scotland bude následovat běžné a soprahové pipistrelles, stejně jako hnědé dlouho skla a netopýři z Daubentonu v Inverewe Gardens v Wester Ross.
+Speciální rekordéry budou umístěny na klíčových místech kolem nemovitosti, aby sledovaly aktivity netopýrů po celou sezónu.
+Zaměstnanci a dobrovolníci NHS budou také provádět mobilní průzkumy pomocí ručních detektorů.
+Odborná zvuková analýza všech nahrávek zjistí frekvenci netopýřích volání a které druhy dělají co.
+Mapa stanovišť a zpráva pak budou vytvořeny tak, aby vytvořily podrobný krajinný obraz jejich chování.
+Rob Dewar, poradce pro ochranu přírody pro NTS, doufá, že výsledky odhalí, které oblasti stanovišť jsou nejdůležitější pro netopýry a jak jsou používány každým z druhů.
+Tyto informace pomohou určit výhody práce na správě stanovišť, jako je tvorba luk a jak nejlépe udržovat lesy pro netopýry a další přidružené druhy.
+Populace netopýrů ve Skotsku a po celé Velké Británii se v uplynulém století výrazně snížily.
+Jsou ohroženi stavebními a vývojovými pracemi, které ovlivňují hřady a ztrátu stanovišť.
+Větrné turbíny a osvětlení mohou také představovat riziko, stejně jako mušky a některé chemické ošetření stavebních materiálů, stejně jako útoky domácích koček.
 Netopýři nejsou ve skutečnosti slepí.
-Nicméně, vzhledem k jejich nočním loveckým návykům jsou jejich uši užitečnější než jejich oči, pokud jde o chytání kořisti.
-Používají sofistikovanou techniku ozdoby, aby si určili chyby a překážky v letové dráze.
-NTS, který je zodpovědný za péči o více než 270 historických budov, 38 důležitých zahrad a 76.000 hektarů půdy po celé zemi, bere netopýry velmi vážně.
-Má deset vyškolených odborníků, kteří pravidelně provádějí průzkumy, havarijní inspekce a někdy i záchranné.
-Organizace dokonce zřídila první a jedinou vyhrazenou netopýří rezervu ve Skotsku v Threavově panství v Dumfries a Galloway, kde žije osm z deseti skotských druhů netopýrů.
-Manažer nemovitostí David Thompson říká, že panství je pro ně ideálním teritoriem.
-„Tady v Threave máme pro netopýry skvělé místo,“ řekl.
-„Máme staré budovy, spoustu veteránských stromů a všechno dobré prostředí.
-Ale na netočech je toho mnoho, co je stále neznámé, takže práce, kterou zde a na jiných pozemcích děláme, nám pomůže pochopit více o tom, co potřebují k prosperitě.“
-Zdůrazňuje, že je důležité kontrolovat netopýry před provedením údržby v nemovitostech, protože je možné bezděčné zničení jediné mateřské rohosti zabít až 400 žen a mladých, což by mohlo zlikvidovat celou místní populaci.
-Netopýři jsou chráněni a je nezákonné je zabíjet, obtěžovat nebo rušit nebo ničit jejich hukot.
-Elisabeth Ferrellová, skotská pracovnice nadaci Bat Conservation Trust, vyzvala veřejnost, aby se přihlásila a pomohla.
-Řekla: „Stále se máme o našich netopýrech hodně co učit a pro mnoho našich druhů prostě nevíme, jak se jim daří obyvatelům.“
-Ronaldo zamítl obvinění ze znásilnění, protože právníci se zažalují v německém časopise
-Cristiano Ronaldo označil obvinění ze znásilnění proti němu za „falešné zprávy“ a prohlásil, že lidé „se chtějí propagovat“ pomocí jeho jména.
-Jeho právníci se chystají zažalovat německý zpravodajský časopis Der Spiegel, který zveřejnil obvinění.
-Útočník Portugalska a Juventusu byl obviněn ze znásilnění americké ženy, které se jmenovala Kathryn Mayorga, v hotelovém pokoji v Las Vegas v roce 2009.
-Údajně jí pak zaplatil 375 000 dolarů, aby o incidentu mlčela, uvedla v pátek deník Der Spiegel.
-Třiatřicetiletý Ronaldo ve videu na Instagram Live se svými 142 miliony odhlasovaných výpovědí několik hodin po nahlášeních označil zprávy za „falešné zprávy“.
-„Ne, ne, ne, ne, ne.
-To, co dnes řekli, falešné zprávy,“ říká pětinásobný vítěz Zlatého míče do kamery.
-„Chtějí se propagovat pod mým jménem.
-To je normální.
-Chtějí být slavní, když řeknou mé jméno, ale je to součást práce.
-Jsem šťastný muž a v pořádku,“ dodal hráč s úsměvem.
-Ronaldovi právníci se podle agentury Reuters chystají zažalovat Der Spiegel kvůli obviněním, která označili za „neuctivé oznamování podezření v oblasti soukromí“.
-Právník Christian Schertz řekl, že hráč bude požadovat náhradu „morální náhrady ve výši odpovídající závažnosti protiprávního jednání, což je pravděpodobně jedno z nejzávažnějších porušení práv osob v posledních letech“.
-K údajnému incidentu došlo v červnu 2009 v apartmá v hotelu Palms and Casino v Las Vegas.
-Po setkání v nočním klubu se Ronaldo a Mayorga údajně vrátili do hráčova pokoje, kde ji údajně znásilnil, podle dokumentů předložených okresním soudem v Clark County v Nevadě.
-Mayorga tvrdí, že Ronaldo po údajném incidentu padl na kolena a řekl jí, že je „99 procent“ za „dobrého chlapa“ zklamal „jedno procento“.
-Dokumenty tvrdí, že Ronaldo potvrdil, že spolu měli sex, ale že to bylo dobrovolné.
-Mayorga také tvrdí, že šla na policii a nechala si pořídit fotografie zranění v nemocnici, ale později souhlasila s mimosoudním urovnáním, protože se cítila „bochá z odplaty“ a bála se, že bude veřejně ponížena.
-Čtyřiatřicetiletá žena tvrdí, že se nyní snaží o zrušení vyrovnání, protože je údajným incidentem nadále traumatizována.
-Ronaldo byl na pokraji vstupu do Realu Madrid z Manchesteru United v době údajného napadení, a letos v létě se přestěhoval do italských gigantů Juve v € 100 milionů eur dohodu.
-Brexit: Británie „by navždy litovala“ ztráty výrobců aut
-Británie „by toho navždy litovala“, kdyby po brexitu ztratila status světového lídra ve výrobě automobilů, řekl obchodní tajemník Greg Clark.
-Dodal, že je „znepokojující“, že Toyota UK řekla BBC, že pokud Británie opustí EU bez dohody, dočasně zastaví výrobu ve své továrně v Burnastonu nedaleko Derby.
-„Potřebujeme se dohodnout,“ řekl pan Clark.
-Japonská automobilka uvedla, že dopad odkladů na hranicích v případě brexitu bez dohody by mohl stát pracovní místa.
-Závod v Burnast, který vyrábí Auris a Avensis společnosti Toyota, vyrobil v loňském roce téměř 150 000 vozů, z nichž 90 % bylo vyvezeno do zbytku Evropské unie.
-„Podle mě, pokud Británie na konci března vypadne z EU, uvidíme v naší továrně zastávky výroby,“ řekl Marvin Cooke, výkonný ředitel Toyoty v Burnastonu.
-Další výrobci automobilů ve Spojeném království vyvolali obavy z odchod z EU bez dohody o tom, jak bude přeshraniční obchod fungovat, včetně Hondy, BMW a Jaguar Land Rover.
-BMW například tvrdí, že po brexitu na měsíc uzavře svůj závod Mini v Oxfordu.
-Hlavní obavy se týkají toho, co jsou podle výrobců automobilů v případě brexitu bez dohody rizika.
-Výrobní linka Toyoty je provozována „just-in-time“, přičemž díly do Spojeného království i EU přijíždějí každých 37 minut od dodavatelů jak do Velké Británie, tak do EU, aby si objednali automobily.
-Pokud Spojené království 29. března opustí EU bez dohody, mohlo by dojít k narušení na hranicích, což by podle odvětví mohlo vést ke zpožděním a nedostatku dílů.
-Společnost uvedla, že by bylo nemožné, aby Toyota měla ve svém závodě v Derbyshire více než den zásob, a tak se výroba zastaví.
-Pan Clark řekl, že plán Theresy Mayové z Chequers na budoucí vztahy s EU je „přesně kalibrován, aby se zabránilo těmto kontrolám na hranicích“.
-„Musíme se dohodnout. Chceme mít nejlepší nabídku, která umožní, protože se toho, co se v současnosti neužijeme, ale abychom se této příležitosti chopili,“ řekl v dnešním pořadu BBC Radio 4.
-„Důkazy nejen od Toyoty, ale i od jiných výrobců je, že musíme být absolutně schopni pokračovat v velmi úspěšném souboru dodavatelských řetězců.“
-Toyota nebyla schopna říci, jak dlouho bude výroba zastavena, ale v dlouhodobějším horizontu varovala, že zvýšení nákladů sníží konkurenceschopnost elektrárny a nakonec bude stát pracovní místa.
-Peter Tsouvallaris, který v Burnastonu pracuje 24 let a je svolavatelem odborového svazu Unite v závodě, řekl, že jeho členové jsou stále více znepokojeni: „Podle mých zkušeností se tato pracovní místa už nikdy nevrátí.
-Mluvčí vlády řekl: „Předložili jsme přesný a důvěryhodný plán pro náš budoucí vztah s EU.“
-Trumpovo setkání s Rosensteinem se možná znovu odloží, říká Bílý dům
-Sloučení Donalda Trumpa s náměstkem generálního prokurátora Roda Rosensteina by mohlo být „vražet o další týden“, zatímco boj o kandidáta na nejvyšší soud Bretta Kavanaugha pokračuje, uvedl v neděli Bílý dům.
-Rosenstein dohlíží na práci zvláštního právního zástupce Roberta Muellera, který vyšetřuje ruské vměšování do voleb, vazby mezi Trumpovými poradci a Ruskem a potenciální bránění spravedlnosti ze strany prezidenta.
-Zda Trump vyhodí zástupce generálního prokurátora, a tím ohrozí Muellerovu nezávislost, už měsíce přiživuje drby ve Washingtonu.
-Počátkem měsíce deník New York Times informoval, že Rosenstein diskutoval o nošení drátu, aby zaznamenal rozhovory s Trumpem a možnost odvolání prezidenta prostřednictvím 25. dodatku.
-Rosenstein zprávu popřel.
-Ale minulé pondělí se vydal do Bílého domu, mezi zprávami, že se chystá rezignovat.
-Místo toho bylo na čtvrtek oznámeno setkání s Trumpem, který byl v New Yorku v OSN.
-Trump řekl, že by „důkazovat“ Rosensteina vyhodit, ale pak se schůzka zpozdila, aby se vyhnula střetu s senátním soudním výborem, ve kterém Kavanaugh a jedna z žen, které ho obvinily ze sexuálního obtěžování, vypověděla doktorka Christine Blaseyová Fordová.
-V pátek Trump nařídil týdenní vyšetřování FBI ohledně žalob proti Kavanaughovi, což dále oddaluje řádné hlasování v Senátu.
-Trumpova tisková mluvčí Sarah Sandersová se objevila na Fox News Sunday.
-Na otázku ohledně Rosensteinovy schůzky odpověděla: „Datum, které nebylo stanoveno, by mohlo být tento týden, mohla bych se podívat na to, že se posunu další týden odkloní ke všem ostatním věcem, které se dějí u nejvyššího soudu.
-Ale uvidíme a já vždycky rád informuji tisk.“
-Někteří reportéři by toto tvrzení zpochybňovali: Sanders od 10. září nevedl tiskový brífink v Bílém domě.
-Moderátor Chris Wallace se ptal proč.
-Sandersová řekla, že nedostatek brífinků nebyl způsoben nechutí k televizním reportérům „grandstanding“, i když řekla: „Nebudu nesouhlasit s tím, že stojí na koncertě.“
-Poté navrhla, aby se zvýšil přímý kontakt mezi Trumpem a tisk.
-„Prezident dělá více diskusí v Otázkách a akcích, než kterýkoli jiný prezident před ním,“ řekla a bez uvedení důkazů uvedla: „Podívali jsme se na tato čísla.“
-Ke stručným jednáním stále dojde, řekl Sanders, ale „pokud má tisk možnost klást prezidentovi Spojených států přímo na otázky, je to nesrovnatelně lepší než mluvit se mnou.
-Snažíme se to dělat často a za posledních pár týdnů jsme to viděli hodně a to se bude týkat tiskového brífinku, až si budete moci promluvit s prezidentem Spojených států.“
-Trump pravidelně odpovídá na otázky při odchodu z Bílého domu nebo při otevřených zasedáních nebo tiskových konferencích s hostujícími hodnostáři.
-Tiskové konference Solo jsou vzácné.
-V New Yorku tento týden prezident možná předvedl proč, před shromážděnými reportéry se volnomyšlenkářsky a občas bizarně objevil.
-Ministr zdravotnictví píše zaměstnancům EU v NHS Scotland kvůli obavám z brexitu
-Ministr zdravotnictví napsal zaměstnancům EU pracujícím v skotské NHS, aby vyjádřili vděčnost země a přejí si, aby zůstali po brexitu.
-Jeane Freeman MSP poslala dopis s méně než šesti měsíci do odchodu Spojeného království z EU.
-Skotská vláda se již zavázala, že uhradí náklady na žádosti o status usazené osoby, které budou pracovat v jejích přenesených veřejných službách.
-Paní Freemanová ve svém dopise napsala: „V průběhu léta pokračovala jednání mezi Spojeným královstvím a EU o vystoupení, která se letos na podzim ubírají k očekávaným rozhodnutím.
-Vláda Spojeného království však také zintenzivňuje přípravy na možný scénář bez dohody.
-Vím, že to pro vás všechny musí být velmi zneklidňující.
-Proto jsem teď chtěl zopakovat, jak moc si cením příspěvku každého zaměstnance, bez ohledu na jeho národnost.
-Kolegové z celé EU i mimo ni přinášejí cenné zkušenosti a dovednosti, které posilují a zlepšují práci zdravotnictví a prospívají pacientům a komunitám, kterým sloužíme.
-Skotsko je absolutně váš domov a my velmi chceme, abyste tu zůstali.“
-Christion Abercrombie Undergoes Nouzová chirurgie po utrpení hlavy zranění
-Tennessee State Tigers linebacker Christion Abercrombie podstoupil naléhavou operaci poté, co utrpěl zranění hlavy v sobotním 31-27 porážka s Vanderbilt Commodores, Tennessean Mike Var.
-Trenér Tennessee State Rod Reed řekl novinářům, že ke zranění došlo krátce před koncem poločasu.
-„Přišel k postranní čáře a tak nějak se tam zhroutil,“ řekl Reed.
-Trenéři a zdravotníci dali Abercrombiemu kyslík na postranní čáru, než ho položili na nosítka a odnesli ho zpět na další vyšetření.
-Úředník státu Tennessee řekl Chrisi Harrisovi z WSMV v Nashvillu v Tennessee, že Abercrombie byl po operaci ve Vanderbiltu Medical Center.
-Harris dodal, že zatím nejsou žádné podrobnosti o typu/termíně zranění“ a Tennessee State se snaží zjistit, kdy došlo ke zranění.
-Abercrombie, student druhého ročníku v červeném dresu, je ve své první sezóně s Tennessee State po přestupu z Illinois.
-V sobotu měl pět tacklů, než zápas ukončil, což mu vyneslo na 18 tacklů.
-Zahraničním kupcům bude účtováno vyšší kolkovné, když si koupí nemovitost ve Velké Británii
-Zahraničním kupcům bude účtováno vyšší kolkovné, když si koupí nemovitost ve Velké Británii s penězi navíc, které se používají na pomoc bezdomovcům v rámci nových plánů toryů
-Tento krok neutralizuje úspěch Corbynovy snahy přilákat mladé voliče
-Zvýšení kolkovného bude vybíráno od těch, kteří ve Spojeném království neplatí daň.
-Ministerstvo financí očekává, že získá až 120 milionů liber ročně na pomoc bezdomovcům
-Zahraničním kupcům se při nákupu nemovitosti ve Velké Británii účtuje vyšší sazba kolkovného – s dodatečnou hotovostí, která slouží k pomoci bezdomovcům, dnes oznámí Theresa Mayová.
-Tento krok bude vnímán jako pokus o neutralizaci úspěchu snahy Jeremyho Corbyna přilákat mladé voliče sliby, aby zajistili dostupnější bydlení a zaměřili se na vysoce výdělečně činné.
-Zvýšení kolkovného bude vybíráno od jednotlivců a firem, které ve Spojeném království neplatí daně, přičemž peníze navíc posílí snahu vlády bojovat proti tvrdému spánku.
-Příplatek, který je navíc k současnému kolkovnému, včetně vyšších úrovní zavedených před dvěma lety na druhém bydlení a odběratelských kletech, by mohl činit až tři procenta.
-Ministerstvo financí očekává, že tento krok vybere až 120 milionů liber ročně.
-Odhaduje se, že 13 procent novostavby londýnských nemovitostí kupují ne-britské obyvatele, což zvyšuje ceny a ztěžuje prvním kupcům dostat se na bytový žebříček.
-Mnoho bohatých oblastí země – zejména v hlavním městě – se stalo „městmi duchů“ kvůli vysokému počtu zahraničních odběratelů, kteří tráví většinu svého času mimo zemi.
-Nová politika přichází jen několik týdnů poté, co Boris Johnson vyzval ke snížení kolkovného, které by pomohlo většímu počtu mladých lidí vlastnit jejich první domov.
-Obvinil velké stavební firmy, že udržují ceny nemovitostí vysoké tím, že porostou půdou, ale nevyužívají ji, a vyzval paní Mayovou, aby upustila od kvót na cenově dostupné domy a napravila britskou „hudbu bydlení“.
-Pan Corbyn oznámil do očí, že se jí točí řada navrhovaných reforem v oblasti bydlení, včetně regulace nájemného a ukončení vystěhování bez zavinění.
-Chce také dát radnicím větší pravomoci k výstavbě nových domů.
-Paní Mayová řekla: „Minulý rok jsem řekla, že zasvětím své premiérky obnovení britského snu – že život by měl být pro každou novou generaci lepší.
-A to znamená napravit náš rozbitý trh s bydlením.
-Británie tu bude vždy otevřena lidem, kteří zde chtějí žít, pracovat a budovat si život.
-Nemůže však být správné, že pro jednotlivce, které nežijí ve Velké Británii, stejně jako ve společnostech se sídlem v zahraničí, je tak snadné kupovat si domy jako těžce pracující britští obyvatelé.
-Pro příliš mnoho lidí se sen o vlastnictví domů až příliš odbarvuje a nedůstojnost drsného spánku zůstává až příliš reálná.“
-Jack Ross: „Mou největší ambicí je řídit Skotsko“
-Šéf Sunderlandu Jack Ross říká, že jeho „konečnou ambicí“ je stát se skotským manažerem v určité fázi.
-Dvaačtyřicetiletý Skot si vychutnává výzvu oživit severovýchodní klub, který v současné době sedí na třetím místě v první lize, tři body od vrcholu.
-On se přestěhoval na Stadium of Light letos v létě poté, co vedení St Mirren zpět do skotské Premiership v minulé sezoně.
-„Chtěl jsem hrát za svou zemi jako hráč.
-Dostal jsem B čepici a to bylo všechno,“ řekl Ross pro BBC Scotland's Sportsound.
-„Ale jako dítě jsem hodně sledoval Skotsko v Hampdenu a jako dítě jsem se často díval na Skotsko a vždycky mě to vytáhlo zpátky.
-Tato příležitost by však na ně přišla, kdybych se uspěl v klubovém managementu.“
-Mezi Rossovy předchůdce jako manažera Sunderlandu patří Dick Advocaat, David Moyes, Sam Allardyce, Martin O'Neill, Roy Keane, Gus Poyet a Paulo Di Canio.
-Bývalý šéf Alloa Athletic říká, že necítil žádné obavy v následování tak zavedených jmen v tak velkém klubu, předtím odmítl předústrany z Barnsley a Ipswich Town.
-„Success pro mě se teď bude měřit 'můžu vrátit tento klub do Premier League?'
-Vzhledem ke struktuře a zázemí v tomto klubu nepochybně patří do Premier League,“ řekl.
-„Není snadné ho tam dostat, ale asi bych se tu považoval za úspěšného, kdybych klub dostal zpátky.“
-Ross je teprve tři roky ve své manažerské kariéře, po období jako asistent šéfa v Dumbartonu a patnáctiměsíčním kouzlem na trenérský štáb Hearts.
-Poté pomohl Alloeovi zotavit se ze sestupu do třetí ligy a v následující sezoně proměnil St Mirren z pokraje sestupu na vítězné tituly na šampionát.
-A Ross říká, že se teď cítí pohodlněji než během své hráčské kariéry v Clyde, Hartlepoolu, Falkirku, St Mirren a Hamilton Academical.
-„Byla to asi opravdová křižovatka,“ vzpomínal, když se Alloa ujala.
-„Upřímně jsem věřil, že vedení je pro mě to pravé, víc než hraní.
-Zní to bizarně, protože jsem si vedl dobře, vydělal jsem si na živobytí a užil si rozumná vzrodi.
+Nicméně, vzhledem k jejich noční lovecké návyky jsou jejich uši užitečnější než jejich oči, pokud jde o chytání kořisti.
+Používají sofistikovanou echo-location techniku k určení chyb a překážek v jejich letové dráze.
+NTS, která je zodpovědná za péči o více než 270 historických budov, 38 významných zahrad a 76 000 hektarů půdy po celé zemi, bere netopýry velmi vážně.
+Má deset vyškolených odborníků, kteří pravidelně provádějí průzkumy, hřadující inspekce a někdy i záchrany.
+Organizace dokonce zřídila první a jedinou vyhrazenou netopýří rezervu ve Skotsku v Threave v Dumfries a Galloway, která je domovem osmi z deseti druhů netopýrů ve Skotsku.
+Manažer nemovitostí David Thompson říká, že panství je pro ně ideálním územím.
+"Tady v Threave máme skvělou oblast pro netopýry," řekl.
+"Máme staré budovy, spoustu veteránských stromů a všechny dobré stanoviště.
+Ale je tu hodně o netopýrech, které jsou stále neznámé, takže práce, kterou děláme tady a v jiných nemovitostech, nám pomůže pochopit více o tom, co potřebují k prosperitě.
+Zdůrazňuje, že je důležité kontrolovat netopýry před provedením údržby v rámci nemovitostí, protože je možné, že nevědomé zničení jediného mateřského hnízda by mohlo zabít až 400 žen a mladých, což by mohlo zničit celou místní populaci.
+Netopýři jsou chráněni a je nezákonné je zabíjet, obtěžovat nebo rušit nebo ničit jejich hřady.
+Elisabeth Ferrellová, skotská důstojnice společnosti Bat Conservation Trust, povzbudila veřejnost, aby se zapojila do pomoci.
+"Stále se máme hodně co učit o našich netopýrech a pro mnoho našich druhů, jen nevíme, jak se jejich populace daří."
+Ronaldo odmítl obvinění ze znásilnění jako právníky, kteří mají žalovat německý časopis
+Cristiano Ronaldo označil obvinění ze znásilnění proti němu jako "falešné zprávy" a řekl, že lidé "chtějí se propagovat" pomocí jeho jména.
+Jeho právníci mají žalovat německý zpravodajský časopis Der Spiegel, který obvinění zveřejnil.
+Portugalsko a Juventus byli obviněni ze znásilnění americké ženy jménem Kathryn Mayorga v hotelovém pokoji v Las Vegas v roce 2009.
+Údajně jí pak zaplatil 375 000 dolarů, aby o incidentu mlčela, informoval v pátek Der Spiegel.
+V rozhovoru ve videu Instagram Live pro svých 142 milionů následovníků několik hodin poté, co byla tato tvrzení oznámena, Ronaldo, 33, odsoudil zprávy jako "falešné zprávy".
+„Ne, ne, ne, ne.
+To, co dnes řekli, falešné zprávy,“ říká pětinásobný vítěz Ballon d'Or do kamery.
+"Chtějí se propagovat pomocí mého jména.
+- Je to normální.
+Chtějí být slavní, aby řekli mé jméno, ale je to součást práce.
+Jsem šťastný muž a všechno v pořádku,“ dodal hráč s úsměvem.
+Ronaldovi právníci se připravují žalovat Der Spiegel kvůli obviněním, které označili za "nepřípustné hlášení podezření v oblasti soukromí", podle agentury Reuters.
+Právník Christian Schertz uvedl, že hráč bude požadovat náhradu za "morální škody ve výši odpovídající závažnosti porušení, což je pravděpodobně jedno z nejzávažnějších porušení osobních práv v posledních letech".
+Údajný incident se údajně odehrál v červnu 2009 v apartmá v hotelu Palms a Casino v Las Vegas.
+Po setkání v nočním klubu se Ronaldo a Mayorga údajně vrátili do herna hráče, kde ji údajně znásilnil, podle dokumentů podaných u okresního soudu v Clarku v Nevadě.
+Starostaga tvrdí, že Ronaldo po údajném incidentu padl na kolena a řekl jí, že je "99 procent" "dobrý chlap" zklamaný "o 1%".
+Dokumenty tvrdí, že Ronaldo potvrdil, že dvojice měla sex, ale že to bylo konsensuální.
+Mayorga také tvrdí, že šla na policii a měla fotografie pořízené z jejích zranění v nemocnici, ale později souhlasila s mimosoudním vyrovnáním, protože se cítila "vyděšená z odvety" a obávala se, že bude "veřejně ponížena".
+Čtyřiatřicetiletá žena říká, že se nyní snaží zvrátit vyrovnání, protože je i nadále traumatizována údajným incidentem.
+Ronaldo byl na pokraji příchodu do Realu Madrid z Manchesteru United v době údajného útoku a letos v létě se přestěhoval k italským gigantům Juve v dohodě o 100 milionech eur.
+Brexit: Británie „bude navždy litovat“ ztráty automobilek
+Spojené království by "bylo navždy líto", kdyby ztratilo svůj status světového lídra ve výrobě automobilů po Brexitu, řekl ministr obchodu Greg Clark.
+Dodal, že je "znepokojující", že Toyota UK řekla BBC, že pokud Británie opustí EU bez dohody, dočasně zastaví výrobu ve své továrně v Burnastonu, poblíž Derby.
+"Potřebujeme dohodu," řekl Clark.
+Japonská automobilka uvedla, že dopad zpoždění hranic v případě brexitu bez dohody by mohl stát pracovní místa.
+Závod v Burnastonu, který vyrábí vozy Toyota Auris a Avensis, vyrobil v loňském roce téměř 150 000 vozů, z nichž 90% bylo vyvezeno do zbytku Evropské unie.
+"Můj názor je, že pokud Británie na konci března vypadne z EU, uvidíme, že se v naší továrně zastaví výroba," řekl Marvin Cooke, výkonný ředitel Toyoty v Burnastonu.
+Jiní britští výrobci automobilů vyjádřili obavy, že opustí EU bez dohody o tom, jak bude fungovat přeshraniční obchod, včetně společností Honda, BMW a Jaguar Land Rover.
+BMW například říká, že po Brexitu uzavře svůj závod Mini v Oxfordu na měsíc.
+Hlavní obavy se týkají toho, co výrobci automobilů říkají, že jsou rizika dodavatelského řetězce v případě brexitu bez dohody.
+Produkční linka Toyoty je provozována na základě "just-in-time", přičemž díly přijíždějí každých 37 minut od dodavatelů ve Velké Británii i v EU pro automobily vyrobené na objednávku.
+Pokud Spojené království opustí EU bez dohody 29. března, mohlo by dojít k narušení na hranicích, což by podle odvětví mohlo vést ke zpoždění a nedostatku dílů.
+Bylo by nemožné, aby Toyota držela více než den inventáře ve svém závodě Derbyshire, uvedla společnost, a tak bude výroba zastavena.
+Clark uvedl, že plán Theresy Mayové na budoucí vztahy s EU je "přesně kalibrován, aby se zabránilo těmto kontrolám na hranicích".
+"Potřebujeme se dohodnout. Chceme mít nejlepší dohodu, která umožní, protože říkám nejen úspěch v současné době, aby se těšili, ale abychom se chopili této příležitosti,“ řekl v pořadu Today rozhlasové stanice BBC Radio 4.
+"Důkazy nejen od Toyoty, ale i dalších výrobců jsou, že musíme být absolutně schopni pokračovat v tom, co bylo velmi úspěšným souborem dodavatelských řetězců."
+Toyota nebyla schopna říci, jak dlouho bude výroba zastavena, ale v dlouhodobém horizontu varovala, že další náklady by snížily konkurenceschopnost závodu a nakonec by stály pracovní místa.
+Peter Tsouvalalis, který pracuje v Burnastonu 24 let a je svolavatelem odborů Unite v továrně, řekl, že jeho členové jsou stále více znepokojeni: „Podle mých zkušeností, jakmile tyto práce jdou, nikdy se nevrátí.
+Mluvčí vlády uvedl: „Položili jsme přesný a důvěryhodný plán pro naše budoucí vztahy s EU.“
+Trumpovo setkání s Rosensteinem může být opět odloženo, tvrdí Bílý dům
+Setkání Donalda Trumpa s náměstkem generálního prokurátora Rodem Rosensteinem by mohlo být "zatlačeno zpět o další týden", protože boj o kandidáta Nejvyššího soudu Bretta Kavanaugha pokračuje, uvedl Bílý dům v neděli.
+Rosenstein dohlíží na práci zvláštního vyšetřovatele Roberta Muellera, který vyšetřuje ruské vměšování do voleb, vazby mezi Trumpovými poradci a Ruskem a potenciální bránění spravedlnosti prezidentem.
+Zda Trump propustí náměstka generálního prokurátora, a tím ohrozí Muellerovu nezávislost, podnítilo Washingtonské klepy na měsíce.
+Začátkem tohoto měsíce New York Times oznámily, že Rosenstein diskutoval o nošení drátu, aby zaznamenal rozhovory s Trumpem a možnost odstranit prezidenta prostřednictvím 25. dodatku.
+Rosenstein tuto zprávu popřel.
+Ale minulý pondělí šel do Bílého domu, uprostřed zpráv, že se chystá rezignovat.
+Místo toho bylo oznámeno setkání s Trumpem, který byl tehdy v OSN v New Yorku, oznámeno ve čtvrtek.
+Trump řekl, že by "nebyla" odpálen Rosenstein, ale pak byla schůzka odložena, aby se zabránilo střetu se senátním soudním výborem, ve kterém Kavanaugh a jedna z žen, která ho obvinila ze sexuálního zneužívání, Dr. Christine Blasey Ford, oba svědčili.
+V pátek Trump nařídil týdenní vyšetřování FBI ohledně obvinění proti Kavanaughovi, což dále odložilo plné hlasování v Senátu.
+Trumpova tisková mluvčí Sarah Sandersová se v neděli objevila na Fox News.
+Na otázku ohledně setkání Rosensteina řekla: „Datum pro to nebylo stanoveno, mohlo by to být tento týden, mohl bych vidět, že posun zpět další týden vzhledem k tomu, všechny ostatní věci, které se dějí s nejvyšším soudem.
+Ale uvidíme a já vždy rád uplatním tisku aktualizovaný.“
+Někteří reportéři by toto tvrzení zpochybnili: Sanders od 10. září nepořádal tiskovou konferenci v Bílém domě.
+Moderátor Chris Wallace se zeptal proč.
+Sanders řekl, že nedostatek instruktáží nebyl kvůli nechuti k tomu, aby televizní reportéři "velkolepí", i když řekla: "Nebudu nesouhlasit s tím, že se postaví."
+Poté navrhla přímý kontakt mezi Trumpem a tiskem, který se zvýší.
+"Prezident dělá více otázek a jménů než kterýkoli jiný prezident má před ním," řekla a dodala bez citace důkazů: "Podívali jsme se na tato čísla."
+Briefingy se stále stanou, řekl Sanders, ale „pokud má tisk šanci klást prezidentovi Spojených států přímo na otázky, je to nekonečně lepší než mluvit se mnou.
+Snažíme se o to hodně a viděli jste, že jsme to v posledních několika týdnech hodně dělali a to bude místo tiskového briefingu, kdy můžete mluvit s prezidentem Spojených států.
+Trump pravidelně přijímá otázky při odchodu z Bílého domu nebo účasti na otevřených zasedáních nebo tiskových konferencích s navštěvovanými hodnostáři.
+Sólové tiskové konference jsou vzácné.
+V New Yorku tento týden prezident možná ukázal proč, dělat freewheeling a občas bizarní vzhled před shromážděnými reportéry.
+Ministr zdravotnictví píše pracovníkům EU v NHS Scotland kvůli obavám z Brexitu
+Ministr zdravotnictví napsal zaměstnancům EU pracujícím ve skotském NHS, aby vyjádřili vděčnost země a přejí si, aby zůstali na post-Brexit.
+Jeane Freeman MSP poslala dopis s méně než šesti měsíci, než se Spojené království stáhlo z EU.
+Skotská vláda se již zavázala pokrýt náklady na žádosti o status usedlíky pro občany EU pracující ve svých přenesených veřejných službách.
+Ve svém dopise paní Freeman napsala: „Během léta pokračovala jednání mezi Spojeným královstvím a EU o vystoupení a směřující k očekávaným rozhodnutím letos na podzim.
+Ale britská vláda také zintenzivnila své přípravy na možný scénář bez dohody.
+Vím, že to pro vás všechny musí být velmi znepokojující doba.
+To je důvod, proč jsem chtěl nyní zopakovat, jak moc si cením přínosu každého zaměstnance, bez ohledu na jejich národnost.
+Kolegové z celé EU i mimo ni přinášejí cenné zkušenosti a dovednosti, které posilují a zlepšují práci zdravotnických služeb a prospívají pacientům a komunitám, kterým sloužíme.
+Skotsko je naprosto váš domov a my velmi chceme, abyste tu zůstali.“
+Christion Abercrobie podstoupila nouzovou operaci poté, co utrpěla zranění hlavy
+Tennessee State Tigers linebacker Christion Abercrombie podstoupil nouzovou operaci poté, co utrpěl zranění hlavy v sobotní porážce 31-27 na Vanderbilt Commodores, Tennessean Mike Organ.
+Trenér státu Tennessee Rod Reed novinářům řekl, že ke zranění došlo krátce před poločasem.
+"Přišel k postranní čáře a tak nějak se tam zhroutil," řekl Reed.
+Trenéři a zdravotnický personál dali Abercrombie kyslík na vedlejší koleji, než ho umístili na nosítka a vzali ho zpět k dalšímu vyšetření.
+Úředník z Tennessee State řekl Chrisi Harrisovi z WSMV v Nashvillu v Tennessee, že Abercrombie byl mimo operaci ve Vanderbilt Medical Center.
+Harris dodal, že zatím neexistují žádné podrobnosti o typu / rozšíření zranění" a stát Tennessee se snaží zjistit, kdy došlo ke zranění.
+Abercrombie, druhák v červené košili, je ve své první sezóně s Tennessee State po převozu z Illinois.
+On měl pět celkových řešení v sobotu před ukončením hry, což přineslo jeho sezónu celkem na 18 řešit.
+Zahraničním kupujícím bude účtováno vyšší kolkovné, když si koupí nemovitost ve Velké Británii.
+Zahraničním kupujícím bude účtováno vyšší kolkovné, když si koupí nemovitost ve Velké Británii s extra hotovostí použitou na pomoc bezdomovcům v rámci nových plánů Toryů.
+Tento krok neutralizuje úspěch Corbynova úsilí o přilákání mladých voličů.
+Zvýšení kolkovného bude uvaleno na ty, kteří neplatí daně ve Velké Británii.
+Ministerstvo financí očekává, že získá až 120 milionů liber ročně na pomoc bezdomovcům.
+Zahraniční kupující mají být účtovány vyšší kolkovné sazby, když si koupí nemovitost ve Velké Británii - s dodatečnými penězi použitými na pomoc bezdomovců, Theresa May dnes oznámí.
+Tento krok bude považován za pokus neutralizovat úspěch Jeremyho Corbyna, aby přilákal mladé voliče s příslibem poskytnout cenově dostupnější bydlení a zaměřit se na osoby s vysokými příjmy.
+Zvýšení kolkovného bude uvaleno na jednotlivce a firmy, které neplatí daň ve Velké Británii, přičemž další peníze zvyšují úsilí vlády v boji proti drsnému spánku.
+Příplatek - který je navíc k současnému kolkovnému, včetně vyšších úrovní, která byla zavedena před dvěma lety na druhé domy a buy-to-lets, by mohla být až o tři procenta.
+Ministerstvo financí očekává, že tento krok získá až 120 milionů liber ročně.
+Odhaduje se, že 13 procent nově postavených londýnských nemovitostí je zakoupeno nebritskými obyvateli, což zvyšuje ceny a ztěžuje kupujícím poprvé, aby se dostali na žebřík bydlení.
+Mnoho bohatých oblastí země - zejména v hlavním městě - se stalo "městy duchů" kvůli vysokému počtu zahraničních kupujících, kteří tráví většinu svého času mimo zemi.
+Nová politika přichází jen několik týdnů poté, co Boris Johnson vyzval ke snížení kolkovného, aby pomohlo více mladým lidem vlastnit svůj první domov.
+Obvinil velké stavební firmy, že udržují ceny nemovitostí vysoké tím, že vytrhávají půdu, ale nepoužívají ji, a vyzval paní Mayovou, aby opustila kvóty na cenově dostupné domy, aby opravila britskou "housing hanbu".
+Corbyn oznámil poutavou sérii navrhovaných reforem bydlení, včetně kontroly nájmu a ukončení vystěhování „bezchybného“.
+Chce také dát radám větší pravomoci k výstavbě nových domů.
+Paní Mayová řekla: „Loni jsem řekla, že budu věnovat své premiérství obnovení britského snu – že život by měl být lepší pro každou novou generaci.
+A to znamená opravit náš rozbitý trh s bydlením.
+Británie bude vždy otevřená lidem, kteří zde chtějí žít, pracovat a budovat život.
+Nemůže však být správné, aby bylo pro jednotlivce, kteří nežijí ve Velké Británii, stejně jako pro zahraniční společnosti, aby si koupili domy jako tvrdě pracující britští obyvatelé.
+Pro příliš mnoho lidí se sen o vlastnictví domů stal příliš vzdáleným a pobídka drsného spánku zůstává až příliš skutečná.
+Jack Ross: „Mou ultimátní ambicí je řídit Skotsko“
+Šéf Sunderlandu Jack Ross říká, že jeho "konečná ambicí" je stát se v určité fázi skotským manažerem.
+Skot, 42, si vychutnává výzvu oživení severovýchodního klubu, který v současné době sedí na třetím místě v League One, tři body od vrcholu.
+Letos v létě se přestěhoval na Stadion světla poté, co v minulé sezóně vedl St Mirren zpět do skotské Premiership.
+"Chtěl jsem hrát za svou zemi jako hráč.
+Dostal jsem B čepici a bylo to,“ řekl Ross pro BBC Scotland's Sportsound.
+Ale vyrostl jsem při sledování Skotska v Hampdenu hodně s mým otcem jako dítětem a je to vždy něco, co mě přitáhlo zpět.
+Tato příležitost by však přišla, jen kdyby jsem úspěšný v řízení klubu.“
+Rossovými předchůdci jako manažerem Sunderlandu jsou Dick Advocaat, David Moyes, Sam Allardyce, Martin O'Neill, Roy Keane, Gus Poyet a Paulo Di Canio.
+Bývalý šéf Alloa Athletic říká, že necítil žádné znepokojení při sledování takových zavedených jmen v tak velkém klubu, když předtím odmítl předehry od Barnsleyho a Ipswich Town.
+"Úspěch pro mě v tuto chvíli bude změřen 'můžu vrátit tento klub do Premier League?'
+"Kvůli struktuře a zařízením v tomto klubu to nepochybně patří do Premier League," řekl.
+„Není to snadný úkol, abych to tam dostal, ale pravděpodobně bych se považoval za úspěšného tady, kdybych se tam dostal zpátky.“
+Ross je jen tři roky v jeho manažerské kariéře, po období jako asistent šéfa v Dumbartonu a 15-měsíční kouzlo na trenérský personál Hearts.
+On pak pomohl Alloa zotavit z sestupu do třetí úrovně, a transformoval St Mirren z okraje sestupu na Championship vítězové v následující sezóně.
+A Ross říká, že se cítí pohodlněji než kdy během své hráčské kariéry v Clyde, Hartlepool, Falkirk, St Mirren a Hamilton Academical.
+"Byla to pravděpodobně skutečná křižovatka," vzpomínal, když se ujal vedení Alloa.
+„Opravdu jsem věřil, že vedení bylo pro mě správné, více než hrát.
+Zní to bizarně, protože jsem udělal dobře, udělal z toho rozumné živobytí a užil si nějaké rozumné vzestupy.
 Ale hrát může být těžké.
-Je spousta věcí, které musíte každý týden projít.
-Stále si tím procházím, pokud jde o stres a tlak na práci, ale vedení se prostě cítí dobře.
-Vždycky jsem to chtěl zvládnout a teď to dělám, cítím se nejpohodlněji ve své kůži po celý svůj dospělý život.“
-Celý rozhovor na Sportsound si můžete poslechnout v neděli 30. září na Rádiu Skotsko mezi 12:00 a 13:00 SELČ
-Perfektní čas pro pintu je v sobotu v 17:30, zjistil průzkum
-Letní vlna veder posílila tržby pro britské hospody, které se potýkají s problémy, ale vršily větší tlak na restaurační řetězce.
-Pub a barové skupiny zaznamenaly v červenci nárůst prodeje o 2,7 procenta – ale tržby v restauracích se snížily o 4,8 procenta, jak ukazují čísla.
-Peter Martin z podnikatelské poradenské společnosti CGA, která sestavila čísla, řekl: „Pokračující sluneční svit a účast Anglie na mistrovství světa ve fotbale, která se očekávala, znamenalo, že červenec se ubíral podobným vzorem jako v předchozím měsíci června, kdy hospody vzrostly o 2,8 procenta, až na to, že restaurace byly zasaženy ještě silněji.
-Pokles poklesu počtu 1,8 procenta v restauracích se v červnu v červenci jen zhoršil.
-Pití hospody a bary se předváděly zdaleka nejsilněji s něčím, co se jako za-lichovaly, než byly na zemi restaurace.
-Na slunci trpěly také hospody vedené jídelními vozy, i když ne tak dramaticky jako provozovatelé restaurací.
-Vypadá to, že lidi chtěli jít na skleničku.
-Vcelkové hospodě a bary se prodejem nájí za měsíc zvýšil o 6,6 procenta, přičemž jídlo o tři procenta kleslo.“
-Paul Newman, z porodu a pohostinství analytiků RSM řekl: „Tyto výsledky pokračují v trendu, který jsme viděli od konce dubna.
-Počasí a dopad velkých společenských nebo sportovních akcí zůstávají největšími faktory, pokud jde o prodej na mimodomovním trhu.
-Není žádným překvapením, že sesternické skupiny nadále bojují, i když pokles prodeje meziročně o 4,8 procenta bude obzvlášť bolestivý, až na pokračující nákladové tlaky.
-Dlouhé horké léto nemohlo přijít v horší dobu pro provozovatele vedené potravinami a čas řekne, zda mírnější teploty, které jsme v srpnu zažili, přinese tolik potřebný oddech.“
-Celkový růst tržeb v hospodách a restauracích, včetně nových otevřených dveří, byl v červenci 2,7 procenta, což odráží zpomalení v rolích mezi značkami.
-Sledovatel prodeje v odvětví Coffer Peach Tracker pro britské hospodské, barové a restaurační odvětví shromažďuje a analyzuje údaje o výkonnosti od 47 operačních skupin s celkovým obratem přes 9 miliard liber a je zavedeným odvětvovým měřítkem.
-Jedno z pěti dětí má tajné účty na sociálních sítích, které se skrývají před rodiči.
-Jedno z pěti dětí – některé ve věku 11 let – má tajné účty na sociálních sítích, které skrývají před rodiči a učiteli, ukazuje průzkum
-Průzkum 20 000 žáků středních škol odhalil růst stránek „falešných instancí“
-Zpráva zvýšila obavy, že sexuální obsah je zveřejněn
-Dvacet procent žáků uvedlo, že mají „hlavní“ účet, který rodičům ukazuje
-Jedno z pěti dětí – některé ve věku 11 let – vytváří účty na sociálních sítích, které drží před dospělými v tajnosti.
-Průzkum mezi 20 000 žáky středních škol odhalil rychlý růst v účtech „falešných insta“ – odkaz na stránku pro sdílení fotografií Instagram.
-Zpráva zvýšila obavy, že je zveřejňován sexuální obsah.
-Dvacet procent žáků uvedlo, že provozují na sobě s „hlavní“ výpovědí, aby je mohli ukázat rodičům a zároveň mít soukromé.
-Jedna matka, která narazila na tajnou stránku své třináctileté dcery, našla teenagera, jak nabádá ostatní, aby mě „znásilnili“.
-Výzkum Digital Awareness UK a Headmasters“ and Headmistresses“ Conference (HMC) nezávislých škol zjistil, že 40 procent z 11 až 18letých má dva profily, přičemž polovina těch, kteří se přiznávají, že vedou soukromé účty.
-Šéf HMC Mike Buchanan řekl: „Je to znepokojující, že tolik teenagerů je v pokušení vytvořit on-line prostory, kde je rodiče a učitelé nemohou najít.“
-Eilidh Doyle bude „hlasem pro sportovce“ na skotské atletice
-Eilidh Doyle byla zvolena do představenstva skotské atletiky jako nevýkonná ředitelka na výroční valné hromadě řídícího orgánu.
-Doyle je nejvíce vyznamenaný skotský atlet a předseda představenstva a předseda představenstva Ian Beattie popsal tento krok jako skvělou příležitost pro ty, kteří vedli tento sport těžit ze svých rozsáhlých zkušeností na mezinárodní úrovni v posledních deseti letech.
-„Eilidh má obrovský respekt napříč skotskou, britskou a světovou atletickou komunitou a jsme si jisti, že atletice ve Skotsku by jí nesmírně prospělo, kdyby ji přivedl na palubu,“ řekla Beattie.
-Doyle řekl: „Jsem rád, že budu hrát jako hlas pro sportovce a doufám, že mohu opravdu přispět a pomoci řídit sport ve Skotsku.“
-Američan, který vyhrál na hrách v roce 1996 v Atlantě na 200 metrů a 400 metrů mezi svými čtyřmi olympijskými zlatými a nyní je pravidelným bBC punditem, nemohl chodit poté, co utrpěl přechodný ischemický záchvat.
-Na Twitteru napsal: „Ještě před měsícem jsem utrpěl mrtvici.
-Nemohl jsem chodit.
-Lékaři říkali, že jen čas ukáže, jestli se uzdravím nebo do jaké míry.
-Byla to vyčerpávající práce, ale plně se zotavil, znovu se naučil chodit a dnes dělá agility vrtačky!
-Díky za povzbuzující vzkazy!“
-Reklama na prsní pumpy přirovnává matky k kravám rozděluje názor online
-Společnost vyrábějící prsní pumpy rozdělila na internetu názory inzerátem, který přirovnává kojící matky k dojení krav.
-U příležitosti uvedení toho, co je údajně „první tichý nositelný hrudník na světě“, vydala spotřebitelská technologická společnost Elvie s jazykem na videu inspirovaný videem, aby předvedla svobodu, kterou nová pumpa dává vyjádřením vyjadřující matky.
-Čtyři skutečné matky tančí ve stodole krav plstěné sena na skladbě, která obsahuje text jako: „Ano, já si dojím, ale nevidíš žádný ocas“ a „V případě, že jste si nevšimli, že to nejsou vemen, jsou to moje prsa.“
-Sbor pokračuje: „Napumpuj to, napumpuj to, krmím je dětmi, pumpuju to, pumpuju to, dojímu své dámy.“
-Reklama, která byla zveřejněna na facebookové stránce firmy, však vyvolala na internetu kontroverzi.
-S 77 000 zhlédnutímmi a stovkami komentářů se ve videu dočkalo smíšených reakcí diváků, přičemž mnozí tvrdili, že zlehčuje „hrůzu“ mlékárenského průmyslu.
-„Velmi špatné rozhodnutí používat krávy inzerovat tento produkt.
-Stejně jako my musí otěhotnět a rodit, aby mohli produkovat mléko, až na to, že jejich děti jsou jim ukradeny během několika dní po porodu,“ napsal jeden z nich.
-Prsní pumpa Elvie se diskrétně vejde do kojenecké podprsenky (Elvie/Mother)
-Jiný poznamenal: „Je to pochopitelně traumatické pro matku i dítě.
-Ale jo, proč je nepoužít k propagaci prsní pumpy pro matky, které si mohou nechat své děti?“
-Někdo jiný dodal: „Takový nemístný inzerát.“
-Jiní inzerát obhajovali a jedna žena přiznala, že jí píseň připadá „hilárná“.
-„Myslím, že je to myšlenka pro rod.
-Měla bych ho, kdybych pořád kojila.
-Když jsem se napumpoval, cítil jsem se přesně jako kráva.
-Ten inzerát je trochu naštvaný, ale vzal jsem si to za to, co to bylo.
-Tohle je geniální produkt,“ napsal jeden z nich.
-Jiný poznamenal: „Je to zábavná reklama zaměřená na maminky, které pumpují (často na svých pracovištích nebo na toaletách) a cítí se jako „kráva“.
-To není reklama chválit nebo posuzovat mlékárenský průmysl.“
-Na konci videa skupina žen odhaluje, že všechny tančily s diskrétními lodičkami zastrčenými podprsními podprsními.
-Koncept kampaně je založen na poznání, že mnoho žen, které prsní bumpují říkají, že se cítí jako krávy.
-Elvie Pump však naprosto mlčí, nemá žádné dráty ani hadičky a diskrétně se vejde do kojenecké podprsenky, dává ženám svobodu se stěhovat, držet děti, a dokonce chodit ven, zatímco pumpuje.
-Ana Balarin, partnerka a ECD v Mother poznamenala: „Livie Pump je tak revoluční produkt, že si zaslouží odvážný a provokativní uvedení na trh.
-Tím, že jsme vykreslili paralelu mezi vyjadřováním žen a dojnicemi a mléčnými krávami, chtěli jsme pumpovat prsa a všechny její výzvy se středem pozornosti a zároveň ukázat zábavným a přátelským způsobem neuvěřitelný pocit svobody, který nová pumpa přinese.
-Není to poprvé, co se pumpa Elvie dostala na titulní stránky novin.
-Během London Fashion Week se na přehlídkovém molu objevila matka dvou dětí návrhářce Marty Jakubowski, když výrobek používala.
-Stovky dětí migrujících se později přesunovaly do stanového tábora na Texaské hranici
-Počet zadržovaných dětí migrantů se zvýšil, přestože měsíční hraniční přechody se relativně nezměnily, zčásti proto, že ostrá rétorika a politiky zavedené Trumpovou administrativou ztížily umisťování dětí se sponzory.
-Většina sponzorů byla tradičně samotnými přistěhovalci bez dokladů a obávali se, že ohrožují svou vlastní schopnost zůstat v zemi tím, že se ujme nároku na dítě.
-Riziko se zvýšilo v červnu, kdy federální orgány oznámily, že potenciální sponzoři a ostatní dospělí členové jejich domácností budou muset zaslat otisky prstů a že údaje budou sdíleny s imigračními úřady.
-Minulý týden Matthew Albence, vysoký představitel imigračního a celního úřadu, před Kongresem vypověděl, že agentura zatkla desítky lidí, kteří se ucházeli o sponzorování nezletilých bez doprovodu.
-Agentura později potvrdila, že 70 procent zatčených nemá záznam v trestních rejstříku.
-„Blízko 80 procent osob, které jsou sponzory, nebo rodinnými příslušníky sponzorů jsou zde v zemi nelegálně, a velká část z nich jsou zločinci.
-Takže se o ty jednotlivce dál věnujeme,“ pane. řekl Albence.
-Ve snaze zpracovat děti rychleji úředníci zavedli nová pravidla, která budou vyžadovat, aby se některé z nich dostavily k soudu do měsíce poté, co budou zadrženy, a nikoli po 60 dnech, což bylo podle pracovníků útulku předchozí standard.
-Mnozí se objeví prostřednictvím videokonferenčního hovoru, spíše než osobně, aby obhajovali svůj právní status imigračnímu soudci.
-Ti, kteří jsou považováni za nezpůsobilé k úlevě, budou rychle deportováni.
-Tím déle zůstávají děti ve vazbě, tím je pravděpodobnější, že se stanou úzkostmi nebo depresemi, což může vést k násilným výpadkům nebo pokusům o útěk, jak tvrdí pracovníci v útulku a zprávy, které se z systému v posledních měsících objevily.
-Zastánci uvedli, že tyto obavy se zvyšují ve větším zařízení, jako je Tornillo, kde jsou známky toho, že dítě má problémy, kvůli své velikosti s větší pravděpodobností přehlíženou.
-Dodali, že přesun dětí do stanu, aniž by jim poskytl dostatek času na to, aby se emocionálně připravily nebo se rozloučily s přáteli, by mohlo prohloubit trauma, se kterým už mnozí bojují.
-Sýrie sdělila USA, francouzským a tureckým „okupujícím silám“ k okamžitému stažení
-Na Valném shromáždění OSN vyzval ministr zahraničí Valíd al-Moulem také syrské uprchlíky, aby se vrátili domů, přestože válka v zemi je již osmým rokem.
-Moualem, který také působí jako místopředseda vlády, řekl, že zahraniční síly jsou na syrské půdě nelegálně pod záminkou boje proti terorismu a „bude se s nimi zarovnán odpovídajícím způsobem“.
-„Musí se okamžitě a bez jakýchkoli podmínek stáhnout,“ řekl shromáždění.
-Moualem trval na tom, že „válka proti teroru je téměř u konce“ v Sýrii, kde od roku 2011 zemřelo více než 360 000 lidí, přičemž další miliony lidí se vybojovaly ze svých domovů.
-Řekl, že Damašek bude pokračovat v „boji v této posvátné bitvě, dokud neplástlí všechna syrská území“ jak teroristických skupin, tak „jakoukoli ilegální zahraniční přítomnost“.
-Spojené státy mají v Sýrii zhruba 2000 vojáků, převážně školí a radí kurdským silám a syrským Arabům, kteří jsou proti prezidentu Bašáru Asadovi.
-Francie má více než 1000 vojáků v zemi sužované válkou.
-Pokud jde o otázky uprchlíků, Moualem řekl, že podmínky jsou pro ně dobré vrátit se, a obvinil „některé západní země“ z „šíření iracionálních obav“, které přiměly uprchlíky zůstat stranou.
-„Vyzývali jsme mezinárodní společenství a humanitární organizace, aby tyto návraty usnadnily,“ uvedl.
-„Politizují to, co by mělo být čistě humanitární tématikou.“
-Spojené státy a Evropská unie varovaly, že Sýrii nebude žádná pomoc při rekonstrukci, dokud mezi Asadem a opozicí neskončí politická dohoda o ukončení války.
-Diplomaté OSN tvrdí, že nedávná dohoda mezi Ruskem a Tureckem o vytvoření nárazníkové zóny v poslední velké baště rebelů v Idlibu vytvořila příležitost k prosazení politických rozhovorů.
-Rusko-turecká dohoda odvrátila rozsáhlý útok syrských sil podporovaných Ruskem na provincii, kde žijí tři miliony lidí.
-Moualem však zdůraznil, že dohoda má „jasné termíny“ a vyjádřil naději, že vojenská akce se zaměří na džihádisty včetně bojovníků z Nusrovy fronty napojené na Al-Káidu, kteří „budou vymýceni“.
-Vyslanec OSN Staffan de Mistura doufá, že brzy svolá první zasedání nového výboru složeného z vládních a opozičních poslanců, aby vypracoval poválečnou ústavu pro Sýrii a připravil cestu k volbám.
-Moualem stanovil podmínky pro účast syrské vlády ve výboru s tím, že práce panelu by měla být omezena „přezkoumání článků současné ústavy“, a varoval před vměšováním.
-Proč Trump vyhraje druhý termín
-Podle této logiky, pane. Trump by v roce 2020 vyhrál znovuzvolení, pokud, jak mnozí liberální diváci pravděpodobně doufají, obžaloba a skandál předčasně ukončí jeho prezidentský úřad.
-V čem by bezpochyby bylo „Nejdramatičtější finále prezidentského působení vůbec!“
-Od teď se neobjevují žádné známky únavy diváků.
-Od roku 2014 se sledovanost v hlavním vysílacím čase více než zdvojnásobila na 1,05 milionu v CNNBC a na MSNBC se téměř ztrojnásobila na 1,6 milionu.
-Fox News má v průměru 2,4 milionu diváků v hlavním vysílacím čase, což je podle Nielsena před 1,7 milionu před čtyřmi lety a show Rachel Maddow z MSNBC překonala sledovanost kabelovky s až 3,5 milionu diváků na hlavních zpravodajských večerech.
-„Je to požár, který lidi přitahují, protože to není něco, čemu rozumíme,“ řekl Neal Baer, pořadový běžeň dramatu stanice ABC „Označovaný přeživší“ o tajemníkovi vlády, který se stane prezidentem poté, co útok zničí Kapitol.
-Nell Scovell, zkušená komediální scenáristka a autorka knihy „Just the Funny Parts: And a Few Hard Truths About Sneaking Into the Hollywood Boys“ Club,“ má další teorii.
+Existuje spousta věcí, které musíte projít na týdenní bázi.
+Stále procházím tím, pokud jde o stresy a tlaky práce, ale vedení se prostě cítí správně.
+Vždycky jsem to chtěl zvládnout a teď to dělám, cítím se nejpohodlněji, když jsem byl ve své vlastní kůži po celý svůj dospělý život. "
+Celý rozhovor na Sportsound si můžete poslechnout v neděli 30. září v Radio Scotland mezi 12:00 a 13:00 BST.
+Perfektní čas na pintu je v sobotu 17:30, průzkum zjistil
+Letní vlna veder posílila přijímání pro britské bojující hospody, ale nahromadila větší tlak na řetězce restaurací.
+Pub a barové skupiny zaznamenaly v červenci nárůst tržeb o 2,7 procenta - ale příjmy v restauracích klesly o 4,8 procenta, odhalily čísla.
+Peter Martin z obchodní poradenské společnosti CGA, která sestavila čísla, řekl: „Pokračovalý sluneční svit a Anglie je delší než očekávaná účast na Světovém poháru znamenala, že červenec následoval podobný vzorec jako předchozí měsíc v červnu, kdy hospody vzrostly o 2,8 procenta, s výjimkou toho, že restaurace byly zasaženy ještě silněji.
+Pokles o 1,8 procenta v obchodování s restauracemi v červnu se v červenci právě zhoršil.
+Pité-vedl hospody a bary prováděné zdaleka nejsilnější s like-for-like nahoru více než restaurace byly dolů.
+Potravinářské hospody také trpěly na slunci, i když ne tak dramaticky jako provozovatelé restaurací.
+Zdá se, že lidé chtěli jen jít na skleničku.
+Napříč řízenými hospodami a bary se prodej nápojů zvýšil o 6,6 procenta za měsíc, přičemž jídlo kleslo o tři procenta.
+Paul Newman z analytiků volného času a pohostinství RSM uvedl: „Tyto výsledky pokračují v trendu, který jsme viděli od konce dubna.
+Počasí a dopad velkých společenských nebo sportovních událostí zůstávají největšími faktory, pokud jde o prodej na trhu mimo domov.
+Není žádným překvapením, že restaurační skupiny nadále bojují, i když meziročně bude pokles prodeje o 4,8 procenta meziročně obzvláště bolestivý na vrcholu probíhajících tlaků na náklady.
+Dlouhé horké léto nemohlo přijít v horším čase pro provozovatele potravin vedené potravinami a čas ukáže, zda mírnější teploty, které jsme zažili v srpnu, poskytnou nějaký tolik potřebný oddech. "
+Celkový růst tržeb napříč hospodou a restauracemi, včetně nových otvorů, činil v červenci 2,7 procenta, což odráží zpomalení zavádění značek.
+Prodejní monitor společnosti Coffer Peach Tracker pro britský hospodský, bar a restaurační sektor shromažďuje a analyzuje údaje o výkonnosti od 47 provozních skupin s kombinovaným obratem více než 9 miliard liber a je zavedeným průmyslovým měřítkem.
+Každé páté dítě má tajné účty na sociálních sítích, které skrývají před svými rodiči.
+Jedno z pěti dětí - některé ve věku 11 let - mají tajné účty sociálních médií, které skrývají před rodiči a učiteli, odhaluje průzkum.
+Průzkum mezi 20 000 žáky středních škol odhalil růst stránek "falešný Insta"
+Zpráva má zvýšené obavy, že sexuální obsah je zveřejňován
+Dvacet procent žáků uvedlo, že mají "hlavní" účet, který ukazuje rodičům
+Jedno z pěti dětí - některé ve věku 11 let - vytváří účty sociálních médií, které drží v tajnosti před dospělými.
+Průzkum mezi 20 000 žáky středních škol odhalil rychlý nárůst účtů "fake Insta" - odkaz na stránku pro sdílení fotografií Instagram.
+Zpráva má zvýšené obavy, že je sexuální obsah zveřejňován.
+Dvacet procent žáků uvedlo, že provozují dezinfikovaný "hlavní" účet, aby ukázali rodičům, a zároveň měli soukromé.
+Jedna matka, která narazila na tajné místo své třináctileté dcery, našla teenagera, který naléhal na ostatní, aby "znásilnili".
+Výzkum, Digital Awareness UK a ředitelů a ředitelů a ředitelství (HMC) nezávislých škol, zjistil, že 40 procent 11 až 18letých mělo dva profily, přičemž polovina z nich přiznala, že si vede soukromé účty.
+Šéf HMC Mike Buchanan řekl: "Je znepokojující, že mnoho teenagerů je v pokušení vytvořit on-line prostory, kde je rodiče a učitelé nemohou najít."
+Eilidh Doyle bude "hlasem pro sportovce" ve skotské atletice
+Eilidh Doyle byl zvolen do představenstva Scottish Athletics jako nevýkonný ředitel na výroční valné hromadě řídícího orgánu.
+Doyle je nejvíce vyznamenaný sportovec ve Skotsku a v terénu a předseda Ian Beattie popsal tento krok jako skvělou příležitost pro ty, kteří vedou sport, aby těžili z jejích rozsáhlých zkušeností na mezinárodní úrovni v uplynulém desetiletí.
+"Eilidh má obrovský respekt napříč skotskou, britskou a světovou atletickou komunitou a jsme si jisti, že atletika ve Skotsku by měla obrovský prospěch tím, že ji přivede do představenstva," řekl Beattie.
+Doyle řekl: "Jsem nadšený, že budu hrát jako hlas pro sportovce a doufám, že mohu opravdu přispět a pomoci vést sport ve Skotsku."
+Američan, který vyhrál 200 metrů a 400 metrů na hrách v Atlantě v roce 1996 mezi svými celkem čtyřmi olympijskými zlatými a nyní je pravidelným odborníkem BBC, byl ponechán neschopný chodit poté, co utrpěl přechodný ischemický útok.
+Na Twitteru napsal: „Před měsícem jsem utrpěl mrtvici.
+Nemohla jsem chodit.
+Lékaři říkali, že jen čas ukáže, jestli se zotavím nebo do jaké míry.
+Byla to vyčerpávající práce, ale provedla plné zotavení, znovu se naučila, jak chodit a dnes dělat agility vrtačky!
+Díky za poselství povzbuzení!“
+Prsní pump reklama porovnávající matky s kravami rozděluje názor on-line
+Společnost na odpuzování prsu rozdělila názor online s reklamou, která přirovnává kojící matky k těm, kteří jsou dojeni.
+Chcete-li označit spuštění toho, co je řečeno, že je "první tichý nositelný prsní náraz na světě", spotřebitelská tech společnost Elvie vydala jazyk-in-tváře hudební video-in-in-in-tváře reklama předvést svobodu, kterou nová čerpadla dává vyjadřování matkám.
+Čtyři skutečné matky tančí ve stodole koulí na skladbu, která obsahuje texty jako: "Ano, mléko sám, ale nevidíte žádný ocas" a "V případě, že jste si nevšimli, že to nejsou vemení, jsou to moje prsa."
+Sbor pokračuje: "Vypalujte to, vyčerpali to, krmili je dětmi, pumpovali to, pumpovali to, vyčerpali jsem to, dojením své dámy."
+Nicméně, reklama, která byla zveřejněna na facebookové stránce firmy, vyvolala kontroverzi online.
+Se 77 000 zhlédnutími a stovkami komentářů video získalo smíšené reakce od diváků, přičemž mnozí říkají, že zlehčuje "horory" mlékárenského průmyslu.
+"Velmi špatné rozhodnutí pomocí krav inzerovat tento produkt.
+Stejně jako my potřebují otěhotnět a porodit, aby produkovali mléko, kromě toho, že jejich děti jsou jim ukradeny během několika dní po porodu, "napsal jeden.
+Prsní pumpa Elvie se diskrétně vejde do ošetřovatelské podprsenky (Elvie / matka)
+Další komentoval: „Pochopitelně traumatizující pro matku i dítě.
+Ale jo, proč je nepoužít k inzerci prsní pumpy pro matky, které si mohou nechat své děti?
+Někdo jiný dodal: "Takový z dotykové reklamy."
+Jiní obhajovali reklamu, přičemž jedna žena přiznala, že píseň shledala "veselou".
+"Myslím, že je to rodový nápad.
+Jednu bych měl, kdybych ještě kojil.
+Čerpání mě přimělo cítit se přesně jako kráva.
+Reklama je trochu šílená, ale já jsem ji vzal za to, co to bylo.
+Je to geniální produkt,“ napsal jeden z nich.
+Další komentoval: "Jedná se o zástěrku zaměřenou na maminky, které pumpují (často na svých pracovištích nebo v toaletách) a cítí se jako "kříže".
+Nejedná se o reklamu chválící nebo posuzování mlékárenského průmyslu.“
+Na konci videa skupina žen odhaluje, že všichni tancovali s diskrétními čerpadly zastrčenými v podprsenkách.
+Koncept kampaně je založen na vhledu, že mnoho žen, které prsní pumpují, říkají, že se cítí jako krávy.
+Elvie Pump je však zcela tichý, nemá žádné dráty ani trubice a vejde diskrétně do ošetřovatelské podprsenky, což dává ženám svobodu pohybu, držet své děti a dokonce jít ven při čerpání.
+Ana Balarin, partnerka a ECD ve společnosti Mother, uvedla: „Elvie Pump je tak revoluční produkt, že si zaslouží odvážné a provokativní uvedení na trh.
+Tím, že jsme vykreslili paralelu mezi vyjadřováním žen a dojnic, jsme chtěli dát pumpování prsou a všechny její výzvy do středu pozornosti, zatímco jsme demonstrovali zábavným a relatablem způsobem neuvěřitelný pocit svobody, který nová pumpa přinese.
+Není to poprvé, co se Elvie pumpa dostala na titulní stránky novin.
+Během London Fashion Week se na molu objevila matka dvou dětí na mole pro návrhářku Martu Jakubowski, když používala produkt.
+Stovky dětí migrantů se tiše přestěhovaly do stanového tábora na hranicích Texasu
+Počet zadržených dětí migrantů vzrostl, i když měsíční hraniční přechody zůstaly relativně nezměněny, částečně proto, že tvrdá rétorika a politika zavedená Trumpovou administrativou ztěžují umístění dětí se sponzory.
+Tradičně, většina sponzorů byli sami neregistrovaní přistěhovalci a obávali se, že ohrozí svou vlastní schopnost zůstat v zemi tím, že vystoupí, aby si nárokovali dítě.
+Riziko se zvýšilo v červnu, kdy federální úřady oznámily, že potenciální sponzoři a další dospělí členové jejich domácností budou muset předložit otisky prstů a že údaje budou sdíleny s imigračními úřady.
+Minulý týden Matthew Albence, vysoký představitel pro imigraci a celní orgány, svědčil před Kongresem, že agentura zatkla desítky lidí, kteří požádali o sponzorování nezletilých bez doprovodu.
+Agentura později potvrdila, že 70 procent zatčených nemá předchozí trestní rejstřík.
+"Blíženo 80 procent osob, které jsou buď sponzory, nebo členové sponzorů domácností, je v zemi nelegálně a velká část z nich jsou kriminální cizinci.
+Takže pokračujeme v pronásledování těchto jednotlivců,“ řekl pan. Řekl Albence.
+Ve snaze zpracovat děti rychleji úředníci představili nová pravidla, která budou vyžadovat, aby se někteří z nich dostavili k soudu do měsíce od zadržení, spíše než po 60 dnech, což bylo podle pracovníků útulku předchozí standard.
+Mnozí se objeví prostřednictvím videokonference, spíše než osobně, aby hájili svůj případ právního statusu imigračnímu soudci.
+Ti, kteří jsou považováni za nezpůsobilí k úlevě, budou rychle deportováni.
+Z delší dobu, než děti zůstávají ve vazbě, tím větší je pravděpodobnost, že se stanou úzkostnými nebo depresivními, což může vést k násilným výbuchům nebo pokusům o útěk, podle pracovníků útulku a zpráv, které se v posledních měsících vynořily ze systému.
+Zastánci uvedli, že tyto obavy jsou zvýšeny ve větším zařízení, jako je Tornillo, kde se příznaky, že dítě bojuje, jsou s větší pravděpodobností přehlíženy, kvůli jeho velikosti.
+Dodali, že přesun dětí do stanového města, aniž by poskytl dostatek času na to, aby je emocionálně připravili nebo se rozloučili s přáteli, mohlo by to znásobit trauma, se kterým se mnozí již potýkají.
+Sýrie říká USA, francouzským a tureckým „okupačním silám“, aby se okamžitě stáhly
+V projevu k Valnému shromáždění OSN vyzval ministr zahraničí Walid al-Moualem také syrské uprchlíky, aby se vrátili domů, i když válka v zemi je nyní v osmém roce.
+Moualem, který také slouží jako místopředseda vlády, uvedl, že zahraniční síly byly na syrském území nelegálně, pod záminkou boje proti terorismu, a „bude odpovídajícím způsobem řešeno“.
+"Musí okamžitě a bez jakýchkoli podmínek odstoupit," řekl shromáždění.
+Moualem trval na tom, že „válka proti terorismu je téměř u konce“ v Sýrii, kde od roku 2011 zemřelo více než 360 000 lidí, přičemž miliony dalších vyvrátily ze svých domovů.
+Řekl, že Damašek bude pokračovat v „bojování v této posvátné bitvě, dokud neočistíme všechna syrská území“ jak od teroristických skupin, tak od „jakékoli nelegální zahraniční přítomnosti“.
+Spojené státy mají v Sýrii asi 2 000 vojáků, hlavně vycvičily a radily jak kurdským silám, tak syrským Arabům, kteří se postavili proti prezidentovi Bašáru Asadovi.
+Francie má více než 1000 vojáků na zemi ve válkou zmítané zemi.
+Pokud jde o uprchlíky, Moualem řekl, že podmínky jsou pro ně dobré, aby se vrátily, a obvinil "některé západní země" z "rozšíření iracionálních obav", které přiměly uprchlíky, aby se drželi dál.
+"Vyzvali jsme mezinárodní společenství a humanitární organizace, aby usnadnily tyto výnosy," dodal.
+"Zpolitizují to, co by mělo být čistě humanitární otázkou."
+Spojené státy a Evropská unie varovaly, že pro Sýrii nebude žádná rekonstrukční pomoc, dokud nedojde k politické dohodě mezi Asadem a opozicí o ukončení války.
+Diplomaté OSN tvrdí, že nedávná dohoda mezi Ruskem a Tureckem o vytvoření nárazníkové zóny v poslední hlavní baště rebelů v Idlibu vytvořila příležitost prosazovat politické rozhovory.
+Rusko-turecká dohoda odvrátila rozsáhlý útok ruských syrských sil na provincii, kde žijí tři miliony lidí.
+Moualem však zdůraznil, že dohoda má „jasné termíny“ a vyjádřil naději, že vojenská akce bude zaměřena na džihádisty, včetně bojovníků z Fronty Nusra napojené na Al-Káidu, kteří „budou vymýceni“.
+Vyslanec OSN Staffan de Mistura doufá, že brzy svolá první zasedání nového výboru složeného z vlády a členů opozice, aby navrhl poválečnou ústavu pro Sýrii a připravil cestu k volbám.
+Moualem stanovil podmínky pro účast syrské vlády ve výboru a řekl, že práce panelu by měla být omezena na „přezkoumání článků současné ústavy“ a varoval před zasahováním.
+Proč Trump vyhraje druhé funkční období
+Podle této logiky, pane. Trump by vyhrál znovuzvolení v roce 2020, pokud by mnoho liberálních diváků pravděpodobně nedoufalo, impeachment a skandál předčasně jeho prezidentství neukončí.
+V čem by bezpochyby bylo "nejdramatičtější finále prezidentství vůbec!"
+Od této chvíle nejsou žádné známky únavy diváků.
+Od roku 2014 se sledovanost v hlavním vysílacím čase více než zdvojnásobila na 1,05 milionu na CNN a téměř ztrojnásobila na 1,6 milionu v MSNBC.
+Fox News má v průměru 2,4 milionu diváků v hlavním vysílacím čase, oproti 1,7 milionu před čtyřmi lety, podle Nielsen, a MSNBC je "The Rachel Maddow Show" překonal kabelové sledovanosti s tolika 3,5 milionu diváků na hlavních zpravodajských nocích.
+"Je to požár, ke kterému jsou lidé přitahováni, protože to není něco, co chápeme," řekl Neal Baer, showrunner dramatu ABC "Designated Survivor" o tajemníkovi kabinetu, který se stane prezidentem po útoku, který zničí Kapitol.
+Nell Scovell, spisovatelka a autorka knihy Just the Funny Parts: And a a několik tvrdých pravd o plížení do hollywoodského chlapeckého klubu, má další teorii.
 Vzpomíná si na jízdu taxíkem v Bostonu před volbami v roce 2016.
-Řidič jí řekl, že bude hlasovat pro pana. Trump.
+Řidič jí řekl, že bude hlasovat pro pana. Trumpová.
 Proč? zeptala se.
-„Řekl: „Protože mě rozesměje,“ paní. Scovell mi to řekl.
-V chaosu je zábavní hodnota.
-Samozřejmě, na rozdíl od čehokoliv jiného v televizi, dějové linie vycházející z Washingtonu by mohly rozhodnout o budoucnosti Roe vs. Wade, zda se rodiny imigrantů mohou znovu spojit a zdraví globální ekonomiky.
-Nazdobení je luxus, který si mohou dovolit jen ti nejvíce privilegovaní diváci.
-A přesto to přesahuje to, že jste informovaný občan, když se na šest hodin pozorujíte poběží porotu expertů, který se rozvádí, jak Bob Woodward používá „hluboké pozadí“ pro jeho knihu „Strach“, pštrosící bombardovací bundu Paula Manaforta za 15 000 dolarů („oděv hustý arogancí,“ píše The Washington Post) a důsledcích zlověstných popisů pana pana. Trump je, um, anatomie.
-Já se už nikdy nebudu dívat na Super Maria stejným způsobem.
-„Částečně se cítí jako reality show, že vás každou noc něco krmí,“ řekl Brent Montgomery, šéf Wheelhouse Entertainment a tvůrce „Pajdi na střely“ a tvůrce Trumpovy rotující obsazení a každodenní zápletky (pokračuje s N.F.L., chválí Kim-J-una).
-Nemůžeš si dovolit vynechat jednu epizodu, jinak tě tu nechají.
-Když jsem se dostal k panu. Fleiss tento týden byl slunečně o 80 stupňů před svým domem na severním břehu Kauai, ale byl zalezlý ve sledování MSNBC, když nahrával CNN.
-Nemohl se odloupat, ne s Brettem Kavanaughem, který se měl postavit před justiční výbor Senátu a budoucnost Nejvyššího soudu visící na vlásku.
-„Vzpomínám si, že když jsme dělali všechny ty bláznivé pořady a lidé říkali, že tohle je začátek západní civilizace,“ pane. Fleiss mi to řekl.
-„Myslel jsem, že je to takový vtip, ale ukázalo se, že měli pravdu.“
-Amy Chozick, spisovatelka pro The Times pokrývající obchod, politiku a média, je autorem memoárů „Chasing Hillary“.
-Mimo peníze zaplavily nejtřítičší volby do sněmovních voleb
-Není divu, že sedmnáctá Pennsylvánie zažívá záplavu peněz, a to díky přeskupení kongresových obvodů, které vybojovaly dva zastupitele v souboji o stejné křeslo.
-Tento nedávno přepěstulovaný předměstský obvod Pittsburg stojí proti Demokrat Rep. Conor Lamb, který loni na jaře získal své křeslo v jiném obvodu v mimořádných volbách.
-Lamb kandiduje proti dalšímu úřadujícímu prezidentovi, republikánovi Keithu Rothfusovi, který v současnosti reprezentuje starý pensylvánský 12. obvod, který se silně překrývá s novým sedmnáctým.
-Mapy byly překresleny poté, co Nejvyšší soud v Pensylvánii v lednu rozhodl, že staré okresy jsou protiústavně gerrymandovány ve prospěch republikánů.
-Nově sedmnáctý závod odstartoval se v kampani s finančním kamenem mezi hlavními stranickými finančními zbraněmi, Demokratickým volebním výborem (DCCC) a Národním republikánským volebním výborem (NRCC).
-Lamb se stal známým jménem v Pensylvánii po těsném vítězství v široce sledovaných březnových mimořádných volbách do 18. kongresového obvodu v Pensylvánii.
-Toto křeslo držel republikán více než deset let a prezident Donald Trump vyhrál obvod o 20 bodů.
-Političtí experti dali demokratům mírnou převahu.
-USA. Weighed Penalizing El Salvador Over Support for China, Then Backed Off
-Diplomaté poznamenali, že Dominikánská republika a Panamostada už Peking uznaly s malým tlakem Washingtonu.
-Pane. Trump měl vřelé setkání s prezidentem Juan Carlos Varela z Panamy v červnu 2017 a měl hotel v Panamě, dokud partneři nevystěhovali manažerský tým Trump Organization.
-Představitelé ministerstva zahraničí se rozhodli odvolat americké šéfy diplomatických misí ze Salvadoru, Dominikánské republiky a Panamy kvůli „nedávným rozhodnutím, že už nebude uznávat Tchaj-wan,“ uvedla začátkem měsíce v prohlášení Heather Nauertová, mluvčí ministerstva.
-Sankce však byly zvažovány pouze proti Salvadoru, který v roce 2017 obdržel v roce 2017 americkou pomoc ve výši 140 milionů dolarů, a to i na kontrolu narkotik, rozvoj a ekonomickou podporu.
-Navrhované sankce, které zahrnovaly snížení finanční pomoci a cílená vízová omezení, by byly bolestivé pro středoamerickou zemi a její vysokou míru nezaměstnanosti a vražd.
-Jak interní setkání pokročila, představitelé Severní Ameriky a Střední Ameriky odložili konferenci na vysoké úrovni zaměřenou na bezpečnost a hospodářskou prosperitu, aby navázali na podobné shromáždění v loňském roce, které bylo vnímáno jako krok vpřed ve snaze zabránit migrantům v cestě do Spojených států.
-V polovině září se však nejvyšší vládní představitelé jasně vyjádřili, že chtějí, aby konference pokračovala, čímž v podstatě ukončili veškeré zvážení trestů pro Salvador.
-Viceprezident Mike Pence se nyní chystá vystoupit na konferenci, která je nyní naplánována na polovině října, v donu, kterou se administrativa nachází na shromáždění, uvedli diplomaté.
-A tři američtí vyslanci se tiše vrátili do Salvadoru, Panamy a Dominikánské republiky bez nových tvrdých poselství nebo trestů z Washingtonu.
-Mluvčí Bílého domu. Bolton odmítl komentovat podrobnosti debaty, kterou popsali tři američtí představitelé, včetně dvou diplomatů, kteří souhlasili s tím, že budou interní jednání diskutovat pod podmínkou anonymity.
-Jejich účty potvrdili externí analytik, který má blízko k administrativě a také pod podmínkou anonymity.
+"Řekl:" Protože mě rozesmál, ", slečno. To mi řekl Scovell.
+V chaosu má zábavní hodnotu.
+Samozřejmě, na rozdíl od všeho ostatního v televizi, dějové linie pocházející z Washingtonu by mohly určit budoucnost Roe v. Wade, zda se mohou rodiny přistěhovalců sjednotit a zdraví globální ekonomiky.
+Naladění je luxus, který si mohou dovolit jen ti nejprivilegovanější diváci.
+A přesto to přesahuje tím, že jste informovaný občan, když se ocitnete na šesté hodině sledování panelu odborníků debatovat Bob Woodward je použití „hlubokého pozadí“ získávání pro jeho knihu „Fear“, Paul Manafort je $ 15,000 pštrosí korozí bombardér ("a oděv tlustý s arogancem, "The Washington Post) a důsledky Stormy Daniels je odporné popisy pana. Trumpova anatomie.
+Já, pro jednoho, už nikdy nebudu se dívat na Super Mario stejným způsobem.
+"Součástí toho, co dělá, že se cítí jako reality show, je to, že vám každý večer něco krmí, " řekl Brent Montgomery, generální ředitel společnosti Wheelhouse Entertainment a tvůrce "Pawn Stars", o rotujícím obsazení Trumpovy show a každodenních zápletkách (vyzvedání boje s N.F.L., chválí Kim Jong-un).
+Nemůžete si dovolit zmeškat jednu epizodu, nebo zůstanete pozadu.
+Když jsem se dostal k panu. Fleiss tento týden, to bylo slunné 80 stupňů mimo jeho domov na severním břehu Kauai, ale on byl zalezlý uvnitř sledování MSNBC při nahrávání CNN.
+Nemohl se odloupnout, ne s Brettem Kavanaughem připraveným čelit senátnímu justičnímu výboru a budoucnosti Nejvyššího soudu visícího na vlásku.
+"Vzpomínám si, když jsme dělali všechny ty šílené show v minulosti a lidé říkali:" To je začátek konce západní civilizace, "," řekl. - Fleiss mi to řekla.
+"Myslel jsem, že je to vtip, ale ukázalo se, že měli pravdu."
+Amy Chozick, spisovatelka pro The Times pokrývající podniky, politiku a média, je autorkou memoáru "Chasing Hillary".
+Vněkny peníze zaplavuje do nejtěsnější střednědobých volebních House závodů
+Není překvapující, že Pensylvánie je 17. je vidět záplavu peněz, díky přeskupení kongresových okresů, které přistály dva úřadující v závodě o stejné místo.
+Tento nedávno překreslený příměstský okres Pittsburg staví demokrat Rep. Conor Lamb - který získal své místo v jiném okrese ve zvláštních volbách loni na jaře.
+Lamb kandiduje proti dalšímu úřadujícímu prezidentovi, republikánovi Keithu Rothfusovi, který v současné době zastupuje starý pensylvánský 12. okrsek, který se silně překrývá s novým 17..
+Mapy byly překresleny poté, co pensylvánský nejvyšší soud v lednu rozhodl, že staré okresy byly protiústavně gerrymandered ve prospěch republikánů.
+Závod v novém 17. století vyvolal kampaň finanční slugfest mezi hlavními stranickými finančními zbraněmi, Demokratickou kampaní Kongresový výbor (DCCC) a Národním republikánským volebním výborem (NRCC).
+Lamb se stal známým jménem v Pensylvánii po úzkém vítězství v široce sledovaném v březnových zvláštních volbách pro 18. kongresový okrsek v Pensylvánii.
+Toto křeslo bylo drženo republikánem více než deset let a prezident Donald Trump vyhrál okres o 20 bodů.
+Političtí odborníci dali demokratům mírnou výhodu.
+USA. Vážení penalizující El Salvador kvůli podpoře pro Čínu, pak ustoupil
+Diplomaté poznamenali, že Dominikánská republika a Panama již uznaly Peking, s malým odporem od Washingtonu.
+Pane. Trump měl v červnu 2017 vřelé setkání s prezidentem Juanem Carlosem Varelou z Panamy a měl hotel v Panamě, dokud partneři nevystěhovali manažerský tým Trumpovy organizace.
+Úředníci ministerstva zahraničí se rozhodli svolat zpět americké šéfy diplomatických misí ze Salvadoru, Dominikánské republiky a Panamy kvůli "nedávným rozhodnutím, že již neuznávají Tchaj-wan," uvedla mluvčí ministerstva Heather Nauertová.
+Ale sankce byly zváženy pouze proti Salvadoru, který v roce 2017 obdržel odhadem 140 milionů dolarů v americké pomoci, včetně kontroly narkotik, rozvoje a ekonomické podpory.
+Navrhované tresty, které zahrnovaly škrty ve finanční pomoci a cílená vízová omezení, by byly bolestivé pro středoamerickou zemi a její vysokou míru nezaměstnanosti a vražd.
+Jak pokročila interní setkání, severoameričtí a středoameričtí představitelé odložili konferenci na vysoké úrovni zaměřenou na bezpečnost a ekonomickou prosperitu, aby následovali podobné setkání v loňském roce, které bylo považováno za krok vpřed ve snaze zabránit migrantům v cestě do Spojených států.
+Ale v polovině září nejvyšší představitelé administrativy dali jasně najevo, že chtějí, aby konference pokračovala, což účinně ukončilo jakékoli zvážení sankcí pro Salvador.
+Viceprezident Mike Pence je nyní naplánován na konferenci, která je nyní naplánována na polovinu října, ve znamení importu, který administrativa klade na shromáždění, uvedli diplomaté.
+A tři američtí vyslanci se tiše vrátili do Salvadoru, Panamy a Dominikánské republiky bez nových tvrdých zpráv nebo trestů od Washingtonu.
+Mluvčí Bílého domu pro pana. Bolton odmítl komentovat podrobnosti debaty, kterou popsali tři američtí představitelé, včetně dvou diplomatů, kteří souhlasili s projednáním vnitřních jednání pod podmínkou anonymity.
+Jejich účty byly potvrzeny externím analytikem, který má blízko k administrativě a také mluvil pod podmínkou anonymity.
 Studijní historie
-Další bota, která se chystá, by mohla být zpráva zvláštního zástupce Roberta Muellera o panu. Trumpovo možné bránění spravedlnosti, jehož je nyní ve veřejném záznamu velmi podstatným důkazem.
-Pane. Mueller také údajně obrací své vyšetřování na to, zda pan. Trumpova kampaň se v útoku na naše volby domluvila s Ruskem.
-Pokud by Kongres změnil majitele, pane. Trump se v tomto těle ocitne tváří v tvář odpovědnosti, právě když se znovu připraví na vstup do voličů a nakonec je možná porotou svých vrstevníků.
-To je hodně kdyby a já to nechci navrhovat. Trumpův pád je nevyhnutelný – ani pokles jeho ekvivalentů v Evropě.
-Všichni z nich na obou stranách Atlantiku máme učinit rozhodnutí, která ovlivní, jak prodloužený boj může být.
-V roce 1938 byli němečtí důstojníci připraveni nastražit převrat proti Hitlerovi, jen kdyby mu Západ odolal a podpořil Čechoslovy v Mnichově.
-Neuspěli jsme a promarnili jsme si příležitost vyhnout se letům krveprolití, které následovaly.
-Běh dějin se otáčí kolem takových inflexních bodů a pochod demokracie je zaostřovatelný nebo opožděný.
-Američané nyní čelí několika těmto inflexním bodům.
-Co budeme dělat, až pan. Trump propouští náměstka ministra spravedlnosti Roda Rosensteina, muže, který ovládá osud pana. Muellerovo vyšetřování?
-Rosenstein je v horkém stádiu od chvíle, kdy tento list loni informoval, že si prezidenta tajně nahrával, a spekuloval o tom, že je nezpůsobilý k úřadu.
+Další botou, která by upustila, by mohla být zpráva zvláštního vyšetřovatele Roberta Muellera o panu. Trumpovo možné bránění spravedlnosti, o němž nyní existují velmi podstatné důkazy ve veřejném záznamu.
+Pane. Mueller údajně také předal své vyšetřování na to, zda pan. Trumpova kampaň se v jeho útoku na naše volby dohadovala s Ruskem.
+Pokud by Kongres změnil majitele, pane. Trump se ocitne v tomto orgánu zodpovědným, stejně jako se připravuje jít znovu před voliče a možná nakonec porotu svých vrstevníků.
+To je hodněkdy, a já nechci naznačovat, že pan. Trumpův pád je nevyhnutelný – ani jeho ekvivalenty v Evropě.
+Existují rozhodnutí, která máme učinit všichni na obou stranách Atlantiku, která ovlivní, jak prodloužený boj může být.
+V roce 1938 byli němečtí důstojníci připraveni zinscenovat převrat proti Hitlerovi, kdyby se mu Západ bránil a podpořil Čechoslováky v Mnichově.
+Neuspěli jsme a propásli jsme příležitost vyhnout se letům krveprolití, které následovalo.
+Úder historie se pohybuje kolem takových inflexních bodů a neúprosný pochod demokracie se zrychluje nebo zpozdil.
+Američané se nyní potýkají s několika těmito inflexními body.
+Co budeme dělat, když pan. Trump propustil náměstka generálního prokurátora Roda Rosensteina, muže, který kontroluje osud pana. Muellerovo vyšetřování?
+Rosenstein byl v horké vodě od té doby, co tento dokument oznámil, že v loňském roce tajně nahrával prezidenta a spekuloval o tom, že je nezpůsobilý pro úřad.
 Pane. Rosenstein říká, že účet The Times je nepřesný.
-„Jak budeme reagovat, když nově požadované vyšetřování Bretta Kavanaugha FBI nebude plné nebo spravedlivé – nebo pokud bude potvrzen Nejvyšším soudem navzdory věrohodným obviněním ze sexuálního napadení a nečestného svědectví?
-A především budeme v pololetí hlasovat pro Kongres, který bude zastupovat pana. Trump se zodpovídá?
-Pokud tyto testy neprohneme, bude demokracie trvat dlouho.
-Ale věřím, že neselžeme, protože jsem se v Praze poučil.
-Má matka byla československá Žid, která byla deportována do Osvětimi stejným nacistickým režimem, který kdysi okupoval můj velvyslanecký dům.
-Přežila, emigrovala do Ameriky a o 60 let později mě poslala, abych zapálil sobotní svíčky na stole s hákovým křížem.
-S tím jako mým dědictvím, jak bych nemohl být optimistou v naší budoucnosti?“
-Norman Eisen, vedoucí pracovník Brookings Institution, je předsedou Občanů za odpovědnost a etiku ve Washingtonu a autorem knihy „Poslední palác: evropské Turbulent Century in Five Lives a One Legendary House“.
-Graham Dorrans z Rangers optimistický před střetem v Rapidu ve Vídni
-Rangers hostí Rapid Vídeň ve čtvrtek s vědomím, že vítězství nad Rakušany, po působivé remíze ve Španělsku proti Villarrealu na začátku tohoto měsíce, bude mít v silné pozici kvalifikovat se ze skupiny G Evropské ligy.
-Zranění kolena zabránilo střední obránce Graham Dorrans z jeho první vystoupení v sezoně až do 2-2 remíza s Villarrelem, ale věří, že Rangers mohou využít, že jako odrazový můstek k větším věcem.
-„Byl to pro nás dobrý postřeh, protože Villarreal je dobrá strana,“ řekl jednatřicetiletý útočník.
-„Šli jsme do hry s vírou, že něco získáme, a přišli jsme s bodem.
-Možná jsme to nakonec mohli šlohnout, ale celkově to byl asi výsledek.
-V první půli byli asi lepší a ve druhé půli jsme se dostali ven a byli jsme lepší.
-Do čtvrtka je další velká evropská noc.
-Doufejme, že získáme tři body, ale to bude těžký zápas, protože měl dobrý výsledek v posledním zápase, ale s diváky za námi, jsem si jistý, že můžeme pokračovat a získat pozitivní výsledek.
-Minulý rok byl rozhodně těžký, mezi vším, co se stalo s mými zraněními a změnami v samotném klubu, ale teď je na tom klást dobrý faktor.
+Jak budeme reagovat, pokud nově požadovaná FBI vyšetřování Bretta Kavanaugha nebude úplná ani spravedlivá – nebo zda je potvrzena Nejvyššímu soudu navzdory věrohodným obviněním ze sexuálního napadení a nečestného svědectví?
+A především, budeme hlasovat v polovině volebního období pro Kongres, který bude držet pana. Trump se zodpovídá?
+Pokud tyto testy neuspějeme, demokracie bude mít dlouhou zimu.
+Ale věřím, že neuspějeme, kvůli lekci, kterou jsem se naučil v Praze.
+Moje matka byla československá Židovka, která byla deportována do Osvětiu stejným nacistickým režimem, který kdysi okupoval můj velvyslanecký domov.
+Přežila, emigrovala do Ameriky a o 60 let později mě poslala, abych zapalovala sobotní svíčky na tomto stole nesoucí svastiku.
+S tím jako mým dědictvím, jak nemůžu být optimistou ohledně naší budoucnosti?"
+Norman Eisen, vedoucí pracovník Brookings Institution, je předsedou Citizens for Responsibility and Ethics ve Washingtonu a autorem knihy The Last Palace: Europe’s Turbulent Century in Five Lives a One Legendary House (Poslední palác: Evropanské turbulentní století v pěti životech a jednom legendárním domě).
+Rangers Graham Dorrans optimistický před Rapid Vídeň střetnutí
+Rangers hostí Rapid Vídeň ve čtvrtek s vědomím, že vítězství nad Rakušany, po impozantní remíze ve Španělsku proti Villarrealu na začátku tohoto měsíce, je postaví do silné pozice, aby se kvalifikovali ze skupiny G Evropské ligy.
+Zranění kolene zabránilo záložník Graham Dorrans v jeho první vzhled sezóny až do remízy 2-2 s Villarreal, ale věří, že Rangers mohou využít tento výsledek jako odrazový můstek k větším věcem.
+"Byl to pro nás dobrý bod, protože Villarreal je dobrá strana," řekl 31letý hráč.
+"Šli jsme do hry a věřili, že můžeme něco dostat a odešli s bodem.
+Možná jsme to nakonec mohli štípnout, ale celkově, remíza byla pravděpodobně spravedlivý výsledek.
+V prvním poločase byli pravděpodobně lepší a my jsme vypadli ve druhém poločase a byli jsme lepší stranou.
+Ve čtvrtek, je to další velká evropská noc.
+Doufejme, že můžeme získat tři body, ale to bude těžký zápas, protože měli dobrý výsledek ve svém posledním zápase, ale s davem za námi, jsem si jistý, že můžeme tlačit a získat pozitivní výsledek.
+V loňském roce byl rozhodně těžký, mezi vším, co se stalo s mými zraněními a změnami v samotném klubu, ale nyní je tu dobrý faktor o místě.
 Tým je dobrý a kluci si to opravdu užívají; trénink je dobrý.
-Doufejme, že se teď budeme moci prosadit, dát minulou sezónu za hlavu a být úspěšní.“
-Ženy přicházejí o spánek kvůli strachu z důchodového spoření
-Navzdory skutečnosti, že účastníci průzkumu měli jasnou představu o tom, jak se o ně bude zajímat, jen málo lidí o tom mluví se svými rodinnými příslušníky.
-Přibližně polovina osob ve studii Nationwide uvedla, že hovoří se svými manželi o nákladech dlouhodobé péče.
-Jen 10 procent uvedlo, že o tom mluvili se svými dětmi.
-„Lidé chtějí, aby se o ně jeden člen rodiny staral, ale nepodnikají kroky k rozhovoru,“ řekla Holly Snyderová, viceprezidentka pro životní pojišťovnictví Nationwide.
-Tady je kde začít.
-Promluvte si se svou spolubydrou a dětmi: Nemůžete připravit svou rodinu na zajištění péče, pokud nedáte svá přání v předjetí.
-Spolupracujte se svým poradcem a rodinou na diskuzi o tom, kde a jak se péče dostane, protože tyto volby mohou být významným faktorem při určování nákladů.
-Přineste svého finančního poradce: Váš poradce vám také může pomoci přijít na způsob, jak tyto výdaje zaplatit.
-Vašich možností financování dlouhodobé péče může zahrnovat tradiční pojistku dlouhodobé péče, hybridní životní pojistku s hotovostí, která pomůže pokrýt tyto výdaje nebo si sama sebezmírného s vlastním bohatstvím – pokud máte peníze.
-Vymazat své právní dokumenty: Vydejte se na průsmyk právní bitvy.
-Získejte na místě zdravotnický zástupce, abyste určili důvěryhodného jedince, který bude dohlížet na lékařskou péči a zajistit, aby se profesionálové podřídili vašim přáním v případě, že nemůžete komunikovat.
-A také zvažte plnou moc pro vaše finance.
-Vybrali byste si důvěryhodnou osobu, která by za vás činila finanční rozhodnutí a zajistila, že vaše účty budou vyplaceny, pokud jste nezpůsobilí.
-Nezapomeňte na malé detaily: Představte si, že váš starší rodič má zdravotní potíže a je na cestě do nemocnice.
-Mohl byste odpovídat na otázky týkající se léků a alergií?
-Rozhřesti to v písemném plánu, abyste byli připraveni.
-„Nejsou to jen finance, které jsou ve hře, ale kdo jsou doktoři?“ zeptal se Martin.
-„Co jsou ty léky?
+Doufejme, že teď můžeme tlačit dál, dát minulou sezonu za námi a být úspěšní.“
+Ženy ztrácejí spánek kvůli tomuto strachu z důchodových úspor
+Navzdory skutečnosti, že účastníci průzkumu měli jasnou představu o tom, jak se o ně chce starat, jen málo lidí o tom mluvilo se svými rodinnými příslušníky.
+Asi polovina lidí ve studii Nationwide uvedla, že hovořila se svými manželi o nákladech na dlouhodobou péči.
+Pouze 10 procent uvedlo, že o tom mluvili se svými dětmi.
+"Lidé chtějí, aby se o ně rodinný příslušník staral, ale nepodnikají kroky k rozhovoru," řekla Holly Snyderová, viceprezidentka pro životní pojištění Nationwide.
+Zde je místo, kde začít.
+Promluvte si se svým manželem a dětmi: Nemůžete připravit svou rodinu, aby poskytla péči, pokud nechcete, aby vaše přání dobře známé předem.
+Spolupracujte se svým poradcem a rodinou, abyste diskutovali o tom, kde a jak získat péči, protože tyto volby mohou být významným faktorem při určování nákladů.
+Přiveďte svého finančního poradce: Váš poradce vám také může pomoci přijít na způsob, jak tyto výdaje zaplatit.
+Vaše možnosti financování pro dlouhodobou péči mohou zahrnovat tradiční pojištění dlouhodobé péče, hybridní pojištění životního pojištění v hotovosti, které pomůže pokrýt tyto výdaje nebo self-pojištěné s vlastním bohatstvím - tak dlouho, jak máte peníze.
+Zatknu své právní dokumenty: Vylézejte právní bitvy u průchodu.
+Získejte proxy zdravotní péče, abyste určili důvěryhodného jednotlivce, abyste dohlíželi na vaši lékařskou péči a zajistili, že odborníci vyhoví vašim přáním v případě, že nejste schopni komunikovat.
+Také zvažte plnou moc pro vaše finance.
+Vybrali byste si důvěryhodnou osobu, která by za vás mohla učinit finanční rozhodnutí a zajistila, že vaše účty budou zaplaceny, pokud jste nezpůsobilí.
+Nezapomeňte na malé detaily: Představte si, že váš starší rodič má lékařskou pohotovost a je na cestě do nemocnice.
+Mohli byste odpovědět na otázky týkající se léků a alergií?
+Vyprávějte tyto detaily v písemném plánu, abyste byli připraveni.
+"Nejde jen o finance, které jsou ve hře, ale kdo jsou ti doktoři?" zeptal se Martin.
+"Jaké jsou ty léky?
 Kdo se bude starat o psa?
-Ať je to plán na místě.“
-Muž několikrát střelen vzdušnicí v Ilfracombe
-Muž byl několikrát střelen vzduchovkou, když se vracel z noci domů.
-Oběť, kolem čtyřicátnice, byla v Oxford Grove v Ilfracombe, Devon, když byl střelen do hrudi, břicha a ruky.
-Policisté popsali střelbu, ke které došlo kolem 02:30 SEČ, jako „udusní čin“.
+Udělejte ten plán na místě.“
+Muž byl několikrát střelen vzduchovkou v Ilfracombe
+Muž byl několikrát střelen vzduchovou puškou, když šel domů z noci.
+Oběť, ve svých 40 letech, byla v oblasti Oxford Grove v Ilfacombe v Devonu, když byla střelena do hrudi, břicha a ruky.
+Policisté popsali střelbu, která se odehrála kolem 02:30 BST, jako "náhodný čin".
 Oběť útočníka neviděla.
-Jeho zranění nejsou život ohrožující a policie žádá svědky.
+Jeho zranění neohrožují život a policie požádala o svědky.
 Zemětřesení a tsunami v Indonésii
-Nejméně 384 lidí bylo zabito silným zemětřesením a tsunami, které v pátek zasáhly indonéské město Palu, uvedli oficiální činitelé, přičemž se očekává, že počet obětí vzroste.
-Po vyřazování komunikace se úředníkům pomoci nepodařilo získat žádné informace od donggalského královského sídla, oblasti severně od Palu, která je blíže epicentru zemětřesení o síle 7,5 stupně.
+Nejméně 384 lidí bylo zabito silným zemětřesením a tsunami, které v pátek zasáhlo indonéské město Palu, uvedli úředníci, přičemž se očekává, že počet obětí vzroste.
+S vyřazenou komunikací nebyli schopni získat žádné informace z Donggala regentství, oblasti severně od Palu, která je blíže epicentru zemětřesení o síle 7,5 stupně.
 V Palu bylo po katastrofě evakuováno více než 16 000 lidí.
-Zde jsou některá klíčová fakta o Palu a Donggalách na ostrově Sulawesi:
-Palu je hlavní město provincie Sulawesi, která se nachází na konci úzkého zálivu na západním pobřeží ostrova Sulawesi, v roce 2017 bylo odhadem 379 800 obyvatel.
-Město oslavovalo 40. výročí, kdy udeřilo zemětřesení a tsunami.
-Donggala je regent táhnoucí se na více než 300 km (180 mil) pobřeží na severozápadě ostrova Sulawesi.
-V regionu, který je pod provincií, měl v roce 2017 odhadem 299 200 obyvatel.
-Rybolov a zemědělství jsou oporami ekonomiky provincie Sulawesi, zejména pobřežní oblasti Donggala.
-Těžba Nikel je důležitá i v provincii, ale většinou se soustřeďuje na Morowali na protějším pobřeží Sulawesi.
-Palu a Donggala byly v posledních 100 letech zasaženy tsunami několikrát, podle indonéské agentury pro zmírnění katastrof.
-V roce 1938 zabila tsunami více než 200 lidí a zničila stovky domů v Donggale.
-Také tsunami zasáhla západ Donggalu v roce 1996, devět mrtvých.
-Indonésie leží na seismicky tichomořském ohnivém kruhu a je pravidelně zasažena zemětřeseními.
-Zde jsou některé z hlavních otřesů a tsunamis v posledních letech:
-2004: Velké zemětřesení na západním pobřeží indonéské provincie Aceh na severu Sumatry na Zlínsku. 26 vyvolal tsunami, která zasáhla 14 zemí a zabila 226 000 lidí podél pobřeží Indického oceánu, z toho více než polovinu v Acehu.
-2005: Série silných otřesů zasáhla západní pobřeží Sumatry na konci března a začátkem dubna.
+Zde jsou některé klíčové skutečnosti o Palu a Donggale na ostrově Sulawesi:
+Palu je hlavním městem provincie centrální Sulawesi, která se nachází na konci úzkého zálivu na západním pobřeží ostrova Sulawesi, s odhadovaným počtem obyvatel 379 800 v roce 2017.
+Město oslavilo 40. výročí, když udeřilo zemětřesení a tsunami.
+Donggala je regentství táhnoucí se podél více než 300 km (180 mil) pobřeží na severozápadě ostrova Sulawesi.
+Regentství, administrativní oblast pod provincií, měla v roce 2017 odhadem 299 200 obyvatel.
+Rybaření a zemědělství jsou základem ekonomiky provincie centrální Sulawesi, zejména pobřežní oblasti Donggala.
+Těžba niklu je také důležitá v provincii, ale je většinou soustředěna v Morowali, na opačném pobřeží Sulawesi.
+Palu a Donggala byly v posledních 100 letech několikrát zasaženy tsunami, podle indonéské agentury pro zmírňování katastrof.
+V roce 1938 tsunami zabila více než 200 lidí a zničila stovky domů v Donggale.
+Tsunami zasáhla také západní Donggala v roce 1996 a zabila devět lidí.
+Indonésie sedí na seismicky Pacifickém kruhu ohně a je pravidelně zasažena zemětřesením.
+Zde jsou některé z hlavních zemětřesení a tsunami v posledních letech:
+2004 - A hlavní zemětřesení na západním pobřeží indonéské provincie Aceh v severní Sumatře na prosinec. 26 vyvolalo tsunami, která zasáhla 14 zemí a zabila 226 000 lidí podél pobřeží Indického oceánu, více než polovina z nich v Acehu.
+2005: Série silných zemětřesení zasáhla západní pobřeží Sumatry na konci března a na začátku dubna.
 Stovky lidí zemřely na ostrově Nias u pobřeží Sumatry.
-2006: Jižně od Jávy, nejo obydleje nejlidnatější ostrov, dosáhl 6,8 stupně, což vyvolalo tsunami, která se vřítila na jižní pobřeží a zabila téměř 700 lidí.
-2009: Otřesy o síle 7,6 stupně zasáhly poblíž města Padang, hlavní město provincie Západní Sumatra.
-Více než 1100 lidí bylo zabito.
-2010: Zemětřesení o síle 7,5 stupně zasáhlo jeden z ostrovů Mentawai u Sumatry, což vyvolalo tsunami až 10 metrů, která zničila desítky vesnic a zabila kolem 300 lidí.
-2016: Mělké zemětřesení zasáhlo regentnost Pidie Jaya v Acehu, což způsobilo zkázu a paniku, protože lidem připomínalo devastování smrtícího zemětřesení a tsunami v roce 2004.
-Tentokrát se nešlo o tsunami, ale více než 100 jich zahynuly padlé budovy.
-2018: Velké otřesy zasáhly indonéský turistický ostrov Lombok a zabily více než 500 lidí, většinou na severní straně ostrova.
-Zemětřesení zničilo tisíce budov a zanechalo tisíce turistů dočasně na holičkách.
-Sarah Palin's Eldest Son Arrested on Domestic Violence
-Track Palin, nejstarší syn bývalá guvernérka Aljašky a viceprezidentská kandidátka Sarah Palinová, byla zatčena pro obvinění z napadení.
-Devětadvacetiletá Palinová z Aljašky ve Wasille byla zatčena pro podezření z domácího násilí, zasahovala do zprávy o domácím násilí a kladla odpor při zatýkání, podle zprávy zveřejněné v sobotu aljašskými státními policistkami.
-Podle policejní zprávy, když se jedna ze známých pokusila zavolat policii, aby údajné zločiny nahlásila, vzal jí telefon.
-Palin je ve vyšetřovně Mat-Su Pretrial Facility a je držen na 500 dolarů nezajištěné kauce, uvedla KTUU.
-V sobotu se objevil u soudu, kde se prohlásil, že „není vinen, určitě“, když se ho jeho obhajoval, uvedla televize.
-Palin čelí třem přestupkům třídy A, což znamená, že mohl být uvězněn až na rok a pokutovat 250 000 dolarů.
-Byl také obviněn z přestupku třídy B, který se trestá dnem ve vězení a pokutou 2 000 dolarů.
-Není to poprvé, co byla proti Palinové vznesena trestní oznámení.
+2006 - A 6,8 magnituda hit jižně od Jávy , Indonésie je nejlidnatější ostrov , což vyvolalo tsunami, která narazila do jižního pobřeží , zabíjet téměř 700 lidí.
+2009: Zemětřesení o síle 7,6 stupně udeřilo poblíž města Padang, hlavního města provincie Západní Sumatra.
+Zahynulo více než 1100 lidí.
+2010 - K zemětřesení o síle 7,5 stupně zasáhlo jeden z ostrovů Mentawai u Sumatry, což vyvolalo tsunami až 10 metrů, které zničily desítky vesnic a zabilo asi 300 lidí.
+2016: Pozemkové zemětřesení zasáhlo regentství Pidie Jaya v Acehu, což způsobilo zkázu a paniku, protože lidé byli připomenuti devastací smrtícího zemětřesení a tsunami v roce 2004.
+Tentokrát se nespustila žádná tsunami, ale více než 100 lidí bylo zabito spadlými budovami.
+2018 - Hlavní zemětřesení zasáhla indonéský turistický ostrov Lombok a zabila více než 500 lidí, většinou na severní straně ostrova.
+Zemětřesení zničilo tisíce budov a zanechalo tisíce turistů dočasně uvízlých.
+Nejstarší syn Sarah Palinové byl zatčen za obvinění z domácího násilí
+Track Palinová, nejstarší syn bývalé guvernérky Aljašky a kandidátky na viceprezidentku Sarah Palinové, byl zatčen za napadení.
+Palinová, 29 let, z Wasilla na Aljašce, byla zatčena pro podezření z domácího násilí, což zasahuje do zprávy o domácím násilí a odporu při zatýkání, podle zprávy vydané v sobotu Aljašskými státními policisty.
+Podle policejní zprávy, když se známá žena pokusila zavolat policii, aby nahlásila údajné zločiny, vzal jí telefon.
+Palinová je držena v Pretrial Facility Mat-Su a je držena na nezajištěném dluhopisu ve výši 500 dolarů, informovala KTUU.
+V sobotu se objevil u soudu, kde prohlásil, že "nevinen, pro jistotu", když byl dotázán na svou prosbu, informovala síť.
+Palinová čelí třem přestupkům třídy A, což znamená, že by mohl být uvězněn až na rok a dostal pokutu 250 000 dolarů.
+Byl také obviněn z přestupku třídy B, který se trestá dnem ve vězení a pokutou ve výši 2 000 dolarů.
+Není to poprvé, co bylo proti Palinové vzneseno trestní obvinění.
 V prosinci 2017 byl obviněn z napadení svého otce Todda Palina.
-Jeho matka, Sarah Palin, zavolala policii, aby nahlásila údajný útok.
-Případ je v současné době u Aljašského soudu pro veterány.
-V lednu 2016 byl obviněn z domácího násilí, zasahování do zprávy o trestném činu domácího násilí a držení zbraně, když byl pod vlivem alkoholu v souvislosti s incidentem.
+Jeho matka Sarah Palinová zavolala policii, aby nahlásila údajný útok.
+Případ je v současné době před aljašským veterinárním soudem.
+V lednu 2016 byl obviněn z domácího napadení, zasahování do zprávy o trestném činu domácího násilí a držení zbraně, zatímco byl v souvislosti s incidentem opilý.
 Jeho přítelkyně tvrdila, že ji praštil do obličeje.
-Sarah Palin byla kritizována skupinami veteránů v roce 2016 poté, co spojovala synovo násilné chování s PTSD vyplývající z jeho služby v Iráku.
-Indonésie zemětřesení tsunami: stovky mrtvých
-Nejméně 384 lidí zahynulo po pátečním zemětřesení, které zasáhlo indonéský ostrov Sulawesi.
+Sarah Palinová byla v roce 2016 kritizována skupinami veteránů poté, co spojila násilné chování svého syna s PTSD vyplývající z jeho služby v Iráku.
+Indonéské zemětřesení tsunami: stovky mrtvých
+Nejméně 384 lidí zemřelo poté, co v pátek zasáhlo indonéský ostrov Sulawesi zemětřesení.
 Zemětřesení o síle 7,5 stupně vyvolalo tsunami a zničilo tisíce domů.
-Elektřina a komunikační sítě se v nadcházejících dnech mají zvýšit počet obětí.
-Zemětřesení zasáhlo těsně u centra Sulawesi, který leží severovýchodně od indonéského hlavního města Jakarty.
-Videa kolují na sociálních sítích a ukazují okamžik dopadu.
-Stovky lidí se sešly na plážovém festivalu ve městě Palu, když se tsunami rozbila na břehu.
-Federální žalobci požadují vzácný trest smrti pro podezřelého z teroristického útoku v NYC
-Federální prokurátoři v New Yorku požadují trest smrti pro Sayfulla Saipova, podezřelého z teroristického útoku v New Yorku, při němž zahynulo osm lidí – což je vzácný trest, který nebyl ve státě proveden za federální zločin od roku 1953.
-Třicetiletý Saipov údajně použil pronajatý náklaďák Home Depot k útoku na cyklostezii podél West Side Highway na Dolním Manhattanu a v cestě mu v cestě sekal chodci a cyklistu.
-Aby ospravedlnili trest smrti, budou muset prokurátoři dokázat, že Saipov „úmyslně“ zabil osm obětí a „záměrně“ utrpěl vážné zranění na zdraví, podle oznámení o úmyslu požadovat trest smrti, který byl podán v jižním okrese New York.
-Za oba tyto případy se podle soudního dokumentu mohou týkat trestu smrti.
-Několik týdnů po útoku federální velká porota uhodila Saipovovi 22násobkem obžaloby, která zahrnovala osm obvinění z vraždy na pomoc při vydírání, typicky používaná federálními prokurátory v případech organizovaného zločinu, a obvinění z násilí a ničení motorových vozidel.
-Útok vyžadoval „podstatné plánování a promyšlenost,“ uvedli žalobci a popsali způsob, jakým ho Saipov provedl, jako „ohavný, krutý a zkažený“.
-„Slušník Habibullaevič Saipov způsobil zranění, škodu a ztrátu rodinám a přátelům Diega Enriquea Angeliniho, Nicholase Clevese, Ann-Laure Decadtovou, Darrena Drakea, Ariela Erlije, Hernana Ferróche, Hernana Diega Mendozy a Alejandra Damiana Pagnucca,“ uvádí se v ústraní.
+Elektrické a komunikační sítě jsou vypůjčeny s počtem obětí, které by měly v příštích dnech vzrůst.
+Zemětřesení zasáhlo jen u centrálního Sunejí, které je severovýchodně od indonéského hlavního města Jakarty.
+Videa kolují na sociálních sítích, která ukazují okamžik dopadu.
+Stovky lidí se shromáždily na plážovém festivalu ve městě Palu, když tsunami rozbila na pobřeží.
+Federální prokuratura požaduje vzácný trest smrti za podezřelého z teroristického útoku v New Yorku
+Federální prokurátoři v New Yorku požadují trest smrti pro Sayfulla Saipova, podezřelého z teroristického útoku v New Yorku, který zabil osm lidí - vzácný trest, který nebyl ve státě proveden za federální zločin od roku 1953.
+Saipov, 30, údajně použil pronájem kamionu Home Depot, aby provedl útok na cyklostezku podél West Side Highway v Dolním Manhattanu, sekal chodce a cyklista v jeho cestě na říjen.
+Aby ospravedlnili rozsudek smrti, musí žalobci prokázat, že Saipov „úmyslně“ zabil osm obětí a „záměrně“ způsobil vážné zranění, podle oznámení o záměru usilovat o trest smrti, podané v jižním okrese New Yorku.
+Oba tyto počty nesou podle soudního dokumentu možná trest smrti.
+Týdny po útoku federální velká porota uhodila Saipova 22-označným obviněním, které zahrnovalo osm obvinění z vraždy na pomoc vydírání, typicky používané federálními prokurátory v případech organizovaného zločinu a obvinění z násilí a ničení motorových vozidel.
+Útok vyžadoval "podstatné plánování a promyšlenost", uvedli prokurátoři a popsali způsob, jakým jej Saipov provedl jako "ohavný, krutý a zvrhlý".
+"Sayfullo Habibullaevic Saipov způsobil zranění, škodu a ztrátu rodinám a přátelům Diega Enrique Angeliniho, Nicholase Clevese, Ann-Laure Decadtové, Darrena Drakea, Ariela Erlije, Hernana Ferruchiho, Hernanem Diegem Mendozou a Alejandem Damianem Pagnuccou.
 Pět obětí byli turisté z Argentiny.
-Už je to deset let, co jižní okres New Yorku naposledy trestní stíhalo trest smrti.
-Obžalovaný Khalid Barnes byl usvědčen z vraždy dvou dodavatelů drog, ale v září 2009 byl nakonec odsouzen na doživotí.
-Naposledy, když byl trest smrti vykonán v newyorském federálním případu v roce 1953 pro Julia a Ethel Rosenbergovy, manželský pár popravený poté, co byli před dvěma roky odsouzeni za účelem špionáže pro Sovětský svaz během studené války.
-Oba Rosenbergové byli 19. června 1953 popraveni elektrickým křeslem.
-Saipov, rodák z Uzbekistánu, podle soudních dokumentů prokázal ve dnech a měsících po útoku nemilost.
-Vyšetřovatelům uvedl, že se cítí dobře z toho, co udělal, uvedla policie.
+Je to už deset let, co jižní okres New Yorku naposledy stíhal případ trestu smrti.
+Obžalovaný Khalid Barnes byl odsouzen za vraždu dvou dodavatelů drog, ale nakonec byl v září 2009 odsouzen k doživotnímu vězení.
+Naposledy byl trest smrti vykonán ve federálním případu v New Yorku v roce 1953 pro Julia a Ethel Rosenbergové, manželský pár popraven poté, co byli odsouzeni za spiknutí za účelem špionáže pro Sovětský svaz během studené války o dva roky dříve.
+Oba Rosenbergovi byli obě země popravena elektrickým úřadem 19. června 1953.
+Saipov, rodák z Uzbekistánu, prokázal nedostatek lítosti ve dnech a měsících po útoku, podle soudních dokumentů.
+Uvedl vyšetřovatelům, že se cítil dobře o tom, co udělal, uvedla policie.
 Saipov řekl úřadům, že byl inspirován k provedení útoku poté, co sledoval videa ISIS na svém telefonu, podle obžaloby.
-Také požádal o vystavení vlajky ISIS v jeho nemocničním pokoji, uvedla policie.
-Prohlásil, že je vinen 22-násobným obviněním.
-David Patton, jeden z federálních veřejných obhájců zastupujících Saipova, řekl, že jsou rozhodnutím obžaloby „očividně zklamáni“.
-„Myslíme si, že rozhodnutí požadovat trest smrti, místo aby se doživotně vzalo přiznání viny doživotně bez možnosti propuštění, prodlouží trauma z těchto událostí pro všechny zúčastněné,“ řekl Patton.
-Saipovův tým obhájců již dříve žádal prokurátory, aby nepožádali o trest smrti.
-Toryovský poslanec řekl, že NIGEL FARAGE by měl být pověřen jednáním o brexitu
-Nigel Farage dnes slíbil, že „mobilizuje lidovou armádu“ během protestu na toryovské konferenci.
-Bývalý lídr UKIP řekl, že politici se musí „cítit vedro“ od euroskeptiků – jak jeden z poslanců Theresy Mayové navrhl, že by měl mít na starosti jednání s EU.
-Konzervativní poslanec Peter Bone řekl pochodu v Birminghamu, že Británie „by už byla venku“, kdyby byl pan Farage ministrem pro brexit.
-Výzva, které paní Mayová čelí při usmíření svých hluboce rozdělených řad, však podtrhli zastánci setrvání v setrvání v setrvání v souvislosti s odděleným protestem proti brexitu ve městě.
-Premiérka se snaží udržet svůj plán kompromisu v Chequers na dobré cestě uprostřed útoků zastánců brexitu, zastánců setrvání v EU.
-Spojenci trvali na tom, že bude prosazovat snahu uzavřít dohodu s Bruselem navzdory odporu – a donutit euroskeptiky a labouristy, aby si vybrali mezi jejím balíčkem a „chaosem“.
-Pan Bone řekl shromáždění Leave Means Leave v Solihullu, že chce Chequers „vykuřovat“.
-Navrhl, aby se z pana Farage stal peer a měl by být odpovědný za jednání s Bruselem.
-„Kdyby měl na starosti, už bychom byli venku,“ řekl.
-Poslanec Wellingborough dodal: „Budu se zastávat brexitu, ale musíme Chequers zahodit.“
-Vyslovil se proti EU a řekl: „Nebudeme bojovat ve světových válkách, abychom byli podřízeni.
+Požadoval také, aby ve svém nemocničním pokoji vyvěsil vlajku ISIS, uvedla policie.
+Přiznal se, že není vinen obžalobou 22-požadně.
+David Patton, jeden z federálních veřejných obhájců zastupující Saipova, uvedl, že jsou "zjevně zklamáni" rozhodnutím obžaloby.
+"Domníváme se, že rozhodnutí usilovat o trest smrti spíše než přijmout přiznání viny k doživotnímu vězení bez možnosti propuštění jen prodlouží trauma těchto událostí pro všechny zúčastněné," řekl Patton.
+Saipovův tým obhajoby již dříve požádal státní zástupce, aby nepožadovali trest smrti.
+Konzervativní poslanec říká, že NIGEL FARAGE by měl být pověřen jednáním o Brexitu
+Nigel Farage slíbil, že „mobilizuje lidovou armádu“ během protestu na konferenci Toryů.
+Bývalý vůdce UKIP řekl, že politici musí "cítit horko" od euroskeptiků - protože jeden z vlastních poslanců Theresy Mayové navrhl, že by měl mít na starosti jednání s EU.
+Konzervativní backbencher Peter Bone řekl pochodu v Birminghamu, že Spojené království „by už bylo venku“, kdyby byl pan Farage ministrem pro brexit.
+Výzva, které Mayová čelí při usmíření svých hluboce rozdělených řad, však byla zdůrazněna pro-Remain Toryů, kteří se připojili k samostatnému protestu proti Brexitu ve městě.
+Premiérka se snaží udržet svůj plán Chequers kompromis na správné cestě uprostřed útoků ze strany Brexiteers, setrvávačů a EU.
+Spojenci trvali na tom, že bude pokračovat ve snaze uzavřít dohodu s Bruselem navzdory odporu - a přinutí euroskeptiky a labouristy, aby si vybrali mezi jejím balíčkem a "chaosem".
+Pan Bone řekl shromáždění Leave Means Leave v Solihullu, že chce "chuck Chequers".
+Navrhl, že pan Farage by měl být učiněn peer a dostal odpovědnost za jednání s Bruselem.
+"Kdyby to měl na starosti, už bychom byli venku," řekl.
+Poslanec Wellingborough dodal: "Budu se postavit za Brexit, ale musíme Chucka Cruze."
+Při rozpočtování svého odporu vůči EU řekl: „Nebojovali jsme světové války, abychom byli podřízení.
 Chceme si vytvořit vlastní zákony v naší vlastní zemi.“
-Pan Bone odmítl domněnky, že se veřejné mínění od hlasování v roce 2016 změnilo: „Představa, že britský lid změnil názor a chce zůstat, je naprosto nepravdivá.“
-Na pochodu byla i brexitářka, která řekla novinářům: „Prostě říkám: Pane premiére, poslouchejte lidi.
-„Chequers je u široké veřejnosti nepopulární, opozice pro to nebude hlasovat, je to nepopulární vůči naší straně a aktivistům, kteří skutečně buší do ulic a vůbec nás zvolí.
-Prosím, zahoďte Chequers a začni poslouchat.“
-V ostrém vzkazu paní Mayové dodala: „Ministři si udržují svou práci, když dodržují své sliby.“
-Pan Farage řekl, že politici na shromáždění musí být donuceni, aby se „cítili vedra“, pokud se chystají zradit rozhodnutí učiněné v referendu v roce 2016.
-„Teď jde o otázku důvěry mezi námi – lidmi – a naší politickou třídou,“ řekl.
-„Snaží se zradit brexit a my jsme tu dnes, abychom jim řekli, že vám to projde, že vám to projde.“
-V poselství nadšenému davu dodal: „Chci, aby naše politická třída, která je na pokraji zrady brexitu, pocítila to vedro.
-„Mobilizujeme lidovou armádu této země, která nám dala vítězství v brexitu a nikdy nebude mít klid, dokud se nestanou nezávislými, samosprávnými, hrdými, hrdými Spojenými královstvím.“
-Mezitím setrvávající pochodovali přes Birmingham a pak uspořádali dvouhodinovou manifestaci v centru města.
-Hořká aktivisté mávli toryi proti brexitovým transparentům po víkendovém zahájení skupiny.
-Labouristický protějšek Lord Adonis se konzervativcům vysmíval bezpečnostním problémům, které utrpěli se stranickou aplikací při zahájení konference.
-„Jsou to lidé, kteří nám říkají, že mohou mít IT systémy a všechny technologie pro Kanadu a plus, pro hranici bez tření, pro volný obchod bez hranic v Irsku,“ dodal.
-„Je to naprostá fraška.
-Něco jako dobrý brexit neexistuje,“ dodal.
-Warren se chce „tvrdě podívat“ na kandidatury na prezidenta
-USA. Sen. Elizabeth Warrenová říká, že se po listopadových volbách bude „tvrdě zabývat kandidatou na prezidentku“.
-Boston Globe uvádí, že Massachusettská demokratka promluvila o své budoucnosti na radnici v západním Massachusetts v sobotu.
-Warren, častý kritik prezidenta Donalda Trumpa, se v listopadu uchází o znovuzvolení proti státní zastupitelce GOP. Geoff Diehl, který byl spolupředsedou Trumpovy kampaně v Massachusetts v roce 2016.
-Byla v centru spekulací, že by se mohla v roce 2020 utkat s Trumpem.
-Sobotní odpolední událost v Holyoke byl její 36. setkání s voliči, kteří používali formát radnice od Trumpova nástupu do úřadu.
-Jeden z účastníků se jí zeptal, jestli má v plánu kandidovat na prezidentku.
-Warren odpověděl, že je čas, aby ženy odjely do Washingtonu, aby napravily naši rozvrácenou vládu, a to včetně ženy na vrcholu.
-Zatčení za zastřelení Simse z LSU
-Policie v Baton Rouge v La v sobotu oznámila, že podezřelý byl zatčen při zastřelení basketbalisty LSU Waydeho Simse v pátek.
-Policejní oddělení v Baton Rouge oznámilo zatčení dvacetiletého Dyteona Simpsona v 11 hodin. ET tisková konference.
-V pátek zveřejnili video ze střelby, ve které žádají o pomoc při identifikaci muže, který byl na záběrech spatřen.
-Dvacetiletý Sims byl zastřelen poblíž kampusu Southern University v pátek.
-„Wayde Sims utrpěl střelnou ránu do hlavy a nakonec v důsledku toho zemřel,“ řekl policejní šéf Murphy J. Paul to řekl médiím v sobotu na 247sports.
-Wayde zakročil, aby obhájil svého přítele a byl zastřelen Simpsonem.
-Simpson byl vyslýchán a přiznal se, že byl na místě, měl zbraň a přiznal se, že zastřelil Wayde Sims.
-Simpson byl bez nehody zatčen a vzat do vazby na policejním oddělení East Baton Rouge Parish.
-6-noha-6 junior, který vyrostl v Baton Rouge, Sims hrál v 32 hrách s 10 starty v minulé sezoně a v průměru 17,4 minut, 5,6 bodů a 2,9 doskoků na zápas.
-Velká cena Ruska: Lewis Hamilton uzavírá světový titul poté, co mu tým objednán vítězství nad Sebastianem Vettelem
-Od chvíle, kdy se Valtteri Bottas kvalifikoval před Lewisem Hamiltonem, bylo jasné, že objezdy týmu Mercedesu budou hrát velkou roli v závodě.
-Z tyče, Bottas dostal dobrý start a téměř zavěsil Hamilton na sucho, když obhájil svou pozici v prvních dvou zatáčkách a vyzval Vettela, aby zaútočil na svého spoluhráče.
-Vettel šel do boxů jako první a nechal Hamiltona vběhnout do provozu u ocasu smečky, což mělo být rozhodující.
-Mercedes se opo později probojoval do kola a vyjel za Vettel, ale Hamilton se po nějaké akci na kolo před kolo, při které řidič Ferrari neochotně opustil vnitřní volno s rizikem, že se udrží po dvojitém útoku na třetí zatáčku.
-Max Verstappen vyrazil ze zadní řady startovního roštu a do konce prvního kola byl v den svých 21. narozenin na sedmém místě.
-Poté vedl po velké části závodu, když se držel pneumatik, aby se zaměřil na rychlou zakončení a předstihl Kimiho Raikkonena na čtvrté místo.
-Nakonec se dostal do boxu ve 44. kole, ale nedokázal zvýšit tempo ve zbývajících osmi kolech, když Raikkonen obsadil na čtvrté místo.
-Je to těžký den, protože Valtteri odvedl fantastickou práci celý víkend a byl to opravdový gentleman, který mi dovolil.
-Tým odvedl tak výjimečnou práci, aby měl jednu dvojku,“ řekl Hamilton.
-To byl opravdu zlý jazyk těla
-Prezident Donald Trump se v sobotu na shromáždění vysmíval senátorce Dianne Feinsteinové kvůli naléhání, že nevyzračila dopis od Christine Blasey Fordové, která obvinila kandidáta do Nejvyššího soudu Bretta Kavanaugha ze sexuálního napadení.
-Na shromáždění v Západní Virginii se prezident přímo nevyjádřil k výpovědi, které Ford před senátním soudním výborem předstoupil, místo toho komentoval, že to, co se děje v Senátu, ukazuje, že lidé jsou „podivnění a odporní a nepravdivě“.
-„Jediná věc, která se může stát a krásná věc, která se děje v posledních několika dnech v Senátu, když vidíte hněv, když vidíte lidi, kteří jsou naštvaní, zlí a zlí a odporní a nepravdivé,“ řekl.
-„Když se podíváte na úniky a úniky a pak řeknou „oh, já to neudělal.
-Já to neudělal.“
-Pamatuješ?
-Dianne Feinsteinová, prozradila jste to?
-Pamatuješ na její odpověď... prozradil jsi ten dokument – „oh, oh, co?
-To snad ne.
-Neprošel jsem o ni.“
-Tak počkej chvilku.
-Projeli jsme... ne, nevycvihli jsme to,“ dodal v dojmu senátora.
-Feinsteinové byl zaslán dopis, v němž Fordová podrobně popsala obvinění proti Kavanaughovi, a ta na ně uniklo na veřejnost počátkem září – ale Feinsteinová popřela, že by únik pocházel z její kanceláře.
-„Neuchvalil jsem Dr. Fordova obvinění, já jsem její verzi nevyplnila,“ řekla Feinsteinová výboru, napsal The Hill.
-„Požádala mě, abych to držel v tajnosti, a já jsem to držel v tajnosti, jak se jí zlíbí.“
-Ale její popírání se nezdálo být dobré k prezidentovi, který během sobotního večerního shromáždění poznamenal: „Řeknu vám co, to byla opravdu špatná řeč těla.
-Možná ne, ale to je ta nejhorší řeč těla, jakou jsem kdy viděl.“
-V otázce obhajoby kandidáta do Nejvyššího soudu, který byl tři ženy obviněn ze sexuálního obtěžování, prezident naznačil, že demokraté tato obvinění používají k vlastním cílům.
-„Jsou odhodláni převzít zpět moc všemi potřebnými prostředky.
-Vidíte tu podlost, tu nechutnost, je jim jedno, komu ublíží, koho budou muset přeběhnout, aby získali moc a pod kontrolou,“ hlásí Mediaite.
-Elitní liga: Dundee Stars 5-3 Belfast Giants
-Patrick Dwyer trefil dva góly za Giants proti Dundee
-Dundee Stars odčinil páteční prohru v Elite League proti Belfast Giants tím, že vyhrál odvetný zápas 5-3 v Dundee v sobotu.
-Giants získali předčasný náskok dvou branek díky úderům Patricka Dwyera a Francise Beauvilliera.
-Mike Sullivan a Jordan Cownie přinesli domácí úroveň, než Dwyer vrátil vedení Giants.
-Francois Bouchard vyrovnal pro Dundee před dvěma Lundvald Nielsen góly zajistil jejich vítězství.
-Byla to třetí porážka v sezoně pro muže Adama Keefea, kteří v pátek večer v Belfastu porazili Dundee 2:1.
-Bylo to čtvrté setkání v sezoně mezi celými, s Giants vyhrál předchozí tři zápasy.
-Dwyerův úvodní gól přišel ve čtvrté minutě v čase 3:35 po asistenci Kendalla McFaulla, s Davidem Rutherfordem, který asistoval, když o čtyři minuty později dovedl vedení.
-V době, která byla rušnou zahajovací periodou, Sullivan přivedl domácí zpět do hry na 13:10 před Matt Marquardt se stal živitelem pro Cownie vyrovnávací gól na 15:16.
-Dwyer se ujistil, že Giants se ujal vedení do první přestávky, když trefil svůj druhý gól v noci na konci první třetiny.
-Domácí přeskupili a Bouchard je opět na stejné úrovni s přesilovkou gól na 27:37.
-Cownie a Charles Corcoran se spojili a pomohli Nielsenovi dát Dundeeho poprvé v zápase na konci druhé třetiny a postaral se o vítězství s pátým týmem v polovině finálové třetiny.
-Giants, kteří prohráli čtyři z posledních pěti zápasů, jsou v dalším zápase v dalším zápase v pátek doma s Miltonem Keynesem.
-Ovladač letového provozu se přiklání na jistotu, že stovky letů mohou ujet zemětřesení
-Letecký řídící letového provozu v Indonésii je oslavován jako hrdina poté, co zemřel, aby se letadlo se stovkami lidí bezpečně odlepilo od země.
-Více než 800 lidí zemřelo a mnoho z nich se pohřešuje po velkém zemětřesení, které v pátek zasáhlo ostrov Sulawesi, což vyvolalo tsunami.
-Silné následné otřesy nadále sužují oblast a mnoho z nich uvízne v troskách ve městě Palu.
-Navzdory svým kolegům, kteří prchali o život, však 21letý Anthonius Gunawan Agung odmítl opustit své místo v divoce seřající ovládací věži na letišti Púrí v Palu Mutiara Sis.
-Zůstal na místě, aby se ujistil, že let Batik Air 6321, který byl v té době na ranveji, mohl bezpečně vzlétnout.
-Pak seskočil z dopravní věže, když si myslel, že se hroutí.
-Zemřel později v nemocnici.
-Mluvčí Air Navigation Indonesia, Yohannes Sirait, řekl, že rozhodnutí mohlo zachránit stovky životů, australský ABC News napsal.
-Připravili jsme helikoptéru z Balikpapanu v Kalimantanu, aby ho odvezla do větší nemocnice v jiném městě.
-Bohužel jsme ho ztratili dnes ráno před vrtulníkem do Palu.
-„Naše srdce se o tom dozví,“ dodal.
-Úřady se přitom obávají, že počet obětí by mohl dosáhnout tisíců, když tamní agentura pro zmírňování následků katastrof uvedla, že přístup do měst Donggala, Sigi a Boutong je omezený.
-„Pomáhá se stále rostoucí, protože mnoho těl bylo stále pod troskami, zatímco mnoho z nich se nepodařilo zastihnout,“ řekl mluvčí agentury Sutopo Purwo Nugroho.
-Vlny, které dosáhly až šesti metrů, zpustošily Palu, který v neděli uspořádá hromadný pohřeb.
-Vojenská a komerční letadla přivážou pomoc a zásoby.
-Risa Kusumová, pětatřicetiletá matka, řekla Sky News: „Každou chvíli přiváže záchranka do těl.
-Čistá voda je málo.
-Ministy jsou všude uloupávány.“
-Jan Gelfand, šéf Mezinárodního červeného kříže v Indonésii, řekl CNN: „Indonéský Červený kříž se předhánějí v pomoci přeživším, ale nevíme, co tam najdou.
-Už je to tragédie, ale mohlo by to být mnohem horší.“
-Indonéský prezident Joko Widodo přijel do Palu v neděli a řekl tamní armádě: „Žádám vás všechny, abyste pracovali ve dne v noci, abyste dokončili všechny úkoly související s evakuací.
-Jsi připraven?“ CNN psala.
-Indonésii zasáhla počátkem tohoto roku zemětřesení v Lomboku, při nichž zemřelo více než 550 lidí.
-Letadlo letadla v Mikronésii: Air Niugini nyní říká, že jeden muž se pohřešuje po havárii letadla v laguně
-Letecká společnost provozující let, který se zřítil do pacifické laguny v Mikronésii, nyní uvádí, že jeden muž se pohřešuje, poté co dříve uvedla, že všech 47 cestujících a posádky bezpečně evakuovalo potopené letadlo.
-Společnost Air Niugini ve zprávě uvedla, že od sobotního odpoledne nemůže započítat pasažéra.
-Letecká společnost uvedla, že spolupracuje s místními úřady, nemocnicemi a vyšetřovateli, aby se pokusila toho muže najít.
+Pan Bone odmítl návrhy, že se od hlasování v roce 2016 změnilo veřejné mínění: "Myšlenka, že britský lid změnil názor a chce zůstat, je zcela nepravdivá."
+Konzervativní Brexiteer Andrea Jenkyns byl také na pochodu a řekl novinářům: „Já prostě říkám: Pane premiére, naslouchejte lidem.
+"Chequers je u široké veřejnosti nepopulární, opozice pro to nebude hlasovat, je to nepopulární vůči naší straně a našim aktivistům, kteří skutečně buší do ulic a dostanou nás do voleb na prvním místě.
+Prosím, uhoďte Chequery a začněte poslouchat.“
+Ve ostrém vzkazu pro paní Mayovou dodala: "Premiéři si udržují svou práci, když dodrží své sliby."
+Pan Farage řekl shromáždění, že politici musí být učiněni, aby „cítili horko“, pokud se chystali zradit rozhodnutí učiněné v referendu v roce 2016.
+"Nyní je to o záležitosti důvěry mezi námi - lidmi - a naší politickou třídou," řekl.
+"Snaží se zradit brexit a my jsme dnes tady, abychom jim řekli 'nenecháme vás, aby nám to prošlo'."
+Ve zprávě pro nadšený dav dodal: „Chci, abyste naši politickou třídu, která je na pokraji zrady Brexitu, cítila teplo.
+"Mobilizujeme lidovou armádu této země, která nám dala vítězství v Brexitu a nikdy nebude mít klid, dokud se nestaneme nezávislým, samosprávným, hrdým Spojeným královstvím."
+Mezitím Remainers pochodovali Birminghamem, než uspořádali dvouhodinovou demonstraci v centru města.
+Roztříštění aktivistů mávalo tory proti Brexitu bannery po spuštění této skupiny tento víkend.
+Labouristický kolega Lord Adonis zesměšnil konzervativce kvůli bezpečnostním otázkám, které utrpěli s aplikací strany, když se konference otevřela.
+"Jsou to lidé, kteří nám říkají, že mohou mít zavedeny IT systémy a všechny technologie pro Kanadu plus plus, pro bezproblémovou hranici, pro volný obchod bez hranic v Irsku," dodal.
+"Je to naprostá fraška.
+Neexistuje nic takového jako dobrý brexit,“ dodal.
+Warren plánuje "tvrdý pohled" na kandidaturu na prezidenta
+USA. Senáto. Elizabeth Warren říká, že se bude "těžce zabývat kandidaturou na prezidenta" po listopadových volbách.
+Boston Globe hlásí, že Massachusettský demokrat mluvil o své budoucnosti během radnice v západním Massachusetts v sobotu.
+Warren, častý kritik prezidenta Donalda Trumpa, se v listopadu uchází o znovuzvolení proti republikánskému státnímu zástupci. Geoff Diehl, který byl spolupředsedou Trumpovy kampaně v Massachusetts v roce 2016.
+Byla v centru spekulací, že by mohla převzít Trumpa v roce 2020.
+Sobotní odpolední akce v Holyoke byla jejím 36. setkáním s voliči pomocí formátu radnice od doby, kdy se Trump ujal úřadu.
+Jeden z účastníků se jí zeptal, zda plánuje kandidovat na prezidentku.
+Warren odpověděl, že je čas, aby ženy jely do Washingtonu, aby napravily naši rozbitou vládu, a to včetně ženy na vrcholu.
+Zatčení provedeno při střelbě na smrt LSU Sims
+Policie v Baton Rouge v Los Angeles v sobotu oznámila, že podezřelý byl v pátek zatčen při střelbě na basketbalistu LSU Wayde Sims.
+Policejní oddělení Baton Rouge oznámilo zatčení 20letého Dyteona Simpsona v 11 hodin. ET tisková konference.
+V pátek zveřejnili video ze střelby a požádali o pomoc s identifikací muže, který byl viděn na záběrech.
+Dvacetiletý Sims byl v pátek ráno zastřelen poblíž kampusu Southern University.
+"Wayde Sims utrpěl střelnou ránu do hlavy a nakonec v důsledku toho zemřel," uvedl šéf policie Murphy J. Paul řekl médiím v sobotu na 247sportu.
+Wayde zakročil, aby bránil svého přítele a byl zastřelen Simpsonem.
+Simpson byl vyslýchán a přiznal, že byl na scéně, v držení zbraně, a přiznal se k natáčení Wayde Sims.
+Simpson byl zatčen bez incidentu a vzat do vazby na policejním oddělení East Baton Rouge Parish.
+6-noha-6 junior, který vyrostl v Baton Rouge, Sims hrál v 32 hrách s 10 starty v minulé sezóně a v průměru 17,4 minut, 5,6 bodů a 2,9 doskoků na zápas.
+Velká cena Ruska: Lewis Hamilton se blíží k světovému titulu poté, co mu týmové příkazy předají vítězství nad Sebastianem Vettelem
+Od okamžiku, kdy se Valtteri Bottas kvalifikoval před Lewise Hamiltona v sobotu, že týmové objednávky Mercedesu budou hrát velkou roli v závodě.
+Z pole position, Bottas dostal dobrý start a téměř pověsil Hamiltona na sucho, když bránil svou pozici v prvních dvou zatáčkách a pozval Vettela, aby zaútočil na svého spoluhráče.
+Vettel šel nejprve do boxů a nechal Hamiltona, aby běžel do provozu na ocasu smečky, něco, co mělo být rozhodující.
+Mercedes zajel kolo později a vyšel za Vettelem, ale Hamilton šel dopředu po nějaké akci kolo-kola, která viděla, že jezdec Ferrari neochotně opustil vnitřní volnou riskantu držení po dvojitém pohybu bránit na třetí zatáčce.
+Max Verstappen startoval ze zadní řady startovního roštu a byl na sedmém místě na konci prvního kola v den svých 21. narozenin.
+Poté vedl pro velkou část závodu, když se držel na svých pneumatikách, aby se zaměřil na rychlý cíl a předjel Kimiho Räikkönena na čtvrtém místě.
+Nakonec přišel do boxů ve 44. kole, ale nedokázal zvýšit rychlost ve zbývajících osmi kolech, protože Räikkönen byl čtvrtý.
+Je to těžký den, protože Valtteri odvedl fantastickou práci celý víkend a byl to skutečný gentleman, který mi dovolil.
+Tým odvedl tak výjimečnou práci, aby měl jednu dvojku," řekl Hamilton.
+To byl opravdu špatný jazyk těla
+Prezident Donald Trump zesměšnil senátorku Dianne Feinsteinovou na sobotním shromáždění kvůli jejímu naléhání, že nevypustila dopis od Christine Blasey Fordové, která obvinila kandidáta Nejvyššího soudu Bretta Kavanaugha ze sexuálního napadení.
+Ve svém projevu na shromáždění v Západní Virginii prezident přímo nevyjádřil svědectví, které poskytl Ford před senátním justičním výborem, místo toho komentoval, že to, co se děje v Senátu, ukázalo, že lidé jsou "zlí a oškliví a nepravdiví".
+"Jediná věc, která by se mohla stát, a krásná věc, která se děje v posledních několika dnech v Senátu, když vidíte hněv, když vidíte lidi, kteří jsou naštvaní a zlí a oškliví a nepravostní," řekl.
+"Když se podíváte na úniky a úniky a pak řeknou:" Oh, neudělal jsem to.
+Neudělal jsem to.“
+Vzpomínáte si?
+Dianne Feinsteinová, vypustila jsi tě?
+Vzpomínáte si na její odpověď... prozradil jste ten dokument - "Oh, oh, co?
+- Ale ne.
+Neprozradil jsem to."
+Počkejte na chvilku.
+Unikli jsme... Neprozradili jsme,“ dodal v dojmu senátora.
+Feinsteinovi byl zaslán dopis, který podrobně popisuje obvinění proti Kavanaughovi od Forda v červenci, a unikl dříve v září - ale Feinstein popřel, že by únik přišel z její kanceláře.
+"Neskrýval jsem Dr. Fordova obvinění, já jsem nevypustil její příběh,“ řekl Feinstein výboru, The Hill.
+"Požádala mě, abych to držela v tajnosti, a já to držela v tajnosti, jak žádala."
+Ale její popření se nezdálo, že by seděl dobře s prezidentem, který během sobotního večerního shromáždění komentoval: „Řeknu vám co, to byla opravdu špatná řeč těla.
+Možná ne, ale to je ta nejhorší řeč těla, jakou jsem kdy viděl."
+Pokračování jeho obhajoby kandidáta Nejvyššího soudu, který byl obviněn ze sexuálního zneužívání třemi ženami, prezident navrhl, že demokraté používají obvinění pro své vlastní účely.
+"Jsou odhodláni převzít moc zpět všemi prostředky, které jsou nezbytné.
+Vidíte podlost, ošklivost, je jim jedno, komu ublíží, komu musí přejet, aby získali moc a kontrolu,“ řekl Mediaite.
+Elite League: Dundee Stars 5-3 Belfast Giants (hudební videoklip)
+Patrick Dwyer trefil dva góly za Giants proti Dundee.
+Dundee Stars odčinil páteční porážku Elite League proti Belfast Giants tím, že vyhrál návratový zápas 5-3 v Dundee v sobotu.
+Giants dostali časný dvougólový náskok přes údery od Patricka Dwyera a Francise Beauvilliera.
+Mike Sullivan a Jordan Cownie přinesli domácí úroveň předtím, než Dwyer obnovil vedení Giants.
+Francois Bouchard vyrovnal pro Dundee před dvěma Lukas Lundvald Nielsen góly zajistily jejich vítězství.
+Byla to třetí Elite League porážka v sezóně pro Adam Keefeho muže, kteří přišli zezadu, aby porazili Dundee 2-1 v Belfastu v pátek večer.
+Bylo to čtvrté setkání sezóny mezi stranami, přičemž Giants vyhráli předchozí tři zápasy.
+Dwyerův otvírák přišel ve čtvrté minutě na 3:35 od Kendall McFaull asistenci, přičemž David Rutherford poskytl asistenci, když Beauvillier zdvojnásobil vedení o čtyři minuty později.
+V čem byl rušné zahajovací období, Sullivan přivedl domácí stranu zpět do hry na 13:10 předtím, než Matt Marquardt se stal poskytovatelem pro Cownieho ekvalizér na 15:16.
+Dwyer se ujistil, že Giants se ujali vedení do první přestávky, když na konci první třetiny zasáhl svůj druhý gól v noci.
+Domácí strana se přeskupila a Bouchard je opět dal na úrovni podmínek s power play gólem na 27:37.
+Cownie a Charles Corcoran se spojili, aby pomohli Nielsenovi dát Dundeemu poprvé v zápase pozdě ve druhé třetině a ujistil se o vítězství s pátým poločasem svého týmu v poslední třetině.
+Giants, kteří nyní prohráli čtyři z posledních pěti zápasů, jsou doma s Miltonem Keynesem v příštím pátečním zápase.
+Řídící Letecký Dopravce Zemřel, Aby Zajistil Stovky V Letadlech Mohou Uteknout Země
+Řídící letového provozu v Indonésii je oslavován jako hrdina poté, co zemřel, aby se letadlo stovkami lidí bezpečně dostalo ze země.
+Více než 800 lidí zemřelo a mnoho z nich se pohřešuje poté, co v pátek zasáhlo ostrov Sulawesi, což vyvolalo tsunami.
+Silné otřesy i nadále trápí oblast a mnoho z nich je uvězněno v troskách ve městě Palu.
+Ale navzdory tomu, že jeho kolegové utíkali o život, 21letý Anthonius Gunawan Agung odmítl opustit své místo v divoce kymácející kontrolní věž na letišti Mutiara Sis Al Jufri Airport Palu.
+Zůstal na místě, aby se ujistil, že Batik Air Flight 6321, který byl v té době na přistávací dráze, byl schopen bezpečně vzlétnout.
+Pak skočil z věže řízení dopravy, když si myslel, že se hroutí.
+Později zemřel v nemocnici.
+Mluvčí společnosti Air Navigation Indonesia Yohannes Sirait uvedl, že toto rozhodnutí mohlo zachránit stovky životů, informovala australská ABC News.
+Připravili jsme helikoptéru z Balikpapanu v Kalimantanu, abychom ho odvezli do větší nemocnice v jiném městě.
+Bohužel jsme ho ztratili dnes ráno, než se helikoptéra dostala do Palu.
+"Naše srdce je zlomené, když o tom slyšíme," dodal.
+Úřady se mezitím obávají, že počet obětí by mohl dosáhnout tisíců lidí s agenturou pro zmírňování katastrof v zemi, která říká, že přístup do měst Donggala, Sigi a Boutong je omezený.
+"Místojí se stále narůstat, protože mnoho těl bylo stále pod troskem, zatímco mnoho z nich nebylo možné dosáhnout," uvedl mluvčí agentury Sutopo Purwo Nugroho.
+Vlny, které dosáhly až šesti metrů, zničily Palu, která bude v neděli uspořádána hromadným pohřbem.
+Vojenská a komerční letadla přinášejí pomoc a zásoby.
+Risa Kusuma, 35letá matka, řekla Sky News: „Každou minutu přiveze sanitka.
+Čistá voda je vzácná.
+Mini-markety jsou všude vyrabovány.“
+Jan Gelfand, šéf Mezinárodního červeného kříže v Indonésii, řekl CNN: „Indonéský Červený kříž závodí, aby pomohl přeživším, ale nevíme, co tam najdou.
+Je to již tragédie, ale mohlo by to být mnohem horší.“
+Indonéský prezident Joko Widodo přijel v neděli do Palu a řekl armádě země: „Žádám vás všechny, abyste pracovali dnem i nocí, abyste splnili všechny úkoly související s evakuací.
+- Jsi připraven?" Oznámila to CNN.
+Začátkem tohoto roku zasáhla Indonésie zemětřesením v Lomboku, při nichž zemřelo více než 550 lidí.
+Zřídkotapl ofární letadlo: Air Niugini nyní říká, že jeden muž zmizel po havárii lagunového letadla
+Letecká společnost provozovala let, který narazil do tichomořské laguny v Mikronésii, nyní říká, že jeden muž se pohřešuje poté, co dříve řekl, že všech 47 cestujících a členů posádky bezpečně evakuovalo potápějící se letadlo.
+Air Niugini ve svém prohlášení uvedl, že od sobotního odpoledne nebyl schopen vysvětlit mužského cestujícího.
+Letecká společnost uvedla, že spolupracuje s místními úřady, nemocnicemi a vyšetřovateli, aby se pokusila muže najít.
 Letecká společnost okamžitě nereagovala na žádosti o další podrobnosti o cestujícím, jako je jeho věk nebo státní příslušnost.
-Místní čluny pomohly zachránit ostatní cestující a posádku poté, co letadlo narazilo do vody, když se snažilo přistát na letišti Chuuk Island.
-Úřady v pátek uvedly, že sedm lidí bylo převezeno do nemocnice.
-Letecká společnost uvedla, že šest pasažérů zůstalo v sobotu v nemocnici a všichni byli ve stabilizovaném stavu.
-Co způsobilo havárii a přesný sled událostí, zůstává nejasné.
-Letecká společnost a USA. Námořnictvo uvedlo, že letadlo přistálo v laguně, která se dostala do lávy.
-Někteří svědci se domnívali, že letadlo přestřelilo přistávací dráhu.
-Americký pasažér Bill Jaynes řekl, že letadlo bylo velmi nízko.
-„To je naprosto dobrá věc,“ řekl Jaynes.
-Jaynes řekl, že se mu a ostatním podařilo brodit se po pásmo do nouzových východů na potopenou rovinu.
-Řekl, že letušky panikařily a křičely a že utrpěl lehké zranění hlavy.
-Spojené státy. Námořnictvo řekl námořníci pracující v blízkosti na zlepšení mlese také pomohl při záchraně pomocí nafukovací lodi na rubu lidí na břeh před potopil letadlo asi 30 metrů (100 stop) vody.
-Údaje ze sítě pro bezpečnost letectví ukazují, že v posledních dvou desetiletích zemřelo při haváriích leteckých společností registrovaných v pásmové Guineji registrované v letecké společnosti PNG, ale žádný se společnosti Air Niugini nezúčastnila.
-Analytik stanovil, že časová osa noční ženy byla upálena zaživa.
-Obžaloba svůj případ odložila v sobotu v obnově a v roce 2014 byl obviněn z toho, že ženu z Mississippi zaživa zaživa.
-USA. Analytik ministerstva spravedlnosti Paul Rowlett několik hodin svědčil jako odborný svědek v oblasti zpravodajské analýzy.
-Porotě nastínil, jak použil záznamy z mobilních telefonů, aby dal dohromady pohyb 29letého obžalovaného Quintona Tellise a devatenáctileté oběti Jessicy Chambersové tu noc, kdy zemřela.
-Rowlett řekl, že obdržel lokalizační údaje z několika mobilních telefonů, které ukazovaly, že Tellis byl s Chambersem večer její smrti, což bylo v rozporu s jeho předchozími tvrzeními, napsal The Clarion Ledger.
-Když se ukázalo, že jeho mobil byl v době, kdy řekl, že byl s kamarádem Michaelem Sanfordem, policie si šla promluvit se Sanfordem.
-Sanford usedl v sobotu a vypověděl, že ten den nebyl ve městě.
-Když se žalobci ptali, jestli Tellis říkal pravdu, když řekl, že tu noc byl v Sanfordově náklaďáku, Sanford řekl, že „lže, protože můj náklaďák byl v Nashvillu“.
-Další nedůnohostí bylo, že Tellis řekl, že Chambers znal asi dva týdny, když zemřela.
-Mobilní záznamy naznačovaly, že se znají jen týden.
-Rowlett řekl, že někdy po Chambersově smrti, Tellis smazal Chambersovy zprávy, hovory a informace o kontaktu z jeho telefonu.
-„Vymazal ji ze svého života,“ řekl Hale.
-Obhajoba má začít s závěrečnými řečmi v neděli.
-Soudce řekl, že očekává, že proces půjde později toho dne k porotě.
-The High Breed: Co je při vědomí hip hop?
-hip hopové trio chce zpochybnit negativní pohled na žánr tím, že naplní svou hudbu pozitivními poselstvími.
-High Breed z Bristolu tvrdí, že hip hop se odklonil od původu politických poselství a řešil sociální otázky.
-Chtějí se vrátit k jeho kořenům a oživit si vědomý hip hop.
-Umělci jako The Fugees a Common zaznamenali nedávné oživení ve Velké Británii prostřednictvím umělců jako Akala a Lowkey.
-Další černoch?!
-NY chůva žaluje pár za vyhazov po „rasistické“ SMS
-Newyorská chůva žaluje pár za diskriminační střelbu poté, co od matky obdržela nesprávně nasměrovanou zprávu, ve které si stěžuje, že je „další černoškou“.
-Manželé popírají, že by byli rasisté, a přirovnávají obžalobu k „vydírání“.
-Lynsey Plasco-Flaxmanová, matka dvou dětí, vyjádřila zděšení, když zjistila, že nová poskytovatelka péče o děti, Giselle Maurice, je černoška, když přijela na svůj první den v práci v roce 2016.
-„NOOOOOOOOOOOOOOOOOY ČERNÝ ČERNÝ PLERON,“ napsala paní Plasco-Flaxmanová svému manželovi v textové zprávě.
-Nicméně místo toho, aby to poslala svému manželovi, poslala to slečně. Maurice, dvakrát.
-Poté, co si uvědomila svůj přešlap, „nepohodlně“ Plasco-Flaxman vyhodil slečnu. Maurice uvedla, že jejich odcházející chůva, která byla Afroameričankou, odvedla podle New York Post špatnou práci a že místo toho podle New York Post očekává Filipínka.
-Slečno, paní. Maurice dostal zaplaceno za jeden den v práci a pak poslal domů na Uber.
-Nyní Maurice žaluje pár o odškodnění kvůli vyhazovu a požaduje odškodnění ve výši 350 dolarů denně za šestiměsíční, živě na koncertě, na které byla původně najata, i když bez smlouvy.
-„Chci jim ukázat, podívejte se, takové věci neděláte,“ řekla v pátek listu Post a dodala: „Vím, že je to diskriminace.“
-Manželé se ohradili proti tvrzením, že jsou rasističtí, a prohlásili, že ukončení Mauricova zaměstnání je rozumná věc, protože se obávají, že jí nemohou věřit poté, co ji urazili.
-„Moje žena jí poslala něco, co nechtěla říct.
-Ona není rasistka.
-Nejsme rasističtí lidé,“ řekl manžel Joel Plasco listu Post.
-„Ale strčil bys své děti do rukou někoho, na koho jsi byl hrubý, i kdyby to bylo omylem?
-Tvoje novorozeně?
-Ale no tak.“
-Plasco se odvolával na „vydírání a“ a řekl, že jeho žena měla jen dva měsíce volna s dítětem a byla ve „velmi těžké situaci“.
-„Půjdeš po někom takovém?
-To není moc hezké,“ dodal investiční bankéř.
-Zatímco právní případ stále probíhá, soud veřejného mínění se rychle odsuzuje páru na sociálních sítích a udeřil je za jejich chování a logiku.
-Vydavatelé Paddingtonu se obávali, že čtenáři nebudou mít vztah s mluvícím medvědem, odhaluje nový dopis
-Bondova dcera Karen Jankelová, která se narodila krátce po přijetí knihy, o dopise uvedla: „Je těžké se dostat do bot někoho, kdo si ji poprvé před vydáním bylo přečetlo.
-Je velmi zábavné vědět, co víme o Paddingtonově obrovském úspěchu.“
-Když řekne, že její otec, který pracoval jako kameraman BBC, než ho malý medvěd na dětskou knížku inspiroval, by bylo optimisticky o odmítání jeho práce, a dodala, že 60. výročí publikace knih byla „hořkosladké“ po jeho loňské smrti.
-O Paddingtonovi, kterého popisuje jako „velmi důležitého člena naší rodiny“, dodala, že její otec je na jeho případný úspěch tiše hrdý.
-„Byl to docela tichý muž a nebyl to vychloubačný člověk,“ řekla.
-„Ale protože byl Paddington tak skutečný, bylo to skoro jako když máte dítě, které něco dosáhne: jsi na ně pyšný, i když to ve skutečnosti neděláš.
-Myslím, že se na Paddingtonův úspěch díval tak nějak.
-I když to byl jeho výtvor a představivost, vždycky připisoval zásluhy samotnému Paddingtonovi.“
-Moje dcera umírala a já se musel rozloučit po telefonu.
-Po přistání byla její dcera převezena do nemocnice v Nice Louis Pasteur 2, kde lékaři marně pracovali, aby jí zachránili život.
-„Nad pravidelně volal, že je to opravdu špatné, že se neočekává, že to zvládne,“ řekla paní Ednan-Laperouse.
-„Pak mi zavolali Nad, že do dvou minut zemře, a já se s ní musím rozloučit.
+Místní lodě pomohly zachránit ostatní cestující a posádku poté, co letadlo narazilo do vody při pokusu o přistání na letišti Chuuk Island.
+Úřady v pátek oznámily, že sedm lidí bylo převezeno do nemocnice.
+Letecká společnost uvedla, že v sobotu zůstalo v nemocnici šest cestujících a všichni byli ve stabilizovaném stavu.
+Co způsobilo havárii a přesnou sled událostí, zůstává nejasné.
+Letecká společnost a Spojené státy Námořnictvo oba řekli, že letadlo přistálo v laguně kousek od přistávací dráhy.
+Někteří svědci si mysleli, že letadlo přeletělo přistávací dráhu.
+Americký cestující Bill Jaynes řekl, že letadlo je na velmi nízké úrovni.
+"To je velmi dobrá věc," řekl Jaynes.
+Jaynes řekl, že se mu a dalším podařilo brodit pasem hlubokou vodou k nouzovým východům v potápějícím se letadle.
+Řekl, že letušky panikařily a křičely a že utrpělo menší zranění hlavy.
+Spojené státy americké. Námořnictvo uvedlo, že námořníci pracující v blízkosti na zlepšení přístaviště také pomohli při záchraně pomocí nafukovacího člunu k odlévání lidí na břeh předtím, než se letadlo potopilo v asi 30 metrech (100 stop) vody.
+Údaje z Aviation Safety Network naznačují, že 111 lidí zemřelo při haváriích leteckých společností registrovaných PNG v posledních dvou desetiletích, ale nikdo se netýkal Air Niugini.
+Analytik stanoví časovou osu noční ženy, která byla upálena zaživa
+Obžaloba v sobotu ukončila svůj případ v procesu s mužem, který je obviněn z upálení ženy z Mississippi zaživa v roce 2014.
+USA. Analytik spravedlnosti Paul Rowlett svědčil několik hodin jako odborný svědek v oblasti zpravodajské analýzy.
+Pro porotu nastínil, jak použil záznamy z mobilních telefonů, aby dal dohromady pohyby 29letého obžalovaného Quinta Tellise a 19leté oběti, Jessicy Chambersové, tu noc, kdy zemřela.
+Rowlett řekl, že obdržel údaje o poloze z několika mobilních telefonů, které ukázaly, že Tellis byl s Chambersem večer její smrti, což je v rozporu s jeho předchozími tvrzeními, informoval The Clarion Ledger.
+Když data ukázala, že jeho mobil byl s Chambersem během času, kdy řekl, že byl se svým přítelem Michaelem Sanfordem, policie šla mluvit se Sanfordem.
+Sanford se v sobotu ujal svědeckého soudu a vypověděl, že ten den nebyl ve městě.
+Když se prokurátoři zeptali, zda Tellis říkal pravdu, když řekl, že byl té noci v Sanfordově autě, Sanford řekl, že "lhal, protože můj náklaďák byl v Nashvillu".
+Dalším nedůsledkem bylo, že Tellis řekl, že Chamberse znal asi dva týdny, když zemřela.
+Záznamy z mobilu naznačují, že se znali jen týden.
+Rowlett řekl, že někdy po Chambersově smrti Tellis smazal Chambersovy texty, hovory a kontaktní informace z jeho telefonu.
+"Vymazal ji ze svého života," řekl Hale.
+Obhajoba má začít své závěrečné argumenty v neděli.
+Soudce řekl, že očekává, že soud půjde později ten den před porotu.
+The High Breed: What isinagining hip hop?
+Hip hop trio chce zpochybnit negativní pohled na žánr tím, že naplní jejich hudbu pozitivními zprávami.
+The High Breed, z Bristolu, tvrdí, že hip hop se odklonil od svých počátků politických zpráv a řešení sociálních otázek.
+Chtějí se vrátit ke svým kořenům a učinit vědomý hip hop opět populární.
+Umělci jako The Fugees a Common zažili ve Velké Británii nedávný nárůst prostřednictvím umělců jako Akala a Lowkey.
+- Další černoch???
+NY chůva žaluje pár kvůli vyhození po "rasistickém" textu
+Newyorská chůva žaluje pár za diskriminační propuštění poté, co obdržela nesprávně směrovanou zprávu od matky, která si stěžovala, že je "další černoch".
+Pár popřel, že jsou rasisti, přirovnávají žalobu k "vydírání".
+Lynsey Plasco-Flaxmanová, matka dvou dětí, vyjádřila zděšení, když zjistila, že nová poskytovatel péče o děti, Giselle Maurice, byl po příjezdu na svůj první den v práci v roce 2016 černou.
+"NOOOOOOOOOOOOOOOOOOJEJÍCÍ ČERNÍ OSOBĚLNÍ," napsala paní Plasco-Flaxmanová svému manželovi v textu.
+Nicméně místo toho, aby ho poslala svému manželovi, poslala to paní. Maurice, dvakrát.
+Poté, co si uvědomila svůj gaffe, "nepohodlná" Plasco-Flaxman vyhodila slečnu. Maurice, který uvedl, že jejich odcházející chůva, která byla Afroameričanka, odvedla špatnou práci a že místo toho očekávala Filipínce, podle New York Post.
+Slečno. Maurice dostal zaplaceno za jeden den práce a pak byl poslán domů pro Uber.
+Nyní Maurice žaluje pár o kompenzaci nad propuštěním a hledá kompenzaci na melodii 350 dolarů za den pro šestiměsíční, živě-in koncert, na který byla původně najata, i když bez smlouvy.
+"Chci jim ukázat, podívejte, vy takové věci neděláte," řekla v pátek Post a dodala: "Vím, že je to diskriminace."
+Pár udeřil zpět na tvrzení, že jsou rasisté, a řekl, že ukončení Mauriceho zaměstnání bylo rozumnou věcí, protože se obávali, že by jí nemohli věřit poté, co ji urazili.
+"Moje žena jí poslala něco, co nechtěla říct.
+- Ona není rasistka.
+Nejsme rasističtí lidé,“ řekl manžel Joel Plasco listu.
+Ale dal bys své děti do rukou někoho, na koho jsi byl hrubý, i kdyby to bylo omylem?
+- Tvoje novorozené dítě?
+No tak."
+Přirovnal žalobu k "vydírání", Plasco řekl, že jeho žena měla jen dva měsíce volno, když měla dítě a byla ve "velmi obtížné situaci".
+"Chceš jít po někom takovému?
+To není moc hezká věc,“ dodal investiční bankéř.
+Zatímco právní případ stále pokračuje, soud veřejného mínění rychle odsoudil pár na sociálních médiích a odsoudil je za jejich chování a logiku.
+Vydavatelé Paddington se obávali, že se čtenáři nebudou vztahovat k mluvícímu medvědovi, odhaluje nový dopis
+Bondova dcera Karen Jankelová, která se narodila krátce po přijetí knihy, o dopisu uvedla: „Je těžké postavit se do bot někoho, kdo ji četl poprvé, než byla vydána.
+Je to velmi zábavné vědět, co teď víme o obrovském úspěchu Paddingtona.“
+Říká, že její otec, který pracoval jako kameraman BBC předtím, než byl inspirován k napsání dětské knihy malým toyším medvědem, by bylo sanguine o jeho práci odmítnuto, dodala, že 60. výročí vydání knih bylo "hořkosladké" po jeho smrti v loňském roce.
+O Paddingtonu, kterého popisuje jako "velmi důležitého člena naší rodiny", dodala, že její otec byl tiše hrdý na svůj případný úspěch.
+"Byl to docela tichý muž a nebyl to vychloubačný člověk," řekla.
+Ale protože Paddington byl pro něj tak skutečný, bylo to skoro jako kdyby máte dítě, které něčeho dosáhne: jste na ně hrdí, i když to opravdu není vaše práce.
+Myslím, že viděl Paddingtonův úspěch tak nějak tímto způsobem.
+I když to byl jeho výtvor a jeho představivost, vždy dával zásluhy samotnému Paddingtonovi.
+Moje dcera umírala a já jsem se musel rozloučit po telefonu.
+Po přistání byla její dcera převezena do nemocnice v Nice Louis Pasteur 2, kde lékaři pracovali marně, aby jí zachránili život.
+"Nad pravidelně volal, aby řekl, že je to opravdu špatné, že se od ní neočekávalo, že to z toho dosáhne," řekla paní Ednan-Laperouseová.
+"Pak mi zavolal Nad, že mi do dvou minut řekne, že zemře během příštích dvou minut a já jsem se s ní musel rozloučit.
 A já to udělal.
-Řekl jsem, „Tashi, moc tě miluju, drahoušku.
-Brzy budu s tebou.
-Budu s tebou.
-Lékaři jí dali, aby jí srdce nepytlačovalo, pomalu odbíjely a opouštěly její organismus.
-Zemřela už před koncem ruky a tohle všechno se uzavírá.
-Musel jsem tam jen tak sedět a čekat, protože jsem věděl, že se to všechno odvíjí.
-Nemohl jsem výt, křičet nebo brečet, protože jsem byl v situaci obklopené rodinami a lidmi.
-Musel jsem to opravdu udržet pohromadě.“
-Nakonec paní Ednan-Laperouseová, která teď truchlila nad ztrátou své dcery, nastoupila do letadla vedle ostatních pasažérů – nevšímala si toho, čím si procházela.
-„To nikdo nevěděl,“ řekla.
-„Měl jsem hlavu dole a celou dobu mi tekly slzy.
-Těžko se to vysvětluje, ale bylo to v letadle, pocítil jsem k Nadovi ohromný pocit soucitu.
-Že potřebuje mou lásku a pochopení.
+Řekl jsem: "Tashi, moc tě miluju, miláčku.
+Za chvíli budu s tebou.
+- Budu s tebou.
+Lékoví lékaři jí dali, aby ji udrželi odpuzování srdce, pomalu zkažeňovali a opouštěli její systém.
+Zemřela nějaký čas před rukou a tohle všechno bylo zavírání.
+Musel jsem tam jen tak sedět a čekat, s vědomím, že se to všechno vyvíjí.
+Nemohl jsem vytít, ani křičet nebo plakat, protože jsem byl v situaci obklopen rodinou a lidmi.
+Musel jsem to opravdu držet pohromadě.“
+Nakonec paní Ednan-Laperouse, nyní truchlící za ztrátu své dcery, nastoupila do letadla spolu s ostatními cestujícími - lhostejná k utrpení, kterým procházela.
+"Nikdo to nevěděl," řekla.
+"Měl jsem hlavu skloněnou a slzy celou dobu padaly.
+Je to těžké vysvětlit, ale bylo to na letu, kdy jsem cítil tento ohromující pocit sympatie k Nadovi.
+Potřeboval mou lásku a porozumění.
 Věděl jsem, jak moc ji miluje.“
-Truchlící ženy zveřejňují na pohledy, aby se zabránilo sebevraždám na mostě
-Dvě ženy, které přišly o milované kvůli sebevraždě, se snaží zabránit tomu, aby si ostatní nevzali život.
-Sharon Davisová a Kelly Humphreysová zveřejňují na velšském mostě karty s inspirativními zprávami a telefonními čísly, o které mohou lidé volat o podporu.
-Synovi paní Davisové Tylerovi třináct let, když začal trpět depresemi a ve věku 18 let se zabil.
-„Nechci, aby se každý rodič cítil tak, jak se musím cítit každý den,“ řekla.
-Paní Davisová, ve věku 45 let, která žije v Lydney, řekla, že její syn byl nadějný kuchař s infekčním úsměvem.
-„Všichni ho znali pro jeho úsměv.
-Vždycky říkali, že se jeho úsměv rozzářil každou místnost.“
-Nicméně, před smrtí se práce vzdal, protože byl „na opravdu temném místě“.
-V roce 2014 byl Tylerův bratr, kterému bylo v té době 11 let, ten, kdo našel svého sourozence poté, co si vzal život.
-Paní Davisová řekla: „Neustále se obávám, že to bude mít dopad.“
-Paní Davisová vytvořila karty, „aby lidé věděli, že tam venku jsou lidé, za kterými můžete jít, a můžete si promluvit, i když je to přítel.
-Nesedejte mlčky – musíte si promluvit.“
-Paní Humphreysová, která se s paní Daviesovou dlouho přátelila, ztratila Marka, svého patnáctiletého partnera, nedlouho po smrti své matky.
-„Neřekl, že by měl skleslý, v depresi nebo tak něco,“ řekla.
-„Pár dní před Vánoci jsme si všimli jeho změny v postoji.
-Byl na dně na Štědrý den – když si děti otevřely dárky, napojil se s nimi oční kontakt nebo tak něco.“
-Řekla, že jeho smrt pro ně bylo obrovské trauma, ale musí se tím prokousat: „Vtrhá to díru do rodiny.
+Truchlící ženy zveřejňují karty, aby zabránily sebevraždám na mostě
+Dvě ženy, které ztratily své blízké sebevraždě, pracují na tom, aby zabránily ostatním, aby si vzali život.
+Sharon Davisová a Kelly Humphreys zveřejňují karty na velšském mostě s inspirativními zprávami a telefonními čísly, které lidé mohou požádat o podporu.
+Syn paní Davisové Tylerovi bylo 13 let, když začal trpět depresemi a zabil se ve věku 18 let.
+"Nechci, aby se nějaký rodič cítil tak, jak se cítím každý den," řekla.
+Pětačtyřicetiletá Davisová, která žije v Lydney, uvedla, že její syn byl slibným šéfkuchařem s nakažlivým úsměvem.
+"Všichni ho znali kvůli jeho úsměvu.
+Vždycky říkali, že jeho úsměv rozzářil každou místnost.“
+Nicméně, on se vzdal práce, než zemřel, protože byl „na opravdu temném místě“.
+V roce 2014 Tylerův bratr, kterému bylo v té době 11 let, byl ten, kdo našel svého sourozence poté, co si vzal život.
+Paní Davisová řekla: "Neustále se obávám, že dojde k zaklepání na efekt."
+Paní Davisová vytvořila karty, "aby lidé věděli, že tam jsou lidé, ke kterým můžete jít a můžete si promluvit, i když je to přítel.
+Nesedejte v tichu - musíte si promluvit.“
+Paní Humphreysová, která se s paní Daviesovou roky přátelila, ztratila Marka, svého partnera 15 let, nedlouho po smrti své matky.
+"Neřekl, že se cítí v depresi nebo v depresi nebo tak něco," řekla.
+"Pár dní před Vánocemi jsme si všimli jeho změny v přístupu.
+Byl na dně na Štědrý den - když děti otevřely své dárky, nenavázal oční kontakt s nimi nebo tak něco.
+Řekla, že jeho smrt byla pro ně obrovským traumatem, ale musí se přes to propracovat: „Protrhává to díru v rodině.
 Roztrhá nás to na kusy.
 Ale všichni musíme pokračovat a bojovat.“
-Pokud se s tím snažíte vyjít, můžete zavolat Samaritánům na telefonním čísle 116 123 (UK a Irsko), e-mail jo@samaritans.org, nebo navštívit webové stránky Samaritans zde.
-Budoucnost Bretta Kavanaugha visí na vlásku, když FBI zahajuje vyšetřování.
-„Myslel jsem si, že kdybychom mohli dostat něco takového, o co žádal – vyšetřování omezené časově, omezené co do rozsahu – možná bychom mohli přinést trochu jednoty,“ řekl v sobotu pan Flake a dodal, že se obává, že se výbor „odpadne“ uprostřed zakořeněné stranické patové situace.
-Proč pan Kavanaugh a jeho republikánští příznivci nechtěli, aby to vyšetřovala FBI?
+Pokud se snažíte vyrovnat, můžete zavolat Samaritány zdarma na 116 123 (Velká Británie a Irsko), e-mail jo@samaritans.org nebo navštívit webové stránky Samaritans zde.
+Budoucnost Bretta Kavanaugha visí na vlásku, když FBI zahájila vyšetřování
+"Myslel jsem si, že kdybychom mohli skutečně dostat něco jako to, o co žádal - vyšetřování omezené v čase, omezeném rozsahu - možná bychom mohli přinést trochu jednoty," řekl Flake v sobotu a dodal, že se obává, že se výbor "rozpadá" uprostřed zakořeněné partyzánského patlocku.
+Proč Kavanaugh a jeho republikánští příznivci nechtějí, aby to FBI vyšetřila?
 Jejich neochota je způsobena načasováním.
-Volby do Kongresu jsou až za pět týdnů, do 6. listopadu – pokud si republikáni podle očekávání vedou špatně, pak budou ve svých pokusech výrazně oslabit muže, kterého chtějí zvolit do nejvyššího soudu v zemi.
-George W. Bush zvedá telefon, aby senátorům zavolal, a lobbuje na ně, aby podpořili pana Kavanaugha, který pracoval v Bílém domě pro pana Bushe a přes něj se setkal se svou ženou Ashley, která byla osobní sekretářkou pana Bushe.
-Co se stane poté, co FBI předloží svou zprávu?
-V Senátu se bude hlasovat o něm, kde v současnosti zasedá 51 republikánů a 49 demokratů.
-Stále není jasné, zda se pan Kavanaugh dostane na půdě Senátu nejméně 50 hlasů, což by viceprezidentovi umožnilo zlomit remízu a potvrdit ho u Nejvyššího soudu.
-Severokorejský přeběhlík „spadá“ pod vedením Kima
-Počet severokorejských přeběhlíků do Jižní Koreje klesl od nástupu Kim Čong-una k moci před sedmi lety, uvedl jihokorejský zákonodárce.
-Park Byeong-seug s odvoláním na údaje ministerstva pro sjednocení Jihu uvedl, že loni došlo k 1 127 přeběhnutí – oproti 2 706 v roce 2011.
-Pan Park řekl, že těsnější hraniční kontroly mezi Severní Koreou a Čínou a vyšší sazby účtované pašeráky lidí jsou klíčovými faktory.
-Pchjongjang se veřejně nevyjádřil.
-Drtivé většině přeběhlíků ze severu je nakonec nabídnuto jihokorejské občanství.
-Soul uvádí, že od konce korejské války v roce 1953 nelegálně překročilo hranice více než 30 000 Severokorejců.
-Většina z nich prchá přes Čínu, která má nejdelší hranici se Severní Koreou a je snadněji přes ničit než silně chráněná demilitarizovaná zóna (DMZ) mezi oběma Korejemi.
+Střednědobé volby jsou jen pět týdnů, 6. listopadu - pokud, jak se očekávalo, republikáni dělají špatně, pak budou vážně oslabeni ve svých pokusech dostat muže, kterého chtějí zvolit do nejvyššího soudu v zemi.
+George W. Bush zvedl telefon, aby zavolal senátorům a lobboval na podporu pana Kavanaugha, který pracoval v Bílém domě pro pana Bushe a prostřednictvím se setkal se svou ženou Ashley, která byla Bushovou osobní sekretářkou.
+Co se stane, když FBI vypracuje svou zprávu?
+V Senátu se bude hlasovat, kde se v současné době koná 51 republikánů a 49 demokratů.
+Stále není jasné, zda se pan Kavanaugh může dostat k nejméně 50 hlasům na podlaze Senátu, což by umožnilo Mikeovi Penceovi, viceprezidentovi, přerušit remízu a potvrdit ho u Nejvyššího soudu.
+Severní Korea přeběhlíky čísla „shodit“ pod Kimem
+Počet severokorejských přeběhlíků do Jižní Koreje klesl od doby, kdy se před sedmi lety dostal k moci Kim Čong-un, uvedl jihokorejský zákonodárce.
+Park Byeong-seug, citující údaje z jihokorejského ministerstva pro sjednocení, uvedl, že v loňském roce došlo k 1127 zběhům - ve srovnání s 2 706 v roce 2011.
+Pan Park uvedl, že přísnější hraniční kontroly mezi Severní Koreou a Čínou a vyšší sazby účtované pašeráky lidí jsou klíčovými faktory.
+Pchjongjang se k tomu veřejně nevyjádřil.
+Drtivá většina přeběhlíků ze severu je nakonec nabídnuto jihokorejské občanství.
+Soul tvrdí, že od konce korejské války v roce 1953 překročilo hranici více než 30 000 Severokorejců nelegálně.
+Většina z nich prchá přes Čínu, která má nejdelší hranici se Severní Koreou a je snadněji překračovat než silně chráněná demilitarizovaná zóna (DMZ) mezi oběma Korejemi.
 Čína považuje přeběhlíky spíše za nelegální migranty než za uprchlíky a často je násilně repatriuje.
-Vztahy mezi Severem a Jihem – které jsou stále technicky ve válce – se v posledních měsících výrazně zlepšily.
-Počátkem tohoto měsíce se vedoucí představitelé obou zemí sešli v Pchjongjangu k rozhovorům, které se zaměřily na pozastavená jednání o denuklearizaci.
-Stalo se tak po červnovém historickém setkání amerického prezidenta Donalda Trumpa a Kim Čong-una v Singapuru, kdy se v širokém smyslu dohodli na spolupráci na Korejském poloostrově bezjmových.
+Vztahy mezi Severem a Jihem – kteří jsou stále technicky ve válce – se v posledních měsících výrazně zlepšily.
+Začátkem tohoto měsíce se vedoucí představitelé obou zemí setkali v Pchjongjangu k rozhovorům, které se soustředily na pozastavená jednání o denuklearizaci.
+To přišlo po červnovém historickém setkání mezi americkým prezidentem Donaldem Trumpem a Kim Čong-unem v Singapuru, kdy se v širších termínech dohodli na práci na Korejském poloostrově bez jaderných zbraní.
 V sobotu však severokorejský ministr zahraničí Ri Yong-ho obvinil americké sankce z nedostatečného pokroku.
-„Bez jakékoli důvěry v USA nebude existovat žádná důvěra v naši národní bezpečnost a za takových okolností se nemůžeme jednostranně odzbrojit jako první,“ řekl pan Ri v projevu před Valným shromážděním OSN v New Yorku.
-Nancy Pelosiová označuje Bretta Kavanaugha za „hysterického“, říká, že není způsobilý sloužit u Nejvyššího soudu
-Místopředsedkyně Sněmovny reprezentantů Nancy Pelosiová označila kandidáta do Nejvyššího soudu Bretta Kavanaugha za „hysterického“ a prohlásila, že je temperamentně nezpůsobilý k výkonu funkce u Nejvyššího soudu.
-Pelosi to uvedla v sobotním rozhovoru na Texas Tribune Festival v texaském Austinu.
-„Nemohla jsem si pomoci, ale myslela jsem si, že kdyby si to žena někdy vedla, řekla by 'hysterická',“ řekla Pelosiová o své reakci na Kavanaughovo svědectví před soudním výborem Senátu ve čtvrtek.
-Kavanaugh emocionálně popřel obvinění, že sexuálně napadl Dr. Christine Blaseyová Fordová, když byli oba teenageři.
-Během své úvodní řeči byl Kavanaugh velmi emotivní, chvílemi skoro křičel a dusil se, když probíral svou rodinu a středoškolská léta.
-Výslovně také odsoudil demokraty ve výboru a obvinění proti němu označil za „groteskní a koordinovaný atentát na charakter“, který organizují liberálové, rozzlobený, že Hillary Clintonová prohrála prezidentské volby v roce 2016.
-Pelosiová řekla, že věří, že Kavanaughovo svědectví dokazuje, že nemůže sloužit Nejvyššímu soudu, protože to dokazuje, že je zaujatý proti demokratům.
-„Myslím, že se diskvalifikuje těmito výroky a způsobem, jakým šel po Clintonových a demokratech,“ řekla.
-Pelosiová se ohradila, když byla dotázána, zda by se pokusila Kavanaugha obvinit, pokud by byl potvrzen, a pokud by demokraté získali většinu ve Sněmovně reprezentantů.
-„Řeknu to – pokud nebude říkat pravdu Kongresu nebo FBI, pak se nehodí nejen k Nejvyššímu soudu, ale být u soudu, ve kterém právě teď působí,“ řekla Pelosiová.
+"Bez jakékoli důvěry v USA nebude existovat žádná důvěra v naši národní bezpečnost a za takových okolností neexistuje žádný způsob, jak se nejprve jednostranně odzbrojíme," řekl Ri ve svém projevu na Valném shromáždění OSN v New Yorku.
+Nancy Pelosiová nazývá Bretta Kavanaugha „hysterickým“, říká, že není způsobilý sloužit u Nejvyššího soudu.
+Vůdkyně sněmovní menšiny Nancy Pelosiová označila kandidáta Nejvyššího soudu Bretta Kavanaugha za „hysterického“ a řekla, že je povahově nezpůsobilý sloužit u Nejvyššího soudu.
+Pelosiová to komentovala v sobotním rozhovoru na Texas Tribune Festivalu v Austinu v Texasu.
+"Nemohla jsem si pomoci, ale myslela jsem si, že kdyby to někdy udělala žena, řekli by 'hystericky'," řekla Pelosiová o své reakci na Kavanaughovo svědectví před senátním justičním výborem ve čtvrtek.
+Kavanaugh emocionálně popřel obvinění, že sexuálně napadl Dr. Christine Blasey Fordová, když byli oba teenageři.
+Během svého úvodního prohlášení byl Kavanaugh velmi emocionální, občas téměř křičel a dusil se, když diskutoval o své rodině a jeho středoškolských letech.
+On také výslovně odsoudil demokraty ve výboru, volat obvinění proti němu „groteskní a koordinovaný charakter atentát“ organizovaný liberály rozzlobené, že Hillary Clinton prohrál prezidentské volby v roce 2016.
+Pelosiová uvedla, že věří, že Kavanaughovo svědectví prokázalo, že nemůže sloužit u Nejvyššího soudu, protože to ukázalo, že je zaujatý vůči demokratům.
+"Myslím, že se diskvalifikuje těmito prohlášeními a způsobem, jakým šel po Clintonových a demokratech," řekla.
+Pelosiová se odstěhovala, když byla dotázána, zda by se pokusila obvinit Kavanaugha, pokud bude potvrzen, a zda demokraté získají většinu ve Sněmovně reprezentantů.
+"Řeknu to - pokud neřekne pravdu Kongresu nebo FBI, pak není způsobilý nejen být u Nejvyššího soudu, ale být u soudu právě teď," řekla Pelosiová.
 Kavanaugh je v současné době soudcem v D.C. Obvodní odvolací soud.
-Pelosiová dodala, že jako demokratka se obává případných Kavanaughových rozhodnutí proti zákonu o dostupné péči neboli Roe vs. Wade, protože je považován za konzervativní justici.
-Ve schvalovacích slyšeních se Kavanaugh vyhnul otázkám, zda zruší některá rozhodnutí Nejvyššího soudu.
-„Není čas na hysterickou, zaujatou osobu, která půjde k soudu a očekává, že řekneme, že 'není to tak úžasné',“ řekla Pelosiová.
-A ženy to potřebují na Wield.
-Je to poctivý výron, měsíce a roky zuřivosti, které se přelily, a ona ho nemůže dostat ven, aniž by plakala.
-„Pláčeme, když se rozzlobíme,“ paní. Steinem mi řekl o 45 let později.
-„Myslím, že to není neobvyklé, že ne?“
-Pokračovala: „Velice mi pomohla žena, která byla někde vedlejším představitelem, která řekla, že také plakala, když se naštvala, ale vyvinula si techniku, která znamenala, že když se naštvala a začala plakat, řekla osobě, se kterou mluvila: „Možná si myslíte, že jsem smutná, protože pláču.
+Pelosiová dodala, že jako demokratka je znepokojena možnými rozhodnutími Kavanaugha proti zákonu o cenově dostupné péči nebo Roe v. Wade, jak je považován za konzervativního soudce.
+Ve svém konfirmačním slyšení se Kavanaugh vyhnul otázkám, zda by zrušil některá rozhodnutí Nejvyššího soudu.
+"Není čas, aby hysterická, zaujatá osoba šla k soudu a očekávala, že řekneme:" není tak úžasné, "řekla Pelosiová.
+A ženy to musí ovládnout.
+Je to spravedlivý výztuha, měsíce a roky zuřivosti, která se přelévá, a ona ho nemůže dostat ven bez pláče.
+"Pláčeme, když se rozzlobíme," paní. Steinem mi to řekl o 45 let později.
+"Nemyslím si, že je to neobvyklé, že ne?"
+Pokračovala: „Byla jsem velmi pomáhala žena, která byla někde výkonná, která řekla, že také plakala, když se rozzlobila, ale vyvinula techniku, což znamenalo, že když se rozzlobila a začala plakat, řekla osobě, se kterou mluvila: „Můžete si myslet, že jsem smutná, protože pláču.
 Jsem naštvaný.“
-A pak šla dál.
-A to mi přišlo skvělé.“
-Slzy jsou povoleny jako odnož hněvu částečně proto, že jsou zásadně nepochopeni.
-Jedna z mých nejostřejších vzpomínek z rané práce, v kanceláři, kde jsem kdysi přistihl, jak jsem plakal s nevýslovným vztekem, mě chytila za lůza po krku starší žena – chladný manažer, kterého jsem vždycky trochu vyděsil – který mě zatáhl na schodiště.
-„Nikdy je nesmíš vidět, jak pláče,“ řekla mi.
-„Neví, že jsi zuřivý.
-Myslí si, že jsi smutný a bude tě potěšen, protože tě dostali.“
-Patricia Schroederová, tehdejší demokratická kongresmanka z Colorada, na jeho prezidentských kandidáších spolupracovala s Garym Hartem.
-V roce 1987, kdy pan. Hart byl chycen v extra manorální aféře na lodi zvané Monkey Business a odolal se od závodu, paní. Schroeder, hluboce frustrovaný, si došlo, že není důvod, proč by neměla zkoumat myšlenku kandidovat na prezidentku sama.
-„Nebylo to promyšlené rozhodnutí,“ řekla mi se smíchem o 30 let později.
-„V závodě už bylo sedm dalších kandidátů a to poslední, co potřebovali, byla další.
-Někdo tomu říkal „Sněhurka a sedm trpaslíků.“
-Protože to bylo pozdě v kampani, byla pozadu s získáváním peněz, a tak přísahala, že se do závodu nezadá, pokud nevybere 2 miliony dolarů.
+A pak pokračovala.
+A já si myslel, že je to brilantní.“
+Slzy jsou povoleny jako odbytiště pro hněv částečně proto, že jsou zásadně nepochopeny.
+Jedna z mých nejostřejších vzpomínek z rané práce, v kanceláři ovládané muži, kde jsem se jednou ocitla v pláči s nevyjádřitelným vztekem, byla moje popadnutí za ošuntělý krk starší ženou - chladným manažerem, kterého jsem byl vždy trochu vyděšený - která mě táhla na schodiště.
+"Nikdy jim nedovolte vidět brečet," řekla mi.
+"Nevědí, že jsi rozzuřený.
+Myslí si, že jsi smutný a bude potěšit, protože se k tobě dostali.“
+Patricia Schroederová, tehdy demokratická kongresmanka z Colorada, pracovala s Gary Hartem na jeho prezidentských volbách.
+V roce 1987, kdy pan Hartová byla chycena v mimomanželské aféře na palubě lodi zvané Monkey Business a odstoupila ze závodu, slečno. Schroeder, hluboce frustrovaný, si myslel, že neexistuje žádný důvod, proč by neměla zkoumat myšlenku kandidovat na prezidentku sama.
+"Nebylo to dobře promyšlené rozhodnutí," řekla mi se smíchem o 30 let později.
+„V závodě bylo už sedm dalších kandidátů a poslední věc, kterou potřebovali, byla další.
+Někdo tomu říkal "Sněhurka a sedm trpaslíků".
+Vzhledem k tomu, že to bylo pozdě v kampani, ona byla pozadu na získávání finančních prostředků, a tak slíbila, že by se do závodu nepřihlásila, pokud nezískat 2 miliony dolarů.
 Byla to prohraná bitva.
-Zjistila, že někteří z jejích příznivců, kteří dali 1 000 dolarů mužům, jí dají jen 250 dolarů.
-„Myslí si, že dostanu slevu?“ podivil se.
-Když pronesla svůj projev, ve kterém oznámila, že nezahájí formální kampaň, byla tak přemožena emocemi – vděčností za lidi, kteří ji podporovali, frustrovanou z hlediska systému, který tak ztěžoval získávání peněz a zaměřoval se na voliče spíše než na delegáty a hněvem na sexismus – se dusila.
-„Člověk by si myslel, že jsem se nervově zhroutila,“ vzpomínala slečna. Schroeder o tom, jak na ni tisk reagoval.
-„Člověk by si myslel, že Kleenex je můj sponzor.
-Pamatuju si, že jsem si říkal, co si obléknou na můj náhrobek?
-„Plakala?“
-Jak může být obchodní válka mezi USA a Čínou pro Peking dobré
-Úvodní salvy obchodní války mezi USA a Čínou byly ohlušující, a i když bitva ještě zdaleka neskončila, trhlinou mezi zeměmi může být pro Peking dlouhodobě přínosná, tvrdí experti.
-Americký prezident Donald Trump letos vypálil první varování tím, že zdobil klíčový čínský vývoz včetně solárních panelů, oceli a hliníku.
-Nejvýraznější eskalace se v tomto týdnu valila s novými cly, která se dotkla zboží v hodnotě 200 miliard dolarů (150 miliard liber), čímž se v podstatě zdaní polovina veškerého zboží přicházejícího z Číny do USA.
-Peking se pokaždé ve své míře pomstil a naposledy uvalil cla ve výši pěti až deseti procent na americké zboží v hodnotě 60 miliard dolarů.
-Čína se zavázala, že se vyrovná americké střelce a druhá největší ekonomika světa v brní než na chvíli zamrká.
-Dostat Washington k ústupu znamená propadnout se požadavkům, ale veřejné se podvolit USA by bylo pro Si Ťin-pchinga, čínského prezidenta, pro Si Ťin-pchinga, příliš trapné.
-Přesto podle expertů, pokud Peking dokáže správně hrát své karty, mohly by tlaky na obchodní válku USA v dlouhodobém horizontu pozitivně podpořit Čínu tím, že by se snížila vzájemná závislost obou ekonomik.
-„Skutečnost, že rychlé politické rozhodnutí ve Washingtonu nebo v Pekingu by mohlo vytvořit podmínky, které v obou zemích započte ekonomickou vrženkou, je ve skutečnosti mnohem nebezpečnější, než si předtím diváci připustili,“ uvedla Abigail Grace, výzkumná pracovnice, která se zaměřuje na Asii v think tanku Center for New American Security.
-Sýrie je připravena na návrat uprchlíků, říká ministr zahraničí
-Sýrie tvrdí, že je připravena na dobrovolný návrat uprchlíků a žádá o pomoc při obnově země zničené více než sedmiletou dlouhou válkou.
-Ministr zahraničí Valíd al-Moulem v rozhovoru s Valným shromážděním Organizace spojených národů řekl, že podmínky v zemi se zlepšují.
-„Dnes je situace na místě stabilnější a bezpečnější díky pokroku v boji proti terorismu,“ uvedl.
-Vláda pokračuje v rehabilitaci oblastí zničených teroristy, aby obnovila normální stav.
-Nyní existují všechny podmínky pro dobrovolný návrat uprchlíků do země, kterou museli opustit kvůli terorismu a jednostranným ekonomickým opatřením, která se zaměřovala na jejich každodenní život a jejich živobytí.
-OSN odhaduje, že od začátku války v roce 2011 ze země uprchlo více než 5,5 milionu Syřanů.
+Zjistila, že někteří z jejích příznivců, kteří dali 1 000 dolarů mužům, jí dali jen 250 dolarů.
+"Myslí si, že dostanu slevu?" divila se.
+Když pronesla svůj projev a oznámila, že nezahájí formální kampaň, byla tak přemožena emocemi - vděčností za lidi, kteří ji podporovali, frustrace ze systému, která ztěžovala získávání peněz a cílení na voliče spíše než na delegáty, a hněv nad sexismem - že se udusila.
+"Myslel by sis, že jsem se nervově zhroutila," vzpomínala slečna. Schröder o tom, jak na ni reagoval tisk.
+"Myslel by sis, že Kleenex je můj firemní sponzor.
+Pamatuju si, že jsem si říkal, co mi nasadí na náhrobek?
+"Ona křičela"?"
+Jak může být obchodní válka mezi USA a Čínou pro Peking dobrá
+Zahajovací salvy obchodní války mezi USA a Čínou byly ohlušující, a zatímco bitva zdaleka neskončila, roztržka mezi zeměmi může být pro Peking v dlouhodobém horizontu přínosná, říkají odborníci.
+Americký prezident Donald Trump začátkem tohoto roku vypálil první varování tím, že zdanil klíčový čínský vývoz, včetně solárních panelů, oceli a hliníku.
+Nejvýznamnější eskalace se tento týden válcovala s novými cly, která ovlivňují položky v hodnotě 200 miliard dolarů (150 miliard liber), což účinně zdaňuje polovinu veškerého zboží pocházejícího z USA z Číny.
+Peking pokaždé reagoval na vlásku, naposledy uvalil cla ve výši pěti až deseti procent na americké zboží ve výši 60 miliard dolarů.
+Čína se zavázala, že se vyrovne americkému výstřelu za výstřel, a druhá největší ekonomika světa pravděpodobně v dohledné době nemrkne.
+Dostat Washington ustoupit znamená ustoupit požadavkům, ale veřejné uklonit se USA by bylo pro Si Ťin-pchinga příliš trapné pro čínského prezidenta Si Ťin-pchinga.
+Přesto odborníci říkají, že pokud Peking může hrát své karty správně, americké obchodní válečné tlaky by mohly pozitivně podpořit Čínu v dlouhodobém horizontu snížením vzájemné závislosti obou ekonomik.
+"Skutečnost, že rychlé politické rozhodnutí ve Washingtonu nebo v Pekingu by mohlo vytvořit podmínky, které by zahájily ekonomické výkyvy v obou zemích, je ve skutečnosti mnohem nebezpečnější, než přihlížející uznali dříve," řekla Abigail Graceová, výzkumná pracovnice, která se zaměřuje na Asii v Centru pro novou americkou bezpečnost, think-tank.
+Sýrie je „připravena“ na návrat uprchlíků, říká ministr zahraničí
+Sýrie tvrdí, že je připravena na dobrovolný návrat uprchlíků a žádá o pomoc při obnově země zničené více než sedmiletou válkou.
+V projevu k Valnému shromáždění OSN ministr zahraničí Walid al-Moualem řekl, že podmínky v zemi se zlepšují.
+"Situace na místě je dnes stabilnější a bezpečnější díky pokroku v boji proti terorismu," dodal.
+Vláda pokračuje v rehabilitaci oblastí zničených teroristy, aby obnovila normálnost.
+Všechny podmínky jsou nyní přítomny pro dobrovolný návrat uprchlíků do země, kterou museli opustit kvůli terorismu a jednostranným ekonomickým opatřením, která se zaměřila na jejich každodenní život a jejich živobytí.
+OSN odhaduje, že od začátku války v roce 2011 uprchlo ze země více než 5,5 milionu Syřanů.
 Dalších šest milionů lidí, kteří v zemi stále žijí, potřebuje humanitární pomoc.
-Al-Moualem řekl, že syrský režim by uvítal pomoc při obnově zdevastované země.
-Zdůraznil však, že nepřijme podmínečnou pomoc nebo pomoc od zemí, které povstání sponzorovaly.
-Evropa si v Paříži vybojovala vítězství v Ryder Cupu
-Tým Evropy vyhrál Ryder Cup 2018 a porazil tým USA s konečným skóre 16,5 ku 10,5 v Le Golf National u Paříže ve Francii.
-USA nyní prohrály šestkrát po sobě na evropské půdě a od roku 1993 nevyhrály v Evropě Ryder Cup.
-Evropa znovu získala korunu, když dánský kapitán Thomas Bjorn dosáhl 14,5 bodu, který potřeboval, aby porazil Spojené státy.
-Americká hvězda Phil Mickelson, který se většinu turnaje trápil, se vrhl odpal do vody na paru 3 16. jamce a připsal si zápas s Francescem Molinarim.
-Italský golfista Molinari zářil ve všech kolech a stal se 1-of-4 hráči jít někdy 5-0-0 od turnaje aktuální formát začal v roce 1979.
-Američan Jordan Spieth vyletěl z výšky 5 a 4 nejníže postaveným hráčem evropského týmu Thorbjorna Olesena z Dánska.
-Světový hráč, Dustin Johnson, podlehl 2 a 1 Ianu Poulterovi z Anglie, který možná hrál ve svém posledním Ryder Cupu.
-Španělečný Sergio Garcia, veterán z osmi Ryder Cupu, se stal turnajem v anketě s 25,5 body kariéry.
-„Obvykle nepláču, ale dnes si nemůžu pomoct.
+Al-Moualem uvedl, že syrský režim by uvítal pomoc při obnově zdevastované země.
+Zdůraznil však, že nepřijme podmínečná pomoc ani pomoc od zemí, které sponzorovaly povstání.
+Evropa zajistila vítězství Ryder Cupu v Paříži
+Tým Evropa vyhrál v roce 2018 Ryder Cup porazil tým USA konečným skóre 16,5 až 10,5 v Le Golf National mimo Paříž, Francie.
+Spojené státy nyní na evropské půdě prohrály šestkrát za sebou a od roku 1993 nevyhrály Ryder Cup v Evropě.
+Evropa znovu získala korunu, když dánský kapitán Thomas Bjornův tým dosáhl 14,5 bodů, které potřebovali k porážce Spojených států.
+Americká hvězda Phil Mickelson, který bojoval většinu turnaje, vytrhl jeho odpaliště do vody na par-3 16. jamce, připustil svůj zápas s Francesco Molinari.
+Italský golfista Molinari zářil ve všech svých kolech a stal se 1-of-4 hráči někdy jít 5-0-0 od současného formátu turnaje začal v roce 1979.
+Američan Jordan Spieth byl vyhozen 5&4 nejnižším hráčem v evropském týmu Thorbjorn Olesen z Dánska.
+Nejlepší hráč světa, Dustin Johnson, padl 2 a 1 na Iana Poultera z Anglie, který mohl hrát ve svém posledním Ryder Cupu.
+Veterán osmi Ryder Cupů, Španěl Sergio Garcia se stal turnajem všech dob vítězný Evropan s 25,5 kariérním bodem.
+"Obvykle nepláču, ale dnes si nemůžu pomoct.
 Byl to těžký rok.
-Je mi vděčný, že si mě Thomas vybral a věřil ve mě.
-Jsem tak šťastná, tak šťastná, že jsem dostala pohár zpátky.
-Jde o tým a jsem rád, že jsem mohl pomoci,“ řekl po vítězství Evropy dojatý Garcia.
-Podává pochodeň svému krajanovi Johnu Ramovi, který v neděli v neděli ve hře ve dvouhře sundal americkou golfovou legendu Tigera Woodse 2&1.
-„Neuvěřitelná pýcha, kterou cítím, když jsem porazil Tigera Woodse, jsem vyrůstal a díval se na něj,“ řekl třiadvacetiletý Rahm.
-Woods prohrál všechny čtyři zápasy ve Francii a má nyní rekord 13-21-3 Ryder Cupu v kariéře.
-Podivná statistika jednoho z největších hráčů všech dob, když získala 14 velkých titulů na druhém místě za Jackem Nicklausem.
-Tým USA se celý víkend snažil najít fairwaye s výjimkou Patrick Reed, Justin Thomas a Tony Finau, kteří hráli golf s vysokým kalibrami po celý turnaj.
-Americký kapitán Jim Furyk promluvil po neuspokojivém výkonu svého týmu: „Jsem hrdý na ty kluky, bojovali.
-Dnes ráno byl čas, kdy jsme se na Evropu rozohnili.
-Vyšchli jsme.
-Klobouk před Thomasem.
+Jsem tak vděčný, že si mě Tomáš vybral a věřil mi.
+Jsem tak šťastná, jsem tak šťastná, že jsem dostala ten pohár zpátky.
+Je to o týmu. a jsem rád, že jsem byl schopen pomoci,“ řekl emotivní Garcia po evropském vítězství.
+On předá pochodeň na svého krajana John Ram, který sundal americkou golfovou legendu Tiger Woods 2 & 1 ve dvouhře v neděli.
+"Neuvěřitelná hrdost, kterou cítím, abych porazil Tigera Woodse, jsem vyrůstala při sledování toho chlapa," řekl třiadvacetiletý Rahm.
+Woods prohrál všechny čtyři své zápasy ve Francii a nyní má rekord 13-21-3 kariéry Ryder Cup rekord.
+Podivná statistika jednoho z největších hráčů všech dob, který vyhrál 14 major titulů na druhém místě pouze Jack Nicklaus.
+Tým USA se celý víkend snažil najít fairwaye s výjimkou Patricka Reeda, Justina Thomase a Tonyho Finaua, který hrál golf s vysokým kalibrem po celou dobu turnaje.
+Americký kapitán Jim Furyk promluvil po neuspokojivém výkonu pro svůj tým: "Jsem hrdý na tyto kluky, bojovali.
+Dnes ráno byl čas, kdy jsme na Evropu vpálili trochu tepla.
+Šrotovali jsme se.
+Klobouk dolů před Thomasem.
 Je to skvělý kapitán.
 Všech 12 hráčů hrálo velmi dobře.
-Přeskupíme se, budu spolupracovat s PGA of America a naším Ryder Cup Committee a pohneme se kupředu.
-Miluju těch 12 chlapů a jsem hrdý, že jsem posloužil jako kapitán.
-Musíš dát na špacír.
-Přehráli nás.“
-Red Tide Update: Koncentrace klesají u Pinellas, Manatee a Sarasota
-Nejnovější zpráva Floridské komise pro ryby a volně žijící živočichy ukazuje, že celkové snížení koncentrací Red Tide pro části oblasti Tampa Bay.
-Podle FWC jsou skvrnitější podmínky květů hlášeny v okresech Pinellas, Manatee, Sarasota, Charlotte a Collier – což naznačuje klesající koncentrace.
-Květ Rudý příliv se rozprostírá přibližně 130 mil od severního Pinellas až po jižní okresy Lee.
-Náhledy lze nalézt asi 10 mil od pobřeží okresu Hillsborough, ale v méně lokalitách ve srovnání s minulým týdnem.
-Red Tide byl také pozorován v Pasco County.
-Střední koncentrace v okrese Pinellas nebo v zahraničí byly hlášeny v minulém týdnu, s nízkou až vysokou koncentrací na moři v okrese Hillsborough, v pozadí vysokých koncentrací v okrese Manatee, na pozadí vysokých koncentrací v okrese Sarasota nebo na moři v okrese Sarasota, na pozadí až střední koncentrace v Charlotte County, do vysokých koncentrací v nebo na moři v okrese Lee a nízké koncentrace v okrese Collier County.
-Divošídné podráždění se nadále objevuje v okresech Pinellas, Manatee, Sarasota, Lee a Collier.
-Dýchací podráždění nebylo v severozápadní Floridě hlášeno v uplynulém týdnu.
+Přeskupíme se, budu pracovat s PGA of America a naším Ryder Cupem a posuneme se vpřed.
+Miluji těchto 12 kluků a jsem hrdý na to, že mohu sloužit jako kapitán.
+Musíš zvrtnout čepici.
+Byli jsme outplayed.“
+Aktualizace červeného přílivu: Koncentrace se snižují v Pinellas, Manatee a Sarasota
+Nejnovější zpráva z Florida Fish and Wildlife Commission ukazuje obecný pokles koncentrací Red Tide pro části oblasti Tampa Bay.
+Podle FWC jsou hlášeny podmínky rozkvětu v oblastech okresů Pinellas, Manatee, Sarasota, Charlotte a Collier - což naznačuje snížení koncentrace.
+Květen Red Tide se rozprostírá přibližně 130 mil pobřeží od severního Pinellas do jižních okresů Lee.
+Patches lze nalézt asi 10 mil od pobřeží Hillsborough County, ale na méně místech ve srovnání s minulým týdnem.
+Red Tide byl také pozorován v okrese Pasco.
+Středné koncentrace v nebo na moři v Pinellas County byly hlášeny v uplynulém týdnu, nízké až vysoké koncentrace na moři Hillsborough County, pozadí pro vysoké koncentrace v Manatee County, pozadí pro vysoké koncentrace v Sarasota County, pozadí pro střední koncentrace v Charlotte County, pozadí pro vysoké koncentrace v nebo offshore Lee County a nízké koncentrace v Collier County.
+Dýchací zvlnění je i nadále hlášeno v okresech Pinellas, Manatee, Sarasota, Lee a Collier.
+Dráždivé podráždění nebylo hlášeno na severozápadě Floridy minulý týden.
