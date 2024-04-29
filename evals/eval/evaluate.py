@@ -16,6 +16,7 @@ from os.path import exists
 EVALUATION_LANGUAGES = [
     "af",
     "am",
+    "ar",
     "bg",
     "bs",
     "ca",
