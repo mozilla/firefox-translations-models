@@ -14,6 +14,7 @@ from mtdata import iso
 from os.path import exists
 
 EVALUATION_LANGUAGES = [
+    "af",
     "bg",
     "bs",
     "ca",
