@@ -175,18 +175,18 @@
     }
   },
   "enfr": {
-    "lex": {
-      "name": "lex.50.50.enfr.s2t.bin",
-      "size": 7886500,
-      "estimatedCompressedSize": 4177155,
-      "expectedSha256Hash": "38fb44bad1fd5f1e6bfdcf15cc8baa09d61aad2a4f9c587914e24e7b5c25c32c",
-      "modelType": "prod"
-    },
     "model": {
       "name": "model.enfr.intgemm.alphas.bin",
       "size": 17140961,
       "estimatedCompressedSize": 12293754,
       "expectedSha256Hash": "0678019c4d74c8c81d2de17e3e58d3aba5f5eb48f5595d9240c17f69d30461de",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.enfr.s2t.bin",
+      "size": 7886500,
+      "estimatedCompressedSize": 4177155,
+      "expectedSha256Hash": "38fb44bad1fd5f1e6bfdcf15cc8baa09d61aad2a4f9c587914e24e7b5c25c32c",
       "modelType": "prod"
     },
     "vocab": {
@@ -451,18 +451,18 @@
     }
   },
   "plen": {
-    "lex": {
-      "name": "lex.50.50.plen.s2t.bin",
-      "size": 4898024,
-      "estimatedCompressedSize": 2629586,
-      "expectedSha256Hash": "863afade0ba058fb0173fedef3d1fb14d0dcabc24c3b4584cb1fed8f84d6d879",
-      "modelType": "prod"
-    },
     "model": {
       "name": "model.plen.intgemm.alphas.bin",
       "size": 17140899,
       "estimatedCompressedSize": 13421783,
       "expectedSha256Hash": "172a5f1d44bf8dd6a6eec3868b13b33ce265f3530e898fe11a80b739b821726e",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.plen.s2t.bin",
+      "size": 4898024,
+      "estimatedCompressedSize": 2629586,
+      "expectedSha256Hash": "863afade0ba058fb0173fedef3d1fb14d0dcabc24c3b4584cb1fed8f84d6d879",
       "modelType": "prod"
     },
     "vocab": {
@@ -566,18 +566,18 @@
     }
   },
   "uken": {
-    "model": {
-      "name": "model.uken.intgemm8.bin",
-      "size": 25315747,
-      "estimatedCompressedSize": 18520747,
-      "expectedSha256Hash": "90b6e21644af5bf5ce26442c724f55848a005d75e8bf688a51d2e64d6bc6b249",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.uken.s2t.bin",
       "size": 9761460,
       "estimatedCompressedSize": 5402306,
       "expectedSha256Hash": "763b9e0add9fd712305bc031ab86a58fb15f719dcad296046742176937b86841",
+      "modelType": "prod"
+    },
+    "model": {
+      "name": "model.uken.intgemm8.bin",
+      "size": 25315747,
+      "estimatedCompressedSize": 18520747,
+      "expectedSha256Hash": "90b6e21644af5bf5ce26442c724f55848a005d75e8bf688a51d2e64d6bc6b249",
       "modelType": "prod"
     },
     "srcvocab": {
