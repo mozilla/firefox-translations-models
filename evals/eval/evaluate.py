@@ -37,6 +37,7 @@ EVALUATION_LANGUAGES = [
     "hu",
     "hy",
     "id",
+    "ig",
     "is",
     "it",
     "ja",
