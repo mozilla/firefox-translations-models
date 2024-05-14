@@ -13,6 +13,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 LANG_CODE_MAP = {
+    "ar": "arb_Arab",
     "fa": "pes_Arab",
     "lv": "lvs_Latn",
     "zh": "zho_Hans",

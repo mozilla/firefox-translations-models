@@ -14,10 +14,15 @@ from mtdata import iso
 from os.path import exists
 
 EVALUATION_LANGUAGES = [
+    "af",
+    "am",
+    "ar",
     "bg",
+    "bn",
     "bs",
     "ca",
     "cs",
+    "cy",
     "da",
     "de",
     "el",
@@ -30,7 +35,9 @@ EVALUATION_LANGUAGES = [
     "hi",
     "hr",
     "hu",
+    "hy",
     "id",
+    "ig",
     "is",
     "it",
     "ja",
@@ -38,6 +45,7 @@ EVALUATION_LANGUAGES = [
     "lt",
     "lv",
     "mt",
+    "my",
     "nb",
     "nl",
     "nn",
