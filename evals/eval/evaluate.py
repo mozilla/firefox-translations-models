@@ -1,3 +1,4 @@
+import json
 import re
 import shutil
 import subprocess
@@ -810,6 +811,11 @@ def build_report(res_dir, evaluation_engines):
 
         avg_results = get_avg_scores(results)
         build_section(avg_results, "avg", lines, res_dir, evaluation_engine)
+
+        results_json_path = os.path.join(res_dir, evaluation_engine + "-results.json")
+        with open(results_json_path, "w") as file:
+            json.dump(results, file, indent=2)
+            print(f"Results are written to {results_json_path}")
 
         for lang_pair, datasets in results.items():
             build_section(datasets, lang_pair, lines, res_dir, evaluation_engine)
