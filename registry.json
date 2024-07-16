@@ -343,18 +343,18 @@
       "expectedSha256Hash": "1bcc9d3b178ca8d6a99e4ed4263044308cc94381c27b46930252d92fd9445c67",
       "modelType": "prod"
     },
-    "lex": {
-      "name": "lex.50.50.fien.s2t.bin",
-      "size": 5046280,
-      "estimatedCompressedSize": 2702886,
-      "expectedSha256Hash": "07110471bcdf71ce248a471adc00b6fbb4ead00591a2fbfd24c0d00bcb552595",
-      "modelType": "prod"
-    },
     "vocab": {
       "name": "vocab.fien.spm",
       "size": 821437,
       "estimatedCompressedSize": 416678,
       "expectedSha256Hash": "30feb41f8297548bd94addd2e3dda57ad1153deaf88870f13764029d673518e0",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.fien.s2t.bin",
+      "size": 5046280,
+      "estimatedCompressedSize": 2702886,
+      "expectedSha256Hash": "07110471bcdf71ce248a471adc00b6fbb4ead00591a2fbfd24c0d00bcb552595",
       "modelType": "prod"
     }
   },
@@ -638,6 +638,29 @@
       "size": 769763,
       "estimatedCompressedSize": 366392,
       "expectedSha256Hash": "f71cc5d045e479607078e079884f44032f5a0b82547fb96eefa29cd1eb47c6f3",
+      "modelType": "dev"
+    }
+  },
+  "daen": {
+    "model": {
+      "name": "model.daen.intgemm.alphas.bin",
+      "size": 17141051,
+      "estimatedCompressedSize": 12525769,
+      "expectedSha256Hash": "2c1ace24220c905404bbb1de14bfeda8a391ef8d6c56f3b193a9d3e340d99b12",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.daen.s2t.bin",
+      "size": 4489412,
+      "estimatedCompressedSize": 2170970,
+      "expectedSha256Hash": "e5f50fba646e0d3cedf2957575aa84c3bdca6798ce32ccd63c956fc043d774a3",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.daen.spm",
+      "size": 796018,
+      "estimatedCompressedSize": 399344,
+      "expectedSha256Hash": "b9392fcd9c53b802628d33a160f6eb52ca3d25a07ec9e015ab93b6bd5c7e8033",
       "modelType": "dev"
     }
   },
