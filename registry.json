@@ -198,18 +198,18 @@
     }
   },
   "enfr": {
-    "lex": {
-      "name": "lex.50.50.enfr.s2t.bin",
-      "size": 7886500,
-      "estimatedCompressedSize": 4177155,
-      "expectedSha256Hash": "38fb44bad1fd5f1e6bfdcf15cc8baa09d61aad2a4f9c587914e24e7b5c25c32c",
-      "modelType": "prod"
-    },
     "model": {
       "name": "model.enfr.intgemm.alphas.bin",
       "size": 17140961,
       "estimatedCompressedSize": 12293754,
       "expectedSha256Hash": "0678019c4d74c8c81d2de17e3e58d3aba5f5eb48f5595d9240c17f69d30461de",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.enfr.s2t.bin",
+      "size": 7886500,
+      "estimatedCompressedSize": 4177155,
+      "expectedSha256Hash": "38fb44bad1fd5f1e6bfdcf15cc8baa09d61aad2a4f9c587914e24e7b5c25c32c",
       "modelType": "prod"
     },
     "vocab": {
@@ -297,18 +297,18 @@
       "expectedSha256Hash": "8fb05a27509bea3f67d2f59506485584d5cdbdcafa82b251576c27e91bd7011e",
       "modelType": "prod"
     },
-    "lex": {
-      "name": "lex.50.50.enpt.s2t.bin",
-      "size": 4345620,
-      "estimatedCompressedSize": 2354273,
-      "expectedSha256Hash": "dd0e64865277f0a1cf15a26a5b50e9e0570235afd8dab7c5e0249ad7057531d6",
-      "modelType": "prod"
-    },
     "vocab": {
       "name": "vocab.enpt.spm",
       "size": 817234,
       "estimatedCompressedSize": 410584,
       "expectedSha256Hash": "2326a27577b5ffa0b822c55fe850986961728097521de35fcc186f7d6dce72d4",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.enpt.s2t.bin",
+      "size": 4345620,
+      "estimatedCompressedSize": 2354273,
+      "expectedSha256Hash": "dd0e64865277f0a1cf15a26a5b50e9e0570235afd8dab7c5e0249ad7057531d6",
       "modelType": "prod"
     }
   },
@@ -798,23 +798,23 @@
   "csen": {
     "model": {
       "name": "model.csen.intgemm.alphas.bin",
-      "size": 17140756,
-      "estimatedCompressedSize": 13045032,
-      "expectedSha256Hash": "5b16661e2864dc50b2f4091a16bdd4ec8d8283e04271e602159ba348df5d6e2d",
+      "size": 17141051,
+      "estimatedCompressedSize": 12593076,
+      "expectedSha256Hash": "4ee5b7906f90ad2407232c077581a247b41ac3886d785be82c5d3657433106ae",
       "modelType": "dev"
     },
     "lex": {
       "name": "lex.50.50.csen.s2t.bin",
-      "size": 4535788,
-      "estimatedCompressedSize": 2418488,
-      "expectedSha256Hash": "8228a3c3f7887759a62b7d7c674a7bef9b70161913f9b0939ab58f71186835c2",
+      "size": 4839160,
+      "estimatedCompressedSize": 2134106,
+      "expectedSha256Hash": "4c302fa188e65ddc55d8191a632e08f66dde7a060cc93df55ef83f0629548385",
       "modelType": "dev"
     },
     "vocab": {
       "name": "vocab.csen.spm",
-      "size": 769763,
-      "estimatedCompressedSize": 366392,
-      "expectedSha256Hash": "f71cc5d045e479607078e079884f44032f5a0b82547fb96eefa29cd1eb47c6f3",
+      "size": 799978,
+      "estimatedCompressedSize": 402101,
+      "expectedSha256Hash": "89c4f6f5cadbc72b25b30079fabf655b897a1bbeaf3eb8adf95d469e10ece265",
       "modelType": "dev"
     }
   },
