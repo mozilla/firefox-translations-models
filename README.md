@@ -115,12 +115,18 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 
 ## Dev
 - Catalan -> English
+- Croatian <- English
 - Czech <-> English
+- Danish <- English
 - Hungarian <- English
 - Icelandic -> English
+- Indonesian -> English
+- Latvian (Lettish) <- English
 - Maltese -> English
 - Norwegian Bokmål -> English
 - Norwegian Nynorsk -> English
 - Persian (Farsi) <-> English
+- Romanian -> English
 - Russian <- English
+- Slovenian <- English
 - Ukranian <- English
