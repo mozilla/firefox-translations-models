@@ -90,6 +90,7 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 
 ## Prod
 - Bulgarian <-> English
+- Catalan <-> English
 - Croatian -> English
 - Czech -> English
 - Danish <-> English
@@ -117,7 +118,6 @@ The prod/dev labels in this repo correspond to the labels in the [legacy web ext
 - Vietnamese -> English
 
 ## Dev
-- Catalan -> English
 - Croatian <- English
 - Czech <- English
 - Icelandic -> English
