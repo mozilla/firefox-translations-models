@@ -11,9 +11,7 @@ When a dev model has satisfactory quality, it is moved to prod.
 
 # Automatic quality evaluation
 
-Results for prod models: [BLEU](evaluation/prod/bleu-results.md), [COMET](evaluation/prod/comet-results.md)
-
-Results for dev models: [BLEU](evaluation/dev/bleu-results.md), [COMET](evaluation/dev/comet-results.md)
+[BLEU scores](evaluation/bleu-results.md), [COMET scores](evaluation/comet-results.md)
 
 The evaluation is run as part of a pull request in CI.
 The PR should include the models in the `models/dev` or `models/prod` category.
@@ -86,7 +84,8 @@ View the `remote_settings` [README](https://github.com/mozilla/firefox-translati
 
 # Currently supported Languages
 
-The prod/dev labels in this repo correspond to the labels in the [legacy web extension](https://github.com/mozilla/firefox-translations) and are not related to the native integration in Firefox.
+Prod models are available in all Firefox channels including Release. 
+Dev models are available in Nightly only.
 
 ## Prod
 - Bulgarian <-> English
