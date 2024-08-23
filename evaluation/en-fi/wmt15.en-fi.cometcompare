@@ -1,0 +1,268 @@
+==========================
+x_name: wmt15.bergamot.fi
+y_name: wmt15.microsoft.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8827
+y-mean:	0.9186
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-17.5340
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.microsoft.fi outperforms wmt15.bergamot.fi.
+==========================
+x_name: wmt15.bergamot.fi
+y_name: wmt15.google.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8827
+y-mean:	0.9121
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-14.7060
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.google.fi outperforms wmt15.bergamot.fi.
+==========================
+x_name: wmt15.bergamot.fi
+y_name: wmt15.argos.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8827
+y-mean:	0.8567
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	10.5447
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.bergamot.fi outperforms wmt15.argos.fi.
+==========================
+x_name: wmt15.bergamot.fi
+y_name: wmt15.nllb.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8827
+y-mean:	0.8505
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	11.9356
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.bergamot.fi outperforms wmt15.nllb.fi.
+==========================
+x_name: wmt15.bergamot.fi
+y_name: wmt15.opusmt.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8827
+y-mean:	0.9084
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-12.8823
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.opusmt.fi outperforms wmt15.bergamot.fi.
+==========================
+x_name: wmt15.microsoft.fi
+y_name: wmt15.google.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9186
+y-mean:	0.9121
+ties (%):	0.0033
+x_wins (%):	0.9967
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	5.6319
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.microsoft.fi outperforms wmt15.google.fi.
+==========================
+x_name: wmt15.microsoft.fi
+y_name: wmt15.argos.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9186
+y-mean:	0.8567
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	26.3123
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.microsoft.fi outperforms wmt15.argos.fi.
+==========================
+x_name: wmt15.microsoft.fi
+y_name: wmt15.nllb.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9186
+y-mean:	0.8505
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	27.4440
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.microsoft.fi outperforms wmt15.nllb.fi.
+==========================
+x_name: wmt15.microsoft.fi
+y_name: wmt15.opusmt.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9186
+y-mean:	0.9084
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	7.2660
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.microsoft.fi outperforms wmt15.opusmt.fi.
+==========================
+x_name: wmt15.google.fi
+y_name: wmt15.argos.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9121
+y-mean:	0.8567
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	23.9471
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.google.fi outperforms wmt15.argos.fi.
+==========================
+x_name: wmt15.google.fi
+y_name: wmt15.nllb.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9121
+y-mean:	0.8505
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	25.6468
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.google.fi outperforms wmt15.nllb.fi.
+==========================
+x_name: wmt15.google.fi
+y_name: wmt15.opusmt.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.9121
+y-mean:	0.9084
+ties (%):	0.1067
+x_wins (%):	0.8800
+y_wins (%):	0.0133
+
+Paired T-Test Results:
+statistic:	2.5021
+p_value:	0.0125
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.google.fi outperforms wmt15.opusmt.fi.
+==========================
+x_name: wmt15.argos.fi
+y_name: wmt15.nllb.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8567
+y-mean:	0.8505
+ties (%):	0.0600
+x_wins (%):	0.8867
+y_wins (%):	0.0533
+
+Paired T-Test Results:
+statistic:	2.2533
+p_value:	0.0244
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.argos.fi outperforms wmt15.nllb.fi.
+==========================
+x_name: wmt15.argos.fi
+y_name: wmt15.opusmt.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8567
+y-mean:	0.9084
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-22.2064
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.opusmt.fi outperforms wmt15.argos.fi.
+==========================
+x_name: wmt15.nllb.fi
+y_name: wmt15.opusmt.fi
+
+Bootstrap Resampling Results:
+x-mean:	0.8505
+y-mean:	0.9084
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-23.1574
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt15.opusmt.fi outperforms wmt15.nllb.fi.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt15.bergamot.fi    wmt15.microsoft.fi    wmt15.google.fi    wmt15.argos.fi    wmt15.nllb.fi    wmt15.opusmt.fi
+---------------------  -------------------  --------------------  -----------------  ----------------  ---------------  -----------------
+wmt15.bergamot.fi                           False                 False              True              True             False
+wmt15.microsoft.fi     True                                       True               True              True             True
+wmt15.google.fi        True                 False                                    True              True             True
+wmt15.argos.fi         False                False                 False                                True             False
+wmt15.nllb.fi          False                False                 False              False                              False
+wmt15.opusmt.fi        True                 False                 False              True              True
