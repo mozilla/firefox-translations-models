@@ -112,6 +112,7 @@ Dev models are available in Nightly only.
 - Slovak -> English
 - Slovenian <-> English
 - Spanish <-> English
+- Swedish <-> English
 - Turkish <-> English
 - Ukrainian -> English
 - Vietnamese -> English
@@ -128,5 +129,4 @@ Dev models are available in Nightly only.
 - Persian (Farsi) <-> English
 - Russian <- English
 - Slovak <- English
-- Swedish <-> English
 - Ukrainian <- English
