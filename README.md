@@ -128,4 +128,5 @@ Dev models are available in Nightly only.
 - Persian (Farsi) <-> English
 - Russian <- English
 - Slovak <- English
+- Swedish <-> English
 - Ukrainian <- English
