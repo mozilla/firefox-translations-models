@@ -895,18 +895,18 @@
       "expectedSha256Hash": "70b17f5367dbb25903cba54da5250f34fc9dcb5b137f7f24d57a943bcc55c3a2",
       "modelType": "prod"
     },
-    "vocab": {
-      "name": "vocab.slen.spm",
-      "size": 803078,
-      "estimatedCompressedSize": 398535,
-      "expectedSha256Hash": "54ed331d3435e2bdc5b02462180197b77631f466fc0e61897b5469449857dd2b",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.slen.s2t.bin",
       "size": 4588660,
       "estimatedCompressedSize": 2243434,
       "expectedSha256Hash": "7df48c47f08c851a72756628860104cc04e9c0e415a15d74cd6974605beb866a",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.slen.spm",
+      "size": 803078,
+      "estimatedCompressedSize": 398535,
+      "expectedSha256Hash": "54ed331d3435e2bdc5b02462180197b77631f466fc0e61897b5469449857dd2b",
       "modelType": "prod"
     }
   },
@@ -1051,23 +1051,23 @@
   "encs": {
     "model": {
       "name": "model.encs.intgemm.alphas.bin",
-      "size": 17140898,
-      "estimatedCompressedSize": 13054998,
-      "expectedSha256Hash": "7815671064234ff87bc20e9f30e736a23cdcb2286fd1aea44db16116a8ab8680",
+      "size": 17141051,
+      "estimatedCompressedSize": 12457029,
+      "expectedSha256Hash": "12ad256d589abf3ec351957c1749d7915c06a28debab0370b7a47a6b4bb19633",
       "modelType": "dev"
     },
     "lex": {
       "name": "lex.50.50.encs.s2t.bin",
-      "size": 3365784,
-      "estimatedCompressedSize": 1732597,
-      "expectedSha256Hash": "ba42a89db077e6444e7409363a1c71165c6210c21579ad8a310d0d98b0ea9485",
+      "size": 3547520,
+      "estimatedCompressedSize": 1782691,
+      "expectedSha256Hash": "f34042e1446f1b892b2846eff4e96ef2554067d9f8af495036254a1f64a7c058",
       "modelType": "dev"
     },
     "vocab": {
       "name": "vocab.encs.spm",
-      "size": 805211,
-      "estimatedCompressedSize": 403234,
-      "expectedSha256Hash": "8af48f972eeba9a9011c0525adf83e0e7abc54c328b2217351a3dad5a852040b",
+      "size": 800256,
+      "estimatedCompressedSize": 401558,
+      "expectedSha256Hash": "3c894bbd9e75de0966ab9fe5a427178817216d1d07aa7fe27b9cb7dbb666d5ef",
       "modelType": "dev"
     }
   },
@@ -1117,6 +1117,29 @@
       "modelType": "dev"
     }
   },
+  "enid": {
+    "model": {
+      "name": "model.enid.intgemm.alphas.bin",
+      "size": 17141051,
+      "estimatedCompressedSize": 12503257,
+      "expectedSha256Hash": "f81f13eef703a4e0650ffc3138a0f4bab7b6c8bfd173ef1b7bda68d16b8bc7e8",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.enid.s2t.bin",
+      "size": 3515428,
+      "estimatedCompressedSize": 1734565,
+      "expectedSha256Hash": "d37f72bcab6e7bc52fd223350f95521b5810bb2486a97275f86077988fced3f4",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.enid.spm",
+      "size": 773211,
+      "estimatedCompressedSize": 379806,
+      "expectedSha256Hash": "61bc7db24d3b6de638a02a280580a273fe0c942ecbe8a8204b2f81978211db22",
+      "modelType": "dev"
+    }
+  },
   "enlt": {
     "model": {
       "name": "model.enlt.intgemm.alphas.bin",
@@ -1160,6 +1183,29 @@
       "size": 816287,
       "estimatedCompressedSize": 407540,
       "expectedSha256Hash": "63146b49ce46ba1283b6956e38efdd4899d1a409cad9d2b6a06cbd4e32ca0808",
+      "modelType": "dev"
+    }
+  },
+  "enro": {
+    "model": {
+      "name": "model.enro.intgemm.alphas.bin",
+      "size": 17141051,
+      "estimatedCompressedSize": 12207487,
+      "expectedSha256Hash": "aa98c415e5beb1c5ee2f7d2508a3bbba949be223d7d9e5e1788ad0ae8598dda5",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.enro.s2t.bin",
+      "size": 3739880,
+      "estimatedCompressedSize": 1846074,
+      "expectedSha256Hash": "508bce64a8bc906a99043ad2f4855b4662e06f8827c1c6a75ab83181b4f17f81",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.enro.spm",
+      "size": 801522,
+      "estimatedCompressedSize": 397137,
+      "expectedSha256Hash": "d89eedf6cbbcb30d7ed4b0b092189196ac2b010ec0c3ede33a6676b17ea1c95e",
       "modelType": "dev"
     }
   },
