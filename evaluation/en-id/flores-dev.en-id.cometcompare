@@ -1,0 +1,268 @@
+==========================
+x_name: flores-dev.bergamot.id
+y_name: flores-dev.microsoft.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9025
+y-mean:	0.9161
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-12.1924
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.id outperforms flores-dev.bergamot.id.
+==========================
+x_name: flores-dev.bergamot.id
+y_name: flores-dev.google.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9025
+y-mean:	0.9237
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-15.2145
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.id outperforms flores-dev.bergamot.id.
+==========================
+x_name: flores-dev.bergamot.id
+y_name: flores-dev.argos.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9025
+y-mean:	0.8307
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	26.8256
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.bergamot.id outperforms flores-dev.argos.id.
+==========================
+x_name: flores-dev.bergamot.id
+y_name: flores-dev.nllb.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9025
+y-mean:	0.8974
+ties (%):	0.0633
+x_wins (%):	0.9267
+y_wins (%):	0.0100
+
+Paired T-Test Results:
+statistic:	3.1927
+p_value:	0.0015
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.bergamot.id outperforms flores-dev.nllb.id.
+==========================
+x_name: flores-dev.bergamot.id
+y_name: flores-dev.opusmt.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9025
+y-mean:	0.8768
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.9619
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.bergamot.id outperforms flores-dev.opusmt.id.
+==========================
+x_name: flores-dev.microsoft.id
+y_name: flores-dev.google.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9161
+y-mean:	0.9237
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-8.1334
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.id outperforms flores-dev.microsoft.id.
+==========================
+x_name: flores-dev.microsoft.id
+y_name: flores-dev.argos.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9161
+y-mean:	0.8307
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	29.7762
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.id outperforms flores-dev.argos.id.
+==========================
+x_name: flores-dev.microsoft.id
+y_name: flores-dev.nllb.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9161
+y-mean:	0.8974
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	12.5579
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.id outperforms flores-dev.nllb.id.
+==========================
+x_name: flores-dev.microsoft.id
+y_name: flores-dev.opusmt.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9161
+y-mean:	0.8768
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	20.2000
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.id outperforms flores-dev.opusmt.id.
+==========================
+x_name: flores-dev.google.id
+y_name: flores-dev.argos.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9237
+y-mean:	0.8307
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	31.7527
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.id outperforms flores-dev.argos.id.
+==========================
+x_name: flores-dev.google.id
+y_name: flores-dev.nllb.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9237
+y-mean:	0.8974
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	17.2966
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.id outperforms flores-dev.nllb.id.
+==========================
+x_name: flores-dev.google.id
+y_name: flores-dev.opusmt.id
+
+Bootstrap Resampling Results:
+x-mean:	0.9237
+y-mean:	0.8768
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	22.9378
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.id outperforms flores-dev.opusmt.id.
+==========================
+x_name: flores-dev.argos.id
+y_name: flores-dev.nllb.id
+
+Bootstrap Resampling Results:
+x-mean:	0.8307
+y-mean:	0.8974
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-24.3242
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.nllb.id outperforms flores-dev.argos.id.
+==========================
+x_name: flores-dev.argos.id
+y_name: flores-dev.opusmt.id
+
+Bootstrap Resampling Results:
+x-mean:	0.8307
+y-mean:	0.8768
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-16.4234
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.opusmt.id outperforms flores-dev.argos.id.
+==========================
+x_name: flores-dev.nllb.id
+y_name: flores-dev.opusmt.id
+
+Bootstrap Resampling Results:
+x-mean:	0.8974
+y-mean:	0.8768
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	10.0437
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.nllb.id outperforms flores-dev.opusmt.id.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y      flores-dev.bergamot.id    flores-dev.microsoft.id    flores-dev.google.id    flores-dev.argos.id    flores-dev.nllb.id    flores-dev.opusmt.id
+-----------------------  ------------------------  -------------------------  ----------------------  ---------------------  --------------------  ----------------------
+flores-dev.bergamot.id                             False                      False                   True                   True                  True
+flores-dev.microsoft.id  True                                                 False                   True                   True                  True
+flores-dev.google.id     True                      True                                               True                   True                  True
+flores-dev.argos.id      False                     False                      False                                          False                 False
+flores-dev.nllb.id       False                     False                      False                   True                                         True
+flores-dev.opusmt.id     False                     False                      False                   True                   False
