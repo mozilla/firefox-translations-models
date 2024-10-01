@@ -1,3003 +1,3003 @@
-- Co udělají? CSSD nemá znalosti o Voldemortovi i cukrárnách v Praze
-Noví radní ČSSD budou s největší pravděpodobností muset překonat určité jazykové bariéry, aby porozuměli svým starým kolegům z ODS z pražské rady a obecní rady.
-Aktuálně.cz „otestoval“ členy sociálních demokratů z nové rady z hlediska dobře zavedeného slangu, který vznikl na radnici během několika posledních let, kdy byla Praha ovládána současnými koaličními partnery.
-Kódovaná slovní zásoba, kterou v předchozí éře primátora Pavla Bema založila pražská politická elita, popisuje některé z nejslavnějších osob, situací a záležitostí ve městě.
-Překvapivě se ukázalo, že noví členové rady nechápou známé koncepty.
+Co budou dělat? CSSD postrádá znalosti jak o Voldemort, tak o bonbónech v Praze
+Noví radní ČSSD budou s největší pravděpodobností muset překonat určité jazykové bariéry, aby porozuměli svým starým novým kolegům z ODS v pražské radě a městské radě.
+Aktuálně.cz "testoval" členy sociální demokracie nové rady z hlediska dobře zavedeného slangu, který vznikl na radnici během několika posledních let, kdy Praze vládli současní koaliční partneři.
+Kódovaná slovní zásoba, kterou založila pražská politická elita během předchozí éry starosty Pavla Běma, popisuje některé z nejznámějších osob, situací a záležitostí ve městě.
+Překvapivě se ukázalo, že noví členové rady nerozumí známým konceptům.
 Alespoň to říkají.
-„Kdo je Voldemort?“
-"Opravdu to nevím."
-"Jsem spíše nováček v pražské politice," odpověděl Lukas Kaucky, radní kultury, v testu "Kmotr" slovní zásobu.
-A i když je to politický veterán, řekl radní Karel Brezina podobně.
-Například pokud jde o termín "golfová díra".
-"Je to jediný z prezentovaných slov, která používám alespoň příležitostně."
-"Jinak obecně nepoznávám slang."
-Z glosáře, kterou zveřejnil na Aktuálně.cz loni v červnu těsně před volebním kongresem ODS, redaktoři vybrali šest příkladů, hlavně známých v souvislosti s Radnicí Praha.
-Socialisté měli vysvětlit koncept „Voldeort“, „největší golfovou jamku v Praze“, „jít do bonbónové tyčinky“, „bull krk“, „zradu z hlavního města“ a „na talíř s kovem“.
-Tři radní se dohodli s kvízem, čtvrtým - Antonínem Weinertem, který má v budoucnu vést vzdělání v Praze - slíbil, že se nejprve zúčastní pohovoru, ale později přestal zvedat telefon.
-Pátý radní, Peter Dolínek, okamžitě odmítl test.
-"Vůbec nevěnuji pozornost takovým věcem a nebudu hodnotit způsob, jakým mluví Občanští demokraté."
-"Jsem docela znepokojen tím, jak budeme odpovídat našim programům," řekl.
-Jak jsme již zmínili, radní Lukas Kaucky údajně ve výše uvedeném jemuž neuznal, že jde o vlivného podnikatele a přítele bývalého starosty Bema Romana Janouseka.
-"Velomort" nemá pro Kauckyho žádný význam a jediný termín, který správně odhadl v testu, je "největší golfová díra v Praze".
-"Je to tunel Blanka," říká Kaucky a okamžitě dodává: "Ale já to vím z novin."
-"Budu si muset dát jazykový kurz," zavtipkoval.
-Golfová jamka jako tunel Blanka byla pak správně rozluštěna matadorem Karlem Brezinou, ale také radním pro životní prostředí, Lukasem Plachym.
-Oba sociální demokraté pak také vědí, kdo je ve skutečnosti Voldemort a Lukas Plachy je obeznámen s touto postavou - také hádá správný význam fráze "chodit do baru na bonbóny."
-"To znamená jít do společnosti v Praze" se plaví blízko významu, což je kancelář Janousekových společností.
-Podobně jako Brezina poznamenává, že získal znalosti z novin, spíše než aby používal takovou slovní zásobu sám.
-Podle varlat v Teheránu neexistuje žádný takový groovy glosář slangových výrazů v Social Democrats Party.
-"Dokonce jsem konzultoval se svými kolegy, ale zdá se, že opravdu nic takového nemáme."
-"Spíše se oslovujeme navzájem jmény, někdy používáme zkratky a názvy grbály," řekl předseda pražského CSSD Peter Hulínský, oslovený členy strany jako Hulda.
-"Ve škole mi říkali Birch, ale nevím, jestli mi tak říkají moji kolegové," přiznává svou vlastní přezdívku Karel Brezina.
-Aktuálně.cz otestovala přezdívku a funguje.
-Radní Weinert je děda nebo méně přátelský Old Man pro členy strany, radní Miroslav Poche, který získal pozornost těsně před volbami podvodem ve sponzorství strany, byl některými kolegy přezdíván "Igráček".
-Přezdívky jsou také jedinou věcí, kterou sociální demokraté přijali v projevu uvnitř strany.
-Hulínský údajně nemá rád, když je oslovován jako Hulda, ale Aktuálně.cz také viděl další přezdívku tohoto pražského předsedy.
-"Dr. z Black-jack Law" údajně připomíná, že Peter Hulínský dostal titul z JUDru na policejní akademii v Bratislavě.
-Vláda chce omezit mučení "čarodějnic", byla propuštěna brožura.
-Ženy prohlášené za čarodějky v Burkině Faso mají obvykle několik společných charakteristik.
-Pocházejí spíše ze starší generace, nemohou se například zapojit do práce ze zdravotních důvodů, jsou svobodní a nemají děti.
-Ten, kdo se „stát“ čarodějnicí, je poslán do izolace, aby neohrozil zbytek vesnice.
-"Takový osud postihne muže jen velmi zřídka."
-"A ani zdravé mladé ženy nejsou posílány pryč, protože pomáhají s prací a rodí děti," říká jeptiška, která se stará o více než sto žen vykázána ze své komunity ve zvláštním pečovatelském domě v hlavním městě Burkina Faso v západní Africe.
-Místní vláda se nyní rozhodla bojovat proti neobvyklým „sociálním opatřením“.
+"Kdo je voldemort?"
+"Já opravdu nevím."
+"Jsem spíše nováčkem v pražské politice," reagoval Lukas Kaucky, radní pro kulturu, k testu slovní zásoby "Kmotroviče".
+A i když je politickým veteránem, podobně reagoval radní Karel Brezina.
+Například ohledně termínu "golfová díra".
+"Je to jediná z předkládaných slov, která používám alespoň příležitostně."
+"Jinak obecně ten slang nepoznávám."
+Z glosáře, který Aktu.cz zveřejnil loni v červnu těsně před volebním kongresem ODS, vybrali redaktoři šest příkladů, především známých v souvislosti s radnicí Prahy.
+Socialisté měli vysvětlit koncepty "Voldemort", "největší golfové jamky v Praze", "jít do cukrové tyčinky", "býčího krku", "zrady hlavního města" a "na desku s kovem".
+Tři radní se dohodli s kvízem, čtvrtý - Antonín Weinert, který má v budoucnu vést vzdělávání v Praze - slíbil, že se nejprve zúčastní pohovoru, ale později přestal zvedat telefon.
+Pátý radní Peter Dolínek test okamžitě odmítl.
+"Vůbec si takové věci nevěnuji a nehodlám vyhodnocovat způsob, jakým mluví Občanští demokraté."
+"Je mi poněkud znepokojeno, jak budeme odpovídat našim programům," řekl.
+Jak jsme již zmínili, radní Lukas Kaucky by údajně ve výše uvedeném nadpisu neuznal, že jde o vlivného podnikatele a přítele exstarosty Bema Romana Janouseka.
+"Voldemort" nemá pro Kauckyho žádný význam a jediný termín, který správně odhadl v testu, je "největší golfová jamka v Praze".
+"Je to tunel Blanky," říká Kaucky a hned dodává: "Ale já to vím z novin."
+"Budu si muset sebrat jazykový kurz," zavtipkuje.
+Golfovou jamku jako tunelu Blanka pak správně rozluštil nejen matador Karel Brezina, ale i radní pro životní prostředí, Lukas Plachy.
+Oba sociální demokraté pak také vědí, kdo je ve skutečnosti Voldemort a Lukas Plachy je s touto postavou obeznámen - také odhaduje správný význam fráze "jít do cukroví baru".
+"To znamená jít do firmy v Praze" pluje blízko významu, což je kancelář Janouskových firem.
+Podobně jako Brezina poznamenává, že znalosti získal spíše z novin, než aby sám použil takový slovník.
+Podle testovaných neexistuje v Straně sociálních demokratů žádný takový groovy glosář slangových výrazů.
+"Dokonce jsem konzultoval své kolegy, ale zdá se, že opravdu nic takového nemáme."
+"Dějeme se spíše navzájem jmény, někdy používáme zkratky a pojmy," řekl předseda pražského ČSSD Peter Hulínský, oslovený členy strany jako Hulda.
+"Ve škole jsem se jmenoval Birch, ale nevím, jestli mi tak říkají kolegové," přiznává vlastní přezdívku Karel Brezina.
+Aktužit.cz testoval přezdívku a funguje.
+Radní Weinert je děda nebo méně přátelský Starý muž pro členy strany, radní Miroslav Poche, který si získal pozornost těsně před volbami podvodem ve stranickém sponzorství, přezdívali "Igráček" někteří kolegové.
+Přezdívky jsou také jedinou věcí, kterou sociální demokraté v projevu uvnitř strany přijali.
+Hulínský se údajně nerad zakládá jako Hulda, ale Aktužit.cz také zaznamenal další přezdívku onoho pražského předsedy.
+"Dr. of Black-jack Law" údajně vzpomíná, že Peter Hulínský získal titul JUDr na Policejní akademii v Bratislavě.
+Vláda chce omezit mučení "čarodějů", byla uvolněna brožura
+Ženy deklarované jako čarodějnice v Burkině Faso mají obvykle několik společných charakteristik.
+Pocházejí spíše ze starší generace, nemohou se zapojit do práce například ze zdravotních důvodů, jsou svobodní a nemají žádné děti.
+Ten, kdo se "stane" čarodějnicí, je poslán do izolace, aby neohrozil zbytek vesnice.
+"Takový osud postihuje muže jen velmi zřídka."
+"Ani zdravé mladé ženy nejsou posílány pryč, protože pomáhají s prací a rodí děti," říká jeptiška, která se stará o více než stovku žen vykázaných ze své komunity v domě zvláštní péče v hlavním městě Burkiny Faso v západní Africe.
+Místní vláda se nyní rozhodla bojovat proti neobvyklým "sociálním opatřením".
 Zveřejnila informační brožuru, která by měla pomoci omezit hon na čarodějnice.
-Ale je v tom jen sklíček.
-"Více než 70 procent dospělých v Burkině Faso neumí číst," zdůraznila nevýhoda písemného vzdělávání Die Standard Daily.
-Obvinění z čarodějnictví jsou také běžná v jiných afrických zemích.
-V Ghaně, která hraničí s Burkinou Faso, sedmdesát dvaasedmdesátiletá Amma Hemma zemřela minulý týden poté, co ji tři ženy a dva muži mučili, ponořili v petroleji a zapálili.
-O případu informovala BBC.
+Ale je v tom zádrhel.
+"Více než 70 procent dospělých v Burkině Faso nemůže číst," poukázala na nevýhodu psaníčného vzdělávání Die Standard denně.
+Obvinění z čarodějnictví jsou běžná i v dalších afrických zemích.
+V Ghaně, která hraničí s Burkinou Faso, zemřel minulý týden sedmdesát dva Amma Hemmah poté, co ji tři ženy a dva muži mučili, polévali petrolej a zapálili.
+O případu informovala stanice BBC.
 Pachatelé tvrdí, že to byla nešťastná náhoda.
-Podle jejich verze olej, který se používá pro rituální pomazání a upálil ženu k smrti.
-Údajně vzplál poté, co skupina chtěla "vyloužit zlého ducha" od ženy.
-Izolace „čarodějnic“ je široce podporována lidmi bez ohledu na jejich úroveň vzdělání.
-Daily Der Standard citoval podnikatele dvaatřicetiletého z Burkiny Faso: „Dodávci lidských duší vždy představovali nebezpečí,“ řekl.
-Zatímco v Burkině Faso se vláda snaží zmírňovat hon na čarodějnice, sám Gambijský prezident se zúčastnil lovu v loňském roce.
-"Gambijská prezident Jámí po smrti své tety rozpoutala rozsáhlý hon na čarodějnice pro čarodějnice, které se údajně podílely na její smrti, a snažil se použít černou magii k zabití prezidenta."
-"Pozval šamany z nedaleké Guineje, aby mu pomohli, a oni v doprovodu policistů, vojáků a prezidentových soukromých bezpečnostních strážců donutili náhodně vybrané muže a ženy z gambijských vesnic na prezidentův ranč v Kanilai," uvedla Amnesty International ve své zprávě.
-Zatčení lidé museli pít lektvar bylin s halucinogenními účinky, což také způsobuje problémy střev a ledvin.
-Dva vězni nepřežili.
+Podle jejich verze olej, který se používá k rituální pomazání, zažehl a upálil ženu k smrti.
+Údajně vzplála poté, co skupina chtěla od ženy "vyhnat zlého ducha".
+Izolace "čarodějnic" je široce podporována lidmi bez ohledu na jejich úroveň vzdělání.
+Daily Der Standard citoval podnikatele dvaačtyřicetiletého z Burkiny Faso: "Dravovači lidských duší vždy představovali nebezpečí," řekl.
+Zatímco v Burkině Faso se vláda usilovně snaží zmírnit hon na čarodějnice, sám Gambie se na lovu podílel loni.
+"Gambijský prezident Jámí po smrti své tety rozpoutal rozsáhlý hon na čarodějnice údajně zapojené do její smrti a snažil se použít černou magii k zabití prezidenta."
+"Pozval šamany z nedaleké Guineje, aby mu pomohli, a v doprovodu policistů, vojáků a prezidentovy soukromé ochranky donutily náhodně vybrané muže a ženy z gambijských vesnic na prezidentův ranč v Kanilai," uvedla Amnesty International ve své zprávě.
+Zatčení lidé museli vypít lektvar bylinků s halucinogenními účinky, což také způsobuje střevní a ledvinové problémy.
+Dva vězni však nepřežili.
 Po mezinárodním tlaku bylo propuštěno téměř tisíc vězňů.
-Bakala je nájemník: Zahřeje v kamnů, podepsal zvýšení nájemného
-Starší heavyset muž vyšel ze dveří klientského centra RPG Flats Company vlastněného „ubřezím baronem“ Zdeňkem Bakalou, největším majitelem soukromých pronajatých bytů“ v České republice.
-Pod jeho paží nesl složku s novými nájemními smlouvami na tři byty: jeho, jeho dceru a jeho syna, který je ve vězení.
-Všechny tři peníze se právě zvýšily kvůli deregulaci.
-Od příštího roku bude syn platit 4100 Kč za druhou třídu 2 + 1 byt místo současného 3500 Kč měsíčně.
-"A není tam žádná teplá voda a musíme se zahřát v "Petra sporáku" (solidní sporák na palivo, ed. poznámka)" muž ukazuje prstem na novou smlouvu svého syna, kterou je oprávněn podepsat proxy.
+Bakalain nájemník: Vytápění v kamnech, podepsal zvýšení nájemného
+Starší těžký muž vyšel ze dveří klientského centra společnosti RPG Flats Company vlastněného "uhlíkovým baronem" Zdenek Bakala, největším vlastníkem soukromých nájemních bytů v České republice.
+Pod paží nosil složku s novými nájemními smlouvami na tři byty: jeho, dcera a syn, který je ve vězení.
+Nájem všech těch tří právě vzrostl kvůli deregulaci.
+Od příštího roku zaplatí syn 4100 Kč za druhý byt třídy 2+1 místo současných 3500 Kč měsíčně.
+"A není tam teplá voda a my musíme tepat v kamnech Petra" (pevný palivový sporák, ed. poznámka) " muž ukazuje prstem na novou smlouvu svého syna, kterou má oprávněn podepsat zmocněncem.
 "Ale podepsal jsem to," říká napůl rozzlobeně, napůl rezignovaně.
-Občanská asociace BytyOKD.cz, která identifikovala nové podmínky nájemného jako "nespravedlivé a nemorální", radí nájemníkům, aby nepodepisovali novou smlouvu a počkali až do 7. prosince, kdy zveřejní pokyny, jak jim čelit.
-Ale muž zůstává skeptický.
-"Jeden říká tohle, další to," mračí.
-Ostrava se stala velkou laboratoří deregulace.
-Po novém roce bude drtivá většina bytů s netržním nájemným v České republice podléhat deregulaci.
-Společnost Aktuálně.cz se proto rozhodla navštívit „laboratorium“ sama.
-Havířovova čekárna RPG je jednou ze čtyř v ostravském regionu a je již v 9 hodin ráno na Tuesdě.
-Stojí přímo u dveří, je tam ochranka od bezpečnostní agentury s kolempaleništěm poblíž.
-Speciální tlačítko "Rent 2011" svítí na dotykové obrazovce.
-Jeden klepnutí a stroj vydají skluz s číslem.
-Ani se vám nepodaří přečíst "157" a vaše postava pípne na velké obrazovce pod stropem čekárny.
-Je to vaše zatáčka za půl sekundy.
-Starší pár přijde požádat o pronájem po několika okamžicích, tam je zřejmě žádný spěch pro nové projekce v čekárně vůbec.
-Většina lidí přišla vyřešit stejné problémy jako obvykle - žádost o opravy, pojistné události atd.
-Dopisy s novými pronájmy byly zaslány poštovním schránkám většiny z nájemců 44 tisíc domů RPG portfolia v Ostravě od poloviny listopadu.
-RPG Byty navrhuje v těchto dopisech zvýšit nájemné o 15 až 38 procent.
-Speciální stůl pro nové pronájmy byl otevřen 18. listopadu v klientském centru.
-"Bylo to v provozu více než týden, takže je to jen run-in," odpovídají úředníci u stolu po nějakém váhání, když se klient představí jako novinář.
-Deregulace a bývalé těžební byty Bakaly jsou místním horkým tématem.
-Před volbami byl zcela hlasitě přijat místopředsedou parlamentu a rodačkou z Ostravy Lubomir Zaoralek ze sociálních demokratů a dokonce i nyní obsluhuje místní noviny.
-"Žádám o tuto novou podlahu už dvacet let."
-"Ani nezměnili f..king talíř v koupelně," ulevilo si muž zmíněný v úvodu.
-Je to většinou v důchodu, kdo se jen přijde podívat, jestli mohou dostat slevu na nájemné, pokud se podepíší včas, jako RPG jejich sliby ve své speciální nabídce.
-Polovina z únorového nájmu také obdrží další nájemníky, kteří podepíší novou smlouvu do 15. prosince.
-Havířovův „deregulační“ stůl rozhodně není přemožen otázkami.
-"Z včerejších 360 klientů jen asi čtyřicet až padesát se přišel zeptat na pronájmy v roce 2011," odhaduje úředník za pultem.
-RPG na svých nástěnách a webových stránkách navrhlo v případě potřeby vyjednávání o jednotlivých smlouvách.
-Pokud se však strany nedohodnou na pronájmu, bude muset nezávislý tribunál stanovit nájemné.
-"Není to hrozba, ale informace o jediném možném legitimním a zcela právním postupu," uvádí RPG na svých internetových stránkách.
-"Nikdo je tady nebude žalovat," řekl jeden z úředníků RPG Flats a muž na ulici před klientským centrem částečně souhlasí.
-"Mám důchod o 13 000 Kč a pět tisíc zbývá na jídlo, nemohu si dovolit ho přinést soudu," řekl.
-Účetní, ale pak nakonec pochybuje.
-"Uvidíme."
-„Pan. Zaoralek jim radí v médiích, aby nepodepisovali, takže někteří lidé čekají,“ myslí si.
-Regulace nájemného končí ve většině území České republiky s Novým rokem 2011 a podle RPG je Byty nárůst nájemného ekonomickou nutností.
-"Současné nájemné je stále méně než částka potřebná pro jednoduchou údržbu bytového fondu," řekl Pavel Klimes, ředitel RPG portfolia rezidenčních bytů a připomněl, že zanedbávání bytového fondu, který si stěžoval ve vztahu jen k těmto rozzlobeným nájemcům, je hlavním důvodem pro zvýšení nájemného podle majitelů domů.
+ObyOKD.cz Občanská asociace, která nové nájemní podmínky označila za "nespravedlivé a nemorální", doporučuje nájemníkům, aby novou smlouvu nepodepisovali a počkali do 7. prosince, kdy zveřejní pokyny, jak jim čelit.
+Muž však zůstává skeptičtější.
+"Jedna to říká, další," zamračí se.
+Ostrava se stala skvělou laboratoří deregulace.
+Po Novém roce bude drtivá většina obydlí s netržním nájemným v České republice podléhat deregulaci.
+Aktuálně.cz se proto rozhodl navštívit samotnou "laboratoř".
+Havířovova čekárna RPG je jednou ze čtyř v ostravském regionu a v úterý je plná už v devět hodin ráno.
+Stojící přímo u dveří, tam je ochranka z bezpečnostní agentury s opohonu poblíž.
+Na dotykové obrazovce svítí speciální tlačítko "Rent 2011".
+Jedno klepnutím a stroj vydá sklop s číslem.
+Nezvládá ani čtení "157" a vaše postava pípne na velké obrazovce pod stropem čekárny.
+Je řada na tom v půl vteřině.
+Starší pár přijde po několika okamžicích na pronájem, zřejmě není v čekárně vůbec žádný spěch na nové pronájmy.
+Většina lidí přišla řešit stejné problémy jako obvykle - žádost o opravy, pojištěných událostí apod.
+Dopisy s novými pronájmy byly odeslány poštovním schránkám většiny nájemců 44 tisíc bytového RPG portfolia v Ostravě asi od poloviny listopadu.
+RPG Byty navrhuje zvýšit nájemné o 15 až 38 procent v těchto dopisech.
+V klientském centru byl otevřen speciální stůl pro nové nájmy.
+"V provozu je to více než týden, takže je to jen run-in," odpovídají úředníci u stolu po určitém váhání, kdy se klient představí jako novinář.
+Deregulace a Bakala bývalé těžební byty jsou místním horkým tématem.
+Před volbami ji poměrně hlasitě přijal místopředseda parlamentu a rodák z Ostravsko Lubomira Zaoraleka ze sociálních demokratů a i nyní zaplňuje místní noviny.
+"Žádám je o tuto novou podlahu už dvacet let."
+"V koupelně ani nezměnily f..chůzku," zmírňuje se muž zmíněný v úvodu.
+Je to většinou vysloužilí, kdo se jen přijde podívat, jestli mohu získat slevu na nájem, pokud se podepíší včas, jako RPG slibuje ve své speciální nabídce.
+Polovina únorového nájemného získá i ostatní nájemce, kteří novou smlouvu do 15. prosince podepíší.
+Havířovův "deregulační" stůl rozhodně není zahlcen otázkami.
+"Z včerejších 360 klientů přišlo v roce 2011 dotazovat jen asi čtyřicet až padesátek," odhaduje úředník za přepážkou.
+RPG na svých nástěnkách a webových stránkách navrhlo jednání o jednotlivých smlouvách tam, kde je to potřeba.
+Pokud se však strany nedohodnou na nájmu, bude muset nájem nájem založit nezávislý tribunál.
+"Není to hrozba, ale informace o jediném možném legitimním a zcela legálním postupu," uvádí RPG na svých webových stránkách.
+"Nikdo je tady nebude žalovat," řekl jeden z clearinářů RPG Flats a muž na ulici mimo klientské centrum částečně souhlasí.
+"Mám 13.000 Kč důchod a pět tisíc je ponecháno na jídlo, nemohu si dovolit, aby ho přinesla soudu," řekl.
+Úředník, ale pak přece jen pochybuje.
+"Vidíme to."
+"Pan. Zaoralek jim v médiích radí, aby se nepodepisovali, takže někteří lidé čekají," myslí si.
+Regulace nájmů končí nanejvýš na Čechomě s Novým rokem 2011 a podle RPG Byty je zvýšení nájemného ekonomickou nutností.
+"Současné nájemné je stále menší než částka potřebná pro jednoduchou údržbu bytového fondu," komentoval Pavel Klimes, ředitel portfolia RPG obytných bytů, a připomněl, že zanedbávání bytového fondu, na který si stěžuje jen ve vztahu k těm rozzlobeným nájemníkům, je hlavním důvodem nárůstu nájmů podle majitelů domů.
 Zatímco během pěti let mezi lety 2005 a 2010 by RPG mohlo investovat čtyři miliardy z nájmů do bytů, během čtyř let mezi lety 2011 a 2014 by to mělo být 5,2 miliardy.
-Velká obrazovka visící ze stropu naproti polstrovaným sedadlům Havířovské čekárny stále opakuje některé informace zvýrazněné červeně.
-"Nárůst nájemného v roce 2011 o 15% a méně se týká 31 200 bytů, je to více než 90% bytů RPG."
-"A vždy to bude maximálně 7,50 Kč za metr čtvereční a měsíc," uvádí se na obrazovce.
-Pouze pro 400 bytů RPG portfolia se nájemné zvýší o 38 procent.
-"V těchto případech dojde ke zvýšení z extrémně nízkého množství 19,66 Kč na metr čtvereční," uvádí se RPG.
-V roce 2600 bytů zůstane nájemné stejné i v příštím roce.
-RPG Byty slibuje, že deregulace nájmů nebude náhlá, bude rozložena na čtyři až osm let.
-Přidává další závazek: všechny peníze ze zvýšení nájemného (viz graf) budou investovány společností zpět do bytů, zejména do úspor tepla - nových oken a izolace.
-Přednost budou mít lidé, kteří podepíší dohodu o zvýšení nájmů.
-Kanceláře potřebují mateřskou školu v okolí, architekti pochopili
-Avriopoint Office Building v Brně je novou centrálou společnosti Arch.Design.
-Nikdo by nečekal, že obsahuje malou školku se vším potřebným - s barevnými stěnami, nápaditým nábytkem, spoustou hraček a dokonce i miniaturním golfovým hřištěm na venkovní terase.
+Velká obrazovka visící ze stropu naproti polstrovaným sedadlům Havířovovy čekárny stále opakuje některé informace zvýrazněné červeně.
+"Nárůst nájemného v roce 2011 o 15% a méně se týká 31 200 bytů, je to více než 90% RPG bytů."
+"A vždy to bude maximálně 7,50 Kč na metr a měsíc," objevuje se na obrazovce.
+Pouze za 400 bytů RPG portfolio se nájem zvýší o 38 procent.
+"V těchto případech dojde ke zvýšení z extrémně nízké částky 19,66 Kč za metr čtvereční," body RPG.
+V 2600 bytech zůstane nájemné v příštím roce stejné.
+RPG Byty slibuje, že deregulace nájmů nebude náhlá, bude rozložena do čtyř až osmi let.
+Přidává to další závazek: všechny peníze ze zvýšení nájemného (viz graf) budou investovány společností zpět do bytů, zejména do úspor tepla - nových oken a izolace.
+Prioritu budou mít lidé, kteří podepíší dohodu o zvýšení nájemného.
+Kanceláře potřebují v blízkosti školku, pochopili architekti
+Budova avriopoint Office Building v Brně je nové sídlo společnosti Arch.Design Company.
+Nikdo by nečekal, že obsahuje malou školku se vším potřebným - s barevnými stěnami, nápaditým nábytkem, hromadou hraček a dokonce i miniaturním golfovým hřištěm na venkovní terase.
 Od října loňského roku se mohou zúčastnit děti zaměstnanců Arch.Design.
-Architektonická designérská společnost Arch.Design, jejíž ateliéry v Brně vyráběly řadu významných budov, zahrnula prostor pro jejich firemní malou mateřskou školku i v prvních výkresech budovy Avriopoint.
-Ve skutečnosti zaměstnává téměř 90 lidí - hlavně baby-boom-ve stáří a chtějí, aby se jejich návrháři a architekti rychle vrátili do práce.
-Spolu s možností smluv na částečný úvazek je mateřská škola výhodou, kterou Arch.Design nabízí svým zaměstnancům v rámci svého programu sociálního zabezpečení.
-Stavební inženýrky a architekti tak mají možnost spojit své náročné zaměstnání s péčí o děti.
-Tinzova mateřská škola byla vynalezena Archem. Projeďte samotné zaměstnance a s podporou vedení byli schopni získat grant Evropské unie a Ministerstva práce a sociálních věcí.
-Korporátní malá mateřská škola je financována z Evropského sociálního fondu prostřednictvím operačního programu Lidských zdrojů a zaměstnanosti a státního rozpočtu ČR.
-Díky grantovému financování (dotování o 2,8 milionu) byli schopni nakupovat vybavení a po dobu dvou let poskytovali kvalifikovaný personál a provoz.
-Po vyčerpání finanční pomoci (2 roky) musí Arch.Design Company provozovat mateřskou školu po dobu 3 let na vlastní náklady.
-Příprava projektu trvala jeden rok a společnost Economy Rating Company pomohla s žádostmi o grant výrazně.
-Péče je poskytována kvalifikovaným personálem, děti jsou postarány zdravotní sestrou a učitelem ve školce po celý den; školka proto může být navštěvována dětmi bez jakýchkoli věkových omezení, ale většina z nich je starší 3 let.
-Vzhledem k tomu, že se jedná o "Mini-laskadelna", může být přítomno pouze 5 dětí současně, i když se v průběhu dne může zúčastnit více.
-Provoz mateřské školy je flexibilní pro potřeby rodičů a dětí všech zaměstnanců mají stejné právo používat školku bez ohledu na pozici v hierarchii společnosti.
-I když se jedná o individuální vzdělávání a péči, obsah programu v mini-laskadelně je srovnatelný s rámcovým programem předškolního vzdělávání.
-Děti si zde nejen hrají, ale jsou také vybaveny kvalitní výukou - od základních znalostí až po přípravu na školní docházku a angličtina se zde také učí.
-Třída je vybavena pouze hračkami, inspirujícími hrami, ale také počítačem, který mohou děti používat.
+Architektonická designérská společnost Arch.Design, jejíž studia v Brně vyráběla řadu významných staveb, zařadila prostor pro svou firemní maličkost i v prvních kresbách budovy Avriopoint.
+Skutečně zaměstnává téměř 90 lidí - hlavně baby-boom-majr a chtějí, aby se jejich návrhářky a architektky rychle vrátily do práce.
+Spolu s možností smluv na částečný úvazek je mateřská škola výhodou, kterou Arch.Design nabízí svým zaměstnancům v rámci jejich sociálního programu.
+Ženské stavební inženýrky a architekti tak mají možnost spojit své náročné zaměstnání s péčí o děti.
+Tinzova mateřskou školu byla vynalezena Archem. Navrhovat samotné zaměstnance a s podporou vedení mohli získat grant Evropské unie a ministerstva práce a sociálních věcí.
+Korporátní drobná mateřská škola je financována Evropským sociálním fondem prostřednictvím Operačního programu Human Resources and Employment a státní rozpočet CZ.
+Díky grantovému financování (subvence 2,8 milionu) mohli nakupovat zařízení a po dobu dvou let poskytovat kvalifikovaný personál a provoz.
+Po vyčerpání finanční pomoci (2 roky) musí společnost Arch.Design provozovat mateřskou školu po dobu 3 let na vlastní náklady.
+Příprava projektu trvala jeden rok a s žádostmi o grant výrazně pomohla společnost Economy Rating Company.
+Péči poskytuje kvalifikovaný personál, děti pečují zdravotní sestra a učitelka v mateřské škole po celý den; mateřskou školu se proto mohou věnovat dětem bez jakéhokoli věkového omezení, ale většině z nich jsou starší 3 roky.
+Vzhledem k tomu, že se jedná o "Mini-mindergarten", může být přítomno pouze 5 dětí současně, i když v průběhu dne se může zúčastnit úplně více.
+Provoz mateřské školy je flexibilní pro potřeby rodičů a děti všech zaměstnanců mají stejné právo používat školku bez ohledu na pozici v hierarchii společnosti.
+Ačkoli se jedná o individuální vzdělání a péči, obsah programu v mini-školácích je srovnatelný s rámcovým programem předškolního vzdělávání.
+Děti si zde nejen hrají, jsou jim také poskytována kvalitní výuka - od základních znalostí až po přípravu na školní docházku a angličtina se zde také vyučuje.
+Třída je vybavena pouze hračkami, inspirativními hrami, ale také s počítačem, který mohou děti používat.
 Přítomnost malých dětí přímo ve firmě vytváří přátelské a pozitivní prostředí.
-Rodiče mohou vždy zkontrolovat své dítě a zabraňuje stresovým situacím souvisejícím s opožděným vyzvednutím ze školky, které se nacházejí daleko od pracoviště svých rodičů.
+Rodiče mohou vždy zkontrolovat své dítě a to zabraňuje stresovým situacím souvisejícím s opožděným vyzvednutím ze školek, které se nacházejí daleko od pracoviště jejich rodičů.
 Rodiče pak využívají pracovní dobu mnohem efektivněji.
-Není divu, že loajální zaměstnanec - vztah zaměstnavatele je zde přirozeně vytvořen.
-Arch.Design se stal jednou z českých společností, které nabízejí významné výhody při náboru nových zaměstnanců, jsou přátelské k rodině a prostřednictvím tohoto programu mají vylepšený personální marketing.
-Dům kostí fascinuje i po 100 letech. Podívejte se na interiéry Gaudího
-Střecha vypadá jako jarní ještěrka, schodiště připomíná soušskou páteř a balkony jsou otevřená rybí ústa.
-Jedná se o dům Casa Batlló v Barceloně katalánský architekt Antoni Gaudí.
-Místní obyvatelé ji začali nazývat domem kostí pro své organické tvary.
-Organické tvary, divoké barvy, neobvyklé použití kamene, fragmenty dlaždic a mozaiky, fasáda připomínají váhy a měkké křivky všude, z nichž všechny jsou typické pro seuveau Antoni Gaudího.
-Fasáda domu otevírá snové linie, měkké barvy a textury připomínají přírodu a zvířata.
-Podrobný vzhled odhaluje geometrii, rytmus a dobře zvážený řád.
-V noci se celá fasáda domu zdá být ještě dramatičtější, je osvětlena tak, aby byl dále vylepšený glosální barevný dojem.
-Větrné a zvratné tvary se zdají stejně jako uvnitř.
-Dřevo následuje v okenních rámech ve vlnách, spolu s zbrojnicemi, výbavou dveří, výlisahami a hodinkami.
-Batlló House, který se nachází v okrese Eixample na rušné nákupní ulici Passeig de Gracia No. 43, přestavěno z původního domu v roce 1877 architektem Emilio Sal Cortes.
+Není divu, že loajální zaměstnanec - zaměstnavatelský vztah se tam přirozeně vytváří.
+Arch.Design se stal jednou z českých firem, které při náboru nových zaměstnanců nabízí významný užitek, jsou přátelské k rodině a prostřednictvím tohoto programu mají posílený personální marketing.
+Dům kostí fascinuje i po 100 letech. Podívejte se na interiéry od Gaudiho
+Střecha vypadá jako morálka ještěrčí, schodiště připomíná dinosauří páteř a balkony jsou otevřená rybí ústa.
+Toto je dům Casa Batlló v Barceloně od katalánského architekta Antoniho Gaudího.
+Místní ho začali nazývat Domem kostí pro jeho organické tvary.
+Organické tvary, divoké barvy, neobvyklé použití kamene, fragmenty dlaždic a mozaiky, fasáda připomínající váhy a měkké křivky všude, všechny jsou typické pro seces Antoni Gaudí.
+Fasáda domu otevírá snové linie, měkké barvy a textury připomínající přírodu a zvířata.
+Podrobný vzhled odhaluje geometrii, rytmus a dobře zvažovaný řád.
+V noci se celá fasáda domu zdá být ještě dramatičtější, je osvětlena tak, aby se ještě zvýraznil lesklý nátěrový dojem.
+Vířící a kroucení tvary se objevují stejně jako uvnitř.
+Dřevo následuje v okenních rámech ve vlnách, spolu s zábradlí, výřezem dveří, lištami a hodinkami.
+Batlló House, který se nachází ve čtvrti Eixample na rušné nákupní ulici Passeig de Gracia No. 43, byl přestavěn z původního domu v roce 1877 architektem Emiliem Sal Cortesem.
 Rekonstrukce proběhla na dva roky a dům byl dokončen v roce 1906.
-Investor, bohatý průmyslník Josep Batlló, zpočátku trval na demolici staré budovy a výstavby zcela nové, ale brzy přijal Gaudího myšlenku neobvyklého a levnějšího přestavby domu.
-Bytová budova Casa Batlló však nebyla navržena samotným Antoni Gaudím.
-Architekt Josep Maria Jujol s ním spolupracoval.
-Byla to deska jeho developera, kde byly vytvořeny výzdoby reprezentativního bytu majitele nemovitosti, stejně jako použití mozaiky na fasádě.
-Na fasádě pracovalo několik dalších autorů a umělců.
-Společná práce na projektech pro budovu Casa Batlló zahájily úspěšnou spolupráci Jujola a Gaudího.
+Investor, bohatý průmyslník Josep Batlló, původně trval na demolici staré budovy a výstavbě zcela nové, ale brzy přijal Gaudího představu o neobvyklé a levnější přestavbě domu.
+Bytový dům Casa Batlló však nebyl navržen samotným Antonim Gaudím.
+Spolupracoval s ním architekt Josep Maria Jujol.
+Byla to deska jeho developera, kde vznikaly dekorace pro reprezentativní byt vlastníka nemovitosti, stejně jako použití mozaiky na fasádě.
+Na fasádě pracovala řada dalších autorů a umělců.
+Společné práce na návrzích pro budovu Casa Batlló zahájily úspěšnou spolupráci Jujola a Gaudího.
 Jujol se zúčastnil výstavby Gaudího budovy Casa Mila a Park Guell, která obsahuje další Gaudího díla.
-Místní obyvatelé ji začali nazývat "Dům kostí" pro své organické tvary brzy po jeho dokončení.
-Jiní ji začali nazývat "zítajícím domem" pro jeho specifický mechanismus otevírání oken.
-Říká se také, že na vrcholu budovy je reprezentace meče sv. Jana. George, patron Katalánska.
-Další sochařské prvky budovy také obsahují skryté náboženské motivy.
-Gaudí navrhl ústřední topný systém v domě, jedinečný pro svou dobu, s větráním a typickými komíny.
-Jejich 45stupňový svah se může zdát bizarní.
-Při vytváření Gaudího zcela ignoroval stavební předpisy té doby a nedovolil jim, aby ho svázali.
-Na začátku výstavby skutečně obdržel stavební povolení od města, ale poskytnuté podrobnosti o plánované rekonstrukci byly tak vágní, že dva roky po dokončení byla městská rada zděšena výsledkem a požádala o nápravu.
-Radní si například mysleli, že budova zasahovala do svých pilířů do veřejného chodníku.
-Oprava se nikdy nestala, spíše naopak: pouhých patnáct dní po žádosti města požádal Josep Batlló o (a úspěšně obdržel) povolení k pronájmu horních dvou podlaží budovy.
-Majitel sám se přesunul na nižší patra.
-V galerii ve druhém patře byl banketník a ve třetím patře byla ložnice a soukromá část bytu.
-V přízemí bylo pronajato šperkům.
-Celá šestipodlažní budova je protnuta schodištěm, které končí pouze na střešní terase.
-Klíčovými prvky rekonstrukce bylo zrušení všech správných úhlů a přímců a jejich nahrazení zakřivenými stěnami.
-Gaudí také pracoval s moderním konceptem propojení vesmíru.
-Sociální část je zcela propojena otevřením dveří salónu a větší skupina může pohodlně komunikovat, aniž by ztratila potřebné soukromí pro intimní konverzace.
-Dům vyhrál kvůli Gaudiho přestavbě nové fasády a také neobvyklou střechu a dvě další podlahy.
-Gaudího hra se světlem je také působivá, spolu s modrými a bílými glazovanými dlaždicemi používanými k lemování vnitřního nádvoří a světlíkům.
-Hra dvou barev přináší maximálně světlo na všech patrech domu.
-Stačilo to nasadit na principu, že bílá odráží světlo více než tmavé barvy, které absorbují sluneční paprsky naopak.
-Casa Batlló House, který byl zařazen do Světového fondu UNESCO v roce 2005, může navštívit kdokoli.
+Místní obyvatelé ji začali nazývat "Dům kostí" pro jeho organické tvary brzy po jeho dokončení.
+Jiní ji začali nazývat "zveřejňovacím domem" pro jeho specifický mechanismus otevírání oken.
+Říká se také, že na vrcholu budovy je reprezentace meče sv. George, patron Katalánska.
+Další sochařské prvky budovy obsahují i skryté náboženské motivy.
+Gaudi navrhl systém ústředního vytápění v domě, jedinečný pro svůj čas, s ventilací a typickými komíny.
+Jejich čtyřicet pětačt let se může zdát bizarní.
+Při vytváření Gaudího totálně ignoroval stavební předpisy té doby a nenechal je, aby ho svázali.
+Na začátku stavby skutečně dostal od města stavební povolení, ale poskytnuté podrobnosti o plánované rekonstrukci byly tak vágní, že dva roky po dokončení byla městská rada výsledkem zděšena a požádala o nápravu.
+Radním se například zamyslelo nad tím, že budova zasahovala do svých pilířů na veřejný chodník.
+K opravě se nikdy nestalo, spíše naopak: jen patnáct dní po žádosti města požádal Josep Batlló o (a úspěšně obdržel) povolení k pronájmu horních dvou pater budovy.
+Sám majitel se přesunul do nižších pater.
+V galerii ve druhém patře byla banketová hala a ve třetím patře byla ložnice a soukromá část bytu.
+Přízemí bylo pronajato šperku.
+Celá šestipatrová budova protíná schodiště, které končí pouze na střešní terase.
+Klíčovými prvky rekonstrukce bylo zrušení všech pravých úhlů a rovných linií a jejich nahrazení zakřivenými stěnami.
+Gaudí také spolupracoval s moderním pojetím prostorového propojení.
+Společenská část je zcela propojena otevřením dveří sedanu a větší skupina může pohodlně komunikovat, aniž by ztratila potřebné soukromí pro intimní rozhovory.
+Dům zvítězil kvůli Gaudího přestavbě nové fasády a také neobvyklou střeše a dvěma patrem navíc.
+Gaudiho hra se světlem je také působivá, spolu s modrými a bílými prosklenými dlaždicemi používanými k lemování vnitřního nádvoří a světlíků.
+Hra dvou barev poskytuje maximálně světlo na všech patrech domu.
+Stačilo hazardovat s principem, že bílá odráží světlo více než tmavé barvy, které pohlcují sluneční paprsky naopak.
+Dům Casa Batlló, který byl v roce 2005 zařazen do Fondu světového dědictví UNESCO, může navštívit kdokoliv.
 Nejprostornější a nejluxusnější byt byl otevřen pro veřejnost v prvním patře.
-Majitelé se rozhodli přesunout to v roce 2002, aby oslavili sto padesátých výročí narození slavného autora.
-Pokračovali v poskytování výletů, protože zjistili, že se jedná o velmi ziskový podnik, plus rozšířili prohlídky společnými a podkrovními prostory, včetně střešní terasy.
-Vstupenka na pohled rozhodně není zanedbatelná, činí 16,50 eura, zatímco studenti, senioři, skupiny a držitelé cestovních průkazů obdrží dvacetiprocentní slevu.
-Částka výrazně převyšuje cenu vstupu do jiných Gaudího budov ve městě.
-Pokud chcete zažít skutečnou atmosféru domu s dračími věžemi, musíte se rychle spřátelit s některým z obyvatel bytového domu a navštívit je doma.
-Jak si vybrat matraci a lamelovou základnu: Ženy mají odlišné požadavky od mužů
-Ne luxusní rám postele, ale kvalita ležící plochy, to je matrace a lamelová postelová základna dává opravdu dobrou postel.
-Musí se však shodovat harmonickým způsobem, aby vyhovovaly konkrétnímu uživateli.
-Výběrová rozhodnutí jsou ovlivněna mnoha věcmi, jako je váha, výška, věk, zdraví a pohlaví majitele.
-Důležitý je také typ interiéru, do kterého se matrace a lamelová základna kupují, je také důležitý.
-Typický příklad?
-Například letní domy, které se pravidelně nevytápí, latexové matrace nejsou vhodné, protože se zahřívají poměrně pomalu.
-Kromě toho mají tendenci mít výrazně vyšší hmotnost než standardní polyuretanová matrace.
-Je také nutné je pravidelně otáčet.
-Pokud nemají dostatek ventilačních kanálů ve svém jádru a stále leží na tvrdé desce, zadržují vlhkost: Dokonce i forma by mohla nastat pod matracemi.
-Volba je ovlivněna také zvyky.
-Kdo strávil více času v zahraničí, kde často používají velmi silné matrace s měkčící vrstvou, budou mít za těžko pocit dobře na tenkém s tvrdým povrchem.
-"Možná si všichni hokejisté, kteří se vrátili z NHL, mi stěžovali, že jsou bezesní.
-"Jejich otlučené ramena, podpatky a boky potřebovaly matraci, aby byla změkčena vrstvou líné pěny."
-"Ty jsou doporučovány i pro lidi s diabetem, kteří mají poruchu nervového systému, takže předpokládají "informace" z kloubů a kůže špatným způsobem, " vysvětluje Sylvia Hadmczikova, která se specializuje na čalouněný nábytek.
-Proto hledala lazné matrace pro mnoho hokejistů, ale i pro další zákazníky před lety.
-"Nyní je to v pořádku, vhodné matrace lze nalézt v Tempur, italském Magniflexu, ale také v českém tropipo."
-Nemusíte být kluk z NHL, abyste ocenili línou pěnu.
-Tato "zázrak" funguje jednoduše.
-Optimalizace jeho tuhosti a tvarem tepla absorbovaného nebo se přizpůsobí tělu teplu.
-Necítíte žádný tisk a neudržíte měnit pozici na posteli celou noc, jako byste byli po těžkém zápase.
-Budete se jen lépe vyspat.
-Lazy pěnu také funguje dobře jako ochrana proti tlakovým vředům.
+Majitelé se rozhodli stěhovat to v roce 2002, aby oslavili sto padesátého výročí narození slavného autora.
+Vytáčky stále poskytovali výlety, protože zjistili, že se jedná o velmi výnosný podnik, a navíc prodloužili prohlídky společných a podkrovních prostor, včetně střešní terasy.
+Přijetí k zraku rozhodně není zanedbatelné, činí 16,50 eura, zatímco studenti, senioři, skupiny a držitelé cestovních pasů dostávají dvacetiprocentní slevu.
+Částka značně převyšuje cenu vstupného do jiných Gaudího budov ve městě.
+Pokud chcete zažít pravou atmosféru domu s dračími věžemi, musíte se rychle spřátelit s kterýmkoli obyvatelům bytu a navštívit je doma.
+Jak si vybrat matraci a lamelový základ postele: Ženy mají od mužů různé požadavky
+Není to luxusní rám postele, ale kvalita ležícího prostoru, to je matrace a základna s ladovaným lůžkem, dává opravdu dobrou postel.
+Musí se však harmonicky vyrovnat, aby vyhovovaly konkrétnímu uživateli.
+Výběrová rozhodnutí jsou ovlivněna mnoha věcmi, jako je váha, výška, věk, zdraví a pohlaví vlastníka.
+Důležitý je také typ interiéru, do kterého se zakoupe matrace a lamelová základna.
+Je to typický příklad?
+Například pro letní domy, které nejsou pravidelně vytápěny, latexové matrace nejsou vhodné, protože se zahřívají poměrně pomalu.
+Kromě toho mají tendenci mít výrazně vyšší hmotnost než standardní polyuretanová pěnová matrace.
+Je také nutné je pravidelně obracet.
+Pokud nemají v jádru dostatek odvzdušňovacích kanálů a stále leží na tvrdém prkně, zachovávají si vlhkost: Pod matracemi by se mohla vyskytnout i plíseň.
+Volba je také ovlivněna zvyky.
+Kteří strávili více času v zahraničí, kde často používají velmi silné matrace se změkčující vrstvou, zjistí, že je těžké se cítit dobře na tenkém s tvrdým povrchem.
+"Možná si všichni hokejisté vracející se z NHL si mi stěžovali, že jsou bezesní."
+"Jejich otlučená ramena, podpatky a boky potřebovaly, aby byla matrace změkčena vrstvou líné pěny."
+"Ty se doporučují i pro lidi s diabetem, kteří mají poruchu nervového systému, takže předpokládají 'informace' z kloubů a kůže špatným způsobem," vysvětluje Sylvia Hadamczikovová, která se specializuje na čalouněný nábytek.
+Hledala proto pro mnoho hokejistů pro líné pěnové matrace, ale i další zákazníky před lety.
+"Nyní je to v pořádku, vhodné matrace najdete v Tempuru, italském Magniflexu, ale i v Czech Tropico."
+Nemusíš být kluk z NHL, který by ocenil línou pěnu.
+Tento "zázrak" funguje jednoduchým způsobem.
+Optimalizuje jeho tuhost a tvar teplem absorbovaným nebo se přizpůsobuje vašemu tělu teplé.
+Necítíte žádný tisk a nebudete neustále měnit polohu na posteli celou noc, jako byste byli po těžké hře.
+Budete spát lépe.
+Líná pěna funguje také dobře jako ochrana proti tlakové vředy.
 Při výběru velikosti tloušťky matrace přidejte jednu délku nohy do výšky, což je asi 21-34 cm.
-Muž a žena s výškou asi 180 cm pak potřebují postel 210-220 cm.
-Minimální šířka pro jednoho by měla být 90 cm ve dvoulůžkovém lůžku, tj. Celkem 180 cm.
-V samostatných lůžkách, například u singlů, se doporučuje nejméně 120 až 140 cm.
-Pro obvyklou útěchu i pro možného návštěvníka.
-"Již dříve platí, že pravidlo pro šířku postele je jednoduché: při ležení na zádech byste měli mít ruce pohodlně mírně ohýbajícími u lokte, " radí Ing. Helena Prokopová, vedoucí cechu čalouněných a dekoratérů, která se zabývala problematikou zdravého spánku a ergonomie nábytku po mnoho let a učí ho vysokým školám.
-Pro každého potřebuje svou vlastní matraci a lamelovanou základnu ve manželské posteli, buďte opatrní, abyste si koupili, aby odpovídaly tloušťce matrací při jejich nákupu.
-V opačném případě budete muset vejít do lamelových základen do různých výšek, což nemusí být možné s každým rámem postele.
-Pěnová matrace by měla být nejméně 14 cm, zatímco typy rámů s jarním rámcem by měly být nejméně 15 cm, včetně nejméně tří centimetrů, které se počítají na tvarovací a změkčující se vrstvu.
-"Nesmíte cítit pružiny, když se dotýkáte matrace rukama nebo sedíte na matraci," varuje Helena Prokopova.
-Každá matrace vyžaduje určitý typ lakované základny.
-Čistáče, kde jsou matrace a nadace jako spojené siamské dvojčata, by se neměly objevit v ložnicích.
-Je těžké odvysílat matrace; nemůžete také umýt tkaninu, což by mělo být nutností dnes.
-A protože normálně popíjíme 0,2 až 0,75 litru potu během noci, je zřejmé, že po pěti až sedmi letech bude matrace připomínat velké (a ucpané) síto.
-To je důvod, proč odborníci odmítají reklamní slogany života matrace až do 25 let, nebo dokonce doživotní záruku.
-Vše má své klady a zápory.
-Proto je praktická rada od prodejců následující: Nevzdávejte se hygieny matrace o šířce 120 a 140 cm a jejich odnímatelný a omyvatelný kryt, spíše přidejte chránič matrace, který lze snadno odstranit a umýt.
-Ačkoli dnes jsou kryty matrace nyní běžně vyráběny zipem kolem perimetru, takže po otevření získáte dvě části (životně důležité pro praní a velikost pračky!), manipulace s většími typy při jejich odstranění (a v jedné osobě) může připomínat zápas lehkého boje proti těžkému v ringu.
-Máte v posteli pevný talíř místo lamelové základny?
+Muž a žena s výškou asi 180 cm pak potřebují postel z 210-220 cm.
+Minimální šířka pro jednu by měla být 90cm ve dvoulůžkové posteli, tj. 180 cm celkem.
+V samostatných postelích, například pro jednolůžkové, se doporučuje alespoň 120 až 140 cm.
+Pro obvyklé pohodlí i možného návštěvníka.
+"Jinak je pravidlo pro šířku postele jednoduché: při ležení na zádech byste měli držet ruce pohodlně mírně ohnuté po lokti," radí Ing. Helena Prokopová, vedoucí Cechu čalouněných a dekoratérů, která se po mnoho let zabývala problematikou zdravého spánku a ergonomie nábytku a učí ho vysokým školám.
+Každý potřebuje vlastní matraci a lamelovanou základnu ve dvoulůžkové posteli, buďte opatrní, abyste při nákupu při nákupu nakoupili, aby si při nákupu nakoupili.
+V opačném případě budete muset vejít do lamelovaných základen do různých výšek, což nemusí být možné s každým rámem postele.
+Pěnová matrace by měla být nejméně 14 cm, zatímco typy rámu s pružinovým rámem by měly být nejméně 15 cm, včetně nejméně tří centimetrů, přičemž pro tvarovou a změkčovací vrstvu by měly být počítány nejméně tři centimetry.
+"Nesmíte cítit pružiny, když se dotýkáte matrace rukama nebo se posadíte na matraci," varuje Helena Prokopovová.
+Každá matrace vyžaduje určitý typ odbarvené základny.
+Čalounské postele, kde matrace a základ jsou jako spojená siamská dvojčata, by se neměly objevit v ložnicích.
+Je těžké vysílat matrace; tkaninu také nemůžete umýt, což by mělo být dnes nutností.
+A protože obvykle pohráváme 0,2 až 0,75 litru potu během noci, je zřejmé, že po pěti až sedmi letech bude matrace připomínat velké (a ucpané) síto.
+To je důvod, proč odborníci odmítají reklamní slogany životnosti matrace do 25 let, nebo dokonce doživotní záruku.
+Všechno má své klady a zápory.
+Praktické rady od prodejců jsou proto následující: Nevzdávejte hygienu matrací s šířkou 120 a 140 cm a jejich odnímatelným a omyvatelným krytem, spíše přidejte chránič matrace, který lze snadno odstranit a umýt.
+I když jsou dnes potahy matrací běžně vyráběny se zipem kolem obvodu, takže po otevření získáte dvě části (životně důležité pro mytí a velikost pračky!), manipulujte s většími typy při jejich odstraňování (a v jedné osobě) může připomenout shodu lehkých bojů s těžkým v ringu.
+Máte v posteli pevný talíř místo lamelované základny?
 Nikdy!
-Pokud ano, pak pouze v posteli pro jednodenní návštěvníky.
-Rada by nicméně měla být vybavena (pokud ještě není) větracích otvorů a používat matraci s jarním rámcem minimální výšky 15 cm s pružinami v pytlích (z německého Taschenkerna) a změkčující se vrstvou.
-Polyuretanové matrace by na tomto základě neměly být.
-Pro nepoložičkové lamely s 14-18 čepelí, latex nebo sendvičové matrace budou vhodné (možná kombinace latexu a kokosu), ale vždy se vrátí, aby se lakované základny s větším počtem čepelí, 28 nebo více, kde jsou v oblasti lumbálného panelu dvojité čepice a jejich tuhožství může být regulováno.
-Matrace s pružinovými rámy by neměly ležet na nastavitelných lamelích, protože nereagují na umístění.
-Kromě přizpůsobení tuhosti lamelí můžete také vychutnat tzv. ramenní kolébku.
-Jedná se o speciální montáž čepelí, což umožňuje tlačit, nebo dokonce naklonit talíř tak, aby rameno spáče pěkně "zapadalo do matrace".
-Pro muže, jejichž ramena jsou "po celém zadku", je to určitě důležitá věc.
-Dokonce i výrobci matrací ji respektují, když v "muži" matrace začali používat změkčující zónu přímo v rameni.
-Také si pamatují ženy - ty, které se dodávají měkčímu povrchu kyčle.
-Aileron nebo lamelární gratings s tzv. multi-torsion pozastavení jsou určeny pro nejnáročnější zákazníky.
-Tlak se šíří do několika bodů a napětí se snižuje.
-Ale buďte opatrní, když použijete špatný polštář se správnou matrací a lamelovou základnou (velkou a "vycpanou"), většina "plusů" zmizí.
-Základní pravidlo je jednoduché: polštář by měl podporovat hlavu a dotýkat se ramena s rohy, aby se ramenní svaly mohly uvolnit.
-Vhodná velikost 50 x 60 cmmi doporučená, upřednostňovaná například ve Skandinávii.
-Při ležení na boku by polštář měl být schopen vypořádat (spolu s ramenní kolébkou latovaného lůžka nebo změkčené zóny v matraci) s výškou ramene.
-Moderní matrace mají něco společného s původními matracemi naplněnými trávou.
-Jejich výrobci stále častěji používají přírodní materiály, nebo alespoň příměty.
+Pokud ano, pak pouze v posteli pro návštěvníky na jednu noc.
+Prkev by však měla být vybavena (pokud již ne) ventilačními otvory a používat matraci s pružinovým rámem minimální výšky 15 cm s pružinami v pytlích (z německých Tašchenfederkern) a změkčovací vrstvou.
+Polyuretanové matrace by neměly být na takové bázi.
+Pro nepamatové lahve se 14-18 lopatkami bude vhodné latex nebo sendvičové matrace (možná kombinace latexu a kokosu), ale vždy se vyplatí získat lamelované základny s větším počtem lopatek, 28 nebo více, kde jsou dvojité čepele v oblasti bederní plochy a jejich tuhost může být regulována.
+Matrace s pružinovými rámy by neměly ležet na nastavitelných lamelkách, protože nereagují na polohování.
+Kromě úpravy tuhosti lamel můžete si také vychutnat tzv. ramenní kolébku.
+Jedná se o speciální montáž čepelí, která umožňuje tlačit, nebo dokonce naklonit desk tak, aby paže prašného prachu pěkně "vešly do matrace".
+Pro muže, jejichž ramena jsou "všichni přes záda", je to určitě důležitá věc.
+Dokonce i výrobci matrací to respektují, když v "mužských" matracích začali používat změkčovací zónu přímo v rameni.
+Vzpomínají si i na ženy - ty, které si dopřávají v měkčí povrchu oblasti kyčle.
+Aileron nebo lamelární rošty s tzv. vícečirezní odpružení jsou určeny pro nejnáročnější zákazníky.
+Tlak se rozprostírá do několika bodů a napětí se snižuje.
+Ale buďte opatrní, když použijete špatný polštář se správnou matrací a lamelovou základnou (velkou a "vycpanou"), většina "pluss" zmizí.
+Základní pravidlo je jednoduché: polštář by měl podepřít hlavu a dotknout se ramene svými rohy, aby se ramenní svaly mohly uvolnit.
+Doporučena vhodná velikost 50 x 60 cmis, preferovaná například ve Skandinávii.
+Při ležení na boku by polštář měl být schopen se vypořádat (spolu s ramenní kolébkou lamelované postele nebo změkčenou zónou v matraci) s výškou ramene.
+Moderní matrace mají něco společného s originálními matracemi plnými trávy.
+Jejich výrobci stále častěji používají přírodní materiály, nebo alespoň přidoby.
 Existuje prostě organický trend i v matracích.
-Suroviny z oleje, z nichž polyuretanová pěna se vyrábí, jsou nahrazeny přírodními oleji, například ze sóji a litorové ropy.
-Je to jen sója, kterou nyní používají všichni známí výrobci.
-"Organický v matracích znamená, že jádro je vyrobeno z čistě přírodního materiálu," vysvětluje Petr Vasicek ze společnosti Tropico Plus.
-Přírodní produkty se také používají při výrobě obálek matrace, jeden z prvních byl aloe vera.
-Ale můžete si také dopřát mikrokapslí, které mohou uvolnit čerstvou vůni levandule nebo lesa.
-Existuje dokonce rozdělení pro muže i ženy.
-Zatímco muži jsou "oceleni" bylinným extraktem břízy, takže kryt matrace by absorboval teplo a ochladil tělo, ženy jsou naopak "zahřáté" kryty.
-Extrakt z červeného pepře zvyšuje krevní oběh krve, takže slabší sex se cítí tepleji.
+Surové materiály z oleje, z nichž se z polyuretanové pěny vyrábějí, jsou nahrazovány přírodními oleji, například ze sójové a ricinové rostliny.
+Je jen sója, kterou nyní používají všichni známí výrobci.
+"Organic v matrbech znamená, že jádro je vyrobeno z čistě přírodního materiálu," vysvětluje Petr Vasicek z firmy Tropico Plus.
+Při výrobě pokrývek matrací se používají i přírodní produkty, jedním z prvních byla aloe vera.
+Ale můžete si také dopřát mikrokapsuly, které mohou uvolnit čerstvou vůni levandule nebo lesa.
+Existuje dokonce rozdělení pro muže a ženy.
+Zatímco muži jsou "ochlazeni" bylinným extraktem z břízy, takže pokrývka matrace by absorbovala teplo a ochlazovala tělo, ženy jsou naopak "zahřívány" kryty.
+Extrakt z červeného pepře zvyšuje krevní oběh, takže slabší pohlaví se cítí teplejší.
 Dnešní favorité?
-Matrace z studené pěny (s většími póry s poškozenou buněčnou strukturou je prodyšnější než běžný polyuretan a má lepší elasticitu.
-Kombinace různých tuhostí studených pěn a "líné" pěny má za následek multizónové matrace, které přesně vědí, kde by měla být hlava, stejně jako ramena a podpatky.
+Matrace z studené pěny (s většími póry s poškozenou buněčnou strukturou je prodyšnější než běžný polyuretan a má lepší pružnost.
+Kombinace různých tuhostí chladných pěn a "líné" pěny má za následek vícezónové matrace, které přesně vědí, kde by měla být hlava, stejně jako ramena a podpatky.
 Za kvalitní matraci zaplatíte sedm tisíc korun a výše.
-Ty, které splňují zdravotní parametry, mají tendenci mít nižší sazbu DPH, protože jsou považovány za zdravotnické vybavení.
+Ti, kteří splňují zdravotní parametry, mají tendenci mít nižší sazbu DPH, protože jsou považovány za zdravotnické vybavení.
 Gumotex byl první, kdo tuto výhodu využil v České republice.
-Není snadné ušetřit na matraci a lamelové základně.
-Někdy můžete použít speciální nabídky výrobců nebo maloobchodníků, kteří nabízejí dvě matrace za cenu jednoho.
-Například značka Magniflex nabízí svou matraci Duofreeze s paměťovou pěnou Memory zašitou do obalu 11 990 korun.
-Nicméně, druhý můžete získat zdarma.
-Éra líných nebo viscoalastických pěn se strukturou otevřených buněk a vysokou hustotou byla zahájena materiálem Tempur v "kosmickém" tempu.
-Původně byl vyvinut jako materiál pro NASA, protože astronauti byli během startu vystaveni obrovskému přetížení.
-Teplota změkne, když se zahřeje, ale posiluje v chladu.
-Poté je dokonale přizpůsobena k zahřátí lidského těla a optimálně šíří svůj tlak.
-Je proto ideální zabránit rozvoji vředů tlaku, ale také zvýšit pohodlí při spánku.
-Viskolastické pěny se používají nejen pro matrace, ale i pro zdravotnické výrobky, jako jsou speciální polštáře pod chodidly, které zmírňují nohy a žilní systém.
-Domácí výrobci používají ptačí Twinsaver nebo Eucatherm C a podobně.
-Zařízení pro sledování lidí jsou vyžadována stále více a více rodičů, kteří chtějí sledovat své děti.
-Strach o své vlastní dítě přivádí více lidí k myšlence, že je budou sledovat pomocí GPS.
-Systém původně vytvořený pro vyhledávání automobilů by mohl také monitorovat pohyb lidí, a měl by tak pomoci v případech, jako je zmizení devítileté Annie Janatkové.
-Zařízení je v současné době o velikosti zápalky, ale brzy může být stejně velké jako hodinky.
-Mnoho lidí se obávalo případu pohřešované Annie, a tak začali hledat způsoby, jak lépe chránit své děti.
-Dokonce i za cenu narušení jejich soukromí.
-"Říkáme všem, že to není špehování, ale prostředek k dalšímu snížení pravděpodobnosti, že se stane tragédie," řekl Petr Pilin z Macro Weil, jeden z dodavatelů sledovacího zařízení na českém trhu.
-"Připouštím, že za určitých okolností to může vést ke zneužití takového zařízení, pokud jsou umístěny do sáčku někoho, kdo to neví, ale zatím jsme takové případy neviděli."
+Není snadné ušetřit na matraci a ladované břicho.
+Někdy můžete využít speciální nabídky výrobců nebo prodejců, kteří nabízejí dvě matrace za cenu jedné.
+Značka Magniflex nabízí svou matraci Duofreeze s paměťovou pěnou Paměť všitá do krytu za 11 990 korun.
+Druhou můžete získat zdarma.
+Éru líných nebo viskoelastických pěn s otevřenou buněčnou strukturou a vysokou hustotou byl zahájen tempem Tempurovým materiálem "kosmickým".
+Původně byl vyvinut jako materiál pro NASA, protože astronauti byli během startu vystaveni enormnímu přetížení.
+Tempur změkčuje, když je teplý, ale posiluje v chladu.
+Je pak dokonale přizpůsobena teplému lidskému tělu a optimálně šíří jeho tlak.
+Je proto ideální zabránit vývoji dekud, ale také zvýšit pohodlí při spánku.
+Viscoelastické pěny se používají nejen pro matrace, ale i pro zdravotnické výrobky, jako jsou speciální polštáře pod nohama, které zmírňují nohy a jední systém.
+Domácí výrobci používají pěnový Twinsaver nebo Eucterm C a tak.
+Zařízení pro sledování lidí vyžaduje stále více rodičů, kteří chtějí sledovat své děti
+Strach o své vlastní dítě přivádí více lidí k myšlence sledovat je pomocí GPS.
+Systém původně vytvořený k hledání aut by mohl také sledovat pohyb osob, a tak by měl pomoci v případech, jako je zmizení devítileté Annie Janatkové.
+Zařízení má v současné době velikost krabičky od krabičky od párku, ale brzy může být velká jako hodinky.
+Mnoho lidí se vyděsilo případu pohřešované Annie, a tak začali hledat způsoby, jak lépe chránit své děti.
+I za cenu narušení jejich soukromí.
+"Říkáme všem, že to není špehování, ale prostředky k dalšímu snížení pravděpodobnosti, že dojde k tragédii," řekl Petr Pilin z Macro Weil, jeden z dodavatelů sledovacího zařízení na českém trhu.
+"Připouštím, že za určitých okolností to může vést ke zneužití takového vybavení, pokud jsou vloženy do pytle někoho, kdo to neví, ale takové případy jsme ještě neviděli."
 "Většina zákazníků ji skutečně kupuje z bezpečnostních důvodů," dodal.
-Podle něj by dítě mělo vždy vědět, co je účelem "krabice" a jak se používá v případě nouze.
-Dětská psycholožka Dana Bočková poukazuje na to, že pokud dítě nechce něco podobného nosit, prostě se toho zbaví.
-Dokonce i velmi malé děti ukazují velkou kreativitu, jak ztratit některé věci schválně, pokud nechtějí být pod kontrolou.
-"Očekávání velkých rodičů byla poháněna mobilními telefony dříve, ale ty lze vypnout, stejně jako toto sledovací zařízení," říká Bočková.
-Podle ní je pochybné, zda by v případě útoku takové zařízení opravdu pomohlo.
-"Pokud jde o nadcházející únos, pachatel téměř vždy zajišťuje, že dítě by nemělo nosit žádnou elektroniku, která by mohla odhalit jeho pozici."
+Podle něj by dítě mělo vždy vědět, co je účel "krabzy" a jak se používá v případě nouze.
+Dětská psycholožka Dana Bočková poukazuje na to, že pokud dítě nechce nosit něco takového, tak se jí to prostě zbaví.
+"Dokonce i velmi malé děti ukazují velkou kreativitu, jak ztratit některé věci schválně, pokud nechtějí být pod kontrolou."
+"Výdaní velkých rodičů byla poháněna mobilními telefony dříve, ale ty mohou být vypnuty, stejně jako toto sledovací zařízení," říká Bočková.
+Podle ní je sporné, zda by v případě útoku takové zařízení skutečně pomohlo.
+"Pokud jde o nadcházející únos, pachatel téměř vždy zajišťuje, že dítě by nemělo nést žádnou elektroniku, která by mohla odhalit jeho pozici."
 "Teď je to telefon."
-"Když se sledovací zařízení stanou běžnějšími, budou je hledat, protože jejich prodej bude určitě podporován masivní reklamou."
+"Když se sledovací zařízení stávají častějšími, budou je hledat, protože jejich prodeje budou jistě podpořeny masivní reklamou."
 "V tomto případě jsou zločinci vždy o krok napřed před policií," říká psycholog.
-Připouští však, že podobná zařízení mohou pomoci v případě náhlého útoku pedofila.
-Podle Roberta Čecha z RC Monitoring Company, která poskytuje sledovací služby jak pro automobily, tak pro lidi, i když dojde k útoku a okamžitému zničení sledovacího zařízení, může její přítomnost pomoci.
-"Zařízení může být nastaveno tak, aby po určité době odeslalo zprávu o poloze."
-"Pokud se poškodí, budeme mít alespoň poslední pozici osoby."
-"Čím dražší zařízení mají vestavěné a tiltme, takže i když jeden jen smyk a zůstane ležet nehybně, zařízení okamžitě pošle varování s umístěním, " říká Czech.
-Podle něj může být podobná služba poskytována chytrými mobilními telefony s navigací, kde je to dost na načtení speciálního softwaru.
-Problém současných sledovacích jednotek spočívá v tom, že se jedná buď o zařízení podobné přívěsky velikosti zápalek nebo menších mobilních telefonů.
+Připouští však, že podobná zařízení mohou pomoci v případě náhlého útoku pedofilem.
+Podle Roberta Čecha z RC Monitoring Company, který poskytuje sledovací služby pro automobily i pro lidi, i když dojde k útoku a okamžitému zničení sledovacího zařízení, může jeho přítomnost pomoci.
+"Zařízení může být nastaveno tak, aby po určité době odesílalo zprávu o pravidelné poloze."
+"Pokud se to poškodí, budeme mít alespoň poslední polohu osoby."
+"Rytlejší zařízení mají vestavěné a naklápěcí, takže i když jeden jen sklouzne a zůstává ležet nehybně, zařízení okamžitě pošle varování s umístěním," říká Czech.
+Podobnou službu podle něj mohou poskytovat chytré mobilní telefony s navigací, kde stačí na načtení speciálního softwaru.
+Problém současných sledovacích jednotek spočívá v tom, že se jedná buď o zařízení podobné přívěskům velikosti zápalky nebo menším mobilním telefonům.
 Vždy existuje riziko jejich ztráty.
-Podle Pilin z Macro Weil Company je nyní testováno zařízení, které vypadá jako konvenční digitální hodinky.
-"Bude to největší výhoda, kterou agresor nemusí ani rozpoznat sledovací zařízení vůbec."
-"Nebo to po nějaké době poznají a může to dát policii více času," dodává.
-Ať už se sledovací zařízení vyvíjíte do náramků nebo přívěsků, stále používají stejnou technologii jako u monitorovaných vozidel.
-Jedná se o kombinaci detekce polohy pomocí GPS (používané pravidelnou navigací v autě) a funkcí mobilního telefonu, který hlásí aktuální polohu vozidla.
-Armáda má dostatek zapalovacího šňůra k navíjení celé České republiky. Ale vyprší za pouhé dva roky.
-Česká armáda nakoupila 445 kilometrů šňůr, které odpalují výbušniny.
-Již v loňském roce ministerstvo obrany dodalo do skladů 224 km šňůrových linek.
-Armáda má tedy rezervy na 225 let.
-Problém je v tom, že život v liniích je dva až čtyři roky.
-Armáda zakoupila detonační šňůry od společnosti STV Group, Inc. za 40 milionů korun.
-Generální štáb poskytl důvody pro nákup tak obrovské množství zapalovacích šňůr pro MF Dnes, které uvádějí, že vojáci používají 60 km zapalovacích šňůr ve výcviku za rok.
-Výpočty armádních odborníků na likvidaci bomb, že se MF Dnes přiblížil, naznačují, že by to byl velmi intenzivní pyrotechnický výcvik, který by byl podroben také všem generálům každý rok, spolu s důstojníky armády, tajemníky a uklízeči.
-Nalezen byl ministr obrany Alexandr Vondra a armádní velitel Vlastimil Pick.
-Pouze tak mohla být vojenská roční spotřeba šedesáti kilometrů zapalovacích šňůr ospravedlňovaných.
-Toto období odpovídá 25 000 explozím.
-A i kdyby to byla pravda, armádní rezervy by stačily více než deset let.
-Nicméně, pokud základní výcvik nějakého nového odborníka skutečně potřeboval jen dva metry zapalovací šňůry, jak říkají odborníci, pak armáda zajistila nákup - dokonce i se zvýšenou spotřebou inženýra nebo speciálních jednotek - zásoby za více než 225 let.
-Vojáci Rapid Deployment Brigade si nedávno stěžovali ministru Vondrovi, že nemají téměř žádnou munici pro malé zbraně, a tak jsou střelby omezeny kvůli nedostatku peněz.
-Nemluvě o nedostatku spodního prádla.
-"Ani já nevím, že od nás opakovaně kupují tolik zapalovacích šňůr."
-"Ale je to jejich rozhodnutí a oni určitě vědí, k čemu je použijí."
-"Pro nás je armáda dobrým zákazníkem, jehož požadavky se snažíme uspokojit jako maloobchodníci," říká obchodní manažer společnosti STV Group Jan Děcký.
-Mluvčí ministerstva obrany Jan Pejsek zdůvodňuje zakoupené stovky kilometrů šňůr tím, že vytvoří rezervy takových „munice“ po dobu nejméně deseti let.
-Jan Deckéj z STV Group však hovoří pouze o čtyřletém životě šňůr a policie nebo armádních deminérů dokonce jen o pouhých dvou letech.
-"Pokud jsou uloženy za dokonalých podmínek, mohou to být dokonce čtyři," řekl jeden, který jako voják nechce zveřejnit jméno při kritice armády.
-Po datu vypršení platnosti musí být veškerá munice pečlivě testována na spolehlivost, aby se zajistilo, že neohrozí život vojáků.
-Tyto testy nejsou zdarma a stojí více peněz.
-Dalším argumentem ministerstva je množstevní sleva na 445 km zapalovacích šňůr.
-"Stalo nás to asi o 60 procent méně než loňské dodávky 200 čtyřiačtyřiceti kilometrů," říká mluvčí Pejsek, názor kupujícího ministerstva obrany.
-Jen pro srovnání: Roční spotřeba palebných linií policejních deminérů, kteří ničí munici z druhé světové války a ten vlevo poté, co sovětská armáda nepřekročila 1500 metrů po dobu několika let.
-Policie nařizuje pouze takové množství munice, která by byla použita před vypršením jejich expirace.
-Splatila zpět za bezpečnost deminérů a flexibilitu získat modernější a tím spolehlivější typy linek.
-Ministerstvo obrany má již značné problémy s likvidací desítek tisíc tun munice z dob Varšavské smlouvy, kdy se dvě stě tisíc československé armády chystala vydat na Rýn.
-Češský, podle pyrotechniků oslovených MF Dnes, bude čelit stejnému problému během několika let: budou likvidovat stovky kilometrů starých zapalovacích šňůr, které jsou v současné době "cheálně" zakoupeny.
+Podle Pilina z Macro Weil Company se nyní testuje zařízení, které vypadá jako běžné digitální hodinky.
+"Bude to největší výhoda, že agresor možná vůbec nerozpozná ani sledovací zařízení."
+"Nebo to po nějaké době poznají a může to dát policii čas navíc," dodává.
+Ať už se sledovací zařízení vyvíjíte do náramků nebo přívěsků, stále používají stejnou technologii, jakou používají pro monitorování vozidel.
+Jedná se o kombinaci detekce polohy přes GPS (používaná pravidelnou navigací auta) a funkce mobilního telefonu, který hlásí aktuální polohu vozidla.
+Armáda má dostatek zapalovací šňůry, aby natáhla celou Českou republiku. Za platnost ale vyprší jen za dva roky.
+Česká armáda nakoupila 445 kilometrů šňůry, které odpalují výbušniny.
+Již loni ministerstvo obrany dodalo do skladů 224 km šňůry šňůry.
+Armáda má tak zásoby 225 let.
+Problém je v tom, že život řádků je dva až čtyři roky.
+Armáda nakoupila odpalovací šňůry od společnosti STV Group, Inc. za 40 milionů korun.
+Generální štáb poskytl MF TI, aby získal tak obrovské množství zapalovacích šňůr, které uvedly, že vojáci používají 60 km zapalovacích šňůry při výcviku za každý rok.
+Výpočty armádních odborníků na likvidaci bomb, že MF Dnes se přiblížily, naznačují, že půjde o velmi intenzivní pyrotechnický výcvik, který by prošel také všemi generály každý rok, spolu s důstojníky armády, sekretářek a uklízeček.
+Včetně ministr obrany Alexandr Vondra a armádní velitel Vlastimil Pick.
+Jen tak by mohla být opodstatněná armádní roční spotřeba šedesáti kilometrů zapalovacích šňůry.
+Toto období odpovídá 25.000 explozím.
+A i kdyby to byla pravda, armádní zálohy by stačily více než deset let.
+Pokud však základní výcvik nového profesionála ve skutečnosti potřeboval jen dva metry zapalovací šňůry, jak říkají odborníci, pak armáda zajistila nákup - i se zvýšenou spotřebou inženýrem nebo speciálními jednotkami - zásobou za více než 225 let.
+Vojáci rychlého nasazení brigádně si nedávno ministru Vondrové stěžovali, že nemají téměř žádnou munici pro ruční zbraně, a tak jsou střelby omezeny kvůli nedostatku peněz.
+Nezmiňuji se o nedostatku spodního prádla.
+"Já také nerozumím, že od nás opakovaně kupují tolik zapalovačních šňůr."
+"Ale je to jejich rozhodnutí a oni určitě vědí, k čemu je budou používat."
+"Pro nás je armáda dobrým zákazníkem, jehož požadavky se snažíme jako maloobchodníci splnit," říká obchodní manažer STV Group Jan Děk.
+Mluvčí ministerstva obrany Jan Pejsek důvody pro nakoupené stovky kilometrů šňůr vytvořením rezerv takových "munice" nejméně na deset let.
+Jan Děcký ze skupiny STV však hovoří jen o čtyřletém životě šňůr a policistů či armádních demiérů po pouhých dvou letech.
+"Pokud je uložena v dokonalých podmínkách, mohou to být dokonce čtyři," řekl jeden z nich, který jako voják nechce zveřejnit jméno při kritice armády.
+Po uplynutí doby použitelnosti musí být každá munice pečlivě testována na spolehlivost, aby se zajistilo, že neohrožuje život vojáků.
+Tyto testy nejsou zadarmo a stálo to více peněz.
+Dalším argumentem ministerstva je množstevní sleva na 445 km zapalovacích šňůrá.
+"Následovalo nás to asi o šedesát procent méně než loňská nabídka dvou set čtyřiceti čtyř kilometrů," říká mluvčí Pejsek, který je názorem na kupce ministerstva obrany.
+Jen pro srovnání: Roční spotřeba palebných linií policejních demiérů, kteří ničí munici z druhé světové války a ta, která odešla po sovětské armádě, nepřekročila 1500 metrů po dobu několika let.
+Policie nařizuje jen takové množství munice, která by byla použita před jejím vypršením.
+Splatila bezpečnost odminovačů a flexibilitu při získávání modernějších a tím spolehlivějších typů linií.
+Ministerstvo obrany má již značné problémy s likvidací desítek tisíc tun munice z doby Varšavské smlouvy, kdy se dvěsetitisícová československá armáda připravovala na cestu do Rýna.
+Ten český, podle pyrotechniků oslovených MF Dnes, bude čelit stejnému problému za několik let: Naloží stovky kilometrů starých zapalovacích šňůrek, které jsou v současné době "levně" nakoupeny.
 Dodnes využívám kontakty, které jsem získal prostřednictvím soutěže
-Vyhrál cenu v podnikatelích roku pomohl Lukas Pytloun prodat franšízu svého hotelu.
-Vítězem loňského podnikatele roku byl osmadvacetiletý podnikatel Lukas Pytloun z Liberce.
-Jeho úspěch je podobný příběhu z filmu.
+Získání ceny v podnikateli roku pomohlo Lukasovi Pytlounovi prodat franšízu jeho hotelu.
+Vítězem loňského Podnikatele roku se stal osmadvacetiletý podnikatel Lukas Pytloun z Liberce.
+Jeho úspěšný příběh je jako příběh z filmu.
 Lukáš Pytloun rád cestoval.
-A v zahraničí si uvědomil, že Liberec nemá kvalitní ubytování za rozumnou cenu.
-S využitím svých úspor ze zahraničních částečných úvazků a bankovní půjčky koupil zničený dům s pěti byty.
+A v zahraničí si uvědomil, že Liberec postrádá kvalitní ubytování za rozumnou cenu.
+Pomocí svých úspor ze zahraničních částečných úvazků a bankovní půjčky koupil zničený dům s pěti byty.
 Byla to velká odvaha vzhledem k tomu, že v té době byl ještě studentem třetího ročníku na univerzitě.
-"Poměr mezi kvalitou a cenou za ubytování času v naší zemi mě přiměl k tomu, abych se snažil něco udělat," říká Lukas Pytloun.
-První zrekonstruovaný byt, který pronajal zahraničním pracovníkům.
-Všechny zisky byly investovány zpět do domu, který postupně přestavěl do penzionu s 54 lůžky.
-Od té doby se mu podařilo postupně otevřít čtyři penzionované domy v Liberci během sedmi let svého podnikání, spolu se dvěma stylovými restauracemi a dvěma hotely s celkovou kapacitou 300 lůžek ve všech kategoriích ubytování.
-Až donedávna byl nejpohodlnějším hotelem Pytloun Pytloune.
-Letos byl otevřen další, stejně dobře.
-"Podepsali jsme smlouvu s hotelem v Ostrove u Tise, kde jsme prodali náš franšízový koncept a další zájemci o hotelovou franšízu Pytloun," říká loňský obchodník číslo jedna.
-"A prodej licence na provoz hotelu byl velmi ovlivněn právě vítězstvím v soutěži Podnikatel roku," s vděčně dodává Pytloun.
-Vítězství přineslo větší reputaci a popularitu v Liberci a jeho okolí.
-"Lidé mě poznali na ulicích, často mi navíc gratulovali a musím říct, že jsem cítil dobře," vzpomíná.
-Důrazně povzbuzuje všechny, kteří jsou dychtiví vyzkoušet něco, co by se mohlo zúčastnit soutěže.
-Není nutné zvítězit, každá viditelnost je dobrá.
+"Poměr mezi kvalitou a cenou ubytování času v naší zemi mě donutil, abych se snažil něco udělat," říká Lukas Pytloun.
+První zrekonstruovaný byt, který pronajal zahraničním dělníkům.
+Všechny zisky byly investovány zpět do domu, který postupně přestavěl na penzion s 54 lůžky.
+Od té doby se mu podařilo postupně otevřít čtyři penziony v Liberci během sedmi let svého podnikání, spolu se dvěma stylovými restauracemi a dvěma hotely s celkovou kapacitou 300 lůžek ve všech kategoriích ubytování.
+Až donedávna byl nejpohodlnější čtyřhvězdičkový designový hotel Pytloun.
+Letos byla otevřená, stejně dobrá.
+"Podepsali jsme smlouvu s hotelem v Ostrov u Tise, kde jsme prodali náš franšízový koncept a ostatní, kteří se zajímají o hotelovou franšízu Pytloun, se hlásí," říká loňský obchodník číslo jedna.
+"A prodej licence k provozu hotelu byl velmi ovlivněn právě vítězstvím ve soutěž Podnikateli roku," očitně dodává Pytloun.
+Vítězství přineslo více reputace a popularity v Liberci a jeho okolí.
+"Lidé mě poznali na ulicích, často mi navíc gratulovali a musím říct, že to byl dobrý pocit," vzpomíná.
+Důrazně povzbuzuje všechny, kteří jsou dychtiví vyzkoušet něco, aby se zúčastnili soutěže.
+Není nutné vyhrát, jakákoliv viditelnost je dobrá.
 Říká, že stále čerpá z kontaktů a známých, což by možná jinak nedostalo.
-"S některými, které jsem se setkal prostřednictvím soutěže, jsem začal pravidelný podnik."
-Podle jeho názoru sláva spojená s úspěchem trochu přistála na každém zaměstnanci.
-Je jich asi sedmdesát.
+"S některými, které jsem se setkal přes soutěž, jsem začal s pravidelným podnikáním."
+Podle jeho názoru sláva spojená s úspěchem trochu dopadla na každého zaměstnance.
+A je jich asi sedmdesát.
 "Vidím, že ukazují větší loajalitu a hrdost, že jsou zapojeni do něčeho, co získalo univerzální uznání."
-Je to mnohem víc než jen můj osobní úspěch, protože je to výsledek dobré práce nás všech dohromady.
-"Jen moje jméno je vhozeno do popředí," říká dnes Lukáš Pytloun skromně.
-Přeji svému nástupci klidnějšímu roku než jsme měli v Farmetu.
-Euforie vítězství byla rychle nahrazena následky krize.
-Se sebedisciplínou vítěze Farmet již překonal špatné časy.
-Cenu za první místo v loňském ročníku Vodafone soutěže Společnosti roku bylo ve Slavném domě, který vybral majitel Farmet Company, Karel Žďárský.
-Porota pak ocenila úsilí, které malá sada nástrojů v Cesce Skalice rozrostla na podnikání se stomilionovými obraty.
-"Mohu říci, že ocenění povzbudilo nejen mě, ale všechny mé kolegy a zvýšilo naši důvěru v bitvy se soutěží," říká dnes vítěz minulého roku.
-V rané historii společnosti Farmet existovala touha udělat něco užitečného.
-A tak, když stát nabídl otci Karla Žďábáje, aby si pronajal malou dílnu na kompenzaci majetku konfiskovaného komunisty, neváhal dlouho, odmítl kariéru ve společnosti, kde pracoval, a s několika přáteli kolem svého otce založil společnost vyrábějící plastové vany.
-Brzy poté se začali specializovat na lisy rostlinných olejů.
-Po osmnácti letech se stali největším výrobcem automatických lisů ve střední Evropě.
-Větší povědomí mezi širokou veřejností bylo vyhráno po úspěchu v soutěži prostřednictvím médií.
-"Nejen, že naši zákazníci začali vnímat značku Farmet mnohem lépe, ale i zahraniční partneři si začali uvědomovat, že pracují se společností, která dosáhla většího úspěchu ve své domovské zemi," říká Karel Žďárský.
-V loňském roce však byl nejen plný euforie vítězství ve společnosti FarmET.
-Ocenění bylo založeno na pevném hospodářském výkonu až do roku 2008 a pouze částečně od roku 2009.
-A právě rok 2009 byl nejtěžším rokem pro prodej strojírenského zboží.
-Krize byla na samém vrcholu, ještě se nedotkla tolika lidem, ale společnosti zastavily své investiční projekty a začaly omezovat nákupy nových strojů a technologií.
-"Situace nás samozřejmě neušetřila."
-"Prodeje klesly o 40 procent, museli jsme omezit výrobu a dokonce i propouštění zaměstnanců," vysvětluje Karel Žďárský.
-S životaschopná společnost musí být schopna někdy přijmout i taková nepopulární opatření.
-Podařilo se jim však a udržel si zisk, i když nižší než před krizí.
-Nicméně, co by FARMET nekompromisoval, je investice do výzkumu a vývoje.
-"S pomocí dotací jsme vybudovali výzkumné a školicí středisko, jsme rozšířili naši prezentaci na mezinárodních veletrzích, získali jsme významné ocenění na místních výstavách," říká Žďárský.
-Krize je za nimi.
-Příjmy opět rostou, stejně jako počet nových zaměstnanců.
-"Přeji vám příjemný pocit vítězství novému vítězi, ale v klidnější atmosféře," říká Karel Žďárský.
-Průzkum, který odstraňuje absurdní pravidla
-Průzkum společnosti Absurdities je součástí podnikatelské soutěže již počtvrté.
+"Je to mnohem víc než jen můj osobní úspěch, protože je to výsledek dobré práce nás všech dohromady."
+"Pouze moje jméno je vrženo do popředí," říká dnes skromně Lukáš Pytloun.
+Přeji svému nástupci klidnější rok, než jsme měli na Farmetu
+Euforii vítězství byly rychle nahrazeny dopady krize.
+Se sebeodistriencí vítěze Farmet už překonal špatné časy.
+Cena za první místo v loňském ročníku Vodafone Competition Company of the Year byla ve Slovanském domě, kterou získal majitel Farmet Company Karel Žďárský.
+Porota pak ocenila snahu, kterou se malý dílna nástrojů v České Sklíce rozrostla do podniku se stomilionovými obraty.
+"Mohu říci, že ocenění povzbudilo nejen mě, ale všechny mé kolegy a zvýšilo naši důvěru v bitvy se soutěží," říká dnes vítěz z minulého roku.
+V rané historii Farmetovy společnosti byla touha udělat něco užitečného.
+A tak, když stát nabídl otci Charlese Žďárského, aby si pronajal malou dílnu, aby kompenzoval komunisty zakonstruovaný majetek, neváhal dlouho, odmítl kariéru ve firmě, kde pracoval, a s několika přáteli kolem svého otce založil společnost vyrábějící plastové vany.
+Brzy poté se začali specializovat na lisy rostlinného oleje.
+Po osmnácti letech se staly největším výrobcem automatických lisů ve střední Evropě.
+Větší povědomí mezi širokou veřejností se po úspěchu v soutěži získalo prostřednictvím médií.
+"Nejen naši zákazníci začali vnímat značku Farmet mnohem lépe, ale i zahraniční partneři začali oceňovat, že spolupracují se společností, která dosáhla většího úspěchu ve své domovské zemi," říká Karel Žďárský.
+Loňský rok však nebyl plný jen euforie vítězství ve FARMET.
+Ocenění vycházela z pevné ekonomické výkonnosti až do roku 2008 a jen částečně od roku 2009.
+A právě rok 2009 byl nejtěžším rokem pro prodej strojírenství.
+Krize byla na samém vrcholu, zatím se nedotkla tolika lidí, ale společnosti zastavily své investiční projekty a začaly omezovat nákupy nových strojů a technologií.
+"Situace nás evidentně nešetřila."
+"Prodeje klesly o 40 procent, museli jsme omezit výrobu a dokonce propustit zaměstnance," vysvětluje Karel Žďárský.
+Sživota musí být někdy schopna přijmout i taková nepopulární opatření.
+Získání se jim však podařilo a udrželi si, i když nižší než před krizí.
+Co by však FARMET neslevil, je investice do výzkumu a vývoje.
+"S pomocí dotací jsme vybudovali výzkumné a školicí středisko, jsme zlepšili naši prezentaci na mezinárodních veletrzích, získali významné ocenění na místních výstavách," říká Žďárský.
+Zdá se, že krize je za nimi.
+Příjmy opět rostou a stejně tak i počet nových zaměstnanců.
+"Přeji příjemnému pocitu vítězství novému vítězi, ale v mírumilovnější atmosféře," říká Karel Žďárský.
+Průzkum, který odstraňuje absurdní předpisy
+Průzkum Absurdities je součástí podnikatelské soutěže již počtvrté.
 Některé směšné předpisy již byly odstraněny.
-Nechvalně známý vítěz příštího roku v anketě angurchů byl absurdní povinností přinést dokumenty, které jsou přístupné úředníkům online úřadům.
-Vybrala ji více než třetina ze čtyř tisíc hlasů.
-Například správa sociálního zabezpečení vyžadovala papírový certifikát o začlenění, i když důstojník může získat jedno po dvou kliknutích myši.
-Díky průzkumu se to změní.
-"Česká správa sociálního zabezpečení nebude vyžadovat potvrzení o začlenění od kontrol přispěvatelů," uvedla mluvčí CSSA Jana Buráňová z CSSA.
-Zakročit proti všem pravidlům a předpisům, které musí společnosti a podniky v České republice splňovat, a odstranit ty, které postrádají smysl, je podstatou ankety absorpci.
-Je to letos již počtvrté, je součástí podnikatelské soutěže pořádané Hospodářskými novinami, kterou pořádá z Hospodářských novin a mezi veřejností je stále populárnější.
-Pokud se v loňském roce zúčastnilo asi tři tisíce voličů, na začátku tohoto roku byly téměř čtyři tisíce voličů.
-A není divu, že stále existuje mnoho zákonných povinností, které slouží pouze k oddálení podnikání.
-"Například v počtu dokladů potřebných pro daňové přiznání udržujeme nejvyšší místa na světě," řekl Karel Havlíček z Asociace malých a středních podniků a řemesel v ČR.
-Zjednodušení podnikání se v posledních letech stalo stanoveným cílem všech vlád.
-Ve srovnání se zbytkem světa se však situace v České republice ve skutečnosti nezlepšila.
-Podle Světové banky se Česká republika umístila na 74. místě na 74. místě, což je o osm bodů méně než v loňském roce.
-Poll of Absurdities byl poprvé zahájen v roce 2006 a koná se každoročně ve stejném scénáři.
-Každý může navrhnout administrativní a byrokratické nesmysly každý rok od dubna do září, kdy je lhůta pro soutěž.
-Pro přihlášení do soutěže se použije webová stránka HYPERLINK „http://www.firmaroku.cz“. Organizátor pak vybere sedm kandidátů na „anti-award“ a umožní veřejné hlasování v říjnu na webových stránkách www.firmaroku.cz/absurdita a www.ihned.cz.
-Absurdita, která získá většinu hlasů, vítězí.
-V tomto průzkumu bylo podáno více než sto, 105, aby byla přesná, nesmyslná pravidla a předpisy.
-Tipy byly získány od podnikatelů, ale také od odborných asociací a novinářů.
-Mezi „finalisty“ soutěže byl například požadavek, že nákladní automobily pro údržbu dálnic měly platit silniční zvony, nebo že podniky s dvaceti zaměstnanci, dvěma kancelářemi a dvěma toaletami měly ty, které byly malovány každé dva roky.
-Seznam letošních sedmi návrhů je zveřejněn na internetových stránkách soutěže.
-Oznámení soutěže, která se koná vždy na začátku listopadu na Václavském náměstí v Praze, je součástí hapeningu, se pravidelně účastní osobnosti politického a společenského života.
-Například v letošním ročníku bylo koncičně podpořena Evě Svobodová, ředitelka Asociace malých a středních podniků a řemesel v ČR a Petrem Kuzelem, prezidentem obchodní komory v ČR.
-"Ekonomická prosperita nemůže fungovat tam, kde stát hází podnikem ve vlastní noze, takže mým cílem je každoročně odstranit nejméně tři tucty odstavců, které dnes jen zbytečně komplikují podnikání," řekl ministr průmyslu a obchodu Martin Kocourek.
-Snaha o zrušení bezvýznamných předpisů má poměrně kladnou zátěž.
-V roce 2007 byla většina lidí proti povinnosti podniku oznámit svůj záměr zúčastnit se výstavy nebo veletrhu s jejich stánkem tři dny před veletrhem na místě, kde se nachází její stálá provozovna.
+Nechvalně známým vítězem příštího roku Pošta absurdností byla absurdní povinnost přinést úřadům dokumenty, které jsou pro úředníky přístupné online.
+Vybrala si ji více než třetina z téměř čtyř tisíců hlasů.
+Například Správa sociálního zabezpečení vyžadovala papírový certifikát o začlenění, i když úředník může získat jedno po dvou kliknutí myší.
+Díky anketě se to změní.
+"Česká správa sociálního zabezpečení nebude vyžadovat potvrzení o začlenění pro kontroly přispěvatelů," uvedla mluvčí ČSÚ Jana Buráňová.
+Zakročit proti všem pravidlům a předpisům, které musí společnosti a podniky v České republice splnit, a odstranit ty, které postrádají smysl, je podstatou ankety absorpčních opatření.
+Je to letos již počtvrté, je to součást obchodní soutěže, kterou pořádají Hospodářské noviny a mezi veřejností je stále populárnější.
+Pokud se loni do hlasování zapojily asi tři tisíce voličů, na začátku letošního roku byly téměř čtyři tisíce voličů.
+A není divu, že stále existuje mnoho zákonných povinností, které slouží pouze k oddálení podniku.
+"Například v počtu dokladů potřebných pro daňová přiznání udržujeme horní místa na světě," řekl Karel Havlíček ze Sdružení malých a středních podniků a řemesel v ČR.
+Zjednodušení podnikání se v posledních letech stalo deklarovaným cílem všech vlád.
+Ale ve srovnání se zbytkem světa se situace v České republice opravdu nezlepšila.
+Podle Světové banky se z hlediska obchodních podmínek Česká republika umístila na 74. pozici; je o osm bodů méně než loni.
+Průzkum Absurdities byl poprvé spuštěn v roce 2006 a probíhá každý rok za stejného scénáře.
+Každý může navrhovat administrativní a byrokratické nesmysly každý rok od dubna do září, kdy je lhůta pro soutěž.
+Pro podpis soutěže má být použit web HYPERLINK "http://www.firmaroku.cz". Organizátor pak vybere sedm kandidátů na "anti-auku" a umožňuje veřejnosti hlasovat pro ni v říjnu na webových stránkách www.firmaroku.cz /absurdita a www.ihned.cz.
+Absurdita, která dostane většinu hlasů, zvítězí.
+V tomto průzkumu bylo podáno více než sto, 105, aby bylo přesných, nesmyslných pravidel a předpisů.
+Tipy byly přijaty od podnikatelů, ale i profesních sdružení a novinářů.
+Mezi "konalisty" soutěže byl například požadavek, aby nákladní automobily na údržbu dálnic platily - nebo aby podniky s dvaceti zaměstnanci, dvě kanceláře a dvě toalety měly natřené každé dva roky.
+Seznam letošních sedmi návrhů je zveřejněn na webových stránkách soutěže.
+Oznámení soutěže, která se koná vždy počátkem listopadu na Václavském náměstí v Praze, je součástí dochovaného, pravidelně se ho účastní osobnosti politického a společenského života.
+V letošním roce například zaměstnávala finále Eva Svobodovová, ředitelka Asociace malých a středních podniků a řemesel v ČR a Petr Kuzel, prezident Hospodářské komory ČR.
+"Ekonomická prosperita nemůže fungovat tam, kde stát hází podnika do své vlastní nohy, takže mým cílem je každoročně odstranit nejméně tři desítky odstavců, které dnes jen zbytečně komplikují podnikání," řekl ministr průmyslu a obchodu Martin Kocourek.
+Snaha o zrušení nesmyslných předpisů má poměrně pozitivní zátěž.
+V roce 2007 byla většina lidí proti povinnosti podniku hlásit svůj záměr zúčastnit se výstavy nebo veletrhu se svým stáním o tři dny předběhla obchodní kancelář v místě, kde se nachází její stálé provozovna.
 To bylo odstraněno novelou obchodního zákona.
-Druhá nejvíce volená povinnost v roce 2007, která byla ohlašovat obchodní cestu zahraničních zaměstnanců trvající až 30 dní na úřad práce, byl odstraněn takzvaným zákonem o zelených kartách.
+Druhý nejvíce odhlasovaný závazek v roce 2007, který byl hlášen pracovní cestou zahraničních zaměstnanců trvající až 30 dní na Úřadu práce, byla odstraněna takzvaným zákonem o zelených kartách.
 A v neposlední řadě.
-Absurdita z roku 2009 byla povinností fyzioterapeutů mít velké zrcadlo, ledničku a dvě stepovací stupnice v kanceláři.
-V letošním roce to ministerstvo zdravotnictví zmírnilo - povinnost nechat si chladničku byla odstraněna.
-Nová kategorie uznává společensky odpovědné společnosti
+Absurdita roku 2009 byla povinností fyzioterapeutů mít v kanceláři velké zrcadlo, ledničku a dvě šupačky.
+Letos ji zmírnilo ministerstvo zdravotnictví - povinnost mít chladničku byla odstraněna.
+Nová kategorie uznává společensky odpovědné firmy
 Zvažují se environmentální, humanitární, vzdělávací a sportovní projekty.
-Novinkou v pátém ročníku soutěže HN Daily je kategorie nazvaná Odpovědná společnost v roce 2010.
+Novinkou v pátém ročníku soutěže HN Daily je kategorie nazvaná Responsible Company v roce 2010.
 Posláním této soutěže je podporovat rozumné a spravedlivé podnikání.
-"Chceme, aby to podpořilo společnosti, které odrážejí jejich obchodní dopad na životní prostředí a podporují společensky odpovědné aktivity," říká Patrik Bartholdy, regionální manažer společnosti Vodafone pro mobilní operátory, která je promotérem a garantem soutěže, stejně jako v případě povstalecké soutěže.
-V prvním roce této speciální podkategorie hlavní společnosti Vodafone soutěže roku 2010 společnosti, pro které není úspěch v podnikání jediným dlouhodobým cílem, podepsaly do soutěže.
+"Chceme to podpořit společnosti, které odrážejí jejich podnikání" dopad na životní prostředí a povzbuzují společensky odpovědné aktivity," říká Patrik Bartholdy, regionální manažer společnosti Vodafone pro mobilní operátory, která je promotérem a garantem soutěže, stejně jako v případě soutěže rebelů.
+V prvním roce tohoto speciálního podkategorie hlavní soutěžní společnosti Vodafone roku 2010 podepsaly společnosti, pro které úspěch v podnikání není jediným dlouhodobým cílem, podepsaly do soutěže.
 Každý příběh je velmi inspirativní a stačil by na samostatný článek.
-Ačkoli se povaha jejich činnosti značně liší, společným jmenovatelem jejich úsilí může být podpora a ohleduplnost.
-V jednom případě se například týká osob se zdravotním postižením a jinde s osobními problémy nebo zdravím svých zaměstnanců.
-Mezi čtrnácti finalisty v ČR najdeme pražskou softwarovou společnost Et Netera, která podporuje vytvoření neformálních sportovních týmů zaměstnanců, které se pak účastní řady turnajů v různých sportech.
-Dalším příkladem odpovědné společnosti z regionu Pardubice je společnost Isolit-Bravo, která byla hlavním přispěvatelem do nadačního fondu pro postižené děti po dobu sedmi let.
-Starý mlýn Podebrady se pak postará o své zdravotně postižené zaměstnance, kteří tvoří více než 70 procent všech zaměstnanců, a tak získal titul Odpovědná společnost ve Středočeském kraji a získal třetí místo v soutěži Vodafone v roce.
-V Olomouckém kraji obdržela ocenění účetní firma MiRyz Soft, která kromě sníženého průměru 35 hodin týdně zavedla flexibilní pracovní dobu, ale nesnížila plat úměrně.
-Titul byl také udělen společnosti, protože nejlépe nakupují od českých výrobců, propagují občanské aktivity v okolí a chrání životní prostředí.
-"Snažíme se co nejvíce recyklovat, aby naše podnikání a naše administrativa měly nejmenší dopad na životní prostředí," vysvětluje ředitelka Miluse Ryznarová.
-Responovatelný IT Company Enlogit v regionu Ústí si pak myslí na zdraví svých zaměstnanců a pro každý zakoupený notebook, který si koupil ergonomické židle a klávesnice, podporují svou práci z domova a služby stravování poskytované místními chráněnými dílnami pro své firemní akce.
-"Kromě toho podporujeme nadaci People in Need Foundation, která pomáhá zejména místní romské komunitě," uvedl zástupce společnosti Ondřej Suchy.
-Konečně stojí za zmínku také činnost Praní a ostření společnosti v regionu Karlovy Vary, která přispívá svými zaměstnanci bonusy do svých penzijních systémů.
-"Poskytujeme povolené pro jídlo, dopravu, dobývání a rekreaci," říká Josef Strapáč ze stavební společnosti Bruntál Czasch, vítěz Moravskoslezského kraje.
-Pro kategorii Odpovědná společnost roku byly automaticky zařazeny všechny regionální finalisty soutěže Vodafone Company of the Year, kteří odpověděli na dotazník připojený k přihlášce a zaslali ji organizátorům do 15. srpna.
-Nesprávně vyplněné nebo neúplné odpovědi na dotazník byly poté z hodnocení organizátorem vyloučeny.
-Pokud zástupci konkurenčních společností neodpověděli na otázky, nemohli by se zúčastnit soutěže Responsible Company of the Year, ale nejsou diskvalifikováni z "hlavní" soutěže Vodafone Company of the Year.
-"Single signa právě pro tuto soutěž není možné, protože se jedná o podkategorii hlavní soutěžní společnosti roku," vysvětluje Karel Goldman z organizační agentury Bison & Rose.
-Policie provedla zatčení v pozemkovém fondu v Plzni během zadávacího řízení
-V posledních dnech protikorupční policie zatkla v budově pozemkového fondu v Plzni.
-Pouta byla dána detektivy místnímu podnikateli v mediálním sektoru a obchodníka s nemovitostmi, Luboš G.
-Údajně se pokusil manipulovat se současným výběrovým řízením o urovnání restitučních nároků, takže nabízená půda byla udělena určitému kandidátovi.
-Měl zaplatit půl milionu dolarů Luboše G.
-Zatím mohu pouze potvrdit, že policie stíhá jednu osobu za podvodnou manipulaci s veřejnými zakázkami a veřejnými nabídkami,“ řekl šéf Pilsnerova žalobce Antonie Zelená pro Pravo a dodal, že další podrobnosti týkající se probíhajícího vyšetřování nemohou být zveřejněny.
-Šestačtyřicetiletý podnikatel byl po 24 hodinách propuštěn policií.
-Vzhledem k minimu oficiálních informací můžeme jen spekulovat, jak by se dalo manipulovat s výběrem.
-Mluvčí pozemkového fondu Lubomíra Černá odpověděl na otázku Prava, že policie skutečně provedla zatčení na odděleném pracovišti v Plzni, konkrétně během řízení veřejného nabídkového řízení.
+I když se povaha jejich činnosti značně liší, společným jmenovatelem jejich úsilí může být podpora a ohleduplnost.
+V jednom případě se týká například osob se zdravotním postižením a jinde s osobními problémy nebo zdravím jejich zaměstnanců.
+Mezi čtrnácti finalisty v ČR najdeme softwarovou společnost Et Netera umístěnou v Praze, která podporuje tvorbu neformálních sportovních týmů zaměstnanců, které se pak účastní řady turnajů v různých sportech.
+Dalším příkladem odpovědné společnosti z Pardubického kraje je společnost Isolit-Bravo, která je již sedmnáctiletá léta významným přispěvatelem do nadačního fondu pro handicapované děti.
+Stará továrna Podebrady se pak stará o své zdravotně postižené zaměstnance, kteří tvoří více než 70 procent celého personálu, a získal tak titul Odpovědné společnosti ve Středočeském kraji a získal třetí místo ve Vodafonské soutěžní společnosti roku.
+V Olomouckém regionu obdržela ocenění účetní firma MiRyz Soft, která kromě zkrácených průměrných 35 hodin týdně zavedla flexibilní pracovní dobu, ale nesnížila plat úměrně.
+Titul získal i firma, protože nejlépe nakupují od českých výrobců, propagují občanské aktivity v okolí a chrání životní prostředí.
+"Snažíme se co nejvíce recyklovat, aby naše podnikání a naše administrativa měly nejmenší dopad na životní prostředí," vysvětluje výkonná ředitelka Miluse Ryznarová.
+Zodpovědná IT společnost Enlovit v regionu Ústí pak přemýšlí o zdraví svých zaměstnanců a za každý zakoupený notebook si koupili ergonomické židle a klávesnice, podporují svou práci z domova a využívají stravovací služby poskytované místní chráněnou dílnou pro jejich firemní akce.
+"Kromě toho podporujeme nadaci People in Need Foundation, která pomáhá zejména místní romské komunitě," říká zástupce společnosti Ondřej Suchy.
+Za zmínku stojí také činnost Praní a Company Bčidel Karlovarského kraje, která přispívá svými zaměstnanci s bonusy do jejich penzijních systémů.
+"Zajišťujeme povolené pro stravování, dopravu, zvyšování kvalifikace a rekreaci," říká Josef Strastav stavební firma Bruntál Czasch, vítěz v Moravskoslezském kraji.
+Pro kategorii Responsible Company of the Year byla automaticky zařazena všichni regionální finalisté soutěže Vodafone Company roku, kteří odpovídali na dotazník připojený k aplikaci a do 15. srpna jej zaslali organizátorům.
+Z hodnocení pak pořadatel vyřadil nesprávně vyplňované nebo neúplné odpovědi dotazníku.
+"Pokud zástupci konkurenčních společností nedokázali odpovědět na otázky, nemohli se zúčastnit soutěže Responsible Company roku, ale nejsou diskvalifikováni z "hlavní" Vodafone soutěžní společnosti roku."
+"Jediné znamení jen pro tuto soutěž není možné, protože je podkategorií hlavní soutěžní Společnost roku," vysvětluje Karel Goldman z organizační agentury Bison & Rose.
+Policie během nabídkového řízení zatkla v pozemkovém fondu v Plznu
+Protikorupční policie v posledních dnech zatkla při stavbě pozemkového fondu v Plzni.
+Pouta byla detektivy nasazena místnímu podnikateli v mediálním sektoru a obchodníkovi s nemovitostmi Lubošovi G.
+Údajně se pokusil manipulovat s aktuálním tendrem na vyrovnání restitučních nároků, takže nabízený pozemek byl udělen konkrétnímu kandidátovi.
+Měl zaplatit půl milionu Lubošovi G.
+Zatím mohu jen potvrdit, že policie stíhá jednu osobu za přestupek podvodné manipulace s veřejnými zakázkami a veřejnými kláními," uvedla šéfka plsnického stíhání Antonie Zelená pro Pravomu s tím, že dodatečné podrobnosti týkající se probíhajícího vyšetřování nemohou být zveřejněny.
+46letý podnikatel byl po 24 hodinách propuštěn policií.
+Kvůli nízkému množství oficiálních informací můžeme jen spekulovat o tom, jak by člověk mohl manipulovat s tendrem.
+Mluvčí pozemkového fondu Lubomíra Černá odpověděl na otázku Pravo, že policie skutečně provedla zatčení na samostatně stojícím pracovišti v Plzně, a to během postupu veřejného nabídkového řízení.
 "Byl to klient, ne náš zaměstnanec," řekla.
-Veřejný výběr, podle paní. Cerna, je nazýván „Pozvánka na výběrové řízení pro převod pozemkových práv podle zákona o pozemcích“ a koná se, když mají nárok na zájem o nabízenou půdu.
-"Tito lidé v rámci výzvy nabízejí vyšší hodnotu svých restitučních nároků, které mají být vypořádány převodem než oznámená hodnota země."
-"Podle nároků nabízených příkazu nabyvatelů je stanoven a Land Fund pak převádí pozemek osobě, která nabídla nejvyšší nároky," uvedl mluvčí fondu.
-Pan Luboš G. měl pravděpodobně informace, který odpověděl na volání, a protože je také příjemcem, protože si koupil řadu restitučních nároků, navrhl jinému kandidátovi, aby se nezúčastnil.
+Veřejná nabídka, podle paní. Cerna, se nazývá "Pozývací na výběr na převod pozemkových práv podle zákona o pozemcích" a koná se, když se více oprávněných kandidátů zajímá o nabízený pozemek.
+"Tito lidé v rámci výzvy nabízejí vyšší hodnotu svých restitučních nároků, aby byli vyrovnáni převodem než ohlášená hodnota pozemku."
+"Podle pohledávek nabízených je nastaven příkaz nabyvatelů a pozemkový fond pak převádí pozemky osobě, která nabídla nejvyšší nároky," řekl mluvčí fondu.
+Pan Luboš G. měl pravděpodobně informace, který odpověděl na výzvu, a protože je také příjemcem, protože si koupil řadu restitučních nároků, navrhl jinému kandidátovi, aby se nezúčastnil.
 Kandidát pravděpodobně dostal finanční kompenzaci.
 To by vysvětlovalo, že byl zadržen s tak velkou sumou peněz.
 Lubos G měl lepší kontakty na LF již v minulosti.
-Došel v případě bývalého šéfa LF Václava Sanka, který byl stíhán za převod pozemků v substitučním pozemkovém restituci, na kterém již bylo vydáno rozhodnutí o umístění budovy.
-Bylo to právě tehdy, když pan Lubos G. získal pozemky určené pro výstavbu veřejných komunikací z fondu, zejména v místě, kde měla být příjezdová cesta postavena do průmyslové zóny Borska póla.
-Později si velmi pohodlně vyměnil ty s městem za dům v historickém centru města, který měl mnohem vyšší hodnotu.
-Radnice to musela přijmout tehdy, protože jinak by zablokovala výstavbu tím, že by blokovala pozemky.
-Domácnosti budou platit další stovky za bydlení měsíčně
-Domácnosti budou muset od ledna platit více nejen za všechny druhy energie, ale také za vodu a kanalizaci, zásoby vytápění a nájemné v některých oblastech.
-Rodiny budou muset od ledna vytáhnout stovky dalších z peněženek.
-Cena elektřiny se zvýší o 4,6 procenta; plyn bude asi o 2 procenta dražší, v některých městech budete muset zaplatit navíc za vodu až o desetinu a dodávky ústředního topení budou často dražší.
-Zvýšení cen elektřiny by mělo stát houshovdu v bytech stovky korun ročně více než nyní.
-Ceny energie byly sníženy všemi hlavními dodavateli současně; na vině je vina prudký nárůst podpory výroby energie z obnovitelných zdrojů, zejména fotovoltaiky.
-Ačkoli plyn bude jen o něco dražší, stane se to, když většina lidí ohřívá své byty, a proto má nejvyšší spotřebu.
-Ročně pak musí také vzít v úvahu dodatečné náklady.
-Zatímco elektřina a plyn budou v celé zemi dražší, změna cen ústředního topení se liší od místa k místu.
-Zvýšení cen je plánováno především ve větších obcích.
-Například domácnosti v Pardubice a Hradec Kralove budou od ledna platit za ústřední topení asi 50 Kč navíc, rodiny v Liberci budou platit navíc 1000 Kč ročně.
-Obyvatelé Prahy mohou mít dražší vodu a kanalizaci o více než 9 procent, v případě, že město zvýší nájemné za infrastrukturu.
-Pokud se nájemné nezmění, obyvatelé Prahy zaplatí navíc 6,8 procenta.
-Cena v Praze však bude stále v celostátním srovnání poměrně nízko.
-V severních Čechách, kde jsou ceny již jedny z nejvyšších, by se měla zvýšit sazba vody o 7,4 procenta.
-Například cena nájemného ve 450 tisících nájemních bytů, kde regulace končí v lednu, může výrazně zvýšit.
-Například CPI Byty, která v Usti nad Labem vlastní asi 2500 bytů, plánuje od ledna zvýšit nájemné až o sto procent.
-Společnost má v úmyslu přivést k soudu ty, kteří nebudou přijímat nové nájemné.
-Regulované nájemné, které platí lidé v přibližně 300 tisících bytů, by se mohly v příštím roce zvýšit až o deset procent.
-České děti se opijí u Fernetu a Rumu. Pivo je venku z módy, funguje to pomalu.
+V případě bývalého náčelníka LF Václava Sankota, který byl stíhán za převod pozemků v náhradním pozemkové restituřetí, na které již bylo vydáno rozhodnutí o umístění budovy.
+Právě tehdy pan Lubos G. získal pozemky určené k výstavbě veřejných silnic z fondu, zejména v místě, kde měla být příjezdová cesta postavena do průmyslové zóny Borska.
+Později velmi pohodlně vyměnil ty s městem za dům v historickém centru města, který měl mnohem vyšší hodnotu.
+Radnice to musela přijmout, protože jinak by stavbu zablokovala zablokováním pozemků.
+Domácnosti zaplatí za bydlení měsíčně stovky
+Domácnosti budou muset od ledna platit více, a to nejen za všechny druhy energie, ale také za vodu a kanalizaci, dodávky vytápění a nájmy v určitých oblastech porostou.
+Rodiny budou muset od ledna vytáhnout měsíčně stovky dalších z peněženek.
+Cena elektřiny se zvýší o 4,6 procenta; plyn bude asi o 2 procent dražší, v některých městech budete muset připlatit za vodu až o desetinu a dodávky ústředního vytápění budou často dražší.
+Zvýšení cen elektřiny by mělo stát bydlení v bytech o stovky korun o rok více než nyní.
+Ceny energie snížili všichni hlavní dodavatelé současně; vinou je v té době významný nárůst podpory výroby energie z obnovitelných zdrojů, zejména fotovoltaiky.
+I když plyn bude jen o něco dražší, stane se to, když většina lidí ohřívá své byty a tím má nejvyšší spotřebu.
+Ročně musí vzít v úvahu i dodatečné náklady.
+Zatímco elektřina a plyn budou v celé zemi dražší, změna cen ústředního tepla se liší od místa k místu.
+Zvýšení cen se plánuje hlavně ve větších obcích.
+Například domácnosti v Pardubicích a Hradci Králové zaplatí od ledna za ústřední topení asi 50 Kč měsíčně navíc, rodiny v Liberci budou platit navíc 1000 Kč ročně.
+Obyvatelé Prahy mohou mít dražší vodu a kanalizaci o více než 9 procent, v případě, že město zvýší nájemné infrastruktury.
+Pokud se nájem nezmění, budou obyvatelé Prahy platit navíc 6,8 procenta.
+Cena v Praze však bude stále v celostátním srovnání poměrně nízká.
+V Severních Čechách, kde už ceny patří k nejvyšším, by se sazba vody měla zvýšit zhruba o 7,4 procenta.
+Například cena nájemného ve 450 tisících nájemních bytů, kde regulace končí v lednu, se může výrazně zvýšit.
+Například CPI Byty, který v Usti nad Labem vlastní asi 2.500 bytů, plánuje od ledna zvýšit nájem až o stoprocentní.
+Společnost hodlá předat soudu ty, kteří nové nájemné nepřijmou.
+Regulované nájemné placené lidmi v přibližně 300 tisících bytů by se mohlo v příštím roce zvýšit až o deset procent.
+České děti se opijí s Fernetem a Rumem. Pivo je mimo módu, funguje pomalu.
 Fernet, rum, vodka, výjimečně lepší značka whisky ukradená rodičům.
-Jedná se o nápoje, po kterých nejčastěji opilí ani z patnácti let nekončí v péči lékařů.
-Děti, které jsou v nemocnici opakovaně léčeny pro opilství, nejsou výjimkou.
+To jsou nápoje, po kterých se nejčastěji opili ani ne ve věku patnácti let v péči lékařů.
+Děti, které se v nemocnici opakovaně léčí z opilosti, nejsou výjimkou.
 To vyplývá ze zkušeností lékařů, kteří jsou konfrontováni s podobnými případy při přijímání pacientů na dětské oddělení nemocnic.
-"Penívno nebo víno je naprosto nemoderní, protože trvá dlouho, než se opije."
-"Liquor je trendem dneška, to je jisté," řekl šéf dětského oddělení v Horovice v Horovice ve střední Čechách Ludek Pelican do Prava.
-"Pokud se jim podaří vytáhnout láhev svého otce ze skříně, je to obvykle whisky, ale jinak dominují Fernet a vodka."
-"Vodka má tu výhodu, že se podává v džusu a nemusí tehdy tak vonět," řekl hlavní lékař.
-A to potvrzuje mluvčí Fakultní nemocnice Motol Eva Jurinová.
-"Nejčastěji je to Fernet nebo rum."
+"Pivo nebo víno je zcela nemoderní, protože trvá dlouho, než se opijí."
+"Lovů je trend dneška, to je jisté," řekl šéf dětského oddělení v Horovice Nemocnice ve středočeských Čechách Ludek Pelican do Prava.
+"Pokud mohou ze skříně vytáhnout láhev svého otce, je to obvykle whisky, ale jinak dominují Fernet a vodka."
+"Vodka má tu výhodu, že se podává ve šťávě a nemusí pak tak moc smrdět," řekl hlavní lékař.
+A to potvrzuje mluvčí fakultní nemocnice Motol Eva Jurinová.
+"Je to Fernet nebo rum nejčastěji."
 "Dnes je to moderní duch, zejména na základních školách."
-"V některých případech to byla švestková brandy, kterou přivezli z domova," řekla Jurinová.
-Podle hlavního lékaře Pelikána jsou třináctiletí nebo čtrnáctiletí pijáci přijati do nemocnice jako relativně běžný jev.
-Před Horovicem, kde byl od tohoto roku, pracoval deset let jen v pediatrickém oddělení v Motolu, kde sanitky přivážejí z okolí odlehčené školáky.
-"Jedna dívka byla čtyřikrát přijata do naší nemocnice.
-"Začala svou kariéru ve věku 12 let, když k nám byla přivedena s 3,5 milionu alkoholu v krvi, navíc v kombinaci s extází," popisuje lékař obzvláště závažný případ.
+"V některých případech to byla švestková brandy, kterou si přivezli z domova," řekla Jurinová.
+Podle hlavního lékaře jsou Pelikán třináctiletý nebo čtrnáctiletý pijáci přijatí do nemocnice poměrně častý jev.
+Před Hořovičky, kde je od letošního roku, pracoval deset let jen na pediatrickém oddělení v Motolu, kde sanitky přivážejí zosobněné školáky z okolí.
+"Jedna dívka byla přijata do naší nemocnice čtyřikrát."
+"Svou kariéru začala ve dvanácti letech, kdy k nám byla přivezena s 3,5mno na mířinu alkoholu v krvi, navíc v kombinaci s extází," popisuje lékařka obzvláště závažný případ.
 "Zúčastnila se tanečního večírku a Vystaviste."
-"Je zajímavé, že její matka nepřišla vůbec divně, že neviděla svou dceru 48 hodin," řekl hlavní lékař.
-Je to nezájem rodičů nebo dokonce jejich značná tolerance k pití problémů jejich vlastních potomků je považována za hlavní příčinu zvyšování pití dětí.
-To však není závislost v pravém slova smyslu v případě dětí podle odborníků.
-"Podle termínu alkoholik chápeme víceletou chronickou závislost na alkoholu se všemi souvisejícími jevy, které se nevztahují na děti."
-"Pro ty, kteří často používají alkohol, je to více spojeno s neúspěšným rodinným sociálním zázemím," řekl vedoucí lékař Pelikan.
-Podle mluvčí Jurinové bylo letos na dětské klinice v Motolu hospitalizováno asi čtyřicet opilých dětí.
-Statistiky však dostávají pouze osoby s těžkou intoxikací chorobou, kteří museli zůstat v nemocnici.
-Dětští opilci, kteří jsou odvezeni domů po ambulantní léčbě svými rodiči nebo policií, nejsou popočítáni.
-Kromě toho, že děti jen sedí po škole a pijí láhev brandy, podle Pelikana, existují tři sezónní výkyvy, na které se lze spolehnout: Čarodějnický svátek, Nový rok a konec školního roku.
-"Je to buď smýt smutek ze špatné školní zprávy, naopak, oslavit začátek svátku."
-"Ale zažil jsem sedm opilých dětí přijatých do nemocnice ve stejnou dobu během čarodějnické hostiny," řekl Pelikan.
-Opilec, který tráví noc s detoxiákou pod lékařským dohledem, je paradoxně ve výhodě ve srovnání s tím doma, který druhý den trpí nepříjemnou kocovinou.
-Ranní bolesti hlavy způsobené dehydratací a nedostatkem glukózy jsou zabráněny zavlažovací infuzí glukózy a živinami, které tělo postrádá.
-"Ve skutečnosti se jim daří lépe, protože mají krásný večerní zážitek a dobré probuzení, když nic bolí."
-"Pouze oni jsou zmateni, kde jsou," řekl Pelikan a dodal, že někdy zkazí příjemnou náladu pacientů alespoň seznamem nákladů, které jejich léčba vyžaduje.
-Doprava sanitky a hospitalizace na akutním lůžku stojí tisíce korun.
-"Někdy jsem to použil jako vzdělávací opatření, když jsem přímo těm dětem vypočítal, kolik to stálo, že se opili, a že by také mohli strávit léto prací na vydělávání peněz na pokrytí této jedné strany," řekl Pelikan.
-Pojišťovny však nepřijmou regresní postupy, ve kterých by rodiče měli pokrývat náklady na léčbu v případech opilých dětí.
-Dva letouny L-159 jsou poprvé ve Španělsku v cizích rukou.
-Dva L-159 z celkem pěti kusů, za které si ministerstvo obrany ČR vyměnilo dopravní letouny CASA C-295M, letěly v úterý do Sevilly, kde sídlí výrobce letadel Casa - EADS.
-Je to poprvé, co se letadla tohoto typu objevila v držení někoho jiného než česká armáda.
-Byli pouze v zahraničí na výcvik a demonstračních letech.
-Jedná se o dvoumístnou verzi letounu L-159T1, který byl provozován českou armádou a byl letusimskářský.
+"Je zajímavé, že její matka vůbec nepovažovala za zvláštní, že svou dceru neviděla 48 hodin," řekl hlavní lékař.
+Je to nezájem rodičů nebo dokonce jejich značná tolerance k pitným problémům jejich vlastních potomků je považována za hlavní příčinu zvyšování chlastání dětí.
+Není to však závislost v pravém slova smyslu v případě dětí podle odborníků.
+"Podle hlediska alkoholiků rozumíme víceleté chronické závislosti na alkoholu se všemi příbuznými jevy, které se netýkají dětí."
+"Pro ty, kteří často používají alkohol, je více spojen s neúspěšným rodinným sociálním původem," řekl hlavní lékař Pelikan.
+Podle mluvčí Jurinové bylo letos na pediatrické klinice v Motolu hospitalizováno asi čtyřicet dětí až do poloviny listopadu.
+Statistiky však přijímají pouze ty s těžkou intoxikací, kteří museli zůstat v nemocnici.
+Dětské opilce, kteří jsou odvezeni domů po ambulantní léčbě svými rodiči nebo policií, se nepočítá.
+Kromě toho, kde děti jen sedí po škole a pijí láhev brandy, jsou podle Pelikána tři sezónní výkyvy, na které se člověk může spolehnout: Čarodějnický svátek, Nový rok a konec školního roku.
+"Zbaví je to proto, abychom splácli smutek ze zprávy špatné školy, naopak, abychom oslavili začátek svátku."
+"Ale zažil jsem sedm opilých dětí přijatých do nemocnice ve stejnou dobu během čarodějnické hostiny," řekl Pelikán.
+Opilec, který tráví noc s detoxikací pod lékařským dohledem, je paradoxně ve výhodě ve srovnání s tím doma, který druhý den trpí nepříjemnou kocovinou.
+Ranním bolestem hlavy způsobeným dehydratací a nedostatkem glukózy se brání zavlažovací infuze s glukózou a živinami, které tělo postrádá.
+"Vlastně se jim daří lépe, protože mají krásný večerní zážitek a dobré probuzení, když nic nebolí."
+"Jen oni jsou zmateni, kde jsou," řekl Pelikan a dodal, že někdy kazí příjemnou náladu pacientů alespoň o seznam nákladů, které jejich léčba vyžadovala.
+Doprava sanitkou a hospitalizace na akutním lůžku stojí tisíce korun.
+"Někdy jsem to použil jako vzdělávací opatření, když přímo těm dětem vypočítal, kolik to stálo, že se opili, a že by také mohly strávit léto prací, aby vydělaly peníze na pokrytí této jedné strany," řekl Pelikan.
+Pojišťovny však neberou regresní procedury, ve kterých by rodiče měli pokrýt náklady na léčbu v případech dětských opilců.
+Dva letouny L-159 jsou ve Španělsku poprvé v zahraničních rukou
+Dva L-159 z celkem pěti kusů, na které si české ministerstvo obrany vyměnilo transportní letoun CASA C-295M, v úterý odletělo do Sevilly, kde sídlí výrobce letounů Casa - EADS.
+Je to poprvé, co se letadla tohoto typu objevila v držení někoho jiného než českou armádu.
+Byli pouze v zahraničí na školení a předváděcí lety.
+Jedná se o dvoumístnou verzi letounu L-159T1, který byl provozován českou armádou a byl letuschopný.
 Zbývající tři jsou single-L-159.
-Ty stále stojí v Aero Vodochody a makléř - společnost Omnipol - je převzala teprve minulý týden.
-Nebylo zveřejněno, kdy letadla fyzicky opustí Vodochody, podle Janea Pejseka z tiskového oddělení ministerstva obrany.
-"Single-seat L-159 byly přiděleny na výměnu z dlouho uložených letadel a bez jakýchkoli vkladů a investic ze strany ministerstva."
-"Dvoumístné letouny L-159T1 byly vyměněny v současném stavu a formě," řekl Pejsek Pravovi.
-Dodal, že armáda nezůstanou bez dvoumístného letounu, protože v květnu 2009 ministerstvo podepsalo smlouvu v hodnotě 200 milionů korun s Aero Vodochody na rekonstrukci čtyř nadbytečných strojů L-159 na dvoumístných strojích.
-V červenci bylo armádou pořízeno jedno nové letadlo, druhé bude převzato do konce tohoto roku.
-Podle Pejsek EADS se zavázala prosadit letadlo jako vybavení do některých zemí aliance.
-Smlouva jasně uvádí, že kupujícím L-159 je společnost EADS a budou použity pro výcvik pilotů ze zemí NATO.
-"Jak tuto věc implementovat, je proto problém pro zákazníky," řekl Pejsek.
-Hospodářské noviny nedávno oznámily, že španělská armáda nemá zájem o L-159.
-Výměna pěti letounů L-159 za jeden letoun Casa a nákup dalších tří letadel v hodnotě 3,5 miliardy byla schválena vládou Mireka Topolanka v loňském roce.
-Ministerstvo obrany nezorganizovalo žádné výběrové řízení na nákup a přímo oslovilo EADS.
-Bývalé vedení ministerstva obrany tvrdilo, že výměna by podpořila další vývoz L-159 do zahraničí.
-Česká armáda nakoupila od Aero 72 letadel a používá pouze 24, chtějí prodat zbývající.
+Ty stále stojí v Aero Vodochody a makléř - společnost Omnipol - je převzal teprve minulý týden.
+Nebylo zveřejněno, kdy letouny fyzicky opustí Vodochody, tvrdí Jan Pejsek z tiskového ministerstva obrany.
+"Single-sedadlo L-159 bylo přiděleno na výměnu z dlouho položených letadel a bez jakýchkoli vkladů a investic ministerstva."
+"Dvoumístná letadla L-159T1 byla vyměněna v současném stavu a formě," řekl Pejsek Pravovi.
+Dodal, že armáda nezůstane bez dvoumístného letounu, protože v květnu 2009 ministerstvo podepsalo smlouvu v hodnotě 200 milionů korun s Aero Vodochodym na rekonstrukci čtyřem nadbytečných strojů L-159 do dvou dvoumístných strojů.
+Jeden nový letoun odvezla armáda v červenci; druhý bude převzat do konce tohoto roku.
+Podle Pejska EADS se zavázala, že bude letounem prosadit jako vybavení pro některé alianční země.
+"Smlouvu jasně uvádí, že kupujícím L-159 je společnost EADS a budou použity pro výcvik pilotů ze zemí NATO."
+"Jak tuto věc implementovat, je tedy problém pro zákazníky," řekl Pejsek.
+Hospodářské noviny nedávno informovaly, že španělská armáda nemá zájem o L-159.
+Výměnu pěti letounů L-159 za jedno letadlo Casa a nákup dalších tří letadel v hodnotě 3,5 miliardy schválila vláda Mirka Topollanka v loňském roce.
+Ministerstvo obrany nezorganizovalo žádné výběrové řízení na nákup a EADS se obrátilo přímo.
+Bývalé vedení ministerstva obrany argumentovalo, že výměna bude podporovat další vývoz L-159 do zahraničí.
+Česká armáda koupila 72 letadel od Aero a používá jen 24; chtějí prodat ty zbývající.
 Nákup letadel Casa bude mít pravděpodobně soudní důsledky.
-Evropská komise zažalovala české ministerstvo obrany u Evropského soudu, protože letadla měla být vybrána na základě evropského výběrového řízení a neřešení pouze jednoho výrobce.
-Armáda již získala tři letadla Casa, poslední by měla dorazit do Prahy, letiště Kbely, během čtrnácti dnů.
+Evropská komise zažalovala na Evropském soudu Ministerstvo obrany ČR, protože letadla měla být vybrána na základě evropského výběrového řízení a neřešila pouze jednoho výrobce.
+Armáda už získala tři letouny Casa, z nichž poslední by měla dorazit do Prahy, letiště Bbely, do čtrnácti dnů.
 Mít ukazováček delší než prsteníček naznačuje nižší riziko rakoviny
-Muži, kteří mají delší ukazováček než prsteníček, mají nižší riziko rakoviny prostaty.
-Je to překvapivý závěr studie zveřejněné ve středu v časopise British Journal of Cancer.
+Muži, kteří mají delší ukazováček než prsteníček, jsou vystaveni nižšímu riziku rakoviny prostaty.
+Jde o překvapivý závěr studie, kterou ve středu zveřejnil British Journal of Cancer.
 To může souviset s hladinou mužského hormonu testosteronu.
-"Naše výsledky ukazují, že relativní délka prstu může sloužit jako jednoduchý test na riziko rakoviny prostaty, zejména u muže do 60 let," uvedl spoluautor studie Ros Eeles, profesor na Institutu pro výzkum rakoviny na univerzitě ve Warwicku.
-Prst by pak mohl pomoci určit, kteří muži by měli podstoupit testy na rakovinu prostaty, zejména v kombinaci s genetickým rizikem nebo jinými ohrožujícími faktory, jako je rodinná zdravotní zátěž.
-V letech 1994-2009 spolu se svými kolegy sledovala více než 1500 pacientů s rakovinou prostaty v Británii a paralelně více než tři tisíce zdravých mužů.
-Více než polovina účastníků studie měla na pravé ruce kratší ukazováček než prsteníčko.
-Stejná pravděpodobnost rakoviny prostaty se na ně vztahuje jako na 19 procent těch, jejichž prsty byly stejně dlouhé.
-Pro ty, kteří mají ukazováček delší než prsteníček toto riziko kleslo o 33 procent, zatímco u mužů do svých šedesátých let to bylo dokonce pokles o 87 procent.
-Poměr délky těchto dvou prstů - vytvořených v prenatálním období - pravděpodobně odráží různé úrovně pohlavních hormonů, kterým je dítě vystaveno v děloze.
-Méně testosteronu odpovídá delšímu ukazováčku.
+"Naše výsledky ukazují, že relativní délka prstu může sloužit jako jednoduchý test na riziko rakoviny prostaty, zejména pro muže až 60 let," řekl spoluautor studie Ros Eeles, profesor Institutu pro výzkum rakoviny na univerzitě ve Warwicku.
+Prs tak by mohl pomoci určit, kteří muži by měli podstoupit testy na rakovinu prostaty, zejména v kombinaci s genetickým rizikem nebo jinými ohrožujícími faktory, jako je zdravotní zátěž rodiny, řekla.
+V období 1994-2009 sledovala spolu se svými kolegy více než 1500 pacientů s rakovinou prostaty v Británii a paralelně přes tři tisíce zdravých mužů.
+Více než polovina účastníků studie měla kratší ukazováček na pravé ruce než prsteníček.
+Stejná pravděpodobnost rakoviny prostaty se na ně aplikovala jako u 19 procent těch, jejichž prsty byly stejné délky.
+Pro ty, kteří mají ukazováček déle než prsteníček, se toto riziko snížilo o 33 procent, zatímco u mužů až do svých šedesáti let to byl dokonce pokles o 87 procent.
+Poměr délky těchto dvou prstů - vytvořených v prenatálním období - pravděpodobně odráží různé hladiny pohlavních hormonů, kterým je dítě vystaveno v děloze.
+Méně testosteronu odpovídá delšímu ukazovátku.
 Předchozí studie ukázaly, že je to testosteron, který podporuje vývoj rakoviny prostaty.
-Přední ekonom a bývalý český prezident Akademie věd profesor Václav Paces řekl pro ČTK, že ví o studii, ale podle jeho názoru se zdá, že vztah mezi délkou prstů a rakovinou není „plně prokázán“.
-Česká republika je pokryta sněhem, D1 a D5 jsou uzavřeny.
+Přední genetik a bývalý český prezident Akademie věd profesor Václav Paces pro ČTK řekl, že o studii ví, ale podle jeho názoru se nezdá být vztah mezi délkou prstů a rakovinou "plně prokázán".
+Česká republika je pokryta sněhem, D1 a D5 jsou uzavřeny
 Česká republika, stejně jako většina Evropy, se ve čtvrtek ráno probudila pokrytá sněhem.
-Silnice a chodníky jsou většinou pokryty zhutněným sněhem, na mnoha místech silniční údržba věci jezdily celou noc.
-D5 mezi 89. a 93. kilometrem ve směru Rozvadov byl ráno uzavřen kvůli několika nehodám nákladních automobilů a osobních automobilů a D1 je také blokován směrem z Brna do Prahy.
-Zpravodaje informoval centrální dispečer Automotoklub (UAMK).
-Při 91. kilometrovém kamionu havaroval, na 93. kilometru se dva nákladní automobily srazily, nehoda zahrnovala zranění.
-Několika vozy skončilo v příkopu.
-Problémy jsou také na dálnici D1 na 185. kilometru směrem k Praze.
-Srazily se tam dva náklaďáky.
-Řidiči by měli opustit dálnici těsně po Brně na 190. kilometru nebo jet přes Brno a jet zpět na dálnici na 182. kilometru v Kývalka.
-Ve frontách jsou několik kilometrů dlouhé.
-Také se stane nehoda na D11, při samotném příjezdu do Prahy.
-V Praze je vrstva sněhu, několik centimetrů tlustá, v Praze, teploměr ukazuje minus sedm stupňů Celsia.
-V Proseku jsou i fronty aut, Štěrožíček je také zablokovaná.
+Silnice a chodníky jsou většinou pokryty zhutněným sněhem, na mnoha místech, kam se řídí silniční údržba po celou noc.
+D5 mezi 89. a 93. kilometrem ve směru od Brána dojela bylo ráno uzavřeno kvůli několika nehodám nákladních automobilů a osobních automobilů a D1 je také zablokována ve směru z Brna do Prahy.
+Zprávy byly informovány centrálním dispečerem Automotoklubu (UAMK).
+Při havárii kamionu 91. kilometru se srazily dva kamiony 91. kilometru, nehoda zahrnovala zranění.
+Také několik aut skončilo v příkopu.
+Problémy jsou také na dálnici D1 na 185. kilometru ve směru Prahy.
+Srazily se tam dva kamiony.
+Řidiči by měli opustit dálnici těsně po Brně na 190. kilometru nebo projíždět Brnem a jet zpět na dálnici v 182. kilometru u Kývalky.
+Tam jsou fronty aut dlouhé několik kilometrů.
+Také dochází k nehodě na D11, při samotném příjezdu do Prahy.
+V Praze je vrstva sněhu, několik centimetrů hustá, v Praze, teploměr ukazuje minus sedm stupňů Celsia.
+V Proseku jsou fronty aut, Štěrboholská je také zablokována.
 Nejspolehlivějším dopravním prostředkem je metro.
-Tramvaje jsou zpožděny mezi Charles Square a Namesti Miru.
-V osm ráno by se měl sejít pražský pohotovostní personál znovu.
-Problémy musí čelit také železnice a letiště.
-České dráhy musely zrušit sedm rychlých vlakových spojů kvůli sněhu.
-Problémy s železniční tratí z Prahy do Kralupy nebo z Prahy do Berounu.
-Cestující by měli zkontrolovat současnou situaci.
-Ruzyne letiště bylo uzavřeno od 11 hodin ve středu večer do 5 hodin.
-Většina silnic na jižní Moravě je nyní sjízdná, ale pouze s opatrností.
-V oblasti Vyškov jsou tři neprůjezdné vedlejší silnice, v brněnské oblasti je spousta sněhu a sněhové řetězy jsou nezbytné pro cestování na určité komunikaci ve vyšších částech regionu Blansko.
-Mezi nejvíce postižená místa patřila oblast Vyskova.
-Uzavřené silnice jsou ještě: Rousínov - Slavkov, Bohdalice - Kučerov a také Šaratice - Milešovice.
-Pro jejich rozšíření budou nasazeny routery.
-Je nemožné odhadnout, kdy budou opět schůdné.
-V oblasti Hodonin je nutná opatrnost při cestování Bílými Karpaty.
-Na silnicích, které jsou tam, aby chránily životní prostředí, které jsou prostě sjízdné s inertní výplně, existuje pěticentrometrová vrstva sněhu, řekl ČTK.
-V České republice spadlo dva až deset centimetrů sněhu, většinou v severních Čechách, často až 18 centimetrů.
-V Moravskoslezském kraji došlo k asi 15 centimetrům sněhu.
+Tramvaje se zpozdily mezi Karlovým náměstím a Namesti Miru.
+V osm ráno by se měl pohotovostní personál Prahy znovu sejít.
+Také železnice a letiště se musí potýkat s problémy.
+České dráhy musely kvůli sněhu zrušit sedm rychlých vlakových spojů.
+Jsou tu problémy s železniční tratí z Prahy do Kralupy nebo z Prahy do Berounu.
+Cestující by měli zkontrolovat aktuální situaci.
+Letiště Rusyne bylo uzavřeno od 11 hodin ve středu večer do 5 hodin ráno.
+Většina silnic na jižní Moravě je nyní propustná, ale jen s opatrností.
+V oblasti Vyškovu jsou tři neprůchodné vedlejší silnice, v Brně je stílek a pro cestování na určitých komunikacích ve vyšších částech Blanského kraje je potřeba sněhové řetězy.
+Mezi nejpostiženější místa patřila oblast Vyskov.
+Stále jsou uzavřené silnice: Rousínov - Slavkov, Bohdalice - Kučerov a také Šaratice - Milešovice.
+Pro jejich prodlužovací routery budou nasazeny.
+Není možné odhadnout, kdy budou opět sjíždět.
+V oblasti Hodonin je při cestování v Bílých Karpatech nutná opatrnost.
+Na silnicích, které jsou tam, aby chránily životní prostředí, které jsou jen uchovány s inertními náplní, je 5 centimetrů sněhu, řekl ČTK.
+V České republice napadly dvě až deset centimetrů sněhu, většina v severních Čechách, často až 18 centimetrů.
+V Moravskoslezském kraji došlo asi 15 centimetrů sněhu.
 Sněžení v České republice postupně ustává.
-Američtí vojáci mají novou „chytrou zbraň“
-Spojené státy americké. Armáda nasadila v Afghánistánu novou „chytrou zbraň“, známou pouze kódovým označením XM-25.
-Generálové doufají, že nová automatická puška ovlivní konflikt s Talibanem a „změní hru“ v jejich prospěch.
-Nová zbraň je jako superpřesné malé dělo.
-Jejich projektil je řízen laserem, který má zasáhnout během několika metrů.
-Speciální muniční kalibář 25 mm, určený pro tuto pušku a obsahující vysokou výbušninu, ve skutečnosti se chovají jako malé granáty.
-Projektily mohou být naprogramovány tak, aby explodovaly při zasažení cíle, ale v jakémkoliv bodě jejich balistické dráhy.
+Američtí vojáci mají novou "chytrou zbraň"
+Spojené státy americké Armáda nasadila v Afghánistánu novou "chytrou zbraň", známo zatím pouze kódovým označením XM-25.
+Generálové doufají, že nová automatická puška ovlivní konflikt s Tálibánem a "změnu hry" v jejich prospěch.
+Nová zbraň je jako superpřesný malý kanón.
+Jejich projektil je řízen laserem, který udeřil během několika metrů.
+Zvláštní munice ráže 25 mm, určený pro tuto pušku a obsahující vysokou výbušninu, se ve skutečnosti chová jako malé granáty.
+Projektily mohou být naprogramovány tak, aby explodovaly při zásahu do cíle, ale v každém okamžiku jejich balistické cesty.
 Mohou být použity proti nepříteli, který se skrývá za bariérou, za zdmi nebo v zákopech.
-Ty se obvykle nechují chránit shora, a pokud jsou zasaženy deštěm smrtelných úlomků oceli, už nemusí bojovat.
-Podle Richarda Audetty, který se podílel na vývoji pušky XM-25, je to nová první zbraň pro pěchotu, která používá "inteligentní" technologii.
-"Voják ji v podstatě ovládá následovně: najdou cíl, vyšle laserový paprsek, aby určil vzdálenost a tím i přesné vysvětlení bodu, upraví nadmořskou výšku a zmáčknou spoušť."
+Ty obvykle nejsou chráněny před výše uvedeným, a pokud jsou zasaženy deštěm smrtících střepů oceli, nemusí už bojovat.
+Podle Richarda Audetty, který se podílel na vývoji pušky XM-25, je to nová první zbraň pro pěchotu, která používá "chytrou" technologii.
+"Voják ji v podstatě ovládá následovně: najdou cíl, vysílá laserový paprsek, aby určil vzdálenost a tím i přesné vysvětlení bodu, upravují výšku a stisknou spoušť."
 "Řekněme, že jste získali 543 metrů."
-"Když stisknou spoušť, zbraň se nabije a vystřelíte raketu ve vzdálenosti 543 metrů plus nebo mínus jedna, dvě nebo tři metry," řekla Audette.
+"Když stisknete spoušť, zbraň nabije a vypálí raketu ve vzdálenosti 543 metrů plus minus jeden, dva nebo tři metry," řekla Audette.
 400 pracovních míst přemístěno
-Korporace Fujitsu přemísťuje svou kancelář Bad Homburg do Frankfurtu.
-V červenci příštího roku se 400 zaměstnanců přesune ze současné kanceláře na náměstí Marienbad v Bad Homburgu do frankfurtského astenzionálního parku.
-Japonská korporace Fujitsu přemísťuje svou kancelář Bad Homburg do Frankfurtu.
-Průmyslový gigant v oblasti počítačů a údržby počítačů ve středu oznámil, že 400 mužů a žen se v červenci příštího roku přesune ze současné kancelářské budovy na náměstí Marienbad v Bad Homburgu do frankfurtského Astro Parku. Astro Park je velký kancelářský komplex na Lyon Street ve frankfurtské čtvrti Niederrad.
-Mluvčí společnosti Fujitsu vysvětlila, že ve střednědobém horizontu se k frankfurtské kanceláři připojí dalších 100 zaměstnanců společnosti, kteří jsou v současné době rozprostřeni po celém regionu.
-Nabídka pronájmu byla velmi atraktivní a kancelář s otevřeným plánem v Astro Parku byla vhodnější pro způsob, jakým zaměstnanci skutečně pracují, dodala mluvčí.
-Fujitsu také pronajal kancelář v Bad Homburgu.
-Manažer zodpovědný za tento krok, Bernd Wagner, řekl: „Ve Frankfurtu jsme našli centrální polohu s vynikající infrastrukturou.“
+Společnost Fujitsu přemístila svou kancelář Bad Homburg do Frankfurtu.
+V červenci příštího roku se ze současné kancelářské budovy na náměstí Marienbad v Bad Homburgu přestěhotne 400 zaměstnanců do frankfurtského Astro Parku.
+Japonská společnost Fujitsu přemístila svou kancelář Bad Homburg do Frankfurtu.
+Průmyslový gigant v oblasti počítačů a údržby počítačů ve středu oznámil, že 400 mužů a žen se v červenci příštího roku přesune ze současné kancelářské budovy na náměstí Marienbad v Bad Homburgu do frankfurtského Astro Parku. Astro Park je velký kancelářský komplex na Lyon Street ve franku ve franku Niederrad.
+Mluvčí společnosti Fujitsu vysvětlila, že ve střednědobém horizontu se k frankfurtské kanceláři připojí dalších 100 zaměstnanců korporací, kteří se v současné době rozprostírají po celém regionu.
+Nabídka pronájmu byla mimořádně atraktivní a otevřená kancelář v Astro Parku byla vhodnější pro způsob, jakým zaměstnanci skutečně pracují, dodala mluvčí.
+Společnost Fujitsu si také pronajímala kancelář pouze v Bad Homburgu.
+Manažer odpovědný za tento krok, Bernd Wagner, řekl: "V Frankfurtu nad Mohanem Niederrad jsme našli centrální polohu s vynikající infrastrukturou."
 Vynikající spojení s letištěm mělo zvláštní význam pro globální společnost, jako je Fujitsu, dodal.
-Včera bylo nadcházející přemístění významné společnosti v rámci regionu důvodem k radosti mezi vítězi a zklamáním mezi poraženými.
-Markus Frank (CDU), šéf frankfurtského ministerstva hospodářství, řekl, že město opět přilákalo globálního hráče.
-což bylo „fantastické uznání města“.
-Věřil, že město bude vyhovovat Fujitsu a že tento krok bude pro Niederrad významným povzbuzením.
-Michael Korwisi (Greens), starosta Bad Homburgu, vyjádřil politování nad rozhodnutím Fujitsu.
-Řekl, že město bylo informováno o zamýšleném kroku správní rady společnosti s dostatečným předstihem.
-"Nabídli jsme společnosti naši pomoc, samozřejmě," řekl Korwisi.
-Spřátelené schůzky však neměly žádný vliv na obtíže mezi výrobcem počítačů a pronajímatelem pro nemovitost na náměstí Marienbad.
-Ekonomické důvody konečně vychýlily rovnováhu.
-Korwisi se nyní chce zaměřit na to, aby se zabránilo tomu, aby se tak prominentní místo v dlouhodobém horizontu nezůstalo.
-"Doufám, že majitel budovy a pronajímatel budou spolupracovat."
-Budova, kterou Fujitsu dříve používala na radničním náměstí a sousední nízkopodlažní "Kleine Vertikale", byla mezi řadou budov na náměstí Marienbad, které byly součástí kontroverzního stavebního projektu lázeňského města před deseti lety.
-Společný projekt mezi městem a soukromým projektovým developerem sloužil k vytvoření nového vstupu do města mezi vlakovým nádražím a radnicí, což přilákalo kritiku kvůli masivnímu rozsahu rozvoje nad oblastmi dříve částečně používanými pro parkování a z důvodu výšky budov.
-V roce 2001 se přestěhovaly tři společnosti: Feri, investiční poradenská společnost a ratingová společnost, Start Amadeus, výrobce softwaru pro prodej a marketingových systémů pro cestování a marketingový systém, a výrobce počítačů Fujitsu (stále v té době spojen se Siemensem).
-Budovy používané společností Fujitsu koupila v roce 2006 frankfurtská DIC Group a Morgan Stanley Real Estate Fund a o rok později v Madridu prodána společnosti Spanish Falcon Real Estate Investments SA.
+Včera bylo nadcházející přemístění důležité společnosti v regionu důvodem k radosti mezi vítězi a zklamání mezi poraženými.
+Markus Frank (CDU), vedoucí frankfurtského oddělení ekonomických záležitostí, řekl, že město opět přilákalo globálního hráče,
+což bylo "fantastické uznání města".
+Věřil, že město bude Fujitsu vyhovovat a že tento krok bude pro Niederrad významnou vzpruhou.
+Michael Korwisi (Greens), starosta Bad Homburg, vyjádřil nad rozhodnutím společnosti Fujitsu svou lítost.
+Uvedl, že město bylo o zamýšleném kroku představenstvem společnosti s dostatečným předstihem informováno.
+"Společnosti jsme samozřejmě nabídli naši pomoc," řekl Korwisi.
+Smírná setkání však neměla žádný vliv na potíže mezi výrobcem počítače a pronajímatelem nemovitosti na náměstí Marienbad.
+Ekonomické důvody konečně naklonily rovnováhu.
+Korwisi se nyní chce zaměřit na to, aby tak prominentní lokalita zůstala v dlouhodobém období volná.
+"Doufám, že majitel a pronajímatel budovy budou spolupracovat."
+Budova, kterou dříve používala společnost Fujitsu na náměstí radnice a sousední nízkopodlažní "Kleine Vertikale", byla mezi řadou budov na náměstí Marienbad, které byly součástí kontroverzního stavebního projektu lázeňského města před deseti lety.
+Společný projekt mezi městem a soukromým projektovým developerem sloužil k vytvoření nového vchodu do města mezi železniční stanicí a radnicí, což vyvolalo kritiku kvůli masivnímu rozsahu rozvoje nad oblastmi dříve částečně používanými pro parkování a z důvodu výšky budov.
+V roce 2001 se nastěhovaly tři společnosti: Feri, společnost pro správu a hodnocení investičního poradenství, společnost Start Amadeus, výrobce softwaru pro prodej a marketingové systémy, a společnost Fujitsu, výrobce počítačů (stále navštěvoval v té době Siemens).
+Budovy používané společností Fujitsu byly v roce 2006 zakoupeny frankfurtskou skupinou DIC Group a Morgan Stanley Real Estate Fund a prodány společnosti Spanish Falcon Real Estate Investments SA v Madridu o rok později.
 Tokijská společnost Fujitsu se prodává jako třetí největší poskytovatel IT na světě.
-Poskytuje společnostem počítače, servery a další vybavení a poskytuje nezbytné servis.
-Kancelář v oblasti Rhein-Main je jednou z největších v Německu, i když Fujitsu má v Mnichově podstatně více zaměstnanců.
-Dceřiná společnost Fujitsu, Technology Solutions, se také stěhuje z Bad Homburgu do Frankfurtu; další dvě dceřiné společnosti, Fujitsu Services a společnost TDS, budou také sídlit ve Frankfurtu.
-V kancelářské budově Astro Parku bylo pronajato 7 000 metrů čtverečních, aby se jim ubytovalo.
-Dvacetiletý komplex – jeho jméno inspirované půdorysem ve tvaru hvězdy – je již domovem Ústřední asociace německého elektrotechnického a elektronického průmyslu (ZVEI) a dalších organizací.
-Amazon blokuje server - výhrůžky proti Assangeovi
-Wikileaks se dostávají do hlubších a hlubších vod.
-Společnost Amazon zakázala informátorovi ze svých serverů.
-Politický tlak může stát za tímto krokem po zveřejnění stovek tisíc tajných diplomatických depeší.
-Zakladatel Wikileaks, Assange, je považován za v Anglii.
-Webová stránka pro whistle-foukování, Wikileaks, je stále více pod palbou ve Spojených státech.
-Internetoví aktivisté ztratili přístup na svůj americký server a nyní hledají internetový dům v Evropě.
-Prominentní americký senátor Joe Lieberman vyzval další země a společnosti, aby bojkotovaly Wikileaks.
-Mezitím novinová zpráva naznačuje, že zakladatel Wikileaks Julian Assange, který je na seznamu hledaných osob Interpolu, je v současné době ve Velké Británii.
-"Wikileaks vytlačili servery Amazonu."
-"Svoboda projevu v zemi svobodného," řekl ve středu píšťalka, která foukala aktivisty (místního času) prostřednictvím služby Twitter pro zasílání zpráv.
-Krátce, zatímco předtím, internetová společnost Amazon zakázala dokumenty Wikileaks ze svých serverů.
-Internetoví aktivisté použili Amazonskou webovou službu (AWS) k publikování tajných diplomatických dispečerů, aby se mohli vyrovnat s vysokým počtem lidí, kteří mají přístup k dokumentům.
-Wikileaks diskutoval o kroku na Twitteru: "Skvělé - místo toho utrácíme naše dolary za zaměstnávání lidí v Evropě."
-Pokud by Amazon měl problémy se svobodou projevu, „měl by se vzdát prodeje knih“.
-Amazon zastavil Wikileaks pomocí svých serverů poté, co kolegové senátora Joe Liebermana začali vyšetřovat, informovala televizní stanice CNN s odvoláním na kancelář Liebermana.
-Předseda senátního výboru pro vnitřní bezpečnost a vládní záležitosti pohrozil bojkotem Amazonu, informovaly britské noviny "The Guardian".
-"Byl bych rád, kdyby Amazon podnikl tento krok dříve, vzhledem k předchozímu zveřejnění utajovaných informací Wikileaks," řekl senátor.
-Lieberman také vyzval další země, aby spolupracovaly na tom, aby Wikileaks nacházely nové servery.
-"Wikileaks" nezákonné, pobuřující a bezohledné činy ohrozily naši národní bezpečnost a ohrozily životy po celém světě," uvedl nestranický senátor v prohlášení.
-"Žádná odpovědná společnost - ať už americká nebo zahraniční - by neměla pomáhat Wikileaks v jejím úsilí šířit tyto ukradené materiály."
-Zakladatel Wikileaks Assange, který je hledaný švédským orgánem pro podezření ze znásilnění, je na seznamu hledaných osob Interpolu.
-Podle zprávy v londýnských novinách "The Independent" je 39letý Australan v současné době ve Velké Británii a Scotland Yard si je vědom svého přesného umístění.
+Poskytuje firmám počítače, servery a další vybavení a poskytuje potřebný servis.
+Kancelář v oblasti Rhein-Main je jednou z největších v Německu, i když společnost Fujitsu má v Mnichově podstatně více zaměstnanců.
+Dceřiná společnost Fujitsu, Technology Solutions, se také přesouvá z Bad Homburg do Frankfurtu; další dvě dceřiné společnosti, Fujitsu Services a společnost s názvem TDS, budou také sídlit ve Frankfurtu.
+7000 metrů čtverečních bylo pronajato v kancelářské budově Astro Park, aby se jim ubytovalo.
+Dvacetiletý komplex - jeho název inspirovaný půdorem ve tvaru hvězdy - je již již domovem Ústředního sdružení německého elektrodetického a elektronicového průmyslu (ZVEI) a dalších organizací.
+Amazon blokuje server - hrozby proti Assangeovi
+WikiLeaks se dostává do hlubších a hlubších vod.
+Elektronická obchodní společnost Amazon zakázala oznamovatele ze svých serverů.
+Politický tlak může stát za tímto krokem po zveřejnění statisíců tajných diplomatických depeší.
+Zakladatel Wikileaks, Assange, je pravděpodobně v Anglii.
+Webová stránka Wikileaks je ve Spojených státech stále více pod palbou.
+Internetoví aktivisté ztratili přístup ke svému americkému serveru a nyní hledají internetový dům v Evropě.
+Významný americký senátor Joe Lieberman vyzval ostatní země a společnosti, aby bojkotovaly Wikileaks.
+Mezitím novinová zpráva naznačuje, že zakladatel Wikileaks Julian Assange, který je na seznamu hledaných Interpolu, je v současné době ve Velké Británii.
+"Wikileaks vytlačili Amazonské servery."
+"Svoboda projevu v zemi svobodných," řekl ve středu (místní čas foukat aktivisty prostřednictvím služby pro zasílání zpráv na Twitteru.
+Již dříve internetová společnost Amazon zakázala dokumenty Wikileaks ze svých serverů.
+Internetoví aktivisté využili Amazon Web Service (AWS) k publikování tajných diplomatických depeší, aby se mohli vyrovnat s vysokým počtem lidí, kteří k dokumentům přistupují.
+WikiLeaks diskutovali o kroku na Twitteru: "Skvělé - místo toho utratíme naše dolary zaměstnávání lidí v Evropě."
+Pokud měl Amazon problémy se svobodou slova, "měl by se vzdát prodeje knih".
+Amazon zastavil Wikileaks pomocí svých serverů poté, co se kolegové senátora Joea Liebermana začali vyšetřovat, informovala televize CNN a citovala Liebermanovu kancelář.
+Předseda senátního výboru pro vnitřní bezpečnost a vládní záležitosti vyhrožoval, že Amazon bojkotuje, informoval britský deník The Guardian.
+"Rád bych viděl, aby Amazon učinil tento krok dříve, vzhledem k předchozímu zveřejnění utajovaných informací Wikileaks," řekl senátor.
+Lieberman také vyzval ostatní země, aby spolupracovaly při prevenci Wikileaks v hledání nových serverů.
+"Wikileaks" nezákonné, pobuřující a bezohledné činy ohrozily naši národní bezpečnost a ohrožují životy po celém světě," uvedl senátor za nestranickou.
+"Žádná zodpovědná společnost - ať už americká nebo zahraniční - by neměla pomáhat Wikileaks ve snaze šířit tyto ukradené materiály."
+Zakladatel Wikileaks Assange, kterého švédská autorita hledá pro podezření ze znásilnění, je na seznamu hledaných Interpolu.
+Podle zprávy v londýnských novinách "The Independent" je 39letý Australan v současné době ve Velké Británii a Scotland Yard si je vědom své přesné polohy.
 Internetový aktivista vždy popisoval švédské vyšetřování jako schéma zorganizované jeho odpůrci.
-V Londýně mluvčí Wikileaks Kristinn Hrafnsson uvedla, že došlo k výhrůžkám.
-"Dokonce se objevily výzvy k zavraždění Juliana Assange."
-Hrafnsson uvedl, že Assange se proto bojí o svou osobní bezpečnost.
+Mluvčí WikiLeaks Kristinn Hrafnssonová v Londýně uvedla, že došlo k výhrůžkám.
+"Dokonce se objevily výzvy k atentátu na Juliana Assange."
+Hrafnsson řekl, že Assange se proto bojí o svou osobní bezpečnost.
 Zakladatel Wikileaks zůstane v úkrytu.
-Hrafnsson jasně reagoval na prohlášení ze Severní Ameriky.
-V Americe bývalý republikánský guvernér Arkansasu, Mike Huckabee, vyzval k tomu, aby lidé zodpovědní za odhalení Wikileaks byli obviněni a popraveni za zradu.
-V Kanadě jeden z poradců premiéra Stephena Harpera ironicky navrhl v televizi, že Assange by měl být „zabit“ a že by Obama mohl „použít dron“.
-Do té doby došlo k výměně mezi Bílým domem a Assangem.
-Robert Gibbs, předseda amerického prezidenta Baracka Obamy, řekl, že je "směšné a absurdní", že Assange požadoval rezignaci ministryně zahraničí Hillary Clintonové, pokud bude shledána odpovědnou za nedávno odhalené žádosti diplomatů, aby se zapojili do špionáže.
-"Nejsem si úplně jistý, proč se staráme o názor člověka s webovou stránkou," řekl Gibbs.
-"Naše zahraniční politika a zájmy této země jsou mnohem silnější než jeho jediná webová stránka.
+Hrafnsson jasně reagoval na výroky ze Severní Ameriky.
+V Americe bývalý republikánský guvernér Arkansasu Mike Huckabee vyzval k tomu, aby byli lidé zodpovědní za odhalení Wikileaks obžalováni a popraveni za vlastizradu.
+V Kanadě jeden z poradců premiéra Stephena Harpera ironicky v televizi naznačil, že Assange by měl být "zabijen" a že Obama by mohl "používat dron".
+Mezitím byly mezi Bílým domem a Assange provedeny výměny.
+Robert Gibbs, předseda amerického prezidenta Baracka Obamy, řekl, že je "směšné a absurdní", že Assange požadovala rezignaci ministryně zahraničí Hillary Clintonové, pokud bude shledána zodpovědnou za nedávno odhalené žádosti diplomatům, aby se zapojili do špionáže.
+"Nejsem si úplně jistý, proč nám záleží na názoru chlapa s webovou stránkou," řekl Gibbs.
+"Naše zahraniční politika a zájmy této země jsou mnohem silnější než jeho jedna webová stránka."
 Americká vláda v současné době provádí komplexní přezkum bezpečnosti svých databází.
-Russell Travers, zástupce ředitele informační divize v Národním protiteroristickém středisku, byl jmenován zvláštním zástupcem.
-Travers bude zodpovědný za vypracování „nezbytných strukturálních reforem“, které jsou nyní potřebné po zveřejnění diplomatických depeší Wikileaks.
-Bílý dům se také chce podívat na to, jak si celá vláda vyměňuje a chrání informace.
+Russell Travers, zástupce ředitele informační divize v Národním protiteroristickém centru, byl jmenován zvláštním zástupcem, oznámil Bílý dům.
+Travers budou zodpovědně za vypracování "nezbytných strukturálních reforem", které jsou nyní potřebné po zveřejnění diplomatických depeší WikiLeaks.
+Bílý dům se chce také podívat na to, jak si celá vláda vyměňuje a chrání informace.
 Americká vláda také vyjádřila znepokojení nad bezpečností disidentů a aktivistů, kteří mohou být ohroženi publikací Wikileaks.
-"Udělali jsme vše, abychom je kontaktovali," řekl mluvčí amerického ministerstva zahraničí Philip Crowley.
-"Jsme připraveni je ochránit, pokud to bude nutné."
-Univerzita zmrzliny
-Zmrzlinové cukráři jsou trénováni pro teplá období na "Gelato University" v Bologni.
-Třídenní nadační kurz pro budoucí "gelateri" je největším kurzem a vítá návštěvníky z celého světa.
-Odkud se vlastně bere ta zmrzlina?
-Z "gelatiera" a "gelataio".
-"Gateliere", známý v angličtině jako staromódní "zmrzlinový cukrář", produkuje krém podle pravidel italského umění výroby zmrzliny.
-"Gelataio" dostane zmrzlinu z chladíka s špachtlí, vyhlabe ji na oplatky a prodává ji.
+"Dělali jsme všechno, abychom je kontaktovali," řekl mluvčí státního oddělení Philip Crowley.
+"Jsme připraveni je chránit, pokud to bude nutné."
+Univerzita Zmrzlin
+Krveprolovníci zmrzliny jsou trénováni pro teplé období na "Gelato University" v Bologni.
+Třídenní nadační kurz pro budoucí "gelatieri" je největším kurzem a vítá návštěvníky z celého světa.
+Odkud vlastně pochází všechna ta zmrzlina?
+Z "gelatiere" a "gelataio".
+"Melatiere", známá v angličtině jako staromódní "macírenský cukrář", produkuje krém podle pravidel italského umění výroby zmrzliny.
+"gelataio" dostane zmrzlinu z chladírného pultu špachtlí, vyhladí ji do oplatek a prodává.
 Nemusíte jet do Anzola dell'Emilia v provincii Bologna, abyste to věděli.
-Ale pro každého, kdo chce vědět více o zmrzlině, "Gelato University" italské společnosti Carpigiani je nutností.
-Univerzita zmrzliny byla vytvořena výrobcem zmrzliny v roce 2003, aby zajistila, že zmrzlina od všech jejích tvůrců splňuje náročné italské standardy.
-Třídenní nadační kurz pro budoucí "gelateri" je největším kurzem a vítá návštěvníky z celého světa.
-K dispozici jsou také specializované kurzy v průběhu několika dní pokrývající čokoládovou zmrzlinu a stáže ve vlastní zmrzlinárně společnosti.
-Mnozí sní o nové kariéře, aby unikli krizi středního věku; jiní přicházejí, aby vyzkoušeli své vágní aspirace proti chladným faktům.
-Tentokrát je zde 40 účastníků z 19 zemí a všech kontinentů – od Brazílie a Maďarska po Saúdskou Arábii.
-Jacky, učitel umění z Kalifornie, miluje pomalé hnutí za jídlo a chce nabídnout vysoce kvalitní evropský produkt v zemi zvyklé na průmyslovou zmrzlinu.
-Anke z Berlína je manažerská konzultantka a chce něco dělat sama po letech ve velmi stresující práci.
-Dvě mladé egyptské dívky sní o otevření zmrzlinového salónu v Káhiře.
-Jeden muž z Malty a další z Brazílie chce zlepšit kvalitu zmrzliny ve svých barech - a kanadská žena v domácnosti Julia přišla, protože její děti milují italskou zmrzlinu.
-Maestro gelatiere Luciano Ferrari začíná kurz popisem ideálních vlastností dokonalé zmrzliny.
-Klíčem jsou nejen dobrá chuť, ale hedvábná měkkost a dobrá textura.
-Trénink kurzu, Luciano nezapomíná zmínit skutečnou polevu na dortu pro národní a důkladně jižní monolit. "Italská zmrzlina je prostě nejlepší - potom je to všechno jen romantika."
+Ale pro každého, kdo chce vědět více o zmrzlině, je "Gelato University" italské společnosti Carpigiani nutností.
+Zmrzlinářská univerzita byla vytvořena výrobcem zmrzliny v roce 2003, aby zajistila, že zmrzlina od všech jejích výrobců splňuje náročné italské standardy.
+Třídenní nadační kurz pro budoucí "gelatieri" je největším kurzem a vítá návštěvníky z celého světa.
+K dispozici jsou také specializované kurzy po dobu několika dní pokrývající čokoládovou zmrzlinu a stáže ve vlastním zmrzlinovém salonu společnosti.
+Mnozí sní o nové kariéře, aby unikli krizi středního věku; jiní přicházejí otestovat své vágní aspirace proti chladným faktům.
+Tentokrát je 40 účastníků z 19 zemí a všech kontinentů - od Brazílie a Maďarska po Saúdskou Arábii.
+Jacky, učitel umění z Kalifornie, miluje pomalé hnutí potravních potravinách a chce nabídnout vysoce kvalitní evropský produkt v zemi zvyklé na průmyslovou zmrzlinu.
+Anke z Berlína je manažerská konzultantka a chce po letech ve vysoce stresující práci něco dělat sama.
+Dvě mladé egyptské dívky sní o otevření zmrzlinového salonu v Káhiře.
+Jeden muž z Malty a druhý z Brazílie chtějí zlepšit kvalitu zmrzliny ve svých barech - a kanadská hospodyňka Julia přišla, protože její děti milují italskou zmrzlinu.
+Maestro gelatie Luciano Ferrari začíná kurz popisem ideálních vlastností dokonalé zmrzliny.
+Klíčová jsou nejen dobrá chuť, ale hedvábná měkkost a dobrá textura.
+Luciano nezapomíná zmínit skutečnou třešničku na dortu pro národní a důkladně jižní monolit. "Italské gelato je prostě nejlepší - potom je to všechno jen romantika."
 První krok výroby se zdá být velmi snadný.
-Luciano nalije základní přísady - mléko, smetanu, sušené mléko, cukr a stabilizátory - do velkého mixéru, který zahřívá směs na 85 stupňů na elektronický program a pak ji okamžitě ochladí na čtyři stupně.
-Pak zapne kohoutek na stroj a vyjde pasterizovaná, základní bílá zmrzlina, základní pro všechny mléčné zmrzliny.
-Lektor je okamžitě zahlcen otázkami. Můžete vyrobit zmrzlinu s přírodními složkami pouze bez stabilizátorů?
+Luciano nalévá základní ingredience - mléko, smetanu, sušené mléko, cukr a stabilizátory - do velkého mixéru, který směs zahřívá na 85 stupňů na elektronickém programu a pak ji okamžitě ochladí na čtyři stupně.
+Pak otočí kohoutek na stroj a ven vyjde pasterizovaná, základní bílá zmrzlina, základní pro všechny zmrzliny na bázi mléka.
+Lektor je okamžitě přemožen otázkami. Můžete vyrobit zmrzlinu pomocí přírodních ingrediencí pouze bez stabilizátorů?
 Jak můžete experimentovat svobodně sami?
-Luciano varuje před tím, aby vás duch doby svedl na scestí.
-Každý, kdo mluví o výrobě zmrzliny "pouze z přírodních ingrediencí" pravděpodobně použil stabilizátory tak jako tak - ve většině případů přírodní produkt, jako je guar guma z guar fazolí.
-Samozřejmě, že můžete vyrobit zmrzlinu bez stabilizátorů, ale pak ji musíte prodat do jednoho dne, protože jinak se zhroutí a váš zákazník skončí s lízáním hrudek ledu.
-Některé varianty základny jsou povoleny.
-Je to více vzrušující s chutěmi.
-Pro ovocné látky na zmrzlině Matestro Luciano rozlišuje mezi ingrediencemi, které si koupíte v sekci ovoce, a v sladké části supermarketu.
-K dispozici jsou i prášky a pasty.
-"Všichni dodavatelé se vás budou snažit přimět, abyste si koupili desítky ochucených přísad.
-Ale měl bys prostě experimentovat.“
-Buď s ovocnými sobety pomocí cukru a čerstvého ovoce,
-nebo s bílou zmrzlinovou základnou, která může být přeměněna na žlutou smetanou pomocí vajec nebo může být smíchána s kakaovým práškem, aby se vytvořil základ všech druhů svůdné čokolády.
-Konečně účastníci kurzu jsou povoleny na zmrzlinář.
-Luciano umožňuje každému z nich vytvořit čtyři různé druhy vanilky, čokolády, mocha a lískové zmrzliny - s nebo bez vajec v základu a s více či méně vanilkovou příchutí nebo jinými přírodními složkami.
-Experiment se opakuje s rozsahem ovocných sobtů.
-Více aromat, více ovoce pyré - nemusí nutně zlepšit chuť.
-Lísková zmrzlina nemusí nutně chutnat více ořechů, když obsahuje více lískových ořechů.
-Tým, který vyrábí nejoblíbenější kiwi zmrzlinu, spotřebuje více ovoce, méně vody a o něco méně stabilizátoru.
-Chuť zmrzliny skutečně vyniká pouze tehdy, pokud je směs vyvážená, říká Luciano.
-Výroba zmrzliny je otázka aritmetiky. Pokud se používá sladká broskvová pyré, musí být snížen podíl cukru v základním receptu.
-Pro citronovou zmrzlinu je zapotřebí další porce cukru.
-Luciano přináší zařízení, které mu ukazuje obsah cukru v typech ovoce (vinters ho používají k měření hustoty hroznových musí pomocí stupnice Oechsle).
-Naštěstí tabulky usnadňují výpočty.
+Luciano varuje před tím, aby vás duch věku vedl.
+Každý, kdo mluví o výrobě zmrzliny "pouze s použitím přírodních složek", pravděpodobně stejně použil stabilizátory - ve většině případů přírodní produkt, jako je guarová žvýkačka z guar fazolí.
+Samozřejmě můžete vyrobit zmrzlinu bez stabilizátorů, ale pak ji budete muset prodat během jednoho dne, protože jinak se zhroutí a váš zákazník skončí s lízáním hrudek ledu.
+Některé varianty na základnu jsou povoleny.
+Je to stále více vzrušující s příchutěmi.
+Pro zmrzlinové aroma, Maestro Luciano rozlišuje mezi přísadami, které si koupíte v sekci ovoce, a ve sladké části supermarketu.
+Nechybí ani prášky a pasty.
+"Všichni dodavatelé se vás budou snažit přimět vás, abyste si koupili desítky ochucených přísad.
+Ale měl bys prostě experimentovat."
+Buď s ovocnými sorbety s použitím cukru a čerstvého ovoce,
+nebo s bílým zmrzlinovým základem, který může být přeměněn na žlutou smetanou pomocí vajec nebo může být smíchán s kakaovým práškem, aby se vytvořil základ všech druhů svůdné čokolády.
+Konečně je na kurz, kdy jsou účastníci povoleni na výrobce zmrzliny.
+Luciano umožňuje každému z nich vyrobit čtyři různé druhy vanilky, čokolády, modávy a lískových ořechových zmrzlin - s nebo bez vajec v základně a s více či méně vanilkovou příchutí nebo jinými přírodními složkami.
+Experiment se opakuje s rozsahem ovocných sorbet.
+Více aromat, více ovocných pyré - nemusí být nutně zlepšení chuti.
+Zrobenka lískových ořechů nemusí nutně chutnat více ořech, když obsahuje více lískových oříšků.
+Tým, který produkuje nejoblíbenější zmrzlinu kiwi, spotřebuje více ovoce, méně vody a o něco méně stabilizátoru.
+Chuť gelata skutečně vyniká pouze tehdy, pokud je směs vyvážená, říká Luciano.
+Výroba zmrzliny je otázkou aritmetiky. Pokud se používá sladké broskvové pyré, musí se podíl cukru v základním receptu snížit.
+Další porce cukru je potřeba pro citronovou zmrzlinu.
+Luciano přináší zařízení, které mu ukazuje obsah cukru v typech ovoce (vintners ho používají k měření hustoty hroznového musí použít stupnici Oechsle).
+tabulky naštěstí výpočty usnadňují.
 Výroba zmrzliny nevyžaduje tolik fyzické aktivity jako kdysi.
 Není to jen stroj, který vytváří základnu.
-K dispozici je také zařízení, které porazí hotovou zmrzlinovou směs na krémovou konzistenci a zároveň ji ochlazuje na negativní teploty.
-Ale i přes veškerou automatizaci, stále dochází k menším nehodám.
-Brazilský Gustavo se zakrývá a jeho spoluchodi se z hlavy až k patě s ovocem purée, když ztrácí kontrolu nad nadrozměrným ručním mixérem.
-"V každém kurzu," říká Maestro Luciano, "je jen otázkou času, než se něco takového stane."
-Inspektoři v soumraku
-Existují obvinění, že Evropský úřad pro bezpečnost potravin (EFSA) byl infiltrován geneticky modifikovaným plodinářským průmyslem.
-Zkušební centrum odborných znalostí, které se považuje za nezávislý institut pro hodnocení dopadu biotechnologií, vzneslo obvinění.
-"Zní to jako konspirační teorie, ale máme dobré dokumentární důkazy," řekl ve středu šéf Testbiotech Christoph Then v Mnichově.
-Harry Kuiper, předseda odborného panelu EFSA odpovědný za hodnocení rizik geneticky upravených rostlin a další odborník na EFSA, také předpokládá, že spolupracuje s lobbistickou skupinou ILSI po celá léta.
-ILSI dostává finanční prostředky od společností jako Monsanto, Nestlé a Bayer.
-Kuiper hrál ústřední roli při vývoji testovacích specifikací EFSA pro GM závody, a proto má jasný střet zájmů, říká pak.
-V místech, předpisy úřadu EFSA jsou totožné s pozice papíry vytvořené ILSI, a proto jsou psány samotným průmyslem, že orgán se sídlem v italském městě Parma by měl být ovládán, tvrdí pak,
-Poukazuje na to, že je to podruhé, co Testbiotech kritizoval střet zájmů.
-Vysoce postavený manažer EFSA se nedávno přestěhoval do švýcarské agrobyznysové společnosti Syngenta bez jakýchkoli omezení nebo přechodného období, které bylo uloženo, a nyní je na druhé straně linky.
-MDR Radio také nedávno odhalilo osobní vazby mezi orgánem dohledu EU a průmyslovou lobby, která upoutala pozornost Agentury pro životní prostředí a poslanců EU.
+K dispozici je také zařízení, které porazí hotovou zmrzlinu na krémovou konzistenci a zároveň ji ochlazuje na negativní teploty.
+Ale navzdory veškeré automatizaci stále dochází k menším nehodám.
+Brazilský Gustavo pokrývá sebe a své kamarády od hlavy až k patě s ovocným pyré, když ztrácí kontrolu nad nadměrným ručním mixérem.
+"V každém kurzu," říká Maestro Luciano, "je to jen otázka času, než se něco takového stane."
+Inspektoři soumraku
+Existují tvrzení, že Evropský úřad pro bezpečnost potravin (EFSA) byl infiltrován geneticky modifikovaným podnikem plodin.
+Odborné centrum Testbiotech, které se považuje za nezávislý institut pro hodnocení dopadu biotechnologií, obvinění vzneslo.
+"Zní to jako konspirační teorie, ale máme dobré dokumentární důkazy," řekl šéf společnosti Testbiotech Christoph Then ve středu v Mnichově.
+Harry Kuiper, předseda expertní panelu EFSA odpovědný za hodnocení rizik geneticky upravených rostlin a další expert EFSA, také se věří, že léta spolupracuje s lobbistickou skupinou ILSI.
+ILSI získává finanční prostředky od korporací, jako jsou Monsanto, Nestlé a Bayer.
+Kuiper měl ústřední roli při vývoji testovacích specifikací EFSA pro GM elektrárny, a proto má jasný střet zájmů, říká Then.
+V některých případech jsou předpisy EFSA totožné s pozičními dokumenty vyráběnými ILSI, a proto jsou psány samotným průmyslem, že orgán se sídlem v italském městě Parma by měl být ovládán, tvrdí Pak,
+S poukazem na to, že je to již podruhé, co Testbiotech kritizuje střet zájmů.
+Vysoce postavený manažer EFSA se nedávno přestěhoval do švýcarské agropodnikatelské společnosti Syngenta bez omezení nebo přechodného období a nyní je na druhé straně linky.
+Rádia MDR také nedávno odhalila osobní spojení mezi orgánem EU v oblasti dohledu a průmyslovou lobby, která upoutala pozornost Agentury pro životní prostředí a poslanců EU.
 EFSA však nevidí žádný střet zájmů.
-Ve svém prohlášení EFSA uvedl, že všechny významné údaje byly zváženy, včetně údajů z průmyslu, pokud by takové údaje byly vysoce profesionální kvality.
-Kromě toho EFSA uvedl, že nemá žádný požadavek, aby se jeho panely vyhnuly veškerému kontaktu s průmyslem.
-Nicméně, všichni členové úřadu EFSA musí takový kontakt zveřejnit.
-Kuiper připouští, že pracuje pro Mezinárodní institut pro biologickou vědu (ILSI) v USA.
-Institut sám sebe popisuje jako neutrální fórum pro odborníky z vědy, průmyslu a politiky, aby posoudili rizika v oblasti biotechnologií a dalších oblastí - bez lobbistického mandátu.
-V této oblasti nezávislí odborníci, jako je pak, vyjadřují kritiku, že geneticky modifikované rostliny jsou v současné době schváleny pro zvířata bez krmení pokusů a že reakce geneticky modifikovaných rostlin na vlivy životního prostředí se nevyšetřuje.
-"Například chceme vědět, co geneticky modifikovaná kukuřice dělá na polích," říká pak.
-Současná praxe je pouze testování izolovaných proteinů, ale ne celé geneticky modifikované rostliny, což neposkytuje spolehlivé výsledky.
-"Pokud nehledáte rizika, jak je máte najít?" ptá se pak.
-Angelika Hilbecková se podělila o svůj názor.
-Vědec provádí výzkum GM technologie od roku 1994 a v současné době pracuje v ETH v Curychu.
-Průmysl se stále více snaží ovlivnit nebo diskreditovat otevřeně kritické vědce v této oblasti v Evropě, stejně jako v USA, říká Hilbeck.
-Neexistují téměř žádní výzkumní pracovníci bez vazeb na korporace, věří,
-a studie kritizující společnosti nejsou běžně publikovány.
+EFSA ve svém prohlášení uvedl, že byly zvažovány všechny významné údaje, včetně údajů z průmyslu, pokud by takové údaje byly vysoké profesionální kvality.
+EFSA navíc uvedla, že nemá žádný požadavek, aby se její panely vyhnuly veškerému kontaktu s průmyslem.
+Všichni členové EFSA však musí jakýkoli takový kontakt zveřejnit.
+Kuiper přiznává, že pracuje pro Mezinárodní institut biologických věd (ILSI) v USA.
+Institut se označuje za neutrální fórum pro odborníky z vědy, průmyslu a politiky, aby posoudili rizika kolem biotechnologií a dalších oblastí - bez lobbistického mandátu.
+V této oblasti nezávislí odborníci, jako je Then, vyjadřují kritiku, že geneticky modifikované rostliny jsou v současné době schváleny pro zvířata bez krmných pokusů a že se nevyšetřuje reakce geneticky modifikovaných rostlin na vlivy životního prostředí.
+"Například chceme vědět, co dělá geneticky modifikovaná kukuřice na polích," říká pak.
+Současná praxe je pouze testovat izolované proteiny, ale ne celou GM rostlinu, která neposkytuje spolehlivé výsledky.
+"Když nehledáte rizika, jak je máte najít?" ptá se pak.
+Angelika Hilbeck sdílí svůj názor.
+Vědec provádí výzkum GM technologií od roku 1994 a v současné době pracuje v ETH Zurich.
+Průmysl se stále více snaží ovlivňovat nebo zdiskreditovat otevřeně kritické vědce v této oblasti v Evropě, stejně jako v USA, říká Hilbeck.
+Nedomnívá se, že téměř žádné výzkumníky nezůstali bez vazeb na korporace,
+a studie kritizující firmy nejsou běžně publikovány.
 "Odvětví kontroluje bezpečnostní výzkum," říká Hilbeck.
 Stopa kamenů
-Uli Gsell se ujal některých - celkem kolem 400 kilogramů.
-V pondělí večer stál před vlakovým nádražím ve Stuttgartu, jeho tuba na zádech.
-Byla tam demonstrace.
-Sněžilo.
-Tahleba je známá. V září dorazili rytapy a začaly rozbíjet velkou část severního křídla.
-Stuttgart to ale nebyl stejný. Tisíce a tisíce lidí demonstrovaly proti S21, multimiliardovému propadu vlakového nádraží v eurech.
-V době, kdy byla práce pozastavena, byla velká část křídla suťována.
-Rozbít na 6000 nebo 7000 kusů.
-Crailsheim shell vápenec, drobivý hrubý kámen, rýsovaný mezi 1914 a 1920.
-Třiačtyřicetiletý Gsell je sochařem v Ostfildernu.
+Uli Gsell má nějaké - celkem kolem 400 kilo.
+V pondělí večer stál před stuttgartským vlakovým nádražím, na zádech si stál v tubě.
+Byla tam ukázka.
+Bylo to sněžení.
+Příběh je známý. V září dorazily bagry a začaly rozbíjet velkou část severního křídla.
+Stuttgart nebyl stejný. Tisíce a tisíce lidí demonstrovaly proti S21, mnohamiliardovému potopení vlakového nádraží v eurech.
+V době, kdy byla práce pozastavena, byla velká část křídla sutinami.
+Zlomený na 6000 nebo 7000 kusů.
+Crailsheimův vápenec, drobivý hrubý kámen, se vylomen v letech 1914 až 1920.
+43-rok-starý Gsell je sochař v Ostfildernu.
 Dostal pár kousků.
-"Tyto kameny jsou relikvie."
-"Nezmizí."
-Hájí: "Pěkný a chudý kámen, jednoduchý a zemitý."
-Když vyřízl jeden, smrdí cigaretovými výpary.
-Stále neví, co bude dělat s kusy kamenů.
+"Tyhle kameny jsou relikvie."
+"Nezmizí se."
+Zuří: "Lůjvný a ubohý kámen, jednoduchý a zemitý."
+Když jeden vyřízl, smrděl cigaretové výpary.
+Stále neví, co udělá s kameny.
 Kameny mají spoustu času.
 Stejně jako Uli Gsell.
-Stopa Stuttgartských kamenů vede do lesa v Tübingenu a bývalé francouzské muniční skladiště, kde Manuel Rongen vytvořil svůj vlastní kamenný svět.
-Čtyřiačtyřicetiletý muž obchoduje se starými kameny.
-Koupil si každý kámen z demolice ve Stuttgartu.
-"Byl by to trestným činem, kdyby byli rozloženi na štěrk nebo zmizeli na skládku," říká ve své kanceláři, malé dřevěné chatrci, která byla kdysi hlídkou.
-Lidé mu uráželi a vyhrožovali, vzpomíná, když noviny v září oznámily, že koupil ostatky severního křídla od dodavatele demolice.
-Mluvil s odpůrci vývojového projektu Stuttgart 21 pro dny na konci.
-Vysvětlil, že s demolicí nemůže nic dělat.
-A pokud by se to mělo stát, pak nejrozumnější bylo, že kameny byly znovu použity pro jiné účely.
-V reakci na to si asi 200 Stuttgart 21 soupeřů vzalo blok s sebou, každý váží v průměru 80 kilogramů a stojí 6,50 až 14 eur.
-Někteří jako upovídač, ale jiní v naději, že budou schopni vrátit bloky, pokud bude budova obnovena.
-Rongen koupil 500 tun - což odpovídá 25 nákladním vozovým parkům.
-V lese je uložena asi polovina, zbytek je už dávno prodán.
-Zahradníci, krajinářští zahradníci a majitelé domů.
-Přijeli odevšad a odnesli vše, co mohli v botách a přívěsech odnést.
-Stuttgartské kameny skandálu jsou již dávno přeměněny na zdi nebo hranice pro bylinné zahrady.
+Stezka stuttutských kamenů vede k lesu v Tübingenu a bývalému francouzskému muničnímu skladu, kde Manuel Rongen vytvořil svůj vlastní kámen.
+44 letý mladík obchoduje se starými kameny.
+Koupil každý kámen z demolice ve Stuttgartu.
+"Byl by to zločin, kdyby byli rozemazení do štěrku nebo zmizeli na skládce," říká ve své kanceláři, malé dřevěné chatrči, která byla kdysi strážní schránkou.
+Lidé ho uráželi a vyhrožovali mu, vzpomíná, když noviny v září informovaly, že si od dodavatele demolice koupil pozůstatky severního křídla.
+S odpůrci developerského projektu Stuttgartu 21 mluvil celé dny.
+Vysvětlil, že s demolicí nemohl nic dělat.
+A pokud se to mělo stát, pak nejrozumnější bylo, že kameny byly znovu použity k jiným účelům.
+V reakci na to si s sebou vzalo blok kolem 200 stuttgartových 21 soupeřů, z nichž každý vážil v průměru 80 kilo a stál 6,50 až 14 Eur.
+Někteří jako památník, ale jiní v naději, že budou moci vrátit bloky, pokud bude budova přestavěna.
+Rongen nakoupil 500 tun - což odpovídá 25 nájezdům.
+V lese je uložena asi polovina, ale zbytek se prodal už dávno.
+Zahradníci, zahradníci a majitelé domů.
+Přicházeli odevšad a odnesli si vše, co mohli nosit v autosajáčích a přívěsech.
+Stuttgartské kameny skandálu se už dávno proměnily ve zdi, neboli hranice bylinkových zahrad.
 "Vlastně tento kámen není nic zvláštního," říká Rongen.
-"Kdyby to neměl politický význam."
-Vyleze do svého off-roaderu a dělá prohlídku své říše 20 hektarů.
-Studoval právo, ale přešel k biologii, pak se začal zajímat o počítače a nakonec se stal obchodníkem s kamením.
+"Pokud to nemělo politický význam."
+Vleze do svého off-roadu a dělá prohlídku své říše 20 hektarů.
+Studoval práva, ale přešel na biologii, pak se začal zajímat o počítače a nakonec se stal obchodníkem s kameny.
 A kamenný nadšenec.
-Uchovává 40 000 tun kamene.
-Svůj poklad převážel z celého Německa.
-A tvrdí, že je největším prodejcem použitých kamenů v zemi.
-Brzdí.
-Dovedně vyřezávané pískovcové kameny leží ve sněhu.
-"Bývali součástí Dresdenovy Marienbrücke," říká.
-Labský pískovec, žlutá a teplá, říká.
+Ukládá 40.000 tun kamene.
+Popisuje svůj poklad z celého Německa.
+A tvrdí, že je největším prodejcem použitého kamení v zemi.
+On brzdí.
+Uměle vyřezané pískovce leží ve sněhu.
+"Byly součástí drážďanské Marienbrücke," říká.
+Labský pískovec, žlutý a teplý, říká.
 "Můj oblíbený kámen."
-Trasa pak pokračuje směrem nahoru přes lesy.
-Poukazuje na hromadu: červený pískovec, dříve součást vlakového nádraží Karlsruhe.
+Trasa pak pokračuje vzhůru lesem.
+Ukazuje na hromadu: červený pískovec, dříve součást vlakového nádraží Karlsruhe.
 A ještě víc.
-"Krásná travertin."
-Bloky kdysi patřily k tribunám stadionu Neckar ve Stuttgaru.
-Sníh je plný kamenů a příběhů - Stuttgartova travertin z policejního ředitelství ve Stutgartu, červená žula z Dom St. Blasius, Tuff z nemocnice Heilbrunn.
+"Krásný travertin."
+Bloky kdysi patřily na tribuny stuttágrutského stadionu Neckar.
+Sníh je plný kamenů a příběhů - stutgartský travertin ze stuttgartského policejního ředitelství, červená žula z Dom St. Blasius, tflík z nemocnice Heilbrunn.
 Tolik práce, tolik úsilí, tolik potu.
-Když si Rongen myslí o tom, jak byly kameny vyřezány ručně a pohybovaly se jednoduše kladkami a okrskem, cítí velký pocit úcty.
-"Byl by to skandál, když to všechno roztrháš."
-Nezbohatl, ale našel nějaké neocenitelné kameny.
-Kamerník v současné době zaměstnává 14 lidí a zednáze, sochaři, kovář, skleněný dmychadlo a v lese také zřídili horkultiva.
-"Pracujeme tvrdě, ale je to uspokojující," říká prodejce použitých kamenů.
+Když Rongen přemýšlí o tom, jak se kameny vyřezávaly ručně a pohybovaly se pouhými šťouchovými a ok-kartami, cítí velký pocit úcty.
+"Byl by to skandál, to všechno roztrhat."
+Nezbohatl se, ale našel nějaké neocenitelné kameny.
+Obchodník s kameny v současné době zaměstnává v lese také 14 lidí a zedníků, sochaře, kováře, skleněný dmychadlo a zahradničce.
+"Pracujeme tvrdě, ale je to uspokojující," říká dealer použitého kamene.
 Brzy musí do Kolína nad Rýnem.
-Tam jsou kameny, které je třeba zachránit tam také.
+Tam je třeba také zachránit kameny.
 Talentová válka pro absolventy s potenciálem
 V bufetu je spěch.
-16 studentů strká cestu k lososovým rohlíkům, rajčatové polévce a poušti.
-Technická univerzita v Braunschweigu a výrobce automobilů Volkswagen pozvali na dílnu studenty strojírenství a designu.
-Jdou mluvit obchod na autě budoucnosti s vývojáři VW v jakési myšlenkové soutěži - a mimochodem, dozvědět se více o Volkswagenu.
-Mnoho společností je již zapojeno do boje zblízka v soutěži o nejchytřejší mozky a spoléhají na spolupráci s univerzitami, stejně jako VW.
-Jejich posláním je rekrutovat nejtalentovanější absolventy co nejdříve v přednáškovém sále - předtím, než přijdou na trh práce a jsou dvořeny kýmkoli jiným.
-A protože univerzity neposkytují rozpis výkonnosti studentů, společnosti hledají a doufají, že přilákají výjimečné talenty v praktických projektech.
-Druhý den workshopu na Technické univerzitě v Braunschweigu je výrobce automobilů venku, aby nalákal talent.
-Mladá žena z lidských zdrojů distribuuje kuličková pera, gumové medvídky a složky nesoucí logo VW.
-Vypráví mladým nadějím o stážích a studentských pracovních místech a vysvětluje různé cesty do společnosti.
-Nico Selle z Technické univerzity v Braunschweigu řídí projekt s VW.
+16 studentů se vrhá na lososové rohlíky, rajčatovou polévku a poušť.
+Technická univerzita v Braunschweigu a výrobce automobilů Volkswagen pozvali studenty strojírenství a designu na dílnu.
+S vývojáři VW se v jakési soutěži o nápadech - a mimochodem se dozvídají více o Volkswagenu.
+Mnoho společností se již zabývá bojem zblízka v soutěži o nejchytřejší mysli a spoléhají na spolupráci s univerzitami, stejně jako VW.
+Jejich posláním: nabírat nejtalentovanější absolventy co nejdříve v přednáškovém sále - předtím, než se přijdou na trh práce a budou se jim dvořit komukoli jinému.
+A protože univerzity neposkytují rozpis studentské výkonnosti, firmy hledají a doufají, že přilákají výjimečné talenty v praktických projektech.
+Druhý den workshopu na Technické univerzitě v Braunschweigu se automobilka snaží získat talent.
+Mladá žena z lidských zdrojů distribuuje kuličková pera, gumové medvědy a složky s logem VW.
+Vypráví mladé naděje o stážích a studentských zaměstnáních a vysvětluje různé cesty do společnosti.
+Nico Selle z Technické univerzity v Braunschweigu projekt řídí s VW.
 Vidí výhody pro obě strany. "Studenti se dostanou do kontaktu s průmyslem a získají nějaké zkušenosti."
-"VW může poznat studenty a zároveň se blíže podívat na zajímavé kandidáty a přemýšlet o tom, kteří z nich jsou jejich potenciální zaměstnanci."
-Taková spolupráce, myslí si Sells, není neobvyklá.
-Novinkou je, že studenti jsou nabízeni tak agresivně.
-"Zaměření bývalo na projekty specifické pro specializaci," říká Selle.
-Boj o nejnovější várku absolventů je nastaven na mnohem těžší.
-V mnoha odvětvích již společnosti nemohou identifikovat své zaměstnance z pokladen žadatelů.
-Opravdu se musí prodat, aby získali vysoce kvalifikované absolventy.
-Absolventi ve strojovně se nacházejí obzvláště dobře umístěni pro vyjednávání.
-Podle Asociace německých inženýrů (VDI) bylo v říjnu neobsazeno více než 40 000 inženýrských pracovních míst.
+"VW může poznat studenty, zatímco se blíže podívá na zajímavé kandidáty a přemýšlí o tom, kteří z nich jsou jejich potenciální zaměstnanci."
+Taková spolupráce, myslí Sells, není ničím neobvyklým.
+Novinkou je, že studenti jsou tak agresivně vychvalováni.
+"Dříve se soustředili na projekty specifické pro specializaci," říká Selle.
+Boj o nejnovější várku absolventů bude mnohem těžší.
+V mnoha odvětvích již firmy nemohou identifikovat své zaměstnance z hromad žadatelů.
+Opravdu se musí prodat, aby vyhráli nad vysoce kvalifikovanými absolventy.
+Absolventi inženýrství se ocitají obzvláště dobře připraveni k jednání.
+Podle Sdružení německých inženýrů (VDI) bylo v říjnu neobsazeno více než 40.000 inženýrských pracovních míst.
 A nedostatek inženýrů se podle VDI zhorší.
-Roman Dykta hledá talenty pro KPMG, auditorskou, daňovou a poradenskou firmu.
-Organizuje bohaté náborové akce, jako je závod KPMG, druh moderního lovu mrchožroutů, kde účastníci musí najít svou trasu pomocí GPS souřadnic.
-Společnost chce příští rok poslat osm slibných studentů přímo po celých Spojených státech.
-A docela náhodou, účastníci uvidí pobočky KPMG a poznejte společnost.
-Kdo může jít, je rozhodnuto ve dvou předběžných výběrových kolech.
-Pouze crème de la crème z mnoha žadatelů poletí do USA.
-Uprostřed všech válečných výkřiků kolem absolventů vysokých škol s potenciálem, výstřely z pušky od některých společností jsou stále hlasitější a hlasitější, říká Dykta.
-"S tímto závodem se chceme vymanit z davu."
-"Jeden výlet nám nestačil."
-Pro lovec talentů Dykta, shrnutí sečte.
+Roman Dykta je na lovu talentů pro KPMG, auditorskou, daňovou a poradenskou společnost.
+Organizuje bohaté náborové akce, jako je závod KPMG, jakýsi moderní hon na mrchožrouty, kde účastníci musí najít svou trasu pomocí GPS souřadnic.
+Společnost chce příští rok vyslat osm nadějných studentů přímo po celých USA.
+A docela mimochodem, účastníci uvidí pobočky KPMG a pozná společnost.
+O kom se chystá, je rozhodnuto ve dvou předprodejních kolech.
+Do USA poletí pouze crème de la crème mnoha žadatelů.
+Uprostřed všech válek kolem absolventů vysokých škol s potenciálem jsou výstřely z některých společností stále hlasitější a hlasitější, říká Dykta.
+"S tímto závodem chceme vyniknout z davu."
+"Jen jeden výlet nám nestačil."
+Pro lovce talentů Dyktu se sumy sčítají.
 "Dodnes jsme zůstali v kontaktu se všemi účastníky podobné kampaně v loňském roce."
-"Někteří z nich se právě chystá absolvovat a očekávají, že se na nás brzy přihlásí," říká.
-Kromě přímého propagování na akademické půdě, malé a střední podniky jsou zejména stalking kandidáty na klasických kariérních veletrhů.
-"Snažíme se oslovit absolventy na veletrhech."
-"Například v Intersolaru," říká Sita Stübe, vedoucí lidských zdrojů u výrobce solárních technologií Solarworld.
-Společnost se sídlem v Bonnu zaměstnává v Německu přibližně 1500 lidí.
-Stübe si je dobře vědom problému přilákat mladé talenty.
+"Někteří z nich se jen chystají odmaturovat a očekávají, že se na nás brzy přihlásí," říká.
+Kromě přímého nabízení na akademické půdě, malé a střední podniky zejména pronásledují kandidáty na klasických kariérních veletrzích.
+"Snažíme se oslovit absolventy na veletrzích."
+"Například v Intersolar," říká Sitha Stübe, vedoucí lidských zdrojů u výrobce solárních technologií Solarworld.
+Společnost se sídlem v Bonnu zaměstnává v Německu kolem 1500 lidí.
+Stübe si je dobře vědom problému přilákání mladých talentů.
 V současné době je na webových stránkách společnosti 35 volných pracovních míst.
-"Je opravdu velmi těžké obsadit volné pozice."
-"Stálo to spoustu času a peněz," říká.
-Další cestou je kontakt přes univerzitní lektory.
+"Je opravdu velmi obtížné obsadit uvolněné pozice."
+"Náročte spoustu času a peněz," říká.
+Další cestou je kontakt prostřednictvím univerzitních lektorů.
 Solarworld spolupracuje s řadou univerzit, včetně Freibergovy univerzity.
-"Přednášející poukazují na to, že studenti mohou dělat stáže nebo psát své disertační práce s námi."
+"Listři poukazují na to, že studenti mohou dělat stáže nebo psát své disertační práce s námi."
 Drahé reklamní kampaně pro solární specialisty nejsou v plánu.
 Na druhou stranu se společnost snaží inzerovat svými dalšími výhodami, včetně uvolněné pracovní atmosféry, plochých hierarchií a přímočaré komunikace.
-"Velká korporace to nemůže často nabídnout," říká manažer lidských zdrojů Stübe.
-Peníze už nějakou dobu nejsou na trhu práce klíčovým faktorem.
-Flexibilní pracovní doba, péče o děti a dobré příležitosti k podpoře jsou také rozhodujícími faktory.
+"Velká korporace to nemůže často nabízet," říká manažer lidských zdrojů Stübe.
+Peníze nebyly na trhu práce už nějakou dobu klíčovým faktorem.
+Flexibilní pracovní doba, péče o děti a dobré možnosti propagace jsou také rozhodujícími faktory.
 Solarworld se umístil na 55. místě mezi 100 nejlepšími zaměstnavateli v Německu ve studii Great Place to Work Institute.
-Institut vydává každoroční ligovou tabulku německých zaměstnavatelů.
-Vyzvěme zaměstnance, jak jsou spokojeni se svou prací a pracovním prostředím a dívá se na obecné pracovní podmínky.
-Manažer lidských zdrojů Stübe doufá, že získá body u uchazečů o zaměstnání díky místu společnosti na seznamu.
+Institut zveřejňuje roční ligovou tabulku německých zaměstnavatelů.
+Ptá se zaměstnanců, jak jsou spokojeni se svým pracovním a pracovním prostředím a dívá se na všeobecné pracovní podmínky.
+Manažer lidských zdrojů Stübe doufá, že díky místu společnosti na seznamu získá body u uchazečů o zaměstnání.
 "Myslím, že žadatelé jsou silně ovlivněni externími hodnoceními jakéhokoli potenciálního zaměstnavatele," říká.
-Wolf Reiner Kriegler z Německé Employer Branding Academy je poradcem pro společnosti, které chtějí rozvíjet reputaci dobrého zaměstnavatele jako součást dlouhodobé strategie.
+Wolf Reiner Kriegler z německé akademie zaměstnavatelů Branding Academy je poradcem pro společnosti, které se snaží rozvíjet pověst dobrého zaměstnavatele v rámci dlouhodobé strategie.
 Doporučuje svým klientům, aby byli autentičtější.
-A to vlastně znamená vnitřní změny, říká Kriegler.
-"Nejlepší způsob, jak se stát atraktivním jako zaměstnavatel, je prostřednictvím svých vlastních zaměstnanců," říká.
-V průmyslovém žargonu to znamená Employer Branding mezi vašimi vlastními zaměstnanci.
+A to ve skutečnosti znamená vnitřní změny, říká Kriegler.
+"Nejlepší způsob, jak se jako zaměstnavatel zatraktivnit, je prostřednictvím vlastních zaměstnanců," říká.
+V průmyslovém žargonu to znamená Zaměstnavatel Branding mezi vašimi vlastními zaměstnanci.
 "Šťastní zaměstnanci jsou nejlepší velvyslanci."
-Pokud budete zacházet s vlastními studnami a oni se s firmou ztotožňují, pak vám najdou nové zaměstnance mezi svými přáteli a známými.
+Pokud se zacházíte se svou vlastní studnou a ztotožní se se společností, pak vás najdou nové zaměstnance mezi svými přáteli a známými.
 "Je to jako hrát v kapele," říká Kriegler.
-Obama zastavil nové ropné vrty
-V příštím roce se u pobřeží amerického spolkového státu Florida v Mexickém zálivu nedojde k žádnému novému vrtání.
-Vláda ve Washingtonu zveřejnila zákaz v tomto smyslu - čímž definitivně zrušila dřívější plány.
-Nové vrty jsou také zakázány u pobřeží Atlantiku pro bezprostřední budoucnost.
-Ministr vnitra Ken Salazar to oznámil ve středu.
-Exploze vrtné plošiny Deepwater Horizon v dubnu byla spouštěčem přísného zákazu, který má zůstat v platnosti nejméně dalších pět let.
-Před katastrofou, která si vyžádala jedenáct dělníků život a vedla k největší ekologické katastrofě v USA, prezident Barack Obama pod tlakem opozice a průmyslu signalizoval svou připravenost umožnit nové vrty ve východní části Mexického zálivu.
+Obama zastavil nové těžbu ropy
+V Mexickém zálivu v nadcházejícím roce nedojde k žádné nové vrty u pobřeží amerického federálního státu Florida.
+Vláda ve Washingtonu zveřejnila zákaz v tomto smyslu - tím definitivně zrušila dřívější plány.
+Nové vrty jsou také zakázány u pobřeží Atlantiku pro nejbližší budoucnost.
+Ministr vnitra Ken Salazar to ve středu oznámil.
+Exploze vrtné plošiny Deepwater Horizon v dubnu byla spouštěčem přísného zákazu, který má zůstat v platnosti nejméně příštích pět let.
+Před katastrofou, která stála jedenáct dělníků život a vedla k největší ekologické katastrofě v USA, prezident Barack Obama pod tlakem opozice a průmyslu dal najevo svou připravenost umožnit nové vrty ve východní oblasti Mexického zálivu.
 Advokáti doufali, že to sníží závislost USA na zahraničních dodávkách ropy.
-Kdo nese odpovědnost za ničivou únik ropy v Perském zálivu, stále nebylo o čemžto rozhodnuto.
+O tom, kdo ponese odpovědnost za ničivou ropnou skvrnu v Perském zálivu, stále nebylo přesvědčivě rozhodnuto.
 Britská energetická společnost BP je ohniskem kritiky a čelí nárokům na miliardy dolarů.
-Vyšetřovací komise zřízené prezidentem Obamou je připravena předložit svá zjištění v určitém okamžiku v prosinci.
-V říjnu ministr vnitra Ken Salazar zrušil zákaz vrtání uložený po explozi.
-V reakci na to různé ropné společnosti okamžitě podali žádost o nové vrtné projekty.
-Obama a Salazar chtějí vyloučit jakoukoli další katastrofu s přísnějšími kontrolami a přísnějšími bezpečnostními předpisy.
-Odpovědný kontrolní orgán, který upadl do špatné pověsti po četných obviněních z korupce, je rozsáhle reformován.
-Zároveň prezident oznámil, že budou zastaveny lukrativní daňové mezery pro ropné a plynárenské společnosti.
+Vyšetřovací komise zřízená prezidentem Obamou má v určitém okamžiku předložit svá zjištění v prosinci.
+V říjnu ministr vnitra Ken Salazar zrušil zákaz vrtů zavedený po výbuchu.
+V reakci na to různé ropné společnosti okamžitě předložily žádosti o nové vrtné projekty.
+Obama a Salazar chtějí vyloučit jakoukoli další katastrofu s tvrdšími kontrolami a přísnějšími bezpečnostními předpisy.
+Odpovědný kontrolní orgán, který po četných obviněních z korupce ustoupil, znechuceňuje, se rozsáhle reformuje.
+Prezident zároveň oznámil, že budou zastaveny lukrativní daňové mezery pro ropné a plynárenské společnosti.
 Průmysl veřejně varuje, že produkce v Perském zálivu bude výrazně nižší než v minulosti, pokud bude regulace tvrdší.
-"Vládní plány jsou největší brzdou růstu ropného a plynárenského průmyslu," je výsledek nedávného průmyslového průzkumu poradenské společnosti BDO - ještě předtím, než byl ve středu zaveden zákaz vrtání.
-Americká energetická aliance si také stěžuje na nejistotu, které průmysl čelí. "Nikdo přesně neví, co se to z hlediska regulace změní."
-Organizace se domnívá, že investice do nových projektů budou pozastaveny na dobu neurčitou - na úkor růstu.
-Ogoniland spálil
-Voda v řekách je hnědá a páchne jako čerpací stanice. Miliardy litrů uniklé ropy zničily přírodní prostředí Ogoniland v Nigérii.
-Lidé žijí z krádeže, korupce a vaření nelegálního oleje.
-Celestina Akpobariová vidí pozitivní stránku.
-"Nebojte se," řekl ekoaktivista novinářům. "Uvidíte spoustu oleje kalu, abyste dnes vyfotili."
-37letý Nigerijec se snažil vyfotografovat chlapce, jak se brodí k pasu ve vodě - a vodními pruhy kolem něj. V duhové vodě je scéna téměř krásná.
-Hnědé vaky surové ropy pod povrchem jsou neviditelné.
-Esther Badomová naplnila kbelíky krevetami na břehu řeky Bodo.
-Stagnující vody jsou zcela mrtvé.
-Před pěti lety bylo obrovské množství ropy zaplaveno z prasknutí ropovodu do obrovského mokřadu.
-Rybáři z nedalekého města Bodo nyní musí pádlovat šest hodin, aby se dostali k vodě obývané rybami. Ogoniland, v srdci delty Nigeru, je jednou z nejvíce kontaminovaných oblastí na světě.
-Na cestě přes mangrovové bažiny, křižované říčními chodidly, je plný rozsah devastace jasně vidět.
-Místo čisté vody motorový člun chrlí hnědou swill; pokud dáte ruku do vody, vynoří se potažený olejem.
-Kořeny mangrovových stromů vyčnívají ze země jako černé likérky. Podivná palma mezi mangrovy visí svůj pohledem na lišku sklíčeně.
-Hejna ptáků všudypřítomných v mokřadech nejsou nikde vidět. Jakmile příčný motor ztichne, nad bývalým rájem, který nyní smrdí nad bývalým rájem, který nyní smrdí jako čerpací stanice.
-"To, co se tu děje, je ekologická válka," říká Celestine Akpobariová, ponuré. "Žijeme s trvalým zdravotním rizikem."
-Srovnání s válkou je apposite.
-Oblast Ogoni je již desítky let soupeřícím bojištěm. Před více než 60 lety se do regionu dostali první průzkumníci z Evropy. V 80. letech byla kolem autora Kena Saro-Wiwy, který byl později popraven, zorganizovala první vlna odporu. Právě zde musela společnost Shell zastavit výrobu v roce 1993, protože byla pro své ropné pracovníky příliš nebezpečná.
-Dokonce i dnes je společnosti zakázáno se vrátit do Ogonilandu. Zatímco více než dva miliony barelů černého zlata jsou čerpány každý den z delta regionu jako celku - což je oblast třikrát větší než Švýcarsko s více než 5000 vrty a 7 000 kilometry potrubí - ropná pole v Ogoniland leží ladem, situace je pro ropnou společnost příliš nestabilní.
-Každých několik set metrů se z vody zvedají ocelové rámy jako bizarní sochy. Hlavy vrtíků jsou příliš láskyplně označovány jako "malé vánoční stromky".
+"Vládní plány jsou největší brzdou růstu ropného a plynárenského průmyslu," je výsledkem nedávného průmyslového průzkumu poradenské společnosti BDO - ještě předtím, než byl ve středu zaveden zákaz těžby.
+Americká energetická aliance si také stěžuje na nejistotu, které toto odvětví čelí. "Nikdo neví, co přesně se změní z hlediska regulace."
+Organizace se domnívá, že investice do nových projektů budou pozastaveny na neurčito - na úkor růstu.
+Ogoniland vyhořel
+Voda v řekách je ropa-hnědá a páchne jako čerpací stanice. Miliardy litrů uniklé ropy zničily přírodní prostředí Ogonilandu v Nigérii.
+Lidé žijí v oblasti krádeže, korupce a vaření nelegálního oleje.
+Celestine Akpobari vidí pozitivní stránku.
+"Nebojte se," říká ekoaktivista novinářům. "Dnes uvidíte spoustu ropných kalů k fotografování."
+37letý Nigerijec se snažil vyfotit chlapce, který se brodil až k pase ve vodě - a šňůry vody kolem něj. V duhově zbarvené vodě je scéna téměř krásná.
+Hnědé vlny surové ropy pod hladinou jsou neviditelné.
+Esther Badomová naplňovala kbelíky krevetami na břehu řeky Bodo.
+Nyní jsou stagnující vody zcela mrtvé.
+Před pěti lety vyplavilo obrovské množství surové ropy z prasklého ropovodu do rozlehlého mokřadu.
+Rybáři z nedalekého města Bodo nyní musí pádlovat šest hodin, aby se dostali k vodě osídlené rybami. Ogoniland, v srdci delty Nigeru, je jednou z nejvíce kontaminovaných oblastí na světě.
+Na cestě mangrovovými bažinami, křižovanými říčními chody, je plný rozsah devastace jasně vidět.
+Místo čisté vody motorový člun chrlí hnědou závěť; pokud vložíte ruku do vody, vyjde potažený v oleji.
+Kořeny mangrovových stromů trčí ze země jako černé lékořicové tyčinky. Zvláštní dlaň mezi mangrovy visí zpudovaně.
+Hejna ptáků všudypřítomná v mokřadech nejsou nikde k vidění. Jakmile vnější motor utichne, nad bývalým rájem, který nyní smrdí jako čerpací stanice, spadne ničivý klid.
+"To, co se tady děje, je ekologická válka," říká pochmurně Celestine Akpobari. "Žijeme s trvalým rizikem pro zdraví."
+Přirovnání k válce je vhodné.
+Oblast Ogoni je již desítky let sporným bitevním polem. Před více než 60 lety se do regionu vydali první průzkumníci z Evropy. V osmdesátých letech byla kolem autora Kena Saro-Wiwy, který byl později popraven, organizovaná první vlna odporu. Právě zde musela společnost Shell zastavit těžbu v roce 1993, protože byla pro její ropné dělníky příliš nebezpečná.
+I dnes má společnost zakázáno se vracet do Ogonilandu. Zatímco více než dva miliony barelů černého zlata jsou každý den čerpány z delta regionu jako celku - což je oblast třikrát větší než Švýcarsko s více než 5000 studnami a 7000 kilometry ropovodu - ropná pole v Ogonilandu leží na laně, což je příliš nestabilní pro ropnou společnost.
+Každých pár set metrů stoupají ocelové rámy z vody jako bizarní sochy. Hlavy vrtů jsou příliš láskyplně označovány jako "malé vánoční stromky".
 Tyto struktury mohou být až 50 let staré a většina z nich je vážně zkorodována.
-Jeden vrt vřed po dalším se rozpadá, říká Akpobari, pak neustálý proud surové ropy proudí do vody.
-Podle expertních odhadů více než dvě miliardy litrů do ekosystému delty za posledních 50 let. Meziročně je to stejné množství ropy, které spěchalo do moře u Aljašky, když se před 21 lety zhroutil supertanker Exxon Valdez - jedna z největších ekologických katastrof v lidské historii.
-Existuje spor o to, kdo by měl být zodpovědný za probíhající nejhorší scénář ekologické katastrofy.
-Zatímco společnost Shell říká, že sabotáž a organizovaná krádež ropy jsou zodpovědné za více než 90 procent kontaminace, ekologové se domnívají, že hlavní příčinou jsou prasknutí vrtných hlav a úniky potrubí.
-V roce 2008 americký akademik Richard Steiner obvinil Shell z uplatňování výrazně nižších bezpečnostních standardů v Nigérii než ve zbytku světa. Míra vah v samotných ropovodech byla „několikrát vyšší než jinde“.
-Lidské postavy se vynořují z mangrovových bažin, které z dálky vypadají opuštěně, na ropu pokryté vnějšími garážemi. Čísla jsou nahá a pokrytá na krku v oleji.
-Pod jedním z mnoha sudů - některé spojené s trubkami, jiné roztroušeny náhodně po zemi - je tam blikající oheň. Nelegální mini rafinérie.
-Michael, vůdce skupiny, vysvětluje, že ropa se zahřívá v sudu několik hodin.
-Nejprve je benzín odčerpán na sbírající pánev, pak petrolej kapačky ze konce trubice a nakonec nafta.
-Michael a čtyři asistenti produkují až čtyři 300litrové barely s naftou denně tímto způsobem. "Dostaneme za to 34 000 naira" - asi 22 dolarů.
-Obyvatelé delty využívají chronický nedostatek paliva ve svůj prospěch v největším surovém ropném státě subsaharské Afriky.
-Nigérie má jen jednu vlastní rafinérii.
-Nelegální kuchaři mohou stále podkopat absurdně nízké ceny nafty ve výši 40 centů za litr. Dostanou surovinu pro nic za nic.
-Materiál pochází od "bunkerů", kteří klepnou na plynovodní síť po celé Ogonilandu. Během celé delty Nigeru odborníci odhadují, že země tímto způsobem ztrácí nejméně 16 milionů litrů ropy denně.
-Nicméně, pouze malá část suroviny uložené bunkery pokračuje v nelegálně rafinované. Organizované zločinecké sítě s politiky a vysoce postavenými důstojníky mezi jejich řadami naplňují tankery lvím podílem a bičují je na globálním trhu.
-Aktivista Akpobari se domnívá, že debata o tom, zda je ekologická katastrofa výsledkem činnosti obyvatelstva nebo laxních standardů bezpečnosti výroby, je čistě akademická.
-"Kdyby ropné společnosti nebyly vnímány jako vetřelci a kdyby tak důkladně nezničily živobytí rybářů, neexistovala by žádná sabotáž, krádež nebo nelegální rafinerie."
-Akpobari vysvětluje, že vztah mezi Ogoni vůči společnosti Shell zejména byl zničen do takové míry, že pouze stažení ze strany společnosti je možností. "Možná, že ostatní národy, jako jsou Číňané, budou lepší volbou."
-Michael se změní na podrážděný.
-"Je čas, abys zmizel," říká svalnatý olejoman.
-"Vojáci by se mohli objevit každou chvíli."
-Pokud budou nelegální ropné rafinerie chyceny armádním jednotkou, pravděpodobně nebudou uvězněny, ale budou muset zaplatit vysoké úplatky.
-Zdá se, že vojáci, kteří pocházejí hlavně ze severu země, chtějí také profitovat z ropy, stejně jako všichni ostatní Nigerijci.
+Jeden vrt za druhým se rozpadne, říká Akpobari, pak do vody vtéká konstantní proud ropy.
+Podle odhadů expertů do ekosystému delty vlétly více než dvě miliardy litrů za 50 let. Rok od roku je to stejné množství ropy, které se řítilo do moře u Aljašky, když před 21 lety havaroval supertanker Exxon Valdez - jedna z největších ekologických katastrof v lidské historii.
+Existuje spor o to, kdo by měl nést odpovědnost za probíhající nejhorší scénář ekologické katastrofy.
+Zatímco společnost Shell říká, že sabotáže a organizovaná krádež ropy jsou zodpovědné za více než 90 procent kontaminace, ekologové se domnívají, že hlavní příčinou jsou prasklé vrtné hlavy a únikové roušky.
+V roce 2008 americký akademik Richard Steiner obvinil Shell z uplatňování výrazně nižších bezpečnostních standardů v Nigérii než ve zbytku světa. Míra závad v ropovodech byla "několikrát vyšší než jinde".
+Z mangrovových bažin se vynořují lidské postavy, které z dálky vypadají opuštěně, olejem pokryté před garážemi. Čísla jsou nahá a přikrytá na krku v oleji.
+Pod jednou z mnoha sudů - některé napojené na trubky, jiné roztroušené náhodně po zemi - je blikající oheň. Nelegální mini rafinerie.
+Michael, vůdce skupiny, vysvětluje, že ropa se v sudu na několik hodin zahřívá.
+Nejprve je benzín odčerpán na sběrnou pánev, pak petrolej kape z konce tuby a nakonec nafty.
+Michael a čtyři asistenti vyrábějí tímto způsobem až čtyři 300 litrové sudy nafty denně. "Dostaneme za to 34.000 naira" - asi 22 dolarů.
+Obyvatelé delty využívají chronický nedostatek paliva ve své výhodě v největším ropném státě subsaharské Afriky.
+Nigérie má jen jednu vlastní rafinerii.
+Nelegální kuchaři mohou stále podbízet absurdně nízké ceny nafty 40 eur ročně. Dostanou surovinu pro nic za nic.
+Materiál pochází od "bunkerů", kteří čerpají potrubní síť po celé Ogoniland. Během celé delty Nigeru odborníci odhadují, že země tímto způsobem ztrácí nejméně 16 milionů litrů ropy denně.
+Nicméně, jen nepatrná část suroviny uložené bunkery je stále rafinována nelegálně. Organizované zločinecké sítě s politiky a vysoce postavenými důstojníky v jejich řadách naplňují tankery lvím podílem a bičují ho na globálním trhu.
+Aktivista Akpobari se domnívá, že debata o tom, zda je ekologická katastrofa výsledkem činnosti obyvatelstva nebo laxních standardů pro bezpečnost výroby, je čistě akademická.
+"Kdyby ropné společnosti nebyly vnímány jako vetřelci a kdyby tak důkladně nezničily živobytí rybářů, nebyla by žádná sabotáž, krádež nebo nelegální rafinerie."
+Akpobari vysvětluje, že zejména vztah mezi Ogoni směrem k Shellu byl zničen do takové míry, že pouze stažení ze strany společnosti je možností. "Možná se ostatní národy, jako jsou Číňané, ukázaly jako lepší možnost."
+Michael se stává nervózním.
+"Je na čase, abys zmizel," říká svalnatý olejař.
+"Vojáci se mohou objevit každou chvíli."
+Pokud budou nelegální ropné rafinerie chyceny armádní pracovní skupinou, pravděpodobně nebudou uvězněny, ale budou muset platit tučné úplatky.
+Zdá se, že vojáci, kteří pocházejí hlavně ze severu země, chtějí také profitovat z ropy, jako všichni ostatní Nigerijci.
 "Tato zatracená věc přivedla naši zemi na dno ve všech směrech," říká Akpobari.
-Vyšetřovatelé odhalili nebezpečnou vadu v motorech A380
+Vyšetřovatelé odhalili nebezpečnou závadu v motorkách A380
 Zdá se, že A380 má velký bezpečnostní problém.
-Během vyšetření letadla po nouzovém přistání vyšetřovatelé objevili možnou závadu, která by mohla způsobit "katastrofální selhání motoru".
-Letecká společnost Qantas se nyní připravuje na to, aby se výrobce motorů dostal k soudu.
-Cestující společnosti Qantas Airbus, který byl nucen přistát na začátku listopadu, měli mnohem více štěstí, než si kdokoli uvědomil. Během svého vyšetřování australský úřad pro leteckou bezpečnost identifikoval vážný bezpečnostní problém v motorech některých letadel A380 - a nyní varuje před možnou závadou konstrukce.
-Údajná vada by měla vážné následky. V prohlášení zveřejněném ve čtvrtek australský úřad pro bezpečnost dopravy (ATSB) odhalil, že závada by mohla potenciálně způsobit únavové trhliny a úniky v souvislosti s ropnými hadicemi.
-To by mohlo vést k „katastrofickému selhání motoru“.
-20 různých letounů A380 s motory Rolls-Royce může být ovlivněno.
-Airbus Qantas, který byl 4. listopadu nucen přistát v Singapuru, byl jedním z těchto letadel.
+Během ošetřování letadla po nouzovém přistání vyšetřovatelé objevili možnou závadu, která by mohla způsobit "katastrofální poruchu motoru".
+Letecká společnost Qantas se nyní chystá vzít výrobce motorů k soudu.
+Zdá se, že pasažéři Qantas Airbusu, který byl nucen přistát na začátku listopadu, měli mnohem více štěstí, než si kdokoliv uvědomil. Australský úřad pro leteckou bezpečnost během svého vyšetřování identifikoval vážnou bezpečnostní problém v motorech některých letadel A380 - a nyní varuje před možnou konstrukční vadou.
+Údajná vada by měla vážné následky. V prohlášení zveřejněném ve čtvrtek Australský úřad pro bezpečnost dopravy (ATSB) odhalil, že závada by mohla potenciálně způsobit únavové praskliny a úniky v souvislosti s olejovou hadicí.
+To by mohlo vést k "katastrofálnímu selhání motoru".
+Může být ovlivněno 20 různých letounů A380 s motory Rolls-Royce.
+Airbus Qantas, který byl nucen přistát v Singapuru 4. listopadu, byl jedním z těchto letounů.
 Australská letecká společnost nyní podniká právní kroky proti britskému výrobci turbín.
-Podala žádost australskému federálnímu soudu v Sydney, který ponechává otevřená další potenciální právní opatření proti společnosti.
-Generální ředitel společnosti Qantas Alan Joyce uvedl, že jeho letecká společnost bude požadovat kompenzaci za incident, ke kterému došlo na začátku listopadu.
-Teplo motoru způsobilo, že se díly oddělily a poškodily křídla.
-Rolls-Royce se domnívá, že požár oleje způsobil škody.
-Po incidentu musí být nyní nahrazeno až 40 motorů po celém světě.
-Australští vyšetřovatelé oznámili, že budou provádět další bezpečnostní testy na superjumbos vybavených postiženými motory.
-Mluvčí ATSB Martin Dolan uvedl, že bezpečnostní doporučení bylo výsledkem spolupráce s Rolls-Royce.
+Podala žádost australskému federálnímu soudu v Sydney, který ponechává otevřené další potenciální právní opatření proti společnosti.
+Generální ředitel společnosti Qantas Alan Joyce uvedl, že jeho letecká společnost bude požadovat odškodnění za incident, ke kterému došlo na začátku listopadu.
+Teplo motoru způsobilo, že se části odpoutaly a poškodilo křídla.
+Rolls-Royce věří, že škody způsobil požár ropy.
+Po incidentu musí být nyní vyměněno až 40 motorů po celém světě.
+Australští vyšetřovatelé oznámili, že budou provádět další bezpečnostní testy na superjumbos vybavených dotčenými motory.
+Mluvčí ATSB Martin Dolan uvedl, že bezpečnostní doporučení bylo výsledkem spolupráce s Rolls-Roycem.
 Bezpečnostní problém byl považován za dostatečně závažný, aby byly všechny dotčené strany informovány.
-Po nuceném přistání letadla Qantas společnost na několik týdnů uzemnila svou flotilu A380.
+Po nuceném přistání letadla Qantasu aerolinky na týdny uzemnily svou flotilu A380.
 Singapore Airlines dočasně držely asi tři ze svých jedenácti A380 na zemi.
-Lufthansa vyměnila motor v jednom A380 jako preventivní opatření.
-Dvojitý decker je největším osobním letadlem na světě.
-Venkovní sněžení rozpoutá dopravní chaos
-Německo je v bílém. Po celé většině země došlo k nočnímu sněžení.
+Lufthansa vyměnil motor v jednom A380 z preventivních důvodů.
+Double-decker je největším osobním letadlem na světě.
+Celé celostátní sněžení rozpoutalo dopravní chaos
+Německo v bílém. Po celé zemi došlo k nočnímu sněžení.
 Na mnoha silnicích panuje chaos a vlaky a lety byly zrušeny.
-Při dopravních nehodách zemřeli nejméně tři lidé.
-Zimní mrazy v Německu. V mrazivých teplotách byla téměř celá země pokryta sněhem ve středu v noci - což způsobilo chaos v mnoha oblastech.
+Při autonehodách zemřeli nejméně tři lidé.
+Zima v Německu zamrzne. Při mrazivých teplotách byla ve středu v noci téměř celá země pokryta sněhem - což v mnoha oblastech způsobilo dopravní chaos.
 Na severu a východě země je v některých oblastech 15 centimetrů sněhu.
-Doprava je přísně omezena na mnoha dálnicích a silnicích.
-Sněhové ploutvy byly v nepřetržitém provozu na A7 ve Flensburgu, neschopné porazit neustálé sněhové drifty.
+Provoz je silně omezen na mnoha dálnicích a silnicích.
+Sněhové pluhy byly v nepřetržitém provozu na A7 ve Flensburgu, neschopné porazit neustálé sněhové závěje.
 Silný vítr byl zaznamenán i nad pobřežím Baltského moře.
-Federální námořní a vodíková agentura (BSH) očekává od rána přílivy bouře s hladinami vody 1,2 metru nad normálem na pobřeží Baltského pobřeží Schleswig-Holstein.
-V Sasku sněhové ploutve na dálnicích a A-silnicích způsobují vážné problémy.
-Podle meteorologické služby Meteomedia bylo Saxonské Švýcarsko uvedeno do červeného poplachu - nejvyšší úroveň poplachu.
-V některých částech regionu spadlo 30 centimetrů čerstvého sněhu a čerstvě silný vítr způsobil drifty.
-Během noci uvízla řada nákladních automobilů a automobilů.
-V Sasku-Anhaltsko policejní orgány také oznámily vážné narušení silnic.
-Sníh a vítr způsobily plazící se dopravu a dopravní zácpy na A2.
-V Durynsku byly A4 a A9 zasaženy sněhem.
-Podle Deutsche Bahn došlo k významným poruchám v Sasku, Sasku-Anhaltu, Durynsku a na severu Bavorska.
-Sníh na kolejích, spadlé stromy na kolejích a nadzemní dráty a nefungující body jsou hlavními problémy.
+Federální námořní a hydratační agentura (BSH) očekává od rána na pobřeží Baletského Šlesvicko-Holštýnu příliv příliv s přílivem vody o 1,2 metru nad normálem.
+V Sasku způsobují vážné problémy sněhové závěje na dálnicích a silnicích A.
+Podle meteorologické služby Meteomedia bylo saské Švýcarsko uvedeno do červené pohotovosti - nejvyšší stupeň poplachu.
+V některých částech regionu napadlo 30 centimetrů čerstvého sněhu a čerstvý silný vítr způsobil závěje.
+Během noci uvízlo několik nákladních automobilů a aut.
+V Sasku-Anhaltsku hlásily policejní orgány také vážné narušení na silnicích.
+Sníh a vítr způsobil plazící se dopravu a dopravní zácpy na A2.
+V Durytštině byly A4 a A9 postiženy sněhem.
+Podle Deutsche Bahn dochází k výrazným narušením v Sasku, Sasku-Anhaltsku, Durynsku a na severu Bavorska.
+Sníh na kolejích, spadlé stromy na kolejích a nadzemní dráty a nefunkční místa jsou hlavními problémy.
 V Sasku musely být zastaveny dálkové vlaky z Lipska do Norimberku.
-Vlak ICE do Mnichova byl nucen ukončit svou cestu v Saalfeldu v Durynsku.
-165 cestujícím bylo opatřeno vlněné přikrývky, jídlem a pitím hasičským a sanitním personálem.
-Sníh se přehnal přes silnice.
-Sníh a vítr způsobuje mnoho zrušení na hlavních německých letištích.
-V Mnichově mluvčí letového informačního centra oznámila, že již došlo k některým zrušením.
-Ve Frankfurtu nad Mohanem mluvčí společnosti Fraport uvedla, že 40 letů již bylo zrušeno.
-Sněhové ploutvy byly v permanentní operaci.
-Na letišti byl jen malý počet uvízlých cestujících a na nich bylo necelých 400 táborových lůžek, které je stále ubytovaly, řekla mluvčí.
-Nehody se již objevily na mnoha silnicích ve středu večer.
-Jeden řidič kamionu zemřel ve večerních hodinách při srážce s vlakem na úrovňovém přejezdu v Ostolsteinu.
+Vlak ICE do Mnichova byl nucen ukončit svou cestu v Saalfeldu ve městě Durynsko.
+165 pasažérům byly poskytnuty vlněné přikrývky, jídlo a pití hasiči a personál sanitky.
+Přes silnice se přehnal sníh.
+Sníh a vítr způsobuje četná zrušení na velkých německých letištích.
+Mluvčí letního informačního centra v Mnichově oznámila, že některá zrušení již byla provedena.
+Mluvčí společnosti Fraport ve Frankfurtu nad Mohanem uvedla, že 40 letů již bylo sekerou.
+Sněhové pluhy jsou v trvalém provozu.
+Na letišti byl jen malý počet uvízlých cestujících a stále bylo k dispozici jen necelých 400 táborových lůžek, které je ubytovaly, uvedla mluvčí.
+Nehody se již odehrály na mnoha silnicích do středečního večera.
+Jeden řidič nákladního automobilu zemřel večer při srážce s vlakem na přejezdu v Ostholštinu.
 Řidič vlaku utrpěl lehká zranění.
-Podobná nehoda se stala poblíž Norimberku na sněhem pokrytých silnicích. Náklaďák uvízl na úrovňovém přejezdu, když vozidlo uvízlo ve sněhu.
+Podobná nehoda se stala nedaleko Norimberku na zasněžených silnicích. Náklaďák uvízl na přejezdu, když vozidlo uvízlo ve sněhu.
 Řidič zemřel.
-Čtyři cestující ve vlaku byli zraněni - linka z Bayreuthu do Norimberku byla uzavřena do ranních hodin.
-Třicetiletá žena také zemřela poté, co se převrátila na černém ledu poblíž Aschaffenburgu.
-Existují však dobré zprávy od prognostiků. Ačkoli sníh bude i nadále volný a práškový způsobující sněhové vlny i v lehkých větrech,
-Vítr je nastaven na pokles.
-Pouze Baltské moře bude trpět silnými a bouřlivými větry.
-Na některých místech však zůstane velmi chladno - až na mínus 15 stupňů.
+Čtyři cestující ve vlaku byli zraněni - linka z Bayreuth do Norimberku byla uzavřena do ranních hodin.
+30letá žena také zemřela poté, co se převrátila na černém ledě u Aschaffenburgu.
+Od prognostiků však platí několik dobrých zpráv. I když sníh bude i nadále lehkovážný a pudink způsobující sněhové závěje i při slabém větru,
+Vítr má klesnout.
+Silným a bouřlivým větrem bude trpět pouze Baltské moře.
+Zůstane však velmi chladno - na některých místech až minus 15 stupňů.
 Deutsche Bank hledá kupce pro své dvojčata
-Deutsche Bank chce prodat svůj znak. Podle novinové zprávy banka hledá kupce pro obě kancelářské výškové budovy ve svém frankfurtském ústředí.
-Nemovitost by mohla vynést až 500 milionů eur.
-Deutsche Bank teprve nedávno zrekonstruovala své sídlo společnosti. Dvojčata ve frankfurtském bankovním kvartálu byla modernizována, protože bankéři se vrátili na své bývalé pracoviště.
-Ale finanční instituce nyní jasně chce získat zpět náklady na renovaci - a hledá kupce pro dvě výškové budovy, píše Financial Times Germany s odvoláním na mluvčího.
-Mluvčí neuvedl důvody plánovaného prodeje.
-"Neustále přezkoumáváme, zda je lepší vlastnit nemovitost sami nebo ji prodat a pak ji pronajmout," řekl.
-Největší německá finanční instituce opouští své sídlo společnosti po omezeném časovém období.
-Banka poprvé převzala obě věže za 272 milionů eur v polovině roku 2007 od investorů jednoho ze svých vlastních fondů a pokračovala v realizaci rozsáhlého programu renovace.
+Deutsche Bank chce prodat svůj znak. Podle novinové zprávy banka hledá kupce pro obě kancelářské výšky ve svém frankfurtském sídle.
+Majetek by mohl získat až 500 milionů eur.
+Deutsche Bank teprve nedávno zrekonstruovala své sídlo společnosti. Dvojčata ve frankfurtském bankovním čtvrtletí byla modernizována, když se bankéři vrátili na své bývalé pracoviště.
+Finanční instituce ale nyní zjevně chce získat zpět náklady na renovaci - a hledá kupce pro dvě výškové budovy, píše Financial Times Germany a cituje mluvčího.
+Mluvčí důvody plánovaného prodeje neuvedl.
+"Neustále přezkoumáváme, zda je lepší vlastnit majetek sami, nebo ho prodat a pak si ho pronajmout zpět," řekl.
+Největší německá finanční instituce opouští své sídlo společnosti po omezeném čase.
+Banka nejprve převzala obě věže za 272 milionů eur v polovině roku 2007 od investorů jednoho ze svých vlastních prostředků a pokračovala v realizaci rozsáhlého programu renovace.
 Podle dostupných informací stála rozsáhlá renovace kolem 200 milionů eur.
-Prodej by vydělal bance spoustu peněz.
-Podle novin odborníci z průmyslu odhadují hodnotu věží, přejmenovaných na "Greentowers", na zhruba 500 milionů eur.
-Zda budou budovy prodáno do fondu vlastněného bankou nebo nezávislému investorovi, se v současné době nerozhoduje, řekl mluvčí.
+Prodej by banku vydělala spoustu peněz.
+Podle deníku odborníci z oboru odhadují hodnotu věží, přejmenovaných na "Greenteři", na přibližně 500 milionů eur.
+O tom, zda budou budovy přeprodáno do fondu vlastněného bankou nebo nezávislému investorovi, se v současné době nerozhoduje, uvedl mluvčí.
 Tisíce lidí truchlí nad ztracenými přáteli
-Více než 10 000 lidí na Novém Zélandu se zúčastnilo vzpomínkové bohoslužby pro horníky, kteří byli prohlášeni za mrtvé po sérii výbuchů.
-Zotavení těl zatím nebylo možné vyprostit, protože bezpečnostní situace v šachtě, kde se nehoda stala, zůstává nejistá.
-Téměř před dvěma týdny došlo k násilnému výbuchu v dole Pike poblíž města Greymouth.
+Více než 10.000 lidí na Novém Zélandu se zúčastnilo zádušní mše pro horníky prohlášené za mrtvé po sérii výbuchů.
+Dosud nebylo možné těla získat zpět, protože bezpečnostní situace v šachtě, kde se nehoda stala, zůstává nejistá.
+Téměř před dvěma týdny došlo k prudké explozi v dole Pike River poblíž města Greymouth.
 29 horníků ve věku od 17 do 62 let bylo pohřbeno zaživa pod zemí.
 Do šachty byla spuštěna sonda, ale nebyly objeveny žádné známky přeživších.
-Vzhledem k vysoké koncentraci jedovatých plynů a dalším následným výbuchům nebylo z bezpečnostních důvodů vpuštěno žádné záchranáře do šachty.
-Po druhé násilné detonaci úřady a odborníci jednali za předpokladu, že neexistuje žádná šance, že by některý z horníků přežil.
-Zatím nebylo možné těla získat zpět.
-Rodinní příslušníci a přátelé si vzpomněli na mrtvé na vzpomínkové bohoslužbě.
-Za jasného slunečního svitu se na jižním ostrově na Novém Zélandu shromáždilo deset tisíc lidí lidí.
-Měli dvouminutové ticho.
-Na počest pohřbených horníků bylo zřízeno 29 stolů, které ukazovaly přilby, lampy a jejich jména.
-Na displeji byly také obrázky a osobní předměty, včetně oblečení a surfovacích prken.
-Vlajky vlály na půl žerdi ve všech vládních budovách v zemi.
-Nový Zéland doufal, že se horníci vrátí "z hlubiny země" na povrch, řekl premiér Nového Zélandu John Key davu u památníku.
-"Ale oni se nikdy nevrátili domů."
-Lawrie Drew, otec uvězněného horníka Zen Drew, řekl, že se nemohl vyrovnat se smrtí svého syna, dokud neviděl své tělo.
-Několik zahraničních diplomatů se zúčastnilo vzpomínkové bohoslužby spolu s premiérem a členy rodin obětí.
-Britští a jihoafričtí těžaři byli také pohřbeni zaživa při první explozi 19. listopadu.
-Záchranáři začali uhašením požáru uvnitř uhelného dolu na jižním ostrově Nového Zélandu.
-Superintendant Gary Knowles řekl novinářům, že práce začnou ochlazovat prudké teploty uvnitř dolu, jakmile budou vysídleny výbušné plyny.
-K čertu, bojovníci!
-Je v kině kina Gore pro gore?
-Filmový režisér Nicolas Winding Refn testuje staré hranice žánru, než aby se jeho válečnický epos "Walhalla Rising" vyslyšel.
-Na jaké publikum byl dánský režisér Nicolas Winding Refn, když natáčel "Walhalla Rising"?
-Zachycený vikingský válečník s jediným okem (Mads Mikkelsen) unikne svým mučitelům a srazí své protivníky téměř nadlidskými schopnostmi - což zní jako ideální pro mladé mužské diváky při hledání gore a akce, zvláště když náš hrdina má upřednostňovat metody brutálního zabíjení a není proti tomu, aby vytrhl vnitřnosti od živých těl svých nepřátel, když je ve špatné náladě.
-Na druhou stranu, One-Eye, jak se ve skutečnosti nazývá, neříká slovo během celého filmu, a dokonce i ostatní postavy jsou jen přivodní, aby řekly jednu nebo dvě věty na většině, nebo emitovat několik nesnesitelných výkřiků smrti.
-V opačném případě je film tichý, přepychový v děsivě krásných kopcích Skotska, které poskytují scenérii pro vikingský svět asi před tisíci lety.
-Vhodnější pro nadšence do kina pro dospělé se zájmem o existencialismus a velmi hladké sledovací záběry.
-Skvělé, když má film několik cílových skupin, ale hanba, pokud se vzájemně vylučují.
-Od své divoké a stylizované drogové trilogie "Pusher" byl ředitel Winding Refn považován za jakousi dánskou verzi Quentina Tarantina, ale stoicky odmítá zpřístupnit jeho díla hlavnímu proudu tím, že použije trochu více humoru nebo do uměleckého domu tím, že vykazuje méně brutality.
-Většina nadšenců do kina umění by byla odrazena mozkovou hmotou a vnitřnostmi létajícími kolem.
-Pokud tak již neučinili, akční fanoušci zemřou nudou, když One-Eye - z poněkud nerozluštitelných důvodů - se vydá lodí do Jeruzaléma s vojskem násilných křesťanských misionářů a skončí uvízl na to, co vypadá jako věčnost v mrtvých klidech a mlze, než posádka dorazí na to, co je jasně Amerika - kde ticho pokračuje.
-Není divu, že "Walhalla Rising" nenašla distributora kina v Německu a objevila se pouze na DVD.
-To je škoda, zejména proto, že kinematografie je vynikající, ale také proto, že v době, kdy existuje strhující kino za domýšlivým, někdy krvavým fasádou - a to kino si zaslouží nějakou pozornost.
-Tento film není o dialogu nebo přísném ději, ale o atmosféře - horečnatý sen, který se stal filmem.
+Vzhledem k vysoké koncentraci jedovatých plynů a dalším následným výbuchům nebyli z bezpečnostních důvodů do šachty vpuštěni žádní záchranáři.
+Po druhé násilné detonaci úřady a odborníci jednali na základě předpokladu, že není šance, že by některý z horníků přežil.
+Těly zatím nebylo možné vyprostit.
+Rodinní příslušníci a přátelé si vzpomněli na mrtvé na zádušní mši.
+Na jasném slunci se v Greymouthu na novozélandském Jižním ostrově shromáždilo deset tisíc lidí.
+Zadrželi dvouminutové ticho.
+Na počest pohřbených horníků bylo zřízeno 29 stolů, kteří vystavovali helmy, lampy a jejich jména.
+K vidění byly i obrázky a osobní předměty, včetně oblečení a surfových prken.
+Vlajky vlály na půl žerdily na všech vládních budovách v zemi.
+Nový Zéland doufal, že se horníci vrátí "z hlubin země" na povrch, řekl premiér New Zeeland John Key pro davy u památníku.
+"Ale nikdy se nevrátili domů."
+Lawrie Drew, otec uvězněného těžaře uhlí Zen Drew, řekl, že se nemůže smířit se smrtí svého syna, dokud neviděl své tělo.
+Zádušní mše se zúčastnilo několik zahraničních diplomatů po boku premiéra a členů rodin obětí.
+Britští a jihoafričtí horníci byli také pohřbeni zaživa při první explozi 19. listopadu.
+Záchranáři začali uhasit požár uvnitř uhelného dolu na novozélandském Jižním ostrově.
+Superintendant Gary Knowles novinářům řekl, že práce začnou ochlazovat prudké teploty uvnitř dolu, jakmile budou výbušné plyny vysídleny.
+K čertu, válečníky!
+Je v kinematografii pro gore místo pro gore?
+Filmový režisér Nicolas Winding Refn znovu testuje staré žánrové hranice se svou válečnickou eposílou "Walhalla Rising".
+Jaké publikum myslel dánský režisér Nicolas Winding Refn na natáčení "Walhalla Rising"?
+Ukořistěný vikingský válečník pouze jedním okem (Mads Mikkelsen) unikne svým trýznitelům a srazí své protivníky téměř nadlidskými silami - což zní ideální pro mladé mužské diváky při hledání krve a akce, zejména proto, že náš hrdina upřednostňuje brutální metody zabíjení a není proti vytrhávání vnitřností z živých těl svých nepřátel, když je ve špatné náladě.
+Na druhé straně One-Eye, jak se ve skutečnosti říká, neříká ani slovo během celého filmu, a dokonce i ostatní postavy jsou přinuceny říci pouze jednu nebo dvě věty nanejvýš, nebo vydávat několik nesnesitelných výkřiků smrti.
+Jinak je film němý, přepychový v děsivě krásných kopcích Skotska, které poskytují scenérii pro vikingský svět asi před tisíci lety.
+Více vhodné pro dospělé kino nadšenců se zájmem o existencialismus a velmi hladkými sledovacími záběry.
+Skvělé, když má film několik cílových skupin, ale škoda, pokud se vzájemně vylučují.
+Od své divoké a stylizované trilogie drogového dealera "Puška" byl režisér Winding Refn považován za jakousi dánskou verzi Quentina Tarantina, ale stoicky odmítá zpřístupnit svá díla mainstreamu tím, že použije trochu více humoru nebo do uměleckého domu tím, že projevuje méně brutality.
+Většinu nadšenců k uměleckých kina by odradila mozková hmota a vnitřnosti, které létají kolem.
+Pokud tak ještě neučinili, akční fanoušci zemřou nudou, když Jedno oko - z poněkud nerozluštitelných důvodů - vyrazí lodí do Jeruzaléma s oddílem násilných křesťanských misionářů, skončí uvízlý na něco, co se zdá jako věčnost v mrtvých klidech a mlze, než posádka dorazí do Ameriky - kde ticho pokračuje.
+Není tedy divu, že "Walhalla Rising" nenašla distributora kin v Německu a objevila se pouze na DVD.
+To je škoda, zejména proto, že kinematografie je vynikající, ale také proto, že někdy je za domýšlivým, někdy krvatou fasádou - a tato kinematografie si zaslouží určitou pozornost.
+Tento film není o dialogu nebo přísné zápletce, ale o atmosféře - horečnatý sen, který se stal filmem.
 Pro diváka není úniku z tohoto snu.
-Refn stěží umožňuje divákovi jediný okamžik relaxace a pomalu dusí stejný pohled svými železnými obrazy a ponurým trans-jako soundtrack - a nepochopitelnou nenávist, která vybíjí diváka z srdcí postav.
-Pouze jeden malý blonďatý chlapec, který stojí věrně na straně One-Eye, si zachovává něco z nevinnosti - všechny ostatní postavy jsou poháněny zuřivostí.
-Především je to jednooký hrdina, který je poháněn zuřivostí – jehož motivy se nikdy nevysvětlují, ale v určitém okamžiku se stává válečníkem z pekla pro své nepřátele i dočasné spojence, a možná i samotným poslem ďábla.
-Vyrovná se za zatracení, ale možná jen pro už zatracené.
-"Walhalla Rising" je záhadný film, který lidé budou nenávidět a obdivovat, k jejich rozhořčení, rozhořčení a úžasu.
-- Zážitek.
-Záhadné zemní práce
+Refn sotva dovolí divákovi jediný okamžik uvolnění a pomalu dusí stejný pohled svými železnými obrazy a ponurým trance-podobným soundtrackem - a nepochopitelnou nenávisti, která vystupuje na diváka ze srdcí postav.
+Pouze jeden malý blonďatý chlapec, který stojí věrně po boku One-Eye, si zachovává něco nevinného - všechny ostatní postavy jsou poháněny zuřivostí.
+Především je to jednooký hrdina, který je poháněn zuřivostí - jehož motivy nejsou nikdy vysvětleny, ale který se v určitém okamžiku stává bojovníkem z pekla pro své nepřátele i dočasné spojence, a možná i poslem samotného ďábla.
+Vyrovná se zatracení, ale snad jen pro již zatracené.
+"Walhalla Rising" je záhadný film, který budou lidé nenávidět a obdivovat, ke svému zármutku, ostražitosti a úžasu.
+Nějaký zážitek.
+Tajemné zemní práce
 Mezinárodní agentura pro atomovou energii (MAAE) má nové důkazy o tajném jaderném programu v Sýrii.
-Země se odmítá vyjádřit - ale umožňuje inspekce.
-Ke půlnoci v noci z 5. na 6. září 2007 nejméně čtyři izraelské stíhačky F-15 I zaútočily na záhadnou budovu ve tvaru kostky v Sýrii.
-Stojí na březích řeky Eufrat; další velké město, vzdálené 30 kilometrů, je Dair Alzour.
-Jméno se objeví v dokumentech MAAE, když je zmínka o reaktoru, který Sýrie údajně postavila v budově ve tvaru krychlových budov ukrytých v údolí odříznutí od elektrické sítě země - s pomocí ze Severní Koreje.
-Podle briefingu od americké zahraniční zpravodajské služby by CIA na konci dubna 2008, reaktor, běžně označovaný podle jména nejbližší osady El Kibar, mohl být použit k výrobě plutonia – což by mohlo být použito k výrobě atomových bomb.
-Technologie z padesátých let je velmi málo využívána pro jakýkoli jiný účel.
-CIA poskytla video prezentaci s rozmazanými satelitními snímky.
-Pomocí počítačové animace agentura ukázala, kde se předpokládá, že komponenty reaktoru byly umístěny před jeho zničením - reaktor je považován za menší kopii severokorejského modelu z atomového centra v Yongbyonu.
-Oni také produkovali fotografie ukazující budovu zblízka, a dokonce i její interiér.
-Předpokládá se, že reaktor byl téměř připraven k uvedení do provozu, ale dosud nebyl zásobován palivovými tyčemi.
-Nyní, více než tři roky po bombardování, není známo téměř nic víc. Ve skutečnosti se zdá, že otázky se časem zvýšily.
-Bývalý americký prezident George W. Bush nedávno odhalil ve svých pamětech, že ačkoli CIA věděla před útokem, že Sýrie staví reaktor v El Kibaru, neobjevila žádné známky toho, že by v zemi existoval „aktivní program jaderných zbraní“.
-Mnoho zpravodajských činitelů v Evropě je ještě skeptičtějších a mluví pouze o „údajném reaktoru“, i když věří, že prezentace CIA byla „věroplatná“.
-Postrádají důkazy z nějakého důvodu, stejně jako MAAE.
-Na otázku, jak je si jistý, že reaktor existuje letos v létě, vysoce postavený diplomat OSN lakonicky odpověděl, že MAAE má „dostatek materiálu, aby položila otázky“.
-Syřané v každém případě rychle odstranili trosky údajně „nepoužívané vojenské budovy“ a zcela srovnali oblast.
-Nicméně v červnu 2008 tým MAAE pod vedením vrchního inspektora Olliho Heinona objevil v El Kibaru stopy umělého uranu.
-Kromě toho MAAE získala komerčně vyrobené satelitní snímky z členského státu z období bezprostředně předcházejícího útoku - snímky, které údajně jsou přesvědčivější, že snímky prezentované CIA.
-Obrázky však nebyly k dispozici na trhu, protože neznámý zákazník - možná Izrael - je koupil výhradně.
-IAEA proto nemůže nezávisle ověřit jejich pravost.
-Sýrie tvrdí, že nikdy neměla tajný atomový program nebo nepostavila reaktor.
+Země odmítá to komentovat - ale umožňuje inspekce.
+Ke půlnoci v noci 5. až 6. září 2007 zaútočily nejméně čtyři izraelské stíhačky F-15 I.
+Stojí na břehu řeky Eufrat; další velké město, vzdálené 30 kilometrů, je Dair Alzour.
+Jméno se objeví v dokumentech MAAE, když je zmínka o reaktoru, který Sýrie údajně postavila v budově ve tvaru kostky ukrytou v údolí odříznutém od elektrické sítě země - s pomocí ze Severní Koreje.
+Podle briefingu americké zahraniční zpravodajské služby CIA na konci dubna 2008 mohla být reaktor, běžně označovaný názvem nejbližší osadou El Kibar, použit k výrobě plutonia - které by zase mohlo být použito k výrobě atomových bomb.
+Technologie od fiftýna je velmi málo využíván pro jakýkoli jiný účel.
+CIA přednesla videoprezentaci s rozmazanými satelitními snímky.
+Pomocí počítačové animace agentura ukázala, kde se předpokládá, že komponenty reaktoru byly umístěny před jeho zničením - reaktor je prý menší kopií severokorejského modelu z atomového centra v Yongbyon.
+Agentura také produkovala fotografie, na nichž je umístěna budova zblízka, a dokonce i její interiér.
+Předpokládá se, že reaktor byl téměř připraven k uvedení do provozu, ale ještě nebyl zásobován palivovými tyčemi.
+Nyní, více než tři roky po bombardování, už není známo téměř žádné. Ve skutečnosti se zdá, že otázky se časem zvyšovaly.
+Bývalý americký prezident George W. Bush nedávno ve svých pamětech odhalil, že i když CIA před útokem věděla, že Sýrie staví reaktor v El Kibaru, neobjevila žádné známky toho, že by v zemi existoval "aktivní program jaderných zbraní".
+Mnoho zpravodajských úředníků v Evropě je ještě skeptičtějších a mluví pouze o "údajném reaktoru", i když věří, že prezentace CIA byla "věrná".
+Chybí jim tvrdé důkazy, stejně jako MAAE.
+Na otázku, jak je si jistý, že reaktor letos v létě existuje, vysoce postavený diplomat OSN lakonicky odpověděl, že MAAE má "dost materiálu k kladení otázek".
+Syřané v každém případě rychle odstranili trosky údajně "nepouženuté vojenské budovy" a oblast zcela srovnali.
+Nicméně v červnu 2008 tým MAAE vedený hlavním inspektorem Ollim Heinonenem objevil v El Kibaru stopy uměle vytvořeného uranu.
+Kromě toho získala MAAE komerčně vyráběné satelitní snímky z členského státu z období bezprostředně předcházejícího útoku - snímky, které jsou prý přesvědčivější, že snímky prezentované CIA.
+Snímky však na trhu nebyly k dispozici, protože neznámý zákazník - možná i Izrael - je koupil výhradně.
+Proto MAAE nemůže nezávisle ověřit jejich pravost.
+Sýrie tvrdila, že nikdy neměla tajný atomový program nebo že by postavila reaktor.
 Damašek tvrdí, že uran byl z izraelských zbraní.
-Nicméně, po analýze částic, MAAE odmítl tvrzení jako nepravděpodobné.
-Od té doby se Damašek vyhýbá diskusi v tomto bodě - nebo na satelitních snímcích.
-Sýrie také zabránila inspektorům provést druhou inspekci v El Kibaru nebo přístup k troskám bombové budovy.
+Po analýze částic však IAEA toto tvrzení odmítla jako nevěrohodné.
+Od té doby se Damašek vyhnul diskusi o tomto bodě - nebo na satelitních snímcích.
+Sýrie také zabránila inspektorům, kteří provedli druhou inspekci v El Kibaru nebo se dostali do trosek bombardované budovy.
 Izrael také udržuje kamenné mlčení.
-"Nikdy se k tomu nebudeme vyjadřovat," řekl bývalý premiér Ehud Olmert v době útoku, což potvrdilo oficiální postoj.
-Vyšetřování tedy pokračuje od června 2008 bezsud a „se stále více rozvíjí do vážného problému důvěryhodnosti pro úřad,“ podle vysoce postaveného západního diplomata v sídle MAAE ve Vídni – nakonec vážné porušení smlouvy o nešíření jaderných zbraní zůstává v rukou MAAE nevyřešeno.
-MAAE jasně věří, že klíčem k posunu vpřed v tomto procesu spočívá ve třech dalších zařízeních, která měla mít "funkční spojení" s údajným reaktorem - a na rozdíl od reaktoru stále existuje.
-Inspektoři však dosud nezveřejnili povahu zařízení nebo jakou funkci mají nebo co je činí podezřelými.
-Podle informací poskytnutých společností Süddeutsche Zeitung jsou interně odkázáni na MAAE jako Marj as-Sultan, Masyaf a Iskandariya s odkazem na města v okolí.
-Nezávislý institut pro vědu a mezinárodní bezpečnost ve Washingtonu (ISIS) identifikoval tato místa a našel komplex budov na satelitních snímcích v Masyaf, což je velmi pravděpodobně jedna z podezřelých budov.
-Může být umístěna na nebo bezprostředně vedle vojenské základny - právě z tohoto důvodu Sýrie odmítá přístup MAAE na tato tři místa.
-Ve Vídni se říká, že Syřané se obávali nějakého druhu rybářské expedice a obávali se, že MAAE je posílána USA jako předvoj, aby špehovala vojenská zařízení.
-Tento strach byl zhoršen skutečností, že jaderní inspektoři byli ohledně zařízení americkými tajnými službami upozorněni.
-MAAE má dokumenty, včetně satelitních fotografií, které naznačují, že materiál byl přepravován mezi třemi místy a budovou ve tvaru kyslí na řece Eufrat.
-Vysoce postavený západní diplomat ve Vídni uvedl, že nejméně jedno z těchto zařízení by mohlo „souviset s výrobou paliva“.
-Nicméně, tam byly „žádné známky citlivých činností“, jako je obohacování uranu nebo přepracování uranu - procesy, které jsou potřebné k výrobě atomových zbraní.
+"Nikdy se k tomu nebudeme vyjadřovat," řekl bývalý premiér Ehud Olmert, který v době útoku potvrdil oficiální stanovisko.
+Vyšetřování tedy pokračuje od června 2008 bez závěru a "stále se stále více rozvíjí v vážný problém důvěryhodnosti pro autoritu", podle vysoce postaveného západního diplomata v sídle MAAE ve Vídni - nakonec vážné porušení smlouvy o nešíření jaderných zbraní zůstává nevyřešeno v rukou MAAE.
+MAAE jasně věří, že klíč k posunu vpřed v tomto procesu spočívá ve třech dalších zařízeních, která měla mít "funkční spojení" s údajným reaktorem - a na rozdíl od reaktoru stále existují.
+Inspektoři však zatím nezveřejnili povahu zařízení ani jakou mají funkci nebo co je činí podezřelými.
+Podle informací poskytnutých Süddeutsche Zeitung jsou interně označovány na IAEA jako Marj as-Sultan, Masyaf a Iskandiardiya s odkazem na města v okolí.
+Nezávislý Institut pro vědu a mezinárodní bezpečnost ve Washingtonu (ISIS) identifikoval tyto lokality a našel komplex budov na satelitních snímcích v Masyaf, který je velmi pravděpodobně jednou z podezřelých budov.
+Může se nacházet v vojenské základně nebo bezprostředně - právě z tohoto důvodu Sýrie odmítá přístup MAAE na tři místa.
+Ve Vídni se říká, že Syřané se báli nějaké rybářské expedice a obávají se, že MAAE je vyslána USA jako předvoj, aby špehovala vojenská zařízení.
+Tento strach ještě zhoršila skutečnost, že jaderní inspektoři byli o zařízeních upozorněni americkými tajnými službami.
+MAAE má dokumenty, včetně satelitních fotografií, které naznačují, že materiál byl přepravován mezi těmito třemi místy a budovou ve tvaru kry a budovou ve tvaru krychvy na řece Eufrat.
+Vysoce postavený západní diplomat ve Vídni uvedl, že nejméně jedno ze zařízení by mohlo "souviset s výrobou paliva".
+Neexistovaly však "žádné známky citlivých aktivit", jako je obohacování uranu nebo přepracování - procesy, které jsou nutné k výrobě atomových zbraní.
 Tento typ reaktoru je poháněn uranem, ale ne obohaceným uranem.
-Nicméně, rozumný odhad by mohl být učiněn, odkud uran pochází a odkud by byl plutonium z tohoto uranu extrahováno pro použití v bombě.
-Zůstává však nejasné, zda na třech místech byly uloženy suť, která by mohla obsahovat cenné stopové usazeniny.
-Nikdo nepřipouští, že má nějaké informace o tom, kde suť skončila, jako by stovky náklaďáků z hliny prostě zmizely do vzduchu.
-Solný důl Al Tibni, který se nachází jen několik kilometrů od El Kibaru na druhé straně Eufratu a vyšetřován v Sýrii v roce 1998 jako možné úložiště radioaktivního odpadu, je podle MAAE nepravděpodobným místem.
-Bývalý inspektor MAAE Robert Kelley nedávno spojil důl a reaktor v analýze satelitních snímků pro prestižní časopis Jane's Intelligence Review.
-Snímky z oběžné dráhy však ukazují, že Sýrie podnikla zemní práce na třech podezřelých místech a odstranila velké kontejnery poté, co MAAE požadovala přístup.
-To může být náhoda, ale neudělal nic, aby si vyjasnil podezření.
-V diplomatických kruzích MAAE se také hovoří rozhovory, které strávily několik měsíců vypracováním inspekčních plánů, které by umožnily Sýrii chránit jakékoli vojenské tajemství – samotné náklady ukazují rozsah zájmu inspektorů.
+Dalo by se však udělat rozumný odhad, odkud pochází uran a kde by se plutonia z tohoto uranu vytěžilo pro použití v bombě.
+Zůstává však nejasné, zda suť, která by mohla obsahovat cenné stopové usazeniny, byly uloženy na třech místech.
+Nikdo nepřiznává, že má žádné informace o tom, kde suť skončila, jako by stovky náklaďáků země prostě zmizely do řídkého vzduchu.
+Solný důl Al Tibni, který se nachází jen několik kilometrů od El Kibaru na druhé straně Eufratu a vyšetřovaný v roce 1998, protože možné uskladnění radioaktivního odpadu je podle MAAE nepravděpodobným místem.
+Bývalý inspektor IAEA Robert Kelley nedávno spojil důl a reaktor v analýze satelitních snímků pro prestižní časopis Jane's Intelligence Review.
+Snímky z oběžné dráhy však ukazují, že Sýrie podnikala zemní práce na třech podezřelých místech a odstranila velké kontejnery poté, co MAAE požadovala přístup.
+To může být náhoda, ale neudělal nic, aby očistil podezření.
+V diplomatických kruzích MAAE se také hovoří, že strávila řadu měsíců vypracováním inspekčního plánu, který by Sýrii umožnil chránit veškerá vojenská tajemství - samotné náklady ukazují rozsah zájmu inspektorů.
 Damašek však tento návrh také smetl.
-Ačkoli západní diplomaté ve Vídni nabídli ujištění tím, že řekli, že od té doby, co byl reaktor zničen, měl tuto otázku nízkou prioritu, americký velvyslanec Glyn Davies přináší na stůl tzv. speciální inspekce, což je jeden z nejvýkonnějších nástrojů, které má jaderný orgán k dispozici vídeňskému úřadu pro provádění inspekcí.
-Yukiya Amano, současný generální ředitel MAAE, o kterém se předpokládá, že navrhl inspekci, již hovořil o „opci, které jsem v budoucnu otevřen,“ ale stále zaváhá.
-Tato možnost je velmi riziková. Na jedné straně vyžaduje většinu v Radě guvernérů MAAE a řada z 35 zastoupených zemí je něco jiného než dychtivá po eskalaci.
-Na druhou stranu, jak poukazuje jeden diplomat, "co když nakonec nic nenajdou?"
-Láska v dobách války
-Vzhledem k tomu, že Angelina Jolie začala pracovat na ní jako na dosud anonymním režijním debutu v létě, došlo k potížím.
-Napsala scénář sama - milostný příběh mezi ženou z Bosny a srbským mužem.
-Nikdo opravdu neví mnohem víc než to - ale to samo o sobě stačí k tomu, aby způsobilo neklid.
-Pověst tvrdošíjně přetrvává, že se žena – muslimka – zamiluje do svého srbského násilníka během jugoslávské války.
-Organizace žen v Bosně požádaly o to okamžitě protestovat, v reakci na to, kdy bylo několik dní střelby plánované v Sarajevu přesunuto do Maďarska v krátké době.
-Od té doby se film natáčel v Maďarsku a je v postprodukci, ale v Bosně stále existují protesty.
-Bakira Hasejć z Asociace obětí války žen napsala Jolie prostřednictvím Úřadu vysokého komisaře OSN pro uprchlíky (UNHCR) a požadovala setkání s herečkou, informovaly bosenské noviny - Jolie sama je velvyslankyní agentury OSN.
-Nicméně, ona může být stěží popsána jako diplomatická - Jolie nabídl setkání s ženami před několika týdny v Maďarsku, ale oni odmítli.
-Setkání se musí konat v Bosně, tvrdí Hasejć.
-Podle Hasečiće nebyly v táborech znásilňování žádné milostné příběhy a Jolieino chování vůči obětem jí o scénáři řeklo dost.
-Podle organizace OSN pro uprchlíky její organizace doporučila odvolat Jolie jako velvyslankyni, píše Guardian.
+Ačkoli západní diplomaté ve Vídni nabídli ujištění, když uvedli, že vzhledem k tomu, že od té doby, co byl reaktor zničen, měl problém nízkou prioritu, americký velvyslanec Glyn Davies přináší na stůl takzvané zvláštní inspekce, což je jeden z nejvýkonnějších nástrojů, které má vídeňský atomový úřad k provádění inspekcí.
+Yukiya Amano, současný generální ředitel MAAE, o němž se předpokládá, že inspekci naznačil, již hovořil o "možnosti, které jsem v budoucnu otevřen", ale stále váhá.
+Opce je vysoká riziko. Na jedné straně vyžaduje většinu v Radě guvernérů MAAE a řada z 35 zastoupených zemí je něco jiného než dychtit po eskalaci.
+Na druhou stranu, jak jeden diplomat zdůrazňuje, "co když nakonec nic nenajdou?"
+Láska v době války
+Od té doby, co na ní Angelina Jolie začala pracovat jako dosud anonymní režijní debut v létě, nastaly potíže.
+Scénář napsala sama - milostný příběh mezi ženou z Bosny a Srbem.
+Nikdo vlastně moc neví víc - ale to samo o sobě stačí k vyvolání neklid.
+Zvěsti tvrdošíjně přetrvává, že se žena - muslimka - zamiluje do svého srbského násilníka během jugoslávské války.
+Bosenské ženské organizace okamžitě protestovaly, v reakci na to, na kterou byla v krátké době přesunuta několik dní střelby plánovaná v Sarajevu do Maďarska.
+Od té doby se film natáčel v Maďarsku a je v postprodukci, ale v Bosně se stále ozývají protesty.
+Bakira Hasečićová z Asociace obětí žen ve válce napsala Jolie prostřednictvím agentury OSN pro uprchlíky UNHCR a požadovala setkání s herečkou, informoval bosenský deník - sama Jolie je velvyslankyní agentury OSN.
+Sotva však může být popsána jako diplomatická - Jolie nabídla, že se s ženami setká před týdny v Maďarsku, ale oni odmítli.
+Schůzka se musí konat v Bosně, tvrdí Haštěvič.
+Podle Hasečiće nebyly v táborech znásilnění žádné milostné příběhy a Jolieino chování k obětem jí o scénáři řeklo dost.
+Podle uprchlické organizace OSN její organizace doporučila propustit Jolie jako velvyslankyni, píše Guardian.
 Ale jaký scénář přesně napsala Jolie?
-Bosenské ministerstvo kultury, které četlo její scénář, vydalo povolení k natáčení v Sarajevu po nějakém to-ing a fro-ing - není zcela jasné, proč Jolie pak nešla do Bosny.
-Sama rodící se spisovatelka tvrdí, že ve svém filmu nemá žádné politické motivy, pečlivě si přečetla o jugoslávském konfliktu a chce ukázat strašlivé důsledky války a dát hlas všem zúčastněným stranám.
-Pokud jde o obsah, zůstala nejasná.
-Druhý, podstatně odlišný synopse filmu se šíří na internetu. Milenci se znali před vypuknutím války a znovu se setkali, když je ona, bosínská muslimka, unesena do srbského tábora, kde pracuje jako stráž.
-To zní velmi odlišně příběhem jako "znásilnění oběť padá na mučitele" scénář.
-Skutečnost, že Jolieho film začíná před válkou, je jasná.
-Podle Jolie je tlak na ni „nespravedlivý a založený na falešných informacích“.
-Nyní pouze hackeři z Hollywoodu jí mohou dát jakýkoliv mír tím, že nelegálně zveřejní scénář na webu, stejně jako osud tolika dalších scénářů.
-Vypadneme odsud.
-Dnes večer se pro Iry konečně daří dobře.
-Ani stopa neštěstí.
-Domácí tým na to dominuje svým hostům ze Švédska, Finska a USA příliš.
-Fanoušci jsou houkat pro radost proti soundtracku řvoucí hudby a lisování nohou.
-Bailey Pub v Corku v jižním Irsku se houpe, protože hráči stolního tenisu házejí ping pongové míčky do sklenic piva na třímetrovou vzdálenost - a skórují.
-"Beer Pong" je název bizarní podívané; vítěz dostane 500 Euro vyhrát bonus plus letenky do Las Vegas na mistrovství světa pivní pong v lednu.
-Cian Tanner je tichý typ; tato pronikavá pitná hra a zdrženlivý počítačový vědec opravdu nejdou dohromady.
-Ale 26letý hráč se snaží pobavit tím, že hraje, aby odvedl pozornost od palčivé otázky, co přinese budoucnost.
-V Las Vegas neměl naplánovaný na kolo hazardních her - v lednu se zúčastní pracovních pohovorů na Novém Zélandu.
-"Mám divný pocit, když to dělám," říká.
-"Je to tak daleko od domova a já tam stále nemám žádnou práci."
-Přesto na něj jeho přítelkyně čeká v Aucklandu - "dostala svou vysněnou práci jako manažerka událostí v žádném okamžiku - možná dobré znamení," říká mladý muž a usmívá se.
-V reakci na špatný výhled doma, dva ze tří Tannerových sourozenců již riskují v zahraničí.
+Bosenské ministerstvo kultury, které četlo její scénář, vydalo povolení ke střelbě v Sarajevu po nějakém to-ing a fro-ing - není zcela jasné, proč Jolie pak neodjela do Bosny.
+Sama začínající spisovatelka tvrdí, že ve svém filmu nemá žádné politické motivy, vytrvale si přečetla o jugoslávském konfliktu a chce ukázat hrůzné důsledky války a dát hlas všem zúčastněným stranám.
+Z hlediska obsahu však zůstala vágní.
+Na internetu se šíří druhá, značně odlišná synopse filmu. Milenci se znali před vypuknutím války a znovu se setkali, když je, bosenská muslimka, unesena do srbského tábora, kde pracuje jako stráž.
+To zní velmi odlišným příběhem než scénář "znásilnění se shovívavě zamiluje do scénáře mučitele".
+To, že Joliein film skutečně začíná před válkou, je jasná.
+Podle Jolie je tlak na ni "nespravedlivý a založený na nepravdivých informacích".
+Nyní jí mohou dát jakýkoliv pokoj jen hackeři z Hollywoodu tím, že nelegálně zveřejní scénář na webu, stejně jako osud tolika dalších scénářů.
+Pojďme odsud vypadnout
+Dnes večer se všem konečně daří Irům.
+Není to stopa neštěstí.
+Domácí tým dominuje svým hostům ze Švédska, Finska a USA na to.
+Fanoušci houkají radostí proti soundtracku řvoucí hudby a dusící nohy.
+Bailey Pub v jihoirském Corku se houpá, protože hráči stolního tenisu házejí ping pongové míčky do pivních sklenic na tři metry - a bodují.
+"Píček" je název bizarní podívané; vítěz dostane 500 Euros výherní bonus plus letenky do Las Vegas na lednový šampionát pivního pong.
+Cian Tanner je tichý typ; tato pronikavá hra na pití a zdrženlivý počítačový vědec opravdu nejdou dohromady.
+Ale 26-letý hráč se snaží pobavit tím, že hraje, aby odvedl pozornost od palčivé otázky, co přinese budoucnost.
+V Las Vegas se neplánuje v kole hazardních her - v lednu se zúčastní pracovních pohovorů na Novém Zélandu.
+"Mám divný pocit, že to dělám," říká.
+"Je to tak daleko od domova a já tam pořád nemám žádnou práci."
+Přesto na něj jeho přítelkyně v Aucklandu čeká - "dostala svou vysněnou práci jako manažerka událostí v žádném okamžiku - možná dobré znamení," říká mladík a usmívá se.
+V reakci na špatný výhled doma už dva ze tří Tannerových sourozenců v zahraničí riskují.
 Jeho sestra Yvonne, sociální pracovnice, je v Sydney a jeho bratr Colin má práci jako IT konzultant v Londýně.
-Mladí lidé odcházejí. Tannerova rodina je stěží výjimkou rodin na ostrově.
-V blízké budoucnosti opustí zemi 100 000 000 irských mužů a žen, předpovídají odborníci z Institutu pro ekonomický a sociální výzkum (ESRI) v Dublinu.
-Do roku 2015 odhadují 200 000 emigrantů.
-Pro malou zemi s pouhými 4,5 miliony obyvatel to bude mít významná ztráta.
-Pokud se předpovědi ukáží jako správné, dojde k vlně emigrace srovnatelné s emigrací, kterou Irsko utrpělo v 80. letech.
-Po desetiletí růstu, který s ním Irům přinesl velkou prosperitu, se tyto těžké časy vrátily.
-Ekonomická krize je obzvláště matoucí pro mladé, vzdělané Iry, kteří viděli, jak se věci jen zlepšují.
-Ztráty pracovních míst a sociální sestup se v letech boomu zdály absurdní.
-Všichni byli potřební a tam byly peníze oplývající.
-Od té doby jsou tři z deseti mužů a žen mladších třiceti let bez práce.
-V Irish Times existuje mnoho dopisů od mladých emigrantů, kteří si stěžují, že „všechno jde na pánev v Irsku“.
-"Měla by nastat revoluce proti politikům a bankéřům - ale každému, kdo může jednoduše odejít a naše země ztrácí celou generaci."
-"Může poslední osoba, prosím, zprostit světla."
-Studentka práv Leanne Caulfieldová, předsedkyně Irské unie studentů, vidí neutěšenou budoucnost, protože vláda se zabývá obklady oken a již nenabízí vyhlídky pro budoucnost mladých lidí.
-"Snižují minimální mzdu, ale nemají strategii na vytvoření nových pracovních míst," říká 20letý muž.
-Vidí, že její spolužáci se stupňujícím směrem z jedné neplacené stáže do druhé.
+Mladí lidé odcházejí. Tannerova rodina je pro rodiny na ostrově sotva výjimkou.
+100.000 irských mužů a žen opustí zemi v blízké budoucnosti, předpovídají odborníci z Ekonomického a sociálního výzkumného institutu (ESRI) v Dublinu.
+Do roku 2015 odhadují celkem 200.000 emigrantů.
+Pro malou zemi s pouhými 4,5 miliony obyvatel to bude výrazná ztráta.
+Pokud se předpovědi ukáží jako správné, dojde k vlně emigrace srovnatelné s emigrací, kterou Irsko utrpělo v osmdesátých letech.
+Po deseti letech růstu, který s sebou přinesl Velkou prosperitu pro Iry, se těžké časy vrátily.
+Hospodářská krize je obzvláště matoucí pro mladé, dobře vzdělané Iry, kteří viděli, jak se věci jen zlepšují.
+Ztráty pracovních míst a sociální sestup se v letech konjunktury zdály absurdní.
+Všichni byli potřeba a peníze se oplývaly.
+Od té doby jsou tři z deseti mužů a žen mladších třicet let bez práce.
+V Irish Times je mnoho dopisů od mladých emigrantů, kteří si stěžují, že "v Irsku jde po pánvi všechno".
+"Měla by existovat revoluce proti politikům a bankéřům - ale každý, kdo může jednoduše odejít a naše země ztrácí celou generaci."
+"Může poslední člověk, prosím, vypnout světlo."
+Studentka práva Leanne Caulfieldová, prezidentka Irské unie studentů, vidí před sebou neutěšenou budoucnost, protože vláda se angažuje v oblékání oken a již nenabízí mladým lidem vyhlídky na budoucnost.
+"Snižují minimální mzdu, ale nemají strategii, jak vytvořit nová pracovní místa," říká 20letý mladík.
+Vidí, jak se její spolužáci dostávají z jedné neplacené stáže na druhou.
 Její největší starostí je, že bude muset emigrovat i za čtyři roky.
 "Myšlenka je smutná a depresivní."
-Na druhou stranu, muži jako Stephen McLarnon se snaží dát situaci pozitivní rozruch.
-McLarnon organizuje veletrh WorkingAbroadExpo, který nabízí všestrannou službu pro práci v zahraničí.
-"Pro lidi, kteří začínají kariéru, je práce v zahraničí velkou příležitostí udělat své první kroky na kariérní žebřík," říká manažer.
-Na svých webových stránkách jsou v Austrálii fotografie surfařů a snowboardistů v Kanadě.
-Poselství je jasné. Práce v zahraničí není galejní povinností, ale zdrojem svobody a zábavy.
-Za posledních šest měsíců věděl Seán O'Donovan, jaké to je postavit něco někde jinde.
-Vzhledem k tomu, že pro 29letého inženýra v Irsku nebylo nic víc, nyní spolupracuje s 15 irskými kolegy na stavbách v Německu.
+Na druhou stranu se muži jako Stephen McLarnon snaží dát situaci pozitivní otočku.
+McLarnon pořádá WorkAbroadExpo, veletrh nabízející všestrannou službu pro práci v zahraničí.
+"Pro lidi, kteří začínají kariéru, je práce v zahraničí velkou šancí udělat své první kroky na kariérní žebříček," říká manažer.
+Na jeho webových stránkách jsou fotografie surfařů v Austrálii a snowboardistů v Kanadě.
+Poselství je jasné. Práce v zahraničí není galérová povinnost, ale zdroj svobody a zábavy.
+Posledních šest měsíců věděl Seán O'Donovan, jaké to je postavit něco jiného.
+Vzhledem k tomu, že 29letého inženýra v Irsku nebylo nic víc, nyní pracuje s 15 irskými kolegy na stavbách v Německu.
 V současné době pracují na módním butiku v Gelsenkirchenu.
-V lednu se přesunou do Hannoveru nebo Berlína - k dalšímu projektu.
-Mezitím O'Donovan navštěvuje svou domovskou zemi jen zřídka, protože bere další směny, aby mohl splatit hypotéku na svůj dům doma.
+V lednu se přesunou do Hannoveru nebo Berlína - na další projekt.
+Mezitím O'Donovan navštěvuje svou domovskou zemi zřídka, protože nabírá další směny, aby mohl splatit hypotéku na svůj dům doma.
 "Situace je opravdu trochu šílená," říká, když prochází dveřmi svého domu poprvé po dlouhé době.
-Vydělávám v Německu peníze za dům v Irsku, který sotva vidím.
-Smích se trochu sebevědomě a prochází studenými místnostmi.
-Malý dům se nachází v elegantní čtvrti s pečlivou předními zahradami. Na příjezdových cestách jsou zaparkována velká a drahá auta.
-O'Donovan koupil dům se svou sestrou před čtyřmi lety za 380 000 eur - financovaný ze 100% hypotéky.
+"Vydělávám peníze v Německu za dům v Irsku, který sotva vidím."
+Trochu se sebevědomě směje a prochází chladnými místnostmi.
+Malý dům je v elegantní čtvrti s ošetřovanými předzahrádkami. Na příjezdových cestách jsou zaparkovaná velká, drahá auta.
+O'Donovan koupil dům se svou sestrou před čtyřmi lety za 380.000 eur - financované se stoprocentní hypotékou.
 "Byly to šílené časy - byly tam snadné peníze bez příliš mnoha otázek," říká.
-Bojí se, že by se situace mohla s hypotékou pokazit?
-O'Donovan chvíli přemýšlí, nalije si trochu více čaje a říká: "Nemám žádné děti, které bych krmila a jsem mladá. I když se všechno pokazí, můžu začít znovu.“
-Inženýrovi se nelíbí sténání, které slyší tak často.
-"Nikdo nemusí hladovět - mimo situaci není ani zdaleka tak dramatická, jako v minulosti tento ostrov prošel," říká.
-"Práce v zahraničí na chvíli není to nejhorší, co se může stát - možná se jen cítíme irsky tím, že jdeme do zahraničí."
-Směje se a vzpomíná na to, jak jeho otec odešel do Anglie v poslední velké ekonomické krizi.
-O sedm let později se vrátil a život pokračoval v Irsku, stejně jako tak.
-Cian Tannerovi se to líbí.
-Nech budoucnost otevřenou a jen pohleď, jaké to je žít někde jinde.
-Strávil několik let prací v Londýně a proč by věci neměly jít dobře pro něj a jeho přítelkyni na Novém Zélandu?
-Jedna věc ho stále znepokojuje dobře a skutečně v těchto dnech - párty k jeho 27. narozeninám v pátek v Dublinu.
-Obává se, že by se to mohlo zvrhnout do rozlučkové strany.
+Bojí se, že by se věci mohly pokazit s hypotékou?
+O'Donovan chvíli přemýšlí, nalije ještě nějaký čaj a říká: "Nemám žádné děti, které bych se nakrmily a jsem mladý. I kdyby se všechno pokazilo, můžu začít znovu."
+Stavebnímu inženýrovi se nelíbí sténání, které tak často slyší.
+"Nikdo nemusí hladovět - situace venku není ani zdaleka tak dramatická, jako časy, kterými tento ostrov v minulosti prošel," říká.
+"Práce v zahraničí na chvíli není to nejhorší, co se může stát - snad se opravdu cítíme irsky tím, že odjedeme do zahraničí."
+Směje se a vzpomíná, jak jeho otec odjel do Anglie v poslední velké ekonomické krizi.
+"Po sedmi letech byl zpátky a život pokračoval v Irsku, jen tak."
+Cian Tannerovi se tento nápad líbí.
+Nechte budoucnost otevřenou a jen uvidíte, jaké to je žít někde jinde.
+Strávil už pár let prací v Londýně a proč by se věci neměly dařit pro něj a jeho přítelkyni na Novém Zélandu?
+Jedna věc ho stále v těchto dnech dobře a skutečně znepokojuje - párty k jeho sedmadvacátým narozeninám v pátek v Dublinu.
+Obává se, že by se to mohlo zvrhnout v rozloučenou.
 "Prostě ne příliš mnoho emocí," říká a pije velký doušek piva.
-"Rozloučení - to zní znepokojivě."
-"Pojďme to nazývat odjezdem párty, opravdu uvolněně s několika přáteli, pár drinků a podivnou hrou."
+"Rozloučení - to zní alarmující."
+"Řekněme to jen odjíždět stranou, opravdu uvolněný s několika přáteli, pár drinků a podivnou hrou."
 Demokratická rutina
-Podpora demokracie v Latinské Americe se nadále zvyšuje, stejně jako podpora pro soukromé podniky.
-Kriminalita se stala větší starostí než nezaměstnaností.
-A Brazílie je vnímána jako vlivnější než Spojené státy ve většině regionu.
-To jsou některé ze zjištění nejnovějšího průzkumu Latinobarómetro v 18 zemích a zveřejněných výhradně The Economist.
-Vzhledem k tomu, že průzkum byl od roku 1995 pravidelně prováděn, sleduje změny v postoji v celém regionu.
-Dvě související věci vynikají ve výsledcích letošního průzkumu, který byl učiněn v září a začátkem října.
-Prvním z nich je poměrně slunečná nálada Latinské Ameriky.
+Podpora demokracie v Latinské Americe se nadále zvyšuje, stejně jako podpora soukromého podnikání.
+Kriminalita se stala větší starostí než nezaměstnanost.
+A Brazílie je považována za vlivnější než Spojené státy ve velké části regionu.
+To jsou některé ze zjištění posledního průzkumu Latinobarómetro, který se provedl v 18 zemích a který zveřejnil exkluzivně The Economist.
+Vzhledem k tomu, že průzkum se provádí pravidelně od roku 1995, sleduje změny v postojích v celém regionu.
+V výsledcích letošního průzkumu vynikají dvě související věci, které se uskutečnily v září a na začátku října.
+Prvním je poměrně slunečná nálada Latinské Ameriky.
 Druhým je rostoucí stabilita postojů k demokracii a jejím základním institucím.
-Podpora demokracie se znatelně zvýšila v několika zemích na pacifickém okraji Jižní Ameriky (viz tabulka 1).
-Například v Peru, kde hospodářský růst od roku 2002 dosahuje v průměru 6% ročně, vzrostla podpora demokracie z minima 40% v roce 2005 na 61 % v letošním roce.
-Zvýšila se také v Mexiku, kde se ekonomika zotavila poté, co v loňském roce utrpěla velký pokles produkce.
-Ale jen asi polovina respondentů v Mexiku a Brazílii, dvou nejlidnatějších zemích regionu, jsou přesvědčeni, že demokraté, což táhne dolů regionální průměr (viz graf 2).
-Přibližně 44 % respondentů v celém regionu se vyjádřilo spokojeno s tím, jak funguje v praxi demokracie v jejich zemi, což je stejné číslo jako v loňském roce, ale velký nárůst oproti 25% v roce 2001 (barev 3).
-Asi 34% uvedlo, že mají důvěru v Kongres své země a 45% ve své vládě, stejně jako v loňském roce v obou případech, ale prudce vzrostl od roku 2003 (17% a 24%).
-Před deseti lety ekonomické problémy Latinské Ameriky podkopaly podporu demokracie.
-To, že se během světové finanční krize zdržela, je pravděpodobně proto, že mnoho latinskoamerických zemí utrpělo jen krátkou recesi a těšilo se silnému oživení.
-Kromě toho silnější sociální záchranná síť pomohla ochránit chudé.
-(Komická komise OSN pro Latinskou Ameriku tento týden oznámila, že podíl Latinoameričanů žijících v chudobě vzrostl jen nepatrně v roce 2009 a letos opět klesl na 32%.)
-Ale nálada se značně liší od země k zemi (viz graf 4).
-Silný ekonomický výkon Brazílie a popularita odcházejícího prezidenta Luize Inácia Luly da Silvy se odráží v široce sdíleném smyslu pokroku.
-To je vzácnější v Mexiku a Střední Americe, kde byla recese vážnější a násilná kriminalita se zhoršila.
-Teprve podruhé od začátku průzkumů veřejného mínění více respondentů v celé Latinské Americe uvádí kriminalitu, spíše než nezaměstnanost, jako nejdůležitější problém, kterému čelí jejich země (viz graf 5).
-Asi 31 % respondentů uvádí, že buď oni, nebo blízký příbuzný byli v uplynulém roce obětí trestných činů, ale to je pokles z 38% v loňském roce a je to nejnižší číslo od roku 1995.
-Silnější ekonomický výkon se odráží v rostoucí podpoře soukromého podniku a tržní ekonomiky: přibližně 71% respondentů v celém regionu říká, že soukromé podniky jsou pro rozvoj nepostradatelné, oproti 56% v roce 2007 (viz graf 6).
-Přibližně 58 % souhlasí s tím, že tržní ekonomika je jediným systémem, který rozvine jejich zemi, oproti 47 % v loňském roce.
-Je zajímavé, že 62% respondentů ve Venezuele má tento názor (a 80% tam zpět soukromé podniky), i když jejich levicový prezident Hugo Chávez vyvlastňuje mnoho soukromých společností.
-Brazílie je zemí, která uplatňuje největší vedení v regionu, zmínilo se o 19 % respondentů (z loňských 18 %), následované Spojenými státy (9 %, beze změny oproti loňskému roku) a Venezuelou (9 %, oproti loňským 1 %).
-Ale Spojené státy jsou považovány za nejvlivnější zemi respondentů v Mexiku a většině Střední Ameriky, zatímco Venezuela se těší tomuto rozdílu v Ekvádoru, Dominikánské republice a Nikaragui.
-Hlasování svarováno
-Nikdo nečekal, že haitské všeobecné volby 28. listopadu budou dokonalé.
-Ale bylo to mnohem horší než cizinci, kteří se snaží pomoci postižené zemi, která se obávala.
-To představovalo vycpané volební urny a opakovat hlasování, hlasovací lístky roztroušené v okapů, zničené volební místnosti a zastrašování.
-Volební místnosti otevřely hodiny zpoždění.
-Mnoho Haiťanů, včetně mnoha vysídlených lednovým zemětřesením, se potulovalo kolem a snažilo se zjistit, kde hlasovat.
-Někteří z nich to nakonec vzdali.
-Tucet prezidentských kandidátů, včetně několika předpokládaných kandidátů, vykřikl podvody a vyzval k anulaci voleb.
-Protesty, z nichž některé byly násilné, vzplanuly po celé zemi.
-Nicméně, Edmond Mulet, nejvyšší představitel OSN na Haiti, prohlásil, že je to „do značné míry dobré volby v mnoha ohledech“.
-Pozorovatelé z Organizace amerických států a karibského společenství opatrně uvedli, že „nevěří, že tyto nesrovnalosti, závažné, jak byly, nutně zneplatnily proces“.
+Podpora demokracie znatelně vzrostla v několika zemích na tichomořském okraji Jižní Ameriky (viz tabulka 1).
+Například v Peru, kde hospodářský růst od roku 2002 dosáhl v průměru 6% ročně, vzrostla podpora demokracie z minima 40% v roce 2005 na 61 % v letošním roce.
+Stoužila také v Mexiku, kde se ekonomika zotavila poté, co loni utrpěla velký pokles produkce.
+Ale jen asi polovina respondentů v Mexiku a Brazílii, dvou nejlidnatějších zemích regionu, je přesvědčeno, že demokraté, kteří lákají dolů regionální průměr (viz graf 2).
+Přibližně 44% respondentů v celém regionu se prohlásilo za spokojené s tím, jak funguje demokracie jejich země v praxi, což je stejné číslo jako v loňském roce, ale velký nárůst oproti 25% v roce 2001 (znač 3).
+Přibližně 34 % uvedlo, že mají důvěru v Kongres své země a 45% ve své vládě, stejně jako v loňském roce v obou případech, ale prudce vzrostla oproti roku 2003 (17 % a 24 %).
+Před deseti lety ekonomické strasti v Latinské Americe podkopaly podporu demokracie.
+To, že se během světové finanční krize udržela, je pravděpodobně proto, že mnoho latinskoamerických zemí utrpělo jen krátkou recesi a těší se silnému oživení.
+Kromě toho silnější sociální záchranná síť pomohla chránit chudé.
+(Ekonomická komise OSN pro Latinskou Ameriku tento týden oznámila, že podíl Latinoameričanů žijících v chudobě v roce 2009 vzrostl jen nepatrně a letos opět klesl na 32%.)
+Nálada se však značně liší od země k zemi (viz graf 4).
+Silný ekonomický výkon Brazílie a popularita jejího odcházejícího prezidenta Luize Inácia Luly da Silvy se odráží v široce sdíleném pocitu pokroku.
+To je vzácnější v Mexiku a Střední Americe, kde byla recese závažnější a násilná kriminalita se zhoršila.
+Teprve podruhé od začátku volebních místností uvádí více respondentů v celé Latinské Americe jako celek kriminalitu, spíše než nezaměstnanost, jako nejdůležitějšího problému, kterému jejich země čelí (viz graf 5).
+Přibližně 31 % respondentů uvedlo, že v uplynulém roce se stali oběťmi trestné činnosti, ale to je méně než v loňském roce 38% a je to nejnižší hodnota od roku 1995.
+Silnější ekonomická výkonnost se odráží v rostoucí podpoře soukromého podnikání a tržní ekonomiky: přibližně 71 % respondentů v celém regionu říká, že soukromé podniky jsou nezbytné pro rozvoj, oproti 56 % v roce 2007 (viz graf 6).
+Přibližně 58 % souhlasí s tím, že tržní ekonomika je jediným systémem, který se jejich země rozvine, oproti 47 % v loňském roce.
+Zajímavé je, že 62 % respondentů ve Venezuele zastává tento názor (a 80% tam zpět soukromý podnik), i když jejich levicový prezident Hugo Chávez vyvlastňuje mnoho soukromých společností.
+Brazílie je zemí, která vykonává nejvíce vedení v regionu, zmínilo se 19% respondentů (nárůst z loňských 18%), následovaná Spojenými státy (9%, beze změny oproti loňskému roku) a Venezuelou (9%, pokles z 11% v loňském roce).
+Ale Spojené státy jsou považovány za nejvlivnější zemi respondenty v Mexiku a velké části Střední Ameriky, zatímco Venezuela se těší tomuto rozdílu v Ekvádoru, Dominikánské republice a Nikaragui.
+Hlasování zmítané
+Nikdo nečekal, že 28. listopadu budou všeobecné volby na Haiti dokonalé.
+Ale bylo to mnohem horší než cizinci, kteří se snažili pomoci zasažené zemi, kterých se obávala.
+Obsahoval vycpané volební urny a opakované hlasování, hlasovací lístky roztroušené v okapech, zničených volebních místnostech a zastrašování.
+Volební místnosti se otevřely o několik hodin později.
+Mnoho Haiťanů, včetně pozemků vysídlených lednovým zemětřesením, se potulovalo kolem a snažili se zjistit, kde hlasovat.
+Některé z nich to nakonec vzdaly.
+Tucet prezidentských kandidátů, včetně několika předpokládaných frontmanů, křičelo podvody a volalo po zrušení voleb.
+Protesty, některé z nich násilné, vzplály po celé zemi.
+Nicméně Edmond Mulet, nejvyšší představitel OSN na Haiti, to prohlásil za "poměrně dobré volby v mnoha ohledech".
+Pozorovatelé z Organizace amerických států a karibského společenství opatrně uvedli, že "nevěří, že tyto nesrovnalosti, tak, jak byly, nutně zneplatnily tento proces".
 Jinými slovy, show pokračuje.
-Volební orgán, o kterém oponenti tvrdí, že je zavázán René Prévalovi, nepopulárnímu odcházejícímu prezidentovi a jeho kandidátovi Judovi Célestinovi, má oznámit předběžné výsledky 7. prosince.
-Očekávané odtok je naplánován na leden.
-Veškerá naděje ve volbách není prohraná.
-Dva přední opoziční kandidáti, Michel Martelly, rapový hudebník, a Mirlande Manigat, bývalá první dáma, ustoupili od své původní výzvy k hlasování, které má být prohlášeno za neplatné.
-Ale může nastat problém, pokud pan Célestin, který má malou nebo žádnou znatelnou podporu mezi voliči, je deklarován volebním orgánem, aby dosáhl odtoku.
-S epidemií cholery, která zuřila, a více než 1 milion přeživších zemětřesení, kteří stále žijí ve stanech, existovaly obavy, že účast bude nízká.
-V tomto případě mnoho Haiťanů chtělo volit, ale bylo jim zabráněno v tom dezorganizací.
-Asi 250 000 průkazů totožnosti, které byly vyžadovány pro hlasování, zůstalo krátce před volbami nerozprodáno.
+Volební orgán, o němž se odpůrci tvrdí, že je zavázán René Prévalovi, nepopulárnímu odcházejícímu prezidentovi a jeho kandidátovi Judu Célestinu, má oznámit předběžné výsledky sedmého prosince.
+Očekávaný průjezd je naplánován na leden.
+Veškerá naděje ve volbách není ztracena.
+Dva přední opoziční kandidáti, Michel Martelly, rapový hudebník, a Mirlande Manigat, bývalá první dáma, ustoupili od své první výzvy k tomu, aby hlasování bylo prohlášeno za neplatné.
+Může však nastat potíže, pokud pan Célestin, který má mezi voliči malou nebo žádnou rozeznatelnou podporu, bude volebním orgánem prohlášen, že dosáhl run-off.
+S epidemií cholery a více než 1m přeživší zemětřesení, kteří stále žijí ve stanech, panovaly obavy, že účast bude nízká.
+V tomto případě mnoho Haiťanů chtělo hlasovat, ale dezorganizací jim v tom bránila.
+Asi 250.000 průkazů totožnosti, potřebných k hlasování, zůstalo krátce před volbami nerozděleno.
 V sázce je mnoho.
-Dárci pomoci považují zvolení legitimní a populární vlády za zásadní krok při rekonstrukci Haiti.
-A tak, je jasné, udělte si sami Haiťané.
-Tiptoe do centra
-V týdnech, kdy byla náhle ovdovělá, Cristina Fernándezová, argentinská prezidentka, těžila z vlny sympatií veřejnosti, která zvýšila její popularitu o 20 bodů na více než 50%, což je nejvyšší úroveň od jejího zvolení v roce 2007.
-Přesto z toho přeměna na úspěšnou kampaň na druhé funkční období ve volbách v příštím roce může záviset na tom, zda viditelně truchlí paní Fernándezová opustí nesrovnalost svého zesnulého manžela, předchůdce a politického partnera Néstora Kirchnera.
-A na to se signály mísí.
-Pan Kirchner, který pokračoval v řízení hospodářské politiky i poté, co ho jeho žena nahradila jako prezident, měl ve zvyku skládat rozpočty, které podceňovaly daňové příjmy, hospodářský růst a inflaci.
-To umožnilo prvnímu páru utratit další příjmy podle libosti.
-Na papíře Fernándezova vláda loni ztratila většinu v Kongresu.
-Ale opozice je rozdělena a ta byla dále uvržena do zmatku Kirchnerovou smrtí infarktu 27. října.
+Dárci humanitární pomoci považují zvolení legitimní a lidové vlády za zásadní krok v rekonstrukci Haiti.
+A tak je jasné, že se sami Haiťané.
+Tiptoing do centra
+V týdnech, kdy náhle ovdověla, Cristina Fernándezová, argentinská prezidentka, těžila z vlny sympatií veřejnosti, která zvýšila její schvalovací rating o 20 bodů, na více než 50%, což je nejvyšší úroveň od jejího zvolení v roce 2007.
+Přesto přeměna na úspěšnou kampaň pro druhé funkční období ve volbách v příštím roce může záviset na tom, zda viditelně truchlící paní Fernándezová opustí neústupnost svého zesnulého manžela, předchůdce a politického partnera Néstor Kirchnerové.
+A na to jsou znamení smíšená.
+Pan Kirchner, který pokračoval v řešení hospodářské politiky i poté, co ho jeho žena nastoupila do funkce prezidenta, měl ve zvyku sestavovat rozpočty, které podceňovaly daňové příjmy, hospodářský růst a inflaci.
+To umožnilo prvnímu páru utratit dodatečné příjmy podle této.
+Vláda paní Fernándezové na papíře loni ztratila většinu v Kongresu.
+Ale opozice je rozdělena a byla vržena dále do rozkladu smrtí pana Kirchnera na infarkt 27. října.
 Někteří disidentští členové vládnoucího peronistického hnutí se shromáždili k paní Fernándezové.
-Ale po chaotických zasedáních (ve kterých poslanec udeřil další do obličeje a jiní obvinili vládu z úplatkářství), Kongres nedokázal schválit rozpočet na rok 2011.
+Ale po chaotických zasedáních (v nichž poslanec udeřil další do obličeje, a další obvinili vládu z podplácení), Kongres neschválil rozpočet na rok 2011.
 "Nebudu se hádat," řekl prezident.
-Rozpočet na rok 2010 bude platit příští rok, což dává prezidentovi ještě větší prostor k utrácení podle libosti.
-Ekonomika se divoce přehřívá: letos pravděpodobně poroste až o 9 %.
-Oficiální míra inflace nyní činí 11,1%, ale mnoho soukromých odhadů - a obchodní odborové mzdové požadavky - daly toto číslo blízko 30%.
-Pan Kirchner, který se ujal úřadu v roce 2003, kdy byla Argentina zjizvena ekonomickým kolapsem, učinil růst a snížení chudoby, spíše než kontrolou inflace, svých priorit.
-Odmítl jednat s MMF, obtěžoval soukromý sektor a očistil INDEC, statistickou agenturu, která přistoupila k oficiálním statistikám inflace lékařů.
-Mohla by paní Fernándezová nyní zmírnit tyto politiky?
-Vyzvala k rozhovorům mezi soukromými podniky a odborovými předáky.
-A její úředníci říkají, že chtějí omezit zvýšení mezd v příštím roce na 18%.
-Ekonomika byla podpořena vysokými světovými cenami argentinského vývozu zemědělských podniků.
-Inflace však narušila podporu růstu, který v roce 2002 poskytla velká devalvace.
-To může být důvod, proč paní Fernándezová vykazuje známky toho, že chce obnovit argentinské finanční vazby na zbytek světa.
-Začátkem tohoto roku vláda uzavřela dohodu s držiteli dluhopisů, kteří odmítli dřívější nucenou restrukturalizaci dluhu, na které Argentina v roce 2001 nesplatila.
-Nyní se zdá, že paní Fernándezová směřuje k dohodě s věřitelskými vládami seskupených v pařížském klubu, které dluží asi 6,7 miliardy dolarů.
-Kirchnerovi vždy trvali na tom, že to nemůže zahrnovat dohled MMF, jak je obvyklé.
-Ale minulý měsíc Amado Boudou, ministr hospodářství, oznámil, že fond poskytne "technickou pomoc" navrhnout nový národní index spotřebitelských cen, který vypadá jako předehra k vyčištění INDEC.
-Není jasné, zda chce paní Fernándezová zůstat v politice i po skončení jejího funkčního období, když její manžel již není po jejím boku.
-Pokud tak učiní, potřebuje získat podporu střední třídy, z nichž většina je unavená z kirchnerismu.
-V době, kdy se Argentinci vrátí ze svých letních prázdnin v březnu, vlna sympatií pro ni bude klesat.
-Pokud chce vyhrát další volby, bude se muset rozhodnout, zda v tichosti zavrhne mnoho politik svého manžela.
-Půl povzbuzení pro Čínu
+Rozpočet na rok 2010 bude platit i v příštím roce, což prezidentovi poskytne ještě více prostoru k utrácení podle záliby.
+Ekonomika se divoce přehřívá: letos pravděpodobně poroste až o 9%.
+Oficiální míra inflace nyní dosahuje 11,1%, ale mnoho soukromých odhadů - a mzdových požadavků na odbory - se toto číslo blíží 30%.
+Pan Kirchner, který se ujal úřadu v roce 2003, když byla Argentina zjizvena ekonomickým kolapsem, učinil růst a snížení chudoby, spíše než aby kontroloval inflaci, své priority.
+Odmítl jednat s MMF, obtěžoval soukromý sektor a očistil INDEC, statistickou agenturu, která přistoupila k oficiálním inflačním statistikám lékařů.
+Může paní Fernándezová tyto politiky zmírňovat?
+Vyzvala k rozhovorům mezi soukromými byznysem a odborovými předáky.
+A její úředníci říkají, že chtějí omezit zvyšování mezd v příštím roce na 18%.
+Ekonomiku povzbudily vysoké světové ceny argentinského vývozu zemědělských produktů.
+Inflace však narušila podporu růstu, kterou poskytla velká devalvace v roce 2002.
+To může být důvod, proč paní Fernándezová vykazuje známky toho, že chce obnovit finanční vazby Argentiny na zbytek světa.
+Začátkem tohoto roku vláda uzavřela dohodu s držiteli dluhopisů, kteří odmítli dřívější nucenou restrukturalizaci dluhu, na který Argentina v roce 2001 nesplatila.
+Nyní se zdá, že paní Fernándezová směřuje ke dohodě s věřitelskými vládami seskupené v pařížském klubu, do které dluží asi 6,7 miliardy dolarů.
+Kirchnerovi vždy trvali na tom, že to nemůže zahrnovat dohled ze strany MMF, jak je zvykem.
+Minulý měsíc ale ministr hospodářství Amado Boudou oznámil, že fond poskytne "technickou pomoc" k návrhu nového národního indexu spotřebitelských cen, který vypadá jako předehra k vyčištění INDEC.
+Není jasné, zda chce paní Fernándezová zůstat v politice i po konci svého funkčního období, když její manžel již není po jejím boku.
+Pokud ano, potřebuje získat podporu střední třídy, z nichž většina je unavená z kirchnerismu.
+V době, kdy se Argentinci vrátí ze svých letních prázdnin v březnu, vlna sympatií k ní ustoupí.
+Pokud chce vyhrát další volby, bude se muset rozhodnout, zda v tichosti zavrhne mnoho politik jejího manžela.
+Půl jásotu pro Čínu
 Tchajwanští voliči se blíží k jakési užší unii s pevninou.
-Co si myslí Tchaj-wan o svém velkém bratrovi přes úžinu?
-Více než 7,5 milionu voličů se ukázalo 27. listopadu, 70% z těch, kteří mají nárok, volit starosty a městské radní v pěti městských okresech, což je považováno za široké hodnocení prezidenta Ma Ying-jeou.
-Pan Ma sám se stal náhradníkem pro pocity o pevnině, protože vytvořil průlomové obchodní vazby, včetně částečného paktu o volném obchodu, v největším přeskupování vztahů s Čínou vlastní od roku 1949.
-Pan Ma prošel zkouškou, ale jen tak.
-Ačkoli jeho Kuomintang strana (KMT) skončila vyhrála tři z pěti starostů, nezískala většinu hlasů.
-Místo toho Demokratická pokroková strana (DPP), která se přikláněla k plnější nezávislosti Tchaj-wanu, získala téměř 50% všech hlasů na 45% KMT.
-Kdyby to byl prezidentský průzkum, pan Ma by měl problémy.
-Od doby, kdy byl zvolen před dvěma lety, podíl jeho strany na hlasování klesl možná o 8%.
-Poprvé DPP kreslil i s KMT v městských radách.
-Volby viděl většinu základů tchajwanských voleb, včetně hlučné kampaně kamiony a vlajky mávání masové rallye s skromně oblečené tančící dívky.
-Dokonce se vidělo v povinném záhadném pokusu o atentát.
-Sean Lien, syn Lien Chan, čestného předsedy KMT, narazil na kandidáta KMT v předvečer voleb.
-Muž z davu zastřelil mladého pana Liena očistý přes obličej, zranil ho a zabil kolemjdoucího.
-Bizarní je, že nebylo rozhodnuto, zda střelec měl v úmyslu ublížit panu Lienovi nebo urovnat spor s kandidátem.
-Ať tak či onak, říká Tsai Ing-wen, vůdce DPP, střelba ovlivnila volby, vyvolala podezření na DPP a přivedla voliče směrem ke KMT.
-Snad jediným velkým vítězem kampaně byla Čína.
-Bylo zarážející, jak chyběla samotná otázka pevniny.
-Místo toho kandidáti soupeřili o plánech na veřejné bydlení a vytváření pracovních míst.
-Tchaj-wan se obvykle těší své de facto nezávislosti a nenávidí čínskou vojenskou hrozbu.
-Takže KMT má tendenci vyhnout se předloktím svých vazeb na vládu v Pekingu.
+Co si myslí Tchaj-wan o svém velkém bratrovi přes úžinou?
+27. listopadu se ukázalo více než 7,5 milionu voličů, 70% oprávněných, aby volili starosty a městské radní v pěti městských obvodech, což je považováno za široké hodnocení prezidenta Ma Ying-jeou.
+Sám pan Ma se stal náhradníkem za pocity z pevniny, když vytvořil průlomové obchodní vazby, včetně částečného paktu o volném obchodu, v největším přeskupení vztahů s Čínou od roku 1949.
+Pan Ma prošel testem, ale jen tak.
+Přestože jeho strana Kuomintang (KMT) nakonec vyhrála tři z pěti starostenských zemí, nedokázala získat většinu hlasů.
+Místo toho Demokratická pokroková strana (DPP), která se přiklonila k plnější nezávislosti Tchaj-wanu, získala téměř 50% všech hlasů na 45% KMT.
+Kdyby to byl prezidentský průzkum, měl by pan Ma potíže.
+Od té doby, co byl před dvěma lety zvolen, klesl podíl jeho strany na hlasování možná o 8%.
+DPP poprvé remizovala i s KMT v městských radách.
+Ve volbách došlo k většině stálostí tchajwanských voleb, včetně hlučných kamionů a masových shromáždění mávajících vlajkami s nenápadně oděnými tančícími dívkami.
+Dokonce se dočkala povinného záhadného pokusu o atentát.
+Sean Lien, syn Lien Chanové, čestného předsedy KMT, v předvečer voleb klopýtl pro kandidáta KMT.
+Muž z davu zastřelil mladého pana Liena očištěným přes obličej, zranil ho a zabil kolemjdoucího.
+Bizarní je, že nebylo rozhodnuto, zda střelec měl v úmyslu ublížit panu Lienovi, nebo urovnat spor s kandidátem.
+Ať tak či onak, říká Tsai Ing-wen, vůdce DPP, střelba ovlivnila volby, vrhla podezření na DPP a hnal voliče směrem KMT.
+Snad jediným velkým vítězem z kampaně byla Čína.
+Bylo zarážející, jak problema forma samotné pevniny chyběla.
+Místo toho kandidáti bojovali o plány na veřejné bydlení a tvorbu pracovních míst.
+Tchaj-wan se obvykle těší své faktické nezávislosti a nenávidí čínskou vojenskou hrozbu.
+Takže KMT má tendenci se vyhýbat se promenádování svých vazeb na vládu v Pekingu.
 Ale tentokrát se DPP také zdržela bičování protičínských nálad.
-Reaguje na nové povědomí o tom, že čínský podnik je nezbytný pro ekonomické přežití Tchaj-wanu.
-Pan Ma zase tvrdil, že potvrdil, že jeho čínská politika je přijatelná pro tchajwanskou většinu.
-Očekává se, že vláda v Pekingu bude i nadále zásobovat komerční sladidla, v souladu se svou strategií pro lákání Tchaj-wanu zpět do záhybu.
-Čína neztrácela čas vysláním vyjednavače do Tchaj-peje, aby zařídil summit o ochraně investic a lékařské spolupráci.
-Jistě, také by to chtělo vidět politickou integraci, ale nejprve první.
+Reaguje na nové povědomí o tom, že čínský byznys je nezbytný pro ekonomické přežití Tchaj-wanu.
+Pan Ma, pokud jde o to, tvrdil, že jeho čínská politika je přijatelná pro tchajwanskou většinu.
+Lze očekávat, že vláda v Pekingu bude pokračovat v dodávkách komerčních sladidel, v souladu se svou strategií přilákat Tchaj-wan zpět do stáda.
+Čína neztrácela čas vysláním vyjednavače do Tchaj-peje, aby zajistila summit o ochraně investic a lékařské spolupráci.
+Jistě by to bylo také, kdyby politická integrace viděla, ale nejprve věci.
 Lepší počkat až po prezidentských volbách v roce 2012.
-DPP se tak jako tak znovu objevil.
-Před dvěma lety to bylo na nízké úrovni: jeho bývalý vůdce, Chen Shui-bian, byl poslán do vězení na základě obvinění z korupce.
-Prezident v letech 2000-08 byl ohnivým příručkem pro explicitní nezávislost.
-Ale pod vedením paní Tsai se objevila nová generace umírněných a DPP tvrdě pracuje na přilákání profesionálů a mládeže.
-Paní Tsai byla oslavována jako kandidátka na prezidenta DPP, stejně jako Su Tseng-chang, který sloužil pod panem Chenem.
-Jejich strana nyní dělá vše pro to, aby ukázala, že i ona může spolupracovat s Pekingem.
-Paní Tsai oznámila plány na to, aby think-tank jednal jako kontaktní místo mezi DPP a Čínou, za předpokladu, že jejich rozhovory mohou být prováděny bez předběžných podmínek.
+DPP se každopádně znovu objevil.
+Před dvěma lety to bylo v nízkém bodě: její bývalý vůdce, Čchen Šui-bian, byl poslán do vězení na základě obvinění z korupce.
+Prezident v letech 2000-08, byl ohnivou značkou pro explicitní nezávislost.
+Ale pod vedením paní Tsaiové se objevila nová generace umírněných a DPP tvrdě pracuje na přilákání profesionálů a mládeže.
+Paní Tsai byla oslavována jako kandidátka DPP na prezidentský úřad, stejně jako Su Tseng-chang, který sloužil pod panem Chenem.
+Jejich strana nyní dělá vše, co je v jejích silách, aby ukázala, že i ona může spolupracovat s Pekingem.
+Paní Tsai oznámila plány, že think-tank bude fungovat jako kontaktní místo mezi DPP a Čínou za předpokladu, že jejich rozhovory mohou být vedeny bez předběžných podmínek.
 Paní Tsai říká tchajwanské veřejnosti, že její strana představuje "důvěryhodnou alternativu" k unáhlenému přístupu pana Ma k Číně.
 Zdá se, že pan Chen je rozzuřený posunem.
-V prohlášení vydaném z jeho cely uvedl, že kandidátům DPP by se dařilo lépe, kdyby trvali na tom, že Tchaj-wan je samostatná země.
-Dokonce nařídil panu Su, pragmatistovi, aby nekanicoval o prezidentský úřad.
-I bez Chenova zásahu bude DPP bojovat o výběr mezi svými potenciálními kandidáty.
-KMT je kvůli vlastnímu hledání duše.
-Hodnocení pana Ma bylo špatné, navzdory zvratnému hospodářskému růstu; kandidáti KMT nechtěli s ním vést kampaň.
-Zdá se, že jeho neoblíbenost je z velké části způsobena nezaměstnaností a rozšiřujícím se rozdílem mezi bohatými a chudými.
-Mluvčí KMT uvedl, že bude přeskupovat svůj kabinet, stejně jako místní pobočky.
-Silné vystoupení DPP naznačuje, že podpora Tchaj-wanu pro sblížení je omezená.
-Ve stejné době většina Tchajwanců považuje ekonomickou integraci s Čínou za nevyhnutelnou.
-Podle prominentního komentátora Antonia Chianga „bod, který se již nevrátil, uplynul“.
+V prohlášení vydaném z jeho cely uvedl, že kandidáti DPP by dopadli lépe, kdyby trvali na tom, že Tchaj-wan je samostatná země.
+Dokonce nařídil panu Suovi, pragmatikovi, aby se nekandidoval na prezidentský úřad.
+I bez zásahu pana Chena bude DPP bojovat o to, aby si vybral mezi svými potenciálními kandidáty.
+KMT má za vlastní hledání duše.
+Ratingy pana Ma byly špatné, navzdory krkolomnému hospodářskému růstu; kandidáti KMT s ním nechtěli vést kampaň.
+Zdá se, že jeho nepopulárnost je z velké části způsobena nezaměstnaností a prohlubující se propasti mezi bohatými a chudými.
+Mluvčí KMT tvrdí, že přemísťuje svůj kabinet i místní pobočky.
+Silná ukázka DPP naznačuje, že podpora Tchaj-wanu pro sbližování je omezená.
+Zároveň většina Tchajwanců považuje ekonomickou integraci s Čínou za nevyhnutelnou.
+Podle Antonia Chianga, prominentního komentátora, "smysl není návratu již uplynul".
 Nominace na Grammy: Jazzová zpěvačka Esperanza Spalding je překvapivým výběrem v kategorii nejlepších nových umělců
-Proveďte na žádost prezidenta a lidé jsou povinni vzít na vědomí.
-Esperanza Spalding, 26letý jazzový baskytarista a zpěvák, kterého si prezident Obama vybral, aby vystoupil na svém ceremoniálu Nobelovy ceny míru v roce 2009, letos označil jedno z překvapení Grammy s vysoce postaveným nominací v kategorii nejlepší nový umělec.
-Vzhledem k tomu, že Spaldingová byla oslavovanou postavou na jazzové scéně od svého alba z roku 2008 "Esperanza", nominace je trochu hlava-škrábačka, ale je to v souladu s pravidly Grammy umělce, který nevydává více než tři alba před nahráváním, které "zavádí veřejnou identitu tohoto umělce."
-Její ambiciózní album z roku 2010 "Chamber Music Society" určitě znamenalo krok vpřed a vzhledem k tomu, že její pěkně zvlněný vokální styl a obratná ruka s popem, funkem a latinskými vlivy je možné nakreslit alespoň tečkovou linku na Spalding od Norah Jonesova uprchlého úspěchu v roce 2003, nejbližším ekvivalentem voličů Grammy, kteří se dívají na jazzovou čtvrť v této kategorii v posledních letech.
-Jinde Grammy voliči správně ocenili "Historičnost" Vijaye Tria "Historičnost" v kategorii instrumentálních alb, což je osvěžující vzrušující jízda nahrávek, která byla v loňském roce kritickým favoritem.
-Mezi těmi, proti nim bude Iyer soutěžit, patří veterán saxofonista James Moody's "Moody 4B" a klávesista John Beasley "Positootly".
-Trombon Shorty, nadšený New Orleans oblíbený a častý host na HBO "Treme", byl oceněn v kategorii současného jazzu, který se jinak silně naklání směrem k fúzi s kývnutími na alba Stanleyho Clarkea, Johna McLaughlina a Jeffa Lorbera.
-Divoký, steampunk-informovaný Darcy James Argue's Secret Society získal nějaké zasloužené uznání ve velké kategorii souborů, soutěží proti bohatému komornímu jazzu Billy Childs Ensemble a vždy dobrodružnému Daveovi Hollandovi, jehož octetovo živé album "Pathways" bylo dobrým příkladem alždské demokratické ruky jako kapelníka.
-Nominace na Grammy Awards: Michael Daugherty, Steve Mackey vede klasické kategorie
-Klasické nominace na 53. ročník Grammy Awards představují rozlehlý mix hudebníků a skladatelů z celého světa.
-Vedoucími nominacemi jsou "Deus Ex Machina" Michaela Daughertyho pro klavír a orchestr, s pěti kývnutími, a Steve Mackeyho "Dreamhouse", eklektické orchestrální dílo se třemi kývnutími.
-Mezi nominovanými s vazbami na jižní Kalifornii je estonský skladatel Arvo Pärt pro jeho Symfonii No. 4, "Los Angeles", skladba, kterou objednala Los Angeles Philharmonic a debutovala v koncertní síni Walt Disney v roce 2009.
-L.A. sídlící skladatel Avner Dorman's Mandolin Concerto je také na cenu.
-Klasické nominace jsou rozloženy na 13 kategoriích zahrnujících orchestrální, operní, sborové a sólové nahrávky.
-Kategorie pro klasického producenta roku představuje pět nominovaných - Blanton Alspaugh, David Frost, Tim Handley, Marina a Victor Ledin a James Mallinson.
-Nominace na klasické album jsou Brucknerovy Symphonies No. 3 a 4 z Royal Concertgebouw Orchestra; Daughertyho "Deus Ex Machina" a "Metropolis Symphony" z Nashvillského symfonického orchestru; Steven Mackey "Dreamhouse" z Boston Modern Orchestra a Synergy Vocals; "Sacrificium - umění Castrati" představovat různé umělce; a Verdiho "Requiem" z Chicag Symphonu.
-V kategorii opery jsou nominováni Bergův "Lulu" z orchestru Královské opery; Adolf Hasse je "Marc Antonio e Kleopatra" z Ars Lyrica Houston; Kaija Saariaho je "L'Amour de Loin" z Deutsches Symphonie-Orchester Berlin; Rodon Shchedrin je "The Enchanted Wanderer" z orchestru a sbor Mariinsky.z Walesu.
-Skladatelé, kteří jsou pro Grammy pro současnou kompozici patří Pärt pro Symphony No. 4, Daugherty za "Deus Ex Machina", Hans Werner Henze za "Appassionamente Plus", Magnus Lindberg za "Graffiti" a Shchedrin za "The Enchanted Wanderer".
-Pärtova symfonie Ne. 4 měl premiéru v Disney Hall v lednu 2009 v představení, které bylo zaznamenáno v L.A. Filharmonie, kterou dirigoval Esa-Pekka Salonen.
-Přibližně 30 minutový kus je nazván "Los Angeles" a je věnován bývalému ropnému magnátovi Michailu Chodorkovskému, který je uvězněn v Rusku.
-Dormanův "Mandolin Concerto" byl nominován na instrumentální sólistu s orchestrem.
-L.A. skladatel řekl, že napsal 15 minutový kus speciálně pro mandolínského umělce Avi Avitala, který provedl koncert s Metropolis Ensemble v New Yorku.
-"Napsal jsem to pomocí zvuků Středního východu a mnoha severoafrických měřítek a rytmů," řekl Dorman v telefonickém rozhovoru.
-Dirigent Pierre Boulez, 85, získal nominaci v kategorii orchestrální představení za vedení Chicago Symphony v nahrávce děl Stravinského.
-Mezi instrumentální sólisty, kteří získali nominace, jsou klavíristé Nelson Freire a Marc-André Hamelin, varhaník Paul Jacobs, houslistka Julia Fischerová a harfistka Sarah Schuster Ericsson.
-Vócal-sólista nominovaní byli letos všichni žena a zahrnovali Anne Sofie Von Otter, Cecilia Bartoli, Lucia Duchonová, Vivica Genaux a Measha Brueggergman.
-V klasické kategorii crossover získala sopranistka Jessye Norman nominaci za svou nahrávku "Roots - My Life, My Song".
+Vystupujte na žádost prezidenta a lidé si toho musí vzít výpověď.
+Esperanza Spalding, 26letý jazzový baskytarista a zpěvák, který si vybral prezident Obama, aby vystoupil na svém slavnostním ceremoniálu Nobelovy ceny míru v roce 2009, označil jedno z letošních překvapení Grammy s vysoce postavenou nominací v kategorii nejlepších nových umělců.
+Vzhledem k tomu, že Spalding je slavnou postavou na jazzové scéně od jejího alba "Esperanza" z roku 2008 je nominace trochu poškrábání hlavy, ale je v souladu s pravidly Grammy umělce, který nevydává více než tři alba před nahrávkou, která "establishmentuje veřejnou identitu tohoto umělce".
+Její ambiciózní album z roku 2010 "Chamber Music Society" rozhodně znamenalo krok vpřed a vzhledem k jejímu vzdušně lákanému vokálnímu stylu a obratné ruce s popovými, funkovými a latinskými vlivy je možné nakreslit alespoň tečkovanou čáru k Spaldingovi z úspěchu Norah Jonesové v roce 2003, což je nejbližší ekvivalent voličů Grammy, kteří se v posledních letech dívá na jazzovou čtvrť v této kategorii.
+Voliči na Elka do Grammy právem uctili "Historicitu" Vijay Iyer Trio v kategorii instrumentálních alb, což je povzbuzující vzrušující jízda nahrávky, která byla v loňském roce kritickým favoritem.
+Mezi ty, proti kterým bude Iyer soutěžit, patří mezi "Moody 4B" veteránského saxofonisty Jamese Moodyho a "Positootly" klaketisty Johna Beasleyho.
+Trombon Shorty, nadšený oblíbenec New Orleans a častý host na HBO "Treme", byl oceněn v kategorii současného jazzu, která se jinak silně naklání k fúzi s kývnutím směrem k albům Stanleyho Clarkea, Johna McLaughlina a Jeffa Lorbera.
+Divoká, steampunkem informovaná Tajná společnost Darcyho Jamese Arguea získala ve velké kategorii souboru zasloužené uznání, soutěžila s bohatým komorním tanzkem Billyho Childs Ensemble a stále dobrodružného Davea Hollanda, jehož oktatové živé album "Pathways" bylo dobrým příkladem baskytarové demokratické ruky jako kapelníka.
+Nominace na ceny Grammy: Michael Daugherty, Steve Mackey vede klasické kategorie
+Klasické nominace na 53. ročník cen Grammy představují rozlehlý mix hudebníků a skladatelů z celého světa.
+Nominace jsou "Deus Ex Machina" Michaela Daughertyho pro klavír a orchestr, s pěti kývnutími a "Dreamhouse" od Steva Mackeyho, eklektické orchestrální dílo, se třemi kývnutími.
+Mezi nominovanými s vazbami na jižní Kalifornii je estonský skladatel Arvo Pärt pro jeho Symfonii No. 4, "Los Angeles", kus, který byl zadán Los Angeles Philharmonic a debutoval ve Walt Disney Concert Hall v roce 2009.
+Mandolínský koncert se skladatelem z L.A. Avnera Dormana je také na ceně.
+Klasické nominace jsou rozloženy do 13 kategorií pokrývajících orchestrální, operní, sborové a sólové nahrávky.
+V kategorii pro klasického producenta roku se představí pět nominovaných - Blanton Alspaugh, David Frost, Tim Handley, Marina a Victor Ledin a James Mallinson.
+Nominace na klasické album jsou Bruckner's Symphonies No. 3 a 4 z Royal Concertgebouw Orchestra; Daughertyho "Deus Ex Machina" a "Metropolis Symphony" z Nashvillského symfonického orchestru; Steven Mackey "Dreamhouse" z Boston Modern Orchestra Project a Synergy Vocals; "Sacrifium - umění Castráta" s různými umělci; a Verdiho "Requiem" z Chicaga.
+V kategorii operu jsou nominovaní Bergovi "Lulu" z orchestru Královské opery; Adolf Hasse "Marc Antonio e Cleopatra" z Ars Lyrica Houston; Kaija Saariaho "L'Amour de Loin" z Deutsches Symphonie-Orchester Berlin; Rodion Shchedrin "The Enchanted Wanderer" z orchestru a sboruWales.
+Mezi skladatele, kteří jsou pro Grammy pro současnou skladbu, patří Pärt for Symphony No. 4, Daugherty pro "Deus Ex Machina", Hans Werner Henze za "Appassionatamente Plus", Magnus Lindberg za "Graffiti" a Shchedrin pro "The Enchanted Wanderer".
+Pärtova Symfonie Ne. 4 měl premiéru v Disney Hall v lednu 2009 v představení, které bylo nahráno L.A. Filharmonie, kterou diriguje Esa-Pekka Salonen.
+Přibližně 30 minutový kus je nazván "Los Angeles" a je věnován bývalému ropnému magnátovi Michailu Chodorkovskému, který je vězněn v Rusku.
+Dormanův "Mandolínský koncert" byl nominován na instrumentální sólové vystoupení s orchestrem.
+Skladatel L.A. uvedl, že 15 minutovou skladbu napsal speciálně pro mandolího performera Aviváta, který koncert předvedl s newyorským Metropolis Ensemble.
+"Napsal jsem to pomocí blízkovýchodních zvuků a spousty severoafrických měřítek a rytmů," řekl Dorman v telefonickém rozhovoru.
+Dirigent Pierre Boulez (85) získal nominaci v kategorii orchestrálního vystoupení za vedení Chicagské symfonie v nahrávce děl Stravinského.
+Mezi instrumentální sólisty, kteří obdrželi nominace, patří klavíristé Nelson Freire a Marc-André Hamelin, varhanec Paul Jacobs, houslistka Julia Fischerová a harfenistka Sarah Schuster Ericssonová.
+Vokálně-solistka nominovala letos všechny ženy a mezi nimi byli Anne Sofie Von Otter, Cecilia Bartoliová, Lucia Duchonová, Vivica Genaux a Measha Brueggergosmanová.
+V kategorii klasického crossoveru získala sopranistka Jessye Norman nominaci za svou nahrávku "Roots - My Life, My Song".
 Navrhovaná mešita Temecula získala schválení plánovací komise
-Navrhovaná mešita v Temecule získala jednomyslnou podporu místní plánovací komise po více než pěti hodinách často vášnivých veřejných svědectví.
-Kritici napadli projekt jako podporu jak terorismu, tak dopravních vazeb.
-Komisaři však ve středu večer vládli novému náboženskému centru, které bylo v souladu s místními zákony a bylo by to esteticky působivé.
-"Podpořilo to mnoho dobrých lidí - křesťané, Židé, Bahais, vy najmenujte to," řekl Hadi Nael, předseda islámského centra Temecula Valley.
-"Jsem na to hrdý jako americký občan.
-"Ukazuje to, že spravedlnost převažuje."
+Navrhovaná mešita v Temecule získala jednomyslnou podporu místní plánovací komise po více než pěti hodinách často vyhroceného veřejného svědectví.
+Kritici projekt napadli jako podporu terorismu i dopravních vazeb.
+Komisaři ale ve středu večer rozhodli, že nové náboženské centrum dodrželo místní zákony a bylo by esteticky působivé.
+"Přišli to podpořit mnoho dobrých lidí - křesťané, Židé, Baháni, pojmenujte to," řekl Hadi Nael, předseda Islámského centra Údolí Temecula.
+"Jsem na to hrdý jako americký občan."
+"Znám toho vyplývá, že spravedlnost převládá."
 "Opozice je velmi minimální," dodal.
-"Mají jen velmi hlasitý hlas."
-"Máme v tomto údolí krásné lidi."
-Setkání začalo v 18:00 a trvalo téměř do půlnoci, přičemž většina času začala s lidmi, kteří mluvili pro nebo proti centru, asi rovnoměrně rozdělena, podle Press-Enterprise.
-Debata pokračovala na webových stránkách novin.
-"Už není žádná Amerika," napsal jeden z komentátorů.
-"Je to další Planeta opic s Miss Liberty, která je mrtvá v písku."
-"Amerika padla."
-Plánovaná islámská centra také vyvolala protesty v jiných částech země, včetně blízkosti Ground Zero, místo září. 11.11.2001, teroristické útoky v New Yorku.
-V údolí Temecula odsoudil imám Mahmúd Harmouš násilí.
-Jeho kongregace asi 135 rodin koexistovala bez incidentu v Riverside County po celá léta, ale chtěla větší a lepší prostor než sklad, který si pronajala na pozemku sdíleném s výrobcem vodních filtračních systémů.
-Nová mešita o rozloze 24 943 čtverečních stop s architektikou středomořského stylu by zahrnovala dva minarety a stoupala až 43 stop.
-To by zabralo 4,32 akrové místo na Nicolas Road asi dvě míle východně od Chaparral High School.
-Oponenti se stále mohou odvolat proti projektu městské radě.
-Arzenicky tolerantní mikrob zvyšuje možnost nových typů života na Zemi nebo jinde.
-Objev podivné bakterie, která může použít arsen jako jednu z jejích živin, rozšiřuje prostor pro nalezení nových forem života na Zemi a možná i mimo ni.
-Zatímco vědci objevili neobvyklé bakterie zde na Zemi, říkají, že ukazuje, že život má možnosti mimo hlavní prvky, které byly považovány za nezbytné.
-"Tento organismus má dvojí schopnosti."
-Může růst buď s fosforem nebo arsenem.
-"To je velmi zvláštní, i když to nedosahuje nějaké formy skutečně 'mimozemského' života," řekl Paul C. W. Davies z Arizonské státní univerzity, spoluautor zprávy, která se objevila ve čtvrtečním online vydání časopisu Science.
-Šest hlavních prvků bylo již dlouho považováno za nezbytné pro život – uhlík, vodík, dusík, kyslík, fosfor a síra.
-Vědci však zjistili, že bakterie, objevené v Mono Lake v Kalifornii, jsou schopny pokračovat v růstu po nahrazení arsenu fosforem.
-"To vás nutí přemýšlet, co dalšího je možné," řekl Ariel D. Anbar z Arizonské státní univerzity, spoluautor zprávy.
-Nález je důležitý při hledání života mimo Zemi, protože vědci musí být schopni rozpoznat život, vědět, jak vypadá život, řekl Anbar.
-Studie se zaměřila na mikrob nalezený na Zemi.
-Nicméně, oznámení tiskové konference k diskusi o tom, která nezveřejnila podrobnosti nálezu, vyvolalo na internetu rozsáhlé spekulace, že zpráva odhalí objev mimozemského života.
-- Nešlo to.
-Objev „vykazuje, že v jiných planetárních prostředích by mohly být organismy schopny použít jiné prvky k pohonu biochemie a že „standardní“ soubor prvků, o kterých si myslíme, že jsou naprosto nezbytné pro život, nemusí být tak fixní,“ uvedl Charles Cockell, profesor na Planetary and Space Sciences Research Institute, Open University v Milton Keynes ve Velké Británii.
-Cockell nebyl součástí výzkumného týmu.
-"Tato práce je nová, protože ukazuje nahrazení jednoho prvku pro jiný v základní biochemii a biochemické struktuře," dodal Cockell.
+"Mají jen velmi hlasité hlasy."
+"V tomhle údolí máme krásné lidi."
+Setkání začalo v 6 hodin a trvalo téměř půlnoc, přičemž většinu času zabírali lidé, kteří mluvili za nebo proti centru, asi rovnoměrně rozděleni, podle Press-Enterprise.
+Debata pokračovala i na webových stránkách deníku.
+"Už žádná Amerika neexistuje," napsal jeden z komentujících.
+"Je to další Planeta Apérů se slečnou Svobodnou, která je mrtvá v písku."
+"Amerika se rozpadla."
+Plánovaná islámská centra také vyvolala protesty v jiných částech země, včetně v blízkosti země nuly, místa Septu. 11, 2001, teroristické útoky v New Yorku.
+V údolí Temecula odsoudil imám Mahmúd Harmúš násilí.
+Jeho kongregace asi 135 rodin koexistovala bez incidentů v Riverside County po celá léta, ale chtěla větší a lepší prostor než sklad, který si pronajal na pozemku sdíleném s výrobcem systémů profiltrování vody.
+Nová mešita o rozloze 24,943 čtverečních stop s architekturou ve středomořském stylu by zahrnovala dvě minarety a stoupající až 43 stop.
+Zabíralo by 4,32 akrové místo na Nicolas Road asi dvě míle východně od Chaparral High School.
+Odpůrci se stále mohou proti projektu odvolat do městské rady.
+Mikrob reziborně odolný proti arzenám zvyšuje možnost nových druhů života na Zemi, nebo jinde
+Objev podivné bakterie, která může použít arsen jako jednu z jeho živin, rozšiřuje prostor pro nalezení nových forem života na Zemi a možná i mimo ně.
+Zatímco vědci objevili neobvyklé bakterie zde na Zemi, říkají, že to ukazuje, že život má možnosti nad rámec hlavních prvků, které byly považovány za nezbytné.
+"Tento organismus má dvojí schopnost."
+"Může růst buď s fosforem, nebo arsenem."
+"To je velmi zvláštní, i když to nedosahuje toho, že je to nějaká forma skutečně 'mimozemského' života," poznamenal Paul C. W. Davies z Arizonské státní univerzity, spoluautor zprávy, která se objevila ve čtvrtečním online vydání časopisu Science.
+Šest hlavních prvků bylo dlouho považováno za nezbytné pro život - uhlík, vodík, dusík, kyslík, fosfor a síň.
+Vědci však zjistili, že bakterie objevené v Mono Lake v Kalifornii jsou schopny pokračovat v růstu po nahrazení arsenu fosforem.
+"Přimělo vás to k údivu, co je možného," řekla Ariel D. Anbar z Arizonské státní univerzity, spoluautor zprávy.
+Nález je důležitý při hledání života mimo Zemi, protože vědci musí být schopni rozpoznat život, aby věděli, jak vypadá život, řekl Anbar.
+Studie se zaměřuje na mikroby nalezené na Zemi.
+Oznámení tiskové konference k jejímu projednání, která nezveřejnila podrobnosti o nálezu, však vyvolalo na internetu rozsáhlé spekulace, že zpráva odhalí objev mimozemského života.
+To se stalo.
+"Objev ukazuje, že v jiných planetárních prostředí by organismy mohly být schopny použít jiné prvky k řízení biochemie a že "standardní" sada prvků, o kterých si myslíme, že jsou nezbytně nutné pro život, nemusí být tak pevné," komentoval Charles Cockell, profesor na Institutu pro výzkum planetárních a vesmírných věd, Open University, v Milton Keynes, Spojené království.
+Cockel nebyl součástí výzkumného týmu.
+"Toto dílo je nové, protože ukazuje substituci jednoho prvku za druhým v základní biochemii a biochemické struktuře," dodal Cockell.
 Nebyl to náhodný objev.
-Felisa Wolfe-Simon z Astrobiologického institutu NASA, která vedla studii, se zaměřila na jezero Mono, protože má vysokou hladinu arsenu.
-Arsen a fosfor jsou chemicky podobné, takže spekulovala, že mikrob vystavený oběma by mohl nahradit jeden za druhého.
-Arsen je toxický hlavně proto, že jeho chemické chování je tak podobné jako u fosforu.
-"V důsledku toho mají organismy těžké rozlišovat tyto prvky od sebe."
-"Ale arsen je natolik odlišný, že to nefunguje tak dobře jako fosfor, takže se tam dostane a tak nějak dásní z našich biochemických strojů," vysvětlil Anbar.
-Vědci shromáždili bakterie známé jako GFAJ-1 a vystavili ji rostoucím koncentracím arsenu, které byly schopny se přizpůsobit a růst.
-Mikrob se na fosforu daří lépe, ale ukazuje, že může žít s arsenem místo toho zvyšuje možnost, že životní forma pomocí arsenu by se mohla přirozeně objevit, a to buď jinde na Zemi, nebo na jiné planetě nebo na Měsíci, kde je arsen častější.
-Jamie S. Foster, odborný asistent mikrobiologie na University of Florida, řekl, že myšlenka, že by arsen mohl být nahrazen fosforem, není nová, ale nikdy nebyl takový příklad, kde by se ukázalo, že funguje.
-Arsenic byl častější v raných dobách na Zemi, řekla, takže vědci spekulovali, že by ho mohly používat rané formy života.
-"Naznačuje to, že by mohlo existovat i jiné způsoby, jak vytvořit život, nejen jak se na počátku Země formoval život, " řekl Foster, který nebyl součástí výzkumného týmu Wolfe-Simon.
-Výzkum byl podpořen NASA, ministerstvem energetiky a Národním institutem zdraví.
-Zbývající ukradené show se psi našli v Comptonu
-Zbývající dva ze čtyř pořadatelů ukradených z mimo motel Bellflower byli nalezeni, uvedli ve čtvrtek úředníci šerifa okresu Los Angeles.
-Čtyři show psi - dva Akitas a dva Pembroke Welsh corgis - zmizely v úterý, když někdo ukradl dodávku Chevrolet Express z roku 2006, kterou strávili noc u motelu Bellflower 6.
-Dva z těchto špičáků byly nalezeny ve středu odpoledne a zbývající dva byly nalezeny ve středu pozdě večer, řekl Steve Whitmore, mluvčí oddělení šerifa okresu Los Angeles.
+Felisa Wolfe-Simon z Astrobiologického institutu NASA, která studii vedla, se zaměřila na Mono Lake, protože má vysokou hladinu arsenu.
+Arsen a fosfor je chemicky podobné, takže spekulovala, že mikrobex vystavený oběma by mohl být schopen nahradit jeden za druhého.
+"Arsen je toxický hlavně proto, že jeho chemické chování je tak podobné jako fosfor."
+"V důsledku toho mají organismy problém vykládat tyto prvky od sebe."
+"Ale arsen je natolik odlišný, že nefunguje tak dobře jako fosfor, takže se tam dostane a tak nějak dásní zvyšuje práce našich biochemických strojů," vysvětlil Anbar.
+Vědci shromáždili bakterie známé jako GFAJ-1 a vystavili ji rostoucím koncentracím arsenu, které se dokázal přizpůsobit a pěstovat.
+Mikrob prosperuje lépe na fosforu, ale ukazuje, že může žít s arsenem, místo toho zvyšuje možnost, že by se životní forma pomocí arsenu mohla vyskytnout přirozeně, a to buď jinde na Zemi, nebo na jiné planetě nebo na Měsíci, kde je arsen častější.
+Jamie S. Foster, odborný asistent mikrobiologie na Floridské univerzitě, řekl, že myšlenka, že arsen může být nahrazen fosforem, není nová, ale nikdy neexistoval příklad, kde se ukázalo, že funguje.
+Arsenić byl častější v časných časech na Zemi, řekla, takže vědci spekulovali, že by ho mohly použít rané formy života.
+"Naznačuje to, že by mohly existovat i jiné způsoby, jak vytvořit život, ne jen to, jak se život zformoval na rané Zemi," řekl Foster, který nebyl součástí výzkumného týmu Wolfe-Simon.
+Výzkum byl podpořen NASA, Ministerstvem energetiky a Národním institutem zdraví.
+Zbývající ukradené výstavní psi nalezeni v Comptonu
+Zbývající dva ze čtyř výstavních psů ukradených před motelem Bellflower byly nalezeny, uvedli ve čtvrtek představitelé šerifa okresu Los Angeles.
+Čtyři výstavní psi - dva Akitas a dva Pembroke Welsh corgis - zmizeli v úterý, když někdo ukradl dodávku Chevrolet Express z roku 2006, ve které strávili noc před motelem Bellflower 6, uvedly úřady.
+Dva z psů byli nalezeni ve středu odpoledne a zbývající dva byli nalezeni ve středu pozdě večer, řekl mluvčí šerifa okresu Los Angeles Steve Whitmore.
 "Dobrou zprávou je, že psi jsou v pořádku," řekl Whitmore.
 "Jsou v dobrém stavu."
 "Byli vráceni svým právoplatným majitelům."
-Whitmore odmítl přesně říci, kde byli psi nalezeni, v jaké čtvrti a okolnosti jejich objevu.
+Whitmore odmítl přesně říci, kde byli psi nalezeni, v jakém sousedství, a okolnosti kolem jejich objevení.
 "Probíhá vyšetřování."
-"Nechceme to říct," řekl Whitmore.
-"Sledujeme stopy."
-Majitelé psů, Kristina Rickardová a David Peek, se ve čtvrtek nemohli vyjádřit.
-Ve středu odpoledne se znovu setkali se svými dvěma Akitami v okresním útulku pro zvířata v Downey.
-Šerifovi zástupci našli dodávku a dva psy odděleně v Comptonu.
-Akitas - Trace, tříletý muž, a Didi, desetiměsíční samice - byli nezraněni, uvedly úřady.
-Ale Bunny a Peter, corgis Rickard a Peek plánovali tento týden ukázat na místních soutěžích jménem japonských majitelů psů, zůstali pohřešovaní až do jejich objevení pozdě ve středu.
-Peek a Rickard, kteří žijí v Reddingu, jsou tento víkend ve městě na národním šampionátu AKC / Eukanuba v Long Beach, kde plánovali ukázat Trace.
-Očekávalo se, že ostatní psi budou soutěžit v dalších soutěžích plánovaných ve dnech před show AKC / Eukanuba, řekl Peek The Times ve středu.
-Jižní Kalifornie je jednou zastávkou na páru téměř měsíční turné psích show.
+"Nechceme to říkat," řekl Whitmore.
+"Následujeme stopy."
+Majitelé psů, Kristina Rickardová a David Peek, se ve čtvrtek nepodařilo zastihnout pro komentář.
+Se svými dvěma Akitami se znovu setkali ve středu odpoledne v okresním útulku pro zvířata v Downey.
+Šerifovi zástupci našli dodávku a oba psy odděleně v Comptonu.
+Akitas - Trace, 3-letý muž, a Didi, 10-měsíční žena - byli nezraneni, uvedly úřady.
+Ale Bunny a Peter, corgis Rickard a Peek plánovali tento týden ukázat na regionálních soutěžích jménem japonských majitelů psů, zůstali nezvěstní až do jejich objevení pozdě ve středu.
+Peek a Rickard, kteří žijí v Reddingu, jsou tento víkend ve městě na národním šampionátu AKC/Eukkana v Long Beach, kde plánovali ukázat Trace.
+Ostatní psi by se měli zúčastnit dalších soutěží naplánovaných ve dnech před show AKC/Euknaba, řekl Peek ve středu listu The Times.
+Jižní Kalifornie je jednou zastávkou na téměř měsíční prohlídce psích výstav.
 V pondělí večer se Peek a Rickard ubytovali v motelu.
-Často zůstávají v motelech a parkují svou dodávku přímo před oknem svého pokoje.
-Přivezli další tři psy - štěně Boxera, Parson Russell teriéra a Brittany - které u nich bydlelo v motelovém pokoji.
-Ale nechali hustě potápěné Akitas a corgis v dodávce, kde by byla chladnější.
-Trochu otevřeli okna, aby psi mohli dostat čerstvý vzduch.
-Peek a Rickard nahlásili, že dodávka byla ukradena v 6 hodin ráno. V úterý.
-Peek řekl, že by nabídli odměnu každému, kdo by je mohl vést k corgis, které jsou implantovány mikročipy, aby je identifikovaly.
-Ve čtvrtek nebylo jasné, zda bude udělena cena.
-Lion je připraven znovu řvát, protože restrukturalizace MGM dostane konečný soud go-ahead
-Po 18 měsících nepokojů a nejistoty MGM konečně dostala zelenou, aby začala znovu.
-Newyorský federální konkurzní soudce ve čtvrtek oficiálně požehnal "předpřipravenému" plánu věřitelů na zničení dluhu ve výši asi 5 miliard dolarů a uvolnil cestu pro 86letou zábavní společnost, aby zaměřila své úsilí na výrobu a uvolňování filmů a televizních pořadů.
-Se čtvrtečním rozhodnutím, že plán splňuje požadavky amerického bankrotového kodexu, nezůstává žádné další právní překážky pro to, aby se MGM obnovila pod zakladateli společnosti Spyglass Entertainment Gary Barberem a Rogerem Birnbaumem, kteří se stanou zmenšeným studiem.
-Zaměstnanci klesnou na zhruba 320 z více než 400.
-MGM se ve skutečnosti nedostane z kapitoly 11, dokud JPMorgan Chase nezavře plánovanou úvěrovou facilitu ve výši 500 milionů dolarů na financování operací a výroby nového MGM.
-V současné době je syndikována investiční bankou - která sama o sobě kope do 75 milionů dolarů - a očekává se, že bude financována do poloviny prosince.
-Restrukturalizační proces studia začal v květnu 2009, kdy byla najata investiční banka Moelis & Co., aby poradila vedení o tom, jak opravit své finance, protože se snažila dovolit si úrokové platby ve výši 300 milionů dolarů ročně.
-Ten srpen byl generální ředitel Harry Sloan nahrazen Stephenem Cooperem, bývalým generálním ředitelem společnosti Enron a odborníkem na obrat známým pro jeho práci v Krispy Kreme Doughts.
-Moelis' a Cooperovy pokusy vyřešit finanční problémy MGM a uspokojit 140-plus věřitelů studia trvalo mnohem déle, než se očekávalo.
-Po několika měsících diskusí se strany koncem roku 2009 dohodly, že společnost budou mít na prodej.
-Nicméně, aukce přilákala jen málo dražitelů a nikdo ochoten zaplatit 2 miliardy dolarů plus věřitelé hledali.
-Na jaře letošního roku se to vrátilo k rýsovacímu prknu, protože tým MGM začal pracovat na restrukturalizačním plánu, který po měsících debaty a vnitřních neshod byl nakonec schválen věřiteli na konci října.
-Když se MGM v nadcházejících týdnech oficiálně vynoří z bankrotu, Moelis a Cooperovy firmy obdrží za svou práci mnohamilionové bonusy.
-Společnost Moelis & Co., která již obdržela 1,2 milionu dolarů, obdrží platbu ve výši 9,5 milionu dolarů.
-Cooperovy firmy, které vybírají 375 000 dolarů měsíčně za své služby provozující společnost, obdrží 4 miliony dolarů "poplatek za úspěš".
-Barber a Birnbaum plánují restartovat produkci v MGM, která letos vydala pouze jeden film, a dát dohromady každoroční břidlici sedmi nebo osmi filmů, které vyjdou od roku 2012.
-Plánují také spolufinancovat dva filmy založené na "Hobit" spolu s Warner Bros.
-Studio musí uzavřít samostatnou půjčku mezi 265 a 275 miliony dolarů na financování své části těchto dvou filmů, které budou režírovat Peter Jackson.
-Investor Carl Icahn, který vlastní asi 18% dluhu společnosti MGM, se snažil zařídit fúzi studia s Lions Gate Entertainment, ve kterém je největším akcionářem.
+Často zůstávají v motelech a zaparkují svou dodávku přímo za oknem svého pokoje.
+Přivezli další tři psy - štěně Boxer, Parson Russell teriéra a Bretaň - které s nimi zůstaly v motelovém pokoji.
+Ale nechali tlusté kožerny Akitas a corgis v dodávce, kde by to bylo chladnější.
+Trochu otevřeli okna, aby se psi mohli dostat na čerstvý vzduch.
+Peek a Rickard oznámili, že dodávka byla ukradená v 6 hodin ráno. Úterý.
+Peek řekl, že nabídne odměnu každému, kdo by je mohl dovést k corgi, které jsou implantovány mikročipy, aby je identifikovaly.
+Ve čtvrtek nebylo jasné, zda bude uděleno ocenění.
+Lev je připraven znovu burčit, protože restrukturalizace MGM dostane konečný soudní výkon
+Po 18 měsících zmatků a nejistoty se MGM konečně dostalo zeleného světla, aby začala znovu.
+Newyorský federální konkurzní soudce ve čtvrtek oficiálně požehnal "předbalený" plán věřitelů vymazat dluh asi 5 miliard dolarů, čímž uvolnil cestu 86leté zábavní společnosti, aby zaměřila své úsilí na produkci a vydávání filmů a televizních pořadů.
+Se čtvrtečním rozhodnutím, že plán splňuje požadavky amerického bankrotového kodexu, nezůstaly žádné právní překážky pro MGM, aby se znovu spustila pod zakladateli Spyglass Entertainment Garyho Barbera a Rogera Birnbauma, kteří se stanou výkonnými řediteli toho, co bude zeštíhleným studiovým centrem.
+Personál klesne na zhruba 320 z více než 400.
+MGM ve skutečnosti nevyjde z kapitoly 11, dokud JPMorgan Chase nezavře plánovaný úvěrový nástroj ve výši 500 milionů dolarů na financování nových operací a těžebních činností MGM.
+V současné době je syndikován investiční bankou - která sama o sobě nakopává 75 milionů dolarů - a očekává se, že bude financována do poloviny prosince.
+Proces restrukturalizace studia začal v květnu 2009, kdy byla investiční banka Moelis & Co. najata, aby poradila vedení, jak opravit své finance, protože se snažila dovolit si platby úroků ve výši 300 milionů dolarů ročně.
+V srpnu byl generálního ředitele Harryho Sloana nahrazen Stephenem Cooperem, bývalým generálním ředitelem společnosti Enron a odborníkem na obrat známý svou prací v Krispy Kreme Doughnuts.
+Moelisovy a Cooperovy pokusy vyřešit finanční strasti MGM a uspokojit 140-plus věřitelů studia trvalo mnohem déle, než se očekávalo.
+Po několikaměsíčních diskusích se strany koncem roku 2009 dohodly na uvedení společnosti do prodeje.
+Aukce však přilákala jen málo uchazečů a nikdo nebyl ochoten zaplatit 2 miliardy dolarů, o které věřitelé usilovali.
+Na jaře tohoto roku se vrátil k rýsovacímu prknu, protože tým MGM začal pracovat na plánu restrukturalizace, který po měsících debat a vnitřních neshod byl nakonec věřiteli koncem října schválen.
+Když se MGM v příštích týdnech oficiálně vynoří z bankrotu, Moelisovy a Cooperovy firmy za svou práci obdrží mnohamilionové bonusy.
+Společnost Moelis & Co., která již obdržela 1,2 milionu dolarů, dostane platbu ve výši 9,5 milionu dolarů.
+Cooperovy firmy, které za své služby, které firmu inkasují 375.000 dolarů měsíčně, obdrží "úspěchový poplatek" ve výši 4 milionů dolarů.
+Barber a Birnbaum plánují restartovat výrobu v MGM, který letos vydal pouze jeden film, a dát dohromady každoroční břidlici sedmi nebo osmi filmů, které vyjdou od roku 2012.
+Plánují také spolufinancovat dva filmy založené na "The Hobbit", spolu s Warner Bros.
+Studio musí uzavřít samostatnou půjčku ve výši 265 až 275 milionů dolarů, aby financovalo svou část těchto dvou filmů, které mají režírovat Peter Jackson.
+Investor Carl Icahn, který vlastní asi 18% dluhu MGM, usiloval o uspořádání fúze studia s Lions Gate Entertainment, ve kterém je největším akcionářem.
 Nedávné rozhovory mezi oběma společnostmi však nevedly k dohodě.
-Technologické hračky, které udrží váš dárkový rozpočet v rovnováze
-Zatímco vedoucím kandidátem pro letošní nejúžasnější hračku je iPad, následovaný možná i videoherním systémem Microsoft Kinect, oba mohou dát významný důlek ve vašem dárkovém rozpočtu.
-Zvažte, že za cenu jednoho iPadu si můžete koupit pět $ 99 BMX kola, a že jedna hra Kinect stojí stejně jako 10 klasických korálkových skákacích lana, nebo asi 48 plechů Play-Doh.
-Existují však způsoby, jak udržet váš darovací rozpočet v rovnováze.
-Nedávno jsem navštívil tři národní prodejce hraček - Wal-Mart, Toys "R" Us a BJ's Wholesale Club - abych zjistil, jaké elektronické hračky bych mohl koupit za méně než 80 dolarů.
-Bylo okamžitě jasné, že Moorův zákon byl v práci; letošní technologická hračka bude mít pravděpodobně větší moc, zatímco bude stát to samé, ne-li o něco méně ve srovnání s loňským rokem.
+Technologické hračky udrží svůj dárkový rozpočet v rovnováze
+Zatímco předním kandidátem na letošní nejúžasnější hračku je iPad, následovaný možná videoherním systémem Microsoft Kinect, oba mohou dát významný důlek do vašeho dárkového rozpočtu.
+Vezměme si, že za cenu jednoho iPadu si můžete koupit pět kol BMX za 99 dolarů a že jedna hra Kinect stojí stejně jako 10 klasických korálkových skokových lana, nebo asi 48 plechů Play-Doh.
+Ale existují způsoby, jak udržet svůj rozpočet na dárkový rozpočet v rovnováze.
+Nedávno jsem navštívil tři národní prodejce hraček - Wal-Mart, Toys "R" Us a BJ's Wholesale Club - abych zjistil, jaké elektronické hračky bych si mohl koupit za méně než 80 dolarů.
+Bylo okamžitě jasné, že Mooreův zákon funguje; letošní technologická hračka bude mít pravděpodobně větší výkon, zatímco ve srovnání s loňským stojí stejně, ne-li o něco méně.
 Kromě toho, zatímco obecně existuje méně nových hraček s přidruženými webovými stránkami, dva z nejznámějších tohoto typu, Webkinz a Club Penguin, mají více nabídek.
-A hračky s tlačítkem-buňk napájené napájené tyčinky se zvyšují, stejně jako hračky s nabíjecími bateriemi.
-Zde jsou některá doporučení.
-(Všechny ceny jsou od Toys "R" Us, s výjimkou případů, kdy je uvedeno jinak.)
-Sing-a-ma-jigs (Mattel, $ 13, pro věk 3 a více let) jsou morčeské velikosti morčího hračky, které zpívají notu, když zmáčknete jejich břicha.
+A hračky s knoflíkovými články se zvyšují, stejně jako hračky s dobíjecími bateriemi.
+Zde je několik doporučení.
+(Všechny ceny jsou z hraček "R" Us, s výjimkou případů, kdy je uvedeno jinak.)
+Sing-a-ma-jigs (Mattel, 13, pro věk 3 a více) jsou plyšové hračky o velikosti moru, které zpívají notu, když zmáčknete jejich břicha.
 Jeden stisk se rovná jedné notě a druhý stisk začne stavět píseň.
-Pokud si koupíte více než jeden, budou zpívat v harmonii.
+Když si koupíte víc než jednu, budou zpívat v harmonii.
 Upozornění: Jakmile začnete mačkat, nemůžete přestat.
-Pro zpěv v kombinaci s tancem, Taneční hvězda Mickey (Fisher-Price, $ 60, pro věky 2 a více let) je nejlepší volbou.
-Vypůjkuje na loňské technologii Elmo Live, 14-palcová animatronická panenka hraje turn-taking hry jako Simon Says, a může chodit, díky jeho inovativním závěsným nohám s zamykacími koly.
-Děti, které testovaly hračku, používaly Mickeyho jako tanečního instruktora, i když si jejich rodiče stěžovali na nedostatek kontroly hlasitosti.
-Pokud jste dítě 80. let, možná si vzpomenete na Alphie, jednu z prvních počítačových vzdělávacích hraček.
-Je zpět, (Hasbro/Playskool, $ 40, pro věk 3 a více let) s batohem plným kvízových karet navržených tak, aby proměnit jízdu autem na relaci s sebekorumpující, wisecracking sešit.
-Pokud jste nedbalý z předání svého smartphonu vašemu dítěti, zde jsou tři samostatné alternativy.
-VTech MobiGo (60 dolarů, věk 3 až 8 let) je nejlevnější a nejsnadněji se používá, s klávesnicí qwerty, ačkoli hry neučí tak efektivně jako Leapster Explorer (70 dolarů, ve věku 3 až 12 let), Leapfrogova první hlavní generální oprava linky Leapster, s novější, jasnější obrazovkou.
+Pro zpěv v kombinaci s tancem je Dance Star Mickey (Fisher-Price, $60, pro věk 2 a více) nejlepší volbou.
+14-palcová animatronická panenka, která si vypůjčila na loňskou technologii Elmo Live, hraje otočné hry jako Simon Says a může chodit na Měsíci, díky jeho inovativním závěsným nohám se zamykacími koly.
+Děti testující hračku použily Mickeyho jako instruktora tance, i když si jejich rodiče stěžovali na nedostatek kontroly hlasitosti.
+Pokud jste dítě osmdesátých let, můžete si vzpomenout na Alphie, jednu z prvních počítačových vzdělávacích hraček.
+Je zpět, (Hasbro / Playskool, 40 dolarů, pro věk 3 a více), s batohem plným kvízových karet, který má proměnit jízdu autem na sezení se samo-napravujícím, moudrou sešitem.
+Pokud jste opatrný z toho, že dáváte svému dítěti svůj smartphone, zde jsou tři samostatné alternativy.
+VTech's MobiGo (60 dolarů, pro děti od 3 do 8 let) je nejlevnější a nejsnadněji se používá, s qwerty klávesnicí, i když hry neučí tak efektivně jako Leapster Explorer (70 dolarů, pro věk 3 až 12 let), první velká generální oprava řady Leapster s novější, jasnější obrazovkou.
 Ani jedna verze není kompatibilní se staršími kazetami.
-Fisher-Price je iXL ($ 90, ve věku 3 až 7 let) používá iTunes systém pro poskytování her a e-knih a má slot pro kartu SD, který umožňuje zobrazit rodinné fotografie.
-Konečně, Scrabble Flash (30 dolarů, Hasbro, věk 8 a více let) je sada pěti bloků jen větších než kniha zápasů, každá s vlastní LED obrazovkou.
-Cílem je vytvořit slova umístěním bloků do řady před vypršením času; je to skvělé pro improvizovanou pravopisnou soutěž.
-Stále více, hračky mají nějaký druh on-line připojení.
-Na základě jejich přítomnosti v samotných obchodech s hračkami jsou dva největší Webkinz a Club Penguin.
-Chcete-li si koupit svému dítěti online domácího mazlíčka v klubu Penguin, můžete získat Disney Club Penguin 2" Mix "N Match Figure Pack, 5 dolarů, pro věk 6 až 12 let), která obsahuje mianci se skrytým kódem.
-Když kód uplatníte online, vaše dítě dostane dostatek kreditů v obchodě Club Penguin pro jakékoli dvě položky.
-Ty mohou zahrnovat kolečkové brusle nebo hračku Puffle.
-O něco větší než štětinový-end vašeho zubního kartáčku, Hexbug Nano ($ 10, pro věk 5 a více let) je nejnovější v řadě mědrců napájených mikro-robotů.
-Faux bug se pohybuje rychle na 12 vibrujících křemíkových nohách, v náhodných směrech.
-Je zábavné udělat bludiště z bloků, aby se zjistilo, jestli to může najít cestu.
-I je to trvanlivé.
-Náš byl schopen odložit kuchyňský stůl a dokonce strávil nějaký čas uvnitř úst našeho psa.
-Přinesení měkčí strany do policie v Číně
-Jako městský vrtný seržant, Tang Shenbin tempo na náměstí, přísně kontrolovat jeho nervózní obvinění, vydávat sotto voce příkazy s vojenskou autoritou.
-Chtěl, aby ženské členky Chengguan - čínské statkovité vymahače městského pořádku, obávaly se a opovrhovaly kvůli jejich rozmarným zásahům a zálibě v násilí - aby vyjádřili určitý dojem spojce přihlížejících.
-"Stůj rovně!"
-"Dívej se ostře!"
-Ukaž jim, zašeptal: "Jaké hezké holky jsou!"
-Čtyři sotva-past-dospívající dívky v bílých rukavicích a identických olivových bund a kalhotách zachytily pozornost.
-Čtyři páry černých čerpadel se seřadily pravítko-přímo.
-Čtyři primové klobouky posazené dokonale na vrcholu vlasů vázaných v modrých a bílých pruhovaných lucích.
-"Osobně si myslím, že vypadají průměrně," pane. Tang řekl, odmítavě.
-"Modelové jsou překrásné."
-Více než jedna vláda se pokusila opřít obraz čínských městských inspektorů.
-Jedno město nařídilo, aby všichni noví rekruti měli vysokoškolské vzdělání.
+Fisher-Price iXL (90 dolarů, pro věk od 3 do 7 let) používá systém podobný iTunes k doručování her a e-knih a má slot pro kartu SD, který umožňuje zobrazovat rodinné fotografie.
+Konečně, Scrabble Flash (30 dolarů, Hasbro, pro věk 8 a více let) je sada pěti bloků jen větší než kniha zápalek, každý s vlastní LED obrazovkou.
+Cílem je udělat slova umístěním bloků do řady, než vyprší čas; je to skvělé pro improvizovanou soutěž pravopisu.
+Stále častěji mají hračky nějaké online připojení.
+Na základě jejich přítomnosti jen v obchodech s hračkami jsou dva největší webkinz a Club Penguin.
+Chcete-li koupit svému dítěti online domácího mazlíčka v Club Penguin, můžete například získat Disney Club Penguin 2" Mix 'N Match Figure Pack, $5, pro věk 6 až 12 let), který obsahuje minci se skrytým kódem.
+Když uplatníte kód online, vaše dítě dostane dostatek kreditů v obchodě Club Penguin za dvě položky.
+Ty mohou zahrnovat kolečkové brusle nebo pet puflek.
+O něco větší než štětinový kartáček, Hexbug Nano (10 dolarů, pro věk 5 a více) je nejnovější v řadě tlačítek-buňovaných mikro-robotů.
+Faux bug se pohybuje rychle na 12 vibračních křemíkových nohách, v náhodných směrech.
+Je zábavné udělat bludiště z bloků, aby se zjistilo, zda si najde cestu skrz.
+Je to taky trvanlivé.
+Náš byl schopen vysadit kuchyňský stůl a dokonce strávil nějaký čas uvnitř ústa našeho psa.
+Přivedení měkčí stránky policie v Číně
+Jako městský seržant, Tang Shenbin přecházel na městské náměstí a přísně kontroloval své nervózní nálože a vydal sotto voce velení s vojenskou autoritou.
+Chtěl, aby ženské členky čcheng-guanů - čínské statné vymahače městského řádu, obávaly a opovrhovaly za své rozmarné zásahy a záliby v násilí - vyjádřily určitý dojem snůšce přihlížejících.
+"Stoď na rovinu!"
+"Vypadni ostře!"
+Ukaž jim, zašeptal: "Jaké jsou hezké dívky!"
+Do povědomí se dostaly čtyři sotva puberťačky dívky v bílých rukavicích a identických olivových bundách a kalhotách.
+Čtyři páry černých lodiček seřadily pravítko-rovný.
+Čtyři prim hats posazené dokonale navrch vlasech v modrých a bílých pruhovaných mašlicích.
+"Osobně si myslím, že vypadají průměrně," řekl pan. Tang odpověděl odmítavě.
+"Modely jsou hezké."
+Více než jedna vláda se pokusila vykartáčovat obraz čínských městských inspektorů.
+Jedno město nařídilo, že všichni noví rekruti mají vysokoškolské vzdělání.
 Provincie Guangdong změnila šedozelené uniformy na údajně příjemnější modrou.
-Wuhan, ve střední Číně, nahradil zírající-downs pro silné vyzbrojování: v roce 2009 jedna zpráva uvedla, 50 důstojníků obklopil vzpurný snack vozík, zářící nepřetržitě po dobu půl hodiny, dokud se chodník nezabalil a odešel.
-Xindu, městská čtvrť 680 000 v Chengdu, si vybrala velkou obrazovou operaci.
-Od roku 2003 okres doplňuje svou městskou pouliční policii o 13 žen, konkrétně vybraných pro jejich vzhled, tvarovnost a mládí.
-Myšlenkou je dát drsně vychované policii měkčí, ženskou stranu.
-Bohužel, dokonce i Scarlett Johanssonová by mohla bojovat o zvýšení čínského podzemního respektu k těmto městským jednotkám.
+Wu-chan ve střední Číně střídal pohledy za silné vyzbrojení: v roce 2009 jedna zpráva uvedla, že 50 důstojníků obeplňovalo vzpurný vozík s občerstvením a půl hodiny se neustále zírovalo, dokud se prodavač nesbalil a neodešel.
+Xindu, městská čtvrť 680.000 v Čcheng-tu, si vybrala velkou operaci obrazu.
+Od roku 2003 okres doplňuje svou městskou pouliční policii o 13 žen, konkrétně vybraných pro jejich vzhled, tvarovčnost a mládí.
+Myšlenkou je dát drsné policii měkčí, ženskou stránku.
+Bohužel, dokonce i Scarlett Johanssonová by mohla mít problém vyvolat podzemské úhrady Číny k těmto městským oddílům.
 A z dobrého důvodu by se kritici hádali.
-Na rozdíl od policie jsou tito policisté oprávněni vymáhat pouze městské vyhlášky tím, že ukládají pokuty a další správní sankce.
-Ale čínská zpravodajská média běžně vykreslují jinou realitu.
-V lednu 2008 inspektoři provincie Hubei ubili kolemjdoucího k smrti poté, co použil svůj mobilní telefon, aby je natočil, jak rozbíjejí protest proti skládce odpadu.
-V loňském roce, výcvikový manuál pro pekingské inspektory, ukradené a zveřejněné on-line, popsal, jak účinně rozbít pachatele bez odetahování krve.
-Letos byl šanghajský melounový plídler ponechán mozek po potyčce s pěti policisty.
-Jedna videohra nasáklá násilím, která je k dispozici ke stažení online, obsahuje čínsky vyškolené inspektory, kteří napadají pouliční prodejce.
-"Čcheng-guánci zjizvili vládu," China Daily, národní publikace, si minulý rok stěžovala po další kontroverzi ohledně taktiky.
-Noviny požadovaly „skutečně důkladné vyčištění“.
-Skeptici říkají, že tento přístup zde zdaleka nedosahuje.
-Poté, co okres v říjnu inzeroval osm nových ženských rekrutů, úvodník v The Beijing Evening News zpochybnil, zda ženy měly skutečné povinnosti nebo byly prostě malebné odklony.
-Odpovědí se zdá být trochu od obou.
-Okresní reklama volala po ženských žadatelích ve věku 18 až 22 let, s dobrým číslem a "pěti obličejovými rysy ve správném pořadí".
-Měly by být nadprůměrné výšky - vyšší než 1,6 metru nebo 5 stop, 2 1⁄2 palce.
+Na rozdíl od policie jsou tito policisté oprávněni pouze vymáhat městské vyhlášky uložením pokut a dalšími správními sankcemi.
+Čínská zpravodajská média ale běžně vykreslují jinou realitu.
+V lednu 2008 inspektoři provincie Chu-pej ubili kolemjdoucího poté, co použil svůj mobil, aby je natočili, jak rozbíjí protest proti skládce odpadu.
+V loňském roce, školicí příručka pro pekingské inspektory, ukradena a zveřejněná online, popsala, jak účinně mlátit pachatele bez čerpání krve.
+Letos byl šanghajský vodní prodavač po potyčce s pěti důstojníky poškozený šanghajským melounem.
+Jedna videohra nasáklá násilím, která je k dispozici ke stažení online, obsahuje inspektory vyškolené v Číně, kteří napadnou pouliční prodejce.
+"Čcheng-čuch zjizvil vládu," bědoval loni po další kontroverzi kvůli taktice China Daily, národní publikace, lamentoval po dalším sporu o taktice.
+List požadoval "skutečně důkladné vyčištění".
+Skeptici říkají, že přístup zde zdaleka nedosahuje.
+Poté, co okres v říjnu inzeroval osm nových rekrutů, úvodník v The Beijing Evening News zpochybnil, zda ženy mají skutečné povinnosti nebo jsou prostě scénické rozptýlení.
+Odpověď se zdá být trochu z obou.
+Reklama okresu volala po žadatelích ve věku 18 až 22 let, s dobrou postavou a "pěti obličejovými rysy ve správném pořadí".
+Měly by mít nadprůměrnou výšku - vyšší než 1,6 metru nebo 5 stop, 2 1⁄2 palce.
 Odchod do důchodu ve věku 26 let je povinný.
-Úřady uvedly, že práce byla fyzicky příliš namáhavé pro ženy nad 25 let.
-"Jejich obraz je důležitá věc," řekl jeden nejmenovaný okresní úředník Rednet.com, kvazi-vládní web.
-"Za prvé, vnější vlastnosti kandidátů určí, zda dělají řez, jako je výška, hmotnost, rysy obličeje atd."
-Dále přichází temperament a "inerní kvality".
-Samice chengguan jsou jako vázy na květiny, řekl a dodal: "Kromě toho, že jsou vázy, budou mít jiné povinnosti."
-Zheng Lihua, zástupce ředitele okresního úřadu pro správu měst, není dychtivý tento popis schválit.
-Poznamenal však, že požadavky na výšku jsou standardní v mnoha čínských pracovních inzerátech na obě pohlaví.
-Stejně tak je poptávka po spořádaných obličejových rysech.
-Zda to znamená dobře vypadající, je mezi Číňany otázkou debaty.
-Zajisté nebo znetvoření se samozřejmě nemusí vztahovat.
-"Nemůžeme dovolit, aby tužka nebo hrbáč přišel sloužit tady," pan. Řekl Zheng.
+Úředníci uvedli, že práce byla fyzicky příliš namáhavá pro ženy nad 25 let.
+"Jejich obraz je důležitá," řekl jeden nejmenovaný okresní úředník serveru Rednet.com, kvazi-vládní web.
+"Za prvé, vnější vlastnosti kandidátů určí, zda udělají řez, jako je výška, váha, rysy obličeje atd."
+Další přichází temperament a "vnitřní vlastnosti".
+Samice čchüacha jsou jako květinové vázy, řekl a dodal: "Kromě toho, že jsou vázy, budou mít jiné povinnosti."
+Zheng Lihua, zástupce ředitele městského úřadu okresu, není dychtivý tento popis podpořit.
+Ale poznamenal, že výškové požadavky byly standardní v mnoha čínských pracovních reklamách na obě pohlaví.
+Stejně tak poptávka po spořádaných obličejových rysech.
+Zda to znamená dobře vypadající, je otázkou debaty mezi Číňany.
+Jednotlivě se nemusejí neplatné nebo znetvořené.
+"Nemůžeme dovolit, aby sem přišel sem pochmácí člověk nebo hrbata," řekl pan. Řekl Zheng.
 "Jeho image by nebyla dobrá."
-Liu Yi, který hlídkuje na náměstí Baoguang poblíž kláštera, je 22 let, s jablkem s jemně zakřivenými ústy.
-Nemyslí si, že stres na jejím vzhledu je sexistický, řekla.
-"Myslíš, že v téhle uniformě vypadám sexy?" zeptala se s tím sarkastickým vzhledem.
-Řekla, že její prošlácený spolupracovník, 21letý Xu Yang, "Naší prací je prezentovat image města."
-Nevznášejí ani proti jejich omezenému funkčnímu období, řekli, protože mají kariérní ambice větší než pouhé boření prodejců do uliček, kde mají omezit své podnikání.
-Každé ráno, družstvo čelí proti tuctu nebo tak prodavačů, kteří šipají kolem pěšky nebo na kole, se snaží prodat tolik buchet nebo misek tofu, jak je to možné, než jsou odříznuty.
-"Mistře Wangu, musíš odejít."
-"Říkali jsme vám to mnohokrát!" řekla slečna. Xu jako jeden prodejce uprchl pěšky, dočasně opuštěný jeho na kole-nakreslený vozík nudle-fixings.
-Důstojníci popisují své povinnosti jako více monotužné než namáhavé.
-"Je to skoro stejné každý den," řekl Huang Jing, 20, který studuje marketing ve svých mimoledových hodinách.
-"Velmi rutina."
-Jedním z důvodů je, že důstojnice ženy postrádají moc svých mužských protějšků zabavit zboží prodejců.
+Liou Yi, který hlídkuje na náměstí Baoguang poblíž kláštera, je 22 let, s jablky s jemně zakřivenými ústy.
+Nepovažuje stres na jejím vzhledu za sexistický, řekla.
+"Myslíš, že v téhle uniformě vypadám sexy?" zeptala se s kyselým pohledem.
+Její dolíčkovaná spolupracovnice, 21-letá Xu Yangová, "Naším úkolem je prezentovat image města."
+Nemají námitky ani proti jejich omezenému působení, uvedli, protože mají kariérní ambice větší, než jen vrhají prodejce do uliček, kde mají omezit své podnikání.
+Každé ráno se oddíl postaví proti asi tuctu prodavačů, kteří se pohybují pěšky nebo na kole a snaží se prodat co nejvíce buchet nebo misek tofu, než budou utíkaní.
+"Mistře Wang, musíš odejít."
+"Už jsme vám to řekli mnohokrát!" řekla paní. Xu jako jeden prodejce utekl pěšky a dočasně opustil svůj cyklistem tažený vozík s opravami nudlí.
+Důstojníci popisují své povinnosti jako monotónnější než namáhavě.
+"Každý den je to skoro stejné," řekla Huang Jing, 20, která studuje marketing ve svých mimopracovních hodinách.
+"Velmi rutinní."
+Jedním z důvodů je, že ženské důstojnice postrádají moc svých mužských protějšků, aby zabavili zboží prodejců.
 Mohou jen vyhrožovat, že nahlásí porušovatele svým mužským nadřízeným.
-To má tendenci chránit je před náhlými veřejnými projevy nepřátelství proti úřednictvu, které jsou běžné v celé Číně.
-Letos se stovky občanů v Kunmingu, hlavním městě provincie Yunnan, vzbouřily poté, co se šířily falešné zvěsti, že čanguanští důstojníci zabili prodejce.
-Více než tucet policistů nebo chenguanů bylo zraněno v noční epizodě; 14 vládních vozidel bylo zrušeno nebo zapáleno.
-Xindu dosud unikl takovému násilí.
+To je má tendenci chránit před náhlými veřejným projevem nevraživosti proti úřední moci, které jsou běžné v celé Číně.
+Letos se stovky občanů v Kunmingu, hlavním městě provincie Yunnan, bouři poté, co se rozšířily falešné zvěsti, že čchladocí důstojníci zabili prodavače.
+Více než tucet policistů nebo čchladut bylo zraněno v noční epizodě; 14 vládních vozidel bylo převráceno nebo zapáleno.
+Xindu takovému násilí zatím unikl.
 Ale klid je sotva zaručen.
-Jen dva bloky od plačícího náměstí Baoguang, kde hlídkovala důstojnice toho rána, se na rohu ulice shromáždilo více než 50 lidí.
-Policisté zabavili motocyklu, který byl opravován na chodníku namísto uvnitř obchodu, jak vyžadují předpisy.
-Majitel motorky plakal faulem.
-15-minutová patová situace následovala předtím, než policisté, pochmurně tvář, loktiovali svou cestu ke svým vozidlům a zrychlili s motocyklem a jejím majitelem.
-Li Xuedong, 40 let, koordinátor připojený k mužskému družstvu, zůstal za ním, jeho bílý odznak se převrátil, aby ukryl své jméno.
-Stejně jako důstojnice hrají koordinátoři - muži ve věku 40 let nebo starší - čistě podpůrnou roli.
-Na rozdíl od nich nejsou školeni v udržování leštěného obrazu.
-"Někdy bojujeme ústně."
-"Někdy bojujeme fyzicky," řekl pan. Li řekl věcně.
-"Většinou je to veřejnost, kdo to začíná."
+Jen dva bloky od klidného náměstí Baoguang, kde policisté toho rána hlídkovali, se na rohu ulice shromáždilo více než 50 lidí.
+Policisté zabavili motorku, která byla opravována na chodníku místo uvnitř obchodu, jak vyžadují předpisy.
+Majitel motorky plakal.
+Následovala 15 minutová roztržka, než se policisté, zachmuřeně obličejem, loktem dostali k jejich vozidlům a uháněli s motocyklem a jeho majitelem.
+Li Xuedong, 40, koordinátor připojený k mužskému oddílu, zůstal za ním, jeho bílý odznak se převrátil, aby skryl své jméno.
+Stejně jako ženské důstojnice, i koordinátoři - muži ve věku 40 let nebo více - hrají čistě podpůrnou roli.
+Na rozdíl od nich nejsou vyškoleni v udržování vybroušeného obrazu.
+"Někdy bojujeme slovně."
+"Někdy bojujeme fyzicky," řekl pan. Li to řekl věcně.
+"Většinu času je to veřejnost, kdo to začíná."
 Prokuratura nebude obvinit senátora Ensigna
-Prokurátoři ministerstva spravedlnosti očistili senátora Johna Ensigna z trestních obvinění vyplývajících z jeho aféry s bývalým asistentem kampaně a jeho úsilím zajistit lobbistickou práci pro manžela ženy, oznámili ve středu právníci senátora.
-Rozhodnutí ukončí nejzávažnější právní hrozbu, které pan čelí. Ensign, nevadský republikán, který byl v roce 2012 považován za možného republikánského prezidentského kandidáta, dokud se skandál kvůli jeho aféře loni nedostal do celostátních titulků a poškodil jeho kariéru.
-Pane. Úřad Ensigna uvedl, že je "určitě potěšen" rozhodnutím, které následovalo po ročním vyšetřování.
-Senátor by stále mohl čelit disciplinárnímu řízení senátního etického výboru.
-Pane. Ensignovi právníci uvedli, že ministerstvo spravedlnosti "nás o tom informovalo, že senátor Ensign již není cílem svého vyšetřování a že nemá v plánu proti němu v této věci vznést žádné obvinění."
-Ministerstvo spravedlnosti odmítlo případ komentovat.
-Oznámení přišlo jako něco překvapivého pro mnoho etických právníků mimo ministerstvo spravedlnosti, kteří uvedli, že se zdá, že existují významné důkazy, které naznačují, že pan. Ensign se mohl spikli, aby porušili zločinný zákaz federálního lobbingu.
-Rozhovory, e-maily a další dokumenty, které byly poprvé zveřejněny v říjnu 2009 v The New York Times, ukázaly, že pan. Praporčík pomohl Douglasu Hamptonovi, který byl jedním z jeho poradců, zajistit lukrativní lobbistickou práci, aby získal mlčení pana. Hampton a jeho žena Cynthia o senátorově aféře s ní.
-Paní. Hampton kdysi sloužil jako pokladník kampaně Ensign.
-Pane. Ensign kontaktoval řadu politických podporovatelů, aby našel práci pro pana. Hampton a pak obhajovali jejich jménem poté, co najali pana. Hampton by za ně podle dokumentů a rozhovorů lobboval.
-- Protože Mr. Hampton byl nedávno poradcem pana. Ensign, byl zákonem vyloučen z lobbování svého bývalého zaměstnavatele nebo Senátu jako celek po dobu jednoho roku.
-Etičtí experti uvedli, že neobvyklá dohoda mezi panem. Praporčík a pan. Hampton, který byl blízkými přáteli před aférou, se objevil v rozporu s takzvaným zákazem revolvingového lobbingu dveří.
-Z důkazů, které byly zveřejněny, "se zdálo, že existuje případ prima facie spiknutí k porušení a podstatné porušení zákona o otáčivých dveřích," řekl Stanley Brand, washingtonský právník, který se specializuje na obhajobu klientů vyšetřovaných vládou.
-Zatímco úředníci ministerstva spravedlnosti odmítli vysvětlit důvody, které rozhodnutí stojí v případu Ensign, pan. Brand a další etický právník uvedl, že oddělení se zdálo být ostražité vůči politickému stíhání po řadě významných neúspěchů pro svou sekci veřejné integrity, včetně loňského rozhodnutí upustit od trestního stíhání proti bývalému senátorovi Tedu Stevensovi uprostřed obvinění z pochybení prokurátora.
-Federální prokurátoři "jsou zjevně plachý zbraní," řekla Melanie Sloanová, výkonná ředitelka organizace Citizens for Responsibility and Ethics ve Washingtonu, advokátní skupina, která proti panu vznesla několik stížností. Praporčík v tomto případě.
-"To v podstatě říká, že vysoce postavení vládní úředníci nyní mohou předpokládat, že se na ně zákony nevztahují," dodala.
-Paul Coggins, pane. Ensignův hlavní právník řekl v rozhovoru, že v pondělí obdržel telefonní hovor od prokurátora ministerstva spravedlnosti a další den navazoval na něj, a řekl mu, že ministerstvo neusiluje o obvinění proti svému klientovi.
-Pane. Ensignův tým obhajoby spolupracoval s prokurátory ve snaze přesvědčit je, že senátor, jak jeho kancelář zopakoval ve středečním prohlášení, "jednal v souladu se zákonem".
-Pane. Coggins odmítl uvést právní argumenty, které předložil žalobcům.
-"Nejsem spokojen s tím, abych šel do podrobností o svých rozhovorech s ministerstvem spravedlnosti, kromě toho, že si myslíme, že udělali správné rozhodnutí," řekl.
-Minulý měsíc se Federální volební komise rozhodla upustit od vyšetřování samostatné stížnosti etické skupiny, která tvrdí, že platba ve výši 96 000 dolarů od pana. Praporčí rodiče z Hamptons porušili federální volební zákon.
-Volební komise uvedla, že nemá dostatek důkazů, aby dokázala, že peníze jsou něco jiného než dar.
-Jedna firma, pro kterou je Mr. Praporčík pomohl panu. Hampton našel lobbistickou práci NV Energy, hlavní nevadská společnost, která dlouho podporovala senátora.
-Jeden e-mail zaslaný v prosinci 2008 ukázal, že poté, co společnost přivedla pana. Hampton jako lobbista, pane. Náčelník štábu Ensign, John Lopez, komunikoval s panem. Hampton a řekl mu, že "bízí" ministerstvo vnitra kvůli sporu.
-Pane. Prapork se také zúčastnil oběda s Mr. Hampton a další nevadský klient, Allegiant Air, a zavolali ministrovi dopravy, aby zřídili schůzku jménem letecké společnosti poté, co najala pana. Hampton bude dělat lobbistickou práci.
-Když se loni poprvé objevily zprávy o aféře, panu. Ensign se omluvil svým voličům a rezignoval na svou pozici čtvrtého republikánského vůdce v Senátu.
-Po udržení nízkého profilu po mnoho měsíců, pane. Ensign řekl novinářům před dvěma týdny, že plánuje kandidovat na třetí funkční období v Senátu.
-Při oznamování toho pana. Praporčík již nebyl cílem trestního vyšetřování, jeho mluvčí Jennifer Cooperová uvedla, že senátor doufá, že etická komise bude rychle následovat vedení ministerstva spravedlnosti a ukončí vyšetřování.
-"Senátor Ensign se těší na pokračování tvrdé práce ve prospěch lidí z Nevady," řekla.
-Cheshire Appeal bude poukazovat na Twitter
-V soudních řadách bylo půl tuctu z nich, co psali pryč v soudních řadách.
-Minuta po minutě rozeslali zprávy o hrůzném svědectví přes Twitter.
-Nakonec, obhajoba říká, že o procesu bylo více než 140 000 zpráv na Twitteru, které se zabývaly znásilněním a dětmi spojenými s jejich postelemi v domě, který byl zapálen.
-Ve čtvrtek, široce sledovaný proces se Stevenem J. Hayes, který byl odsouzen za zabití tří členů Cheshire, Conn., Rodina, má skončit s tím, že soudce uvalí rozsudek smrti, pro který hlasovala porota.
-Ale právníci pro pana. Hayes již učinil soudní podání, která načrtl odvolací argumenty, které pravděpodobně obsadí soudy po celá léta.
-Jedním z nejvíce provokativních je, že intenzivní zpravodajství o procesu - včetně rozsáhlého využívání Twitteru mainstreamovými reportéry - vytvořilo "cirkusovou atmosféru" a tak rozšířenou, okamžitou saturaci se zánětlivými detaily, že porota byla nesprávně ovlivněna veřejnými vášněmi.
-Tvrzení by mohlo donutit odvolací soudce, aby se potýkali s otázkou, zda nová technologie vyžaduje nová soudní pravidla.
-"Jak jsem to zažil během tohoto procesu, myslím, že existuje reálné nebezpečí, že začlenění nových technologií do soudní síně ovlivňuje práva jednotlivce na spravedlivých procesech," řekl Thomas J. Ullmannová, pane. Hayesův hlavní obhájce.
-Soudce, Jon C. Modrý státní vrchní soud, s Terformně odmítl tvrzení v rozhodnutí z minulého týdne a řekl, že zpravodajská média byla "pečlivě kontrolována" a že neexistují žádné důkazy, že by porota byla poháněna vášní.
-Ale to pravděpodobně nebude poslední slovo v této otázce.
-Po celá desetiletí odvolací soudy uznaly, že pokrytí notoricky známých případů může vyvolat otázky ohledně spravedlnosti soudu.
-V přelomovém rozhodnutí z roku 1966 Nejvyšší soud Spojených států zrušil odsouzení clevelanského osteopata, Dr. Sam Sheppard, za vraždu své ženy, ve svém rozhodnutí, Sheppard v. Maxwelle, že kvůli zpravodajským médiím byla „karnevalová atmosféra u soudu“.
-Zločin je věřil, že někteří byli inspirací pro televizní show a film "The Fugitive".
-Někteří právníci uvedli, že odvolací soudy přezkoumají pana. Hayesovo odsouzení o půl století později by mohlo být zaujato argumentem, že by mohla být nezbytná nová pravidla pro řízení způsobů komunikace ze soudních síní, které byly v době Dr. Sheppardův případ.
-"Existuje obecný důvod pro znepokojení nad dopadem nových médií" ve vysoce postavených procesech, řekl John J. Donohue III, profesor Stanfordské právnické fakulty, který studoval trest smrti v Connecticutu a napsal zprávu, která uvedla, že byla svévolně vynucena.
-Profesor Donohue řekl, že někteří odvolací soudci by mohli být zaujati myšlenkou, že omezení okamžité komunikace ze soudních síní by mohlo učinit soudní procesy spravedlivějšími.
-Twitter problém je jen jedním z mnoha načrtnutých panem. Hayesovi právníci, kteří budou pravděpodobně argumentováni po celá léta, odkládají popravu.
-Obhájci také tvrdí, že například pan. Hayes mohl být předpojatý, když jim soudce Blue odmítl dovolit otestovat reakce potenciálních porotců tím, že jim během výběru poroty ukázal strašlivé fotografie z místa činu.
-Někteří porotci uvedli, že byli zděšeni fotografiemi obětí, Jennifer Hawke-Petitové, 48 let, a jejích dcer Hayley, 17 a Michaela, 11.
-Obhájci tvrdí, že také zpochybní ústavnost trestu smrti a tvrdí, že soudce neprávem odstranil porotce, který byl kritický vůči žalobcům, a že nesprávně přidal tlak na verdikt svým neobvyklým rozhodnutím přimět porotu k projednání přes víkend.
-Porotci nebyli izolováni.
-Ale jejich argumenty o vlivu intenzivního pokrytí soudního procesu mohou čerpat největší zájem.
-Ve výzvě k verdiktu podanému minulý měsíc uvedl, že případ dominoval zprávám v Connecticutu a byl projednán během volební kampaně kandidáty na guvernéra a Senátu Spojených států.
+Prokuratura ministerstva spravedlnosti očistila senátora Johna Ensigna od trestních obvinění vyplývajících z jeho aféry s bývalým poradcem v kampani a jeho úsilí zajistit práci pro manžela ženy, oznámili ve středu právníci senátora.
+Rozhodnutí ukončuje nejzávažnější právní hrozbu, které pan pan čelí. Ensign, nevadský republikán, který byl v roce 2012 považován za možného republikánského kandidáta na prezidenta, dokud se skandál kvůli jeho aféře loni nedostal do celostátních titulků a nepoškodil mu kariéru.
+Pan. Úřad prasátku uvedl, že ho rozhodnutí, které následovalo po ročním vyšetřování, "určitě potěšen".
+Senátor by ještě mohl čelit disciplinárnímu řízení etické komise Senátu.
+Pan. Právníci Ensignu uvedli, že ministerstvo spravedlnosti "nás informovalo, že senátor Ensign již není cílem jeho vyšetřování a že nemá v plánu vznést proti němu v této věci žádné obvinění".
+Ministerstvo spravedlnosti se k případu odmítlo vyjádřit.
+Oznámení přišlo jako překvapení pro mnoho etických právníků mimo ministerstvo spravedlnosti, kteří uvedli, že se zdá, že existují významné důkazy, které naznačují, že pan pan. Ensign se mohl spikl s cílem porušit trestní zákaz federálního lobbingu.
+Rozhovory, e-maily a další dokumenty poprvé zveřejněné v říjnu 2009 v The New York Times naznačily, že pan. Praporčík pomohl Douglasi Hamptonovi, který byl jedním z jeho poradců, zajistit lukrativní lobbistickou práci, aby získal mlčení pana. Hampton a jeho žena Cynthia o aféře senátorky s ní.
+Paní. Hampton kdysi sloužil jako pokladník kampaně za praporčíka.
+Pan. Ensign kontaktoval řadu politických podporovatelů, aby našel práci pro pana. Hampton a pak se za to zasazovali poté, co najali pana. Hampton za ně bude podle dokumentů a rozhovorů lobbovat.
+Protože pan. Hampton byl nedávno pobočníkem pana. Praporčík, byl zákonem vyloučen z lobbování svého bývalého zaměstnavatele nebo Senátu jako celku po dobu jednoho roku.
+Etičtí experti uvedli, že neobvyklé ujednání mezi panem. Ensign a pan. Hampton, který byl blízkými přáteli před aférou, se objevil v rozporu s takzvaným zákazem otáčivých dveří.
+Z důkazů, které byly zveřejněny, "se zdáli, že existuje prima facie případ spiknutí k porušení a podstatného porušení otočného zákona otáčení dveří," řekl Stanley Brand, washingtonský právník, který se specializuje na obranu klientů vyšetřovaných vládou.
+Zatímco úředníci ministerstva spravedlnosti odmítli vysvětlit důvody rozhodnutí v případu Ensign, pane. Brand a další etičtí právníci uvedli, že ministerstvo se zdá být ostražité, aby se ujalo politického stíhání po řadě významných neúspěchů pro jeho sekci veřejné integrity, včetně rozhodnutí z loňského rozhodnutí stáhnout trestní stíhání proti bývalému senátorovi Tedu Stevensovi kvůli obvinění z prokurátorského pochybení.
+Federální prokurátoři "jsou zjevně plachá", řekla Melanie Sloan, výkonná ředitelka Citizens for Responsibility and Ethics ve Washingtonu, advokační skupiny, která vznesla několik stížností na pana. V případu praporčík.
+"To v podstatě říká, že vysoce postavení vládní činitelé nyní mohou předpokládat, že se na ně zákony nevztahují," dodala.
+Paul Coggins, pan. Hlavní právník praporčíka v rozhovoru uvedl, že v pondělí obdržel telefonát od prokurátora ministerstva spravedlnosti a další den sledování a řekl mu, že oddělení neusiluje o obvinění proti jeho klientovi.
+Pan. Ensignův tým obhajoby spolupracoval s prokuraturou ve snaze přesvědčit je, že senátor, jak jeho úřad ve středečním prohlášení zopakoval, "jednal v souladu se zákonem".
+Pan. Coggins odmítl upřesnit právní argumenty, které pro státní zástupce uvedl.
+"Není mi příjemné jít do podrobností mých diskusí s ministerstvem spravedlnosti, kromě toho, že si myslíme, že se rozhodli správně," řekl.
+Minulý měsíc se Federální volební komise rozhodla ukončit vyšetřování samostatné stížnosti etické skupiny, která tvrdí, že platba od pana 96.000 dolarů. Rodiče praporčíka do Hamptons porušili federální volební zákon.
+Volební komise uvedla, že nemá dostatek důkazů, aby dokázala, že peníze jsou něco jiného než dárek.
+Jedna společnost, pro kterou pan. Prosebníci pomohli panu. Hampton zjistil, že lobbistická práce byla NV Energy, významná nevadská společnost, která dlouho podporovala senátora.
+Jeden e-mail zaslaný v prosinci 2008 ukázal, že poté, co společnost přivedla pana. Hampton jako lobbista, pane. Náčelník štábu praporčíka John Lopez s panem komunikoval. Hampton a řekl mu, že "zabrzdil" ministerstvo vnitra kvůli sporu.
+Pan. Působení se také zúčastnilo oběda s panem. Hampton a další nevadský klient, Allegiant Air, a zavolali ministra dopravy, aby zřídil schůzku jménem letecké společnosti poté, co najala pana. Hampton bude dělat lobbistickou práci.
+Když se loni poprvé objevily zprávy o aféře, pan. Ensign se omluvil svým voličům a rezignoval na svou funkci čtvrtého republikánského lídra v Senátu.
+Po udržení nízkého profilu po mnoho měsíců, pan. Praporčík novinářům před dvěma týdny řekl, že plánuje kandidovat na třetí funkční období v Senátu.
+Při oznámení toho pana. Praporčík již nebyl cílem trestního vyšetřování, jeho mluvčí Jennifer Cooperová uvedla, že senátorka doufá, že etická komise bude rychle následovat vedení ministerstva spravedlnosti a ukončí své vyšetřování.
+"Senátor Ensign se těší na pokračování své tvrdé práce jménem lidu v Nevadě," řekla.
+Cheshire Appeal ukáže na Twitter
+V soudních síních jich odepisovalo půl tuctu.
+Za minutu po minutě rozeslali zprávy o hrůzném svědectví prostřednictvím Twitteru.
+Obhajoba nakonec uvedla, že o procesu, které se zabývaly znásilněním a dětmi, bylo v domě, který byl zapálen, více než 140.000 zpráv na Twitteru.
+Ve čtvrtek hojně následoval proces se Stevenem J. Hayes, který byl odsouzen za zabití tří členů rodiny Cheshire, Conn., má oficiálně skončit s tím, že soudce uvaluje rozsudek smrti, pro který hlasovala porota.
+Ale právníci pro pana. Hayes již učinil soudní spisy, které načrtávají odvolací argumenty, které pravděpodobně obsadí soudy po celá léta.
+Jedním z nejprovokativnějších je, že intenzivní zpravodajství o procesu - včetně rozsáhlého používání Twitteru mainstreamovými reportéry - vytvořilo "cirkusovou atmosféru" a tak rozšířenou, okamžitou nasycení pobuřujícími detaily, že porota byla nesprávně zviklaná veřejnými vášněmi.
+Tvrzení by mohlo přinutit odvolací soudce, aby se potýkali s otázkou, zda nová technologie vyžaduje nová pravidla soudní síně.
+"Jak jsem to zažil během tohoto procesu, myslím, že existuje reálné nebezpečí, že začlenění nových technologií do soudní síně ovlivňuje práva jednotlivce na spravedlivém procesu," řekl Thomas J. Ullmann, pan. Hayesův hlavní obhájce.
+Soudce Jon C. Modrý státní nejvyšší soud, stručně odmítl tvrzení v rozsudku z minulého týdne s tím, že zpravodajská média byla "pečlivě kontrolována" a že neexistují žádné důkazy, že by porota byla řízena vášní.
+Ale to není pravděpodobné, že by to bylo poslední slovo v této otázce.
+Po celá desetiletí odvolací soudy uznávají, že pokrytí notoricky známých případů může vyvolat otázky ohledně spravedlnosti soudního procesu.
+V přelomovém rozsudku z roku 1966 Nejvyšší soud Spojených států zrušil odsouzení clevelandského osteopata, Dr. Sam Sheppard za vraždu své ženy, řekl ve svém rozhodnutí Sheppard v. Maxwelle, že byla u soudu "karnevalová atmosféra" kvůli zpravodajským médiím.
+O zločinu se věří, že byl inspirací pro televizní show a film "The Fugitive".
+Někteří právníci uvedli, že odvolací soudy pana. Hayesovo odsouzení o půl století později by mohlo zautáhnout argument, že nová pravidla by mohla být nezbytná k tomu, aby se upravovaly způsoby komunikace ze soudních síní nepředstavených v době Dr. Sheppardův případ.
+"Existuje obecný důvod k obavám z dopadu nových médií" ve významných procesech, řekl John J. Donohue III, profesor Stanfordské právnické fakulty, který studoval trest smrti v Connecticutu a napsal zprávu, která říká, že je svévolně vynucena.
+Profesor Donohue řekl, že některé odvolací soudky by mohly být zaujaté myšlenkou, že omezení okamžité komunikace ze soudních síní by mohlo učinit soudní procesy spravedlivějšími.
+Problém Twitteru je jen jedním z mnoha, které pan nastínil. Hayesovi právníci, kteří budou pravděpodobně roky házeni, což oddaluje popravu.
+Obhájci také tvrdí, že pan. Hayes mohl být předpojatý, když soudce Blue odmítl umožnit testovat reakce potenciálních porotců tím, že jim během výběru poroty ukázal strašlivé fotografie z místa činu.
+Někteří porotci uvedli, že byli zděšeni fotografiemi obětí, Jennifer Hawke-Petitové (48) a jejích dcer Hayley (17) a Michaely (11).
+Obhájci tvrdí, že také zpochybní ústavnost trestu smrti a tvrdí, že soudce neprávem odvolal porotce, který byl kritický vůči státním zástupcům, a že nesprávně přidal tlak na verdikt svým neobvyklým rozhodnutím nasměrovat porotu k projednání o víkendu.
+Porotci nebyli odděleni.
+Jejich argumenty o vlivu intenzivního pokrytí soudního procesu však mohou přitáhnout největší zájem.
+Ve výzvě k verdiktu podanému minulý měsíc poznamenali, že případ dominoval zprávám v Connecticutu a během volební kampaně se o něm diskutovali kandidáti na guvernéra a Senát Spojených států.
 Tvrdili, že zpravodajská média neustále rozdmýchávala plameny emocí o případu.
-"Denně rozdrcení mediálních tweetů, kamer a reportérů mimo soudní budovu," napsali právníci, "bylo to na rozdíl od všeho, co jsme tu v New Havenu viděli a možná i celostátně."
-Jejich zaměření na pokrytí Twitteru je kontroverzní.
-V rozhovorech někteří novináři uvedli, že tvrzení, že okamžité zprávy byly zápalnější než zprávy poskytované pomaleji, byl ludditský názor, který by učinil špatnou soudní politiku upravující pokrytí budoucích soudních procesů.
-Někteří právníci však uvedli, že odvolací soudy byly často přitahovány k argumentům, že sociální a technologické změny vyžadují přizpůsobení soudům.
-Pane. Hayesovi právníci toto tvrzení tlačí.
-Ve svém podání se odvolávali na rozhodnutí Nejvyššího soudu z roku 1966, které zrušilo Dr. Sheppardovo odsouzení kvůli soudnímu pokrytí a dalo jasně najevo, že budou tvrdit, že nová média vyžadují nová pravidla.
-"Tento případ," napsali, "představuje Sheppard v. Maxwell z 21. století.“
-Může zdvořilost překlenout rozdělení?
-Po kampani pozoruhodné pro invektivy a negativitu vypukl tento týden ve Washingtonu modicum zdvořilosti.
-Je to předzvěst skutečné oboustranné spolupráce před námi nebo iluzorní okamžik před rychlým návratem do partyzánského boje v hlavním městě?
-Úterní setkání mezi prezidentem Obamou a vůdci Kongresu nepřineslo žádný průlom ve velkých otázkách, které musí být řešeny během zasedání chromé kachny.
-Ale podle všech účtů to byla alespoň zdvořilá diskuse o rozdílech obou stran, stejně jako uznání jejich sdílených povinností vládnout, spíše než další prázdná epizoda partyzánského bodování.
-Středeční veřejné zasedání prezidentovy schodkové komise bylo stejně civilizované, navzdory politickým rozdílům, které zůstávají mezi členy.
-Zdá se být jasné, že úzká interakce v průběhu měsíců přinesla vzájemný respekt, který přesahuje ideologickou propast, která stále odděluje členy.
-To sotva stačí prohlásit, že nadešla nová éra spolupráce.
-Obě strany jsou nyní v období testování - vzájemně se zkoumají známky spolupráce a kompromisu, zatímco se snaží zhodnotit limity veřejného mínění a trpělivost voličů pro obnovené partyzánské válčení.
-Což je důvod, proč setkání v úterý a recenze účastníků na to poté byly provedeny s minimálními požadavky nebo obviněními.
-Filozofické rozdíly mezi Obamou a republikány jsou příliš velké a příliš hluboce zakořeněné, aby naznačovaly jakoukoli rychlou změnu klimatu, která existovala v posledních dvou letech.
-Ať už je to daň, výdaje, zdravotní péče nebo nároky, obě strany zůstávají na míle daleko.
-Přesto listopadové volby zmírnily Washington, alespoň v krátkodobém horizontu.
-"Není pochyb o tom, že se tonálně věci změnily," řekl Pete Wehner, úředník Bushovy administrativy nyní z Centra pro etiku a veřejnou politiku.
-"Po volbách je to nevyhnutelné.
-Volby vzbuzují partyzánské vášně a pak umrcují.
-To je dobře.“
-V některých otázkách, zejména ti, kteří jsou na programu pro chromé kachny zasedání, republikáni a demokraté nemají jinou možnost, než najít řešení.
-Bushovy daňové škrty vyprší na konci roku a nikdo to nezvýší.
-Obě strany chtějí najít způsob, jak zachovat některé nebo všechny z nich, trvale nebo dočasně.
-Podobně je pravděpodobné, že kompromis je pravděpodobné na prodloužení dávek v nezaměstnanosti, i když jen proto, že si republikáni nemohou dovolit vypadat, že upřednostňují daňové škrty pro bohaté a zároveň popírají kompenzace nezaměstnanosti nezaměstnaných.
-Po úterním setkání v Bílém domě existuje větší optimismus pro možnou dohodu o těchto otázkách během chromého zasedání kachny spolu s ratifikací nového paktu START.
-Ale William Galston z Brookings Institution varuje, že úspěšná spolupráce v naléhavých otázkách zasedání chromého kachna nemusí nutně vést k pokračujícímu oboustrannému řízení, když se v lednu svolá nový 112. kongres.
-Místo toho řekl, že období nesouhlasu je pravděpodobné, dokonce nevyhnutelné.
-"Poté, co se musí udělat věci, které musí být provedeny, psychologie v krátkodobém horizontu se vrátí k konfrontaci," řekl.
-Wehner také vyjádřil skepsi – který je široce sdílen – že zdvořilost povede ke skutečné spolupráci.
-"Většinu toho, co se stane mezi dneškem a 2012 jako podkartou nebo stínovým boxem, na hlavní událost v roce 2012," řekl.
-Důvody mají hodně co do činění s make-upem nové republikánské většiny ve sněmovně a voliči Tea Party, kteří byli nápomocni při jejím vytváření.
-Jakkoli pozorní republikánští vůdci jsou z nebezpečí přehrnutí své ruky, vědí, že se musí pokusit žít podle svých slibů snížit vládní výdaje a zrušit nový zákon o zdravotní péči.
-Tyto stranické linie jsou již jasné v počátečních reakcích na doporučení pro schodkové komise, které zahrnují reformu daňového zákoníku a zvýšení některých daní, zvýšení věku odchodu do důchodu a snížení výdajů.
-Spolupředsedové Alan Simpson a Erskine Bowles získali jednu z nejtěžších pracovních míst ve Washingtonu a ve svém vlastním odhadu donutili otázku deficitu na veřejnou agendu způsobem, který nelze ignorovat.
-Potřebují však 14 hlasů v 18členné komisi, aby vydali svůj plán jako oficiální doporučení, a oni se snaží dostat někam blízko k tomuto číslu.
-Největším odporem je mezi zvolenými představiteli panelu, což naznačuje, že ve fiskálních otázkách je dnes přinejmenším málo důvodů nebo touhy po kompromisu.
+"Denní tlačení mediálních tweetů, kamer a reportérů před budovou soudu," napsali právníci, "se nepodobala nic, co kdy bylo vidět tady v New Havenu a možná po celém státě."
+Jejich zaměření na pokrytí na Twitteru je kontroverzní.
+V rozhovorech někteří novináři uvedli, že tvrzení, že okamžité zprávy jsou zápalnější než zprávy dodávané pomaleji, byl Ludditský názor, který by učinil špatnou soudní politikou, která by řídila zpravodajství o budoucích procesech.
+Někteří právníci ale uvedli, že odvolací soudy byly často přitahovány argumenty, že sociální a technologické změny vyžadují adaptaci soudů.
+Pan. Hayesovi právníci toto tvrzení naléhají.
+Ve svém podání se odhlásili k rozhodnutí Nejvyššího soudu z roku 1966, které zrušilo Dr. Sheppardovo odsouzení kvůli soudnímu zákazu procesu a dalo jasně najevo, že budou tvrdit, že nová média vyžadují nová pravidla.
+"Tento případ," napsali, "představuje Sheppard v. Maxwell z jednadvacátého století."
+Může civilita překlenout propast?
+Po kampani pozoruhodné invektivami a negativitou tento týden ve Washingtonu vypukla ve Washingtonu špetka zdvořilosti.
+Je to předzvěst opravdové dvoustranné spolupráce nebo iluzorní moment před rychlým návratem do partyzánského boje v hlavním městě?
+Úterní schůzka mezi prezidentem Obamou a vedoucími představiteli Kongresu nepřinesla žádné průlomy ve velkých otázkách, které se musí řešit během zasedání kulhavé kachny.
+Ale podle všeho to byla přinejmenším zdvořilá diskuse o rozdílech obou stran, stejně jako uznání jejich společné odpovědnosti vládnout, spíše než o další prázdné epizodě partajního bodování.
+Středeční veřejná schůzka prezidentovy deficitní komise byla stejně civilizována, a to navzdory politickým rozdílům, které mezi členy zůstávají.
+Zdá se jasné, že úzká interakce v průběhu několika měsíců vyvolala vzájemný respekt, který přesahuje ideologickou propast, která stále odděluje členy.
+To není dost na to, abychom prohlásili, že přišla nová éra spolupráce.
+Obě strany jsou nyní v období testování - navzájem se zkoumají známky spolupráce a kompromisu a zároveň se snaží vyhodnotit limity veřejného mínění a trpělivost voličů pro obnovenou stranickou válku.
+Což je důvod, proč se úterní schůzka a jeho následné přezkumy účastníků konaly s minimálními požadavky nebo obviněními.
+Filozofické rozdíly mezi Obamou a republikány jsou příliš velké a příliš hluboce zadržovány na to, aby naznačovaly jakoukoli rychlou změnu klimatu, která existovala během posledních dvou let.
+Ať už jde o daně, výdaje, zdravotní péči nebo nároky, obě strany zůstávají na míle daleko od sebe.
+Přesto listopadové volby Washington zmírnily, alespoň v krátkodobém horizontu.
+"Není pochyb o tom, že se tonálně věci změnily," řekl Pete Wehner, představitel Bushovy administrativy nyní v Etice a veřejném politickém centru.
+"Ty jsou po volbách nevyhnutelné.
+Volby vzbuzují stranické vášně a pak zemřou.
+To je dobře."
+V některých otázkách, zejména v těch, kteří jsou na programu zasedání kulhavé kachny, nemají republikáni a demokraté jen na výběr řešení.
+Bushovy daňové škrty vyprší na konci roku a nikdo to neupřednostňuje.
+Obě strany chtějí najít způsob, jak zachovat některé nebo všechny, trvale nebo dočasně.
+Podobně je pravděpodobné kompromisy ohledně prodloužení podpory v nezaměstnanosti, už proto, že si republikáni nemohou dovolit vypadat, že upřednostňují snížení daní pro bohaté a zároveň odepírají odškodnění pracovníků v nezaměstnanosti nezaměstnaných.
+Po úterní schůzce v Bílém domě panuje větší optimismus pro možnou dohodu o těchto otázkách během kulhavého zasedání kachny, spolu s ratifikací paktu New START.
+William Galston z Brookings Institution však varuje, že úspěšná spolupráce v naléhavých otázkách zasedání kulhavé kachny nemusí nutně vést k pokračujícímu bipartismu, až se v lednu svolá nový 112. kongres.
+Místo toho, řekl, je pravděpodobné období nesouhlasu, dokonce nevyhnutelné.
+"Po tom, co se musí udělat, se psychologie v krátkodobém horizontu vrátí k jedné z konfrontací," řekl.
+I Wehner vyjádřil skepsi - která je široce sdílena - že zdvořilost povede ke skutečné spolupráci.
+"Většinu z toho, co se děje mezi dneškem a rokem 2012, vnímám jako podkartu nebo stínový box na hlavní událost v roce 2012," řekl.
+Důvody mají mnoho společného s složením nové republikánské většiny ve sněmovně a s voliči čajových dýchánků, kteří byli nápomocni při jeho vytváření.
+Bez ohledu na to, jakkoli jsou republikánští lídři nebezpečí přehnaného jejich ruky, vědí, že se musí pokusit dostát svým slibům, že sníží vládní výdaje a zruší nový zákon o zdravotní péči.
+Tyto stranické linie jsou již jasné v počátečních reakcích na doporučení komise pro schodek, které zahrnují reformu daňového kodexu a zvýšení některých daní, zvýšení věku odchodu do důchodu a snížení výdajů.
+Spolupředsedové Alan Simpson a Erskine Bowles převzali jednu z nejtěžších prací ve Washingtonu a ve svém vlastním odhadu vnutili otázku deficitu na veřejnou agendu způsoby, které nelze ignorovat.
+Ale potřebují 14 hlasů o osmnáctičlenné komisi, aby vydali svůj plán jako oficiální doporučení, a snaží se dostat kamkoli blízko tohoto počtu.
+Největší odpor je mezi zvolenými představiteli panelu, což naznačuje, že v případě fiskálních otázek je dnes alespoň málo důvodů nebo touha po kompromisu.
 Galston předpovídá dvě fáze v bitvách mezi Bílým domem a republikány v Kongresu.
-První bude příští rok ve formě partyzánských střetů, protože republikáni napadli Obamu ohledně rozpočtu, daní a zdravotní péče, následované později obdobím větší oboustranné spolupráce.
-Co by způsobilo změnu?
-Veřejný názor.
-Existují značné důkazy, že navzdory stranickému řízení nedávných voleb většina Američanů stále chce, aby obě strany spolupracovaly.
-Pokud konfrontace povede k patové situaci, jako tomu bylo v roce 1995, pak obě strany budou pečlivě sledovat reakci veřejnosti.
-Ten, kdo je souzen za prohry, pravděpodobně změní kurz a bude hledat kompromis.
+První přijde příští rok v podobě stranických střetů, protože republikáni zpochybňují Obamu rozpočet, daně a zdravotní péči, následované později obdobím větší dvoustranné spolupráce.
+Co by způsobilo posun?
+Veřejné mínění.
+Existují značné důkazy, že navzdory stranickému členství v nedávných volbách většina Američanů stále chce, aby obě strany spolupracovaly.
+Pokud konfrontace povede k patové situaci, jako tomu bylo v roce 1995, pak budou obě strany pečlivě sledovat reakci veřejnosti.
+Ten, kdo je souzen za prohru, pravděpodobně posune kurz a bude usilovat o kompromis.
 To však může být optimistický názor.
-Stranictví a polarizace jsou dnes větší než v polovině 90. let a zdá se, že mezi Obamou a republikány v Kongresu existuje větší ideologický rozdíl, než tomu bylo mezi prezidentem Billem Clintonem a republikány.
-Ve stejné době, aktivisté v obou stranách vidí rok 2010 jako pouhou předehru k následným volbám v roce 2012.
-Vzhledem k této skutečnosti může být zdvořilost na displeji tento týden mnoho Američanů vítáno.
-Ale bude to vyžadovat mnohem více úsilí ze strany obou stran, aby našli společnou řeč v otázkách, které je stále rozdělují.
+Stranictví a polarizace jsou dnes větší, než tomu bylo v polovině devadesátých let, a zdá se, že mezi Obamou a republikány v Kongresu je větší ideologická propast, než tomu bylo mezi prezidentem Billem Clintonem a republikány.
+Aktivisté v obou stranách zároveň považují rok 2010 za pouhou předehru k promyšlenějším volbám v roce 2012.
+Vzhledem k této realitě může zdvořilost vystavovanou tento týden mnoho Američanů uvítat.
+Bude však zapotřebí mnohem většího úsilí ze strany obou stran, aby se našlo v otázkách, které je stále rozdělují.
 Uniklý americký dokument vykresluje Moskvu jako útočiště korupce
-Kontrola nad městem je v rukou „kleptokracie“ a předává část úplatků a peněz na ochranu, které shromažďuje až do Kremlu, USA. Velvyslanectví v Rusku se v únoru informovalo v memorandu.
-Jak policie, tak Federální bezpečnostní služba provozují obrovské ochranné vydírání, které pomáhají vysvětlit vysoké životní náklady v Moskvě.
-Sbírají peníze nejen od legitimních podniků, ale i od organizovaných zločineckých skupin.
-Každá vrstva byrokracie – to, co premiér Vladimir Putin nazval „vertikální autoritou“ – bere její škrty, když se peníze pohybují po žebříku.
-Memorandum, které bylo zasláno do Washingtonu jménem velvyslanec John Beyrle, bylo zveřejněno serverem WikiLeaks na svých webových stránkách ve středu.
+Kontrola města je v rukou "kleptokracie" a předává část úplatků a peníze na ochranu, které inkasuje až do Kremlu, USA. Velvyslanectví v Rusku o tom informovalo v únoru v memorandu.
+Policie i Federální bezpečnostní služba provozují obrovské ochranné rakety, které pomáhají přikládat vysoké životní náklady v Moskvě.
+Peníze shromažďují nejen od legitimních podniků, ale i od organizovaných zločineckých skupin.
+Každá vrstva byrokracie - to, co premiér Vladimir Putin nazval "vertikálním autoritám" - bere svůj střih, když se peníze pohybují po žebříku.
+Memorandum, které bylo posláno do Washingtonu pod jménem velvyslance Johna Beyrleho, zveřejnil server WikiLeaks ve středu na svých webových stránkách.
 Memorandum je založeno na zdrojích, jejichž jména byla redigována.
-Byla napsána, zatímco Jurij Lužkov byl ještě moskevským starostou a obviňuje ho z velké části korupce.
-V říjnu byl vyhozen prezidentem Dmitrijem Medveděvem, ale od té doby bylo jen málo důkazů o vyčištění.
-Lužkov a jeho manželka Yelena Baturina, která vlastní prominentní stavební firmu, v průběhu let důsledně popřeli obvinění z korupce a on vyhrál několik žalob na urážku na cti kvůli takovým obviněním.
-V září řekl ruské televizi, když byl dotázán na dokument, který naznačuje, že je zkorumpovaný: "Je to šílené, je to špína, je to nepořádek."
-Rusové v drtivé většině věří, že jejich je zkorumpovaná společnost, ukázaly průzkumy veřejného mínění.
-Ale je neobvyklé najít podrobnosti uvedené, jak byly ve zprávě velvyslanectví, a je neslýchané, že by to měli být diplomaté z cizí země, kteří tak činí.
-"Přímé vazby moskevské městské vlády na kriminalitu vedly některé k tomu, aby to nazvali 'dysfunkční' a tvrdili, že vláda funguje spíše jako kleptocota než vláda," uvádí se v memorandu.
-Zločinecké elementy mají „kryša“ (termín ze zločineckého/mafiánského světa, což doslova znamená „střecha“ nebo ochrana), která vede přes policii, Federální bezpečnostní službu (FSB), ministerstvo vnitra (MVD) a prokuraturu, stejně jako v celé moskevské městské vládní byrokracii.
-Analytici identifikují třístupňovou strukturu v moskevském zločineckém světě.
-"Luškov je na vrcholu."
+Bylo to napsáno, zatímco Jurij Lužkov byl stále starostou Moskvy, a to ho viní z velké části korupce.
+V říjnu ho vyhodil prezident Dmitrij Medveděv, ale od té doby se o uklízení vyhodilo jen málo.
+Lužkov a jeho manželka Jelena Baturina, která vlastní prominentní stavební firmu, v průběhu let soustavně odmítá obvinění z korupce a kvůli takovým obviněním vyhrál několik žalob na cti.
+V září řekl ruské televizní stanici, když byl dotázán na dokument, který naznačuje, že je zkorumpovaný: "Je to šílené, je to špína, je to nepořádek."
+Rusové v drtivé většině věří, že je to zkorumpovaná společnost, ukázaly průzkumy.
+Je však neobvyklé najít podrobnosti, které jsou uvedeny ve zprávě velvyslanectví, a je neslýchané, že by to měli být diplomaté z cizí země.
+"Přímé vazby moskevské městské vlády na kriminalitu vedly některé k tomu, aby to nazvali 'nefunkční', a k tvrzení, že vláda funguje spíše jako kleptokracie než vláda," uvádí se ve zprávě.
+"Kriminální elementy mají 'kryši' (termín od zločineckého / mafiánského světa doslova znamenající 'střechu' nebo ochranu), který prochází policií, Federální bezpečnostní službou (FSB), ministerstvem vnitra (MVD) a prokuraturou, stejně jako v celé moskevské městské vládní byrokracii.
+"Analytici identifikují třístupňovou strukturu v moskevském kriminálním světě."
+"Lužkov je na vrcholu."
 "FSB, MVD a milice jsou na druhé úrovni."
-"Konečně jsou obyčejní zločinci a zkorumpovaní inspektoři konečně na nejnižší úrovni."
-"Jedná se o neefektivní systém, ve kterém zločinecké skupiny v některých oblastech zaplňují prázdnotu, protože město neposkytuje některé služby."
-Zpráva uvádí, že FSB hrabává peníze od největších firem a že policie se zaměřuje na malé podniky.
-Jeden zdroj, řekl, „vysvětlil, že majitelé moskevských podniků chápou, že je nejlepší získat ochranu před MVD a FSB (spíše než skupinami organizovaného zločinu), protože mají nejen více zbraní, zdrojů a moci než zločinecké skupiny, ale jsou také chráněni zákonem.“
-"Z tohoto důvodu již není ochrana před zločineckými gangy tak vysoká poptávka."
-Memorandum konstatuje, že zatímco sběr peněz je komplexní, samotná ochrana může být skvrnitá; dokonce i ti, kteří platí, jsou někdy vystaveni zatčení.
-Ti, kteří nezaplatí rychle, zjistí, že jejich podnikání je uzavřeno na základě jedné nebo jiné záminky.
-Medveděv několikrát mluvil o boji proti korupci, ale přiznal, že udělal jen malý pokrok.
-Memorandum velvyslanectví předává zprávy o mužích, kteří berou kufry, pravděpodobně nacpané penězi, do samotného Kremlu.
-"Ve svém boji proti korupci se Medveděv musí spoléhat na byrokraty," řekl Georgy Satarov, ředitel moskevského think tanku Indem.
+"Konečně jsou obyčejní zločinci a zkorumpovaní inspektoři na nejnižší úrovni."
+"Jedná se o neefektivní systém, ve kterém zločinecké skupiny zaplňují prázdnotu v některých oblastech, protože město neposkytuje některé služby."
+Zpráva uvádí, že FSB shrábne peníze od největších firem a že policie cílí na malé podniky.
+Jeden zdroj, uvedlo, "vysvětloval, že moskevští podnikatelé chápou, že je nejlepší získat ochranu od MVD a FSB (spíše než organizovaných zločineckých skupin), protože nejenže mají více zbraní, zdrojů a moci než zločinecké skupiny, ale jsou také chráněni zákonem."
+"Z tohoto důvodu už ochrana před zločineckými gangy není tak vysoká žádaná."
+Memorandum poznamenává, že zatímco sbírka peněz je komplexní, samotná ochrana může být skvrnitá; dokonce i ti, kteří platí, jsou někdy předmětem zatčení.
+Ti, kteří neplatí, rychle zjistí, že jejich podniky jsou zavřené pod jednou nebo jinou záminkou.
+Medveděv několikrát hovořil o boji proti korupci, ale přiznal, že udělal jen malý pokrok.
+Zpráva o ambasádě přenáší zprávy o mužích, kteří si berou kufry, pravděpodobně nacpané penězi, do samotného Kremlu.
+"V boji proti korupci se Medveděv musí spoléhat na byrokraty," řekl v nedávném rozhovoru ředitel moskevského think tanku Indem Georgi Satarov.
 "Ale on je součástí této byrokracie."
-Není součástí politické třídy, protože politická třída v Rusku už neexistuje.
-Bez politiky, bez opozice, bez oddělení moci, řekl, je korupce nevyhnutelná.
-Indem odhaduje, že korupce stojí Rusko více než 300 miliard dolarů ročně.
-Země byla zařazena na 154. místo v nedávném průzkumu o globálním vnímání korupce nevládní organizace Transparency International (země jsou zařazeny od nejméně po nejvíce zkorumpované).
-Zveřejnění Spojených států Memorandum velvyslanectví velvyslanectví, které se stalo až do pozdního večerního moskevského času, jistě vyvolá nespokojenost uvnitř ruské vlády, i když do té míry, do jaké Lužkov může být obviňován z selhání Moskvy, může být příležitostí pro Kreml tvrdit, že tento problém řeší.
-V rozhovoru pro CNN Larry King Putin naznačil, že dokumenty WikiLeaks mohou být výmysly a reagoval rozzlobeně na odhalení, že američtí diplomaté ho nazvali Batmanem na Medveděvovu Robinovi.
-"Pravdou této záležitosti je, že jde o naši interakci, což je důležitý faktor domácí politiky v této zemi," řekl.
-"Ale abych byl upřímný, netušili jsme, že to bude provedeno s takovou arogancí, s takovým tlakem a, víte, být tak neeticky hotovo."
-Veteráni Rudých Khmerů byli nuceni čelit minulosti
-V matně osvětlené betonové třídě s rozmazanými a louženými stěnami, ředitel střední školy Anlong Veng připomněl muže, který ji postavil, zesnulého vůdce Rudých Khmerů Tak Mok.
+"Není součástí politické třídy, protože v Rusku už neexistuje politická třída."
+Bez politiky, bez opozice, bez dělby moci, je podle něj korupce nevyhnutelná.
+Celostátně Indem odhaduje, že korupce stojí Rusko více než 300 miliard dolarů ročně.
+Země se umístila na 154. místě v nedávném průzkumu o globálním vnímání korupce nevládní organizací Transparency International (země se řadí nejméně od nejméně ke zkorumpované).
+Zveřejnění USA Zpráva o ambasádě, ke které došlo až pozdě večer v moskevském čase, jistě rozdmýchá nelibost uvnitř ruské vlády, i když do té míry, že Lužkov může být obviňován z nedostatků Moskvy, by to mohla být příležitost pro Kreml argumentovat, že problém řeší.
+V rozhovoru pro CNN Larry King Putin naznačil, že dokumenty WikiLeaks mohou být výmysly a rozzlobeně reagoval na odhalení, které mu američtí diplomaté nazvali Batmanem na Medveděvovu Robina.
+"Pravdou je, že jde o naši interakci, která je důležitým faktorem domácí politiky v této zemi," řekl.
+"Ale abych byl upřímný, neměli jsme podezření, že by se to stalo s takovou arogancí, s takovým tlakem a, víte, že jsme tak neetické."
+Veteráni Rudých Khmerů jsou nuceni konfrontovat s minulostí
+V matně osvětlené betonové učebně se rozmazanými a olupujícími se zdmi ředitel střední školy Anlong Veng připomněl muž, který ji postavil, zesnulého vůdce Rudých Khmerů Tak Mok.
 "Všichni tady milují Ta Moka."
-"Byl to dobrý vůdce a staral se o svůj lid," řekl 42letý Sreng Kor Ma.
-Známý jako "řezník" pro jeho brutalitu během vlády Rudých Khmerů, velitel zůstává populární v této odlehlé bývalé pevnosti Rudých Khmerů v severozápadní Kambodži, kde stavěl nemocnice, mosty a další infrastrukturu a kde stále žijí tisíce bývalých vojáků organizace.
-Ale letos, 12 let poté, co se Rudí Khmerovi vzdali vládě, je v Anlong Veng konečně zpochybňována dlouholetá loajalita.
-V dubnu místní fórum pravdy a usmíření umožnilo obětem veřejně konfrontovat lidi, kteří se podíleli na režimu.
-V červnu zde vláda distribuovala středoškolskou učebnici, která poprvé učí historii Rudých Khmerů dětem svých bývalých vojáků.
-A v červenci společný tribunál OSN a Kambodžan vydal své první odsouzení bývalého člena Rudých Khmerů, odsouzení bývalého šéfa nechvalně známého mučícího centra Tuol Sleng, Kaing Khek Iev, lépe známého jako Duch, na 35 let vězení.
-S každým z těchto vývojů se mezi veterány Khmer Rouge společnosti Anlong Veng rozrostla, což komplikuje úsilí o usmíření a jejich pokusy znovu se začlenit do kambodžské společnosti.
-"Mezi bývalými Rudými Khmery je rozhořčení a strach, ale jsou bezmocní dělat cokoliv," řekl Chhang Youk, vedoucí Dokumentačního centra Kambodže, nezávislé organizace, která tento režim zkoumá.
-Pro ně byl život pod Rudými Khmery slavný, ale režim se stal symbolem zla.
+"Byl to dobrý vůdce a záleželo mu na jeho lidech," řekl Sreng Kor Ma (42).
+Velitel, známý jako "řezník" pro svou brutalitu během vlády Rudých Khmerů, zůstává populární v této odlehlé bývalé baště Rudých Khmerů v severozápadní Kambodži, kde stavěl nemocnice, mosty a další infrastrukturu a kde stále žijí tisíce bývalých vojáků organizace.
+Ale letos, 12 let poté, co se Rudí Khmerové vzdali vládě, jsou v Anlong Veng konečně zpochybňovány dlouholeté loajality.
+V dubnu místní fórum pravdy a usmíření umožnilo obětem veřejně konfrontovat lidi, kteří se na režimu podíleli.
+V červnu zde vláda rozdala středoškolskou učebnici, která poprvé učí historii Rudých Khmerů dětem svých bývalých vojáků.
+A v červenci společný OSN a kambodžský tribunál vynesl své první odsouzení bývalého člena Rudých Khmerů, odsoudil bývalého šéfa nechvalně proslulého mučícího centra Tuol Sleng, Kainga Kheka Ieva, známějšího jako Duch, k 35 letům vězení.
+S každým z těchto vývojů vzrostla úzkost mezi veterány Rudých Khmerů Anlong Veng, což komplikuje úsilí o usmíření a jejich pokusy o opětovné začlenění do kambodžské společnosti.
+"Existuje zášť a strach mezi bývalými Rudými Khmery, ale jsou bezmocní cokoli udělat," řekl Chhang Youk, šéf Dokumentačního centra Kambodže, nezávislé organizace, která režim zkoumá.
+"Pro ně byl život za Rudých Khmerů slavný, ale režim se stal symbolem zla."
 "Vytváří rozdělení v rámci rodin."
-Během vlády Rudých Khmerů v Kambodži od roku 1975 do roku 1979 bylo odhadem 1,7 milionu lidí popraveno nebo zemřelo hladem, nemocí nebo přepracováním.
-Když Vietnamci v roce 1979 napadli a svrhli vládu vedenou Pol Potem, zbytky režimu a jeho armády uprchly na kambodžskou hranici s Thajskem.
-Tam zahájili povstání, které vydrželo až do posledního z hnutí, které se vzdalo v prosinci 1998.
-Jak Pol Pot, Nuon Chea a Ieng Sary řídili partyzánskou válku ze svých základen v západních kambodžských horách a džunglích, Ta Mok kultivoval následovníky v Anlong Veng.
-Ale v polovině 90. let, po mírové dohodě sponzorované OSN, která vedla k prvním demokratickým volbám v zemi v roce 1993, začaly velké skupiny bojovníků Rudých Khmerů přecházet na vládu, což vyvrcholilo kapitulací Ieng Saryho v roce 1996 a Nuon Chea a Khieu Samphan v roce 1998.
-Pol Pot zemřel přirozenou smrtí v roce 1998 a Ta Mok, který vydržel, byl zajat vládními silami v nedalekých Dangrekových horách.
-Zemřel ve věznici Phnompenh v roce 2006, když čekal na soud.
-S jejich dobrodinci, kteří jim již nejsou zaručují, většina bývalých bojovníků Rudých Khmerů sestoupilo do drtivé chudoby běžné ve venkovské Kambodži a mnozí zůstávají nostalgičtí pro hnutí.
-Ačkoli několik elitních představitelů Rudých Khmerů drželo své místní vládní posty výměnou za to, že si položí zbraně, řadové osoby zůstávají chudé, nekvalifikovaní zemědělci.
-"Tito lidé po kapitulaci prospěli velmi málo," řekl Sok Leang z Centra pro spravedlnost a usmíření, které pořádá veřejná fóra po celé Kambodži, včetně Anlong Veng.
+Během vlády Rudých Khmerů v Kambodži, od roku 1975 do roku 1979, bylo podle odhadů 1,7 milionu lidí popraveno nebo zemřelo na hlad, nemoci nebo přepracování.
+Když Vietnamci v roce 1979 napadli a svrhli vládu vedenou Poltem, zbytky režimu a jeho armády uprchly na hranici Kambodže s Thajskem.
+Tam zahájili povstání, které vydrželo až do posledního z hnutí v prosinci 1998.
+Když Pol Pot, Nuon Chea a Ieng Sary řídili partyzánskou válku ze svých základen v západních horách a džunglích, Tak Mok pěstoval následovník v Anlong Veng.
+Ale v polovině 90. let, poté, co mírová dohoda sponzorovaná OSN vedla k prvním demokratickým volbám v zemi v roce 1993, začaly velké skupiny bojovníků Rudých Khmerů přecházet k vládě, což vyvrchlo kapitulací Ieng Sary v roce 1996 a Nuon Chea a Khieu Samphana v roce 1998.
+Pol Pot zemřel přirozenou smrtí v roce 1998 a Ta Mok, který vydržel, byl zajat vládními silami v roce 1999 v nedalekých horách Dangrek.
+Zemřel ve věznici Phnompenh v roce 2006 při čekání na soud.
+Vzhledem k tomu, že jejich dobrodinci již je nezajišťují, většina bývalých bojovníků Rudých Khmerů sestoupila do drtivé chudoby společné ve venkovské Kambodži a mnozí zůstávají nostalgičtí po tomto hnutí.
+I když několik elitních představitelů Rudých Khmerů drželo své místní vládní posty výměnou za to, že složí zbraně, hodnost a spis zůstávají chudými, nekvalifikovanými zemědělci.
+"Tito lidé prosili velmi málo po kapitulaci," řekl Sok Leang z Centra pro spravedlnost a usmíření, které pořádá veřejná fóra po celé Kambodži, včetně Anlong Veng.
 "Jsou zakotveny v utopické agrární ideologii režimu."
 "Byli vychováni bez konceptu podnikání."
-Pětapadesátiletý Lim, který se připojil k Rudým Khmerům jako teenager v roce 1974, bojoval v džungli kolem Anlong Veng, než se v roce 1998 usadil k životu jako chudý pěstitel rýže.
+Sor Lim (55), který se připojil k Rudým Khmerům jako teenager v roce 1974, bojoval v džungli kolem Anlong Veng, než se v roce 1998 usadil jako chudý chovatel rýže.
 "Život pod Rudými Khmery byl dobrý," řekl.
-"Ta Mok všechny nakrmil."
-Ale nyní je život obtížný, protože se musíme o sebe postarat sami.“
-Probíhající soud Rudých Khmerů zde také vyvolal obavy.
-Začátkem příštího roku se očekává, že soud začne soudit Nuona Cheu, Khieu Samphana, Ienga Saryho a jeho ženu Ieng Thirith, další bývalý ministr Rudých Khmerů.
-Mandát soudu je stíhat vedoucí představitele a ty, kteří jsou nejvíce zodpovědní za zločiny, ale neřekl, zda bude usilovat o případy nad rámec těchto čtyř.
-To udělalo jen málo pro uklidnění strachu v Anlong Veng.
-Nedávné spekulace médií se soustředily na Im Chaema, 64, který byl šéfem okresu v provincii Banteay Meanchey během vlády Rudých Khmerů na konci 70. let.
-V roce 2007 řekla výzkumníkům z Dokumentačního centra Kambodže, že dohlížela na výstavbu přehrady Trapeang Thama, projektu, ve kterém se předpokládá, že zemřely tisíce nucených dělníků.
-Jednoho parného nedávného večera se Im Chaem vrátil z práce na polích do svého dřevěného chylí na prašné cestě u Anlong Veng.
-Vzhledem k tomu, že slunce vrhalo dlouhé stíny přes vyprahlou trávu, Im Chaem odmítl diskutovat o své minulosti v Rudých Khmerech.
-Kdyby ji soud předvolal, řekla by, že by odmítla jít.
-"Kambodžam je v míru a stabilitě," řekla.
-"Pokud bude více stíhání, bude válka."
-Premiér Hun Sen, který přeběhl z Rudých Khmerů v roce 1978, také opakovaně varoval, že k nestabilitě dojde, pokud soud bude stíhat více podezřelých, i když odborníci a historici to zpochybňují.
-"Cambodia musí vyhrabat díru a pohřbít minulost," řekl.
+"Abe Mok všechny krmil."
+"Ale teď je život obtížný, protože se musíme postarat."
+Znepokojení zde vyvolal i probíhající tribunál Rudých Khmerů.
+Začátkem příštího roku se očekává, že soud začne soud soudit Nuon Chea, Khieu Samphana, Ienga Saryho a jeho manželku Ieng Thirithovou, další bývalou ministryni Rudých Khmerů.
+Mandát soudu je stíhat vysoké představitele a ty, kteří jsou nejvíce zodpovědní za zločiny, ale neřekl, zda bude pokračovat v případech nad rámec těchto čtyř.
+To udělalo jen málo pro uklidnění obav v Anlong Veng.
+Nedávné mediální spekulace se soustředily na Im Chaema (64), který byl okresním náčelníkem v provincii Banteay Meanchey během vlády Rudých Khmerů na konci 70. let.
+V roce 2007 řekla výzkumníkům z Kambodžského Centra, že dohlížela na výstavbu přehrady Trapeang Thma, projektu, v němž se předpokládá, že zemřely tisíce nucených dělníků.
+Jednoho úmorného večera se Im Chaemová vrátila z práce na polích do svého dřevěného kejklířového domu na polní cestě mimo Anlong Veng.
+Když slunce vrhalo dlouhé stíny přes vyprahlou trávu, Im Chaemová odmítla diskutovat o své minulosti v Rudých Khmerech.
+Pokud by ji soud předvolal, odmítla by jít.
+"Kambodie je v míru a stabilitě," řekla.
+"Pokud bude více trestních stíhání, bude válka."
+Premiér Hun Sen, který v roce 1978 přeběhl z Rudých Khmerů, také opakovaně varoval, že k nestabilitě dojde, pokud soud bude pronásledovat více podezřelých, ačkoli to odborníci a historici zpochybňují.
+"Kambodie musí vykopat díru a pohřbít minulost," řekl.
 Ale konfrontace s minulostí je přesně to, co Kambodža musí udělat, aby se posunula vpřed, řekl Chhang Youk z dokumentačního centra.
-"Smíření v Khmerských termínech je opětovné připojení rozbitých kusů," řekl.
+"Smíření z khmerských termínů je znovu propojování rozbitých kusů," řekl.
 "Je naší povinností dát tyto rozbité kousky dohromady, abychom to pochopili."
-Centrum produkovalo první vládou schválenou učebnici o Rudých Khmerech, 75 stránkovém „A History of Democratic Kampuchea“.
-V červnu ji distribuovala v Anlong Veng jako doplněk k učebnici dějepisu ministerstva školství, která obsahuje méně než čtyři stránky o Rudých Khmerech.
-Stejně jako ve většině Kambodže, mladí lidé Anlong Veng znají jen málo podrobností o Rudých Khmerech, navzdory spojení města s režimem.
-Devatenáctiletý Touch Valeak, student střední školy Anlong Veng, uvedl, že nová učebnice pomáhá studentům pochopit důležitou část jejich historie.
-Ale jeho rodiče reagovali se skepsí, když si vzal knihu domů ke studiu.
+Centrum vytvořilo první vládou schválenou učebnici o Rudých Khmerech, 75-stránkovém "Dějinách demokratické Kampuchee".
+V červnu ji distribuovala v Anlong Veng jako doplněk k učebnici dějepisu na střední škole ministerstva školství, která obsahuje méně než čtyři stránky o Rudých Khmerech.
+Stejně jako ve velké části Kambodže, mladí lidé Anlong Venga vědí jen málo podrobností o Rudých Khmerách, navzdory spojení města s režimem.
+Touch Valeak, 19, student na Anlong Veng High School, řekl, že nová učebnice pomáhá studentům pochopit důležitou část jejich historie.
+Ale jeho rodiče reagovali se skepsí, když vzal knihu domů ke studiu.
 "Moje rodina odmítá mnoho částí učebnice a tribunálu," řekl.
 "Jsou podezřívaví, protože si nejsou jisti, kolik lidí bude soud stíhat."
 Takový odpor učinil proces usmíření složitým a obtížným, řekl Sok Leang.
 Ale veřejná fóra, učebnice a tribunál začínají mít dopad, řekl.
-Přesto si zde Khmer Rouge zachovává silný půvab.
-Nahoře v Dangrekových horách, cesta zarostlá péřou a poseta vyřazenými plastovými sáčky vede k obdélníku černých sazí pokrytých rezavou plechovou střechou.
-Pol Potovo tělo bylo popáleno na hromadě pneumatik po jeho smrti v roce 1998.
-Nuom Sothea, 31 let, prodejce mobilních telefonů u silnice, řekl, že o muži, který tam byl zpopelněn, moc neví.
+Přesto si zde Rudí Khmerové zachovávají mocnou přitažlivost.
+V pohoří Dangrek vede stezka zarostlá plevelem a posemá zlikvidovanými plastovými pytli k obdélníku černých sazí pokrytých zrezivělou plechovou střechou.
+Pol Potovo tělo bylo po smrti v roce 1998 spáleno na hromadě pneumatik.
+Nuom Sothea, 31 let, prodejce mobilních telefonů, řekl, že o muži, který tam byl zpopelněn, moc nevěděla.
 "Ale má silného ducha a mnoho místních lidí tam chodí, aby se k němu modlili," řekla.
-Byly to narozeniny Nuom Sothey a později ten den plánovala jít na Pol Potovo místo posledního odpočinku, kde by zanechala spoustu zralých banánů v naději, že přinese štěstí.
-Bělorusko se dohodlo, že se vzdá svých zásob uranu pro zbrojení
-V překvapivém vítězství kampaně prezidenta Obamy za zajištění jaderného materiálu po celém světě běloruská vláda ve středu oznámila, že se vzdá svých zásob vysoce obohaceného uranu, což je kritická součást jaderných zbraní.
-Dohoda byla zveřejněna ve společném prohlášení vydaném poté, co se zde ministryně zahraničí Hillary Clintonová setkala s běloruským ministrem zahraničí Sergejem Martynovem na okraj bezpečnostního summitu.
-Americká vláda se roky snažila přesvědčit Bělorusko, aby se vzdalo svého vysoce obohaceného uranu a zdálo se, že loni na jaře narazilo na zátaras.
-Ale američtí představitelé řekli The Washington Post, že v posledních dvou měsících byla provedena dvojice tajných operací s Běloruskem, aby se odstranilo 187 liber uranu na výrobu zbraní z běloruského výzkumného zařízení.
-To připravilo půdu pro středeční dohodu o odstranění zbytku materiálu - asi 500 liber v hodnotě, podle jednoho úředníka, který mluvil pod podmínkou anonymity kvůli citlivosti této záležitosti.
-Dohoda se zdála být jedním z nejdůležitějších výsledků Obamova summitu o jaderné bezpečnosti v dubnu, který vyloučil Bělorusko.
-A to bylo zřejmě dost dobré na to, aby zajistilo pozvání bývalé sovětské republiky na následný summit v roce 2012.
-"Byl jsem opravdu fascinován tím, že chtějí místo na summitu o jaderné bezpečnosti v roce 2012."
-"To mi dokazuje, že tento proces funguje," řekl Ken Luongo, prezident skupiny Partnerství pro globální bezpečnost podporující jadernou bezpečnost.
-Clintonová označila dohodu za "velmi významný a důležitý krok" Běloruska.
-Obama slíbil v Praze v dubnu 2009 zajistit do čtyř let veškerý zranitelný jaderný materiál po celém světě.
-Od té doby americká vláda pomohla šesti zemím zbavit se veškerého vysoce obohaceného uranu.
-Bělorusko bude sedmá.
-Tucet zemí tak učinilo pod Georgem W. Bushova administrativa.
-V době Obamova summitu o jaderné bezpečnosti běloruský prezident Alexandr Lukašenko prohlásil, že se země nikdy nevzdá svého uranu.
-"Udrželi jsme vysoce obohacený uran - stovky kilogramů toho, co je v podstatě zbraňové a nízko obohacené uran," řekl Lukašenko.
-"Toto je naše zboží... Nebudeme dělat špinavé bomby a my je nebudeme nikomu prodávat.“
-"Používáme to pro výzkumné účely, to je vše."
-Bělorusko se však obrátilo na Spojené státy před několika měsíci, což naznačuje zájem na dosažení dohody.
-První podnik na odstranění běloruského uranu v říjnu byl obzvláště komplikovaný, protože materiál byl mírně ozařizován, uvedli úředníci.
-Byl naložen do speciálního vlaku, který cestoval více než 1300 mil do ruského zařízení pro skladování a likvidaci, uvedli úředníci.
-Druhá operace skončila v pondělí a byla provedena letadlem, podle úředníků.
-Americká vláda utratila 13 milionů dolarů za úsilí, z nichž většina zásobovala běloruské výzkumné zařízení s nízko obohaceným uranem, což není vhodné pro jaderné zbraně.
+Měly narozeniny Nuom Sothey a později toho dne plánovala projít na poslední místo odpočinku Pola Pota, kde zanechala hromadu zralých banánů v naději, že přinese štěstí.
+Bělorusko se dohodlo, že se vzdá svých zásob uranu v oblasti zbraní
+V překvapivém vítězství kampaně prezidenta Obamy za zajištění jaderného materiálu po celém světě vláda ve středu oznámila, že se vzdá svých zásob vysoce obohaceného uranu, což je kritická složka jaderných zbraní.
+Dohoda byla zveřejněna ve společném prohlášení vydaném poté, co se ministryně zahraničí Hillary Rodham Clintonová setkala s běloruským ministrem zahraničí Sergejem Marťovem na okraj bezpečnostního summitu zde.
+Americká vláda se roky snažila přesvědčit Bělorusko, aby se vzdalo svého vysoce obohaceného uranu, a zdálo se, že loni na jaře narazilo na zátaras.
+Američtí představitelé ale sdělili listu The Washington Post, že v posledních dvou měsících byla provedena dvojice tajných operací s Běloruskem, aby se odstranilo 187 liber uranu na úrovni zbraní z běloruského výzkumného zařízení.
+To připravilo půdu pro středeční dohodu o odstranění zbytku materiálu - asi 500 liber podle jednoho úředníka, který hovořil pod podmínkou anonymity kvůli citlivosti věci.
+Dohoda se zdála být jedním z nejdůležitějších výsledků Obamova dubnového summitu o jaderné bezpečnosti 47 zemí, který vyloučil Bělorusko.
+A zřejmě bylo dost dobré, aby zajistilo pozvání bývalé sovětské republiky na následný summit, v roce 2012.
+"Byl jsem opravdu fascinován tím, že chtějí křeslo na summitu o jaderné bezpečnosti v roce 2012."
+"To mi dokazuje, že tento proces funguje," řekl Ken Luongo, prezident Partnerství pro globální bezpečnost, skupiny podporující jadernou bezpečnost.
+Clintonová označila dohodu za "velmi významný, důležitý krok" Běloruska.
+Obama se v Praze v dubnu 2009 zavázal, že do čtyř let zajistí veškerý zranitelný jaderný materiál po celém světě.
+Od té doby americká vláda pomohla šesti zemím zbavit se všech svých vysoce obohacených uranů.
+Bělorusko by bylo sedmé.
+Za George W tak učinilo tucet zemí. Bushova administrativa.
+V době Obamova summitu o jaderné bezpečnosti běloruský prezident Alexandr Lukašenko prohlásil, že se národ nikdy nevzdá svého uranu.
+"Udrželi jsme vysoce obohacený uran - stovky kilogramů toho, co je v podstatě uranem na úrovni zbraní a s nižším obohacením," řekl tehdy Lukašenko.
+"Toto je naše komodita... Nebudeme dělat špinavé bomby a nikomu je neprodáme."
+"Používáme to pro výzkumné účely, to je všechno."
+Bělorusko se před několika měsíci přiblížilo ke Spojeným státům, což naznačuje zájem o dosažení dohody.
+První závazek odstranit běloruský uran v říjnu byl obzvláště komplikovaný, protože materiál byl mírně ozářen, uvedli úředníci.
+Byla naložena do speciálního vlaku, který cestoval více než 1,300 mil do ruského zařízení pro skladování a likvidaci, uvedli úředníci.
+Druhá operace skončila v pondělí a podle úředníků byla provedena letadlem.
+Americká vláda vynaložila na úsilí 13 milionů dolarů, z velké části z toho, aby dodá běloruskému výzkumnému zařízení s nízkým obohaceným uranem, který není vhodný pro jaderné zbraně.
 "Bylo to velmi pečlivě koordinováno a zorganizováno, aby se vybudovala důvěra", která vedla k dohodě podepsané Clintonovou, řekl Andrew Bieniawski, úředník ministerstva energetiky pracující na globálním snižování hrozeb.
-Centrum pro nešíření jaderných zbraní James Martin letos odhaduje, že Bělorusko má nejméně 88 liber uranu na výrobu zbraní, stejně jako stovky liber vysoce obohaceného uranu.
-Bělorusko bude podle společného prohlášení usilovat o zrušení svých zásob do roku 2012.
-Vztahy mezi Běloruskem a Spojenými státy jsou již roky napjaté, především kvůli Lukašenkovu tvrdému potlačování lidských práv.
-Středeční prohlášení však naznačovalo možné tání.
-"Přivítání pokroku v těchto globálních bezpečnostních otázkách Spojené státy a Bělorusko uznaly, že posílená úcta k demokracii a lidským právům v Bělorusku zůstává zásadní pro zlepšení bilaterálních vztahů a je nezbytná pro pokrok země a jejích občanů," uvedla společnost.
-Španělská vláda nevznesla námitky ohledně letů CIA.
-Španělská vláda nevznesla námitky vůči letům CIA s vězni Talibanu a Al-Káidy, které jely na Guantánamo přes španělské území, podle amerického velvyslance v Madridu telegramu.
-Tak se odráží prostřednictvím filtrovaných dokumentů (tajemství) Wikileaks do novin El País, kde se dodává, že první viceprezident vlády v té době, Maria Teresa Fernandez z Vega, požádala, aby španělská exekutiva byla informována, „aby byla schopna prokázat, že provedla příslušné monitorovací postupy na cizích letadlech, které překračují Španělsko.“
-V červnu 2006, po zprávě Evropské rady, kde došlo k obvinění ze spoluúčasti na praktikách proti lidským právům v tuctu zemí, mezi nimiž je Španělsko, se konalo setkání mezi bývalým severoamerickým velvyslancem Eduardem Aguirrem a Fernandezem de la Vega.
-Viceprezident uznal, že zpráva rady "vzala vládu Zapatera mimo hru" a trval na tom, že Španělsko nemá v této záležitosti co skrývat.
-De la Vega zdůraznil, že Španělsko nevznese námitku proti zpravodajským letům nad španělským územím.
-"Prostě chtějí být informováni", aby se vyhnuli tomu, aby byli "přičeni překvapením", vypráví Aguirre v telegramu.
-Také bývalý ministr zahraničních věcí Miguel Angel Moratinos naznačil velvyslanci, že španělská exekutiva „chtěla tomuto problému věnovat co nejméně pozornost, i když je v rukou soudců, vláda měla omezený vliv“.
-Na druhou stranu, v lednu 2007 státní zástupce Vicente González předal velvyslanectví, že se nebude pokoušet zablokovat iniciativu soudce požadovat odtajnění dokumentů Národního zpravodajského střediska (CNI) a ministerstva obrany týkajícího se letů společnosti.
-Tyto informace neobsahují žádný inkriminační prvek ani žádné citlivé informace,“ vysvětlilo velvyslanectví po rozhovoru s státním zástupcem.
-Nicméně, USA se odrazily na jeho zaujetí „zjevné koordinace mezi španělským soudcem a německými státními zástupci“, více než odtajněné informace CNI nebo ministerstva obrany.
-"Tato koordinace mezi nezávislými vyšetřovateli zkomplikuje naše úsilí o diskrétně řešení případu mezi vládami"; říká Aguirre.
-V březnu 2007 během oběda mezi velvyslancem USA a ministrem vnitra Alfredem Perezem Rubalcabou, tento mu poznamenal, že „i když španělští soudci jsou zuřivě žárliví na svou nezávislost a budou dělat to, co považují za správné,“ dal svým spolupracovníkům instrukce, „aby se vyhnul komentářům rozněcované rétoriky, ve snaze snížit teplotu.“
-Velvyslanec také vyjadřuje své znepokojení nad akcí PP v této věci.
-"Navzdory jeho proamerické obecné orientaci naše zkušenosti naznačují, že PP nebude pochybovat o tom, že by kapitalizovala žádné náznaky, že vláda Zapatera tolerovala nebo úmyslně ignorovala akce USA, které by mohly být interpretovány jako možné porušení lidských práv, i když tato odhalení mají negativní důsledky pro vládu USA," uvádí se v prohlášení.
-Paricid si stěžoval na "břemeno" být matkou.
-Mladá dáma mluvila o dítěti, když už byl mrtvý a ona měla blog: "Teror z Galice"
+Centrum pro studium nešíření jaderných zbraní Jamese Martina letos odhadlo, že Bělorusko má nejméně 88 liber uranu na úrovni zbraní, stejně jako stovky liber vysoce obohaceného uranu.
+Bělorusko bude podle společného prohlášení usilovat o odstranění svých zásob do roku 2012, uvádí se ve společném prohlášení.
+Vztahy mezi Běloruskem a Spojenými státy jsou roky napjaté především kvůli Lukašenkově tvrdým represím k lidským právům.
+Středeční prohlášení ale naznačovalo potenciální rozmrazení.
+"Výskyt pokrok v těchto globálních bezpečnostních otázkách Spojené státy a Bělorusko uznaly, že posílené dodržování demokracie a lidských práv v Bělorusku zůstává zásadní pro zlepšení bilaterálních vztahů a je nezbytné pro pokrok země a jejích občanů," uvedla.
+Španělská vláda nevznesla námitky ohledně letů CIA
+Španělská vláda nevznesla námitky ohledně letů CIA s vězni Talibanu a Al-Káidy, které se chystaly na Guantánamo přes španělské území, podle velvyslance USA v madridském telegramu.
+Tak se odráží prostřednictvím filtrovaných dokumentů (kabelů) Wikileaks k novinám El País, kde se očekává, že první viceprezidentka vlády v té době, Maria Teresa Fernandezová z Vegy, požádala, aby byla španělská exekutiva informována, aby "byla schopna prokázat, že provedli vhodné monitorovací postupy na zahraničních letadlech, která překračují Španělsko".
+V červnu 2006, po zprávě o Evropské radě, kde byla v tuctu zemí obviňována ze spoluúčasti na praktikách proti lidským právům, mezi nimiž je Španělsko, se uskutečnilo setkání mezi bývalým severoamerickým velvyslancem Eduardem Aguirrem a Fernandezem de la Vega.
+Místopředseda uznal, že zpráva rady "sundala vládu Zapatera mimo hru" a trval na tom, že Španělsko nemá v této věci co skrývat.
+"De la Vega zdůraznil, že Španělsko nevznáší námitky proti zpravodajským letům nad španělským územím."
+"Prostě chtějí být informováni", aby se vyhnuli tomu, že budou "překvapeni překvapením", vypráví Aguirre v telegramu.
+Také exministr zahraničních věcí Miguel Angel Moratinos naznačil velvyslanci, že španělská exekutiva "chtěla dát tuto otázku co nejméně pozornosti, i když vláda byla v rukou soudců, měla omezený vliv".
+Na druhé straně, v lednu 2007, státní zástupce Vicente González předal velvyslanectví, že se nebude snažit zablokovat iniciativu soudce, který požaduje odtajnění dokumentů Národního centra zpravodajských služeb (CNI) a ministerstva obrany ohledně letů společnosti.
+Tyto informace neobsahují žádný inkriminační prvek ani žádné citlivé informace," vysvětlilo velvyslanectví po rozhovoru se státním zástupcem.
+USA se nicméně zamyslely nad svým zájmem nad "zjevnou koordinací mezi španělským soudcem a německými státními zástupci", více než odtajněné informace CNI nebo ministerstva obrany.
+"Tato koordinace mezi nezávislými vyšetřovateli zkomplikuje naše úsilí, aby se diskrétně vypořádala s případem mezi vládami," říká Aguirre.
+V březnu 2007 během oběda mezi velvyslancem USA a ministrem vnitra Alfredem Perezem Rubalcabou mu tento poznamenal, že "i když španělští soudci vztekle na svou nezávislost a udělají to, co považují za správné", dal svým spolupracovníkům instrukce, "aby se vyhnuli komentářům za zapálené rétoriky, ve snaze snížit teplotu".
+Velvyslanec také vyjadřuje své zaujetí působení PP v této věci.
+"Navzdory jeho proamerické obecné orientaci naše zkušenosti naznačují, že PP nebude pochybovat o tom, že by využila žádné náznaky, že vláda Zapatera tolerovala nebo záměrně ignorovala akce USA, které by mohly být interpretovány jako možné porušování lidských práv, i když tato odhalení mají negativní důsledky pro vládu USA," říká.
+Parrici si stěžovalo na "zátěž" být matkou
+Mladá dáma mluvila o dítěti, když už byl mrtvý a vedla si blog: "Teror Galičaj,"
 Mónica Juanatey Fernandez je v síti "Muki".
-S touto přezdívkou, kterou používala od doby, kdy byla mladá, komunikovala se bratrancem a nejméně jedním přítelem, oba z Noia, města Corua, kde se narodila.
-Poselství jsou z roku 2008.
-Aby bylo možné jim porozumět, je třeba znát osobní život, který ABC rekonstruuje prostřednictvím svědectví svých příbuzných.
-Mladá dáma z Galicie, 30 let, iniciovala vztah v roce 1998 s Ivánem Túñezem, průmyslníkem.
+S touto přezdívkou, kterou používá od doby, co byla mladá, komunikovala s bratrancem a nejméně jednou kamarádkou, oba z Noia, města Corua, kde se narodila.
+Vzkazy jsou z roku 2008.
+Abychom je porozuměli, je třeba znát osobní život, který ABC rekonstruuje prostřednictvím svědectví jejích příbuzných.
+Mladá dáma z Galicie 30 let iniciovala vztah v roce 1998 s průmyslníkem Ivánem Túñezem.
 Tato aféra trvala jeden rok.
-Rozhodli se rozejít, krátce poté, co zjistili, že je těhotná.
-Chtěl vědět, jestli je to dítě jeho, ale jeho ex mu nikdy nedovolil, aby si nechal udělat test DNA.
-Zanedlouho poté našla někoho jiného.
+Rozhodli se, že se rozejdou, brzy poté, co zjistili, že je těhotná.
+Chtěl vědět, jestli je to dítě jeho, ale jeho bývalý mu nikdy nedovolil, aby si udělal test DNA.
+Brzy poté si našla někoho jiného.
 Muž, kterého si vybrala, byl Alberto, muž z Lousame, sousední obce.
 Zůstala s ním po dlouhou dobu.
-Caesar s nimi žil.
-Když dívka šla na Baleárské ostrovy, aby otestovala trh práce, dítě zůstalo se svým au pair, který ji doprovázel na týden v Palmě.
-Ale v obsahu jejích zpráv lze vidět, že jejich románek skončil, byl rozbitý.
-V březnu 2008 v Menorce, singl, píše: "Alberto je velmi divný a rozrušený, protože jsem sem přišla do práce."
-Když jsem mu to řekl, zdálo se, že je šťastný, jistě, ale teď si uvědomuje, jak je těžké zůstat s dítětem celý den a ne mít svobodu dělat to, co chce.
-Pak mluví o zprávě, kterou obdržela na svém mobilním telefonu, ve které stálo: "Chci, abyste přišli tento měsíc nebo mi dali adresu, na kterou vám mohu poslat dítě."
-Dodává: "Pokud se mu nelíbí opouštět dítě s matkou, vezmu ho, až se vrátím."
-V květnu mluví o svém návratu do města: "Tento týden tam povstoupím, ale zůstanu jen do 19., protože se musím prezentovat v práci."
-Upřesnila, že pokud vše půjde dobře, udrží si své prvorozené dítě.
-"Od nynějška zůstane s tím, s kým musí zůstat, což znamená se mnou a já už nikdy v životě nenechám ho s někým jiným, kromě mé matky" pochybného záměru vzhledem k jejím špatným vztahům.
-V červenci je tu ještě jeden článek.
-Když to píše, předpokládá se, že chlapec, který dorazil na ostrov 1. v tomto měsíci a údajně byl zavražděn 10., je již mrtvý.
-"Caesar je na jedné straně spokojen, ale ne na druhé straně."
-Na jedné straně je se mnou a má rád místo, ale na druhou stranu chodí na třídy téměř každý den.
-Hovoří o přeložení na Mallorku.
-"Bude tam chodit na letní kurzy, a tak můžu ušetřit nějaké peníze."
-Sedmnáctého je tu vzpomínky a stížnosti.
-"Objetí od Caesara, který se mě ptal, kdy se vrátíš."
-"Alberto říká, že mi poslal, nevím, na co na ten e-mail videi videje, a jak můžete vidět, když chce, může mě najít."
-Na 30. září další: "Chlapec je v pořádku; chodí do letních tříd, aby se naučil katalánsky."
-O Victorovi, je tu jeden: "Dává mi peníze."
-Na internetu jsou její zprávy v blogech věnovaných animaci.
-Dokonce měla jednoho ze svých vlastních ve vesmíru MySpace, kde si říkala "Muki ex vězeň".
-"Teror z galicijské ženy (inscription)."
-Poslední muž, který s ní žil, prohlašuje svůj zármutek za pocit viny.
+Caesar žil s nimi.
+Když dívka odjela na Baleárské ostrovy, aby otestovala trh práce, dítě zůstalo se svým au pair, který ji doprovázel po dobu jednoho týdne v Palmě.
+Ale v podobě jejích zpráv lze vidět, že jejich románek skončil, byl rozbitý.
+V březnu 2008 v Menorce, singl, píše: "Alberto je velmi divný a rozrušený, protože jsem sem přišel pracovat."
+"Když jsem mu to řekl, zdálo se, že je šťastný, jistě, ale teď si uvědomuje, jak těžké je zůstat s dítětem celý den a nemít svobodu dělat si, co chce."
+Pak mluví o zprávě přijaté na jejím mobilním telefonu, která zní: "Chci, abyste přišli tento měsíc nebo mi dali adresu, na kterou vám mohu poslat dítě."
+A dodává: "Pokud se mu nebude líbit odchod z dítěte s mou matkou, vezmu ho, až se vrátím."
+V květnu mluví o svém návratu do města: "Půjdu tam tento týden, ale zůstanu jen do devatenáctého, protože na dvacátém se musím prezentovat v práci."
+Objasňuje, že pokud vše půjde dobře, udrží si své prvorozené dítě.
+"Od nynějška zůstane s ním, se kterým musí zůstat, což znamená, že se mnou a já ho už nikdy v životě neopustím s někým jiným, kromě mé matky" pochybný záměr vzhledem k jejím špatným vztahům.
+V červenci je další příspěvek.
+Když to napíše, předpokládá se, že chlapec, který dorazil na ostrov 1. ledna toho měsíce, a údajně byl zavražděn desátý, je již mrtvý.
+"Caesar je na jedné straně spokojený, ale ne na druhé straně."
+Na jedné straně je se mnou a má rád polohu, ale na druhou stranu chodí do výuky téměř každý den."
+Mluví o přestupu na Mallorku.
+"Bude tam chodit na letní kurzy, a tak já můžu ušetřit nějaké peníze."
+Sedmnáctého jsou vzpomínky a stížnosti.
+"Objetí od Caesara, který se mě zeptal, kdy se vrátíš."
+"Alberto říká, že neposlal, že nevím, jaká videa do e-mailu a jak vidíte, kdy chce, může mě najít."
+Na třicátém, další: "Chlapec je v pořádku; chodí na letní kurzy, aby se naučil katalánsky."
+O Victorovi je jeden: "Dává mi peníze."
+Na internetu jsou její zprávy v blozích věnovaných animaci.
+Dokonce měla jednu ze svých vlastních ve vesmíru MySpace, kde si říkala "Muki bývalý vězeň".
+"Teror galické ženy (incept)."
+Poslední muž, který s ní žil, vyhlašuje svůj zármutek za to, že se cítí provinile.
 Nechce si myslet, že se všechno stalo za to, že mu neřekl, že je svobodná matka.
-Mónica vstoupil včera do provinční věznice Palm, odkud pochází z centra soudních vězňů Menorky.
-Carlos Maceda, jmenovaný právník, vysvětlil, že si nepamatuje, jak k těmto skutečnostem došlo, „ani tak, že měl v úmyslu způsobit nějakou menší bolest“.
-Předtím ano, přiznala, že utopila Caesara ve vaně a uložila jeho mrtvolu do kufru.
+Mónica včera vstoupila do provinčního vězení Palm, pocházející z centra justičních vězňů Menorky.
+Carlos Maceda, jmenovaný právník, vysvětlil, že si nepamatuje, jak k faktům došlo, "ani že měl v úmyslu způsobit nějakou menší bolest".
+Předtím ano, přiznala, že utopila Caesara ve vaně a uložila jeho mrtvolu v kufru.
 Obhajoba a státní zástupce požádali o psychiatrický test.
-Populární by získal 4 křesla v Kongresu a PSC by ztratil 9
-S výsledky 28-N, PP by mohla být rozhodující v obcích Lérida, Tarragona a Barcelona.
-Po důležitém zvýšení hlasů a zkušených poslanců v nedávných autonomických volbách, katalánská PP již myslí na všeobecné volby, je tam a pokrok nebo ne?, výhled je více než pozitivní, protože počet hlasů, které tento formátor získá v těchto volbách obvykle zdvojnásobuje ty, které obdržel během katalánských voleb.
-Populární Katalánci tedy získali 610,473 hlasů ve všeobecných volbách v roce 2008, zatímco v autonomických z roku 2006 se počet snížil na 316,222.
-Minulou neděli získal PPC 384,091 hlasů.
-Pokud tato tendence vzestupů zajišťuje převod hlasů PSC hlasů a loajalitu voličů PP. Analytici této formace vypočítali, že pokud by se konaly všeobecné volby, PPC by se mohla dostat z 8 na 12 poslanců v Kongresu, zatímco CIU by také získala čtyři (nyní má 10) a PSC by neztratilo nic menšího než 9 poslanců (má 25).
-Tyto výpočty by poznamenaly, že oblast Katalánska je pro PP a PSOE zásadní.
-Podle průzkumů veřejného mínění by ERC ztratila zástupce - v současné době má tři - zatímco ICV by zůstala se zástupcem nebo by získala jeden.
-Ale pokud zůstane volební kalendář stanoven, okamžité jmenování se uskuteční v květnu 2011 s komunálními volbami, kde mohou být populární křesla také rozhodující v cíli socialistické hegemonie ve čtyřech hlavních městech provincie a jejich změně na frontě Delegace Barcelony, jedné z administrativ, která se zabývá největším rozpočtem - 661 milionů eur pro rok 2011-.
-Nacionalisté stejně populární se shodují v možnosti, že PSC ztrácí městské rady Barcelony, Tarragony, Léridy a Gerony, kde by socialisté nezískali většinu ani možnost apelovat na své tradiční partnery, ERC a ICV.
-Vzhledem k republikánskému fiasku by nebylo překvapením, kdyby tato formace ztratila své zastoupení v radnici v Barceloně - je zapotřebí získat 5% hlasů.
-PP zvýšila počet hlasů ve čtyřech hlavních městech a mohla by být rozhodující silou v Barceloně, Léridě a Tarragoně.
-Nacionalisté jsou přesvědčeni, že jsou schopni provést rozrušení v hlavním městě Tarragona, kde vládli s PP před současným socialistickým starostou Josepem Felixem Ballesterosem.
-V Léridě byl PP umístěn pouze k 500 hlasům PSC, jehož starosta Ángel Ros udržuje velmi dobré vztahy s Marianem Rajoyem - během této poslední kampaně se setkali při několika příležitostech.
-Populární se také rozrostly v dalších významných obcích, jako je Badalona, Castelldefels nebo Reus.
-V současné době je PP přítomna ve 34 obecních samosprávách v Katalánsku a usiluje o vytvoření seznamů v maximálním počtu obyvatel.
-Katalánská skupina zprostředkovala tisíce pasů do Al-Káidy.
-Kromě sedmi vězňů v Barceloně, v Thajsku byly tři.
-Sedm Pákistánců a jeden nigerijský, který byl zastaven agenty General Barcelona policejní rozvědka, vytvořilo džihádistickou skupinu, která, nasměrovaná z Thajska, usnadnila pasy různým skupinám Al-Káidy, mezi nimi "Tygři pro osvobození tamilského území" (LTTE) a "Laškar a Taiba" (Let), autor tohoto posledního z bombových útoků, které způsobily smrt 106 lidí v roce 2008.
-Ministerstvo vnitra věnovalo těmto vyšetřováním pozornost až do okamžiku, kdy to bylo upozorněno operací „Kampai“; bylo „oslabeno“ aparátem zfalšování Al-Káidy na mezinárodní úrovni, a tudíž „jeho operativní kapacita“.
-Vyšetřovatelé vypočítali, že buňka během dvou let, které byla aktivní v Katalánsku, byla schopna poslat tisíce pasů do Thajska, kde byly zfalšovány a brzy distribuovány skupinám, které integrují zločinnou galaxii Al-Káidu, aby její „bojovníci“ mohli překročit evropské hranice a další západní země s naprostou beztrestností.
-Demventovaná buňka není jediná, kterou měla džihádistická síť v Evropě, z tohoto důvodu se podílela kromě thajských služeb, dalších evropských policejních jednotek, důvodu, proč nevyřadí, že na území EU dochází podobné události jako ta, kterou vyvinula v úterý v Barceloně.
-V koordinaci s touto operací (Pákistánský Junaid Humayun, Atiqur Rehman, Jabran Asghar, Malik Iftikhar Ahmad, Mohammad Saddique Khan Begum, Tanveer Arshad a nigerijský Babatunde Agunbiade) byly zastaveny) v Thajsku další se vyvinulo s dobytím pákistánského Muhammada Athar Butta a Zeeshan Ehsan Butt a siraj.
-Skupina sedadla ve Španělsku a dalších evropských zemích byla řízena z Bangcocku.
-Katalánská síť - část z ní byla zasažena v roce 2009 - vyloupila hlavně pasy turistům, kteří splnili požadavky poznané voláním "Worldwide Islamic front".
+Lidový by získal 4 křesla v Kongresu a PSC by prohrál 9
+S výsledky 28-N by PP mohla být rozhodující v obcích Lérida, Tarragona a Barcelona
+Po důležitém zvýšení hlasů a zkušených poslanců v nedávných autonomních volbách, Katalánská PP již uvažuje do všeobecných voleb, je tam a pokročila nebo ne?, výhled je více než pozitivní, protože počet hlasů, které tato formace získává v těchto volbách, obvykle zdvojnásobuje ty, které obdržely během katalánských voleb.
+Populární Katalánci získali ve všeobecných volbách v roce 2008 610,473 hlasů, zatímco v autonomních z roku 2006 kleslo číslo na 316.222.
+Minulou neděli získala PPC 384,091 hlasů.
+Pokud tato tendence nahoru zajišťuje převod hlasů hlasů PSC a loajalitu voličů PP. Analytici této formace spočítali, že pokud by se konaly všeobecné volby, PPC by se mohla dostat od 8 na 12 poslanců v Kongresu, zatímco CIU by také získala čtyři (nyní má 10) a PSC by neztratila nic menšího než 9 poslanců (má 25).
+Tyto výpočty by vedly, že katalářská oblast je pro PP a PSOE zásadní.
+Podle průzkumů veřejného mínění by ERC ztratila zástupce - v současné době má tři - zatímco ICV by zůstal u náměstka nebo by získal jeden.
+Pokud však zůstane volební kalendář ustaven, okamžité jmenování se uskuteční v květnu 2011 s komunálními volbami, kde mohou být i lidová křesla rozhodující v cíli socialistické hegemonie ve čtyřech hlavních městech provincie a jejich změnu v přední části delegace Barcelony, jedné z administrativ, která se zabývá největším rozpočtem - 661 milionů eur pro rok 2011-.
+Nacionalisté se shodují v možnosti, že PSC ztratí městské rady Barcelony, Tarragony, Léridy a Gerony, kde socialisté nezískali většinu, ani možnost apelovat na své tradiční partnery, ERC a ICV.
+Vzhledem k republikánskému fiasku by nebylo překvapením, kdyby tato formace ztratila své zastoupení na radničním síni Barcelony - je potřebná k získání 5% hlasů.
+PP zvýšila svůj počet hlasů ve čtyřech hlavních městech a mohla by být rozhodující silou v Barceloně, Léridě a Tarragoně.
+Nacionalisté jsou přesvědčeni o tom, že mohou provést rozrušení v hlavním městě Tarragony, kde vládli s PP před současným socialistickým starostou Josepem Felixem Ballesterosem.
+V Léridě byla PP umístěna pouze na 500 hlasů PSC, jejíž starosta Ángel Ros udržuje velmi dobré vztahy s Marianem Rajoyem - během této poslední kampaně se setkali v několika příležitostech.
+Ty oblíbené se rozrostly i v dalších významných obcích, jako je Badalona, Castelldefels nebo Reus.
+V současné době je PP přítomna ve 34 obecních samosprávách v Katalánsku a aspiruje na vytvoření seznamů v maximálním počtu obyvatel.
+Katalánská skupina zprostředkovala tisíce pasů Al-Káidě
+Kromě sedmi vězňů v Barceloně, v Thajsku byly tři
+Sedm Pákistánců a Nigerijci, které zastavili agenti všeobecné barcelonské policejní rozvědky, vytvořili džihádistickou skupinu, která z Thajska usnadnila pasy různým skupinám Al-Káidy, mezi nimi "The Tigers for the Liberation of Tamilm Territory" (LTTE) a "Lládka a Taiba" (Let), autor tohoto posledního z útoků Bombaje, který v roce 2008 způsobil smrt 106 lidí.
+Ministerstvo vnitra věnovalo těmto vyšetřováním pozornost, až do okamžiku, kdy to ujišťuje, že s operací "Kampai"; bylo to "oslabující" aparát falšování Al-Káidy na mezinárodní úrovni, a tedy "aby její operativní způsobilost".
+Vyšetřovatelé vypočítávají, že buňka během dvou let, které byly aktivní v Katalánsku, dokázala poslat tisíce pasů do Thajska, kde byly falšovány a brzy distribuovány skupinám, které integrují zločinnou galaxii Al-Káidu, aby její "bojovníci" mohli překročit evropské hranice a ty z jiných západních zemí s totální beztrestností.
+Demantovaná buňka není jediná, kterou měla džihádistická síť v Evropě, z tohoto důvodu ve vyšetřování, kterých se účastnily, kromě thajských služeb, dalších evropských policejních jednotek, z důvodu, proč nezavrhuje, že na území EU dochází k podobným událostem, jako ta, kterou se vyvinula v úterý v Barceloně.
+V koordinaci s touto operací (Pákistánský Junaid Humayun, Atiqur Rehman, Jabran Asghar, Malik Iftikhar Ahmad, Mohammad Saddique Khan Begum, Tanveer Arshad a Nigerijská Babatunde Agunbiade byla zastavena) v Thajsku se vyvinul další s dopadením Pákistánců Muhammada Athara Butta a Zeeshana Ehsana Butta a Thaina.
+Skupina sedící ve Španělsku a dalších evropských zemích byla řízena z Bangcocku.
+Katalánská síť - její část byla zasažena v roce 2009 - hlavně okradla pasy turistům, kteří plnili požadavky označené výzvám "celosvětová islámská fronta".
 To znamená, že dokumenty musely být ve jménu mužů mezi 25 a 45 lety, s platností několika let a bez tištěných víz.
-Ve vyšetřovacích prostředcích je zdůrazněno, že v tuto chvíli nebyly nalezeny žádné údaje týkající se osob zatčených v Katalánsku ohledně útoku Bombaje, ačkoli autor tohoto útoku, "Lakar e Taiba", byl jedním z přijímacích skupin pasů okradených ve Španělsku a brzy zfalšován v Thajsku.
-Nicméně, to je třeba zmínit, že dny před tímto spáchaným útokem, z Katalánska tam byly zaslány prostřednictvím agentury převodů o některých tisících dolarů, které byly „investovány“ do nákupu mobilních telefonních karet, které brzy byly použity členy „commando“, které ukončily život 106 lidí.
-Policisté zachytili mnoho dokumentace.
-PP žádá Mase, aby odložil fiskální koncert
-Vůdkyně PPC, Alicia Sanchez-Camacho, byla včera schopna osobně prezentovat své podmínky pro podporu svého investituře jako prezidenta katalánské autonomní vlády Artur Mas, identické s těmi, které již byly během kampaně vzneseny a které se samy o sobě upřednostňují oživení ekonomiky a vzdaly se phylo-suverenity, protože je to ekonomický koncert, který chce nacionalistický vůdce zvýšit v linii svého mandátu.
-Prezident populárních Katalánců šel na setkání Artur Mas s bezpečností, že získal 18 poslanců ve volbách z minulé neděle, což je číslo více než dostatečné, aby bylo přijato populární, protože kandidát CiU potřebuje, že alespoň jeden z formací, které budou nutit opozici, aby se zdržela hlasování investiture.
-Na možné dohodě s PP závisí budoucí aliance, které nacionalisté chtějí zůstat v Kongresu, když se konají všeobecné volby, ale v tuto chvíli jsou klíčové rozhovory, které Mas udržuje se zbytkem politických vůdců v katalánštině.
-Pokud jde o prezidenta PP, za podporu investitury „bude muset pronést všechny svrchované a nezávislé projevy“, stejně jako ekonomický koncert – podobný tomu, který se konvergentský vůdce snaží dát do referenda.
-Oba vůdci mají svůj hazard s použitím velmi nafouknuté autonomické správy a eliminaci po sobě jdoucích a dárcovských daní.
-Z podrobností o tom, jak se vyjednává, o jehož vyšetřování bude Mas dbát jménem PPC, Jordi Cornet a Dolors Montserrat.
-Mas se již setkal s Joaquimem Nadalem (PSC), který slíbil tvrdou opozici, Joan Herrera (ICV) a dnes bude dělat totéž s Joan Puigcercós (ERC), Albert Rivera (Ciutadans) a Joan Laporta (Katalský Solidaritat).
-Geriatrician potvrzuje, že úmrtí byla způsobena „nedostatkem prostředků“
-Majitelé centra Olot nevyhazují, že jejich obsluha zabila více než 11 starších lidí.
-Lidé, kteří byli zodpovědní za geriatrickou nemocnici La Caritat de Olot (Gerona), včera nabídli tiskovou konferenci, aby zdůraznili škody, které způsobily instituci, zločinné chování Joan Vila Dilmé, zdravotní sestry, která tam zabila nejméně jedenáct starších lidí, které měl pod dohledem.
-Ředitel rezidence, Joan Sala, se objevil v doprovodu právníka centra, právnička Joan Canada, a oznámil, že „záměr La Caritat by svalit vinu na jednotlivce odpovědného za smrt, ale „legalita a odpovědnost nás nutí převzít procesní situaci osob odpovědných osob z civilních osob“.
-A že kromě společenské ztráty prestiže, s níž se organizace může setkat, protože nebyla včas zjištěna trestná činnost hlídače, velká hrozba pro Caritata nyní má podobu podstatného odškodnění, které již vypočítá právní zástupci příbuzných obětí.
+V vyšetřovacích prostředcích je zdůrazněno, že v tuto chvíli nebyly nalezeny žádné údaje týkající se osob zatčených v Katalánsku ohledně útoku Bombaje, ačkoli autor tohoto útoku, "Láska e Taiba", byl jednou z přijímajících skupin pasů okradených ve Španělsku a brzy falšoval v Thajsku.
+Je však třeba zmínit, že dny před tímto spáchaným útokem, z Katalánska byly zaslány agenturou převodů o nějakých tisících dolarů, které byly "investovány" do nákupu karet mobilních telefonů, které brzy používali členové "komunda", který ukončil život 106 lidí.
+Policisté zachytili spoustu dokumentace.
+PP žádá Masa o odložení fiskálního koncertu
+Vůdkyně PPC, Alicia Sanchez-Camacho, byla včera schopna osobně prezentovat své podmínky pro podporu jeho vyšetřování jako prezident katalánské autonomní vlády Artura Mase, totožný s těmi, které již byly zveřejněny během kampaně a které se obnoví tím, že dávají přednost oživení ekonomiky a vzdá se fylo-sovereignity, protože je to ekonomický koncert, který nacionalistický vůdce chce zvýšit v linii svého mandátu.
+Prezident populárních Katalánců šel na setkání Artur Mas s bezpečností, že získal 18 poslanců v nedělních volbách, což je více než dostačující, aby bylo možné předpokládat populární, protože kandidát CiU potřebuje alespoň jeden z formací, které donutí opozici, aby se zdržela hlasování o vyšetřování.
+O možné dohodě s PP závisí na budoucích spojenectvích, které nacionalisté chtějí zůstat v Kongresu, až se konají všeobecné volby, ale v tuto chvíli jsou klíčové rozhovory, které Mas udržuje se zbytkem politických vůdců v katalánštině.
+Pokud jde o prezidentku PP, za podporu vyšetřování "bude muset pronést všechny suverénní a nezávislé projevy", stejně jako ekonomický koncert - podobný tomu baskické zemi - který se konvergentní vůdce snaží za referendum.
+Oba lídři mají svůj hazard s použitím velmi nafouknuté autonomní administrativy a odstranění dědic a daně z darů.
+Podrobnosti o jednání o tom, o jehož investici se Mas bude starat, jménem PPC, Jordi Cornet a Dolors Montserrat.
+Mas se již setkal s Joaquimem Nadalem (PSC) - který slíbil tvrdou opozici, Joan Herreru (ICV) a dnes udělá totéž s Joan Puiccercós (ERC), Albertem Riverou (Ciutadans) a Joan Laporta (Catalan Solidarit).
+Geriatrista tvrdí, že úmrtí byla způsobena "nedostatkem prostředků"
+Majitelé centra Olotu nevyhazují, že jejich obsluha zabila více než 11 starších lidí
+Lidé, kteří měli na starosti geriatrickou nemocnici La Caritat de Olot (Gerona), včera nabídli tiskovou konferenci, aby zdůraznili škody, které instituci způsobily kriminálnímu chování Joan Vila Dilmé, zdravotní sestry, která tam zabila nejméně jedenáct starších lidí, které měl pod dohledem.
+Ředitelka rezidence Joan Salaová se objevila v doprovodu právníka centra, právničky Joan Canadaové, a oznámila, že "záměr La Caritatovi bude svalovat vinu na osobu zodpovědnou za smrt, ale "legálnost a odpovědnost nás nutí převzít procedurální situaci občansko-odhadovaných lidí".
+A že kromě společenské ztráty prestiže, se kterou se organizace může setkat za to, že včas nezjistila trestnou činnost hlídače, má nyní velká hrozba pro kariátu podobu podstatného odškodnění, které již vypočítávají právní zástupci příbuzných obětí.
 Joan Vila Dilmé se přiznala, že první zločin sahá až do srpna 2009 a že od té doby nepřestal zabíjet.
-Soudce již v dokumentu, který nařídil exhumaci osmi těl - starých pacientů geriatrické nemocnice - o kterých měla podezření, že v mnoha případech žádný lékař osobně neprozkoumal mrtvá těla, ale s ohledem na věk a patologie pacientů byl postup učiněn telefonicky.
-La Caritat, prostřednictvím svého ředitele, tento konec včera plně popřel a zmínil, že "nedostatečný opatření nemohl být v žádném okamžiku příčinou toho, co se stalo."
-Právník La Caritat dodal, že "v příčině nic nenasvědčuje tomu, že by došlo k nerozvážnému jednání ze strany jakékoli jiné osoby, která není vinná."
-Ten, který byl pokřtěn jako "Anděl smrti", se den předtím přiznal k 11 vraždám a podrobně popsal, že spáchal první zločin 29. srpna 2009 a o měsíc a půl později zabil další babičku.
-V tomto případě jí předávkování inzulínem přineslo smrt; na rozdíl od prvního trestného činu, který spáchal se směsí sedativních tablet.
-Ředitel Caritatu říká, že je složité kontrolovat, aby personál centra měl přístup k lékům.
-Předávkováním inzulínu a sedativním koktejlem by byl mechanismus použitý v šesti z devíti trestných činů, které sestra ve své dychtivosti zmírnit utrpení pacientů, které byly použity nebo je zabily.
-Ale testy, které se provádějí v laboratoři, budou muset objasnit, zda Vila nelže a snaží se svým prvním obětem zajistit méně krutou smrt, nebo pokud je naopak vnitřně spálil tím, že jim dal louh, když se již přiznal, že to udělal se třemi ženami, které zabil mezi 12. a 17. říjnem.
-V La Caritatu nedávají důvěryhodnost vzhledu hlídače, ani počtu přiznaných vražd, že nevyvracejí být nadřazenými, a ospravedlňují jeho postoj v různých verzích, které Vila poskytla při jeho návštěvách u soudu a nesmyslu změnit jeho způsob zabíjení poté, co úspěšně spáchal, osm vražd.
+Soudkyně již v dokumentu, který nařizoval exhumaci osmi těl - starých pacientů geriatrické nemocnice - o nichž měla podezření, že v mnoha případech žádný lékař osobně neprozkoumal mrtvá těla, ale s přihlédnutím k věku a patologiím pacientů byl zákrok proveden telefonicky.
+La Caritat prostřednictvím svého ředitele včera plně popřel tento konec a zmínil, že "nedostatek opatření nemohl být v každém okamžiku příčinou toho, co se stalo".
+Právník deníku La Caritat dodal, že "v příčině nic nenasvědčuje tomu, že by došlo k neprospěšnému jednání ze strany jakékoli jiné osoby, která není vinná".
+Ten, který byl pokřtěný jako "Anděl smrti", se den před včerejškem přiznal k 11 vraždám a podrobně popsal, že spáchal první zločin 29. srpna 2009 a o měsíc a půl později, zabil další babičku.
+V tomto případě jí předávkování inzulínem přineslo smrt; na rozdíl od prvního zločinu spáchal se směsí sedativních tablet.
+Ředitel kariátu říká, že je složité kontrolovat, že personál centra má přístup k lékům.
+Předávkování inzulínem a sedativním koktejlem by byl mechanismus používaný v šesti z devíti trestných činů, které sestra, v jeho dychtivosti zmírnit utrpení pacientů, je používala nebo zabít.
+Ale testy, které se provádějí v laboratoři, budou muset objasnit, zda Vila nelže, a snažil se ujistit o svých prvních obětech méně krutou smrt nebo zda je naopak vnitřně spálil tím, že jim dal lyskyt, jak se již přiznal, že to udělal se třemi ženami, které zabil mezi dvanáctým a sedmnáctým říjnem.
+V La Caritatu nedávají věrohodnost vzhledu hlídače, ani počtu přiznaných vražd, že nevyvracejí, aby nebyli nadřazení, a ospravedlňují jeho postoj v různých verzích, které Vila poskytl při svých návštěvách soudu a nesmyslu změnit jeho způsob zabíjení poté, co úspěšně spáchal, osm vražd.
 To je důvod, proč říkají, že se dali k dispozici spravedlnosti, aby objasnili dosah této události.
 BCE hrozí
-Investoři včera náhle reagovali na hrozbu Trichet, která si všimla, že „trhy nemusí podceňovat naši schopnost reagovat“.
-Rozdíly periferií se uzavřely silou a sazby evropských bank vzrostly o více než 5 %.
-Nicméně, nemusíme však podceňovat schopnost BCE chybovat a euro se právě znovu ponořilo, což je znepokojující signál.
-To, co se stalo včera, je charakteristické pro nelikvidní trh, který se zhroutí a zotavuje, ale je motivován uzavřením krátkých a velmi spekulativních pozic.
-Institucionální investoři budou nějakou dobu trvat, než znovu získají důvěru.
-Před měsícem nás BCE dnes vyzvala, abychom vyřadili opatření proti likviditě a zítra stráví čas, abychom odešli do důchodu počtvrté za dva roky a ty, které zůstaly.
-Bundesbanka požadovala dokončení plánu nákupu neúčinného státního dluhu a odstranění všech mimořádných opatření likvidity na úvěrech, přičemž by zůstal jen neomezený přístup do týdne.
-Po irské krizi jsme doufali, že prodlouží současná opatření likvidity „nejažažněji do března“ a do konce trimestru udrží čtvrtletní aukce s neomezeným přístupem, aby zaručili likviditu nejméně do června.
-Také doufáme, že budou pokračovat ve svém programu nákupu poukázek a poskytnou známky jeho zesílení.
-Pokud nesplní generovaná očekávání, změní vynikající reakci trhů včera a pokud budou i nadále zaslepeni odcházejícími opatřeními likvidity, Good Lorde!
-Jak se stalo během květnového setkání, když potvrdili, že neuvažovali o nákupu poukázek a zhroutili trhy, zítřejší historie by se mohla opakovat.
-BCE musí být věrohodná a trvalá.
-V květnu oznámil bazuku v pondělí a ve středu uvedl, že již koupil příliš mnoho, což přineslo nový kolaps trhu.
-Aukce bankovek pořádaných jednou ročně v Portugalsku byla včera velmi špatná.
-Ministerstvo financí distribuovalo pouze 500 milionů až 5,28%, oproti 750 milionům na 4,81 % předchozí aukce.
-I tak typy v Portugalsku klesly o 30 základních bodů v celé křivce, což jasně odráží změnu pocitu trhu po slovech Trichet.
-V Irsku, Allied a Bank of Ireland deficit myslel, že byl zveřejněn.
-Uvažovaná čísla jsou v krátkodobém horizontu asi 10 000 milionů a dalších 15 000 jsou potenciály. Do února musí získat soukromý kapitál nebo budou znárodněny.
-Ačkoli Irsko nemá žádnou důvěryhodnost, protože v červenci nezjistilo problém s ekonomickým zátěžovým testem, čísla jsou v rámci plánu pomoci přijatelná a pomáhají snižovat úroveň nejistoty.
-Nicméně příští úterý bude muset vláda zajistit parlamentní schválení svého nového rozpočtu a stále nemá dostatečnou podporu, protože to, proč je Irsko nadále centrem nejistoty.
-Angela Merkelová moderovala tón svého projevu, aby uvolnila napětí, kterému čelí příští summit prezidentů a vlády 14. prosince, kde je to nezbytný politický závazek, který by mohl ukázat, že jsme unií a to jde stejným směrem.
-Problém je v tom, že Německo chce hrát Wagnera a zbytek za hymnus radosti Beethovena.
-Ve Španělsku měl prezident včera možnost předložit soubor opatření, která budou schválena v pátek kabinetem.
-Reforma důchodů, transparentnost v nezávislých komunitách a finančních organizacích, snížení deficitu, liberalizace, privatizace, opatření pro reaktivaci pracovních míst v uších investorů jako čtyř ročních období Vivaldiho.
-Dvojitý efekt Trichet a ZP vysvětluje, že španělský akciový trh vzrostl o 4,5%, což je dvojnásobek oproti zbytku evropských akciových trhů.
-Na rozdíl od února byla reakce vlády a Bank of Spain rychlá a rázná a my těžíme z překvapivého efektu.
-Dnes je zde klíčová aukce poukazu na tři roky, která bude mít Trichetův efekt, důvod, proč doufáme, že bude vyřešena se zvýšenou poptávkou a pomůže rozptýlit pochybnosti o naší schopnosti refinancování.
-Pro Španělsko, které by žádalo o plán pomoci, by byla sebeobětování.
-Daly by nám likviditu, kterou jsme nepotřebovali, poklad má více než 40.000 milionů k dispozici v likviditě trojnásobek ve srovnání s březnem, na nejdražší typy a uzavírá přístup na trhy na dobu neurčitou.
-Nicméně, strategie musí i nadále být jednou ze ženy Caesara, „kromě bytí, vypadá jako“.
-No tak, můžeme to udělat.
-Prezident Eulen bude zpochybňovat setkání Vega Sicilie požadované jeho dětmi.
-Bouře neumírňuje konflikt rodiny Alvarez, vlastníky Eulenu a El Enebro.
-David Alvarez, zakladatel skupiny, bude oponovat tím, že zváží „nulový a neplatný“, soudní setkání Enebro 16., požadované pěti z jeho sedmi dětí a když se pokusí uvalit svou většinu a převzít kontrolu nad řídícími orgány společnosti, která vlastní sklady Vaga Sicilia.
-David Alvarez a jeho děti Jesus David a Maria Jose berou v úvahu právní baterii pro novou soudní kapitolu v jejich soudním sporu o kontrolu části skupiny.
-Zakladatel největší holdingové společnosti podnikových služeb se nezdá být ochoten vzdát se ve svém soudním sporu, aby byl přítomen v kontrolních systémech El Enebro.
-Z jeho správní rady byl odvolán pěti ze svých sedmi dětí, které se jmenovaly správci v radě akcionářů 18. ledna tohoto roku a jejichž opozice je zapsána v Mercantile Registry.
-Soudní setkání El Enebro uspořádalo 16., předpokládané soudcem Mercantile záležitostí Number 2 z Madridu, způsobilo zmatek znovu v rodině Alvarezových.
-Odvolání k rozhodnutí shromáždění je, dokud nebude konflikt vyřešen, jediným právním mechanismem, který zaručuje sjezdu schůzky.
-Poslední akce Juana Carlose, Pabla, Emilia, Marty a Elviry Alvarez Mezquiriz je popsána Davidem Alvarezem jako „zoufalá výzva zástupců jeho pěti dětí, kteří prostřednictvím procedurální jemnosti jasně porušují zákon a zneužívají právo, snaží se potvrdit a změnit setkání z 18. ledna jako nula,“ uvádí jeho oficiální mluvčí.
-Tato argumentace bude základem, na kterém bude mít jasnost: jakmile se setkání konalo, odmítne považovat za to „neplatné a neplatné“.
-Stejní protagonisté, kteří udržují diskrétní ticho, se již pokusili bez úspěchu mít soudce předvolání setkání v červnu.
-V El Enebro, držitel patrimonické společnosti ve společnosti Warehouses Vega Sicilia, mimo jiné, sedm dětí Davida Alvareze ovládá 100% hlavního města.
-Zakladatel skupiny služeb však tvrdí, že na 51% kapitálu podle známých protokolů tvrdí, že je to vytrženo z 51 % kapitálu.
-Toto téma je základním aspektem, o kterém musí soudce rozhodnout jednou setkání na žádost opozice, pro kterou datum dosud nebylo uvedeno.
+Investoři najednou včera reagovali na hrozbu Tricheta, která si všimla, že "trhy nemusí podceňovat naši schopnost reagovat".
+Rozdíly periferií se uzavřely silou a sazby evropských bank zvýšily více než 5%.
+Nemusíme však podceňovat schopnost BCE v omylu a Euro se právě znovu snížilo, což je znepokojivý signál.
+To, co se stalo včera, je charakteristické pro nelikvidní trh, který se zhroutí a zotavuje, ale motivuje se uzavřením krátkých a velmi spekulativních pozic.
+Institucionální investoři si vyžádají čas na znovuzískání důvěry.
+Před měsícem nám dnes BCE volala, abychom odstoupili od likviditých a zítra strávili čas, abychom odešli do důchodu počtvrté za dva roky a ty, které zbyly.
+Bundesbanka požadovala dokončit plán nákupu neúčinného státního dluhu a odstranit všechna mimořádná opatření likvidity na úvěr, přičemž ponechala pouze neomezený přístup do týdne.
+Po irské krizi jsme doufali, že prodlužují současná opatření likvidity "nejméně do března" a udrží čtvrtletní aukci s neomezeným přístupem do konce kótéru, aby zaručily likviditu nejméně do června.
+Doufáme také, že budou pokračovat ve svém programu nákupu poukázek a dávají známky jeho zintenzivnění.
+Pokud nesplní generovaná očekávání, změní včerejší vynikající reakci trhů a budou-li i nadále zaslepeni odcházejícími opatřeními likvidity, Dobrý bože!
+Jak se stalo během setkání v květnu, když potvrdili, že neuvažovali o nákupu poukázek a zhroutili se trhy, zítřejší historie se mohla opakovat.
+BCE musí být věrohodná a vytrvalá.
+V květnu oznámil bazuku v pondělí a ve středu uvedla, že již příliš nakoupila, což přineslo nový kolaps trhu.
+Dražba účtů pořádaných jednou ročně v Portugalsku byla včera velmi špatná.
+Ministerstvo financí distribuovalo pouze 500 milionů až 5,28%, oproti 750 milionům až 4,81 % předchozí aukce.
+I tak typy v Portugalsku klesly o 30 základních bodů v celé křivce, což jasně odráží změnu v tržním pocitu po slovech Tricheta.
+V Irsku byl zveřejněn i nadále irské schodek spojenců a Irské banky.
+Uvažovaná čísla jsou v krátkodobém horizontu asi 10.000 milionů a dalších 15.000 jsou potenciály. Až do února musí získat soukromý kapitál, nebo budou znárodněny.
+Ačkoli Irsko nemá žádnou důvěryhodnost za to, že problém v červenci nezjistilo s ekonomickým zátěžovým testem, čísla jsou v rámci plánu pomoci přijatelná a pomáhají při snižování míry nejistoty.
+Příští úterý však vláda bude muset zajistit parlamentní souhlas svého nového rozpočtu a stále nemá dostatečnou podporu, důvod, proč je Irsko i nadále centrem nejistoty.
+Angela Merkelová zmírnila tón svého projevu, aby uvolnila napětí, kterému čelí příští vrchol prezidentů a vlády čtrnáctého prosince, kde je nezbytný politický závazek, který by mohl prokázat, že jsme unie a která se ubírá stejným směrem.
+Problém je v tom, že Německo chce hrát Wagnera a zbytek hymnu radosti z Beethovena.
+Ve Španělsku měl prezident možnost včera představit soubor opatření, která v pátek kabinet schválil.
+Reformace důchodů, transparentnost v nezávislých komunitách a finančních organizacích, snížení deficitu, liberalizace, privatizace, opatření pro reaktivaci pracovních míst v uších investorů jako čtyř sezón Vivaldiho.
+Dvojitý efekt Trichet a ZP vysvětluje, že španělský akciový trh vzrostl o 4,5% ve srovnání se zbytkem evropských akciových trhů.
+Na rozdíl od února byla reakce vlády a španělské centrální banky rychlá a přísná a my těžíme z překvapivého účinku.
+Dnes je zde klíčová aukce poukazu na tři roky, která bude mít efekt Trichet, důvod, proč doufáme, že bude vyřešen zvýšenou poptávkou a pomůžeme rozptýlit pochybnosti o naší kapacitě refinancování.
+Pro Španělsko by prosazující plán pomoci bylo samoživota.
+Dali by nám řadu likvidity, kterou jsme nepotřebovali, Poklad má k dispozici více než 40.000 milionů v likviditě trojnásobek ve srovnání s březnem, k nejdražším typům a uzavírá přístup na trhy na neurčito.
+Strategie však musí být i nadále ženou Caesarovy, "když je, když vypadá."
+No tak, zvládneme to.
+Prezident Eulenu zpochybní setkání Vega Sicilia, které si jeho děti vyžádaly
+Bouře nezmírňuje konflikt v Alvarezově rodině, vlastníky Eulena a El Enebra.
+David Alvarez, zakladatel skupiny, bude oponovat, zvážením "nuceného a neplatného", soudního setkání Enebra šestnáctky, které požaduje pět z jeho sedmi dětí a když se pokusí uvalit většinu a převzít kontrolu nad řídícími orgány společnosti, která vlastní sklady Vaga Sicilia.
+David Alvarez a jeho děti Jesus David a Maria Jose berou v úvahu právní baterii pro novou justiční kapitolu v jejich soudním sporu o kontrolu části skupiny.
+Zdá se, že zakladatel největší holdingové společnosti podnikových služeb se ve svém soudním sporu nereaguje, aby se mohl přítomn v řídicích systémech El Enebro.
+Ze své správní rady ho sundalo pět ze sedmi dětí, které se 18. ledna letošního roku jmenovaly administrátory v radě akcionářů a jejichž opozice je zapsána v Mercantilském registru.
+Soudní schůzka El Enebro zařídila šestnáctý, předvolaný magistrátem Mercantile Affairs Number 2 of Madrid, způsobilo opět v rodině Alvarezových zmatek.
+Odvoláním na soudce k určení shromáždění je, dokud není konflikt vyřešen, jednotný právní mechanismus, který zaručuje úmluvu ze zasedání.
+Poslední kroky Juana Carlose, Pabla, Emilia, Marty a Elviry Alvarez Mezquirizových popisují David Alvarez jako "zoufalé odvolání představitelů jeho pěti dětí, které prostřednictvím procedurální jemnosti, jasně porušují zákon a zneužívají pravici, snaží se potvrdit a změnit setkání 18. ledna jako null", podle jeho oficiálních mluvčích.
+Tato argumentace bude základem, na kterém zjistí, že: jakmile se schůzka bude konat, odmítne, že by to považoval za "nulovou a prázdnou".
+Stejní protagonisté, kteří zachovávají diskrétní mlčení, se již bez úspěchu pokusili, aby magistrát v červnu svolal schůzku.
+V El Enebro, patronství společnosti Warehouses Vega Sicilia, mimo jiné, kontroluje sedm dětí Davida Alvareze 100% hlavního města.
+Zakladatel servisní skupiny si nicméně podle známých protokolů nárokuje unášení na 51% kapitálu.
+Toto téma je základním aspektem, o kterém musí soudce rozhodnout, jednou oslavoval setkání na základě požadavku opozice, k čemuž zatím není datum uvedeno.
 Red Bull triumfuje v F1 svou tajnou zbraní: Siemens.
-Existuje software, který dokáže navrhnout vylepšení vozů v reálném čase.
-Od doby, kdy Red Bull vstoupil do světa formule 1 v roce 2004, jeho historie v tomto vybraném světě rychlosti byla poznamenána překvapením a úspěchem.
-Zpočátku nikdo neuvažoval o možnostech týmu, který právě dorazil, navzdory vzestupné trajektorii posledních sezón, loni v listopadu, v závěrečném závodě šampionátu, to vše sází na triumf Ferrari Fernanda Alonsa.
-Aniž by ztratil část své pověsti jezdce šampiona, Němce Sebastiana Vettela ani sílu motoru Renault, který řídí jeho auto, ve světě Formule 1 „tajná zbraň, kterou dala nadnárodní společnost Siemens do rukou Red Bullu, aby se z něj stala vítězný tým, stala legendou.
-Ve skutečnosti je to výkonný simulační software, který německá společnost uvedla na trh v roce 2007, s cíli velmi daleko od konkurence s vysokým automobilem.
-Tento výkonný počítačový vědecký nástroj byl použit k navrhování montážních řetězců pro výrobu továren, energetických závodů, nástrojů s vysokou přesností.
-Cílem je reprodukovat, věrně simulovat produkt nebo proces před jeho vytvořením v reálném režimu, vyhnout se tímto způsobem selhání a vyhnout se výtěžkům.
-Plchtám usnadnil vývoj kamer společnosti Canon, letadel Suchoj nebo nejslavnějších utilitárních vozů Nissanu.
-Siegfried Russwurm, osoba odpovědná za průmyslovou divizi Siemens, vysvětluje, že použití tohoto počítačového vědeckého nástroje v jeho továrně F1 umožnilo Red Bullu navrhnout a vyrobit „během několika hodin, téměř v reálném čase“, modifikacích, změnách a zlepšeních, které jsou potřebné během závodů a testů.
-Russwurm vysvětluje, že tým v roce 1992 měl v průměru 10 techniků, kteří byli schopni zavést maximálně tři nebo čtyři zlepšení vozidel během každé sezóny.
-Red Bull má 180 profesionálních mladých lidí s vysokou kvalifikací, kteří dnes pracují, kteří, vybaveni výkonným vybavením pro informatiku, analyzují a promítají všechny druhy modifikací automobilů.
+Existuje software, který může navrhnout vylepšení automobilů v reálném čase.
+Od roku 2004, kdy Red Bull vstoupil do světa formule 1, jeho historie v tomto vybraném vesmíru rychlosti byla poznamenána překvapením a úspěchem.
+Zpočátku nikdo nepovažoval za možnosti týmu, který právě dorazil, navzdory vzestupné trajektorii posledních sezon, loni v listopadu, v posledním závodě šampionátu, všichni vsadili na triumf Ferrari Fernanda Alonsa.
+Bez ztráty části své pověsti šampiona, Němec Sebastian Vettel, ani síla motoru Renault, který řídí jeho auto, ve světě Formule 1 " Tajná zbraň, kterou nadnárodní Siemens dal do rukou Red Bullu, aby z něj udělal vítězný tým, se stala legendou.
+Ve skutečnosti je to silný simulační software, který německá společnost uvedla na trh v roce 2007 s cíli velmi daleko od vysoké automobilové konkurence.
+Tento výkonný informatikový nástroj byl použit k navrhování montážních řetězců pro výrobu továren, energetických závodů, nástrojů vysoké přesnosti.
+Cílem je reprodukovat, věrně simulovat produkt nebo proces před jeho vybudováním v reálném režimu, vyhnout se selháním a vyhnout se těmto způsobům výdajům.
+Plm usnadnil vývoj kamer Canonu, letadel Suchoj nebo nejznámějších utilitárních vozů Nissanu.
+Siegfried Russwurm, osoba, která má na starosti průmyslovou divizi Siemens, vysvětluje, že použití tohoto informatického přístroje ve své továrně F1 umožnilo Red Bullu navrhnout a udělat "za několik hodin, téměř včas real", změny a vylepšení, které jsou potřebné během závodů a testů.
+Russwurm vysvětluje, že tým v roce 1992 měl v průměru 10 techniků, kteří byli schopni zavést maximálně tři nebo čtyři vylepšení vozidel během každé sezóny.
+Red Bull má dnes 180 profesionálních mladých lidí s vysokou kvalifikací, kteří jsou vybaveni výkonným vybavením informatiky, analyzují a projektují všechny druhy úprav automobilů.
 Manažer Siemens vysvětlil, že software PLM je schopen analyzovat a zlepšit všechny prvky vozů Red Bull s výjimkou motoru, což je zcela odpovědnost Renaultu.
-Materiály, palivo, aerodynamika a prvky zabezpečení se mění.
-Změny lze provést z virtuální reality simulátoru do reality do 24 hodin, a to díky pokročilým výrobním systémům pomocí laseru a autokláv high-tech.
-Jediným omezením této jiskry technologického zlepšení je částka 40 milionů dolarů, kterou může každý tým Formule 1 utratit nejvíce každou sezónu, aby usnadnil konkurenci.
-Red Bull postavil high-tech továrnu na navrhování a výrobu svých vozů v lokalitě asi 50 km od Londýna.
+Upravují se materiály, palivo, aerodynamika a prvky zabezpečení.
+Změny lze vzít z virtuální reality simulátoru do reality za 24 hodin, a to díky pokročilým výrobním systémům pomocí laserových a autokláv s vysokými technologiemi.
+Jediným omezením této jiskry technologického zlepšení je číslo 40 milionů dolarů, které může každý tým formule 1 utratit nanejvýš v každé sezóně, aby usnadnil soutěž.
+Red Bull postavil high-tech továrnu pro navrhování a výrobu svých vozů v lokalitě asi 50 KM od Londýna.
 Existují dvě budovy, ve kterých jsou návštěvy omezeny, zejména pro novináře.
-Vše, co se tam děje, je považováno za "přísné tajemství".
-Továrna má 580 zaměstnanců, včetně dvou jezdců, šampiona Vettela a Marka Webbera.
-Hrdina Red Bullu je bezesporu nedávným šampionem Sebastianem Vetellem.
-Mezi obrovské technologické zdroje, které energetická značka nápojů dala do služby své účasti v obvodech, ostatní protagonisté skrývají, jejichž příspěvek je neocenitelný a jejich proslulost neuznaná.
-Steve Nevey, šéf technologie v továrně, potvrzuje, že před pěti lety bylo možné potvrdit, že pokroky I + D v automobilech přispěly k vítězstvím 50% a jezdci byli zodpovědní za zbytek.
-Dnes se tato procenta lišila a technologie přidává 85% úspěchu, zatímco hnací síly přispívají s 15% přidanou hodnotou.
-Nevey uznává, že ani Vettel ani Webber nebudou nikdy nahrazeni informatikou, protože „jsou nepostradatelní gladiátoři“.
-HP bude otevřeno za dva roky 20 vlastních obchodů s místními distributory
-Společnost Hewlett-Packard (HP) včera v Barceloně otevřela svůj první exkluzivní obchod ve spolupráci se svým partnerem Pont Reyes.
-To bude první ze sítě 20 obchodů, které mají mezi 80 a 100 metrů čtverečních, které nadnárodní společnost očekává, že otevře ve Španělsku v příštích dvou letech.
-Tato iniciativa bude kompatibilní s 16 oblastmi, které jsou již přítomny ve velkých centrech jako PC City, Carrefour, Saturn a El Corte Ingles.
-Viceprezidentka společnosti HP Spain Helena Herrero uvedla jako příklad přestavěný obchod se sídlem v barcelonském Gran Via, majetku Ponta Reyese, se kterým spolupracovala 30 let.
-Severoamerická skupina připravila plán na otevření 200 bodů prodeje v Evropě v roce 2013, což zahrnuje 20 španělských podniků.
-První, kdo otevřeli, byly minulý týden v Bukurešti (Rumánii) a Bělehradě (Serbie) v Barceloně.
-Herrero nechtěl odhalit následující možné otvory, i když uznala, že Madrid by mohl být následující osud.
-Také ředitel společnosti HP v oblasti osobních systémů zajistil, že filozofie otevření obchodů bude vždy stejná, na základě místního distributora se zkušenostmi a znalostmi tohoto odvětví.
-Severoamerická skupina poskytuje poradenské služby a má na starosti exkluzivní design nábytku obchodů (s produkty, které lze dotýkat interaktivní formy), které budou mít v Evropě stejný obraz.
-Kromě toho společnost HP pokrývá vznik personálu zařízení.
-Helena Herrero popřela, že by to byl systém franšízy, a zdůraznila, že exkluzivní síť obchodu se snaží „zlepšit službu vůči klientovi a malým a středním podnikům při nákupu, pozornosti, post-prodávání a dokonce i balení“.
-Obchod Barcelona zahrnuje prostor s průkopnickým pilotním programem na celosvětové úrovni, která má na starosti řešení možných problémů počítačového vědeckého vybavení HP, které je stále se zárukou.
-Online služba spojuje technické centrum umístěné v Maastrichtu (Holland).
-"Takže za 10 minut můžeme vyřešit problémy, které někdy vydrží až dva dny."
-"Tento systém je speciálně navržen pro malé a střední podniky a uživatele, protože velké společnosti již mají smluvní služby technické docházky," uvedla včera Helena Herrero.
-Sabadell sází na „krádež“ jednoho milionu klientů od svých konkurentů za tři roky
-Optimističtější než ostatní manažeři si delegovaný poradce Sabadell Bank Jaime Guardiola myslí, že rok 2011 bude pro banku těžký, ale zpočátku vyřadí novou krizi likvidity a předpovídá konec války závazků.
-Navzdory tomu očekává kolaps marží zájmů, které se budou snažit částečně kompenzovat zvýšené provize a cenou úvěru.
-Sabadell doufá, že chytí za tři roky milion konkrétních klientů.
-Sabadell našel způsob, jak využít příští tři roky a být schopen přežít ve velmi komplikovaném ekonomickém prostředí.
-Banka zahájí v roce 2011 nový plán ředitele, který bude mít platnost tři roky.
-Cílem, kromě toho, že přežíváte, aniž by museli apelovat na veřejnou pomoc FROB, je získat tržní kvótu tím, že získáme milion nových konkrétních klientů - 700 000, pokud jsou zlevněni ti, kteří by mohli opustit banku, čekající na zadání, protože až dosud zkazili více malých a středních podniků a společností než maloobchodní klient.
-V letošním roce přistihla 250 000 konkrétních klientů a 50.000 společností.
-Jeho tržní kvóta jednotlivců je 3,5%, zatímco ve firmách přesahuje 10%.
-Dalším základem plánu 2011-2013 je sázka na produktivitu, tedy úsporná opatření, se snížením nákladů jako objektivním a jejíž výzvy budou vystavovány bankou při prezentaci výsledků cvičení.
-Jen málo bank se v těchto časech odváží stanovit cíle a zveřejnit je od finanční krize, které změnily všechny plány pro globální banku.
-Sabadell ve skutečnosti letos uzavře svůj plán Optima, najatý před čtyřmi lety, i když zpočátku byl na tři, ale tržní podmínky ho donutily prodloužit jej na další rok.
+Vše, co se tam děje, je považováno za "Přísné tajemství".
+Továrna má 580 zaměstnanců, včetně svých dvou řidičů, šampiona Vettel a Marka Webbera.
+Hrdidem Red Bullu je bezpochyby nedávný šampion Sebastian Vetell.
+Mezi nesmírnými technologickými zdroji, které energická nápojová značka dala do služby své účasti na okruzích, se ostatní protagonisté skrývají, jejichž přínos je neostolný a jejich proslulost je nerozpoznaná.
+Šéf technologie v továrně Steve Nevey tvrdí, že před pěti lety bylo možné potvrdit, že pokrok I+D v automobilech přispěl k 50 % vítězstvím a řidiči byli zodpovědní za zbytek.
+Dnes se tato procenta liší a technologie přidává 85% úspěchu, zatímco řidiči přispívají s 15% na přidanou hodnotu.
+Nevey si uvědomuje, že Ani Vettel, ani Webber nebudou nikdy nahrazeni informatikou, protože "jsou nepostradatelnými gladiátory".
+HP otevře za dva roky 20 vlastních prodejen s místními distributory
+Společnost Hewlett-Packard (HP) slavnostně otevřela v Barceloně svůj první exkluzivní obchod ve spolupráci se svým partnerem Pont Reyes.
+To bude první ze sítě 20 obchodů s 80 a 100 m2, které nadnárodní společnost očekává, že se v příštích dvou letech ve Španělsku otevře.
+Společnost bude slučitelnou tuto iniciativu skoncovat s 16 oblastmi, které jsou již ve velkých centrech jako PC City, Carrefour, Saturn a El Corte Ingles.
+Viceprezidentka HP Spain Helena Herrero například uvedla přestavěnou prodejnu, která se nachází v barcelonské Gran Via, nemovitosti Pont Reyes, s níž spolupracovala 30 let.
+Severoamerická skupina připravila plán na otevření 200 bodů prodeje v Evropě v roce 2013, strategii, která zahrnuje 20 španělských zařízení.
+První, kdo se otevřel, byly poslední týden v Bukurešti (Rumunsko) a Bělehradě (Srbie), protože bylo Barcelona.
+Herrero nechtěla prozradit následující možné otvory, i když uznala, že Madrid může být následujícím osudem.
+Také ředitel HP pro osobní systémy ujistil, že filozofie otevření obchodů bude vždy stejná, na základě místního distributora se zkušenostmi a znalostmi tohoto odvětví.
+Severoamerická skupina poskytuje poradenské služby a má na starosti exkluzivní návrh nábytku obchodů (s produkty, kterých se lze dotknout interaktivní formy), který bude mít v Evropě identický obraz.
+Kromě toho se HP zabývá vznikem personálu zařízení.
+Helena Herrero popřela, že by se jednalo o systém franšízy, a zdůraznila, že exkluzivní síť obchodu se snaží "zlepšit službu vůči klientovi a malým a středním podnikům v nákupu, pozornosti, poprodeji a dokonce i balení".
+Součástí barcelonského obchodu je prostor s průkopnickým pilotním programem na celosvětové úrovni, který má na starosti řešení možných problémů informatiky zařízení HP stále se zárukou.
+Online služba spojuje technické centrum umístěné v Maastrichtu (Holandsko).
+"Za 10 minut tedy můžeme vyřešit problémy, které někdy mohou trvat až dva dny."
+"Tento systém je určen zejména pro malé a střední podniky a uživatele, protože velké společnosti již nasmlouvaly služby technické účasti," zmínila včera Helena Herrero.
+Sabadell sází na "ukradení" jednoho milionu klientů od svých soupeřů za tři roky
+Optimističtější než ostatní manažeři, delegovaný poradce Sabadell Bank Jaime Guardiola, si myslí, že rok 2011 bude pro banku těžkým rokem, ale zpočátku vyřadí novou krizi likvidity a předpovídá konec války závazků.
+Navzdory tomu očekává kolaps marží zájmů, které se budou snažit částečně kompenzovat získanými provizemi a cenou úvěru.
+Sabadell doufá, že za tři roky chytí milion konkrétních klientů.
+Sabadell našel způsob, jak využít další tři roky a přežít ve velmi komplikovaném ekonomickém prostředí.
+Banka začne v roce 2011 nový režisérský plán, který bude mít platnost tři roky.
+Cílem, kromě toho, že přežijeme, aniž bychom se museli odvolat na veřejnou pomoc FROB, je získat tržní kvótu tím, že získá milion nových konkrétních klientů -700.000, pokud jsou zlevněny ty, které by mohly opustit banku, dokud nebudou mít přidělení, protože až dosud zkazily více malých a středních podniků a společností než retailový klient.
+Letos ulovilo 250.000 konkrétních klientů a 50.000 firem.
+Její tržní kvóta fyzických osob je 3,5%, zatímco ve společnostech převyšuje 10%.
+Dalším základem plánu na období 2011–2013 je sázka na produktivitu, což znamená úsporná opatření, se snížením nákladů jako objektivní a jejíž výzvy bude vykazovat banka při prezentaci výsledků cvičení.
+Jen málokdo se v těchto časech odváží stanovit cíle a zveřejnit je od finanční krize, které změnily všechny plány pro globální banku.
+Sabadell ve skutečnosti letos uzavře svůj ředitelský plán Optima, najatý před čtyřmi lety, i když zpočátku byl pro tři, ale tržní podmínky ho donutily prodloužit do dalšího roku.
 Klienti, kteří se vzdají úspor, budou jeho hlavním cílem.
-Během snídaně organizované APIE Guardiola trval na tom, že rok 2011 „bude obtížným a transcendentálním rokem“.
-Exekutiva si ve skutečnosti myslí, že odchod z krize ve Španělsku „bude pomalý“.
-Kromě toho bude za dva nebo tři roky „velmi obtížné vytvořit pracovní místa“, což je něco zásadního pro přežití bankovního podnikání.
-A i když si myslí, že válka závazků – která penalizuje marže – se snižuje, cena rizikových dotací, které banky platí za své emise, aby získaly likviditu, se již přesouvá na náklady úvěru, aby kompenzovaly pád marží.
-Téma likvidity a financování je zásadní a bude to tlakový faktor na úvěry.
+Během snídaně organizované APIE Guardiola trval na tom, že rok 2011 "bude obtížný a transcendentální".
+Výkonná ředitelka si ve skutečnosti myslí, že odchod krize ve Španělsku "bude pomalý".
+Navíc za dva nebo tři roky bude "velmi obtížné vytvořit pracovní místa", což je něco zásadního pro přežití bankovního byznysu.
+A přestože si myslí, že válka závazků - která postihuje marže - se snižuje, cena rizikových dotací, které banky platí za své emise, aby získaly likviditu, již přechází k nákladům na úvěr, aby kompenzoval pád marží.
+Předmět likvidity a financování je zásadní a bude to tlakový faktor na úvěr.
 "Nezavřeli jsme kohoutek, ale rozdíly jsou důležitější," uznal Guardiola.
-Banesto již ve čtvrtek vydal příkaz své síti, aby omezil dlouhodobý úvěr a zvýšil cenu diferenciálů - viz CincoDías z 22. a 27. listopadu.
-Také si uvědomil, že tendence banky nyní „je zvýšení provizí“, ale „v rámci konkurenčního rámce“.
-Režisérský plán společnosti Sabadell je založen na organickém růstu, i když skupina jako vždy nevyhazuje korporační operace.
-Ne nadarmo, ujišťuje, že ve Španělsku „budou vyžadovány větší velikosti“.
-"Příští rok se všechno hýbe," ujistil.
-Potvrzuje, že kapitálové potřeby „se příliš zvýšily“ a nevyhazuje, že některé španělské finanční organizace vstupují do červených čísel.
-A zmiňuje, že FROB může nahradit trh ve fundraisingu před novými rekapitalizací.
-Poté, co ujistil, že Sabadell může přežít dočasné uzavření trhů, věnuje pozornost tomu, které někteří bankéři již předpovídali jako nová krize likvidity.
-Říká, že nemůže být vyzařováno, ale na rozdíl od toho, co se stalo v červnu, je možné získat krátkodobé financování prostřednictvím dohod, které změkčují krizi.
-CECA odhodila druhou velkou vlnu fúzí v záchranných bankách
-Šéf hlavního ředitelství CECA Jose Antonio Olavarrieta se včera zřekl, že se bude konat velká vlna fúzí spořitelny a znovu trval na rychlosti, s jakou se provádí rekonstrukce tohoto sektoru.
-Když začal proces koncentrace španělských spořitelen, existovalo několik organizací, které zajistily, že se této první fáze nezúčastní a že se očekávají ve druhém kole.
-Nicméně, šéf hlavního ředitelství Španělské konfederace spořitelny bank (CECA), Jose Antonio Olavarrieta, včera zamítl, že tato nová velká vlna operací se bude konat.
-Věřím, že největší část fúzí nastala, začlenění Cajasola do skupiny Banca Civica nelze nazývat druhým kolem, existují pouze úpravy.
-"Největší část je zcela hotová; možná místo 17 bychom mohli mít 13 nebo 14, ale všechny skvělé procesy byly provedeny pod dohledem Bank of Spain, který v této záležitosti spolupracoval velmi mnoho," zdůraznil manažer.
-V prohlášeních během snídaně manažerské asociace a vedoucích pracovníků společnosti Aragon (ADEA) Olavarrieta odhalil, že proces koncentrace probíhá „s největší možnou rychlostí a musíme být velmi spokojeni s tím, jak se to stane v podmínkách, které v té době, ne nyní, byly v plánech podnikání se Španělskou Bankou,“ zdůraznil.
-Přejít od 45 úsporných bank s průměrem 28 500 milionů aktiv na 17 s 75 500 miliony je proces, který nemá srovnání v historii, což snižuje počet organizací na 62%, aby byly mnohem větší, aby naplnily Basiale, zdůraznil.
-Olavarrieta uznal, že existuje „série názorů spíše pesimistických na pomalosti procesu“, které demonstrují „nedostatek vážnosti a rozumu“, protože „to, co dělá Bank of Spain, je mít na paměti, že musíme tento termín splnit do konce roku“.
-Šéf hlavního ředitelství CECA Jose Antonio Olavarrieta včera ujistil, že Španělsko má přísnější finanční systém celé Evropy a „pravděpodobně“ celého světa, a připisoval těm, kteří zpochybňují „nedostatek znalostí“.
-Manažer ukázal, že v rámci současného ekonomického konjunktura „můžeme být velmi uvolnění“ se situací finančních organizací a spořitelen, což je systém, který provedl „velmi důležitý“ koncentrační proces a který „jde s největší možnou rychlostí“.
+Banesto již ve čtvrtek vydal příkazy své síti, aby omezil dlouhodobý úvěr a zvýšil cenu diferenciálů - Viz CincoDías od 22. a 27. listopadu.
+Také si uvědomil, že tendence banky nyní "je to zvyšování provizí", ale "v rámci konkurenčního rámce".
+Režisérský plán Sabadellu je založen na organickém růstu, i když skupina jako vždy nevyřazuje korporativní operace.
+Ne marně, ujišťuje, že ve Španělsku "budou vyžadovány velké velikosti".
+"Příští rok se všechno pohne," ujistil.
+Tvrdí, že kapitálové potřeby "příliš vzrostly" a nevyhazuje, že některé španělské finanční organizace vstupuje do červených čísel.
+A zmiňuje, že FROB může nahradit trh ve fundraisingu před novými rekapitalizacemi.
+Poté, co si ujistil, že Sabadell může přežít dočasné uzavření trhů, věnuje pozornost tomu, které někteří bankéři již předpovídali jako novou krizi likvidity.
+Říká, že nelze vyslat, ale na rozdíl od toho, co se stalo v červnu, je možné získat krátkodobé financování prostřednictvím dohod, které změkčují krizi.
+CECA vyřadila druhou velkou vlnu fúzí v záchranných bankách
+Šéf hlavního ředitelství CECA José Antonio Olavarreita včera odložil, že dojde k velké vlně fúzí spořicích bank a znovu trval na tom, jak je rychlost, s jakou se rekonstrukcí sektoru provádí.
+Když začal proces koncentrace španělských spořicích bank, existovalo několik organizací, které ujišťovaly, že se této první etapy nezúčastní a že budou očekávat druhé kolo.
+Nicméně šéf hlavního ředitelství Španělské konfederace bank pro úspory (CECA) José Antonio Olavarrieta včera odhodlal, že k této nové velké vlně operací dojde.
+Domnívám se, že největší část fúzí nastala, začlenění Cajasolu do skupiny Banca Civica nelze nazvat druhým kolem, existují pouze úpravy.
+"Největší část je zcela dokončena; možná místo 17 bychom mohli mít 13 nebo 14, ale všechny velké procesy byly provedeny pod dohledem Bank of Spain, která v této věci spolupracovala velmi mnoho," zdůraznil manažer.
+V prohlášeních během snídaně manažerské asociace a vedoucích pracovníků Aragónu (ADEA) Olavarrieta odhalila, že proces koncentrace je prováděn "s největší možnou rychlostí a musíme být velmi spokojeni s tím, jak se to děje v termínech, které v té době, ne nyní, byly v plánech podnikání s španělskou centrální bankou," zdůraznil.
+Z 45 spořících bank s průměrem 28,500 milionů objemů aktiv na 17 se 75,500 miliony je proces, který nemá srovnání v historii, což snižuje počet organizací na 62%, takže jsou mnohem větší, aby naplnily Basilea, zdůraznil.
+Olavarrieta uznal, že existuje "série názorů spíše pesimistických na pomalost procesu", která demonstruje "nedostatek vážnosti a rozumu", protože "to, co Španělská centrální banka dělá, je, že musíme splnit termín do konce roku".
+Šéf hlavního ředitelství CECA José Antonio Olavarrieta včera ujistil, že Španělsko má přísnější finanční systém celé Evropy a "pravděpodobně" celý svět, a připsal se těm, kteří zpochybňují "nedostatek znalostí".
+Manažer ukázal, že v rámci současné ekonomické konjunktury "můžeme být velmi uvolněni" se situací finančních organizací a spořitelen, systémem, který podnikl "velmi důležitý" proces koncentrace a který "jde s největší možnou rychlostí".
 Také si vzpomněl, že španělská banka vyšla velmi dobře se zátěžovými testy, které BCE provedla v červenci.
 Zapatero a německá červená čára
 Berlín se rozhodl zachovat euro, ale stanovil podmínky pro celou Unii.
-Napětí na trhu vyvolalo dvojitou reakci vlády.
-Na jedné straně Jose Luis Rodriguez Zapatero navrhl nová opatření přizpůsobení, od fiskálních snížení až po malé a střední podniky, regulace soukromých agentur umístění nebo potlačování 426 eur pomoci nezaměstnaným bez příspěvků, k privatizaci 49% AENA, řízení letišť Barajas a El Prat a 30% loterií státu.
-Na druhou stranu, viceprezidentka Elena Salgado, s podporou bývalého prezidenta Felipeho Gonzáleze, přidala k kritikům k radní Angele Merkelové svou odpovědnost za rozvázání současné krize.
-Jak mohou být tato hnutí interpretována?
-Pokračovala v tom, že postoj Merkelové není chybou ve své komunikační politice.
-Naopak, jedná se o další zpřísnění šroubů v obtížném procesu redefinování eura.
-A tam má Německo radikálně novou vizi o tom, jak musí vypadat jeho budoucnost, která je v rozporu s tím, kdo zachovává staré tradice svých hlavních partnerů.
-Proti evropskému odporu existují v Německu spekulace o třech možných odchodech z krize.
-Za prvé, silné euro, integrované samo o sobě, Rakousko a Holandsko, mimo jiné země, zatímco jih by opustil měnovou zónu.
-Za druhé, oživení německé značky, i když se nyní zdá být sci-fi, s velmi příznivým proudem názoru, téměř 50% populace.
-Zatřetí, přepracování eura, podle německých návrhů větší makroekonomické kontroly, rozpočtové přísnosti, pokuty pro země transgresorů, možné pozastavení plateb některým z nich a rozšíření soukromého sektoru nákladů na případné úpravy.
-Německá pozice je jasná a přichází definovat sama sebe po dlouhou dobu, takže neexistují žádné omluvy.
-Za prvé, v roce 2009, kdy MMF jako Evropská komise stimuloval deficity, německá vláda představila ústavní reformu, aby jim zabránila od roku 2016.
-Jednalo se o první signál rozdílu mezi tím, co si Německo myslí, že musí udělat (plány fiskální přísnosti a stability ve veřejných financích) a tím, co dělají jeho evropští partneři, včetně Francie.
-Druhou bolestí hlavy pro středoevropskou zemi bylo, když Merkelová pracně rozšířila rozhodnutí o záchraně Řecka.
-Pak to byl objekt zuřivého kritika, ale pravdou je, že politický konsensus v Německu a veřejné mínění a zveřejněný byl proti záchraně Řecka.
-A konečně, během posledních říjnových dnů, se Merkelová znovu objeví s jasným postojem, požadujícím reformu smluv Unie, aby umožnila záchranu země a zároveň donutila soukromé věřitele, aby běželi s částí nákladů.
-Tento postoj je interpretován jako protievropský, protože urychlil irskou krizi a vše ostatní.
-Ale její návrh, i když poněkud oslazený, byl schválen a v příštích měsících bychom se museli zúčastnit procesu reformy Unie, který umožní tato opatření počínaje rokem 2013.
-Německo vypracovalo červenou čáru, která neopravňuje k překročení.
-A to říká nám všem, že i když nyní musí přijmout opatření, s nimiž se možná neshodne, počínaje tímto datem, staré fungování eura, bude dokončeno.
-Rok 2013 bude znamenat, že zrození měnové oblasti, ve které budou porušující země vážně sankcionovány, může být nuceno prohlásit se za pozastavení plateb a v takovém případě soukromý sektor také podpoří část nákladů.
-Německo nám říká, že musíme jít po vážném tempu růstu s vysokými mírami úspor a investic, umírněností ve spotřebě, zlepšením produktivity, konkurenceschopností a pozitivními bilancemi.
-Další alternativa založená na dluhu a výstavbě, s obrovskými schodky v platební bilanci, jak tomu, které čelí španělský růst během let boomu, nebude tolerována.
+Tržní napětí přineslo dvojí vládní reakci.
+Na jedné straně navrhl José Luis Rodriguez Zapatero nové míry přizpůsobení, od fiskálního snížení až po malé a střední podniky, regulaci soukromých agentur o umístění nebo potlačení 426 eur pomoci nezaměstnaným bez příspěvků, k privatizaci 49% AENA, řízení letišť Barajas a El Prat a 30% loterií státu.
+Na druhé straně místopředsedkyně Elena Salgadová s podporou exprezidenta Felipeho Gonzáleze přidala kritikům radní Angele Merkelové svou odpovědnost za rozvázání současné krize.
+Jak mohou být tyto pohyby interpretovány?
+Pokračuje, že postoj Merkelové není chybou v její komunikativní politice.
+Naopak, je to další zpřísnění šroubů v obtížném procesu redefinice eura.
+A tam má Německo radikálně novou vizi, jak musí být jeho budoucnost, která je v rozporu s udržováním starých tradic svých hlavních partnerů.
+Proti evropskému odporu se v Německu spekuluje o třech možných odchodech z krize.
+Za prvé, silné euro, integrované samo sebou, Rakousko a Holandsko, mimo jiné země, zatímco jih by opustil měnovou zónu.
+Za druhé, zotavení německé značky, i když se nyní zdá být sci-fi, s velmi příznivým současným názorem, téměř 50% populace.
+Za třetí, redesign eura, podle německých návrhů větší makroekonomické kontroly, rozpočtové přísnosti, pokut pro přestupové země, možné pozastavení plateb některým z nich a rozšíření soukromého sektoru nákladů na potenciální úpravy.
+Německý postoj je jasný a přichází se definitivně definovat po dlouhou dobu, takže neexistují žádné výmluvy.
+Zaprvé, v roce 2009, kdy MMF stejně jako Evropská komise stimuloval deficity, předložila německá vláda ústavní reformu, aby jim zabránila v roce 2016.
+To byl první signál rozdílu mezi tím, co si Německo myslelo, že musí udělat (plány fiskální přísnosti a stability ve veřejných financích), a tím, co dělali jeho evropští partneři, včetně Francie.
+Druhá bolest hlavy pro středoevropskou zemi byla, když Merkelová pracně prodloužila rozhodnutí záchrany Řecka.
+Pak to byl objekt zuřivého kritika, ale pravdou je, že politický konsensus v Německu a veřejném mínění a zveřejněný byl proti záchraně Řecka.
+A konečně, během posledních říjnových dnů se Merkelová znovu vynořuje s jasným postojem a požaduje reformu smluv Unie, aby umožnila záchranu země a zároveň nutila soukromé půjčovatele peněz, aby běželi s částkou nákladů.
+Tato pozice byla interpretována jako protievropská, protože urychlila irskou krizi a všechny ostatní.
+Její návrh, i když poněkud oslazený, byl schválen a v příštích měsících bychom se museli zúčastnit procesu reformy Unie, který umožňuje tato opatření počínaje rokem 2013.
+Německo vypracovalo červenou čáru, která neochvějňuje přechod.
+A říká nám všem, že i když teď musí přijmout opatření, s nimiž se možná neshodne, počínaje tím datem staré fungování eura bude hotové.
+Z roku 2013 bude znamenat zrod nové měnové oblasti, v níž budou porušující země přísně sankcionovány, může být nucena prohlásit se v pozastavení plateb a v takovém případě bude soukromý sektor také podporovat část nákladů.
+Německo nám říká, že musíme sledovat těžkou cestu růstu s vysokou mírou úspor a investic, mírou spotřeby, zlepšením produktivity, konkurenceschopností a pozitivními rovnováhami.
+Další alternativa založená na dluhu a stavbě, s obrovskými schodky v platební bilanci, protože ta, které čelí španělský růst během let konjunktury, nebude tolerována.
 Nabídka je jasná.
 Měli bychom to lépe pochopit.
-V roce 2013 to není o snaze vést zpět schodek veřejných financí na 3%.
-To, co nás žádají, je mnohem těžší.
-A nejhorší věc, než bychom mohli udělat za těchto okolností, je o děti se sami.
+Není to o snaze dovést zpět schodek veřejných financí v roce 2013 na 3%.
+To, na co se nás ptají, je mnohem těžší.
+A nejhorší věc, než jsme za těchto okolností mohli udělat, je nalbýt sám sebe.
 Doufám, že současné turbulence otevřou cestu k většímu klidu.
-a že využíváme čas, který nám dali, až do jara 2013.
-Zdá se, že prezident Zapatero to pochopil stejným způsobem a svým dvojitým projevem (reformy slibované po setkání poslední soboty se skvělými společnostmi a oznámením včerejška o nových opatřeních) naznačuje, že navzdory kritikům Merkelové položila cestu do teze, podle níž by měl člověk dát pořádek do domu.
-Ale červená čára, kterou tam Německo vypracovalo, je, a zdá se, že se to bude pohybovat.
-A mezi možnostmi, o kterých se uvažuje, nelze vyloučit jednu z opuštění měnové zóny malých vážných zemí.
-Pak nám Německo vždy řekne, že nás varovalo.
+a že využíváme doby, kterou nám dali, až do jara 2013.
+Zdá se, že prezident Zapatero to pochopil stejně a jeho dvojí manifest (reformy slibované po schůzce poslední soboty s velkými společnostmi a oznámením včerejška nových opatření) naznačuje, že navzdory kritikům Merkelové se postavilo do práce, podle které by měl člověk uspořádat do sněmovny.
+Ale červená čára, kterou tam Německo vypracovalo, a zdá se, že se to pohne.
+A mezi možnostmi, které jsou zvažovány, nelze vyloučit tu opuštění měnové zóny malých seriózních zemí.
+Německo nám vždycky řekne, že nás varovalo.
 Zákon o sportu a podvodech
-Triky, jako jsou ty Alonso a Ramos před Ajaxem, demonstrují vtipnost, ale ne vůli dostat se k odvolat sankce.
-Vyhoštění pravděpodobně vytvořil dva hráči Real Madrid (Xabi Alonso a Sergio Ramos) ve hře, která se hrála 23. listopadu proti Ajaxu v Lize mistrů, způsobila, že řeky inkoustu byly napsány o tom, zda je takové chování nebo není nesportovní, a pokud by oba hráči měli být sankcionováni UEFA.
-Jak všichni víme, několik minut před koncem hry (že jejich tým již vyhrál), oba hráči záměrně promarnili čas, který přiměl rozhodčího ukázat druhou žlutou kartu oběma.
-Tímto způsobem, a protože Real Madrid skončí jako vůdce své skupiny, oba hráči budou splňovat předepsanou sankci během příštího zápasu ligy, proti Auxerre, a budou schopni se zbavit karet v následující fázi.
-Konečně, výbor disciplíny UEFA schválil se dvěma zápasy trenér týmu, José Mourinho, a s různými ekonomickými částkami implikovaní hráči.
-Provokace žluté karty za podobných okolností jako tato není nová praxe, ale spíše častá ve světě fotbalu.
-Je to tak rozšířené, že je součástí étosu, nepsaných pravidel, ale přesto následoval tento sport.
-Část debaty, která vznikla v souvisejícím případě, je způsobena skutečností, že byla provedena týmem organizace Real Madrid (že ve svém hymnu předpokládá šlechtu a čest, a to uložilo své hráče za analogické činy) a dramatizací zorganizoval, zřejmě Mourinho, který přidává ještě jeden k jeho rozšířené historii histrionic a provokativního technika.
-Každopádně, debata se zabývá tím, zda tento typ chování, který není zakázán konkrétně nařízením, je v rozporu s principy sportu, tj. Pokud je s těmito akcemi podvody spáchány; pak, ba jsou to uctivé akce se sportovním nařízením, ale zdá se, že se vyhýbají jeho smyslu.
-Záležitost zkoumá, jaký druh škod je přinesen sportovnímu duchu.
-Jednou z výhod, která zahrnuje sportovního ducha, je fyzická integrita opačných hráčů, aspekt, který s těmito akcemi nebyl uveden do nebezpečí, to znamená, že neexistovala žádná násilná hra.
-Další z těchto výhod, na které je narážeena s jízdným-hra je vyhnout se, aby se zabránilo, že tým hráčů porušovatelů zákona má nespravedlivě výhodu opačného týmu, což se nestalo ani.
-Paradoxní věcí na akci hráčů Realu Madrid je však to, že to nedodrželo to, co normálně charakterizujeme jako právní podvod, protože porušení pravidel nebylo učiněno tajně, aby se pokusilo vyhnout sankcím, ale jejich akce byla nejvíce zřejmá, a tak dostali trest od rozhodčího.
+Triky, jako jsou triky Alonsa a Ramose před Ajaxem, demonstrují vtipnost, ale ne vůli odstranit sankci.
+Vyhoštění pravděpodobně ukované dvěma hráči Realu Madrid (Xabi Alonso a Sergio Ramos) ve hře, která se hraje 23. listopadu proti Ajaxu v Lize mistrů, způsobilo, že řeky inkoustu byly napsány o tom, zda je takové chování nebo není nesportovní a zda by oba hráči měli být sankcionováni UEFA.
+Jak všichni víme, pár minut před koncem zápasu (že jejich tým už vyhrál), oba hráči záměrně promarnili čas, což přimělo rozhodčího ukázat druhou žlutou kartu oběma.
+Tímto způsobem, a protože Real Madrid skončí jako lídr své skupiny, oba hráči splní předepsanou sankci během příštího zápasu ligy, proti Auxerre, a budou se moci zbavit karet následující fáze.
+Konečně, výbor disciplíny UEFA sankcionoval se dvěma zápasy trenéra týmu Josého Mourinha a s různými ekonomickými částkami implikovaní hráči.
+Provokace žluté karty za podobných okolností, jako je tato, není nová praxe, ale spíše častá ve světě fotbalu.
+Je tak rozšířená, že je součástí étosu, nepsaných pravidel, ale přesto se řídil tímto sportem.
+Část debaty, která vznikla v souvisejícím případě, je způsobena skutečností, kterou provedl tým organizace Real Madrid (že ve své hymně předpokládá vznešenost a čest, a to pokutovalo jeho hráče za analogické činy) a dramatizací zorganizovanou zřejmě Mourinhem, který přidává ještě jeden do své rozšířené historie histriónského a provokujícího technika.
+Každopádně, debata se zabývá tím, že pokud tento typ chování, které není zakázáno, konkrétně nařízením je v rozporu se zásadami sportu, tj. Pokud je s těmito činy spácháno podvod; pak jsou skutečně uctivými činy s sportovní regulací, ale zdá se, že vylučují její smysl.
+Záležitost zkoumá typ poškození, které jsou přivedeny do sportovního ducha.
+Jednou z výhod, které zahrnují sportovního ducha, je fyzická integrita opačných hráčů, aspekt, který s těmito akcemi nebyl vystaven nebezpečí, to znamená, že neexistovala žádná násilná hra.
+Další z těchto výhod, na které je narážena jízdným - je vyhnout se tomu, aby tým hráčů prolamovatelů zákona využil nespravedlivě od opačného týmu, což se také nestalo.
+Paradoxní na akci hráčů Realu Madrid však je, že nedodrželo to, co normálně charakterizujeme jako právní podvod, protože porušení pravidel nebylo provedeno tajně, aby se pokusilo vyhnout sankci, ale jejich akce byla nejzřetelnější a tak dostali od rozhodčího trest.
 Čekali a přijali sankci bez stížností.
-Další otázkou je, jakou výhodu, jakou výhodu, kterou porušovatelé získali při jednáních záměrně prováděných.
-Zde se zdá být nezbytné uvést, že to není nevýhodná situace pro soupeře ani získaný přínos ve stejné hře, protože evidentně výsledkem akce předpokládá, že opuštění vlastního týmu s méně hráči.
-A ani to není užitečná strategie pro příští zápas, protože klub se na tyto hráče nebude moci spolehnout.
-Výhodou samozřejmě spočívá v tom, že hráči začnou následující fázi šampionátu bez karet, které by mohly ohrozit jejich účast v budoucí hře.
-Ale je to o dlouhodobé výhodě, s určitým stupněm neurčení, protože tým může být eliminován jako první změny, a navíc s touto akcí hráči splňují sankční hru a jdou do druhého cyklu karet, ve kterém se suspenze po spuštění na základě akumulace karty probíhá s jedním méně než v prvním cyklu.
-Takže tím, že procházejícími kruhy, není tak jasné, že je to výhoda.
-Tyto akce jsou skutečně proti sportovnímu duchu, který je součástí strategických rozhodnutí, která upřednostňují využívání výhod povolených pravidly.
-Pokud jde o tento předpoklad, hráči nejednali, aby se vyhnuli použití sankce (to by byl jasný případ právního podvodu), ale spíše se rozhodli, kdy ji uposlechnout.
+Další otázkou je, jaký typ výhody narušitelé získali při akcích, které byly záměrně provedeny.
+Zde se zdá být nutné konstatovat, že to není nevýhodná situace pro soupeře, ani není získávaným přínosem ve stejné hře, protože je zřejmé, že výsledek akce předpokládá, že ponechají svůj vlastní tým s méně hráči.
+A ani to není užitečná strategie pro další zápas, protože klub nebude schopen na tyto hráče počítat.
+Výhoda samozřejmě spočívá v tom, že hráči začnou následující fázi šampionátu bez karet, které by mohly ohrozit jejich účast v budoucí hře.
+Ale je to o dlouhodobé výhodě, s určitým stupněm neurčitosti, protože tým může být eliminován jako první změny, a navíc s touto akcí hráči plní sankční hru a jdou do druhého cyklu karet, ve kterém dochází k akumulaci zavěšení karty s o jednou méně než v prvním cyklu.
+Takže tím, že projdete kola, není tak jasné, že je to výhoda.
+Tyto akce jsou skutečně proti sportovnímu duchu, který je součástí strategických rozhodnutí, která upřednostňují přijímání výhod povolených pravidly.
+Pokud jde o tento předpoklad, hráči nejednali, aby se vyhnuli uplatňování sankce (to byl by jasný případ právního podvodu), ale spíše se rozhodli, kdy by ji měli poslouchat.
 Učinili strategické rozhodnutí, aniž by se vyhnuli trestu.
-Ačkoli hranice mezi vtipností a podvodem je rozptýlená, při této příležitosti se domnívám, že to byl jasný případ vtipu.
-Zdá se, že spor vzniká ze dvou faktorů: protože šlo o dva automatické vyhoštění a způsob, jakým byl přenos směrnice proveden, aby je způsobil.
-Škody způsobené na principech sportu těmito akcemi nejsou tak etické jako estetické.
-Ofenzíva zásob, které mají chytit vánoční večeře skupin v BCN
-Jak dny letos klesají, je koncentrace rezervací na 16. a 17. místě.
+I když hranice mezi vtipností a podvodem v právu je rozptýlená, při této příležitosti se domnívám, že to byl jasný případ vtipnosti.
+Zdá se, že kontroverze pramení ze dvou faktorů: protože šlo o dvě automatické vyhoštění a způsob, jakým byl proveden přenos směrnice, aby je způsobil.
+Škody, které se tyto akcemi týkaly principů sportu, nejsou tak etické jako estetické.
+Ofenzíva zásob, aby se zachytily vánoční večeře skupin v BCN
+Způsob, jakým dny letos klesnou, je koncentrace rezervací na šestnáctém a sedmnáctém.
 Oslavy zaměstnanců, kteří chtějí utratit mezi 20 a 30 eury.
-Jako nougat a loterie, jednou s prosincem skupinové večeře před Vánocemi se vrátí, to pokračuje jako lapání čerstvého vzduchu pro obnovu a volný čas v Barceloně, že kvůli krizi skončilo urážkou cenových fixací, aby bylo možné chytit většinový podíl zákazníků: téměř všichni chtějí strávit mezi 20 a 30 eury na večeře nebo jídla, souhlasí s manažery a sdruženími v dotázaném sektoru.
-Za účelem dokončení komplikování účetnictví se kalendáře tohoto roku (pro pádem na Silvestra v pátek) soustředil požadavky v týdnu od 13. prosince, s výsledkem až do tohoto data laviny rezerv na víkend (16 a 17) a stěží se za předchozí týden.
-Jak se dělo od roku 2008, kdy začala fáze snižování nákladů, existovalo mnoho společností, které z rozpočtového důvodu zrušily kolektivní večeře.
-Za to, že tuto tradici nezničil, mnoho dělníků ji udržuje tím, že ji platí z vlastní kapsy.
-Ať už jsou konjunktulace jakákoliv, všichni požadovali cenovou válku, potvrzuje prezident Gremiho Restorace v Barceloně, Gaiet Farrsové.
-Zástupce sdružení zaměstnavatele se dnes neodvažuje předpovědět, zda se tento měsíc uskuteční oslavy.
-"Lidé to zvažují dlouho před tím, než rezervaci."
-"Chtějí jít ven, ale mají na paměti cenovou situaci," řekl.
-Podnik bude "dobře pro ty, kteří dávají kvalitu za dobrou cenu a s dobrou návštěvností," dodává a připomíná, že klienti mají tendenci přijít dolů jednou s krizí, takže pás kolem 25 eur se stal poptávkou po většině.
-V průzkumu veřejného mínění v různých centrálních zařízeních lze vidět kolaps rezervací na noc 17.
-Skupina Soteras naznačuje, že existuje autentický boom žádostí o tento pátek, s předpokladem utrácení ne více než 30 eur, na které reagovali přizpůsobením svých nabídek vzorci 25 a 35 EUR.
-V jiné z nejmocnějších skupin, Andilana, s 16 zařízeními ve městě (Hostal de la Rita, Market, La Fonda a další), zvláštnost kalendáře zahrnovala více očekávaných rezerv, a to i od začátku listopadu.
-"Udělali jsme nemožné, abychom udrželi stejné ceny roku v loňském roce, s nabídkami pro všechny chutě od 19,95 do 30 eur," podrobně popisují.
-V AN Grup, který zahrnuje El Mussol, Attic, QuQu a celkem 23 barů, zůstávají optimističtí poté, co zjistili nárůst fakturace z druhého semestru a některé dobré, i když koncentrované perspektivy podnikání na Vánoce.
-Zdroje skupiny zdůrazňují, že 18. bude také hyperaktivní den týkající se skupin přátel, které oslavují svátky.
-K jejich šestinám menu skupiny přidali Vánoce jedna, s 30 eury nebo více jako hvězdný rozpočet a vnímání, že existuje predispozice utrácet o 10% více než v loňském roce výměnou za to, že budou požadovat více podrobností, pokud to bude nutné.
-V některých společnostech také vidí zelené pupeny, které zve své zaměstnance a čím sklíče, tím větší je objem.
-Jménem sdružení zaměstnavatele Fecasarm (včetně organizací, jako je Asociace barpů, restaurací a hračných zemí Barcelony), její viceprezident Enric Gomà věří, že začíná vidět světlo na konci tunelu a domnívá se, že zálohy jsou "veselivé", ačkoli klienti "vyjednávají" co nejvíce.
-Ve skutečnosti se iluze oslavy nesnížila pro toho, kdo platí, naznačuje tento.
-Pákistánský jaderný program vytváří velký neklid v USA.
-Islámábád vyrábí atomové zbraně „o sazbou rychleji než kterákoli jiná země“.
-Filtrace Wikileaks potvrzují vazby mezi lidem Talibanu a Pákistánem.
-Obsah korespondence mezi americkým velvyslanectvím v Pákistánu a ministerstvem USA filtrovaným portálem Wikileaks potvrzuje obrovský neklid, který pákistánský jaderný program přináší ve Washingtonu.
-Kromě pouštních a podstatných detailů, které jsou nabízeny na základě obsahu rozhovorů a myšlenek připisovaných severoamerických diplomatických představitelů v Islámábádu, dokumenty odhalují, že spolupráce mezi oběma zeměmi ve věci atomové bezpečnosti, namísto zvyšování, „snižuje“ a že nestabilní asijská země vyrábí jaderné zbraně s „rytmem rychleji než kterákoli jiná země“.
-Zvláštnost pákistánského jaderného programu – že zbraně nejsou sestaveny, ale zůstávají skladovány komponenty, aby ztížily jejich zničení v případě útoku – představuje jednu z hlavních příčin obav ve Washingtonu.
-Tak vyjmenovala velvyslankyně v Pákistánu Anne W. Patterson ve zprávě před zahájením návštěvy bývalého poradce pro národní bezpečnost Jamese Jonese: „Blízkost některých jaderných elektráren na území pod útokem Talibanu, pověstný rozptýlení jaderného materiálu a zranitelnost přepravy atomových materiálů.“
-Vysoký počet lidí uvedených v jaderných arzenálech a raketových programů je vzaty v úvahu nejen USA, ale také Ruskem, jako je důvod pro udržení své stráže.
-"Pákistán musel najmout personál s přísným náboženským přesvědčením, aby ochránil jaderné elektrárny; vzhledem k špatné výchovné a kulturní úrovni mají extremistické organizace více příležitostí rekrutovat lidi, aby pracovali v jaderných programech nebo raketách," řekl expert Jurij Carole z ruského ministerstva zahraničních věcí na setkání se svými Američany homologickým.
-Nejnovějšími informacemi o dokumentaci filtrované portálem Juliana Assange je klesající spolupráce mezi USA a Pákistánem v předmětech šíření jaderných zbraní a vysoká pákistánská míra výroby jaderných zbraní.
+Jako nugat a loterie, jednou s prosincem skupinové večeře před vánočním návratem, které pokračují v lapání po čerstvém vzduchu pro obnovu a volný čas v Barceloně, že kvůli krizi skončilo urážkou fixace cen, aby bylo možné chytit většinový podíl zákazníků: téměř všichni chtějí utratit 20 až 30 eur za večeře nebo jídla, dohodnout manažery a sdružení v dotazovaném sektoru.
+Aby bylo možné dokončit komplikování účetnictví, kalendář letošního roku (pro pád Silvestra v pátek) koncentroval žádosti v týdnu od 13. prosince, s výsledkem až do tohoto data laviny rezerv večeří na víkend (16 a 17) a stěží pohybu za předchozí týden.
+Jak se dělo od roku 2008, kdy začala fáze snižování nákladů, bylo mnoho společností, které z rozpočtového důvodu eliminovaly kolektivní večeře.
+Za to, že nezničili tradici, mnozí dělníci ji udržují tím, že ji zaplatí z vlastní kapsy.
+Ať už je jakákoliv konjunkce, všichni požadovali cenovou válku, potvrzuje prezidenta obnově Bremiho Barcelony Gaiet Farrsové.
+Zástupce sdružení zaměstnavatele se dnes neodvažuje předpovědět, zda se tento měsíc uskuteční oslavy."
+"Lidé to zvažují dlouho před provedením rezervace."
+"Chtějí jít ven, ale mají na mysli cenovou situaci," zmiňuje.
+Podnik půjde "dobře pro ty, kteří dávají kvalitu za dobrou cenu a s dobrou návštěvností", dodává a připomíná, že klienti mají tendenci jednou s krizí klesnout o jeden krok, takže pás kolem 25 eur se stal poptávkou po většinu.
+V anketě provedeném v různých centrických zařízeních lze vidět kolaps rezervací pro noc sedmnáctého.
+Skupina Soteras naznačuje, že existuje autentický boom žádostí o ten pátek, s předposledníkem výdajů ne více než 30 eur, na které reagovaly přizpůsobením svých nabídek vzorci 25 a 35 eur.
+V další z nejmocnějších skupin, Andilana, s 16 zařízeními ve městě (Hostal de la Rita, Market, La Fonda a další), se zvláštnost kalendáře týkala očekáněnějších rezerv, a to i od začátku listopadu.
+"Udělali jsme nemožné, abychom si udrželi stejné ceny roku jako poslední, s menu pro všechny chutě od 19,95 do 30 eur," upřesňují.
+V AN Grup, který zahrnuje El Mussol, Attic, QuQu, a celkem 23 barů, zůstávají optimističtí poté, co odhalili zvýšení fakturace z druhého semestru a některé dobré, i když koncentrované, perspektivy podnikání na Vánoce.
+Zdroje skupiny zdůrazňují, že osmnáctý bude také hyperaktivním dnem týkajícím se skupin přátel, které slaví svátky.
+Ke svým šesti menu skupiny přidali vánoční, s 30 eury nebo více jako hvězdný rozpočet a vnímáním, že existuje predispozice, která utratí 10% více než v loňském roce výměnou za požadavek více podrobností, pokud je to nutné.
+V některých firmách také vidí zelené pupeny, které zvou na své zaměstnance a struhoda, tím větší objem.
+Jménem sdružení zaměstnavatele Ficasarmu (která zahrnuje organizace jako Sdružení barů, restaurací a Leisure Barcelona), jeho místopředseda Enric Gomà věří, že začíná vidět světlo na konci tunelu a domnívá se, že rezervy jsou zcela "veselé", i když klienti "vyjednávají, jak je to možné.
+Vskutku, izraelsko oslavy se nesnížila pro toho, kdo zaplatí, naznačuje to.
+Pákistánský jaderný program vytváří v USA velký neklid
+Islámábád vyrábí atomové zbraně "rychlost rychleji než kterákoli jiná země".
+Filtrace Wikileaks potvrzují vazby mezi lidmi Talibanu a Pákistánem.
+Obsah korespondence mezi americkou ambasádou v Pákistánu a ministerstvem zahraničí USA filtrovaným portálem Wikileaks potvrzuje enormní neklid, který pákistánský jaderný program přináší ve Washingtonu.
+Kromě poučných a podstatných detailů, které jsou nabízeny o obsahu rozhovorů a myšlenkách připisovaných severoamerických diplomatických představitelů v Islámábádu, dokumenty odhalují, že spolupráce mezi oběma zeměmi ve věci atomové bezpečnosti, místo aby se zvýšila, "poklesu" a že nestabilní asijská země vyrábí jaderné zbraně s "rytím rychlejším než kterákoli jiná země".
+Zvláštnost pákistánského jaderného programu - že zbraně nejsou sestaveny, ale zůstávají uloženy komponenty, aby zkomplikovaly jejich zničení v případě útoku - představuje jednu z hlavních příčin obav ve Washingtonu.
+Tak je vyjmenována velvyslankyní v Pákistánu Anne W. Patterson ve zprávě, která byla předsouzena k návštěvě bývalého poradce Národní bezpečnosti, Jamese Jonese: "Blízkost některých jaderných elektráren na území pod útokem Talibanu, pověstná rozptýlení jaderných materiálů a zranitelnost přepravy atomových materiálů."
+Vysoký počet lidí implikovaných v jaderných arzenálech a raketových programech je vzadu v úvahu, a to nejen USA, ale i Ruskem, jako je důvod pro zachování své stráže.
+"Pákistán musel najmout personál s přísným náboženským přesvědčením, aby ochránil jaderné elektrárny; vzhledem k chudým pedagogickým a kulturním úrovním mají extremistické organizace více příležitostí k náboru lidí k práci v jaderných programech nebo raketách," řekl expert Jurij Carole z ruského ministerstva zahraničních věcí na setkání se svými Američany homologem.
+Nejnovější informace o dokumentaci filtrované portálem Juliana Assange je klesající spolupráce mezi USA a Pákistánem v předmětech šíření jaderných zbraní a vysokou pákistánskou mírou výroby jaderných zbraní.
 Kancelář velvyslanectví v květnu, která popisuje jako "frustrující" komunikaci s Pákistánem, říká, že: "Transparentnost často neexistuje; nabídky pomoci zůstávají bez odpovědi nebo jsou odmítnuty."
-V dalším poselství Peter Lavoy, státní úředník Národní zpravodajské služby pro jižní Asii, uvádí, že „navzdory ekonomické katastrofě Pákistán vyrábí jaderné zbraně v rytmu rychleji než kterákoli jiná země světa“.
-Velvyslanec Patterson také žádá Washington během návštěvy šéfa armády generála Ashfaqa Kayaniho, aby dal jasné rozkazy osobě, která má na starosti, že „páteční armáda musí ukončit tichou podporu teroristickým skupinám“.
-Lov šéfů Wikileaks
+V dalším poselství Peter Lavoy, státní úředník Národní zpravodajské služby pro jih Asie, uvádí, že "na základě ekonomické katastrofy Pákistán vyrábí jaderné zbraně v rytmu rychleji než kterákoli jiná země světa".
+Velvyslanec Patterson také žádá Washington během návštěvy šéfa armády generála Ashfaqa Kayaniho, aby dal jasné rozkazy osobě, která má na starosti, že "ťačkanka Pákistán musí ukončit tichou podporu teroristickým skupinám".
+Lovoství šéfa Wikileaks
 Obama jmenuje osobu, která má na starosti boj proti terorismu, aby se vyhnula novým filtrům.
-Interpol vydává červený poplach za účelem sledování hnutí a lokalizace Assange tam, kde by mohl být.
-Vše, co souvisí s Wikileaks a jejím zakladatelem Julianem Assangem, tvoří komplikovaný labyrint, ve kterém je obtížné mít jistotu ohledně jakýchkoli faktů.
-Včera Interpol vydal jeden „červený poplach“, aby „vyhledal a sledoval pohyby“ Assange.
+Interpol vydává červenou výstrahu s cílem sledovat pohyby a lokalizovat Assange, kde by mohl být.
+Vše, co souvisí s Wikileaks a jeho zakladatelem Julianem Assange, tvoří komplikovaný labyrint, ve kterém je obtížné mít jistotu o jakémkoli z faktů.
+Včera Interpol vypustil jeden "červený poplach" s cílem "najít a sledovat pohyb" Assange.
 Nicméně, to není tradiční příkaz k zatčení.
-Navíc to není nic nového, protože se datuje od 20. listopadu.
-A nemá nic společného s poslední filtrací více než čtvrt milionu diplomatických dokumentů týkajících se USA, ale s obviněními ze sexuálního zneužívání, kterému Australan čelí ve Švédsku.
-Kromě toho právník tvůrce Wikileaks, Mark Stephens, ujišťuje, že „policie ví, kde a jak se dostat do kontaktu s panem. Assange.“
-Byl to 20. den, kdy mezinárodní policejní orgán s ústředím v Lyonu (Francie) vydal příkaz na žádost Švédska, ale až do včerejška, poté, co obdržel povolení od orgánů této země.
-Vzhledem k těmto skutečnostem má 188 zemí Interpolu indikace pro identifikaci nebo umístění Assange „s ohledem na jeho prozatímní zatčení a vydání“.
-Ačkoli Interpol nemůže nařídit zatčení jednotlivce postiženého červeným poplachem, mnoho z členských států, jak organizace vysvětlila, považuje oznámení o výzvě volání o svobodě pro zatčení - to musí provést národní orgán policie - zejména pokud mají bilaterální dohodu o vydání, stejně jako je tomu v případě Švédska a Anglie, kde by Assange mohl být.
-Hnutí dráždilo právníky Assange, kteří včera zveřejnili dopis odsuzující, že zakladatel Wikileaks, 39 let, prohlásil, že je ochoten zúčastnit se videokonference, aby odpověděl na jakékoli otázky od švédských úřadů.
-Vzpomínají také, že Assange požádal a získal povolení opustit Švédsko od státního zástupce v jeho případě, kterého porovnávají s mýtickým Lavrentijem Pavlovičem Beriou, šéfem bezpečnosti Stalina.
-"Zdá se, že je to lov, ne právní perzekuce," odsuzuje dopis.
-Zatímco ho svět hledal - a z Austrálie jeho matka brání nevinnost svého syna - Assange sleduje neznámé místo pobytu, ale ne v tichu.
-V pondělí poskytl z neznámého místa rozhovor řediteli časopisu Time přes Skype, rozhovor, ve kterém požádal o rezignaci ministra zahraničí USA Hillary Clintonové.
-"Pokud je možné ukázat, že byla zodpovědná za to, že nařídila americkým diplomatům špehovat v ONU, která porušuje mezinárodní smlouvy, které USA podepsaly, měla by odstoupit," řekl.
-Jeho názor byl včera uražen tiskovým mluvčím Bílého domu Robertem Gibbsem, který popsal jako "směšnou a absurdní" žádost o rezignaci.
-"Nevím, proč bychom měli věnovat pozornost názoru muže s webovou stránkou," uvedla CNN.
-Obama sám nařídil vysoké osobě, která má na starosti boj proti terorismu, Rusell Travers, aby zabránil únikům nových dokumentů.
-Pokus mluvčího prezidenta Baracka Obamy snížit pozornost věnovanou Assangeovi kontrastuje s názory, které nyní politici a komentátoři prohlašují.
-Peter King, kongresman, který bude od ledna předsedat Výboru národní bezpečnosti ve Sněmovně reprezentantů, požádal ministerstvo zahraničí, aby prostudovalo možnost zahrnout Wikileaks do seznamu teroristických organizací, „aby se mohlo zúčastnit a jeho finančních prostředků a pronásledovat každého, kdo jim poskytne jakýkoli příspěvek nebo pomoc.“
-Kromě toho šel Tom Flanagan, poradce kanadského prezidenta Stephena Harpera, který musel svůj názor stáhnout poté, co řekl, že Assange bude muset být zavražděn.
-"Obama by ho měl proměnit v cíl a použít nesvobodné letadlo nebo tak něco."
-Kdo se neomluvil, byl Mike Huckabee, baptistický ministr, bývalý guvernér Arkansasu a možný kandidát na prezidenta.
-"Ať je ve vládě kdokoli, kdo prozradil informace, je vinen z velezrady a cokoli, co není popravou, by bylo příliš laskavým trestem," prohlásil pro Fox.
-Puigcercós hledá mír v ERC s mrknutím pro ty, kteří mají stejný názor jako Carod.
+Navíc to není nové, protože se datuje od dvacátého listopadu.
+A nemá nic společného s poslední filtrací více než čtvrt milionu diplomatických dokumentů týkajících se USA, ale s obviněními ze sexuálního zneužívání, kterým Australan čelí ve Švédsku.
+Kromě toho právník tvůrce Wikileaks Mark Stephens ujišťuje, že "policie ví, kde a jak se s panem dostat do kontaktu. Assange."
+Byl to 20, kdy mezinárodní policejní orgán s velitelstvím v Lyonu (Francie) vydal příkaz na žádost Švédska, ale prozradil ho až včera, poté, co obdržel povolení od úřadů této země.
+Vzhledem k faktům má 188 zemí Interpolu náznaky pro identifikaci nebo lokalizaci do Assange "s ohledem na jeho prozatímní zatčení a vydání".
+Ačkoli Interpol nemůže nařídit zatčení jednotlivce postiženého červenou výstrahou, mnoho z členských států, jak organizace vysvětlila, zvažuje, že telefonní síť je bezplatná cesta k zatčení - která musí přijmout národní orgán policie, - zejména pokud mají dvoustrannou dohodu o vydávání, jako je tomu v případě Švédska a Anglie, kde by Assange mohl být.
+Hnutí dráždilo právníky Assange, který včera zveřejnil dopis, v němž odsoudil, že zakladatel Wikileaks, 39 let, prohlásil, že je ochoten zúčastnit se videokonference, aby mohl odpovědět na jakékoli otázky švédských orgánů.
+Připomínají také, že Assange požádal a získal povolení opustit Švédsko od státního zástupce v jeho případu, kterého srovnávají s mýtickým Lavrentyem Pavlovičem Beriou, šéfem bezpečnosti Stalina.
+"Zdá se, že to je lov, ne právní pronásledování," odsuzuje dopis.
+Zatímco po něm svět pátral - a z Austrálie jeho matka hájí nevinnost svého syna - Assange následuje v neznámém místě pobytu, ale ne v tichu.
+V pondělí poskytl z neznámého místa rozhovor řediteli časopisu Time přes Skype, což je rozhovor, v němž si vyžádal rezignaci ministryně zahraničí USA Hillary Clintonové.
+"Pokud je možné ukázat, že byla zodpovědná za to, že nařídila americkým diplomatům špehovat o ONU porušující mezinárodní smlouvy, které USA podepsaly, měla by rezignovat," řekl.
+Jeho názor včera urazil tiskový mluvčí Bílého domu Robert Gibbs, který žádost o rezignaci označil za "směšný a absurdní".
+"Nevím, proč bychom měli věnovat pozornost názoru muže s webovou stránkou," prohlásila CNN.
+Sám Obama nařídil vysoké osobě, která má na starosti boj proti terorismu, Rusell Travers, aby zabránil únikům nových dokumentů.
+Poslání mluvčího prezidenta Baracka Obamy snížit pozornost věnovanou Assangeovi kontrastuje s názory, které nyní politici a komentátoři hlásají.
+Peter King, kongresman, který bude od ledna předsedat Výboru pro národní bezpečnost ve Sněmovně reprezentantů, požádal ministerstvo zahraničí, aby prostudovalo možnost zahrnutí Wikileaks na seznam teroristických organizací, "aby se zúčastnil a jeho finanční prostředky a pronásledoval každého, kdo jim poskytne jakýkoli příspěvek nebo pomoc".
+Dále šel Tom Flanagan, poradce kanadského prezidenta Stephena Harpera, který musel svůj názor stáhnout poté, co řekl, že Assange bude muset být zavražděn."
+"Obama by ho měl proměnit v cíl a použít nepilotované letadlo nebo tak něco."
+Kdo se neomluvil, byl Mike Huckabee, baptistický ministr, bývalý guvernér Arkansasu a možný kandidát do prezidentského úřadu.
+"Ať už je ve vládě kdokoliv, kdo prozradil informace, je vinen z velezradou a cokoli, co není poprava, by bylo příliš jemným trestem," prohlásil pro Fox.
+Puiccercos hledá mír v ERC s mrknutím na ty, kteří mají stejný názor jako Carod
 Republikánský vůdce umožní straně tajné hlasování o jeho kontinuitě.
-Huguet navrhuje více plurálně výkonného a ukončení celého systému schůzek.
-Zdá se, že Joan Puigcercós našel předpis na vyjednávání po dobu nepatrného času vnitřní vzpoura v ERC, bez pohledu na ztrátu 11 poslanců a poloviny hlasů.
-Prezident strany si je vědom toho, že jeho hrozba rezignace je nedostatečná pro stoupence bývalého vůdce Josepa Lluíse Caroda-Roviry, ale také ví, že vliv tohoto sektoru je dnes tak zředěný jako jeho vlastní mentor a může mu způsobit obavy, které měl s jinými zaniklými proudy.
+Huguet navrhuje více pluralitní exekutivy a konec celého systému schůzek.
+Zdá se, že Joan Puicenceczusová našla recept na vyjednávání po počtvrté vnitřní vzpouru v ERC, bez pohledu na ztrátu 11 poslanců a polovinu hlasů.
+Předseda strany si je vědom toho, že jeho hrozba rezignace je pro stoupence bývalého vůdce Josepa Lluíse Carod-Rovira nedostatečná, ale také ví, že vliv tohoto sektoru je dnes tak zředěný jako jeho vlastní mentor a může mu způsobit starosti, které měl s jinými vyhynulými proudy.
 Z tohoto důvodu se vůdce Esquerry pokusí získat nové kritiky mrknutím, které mu umožní být chráněn až do komunálních voleb.
-Aby mohl Puigcerós začít, oznámil, že více než 200 národních poradců ERC by mohlo soukromě vyslovit svou kontinuitu.
-Pomocí jízdenek, a ne zdviženou rukou.
-Pokud příznivci Carodu chtějí nést určité hlasování o trestu prezidentovi, mohou to udělat beze strachu z odvety.
-Ve skutečnosti, hlava řad chce vyhnout se divizní image stejně jako tomu, který se mu podrobil.
-V několika rozhovorech potvrdil, že by se nepovažoval za ratifikován s polovinou plus jedním z hlasů, ale dodal, aniž by zmínil procento, že by to nebylo dobré ani výsledek "la Bulhar".
-Blízcí příznivci Carodu požadují prezidentovi něco víc než dát k dispozici jeho pozici k militantnosti, což je gesto, které nestojí za to, když Puigcercos kontroluje nejdůležitější orgán mezi kongresy.
-Ale pro to, že nemají většinu dostatečnou k vynucení rezignace, se budou snažit rozhodnout s exekutivou směr od nynějška až do května.
-Za tímto účelem doufají, že se zúčastní vypracování dokumentu strategického přeorientování, že směr bude předložen před hlasováním národních rad v den 18.
-Jejím záměrem je mluvit za Puigcercós výměnou za slib, že postoupí kongres na podzim roku 2011, což je něco, co se Coklopa domnívá již za udělal.
-Vůdce ERC uznal, že „polyfonie“ poškozuje stabilitu a že jejím cílem je jednou provždy vytvořit organizaci schopnou umýt špinavé hadry uvnitř.
-V tomto řádku je symptomatický článek, který poradce v funkcích, které Josep Huguet zveřejnil na svém blogu.
-Vezmeme-li v úvahu ideologa Puigcercase, držitel Innovació považuje za splněný čin, který bude vůdce ověřen „výměnou za různé cíle“.
-A vyjmenoval pět, z nichž dva jsou zdůrazněny.
-Za prvé, „rekomponujte“ exekutivu tak, aby představovala alespoň 90% militantnosti, tedy, aby zahrnovala nové tváře, které pocházejí ze sektoru kompatibilního s Carodem.
-Druhá může být ta velká novost.
-Huguet navrhuje, aby ERC zrušila shromáždění jako operační mechanismus.
-Tak navrhuje reformu stanov, které umožňuje oslavovat kongresy prostřednictvím delegátů vybraných volebním hlasem.
-Končí s modelem shromáždění, výjimka ve španělském systému stran byla posedlost týmem Puigcercós, který již bojoval v tomto smyslu v obou posledních kongresech.
-Ve skutečnosti, křečové konkláve z roku 2008 nechat poslání směřování shromáždění v konkrétním kongresu reformy zákonů.
-Toto setkání se ještě neuskutečnilo, protože vnitřní povodeň posledních let radila proti konfrontaci s tématem.
-Nyní, bez kritických odvětví v této věci, by mohl být dobrým okamžikem, aby se to znovu zopaklo a pokusilo se ji uzavřít pro vždy.
-23 popravených v listopadu; 290 v roce 2010
-Podle čísel MILLENIUM státu Mexiko bylo ve srovnání s rokem 2010 zaznamenáno zdvojnásobení čtyř případů.
-Během 23. listopadu byli zabiti ve státě Mexiko, což je podle registrace státu MILLENIUM v Mexiku o čtyři méně než v předchozím měsíci.
-Mezi vraždami vyniká jedna ze tří žen a objevení dvojice těl v Mexickém údolí.
-V předposledním měsíci roku bylo v souvislosti s organizovaným zločinem 390 úmrtí.
-Mezi případy vyniká jedna z mrtvol nalezených v San Diegu de los Padres Cuexcontitlán, obec Toluca.
+Aby mohl začít, Puigcercós včera oznámil, že více než 200 národních poradců ERC by mohlo soukromě vyslovit jeho kontinuitu.
+Lístky, a ne zvednutou rukou.
+Pokud chtějí příznivci Caroda nést určité hlasování o trestu prezidentovi, mohou to udělat bez obav z odvety.
+Ve skutečnosti se šéf řad chce vyhnout obrazu rozdělení stejně jako obrazu rozdělení, stejně jako tomu, co se mu podrobuje.
+V několika rozhovorech potvrdil, že se nebude považovat za ratifikovaného s polovinou plus jedním z hlasů, ale dodal, bez zmínky o procentu, to by nebylo dobré ani výsledek "a la Bulgarian".
+Blíživí příznivci Caroda požadují prezidenta něco víc než dát k dispozici jeho pozici militantnost, což je gesto, které nestojí za to, když Puigcercos kontroluje nejdůležitější orgán mezi kongresy.
+Ale za to, že nemají většinu dostatečnou k vynucení rezignací, budou se snažit rozhodnout s exekutivou směr od nynějška až do května.
+Za tímto účelem doufají, že se budou podílet na vypracování dokumentu strategického přeorientování, že směr bude předložen k hlasování národního poradenství v den 18.
+Jejím záměrem je mluvit za Puiovcercze výměnou za to, že slibuje, že postoupí kongres na podzim 2011, což je něco, co si společnost kupolu již zvažuje.
+Vůdce ERC uznal, že "polyphonie" poškozuje stabilitu a že jejím cílem je jednou provždy vytvořit organizaci, která je schopna umýt špinavé hadry uvnitř.
+V této linii je symptomatický článek, který poradce ve funkcích Josep Huguet zveřejnil na svém blogu.
+V poměru k ideologovi Puigcercósovi se držitel Innovació považuje zaplněný čin, který bude vůdce autentizován "ve výměnou za různorodé cíle".
+A vyjmenoval pět, z nichž dva jsou zdůrazněni.
+Za prvé, "převést" exekutivu tak, aby představovala nejméně 90% militantnosti, to znamená, že zahrnuje nové tváře, které pocházejí z sektoru kompatibilního s Carodem.
+Druhá může být velká novost.
+Huguet navrhuje, aby ERC eliminovala shromáždění jako operační mechanismus.
+Navrhuje tedy reformu stanov, které umožňují oslavovat kongresy prostřednictvím delegátů vybraných volebním řáděním.
+Skončením montážního modelu byla výjimka ve španělském systému stran posedlostí týmu Puiovcercósu, který již v tomto smyslu bojoval v obou posledních kongresech.
+Konečná konkláve z roku 2008 umožnilo poslání směru přezkoumat shromáždění ve specifickém sjezdu reformy stanov.
+Tato schůzka se ještě nekonala, protože vnitřní záplava posledních let radila, aby nedošlo k konfrontaci s tématem.
+Nyní, bez kritických sektorů v této věci, by mohl být dobrým okamžikem, kdy ji znovu získat a pokusit se to vždy uzavřít.
+23 popravených v listopadu; 290 během roku 2010
+Podle počtu MILLENIUM State of Mexico bylo ve srovnání s rokem 2010 evidováno zmenšení čtyř případů.
+Během 23. listopadu byli ve státě Mexiko zabiti lidé, což je o čtyři méně než v předchozím měsíci podle registrace státu MILLENIUM v Mexiku.
+Mezi vraždami vyčnívá jedna ze tří žen a nález dvojice těl v Mexickém Údolí.
+V předposledním měsíci roku bylo 390 úmrtí v souvislosti s organizovaným zločinem.
+Mezi případy vyniká mrtvola nalezenou v San Diegu de los Padres Cuexkontitlán, obci Toluca.
 Subjekt měl nejméně tři výstřely a jeden výstřel do hlavy, kromě toho, že měl nohy a ruce svázané kabelem.
-Následující den bylo tělo subjektu nalezeno v kufru uvnitř kufru vozidla, které zůstalo na ulici Mixtecas, v Colony Santa Cruz Acatlán, obce Naucalpan.
-Ve čtvrtek ráno našli čtyři muži tělo se známkami mučení a nejméně tři smrtící výstřely v hrudníku, na dálnici Tenango-Ixtapan de la Sal, v úseku, který překračuje obec Villu Guerrero.
-Vedle těla byla zpráva podepsaná zločineckou organizací, kterou Michoacova rodina.
-O den později byl v Nezahualcóotl, padesátiletém gentlemanovi, zavražděn osmi výstřely poté, co opustil svůj dům, aby sbíral odpadky.
-Sedmý listopad byli dva subjekty po 30 letech zavražděny kulkou do hlavy v každé z nich v kolonii San Pedro Xaloxtoc, obec Ecatepec.
-V Chalcu, se výstřelem do čela, bylo nalezeno tělo muže na osamělé ulici kolonie Naranjo a pod tělem našli případ perforovaný střelnou zbraní kalibru 25.
-V Ecatepec byly nalezeny části lidského těla v černém kanálu kolonie Playa Golondrina.
-Pohotovostní orgány podnikly vyčerpávající prohlídku ostatních členů těla, pokud by ty nebyly nalezeny.
-Sousedé Tepotzotlánu hlásili, že našli mrtvolu v Pe a Colorada, s rukama svázanýma a s obvázanýma hlavou.
-Muž měl zranění způsobenou střelnou zbraní, která ho střelila do zátylku krku.
-Během poloviny měsíce byla hlášena poprava dvou mužů, kteří byli pokryti přikrývkami a ponecháni v kufru vozidla v ulici Villas de la Hacienda v obci Atizapán de Zaragoza, vedle obětí, byly také dvě výhrůžky smrtí.
-O den později byla v kolonii Valle de los Reyes nalezena lepenková krabice, která obsahovala lidskou hlavu v obci Los Reyes La Paz.
-V nedaleké kolonii byl nalezen v černém plastovém sáčku a zbytku těla se zprávou podepsaným "Nenapravitelným".
-Sedmnáctá, pokrytá přikrývkami, dvě ženy byly nalezeny mrtvé v Zoquiapanu v obci Ixtapaluca a následující ráno bylo tělo muže v Huixquilucanu nalezeno pokryté žlutou a modrou přikrývkou, pravděpodobně identifikovanou jako Mario Rios podle zprávy, kterou jeho popravčí nechali vedle něj.
-V Ixtapaluca, se střelnými výstřely v závoru, bylo nalezeno mrtvé tělo ženy ve městě San Francisco Acuakla.
-Na kůži ženy byly tetování Santa Muerte, stejně jako náhrdelníky s jejím obrazem.
-Během poslední části měsíce bylo na palubě automobilu nalezeno tělo muže v obci Zinacantepec s nejméně třemi výstřely.
-O dva dny později byla těla některých mužů s obrubčí hlavou a vzkazem v komunitě Puente de Piedra v Santiagu Tepatlaxco.
-Před těmito těly byla zpráva podepsaná zločineckou organizací, která uváděla: "To se stává těm, kteří se nepřizpůsobí."
-V Ecatepec, se známkami mučení a svázanýma nohama a rukama byla nalezena dvě těla uvnitř taxíku, který zanechalo Centrum spravedlnosti kolonie San Agustín.
-Poslední den měsíce byla nalezena těla dvou mužů v obcích Los Reyes de la Paz a Nezahualcóyotl.
-První z nich byla sťata v kolonii Cuchilla Ancon a byla umístěna do černých plastových sáčků, svázána skla a dále byla zpráva; zatímco druhá byla mučena a nalezena na plastovém trhu v ulicích kolonie Juárez.
-Vedle něj agenti našli kus kartonu se zprávou.
-Čína zachovala cíle snižování emisí skleníkových plynů
-Zástupce této země na COP16 ujistil, že jeho země vyvinula obrovské úsilí pro snížení uhlíkové dráhy a podrobně uvedla, že do roku 2020 udržuje svou nabídku na snížení emisí skleníkových plynů o 40 až 45%.
-Čína udržuje svou nabídku snížit své emise skleníkových plynů o 40 až 45 procent do roku 2020, ujistila Su Wei, zástupce Číny na COP16.
-Ve svém prvním veřejném vystoupení v 16. konferenci UJ o klimatických změnách (COP16) Su Wei ujistil, že jeho země vyvinula obrovské úsilí o snížení uhlíkové dráhy a opětovného přeměny svého průmyslu.
-Ve skutečnosti během posledních čtyř let jeho země investovala 245 milionů dolarů do snížení emisí skleníkových plynů.
-Nicméně dal jasně najevo, že Čína nebude měnit své cíle, ale bude i nadále spolupracovat s mezinárodním společenstvím v této věci.
-Dodal, že čínská strategie týkající se klimatické změny je rozdělena na čtyři části: dialog; výstavba kapacit; výstavba institucí a podpora pilotních programů.
-Ve všech těchto částech byly provedeny pokroky, včetně schválení, v loňském roce, nového energetického zákona, s cíli týkajícími se snížení emisí plynu, vysvětlil.
-Na druhou stranu zdůraznil, že v Číně federální orgány pracují na koordinovaném způsobu vztahu se státem a se státními a místními, aby dosáhly cílů úspor energie, využívání energie a snížení emisí.
-Kromě toho jsou rozvíjeny nebo jsou již uzavřeny různé víceleté plány, stejně jako mnoho financované čínskou vládou, například vládami jiných zemí.
-Odkazoval se například na Program efektivního využívání energie, který byl realizován v posledních pěti letech a který získal investice od Organizace spojených národů (ONU), vlády a soukromé iniciativy.
-K dispozici je také vyvinut provinční projekt klimatické změny, další pro změnu žárovek středisky ekonomivy a další zmírňování a adaptace, podrobně popsal.
-U stejného stolu Martin Krol, vědecký poradce vlády této země ve věci klimatických změn, ujistil, že čínské úsilí bylo větší, než bylo obecně vnímáno.
-Například uvádí, že emise skleníkových plynů na obyvatele v Číně jsou šest tun od člověka, zatímco ve Spojených státech je 100 tun; Čína je zodpovědná za 9 procent historického příspěvku k emisím skleníkových plynů.
-Také se snaží bez precedentu ve využívání energie, při zvyšování o 20 procent své energetické účinnosti za posledních pět let a očekává, že totéž učiní směrem k roku 2020, dodal.
-Zaopatře na legalitu vyhoštění Espina: Caesar Nava
-Národní vůdce PAN podrobně uvedl, že bývalý pekařský vůdce má právo jít k Komisi národního řádu, aby protestoval podle svých práv.
-Národní vůdce PAN, Caesar Nava Vázquez, ujistil, že vyhoštění Manuela Espina Barrientose bylo spojeno s legalitou a že bývalý vůdce má právo jít do Komise národního řádu, aby protestoval podle svých práv.
-V předchozím rozhovoru na protest Gabino Cué Monteagudo jako guvernér státu řekl, že stejně je vyhnání Espina rozhodnutím v místní oblasti.
-"Jde o nezávislé rozhodnutí Komise Řádu Sonory."
-„Pan. Espino má právo jít tam, kde je to vhodné, prostřednictvím nároku předloženého Komisi Řádu Národní rady, jako rozhodnutí přijato v rámci autorizovaného orgánu,“ napsal.
-Na druhou stranu objasnil, že není čas přemýšlet o roce 2012 a že nikdy nebyl v vyjednávacím stole aliance pro prezidentskou kandidaturu.
-Nava Vázquez byl přesvědčen, že Národní akce bude opevněna ve vnitřních volbách 4. a 5. prosince, kde bude vybrán jeho nástupce.
-To (aliance v roce 2012) je předmětem, o kterém se nikdy nediskutovalo u vyjednávacího stolu, nebo alespoň ne tak daleko, byla to expozice pro místní volby, která byla úspěšná a splnila cíl.
-Vůdce zdůraznil, že PAN je podporován 71 lety dialogu, což je důvod, proč „se nebojíme vnitřní konkurence; naopak „užíváme si to a posilujeme“.
-Řekl, že bez pochyby bude rada vědět, jak vybrat nejlepšího vůdce, než by Národní akce vyžadovala pro příští tři roky, z tohoto důvodu dá úřad, „kterému si rada vybere“.
-"Mám ten absolutní klid a otevřenost; komukoli z pěti bych byl hrdý na to, že jsem dal úřad prezidenta strany."
-Předpověděl, že vzestup, který strana zaregistrovala během minulých voleb 4. července, se bude odrážet v příštích bojích, i když „to ještě není čas přemýšlet o roce 2012“.
-"Zatím je to o doprovodu guvernéra Gabina Cuého v této povinnosti."
-V tomto rámci vyniklo, že tři vlády aliancí v Oaxace, Puebla a Sinaloa budou důvodem k pozorování v celé zemi, z tohoto důvodu „mnoho nadějí, toužení jsou do nich a jsem si jistý, že Gabino bude stejné jako výzvy“.
-Zatímco byl vyslýchán na kritiky PRI prezidenta Felipe Calderón pro jeho projev v rámci čtyř let jeho vlády, Cesar Nava požádal členy PRI, aby se zamysleli nad šestiletými funkčními obdobími bývalých prezidentů Ernesto Zedillo a Carlos Salinas de Gortari.
-Pokud si PRI myslí, že vlády Zedillo a Salinas byly lepší než vlády Foxe a Calderóna; měly by je začít bránit; a opustit skříni, potvrdil.
-Domníval se, že držitel federálního výkonného orgánu může říkat výrazy jako ty, které řekl během svého projevu v Národním auditu, protože v zemi neexistuje žádný roubík nebo cenzura.
-Podporovat Obamu v zákoně o Twitteru ve prospěch neregistrovaných studentů
-Pokud souhlasíte se souhlasem zákona o zákonu o zákonu o zákonu o snech, zavoláte svým senátorům a přinuťte je schválit tento zákon, tweetoval amerického prezidenta na populární sociální síti.
-Prezident Barack Obama se dnes připojil k národní mobilizaci podporující zákon o zákonu o snech, pro legalizaci neregistrovaných studentů, se zprávou ve svém osobním účtu sociální sítě Twitter.
-Pokud souhlasíte se schválením zákona o zákonu o zákonu o snech, zavoláte svým senátorům a přinutíte je schválit tento zákon, tweetoval Obama.
-Jeho krátká zpráva udržuje otevřenou kybernetickou spojitost s dostatečným dokumentem, který žádá veřejnost, aby okamžitě komunikovala se senátory, protože hlasování zákona je na spadnutí.
-Pokud bude brzy učiněno očekávané hlasování, nyní je čas, aby byl váš hlas vyslyšen, naznačuje to.
-Zpráva byla zveřejněna poté, co 42 republikánských senátorů pohrozilo, že zablokují hlasování jakéhokoli zákona, pokud nebude schváleno prodloužením škrtů z daní Bushovy éry a financováním vlády.
-Taková blokáda, oznámená v dopise podepsaném 42 republikánskými senátory, by mohla ovlivnit hlasování o zákonu o zákonu o snech a dalších projektech jako ratifikace nové smlouvy START s Ruskem proti šíření jaderných zbraní.
-Na otázku o republikánské blokádě zákona o právu Dream Act a dalších projektech prezidentský mluvčí Robert Gibbs věřil, že jakmile bude fiskální záležitost vyřešena, mohl by být vytvořen plán pro zbytek projektů.
+Následující den byla mrtvola subjektu nalezena v kufru uvnitř kufru vozidla, které zůstalo na ulici Mixtecas, v kolonii Santa Cruz Acatlán, z obce Naucalpan.
+Ve čtvrtek ráno čtyři muži našli tělo se známkami mučení a nejméně třemi smrtícími výstřely v hrudníku, na dálnici Tenango-Ixtapan de la Sal, v úseku překračující obec Villa Guerrero.
+Vedle těla byla zpráva podepsaná zločineckou organizací, rodina Michoacana.
+O den později byl v Nezahualcóyotlu, džentlmen 50 let, zavražděn osmi výstřely poté, co opustil svůj dům, aby sbíral odpadky.
+Sedmálistopadu byla dvě subjekty 30 lety zavražděny kulkou v hlavě v kolonii San Pedro Xaloxtoc, obce Ecatepec.
+V Chalcu, s výstřelem do čela, byla mrtvola muže nalezena v osamělé ulici Kolonie Naranjo a pod tělem našli případ perforovaný střelnou zbraní z kalibru 25.
+V Ecatepec byly části lidského těla nalezeny v černém vodním kanálu kolonie Playa Golondrina.
+Nouzové úřady podnikly vyčerpávající pátrání po ostatních členech těla, pokud se nenašli.
+Sousedé Tepotzotlánu hlásili, že našli mrtvolu v Pe a Colorada, s rukama svázanýma a s obvázanou hlavou.
+Muž měl ránu způsobenou střelnou zbraní, která ho střelila do zátylku.
+Během poloviny měsíce byla hlášena poprava dvou mužů, kteří byli zakryti přikrývkami a ponecháni v kufru vozidla na ulici Villas de la Hacienda v obci Atizapán de Zaragoza, vedle obětí tam byly také dvě výhrůžky smrtí.
+O den později byla v kolonii Valle de los Reyes v obci Los Reyes La Paz nalezena kartonová krabička, která obsahovala lidskou hlavu.
+V nedaleké kolonii bylo nalezeno vložené do černého plastového sáčku a zbytek těla se zprávou podepsaným "nenapravitelným".
+Sedmnáctá, pokrytá přikrývkami, byly nalezeny mrtvé v Zoquiapanu v obci Ixtapaluca a následující ráno byla nalezena mrtvola muže v Huixquilucanu pokrytá žlutou a modrou přikrývkou, pravděpodobně identifikovaná jako Mario Rios podle zprávy, kterou jeho křídové popravčí nechali vedle něj.
+V Ixtapaluce, se střelami v zátylku, bylo nalezeno mrtvé tělo ženy ve městě San Francisco Acuautla.
+Na kůži ženy se ozvaly tetování Santa Muerte, stejně jako náhrdelníky s jejím obrazem.
+Během poslední části měsíce byla na palubě automobilu nalezena mrtvola muže v obci Zinacantepec s nejméně třemi výstřely z kulky a tam byla také zpráva podepsaná zločineckou skupinou.
+O dva dny později byly v obci Puentte de Piedra v Santiagu Tepatlaxco nalezeny mrtvoly některých mužů s hlavou obrubníku a vzkazem.
+Před těly byla zpráva podepsaná zločineckou organizací, která uváděla: "To se stává těm, kteří se neshodují."
+V Ecatepecu byly nalezeny známky mučení a svázané nohy a ruce dvě těla, které zůstaly za ním I.
+Poslední den v měsíci byla těla dvou mužů nalezena v obcích Los Reyes de la Paz a Nezahualcóytol.
+První z nich byl sťat v kolonii Cuchilla Ancon a byl uložen do černých igelitových pytlů, svázaného skořicovým pásem a další byl vzkaz; zatímco druhý byl mučen a nalezen na plastovém trhu v ulicích kolonie Juárez.
+Vedle něj agenti našli kus lepenky se vzkazem.
+Čína udržuje cíle snižování emisí skleníkových plynů
+Zástupce této země na COP16 ujistil, že jeho země vynaložila obrovské úsilí na snížení uhlíkové dráhy a podrobně popsal, že do roku 2020 udržuje svou nabídku na snížení emisí skleníkových plynů o 40 až 45%.
+Čína udržuje svou nabídku snížit své emise skleníkových plynů o 40 až 45 procent do roku 2020, ujistila Su Wei, zástupce Číny pro COP16.
+Ve svém prvním veřejném vystoupení na 16. konferenci UJ o kalimatických změnách (COP16) Su Wei ujistil, že jeho země vynaložila obrovské úsilí na snížení uhlíkové stopy a rekonstrukci svého průmyslu.
+Během posledních čtyř let jeho země investovala 245 milionů dolarů do snížení emisí skleníkových plynů.
+Přesto dal jasně najevo, že Čína nebude upravovat své cíle, ale bude v této věci pokračovat ve spolupráci s mezinárodním společenstvím.
+Dodal, že čínská strategie týkající se otázky klimatické změny je rozdělena na čtyři části: dialog; výstavba kapacit; výstavba institucí a podpora pilotních programů.
+Ve všech těchto částech byly dosaženy pokroky, včetně schválení nového energetického zákona v loňském roce, s cíli, pokud jde o snížení emisí plynu, vysvětlil.
+Na druhou stranu zdůraznil, že v Číně federální úřady pracují na koordinované cestě a státními a místními, aby dosáhly cílů úspor energie, využívání účinné energie a snižování emisí.
+Kromě toho existují rozvinuté nebo jsou již uzavřeny různé víceleté plány, stejně jako tolik financované čínskou vládou, jako jsou vlády jiných zemí.
+Odkázal například na Program efektivního využívání energie, který byl realizován během posledních pěti let a který získal investice od Organizace OSN (ONU), vlády a soukromé iniciativy.
+Rozvíjí se také provinční projekt klimatických změn, další pro změnu klasických center ekonomiéry a další zmírňování a adaptace, podrobil.
+U jednoho stolu Martin Krol, vědecký poradce vlády této země ve věci klimatické změny, ujistil, že úsilí Číny bylo větší, než se obecně domnělo.
+Například uvádí, že emise skleníkových plynů na obyvatele v Číně činí šest tun podle osob, zatímco ve Spojených státech je 100 tun; Čína je zodpovědná za 9 procent historického příspěvku k emisím skleníkových plynů.
+Také se snaží bezprecedentního využívání energie, zvýšit o 20 procent její energetickou účinnost za posledních pět let a očekává se, že se uskuteční totéž k roku 2020, dodal.
+Odpuštěno k vyhnání Espina: Caesar Nava
+Národní vůdce PAN podrobně popsal, že bývalý vůdce je v jeho právu jít do Komise národního pořádku, aby protestoval podle svých práv.
+Národní vůdce PAN, Caesar Nava Vázquez, ujistil, že vyhnání Manuela Espina Barrientose bylo spojeno s legálností a že bývalý vůdce má právo jít do Komise národního pořádku, aby protestoval podle jeho práv.
+V předchozím rozhovoru na protest Gabina Cué Monteaguda jako guvernéra státu řekl, že každopádně je vyhoštění Espina rozhodnutím učiněným v místní oblasti.
+"Jde o nezávislé rozhodnutí Komise o Řádu Sonory."
+"Pan. Espino má právo jít, pokud je to vhodné, prostřednictvím žádosti vznesené Komisi pro Řád Národní rady, což je rozhodnutí přijatým v rozsahu povoleného orgánu," napsal.
+Na druhou stranu upřesnil, že není čas přemýšlet o roce 2012 a že nikdy nebyl v jednacím stole spojenectví pro prezidentskou kandidaturu.
+Nava Vázquez byl přesvědčen, že Národní akce bude opevněna ve vnitřních volbách čtvrtého a pátého prosince, kde bude vybrán jeho nástupce.
+To (aliance v roce 2012) je téma, o kterém se nikdy neprobíralo u jednacího stolu, nebo alespoň zatím, byla to výklad pro místní volby, která byla úspěšná a splnila cíl," zmínil.
+Vůdce zdůraznil, že PAN je podporován 71 lety dialogu, což je důvod, proč "se nebojíme vnitřní soutěže; naopak "užíváme si to a činíme silnějšími".
+Řekl, že bez jakýchkoliv pochybností bude rada vědět, jak si vybrat nejlepšího vůdce, než by Národní akce vyžadovala na další tři roky, a to z tohoto důvodu dá úřadu, "kterému si rada vybere".
+"Mám absolutní klid a otevřenost; pro každého z pěti by byl hrdý na to, že jsem dal úřadu předsedy strany."
+Předpověděl, že vzestup, který strana zaregistrovala během minulých voleb 4. července, se projeví v dalších soubojích, i když "ještě není čas na přemýšlení o roce 2012".
+"Zatím jde o to doprovázet guvernéra Gabina Cué v této povinnosti."
+V tomto rámci vyniklo, že tři vlády aliancí v Oaxace, Puebla a Sinaloa budou důvodem pozorování v celé zemi, z tohoto důvodu "mnoho nadějí, touhy jsou v nich vloženy a jsem si jistý, že Gabino bude rovnat výzvám".
+Cesar Nava byl vyslýchán na kritiky PRI prezidentu Felipe Calderónovi za jeho projev v rámci čtyř let jeho vlády, požádal členy PRI, aby se zamysleli nad 6 lety funkčních období bývalých prezidentů Ernesteho Zedilla a Carlose Salinase de Gortariho.
+Pokud si PRI myslí, že vlády Zedilla a Salinase byly lepší než vlády Foxe a Calderóna; měly by je začít bránit a opustit skříň, potvrdil.
+Domníval se, že držitel federální exekutivy může říci výrazy jako ty, které řekl během svého projevu v Národním publiku, protože v zemi není žádný roubík nebo cenzura.
+Propagujte Obamu v právu Twitteru ve prospěch studentů bez dokladů
+Pokud souhlasíte se schválením zákona o právu snů, zavoláte senátory a přiměje je schválit tuto legislativu, napsali americkému prezidentovi na populární sociální síti.
+Prezident Barack Obama se dnes připojil k národní mobilizaci podporující zákon o právu Dream Act za legalizaci studentů bez dokladů, se vzkazem na jeho osobním účtu sociální sítě Twitter.
+Pokud souhlasíte se schválením zákona o snech, zavoláte svým senátorům a přimějete je schválit tuto legislativu, tweetoval Obama.
+Jeho stručné poselství udržuje otevřenou kybernetický odkaz s dostatečným dokumentem, který žádá veřejnost, aby okamžitě komunikovala se senátory, protože hlasování o legislativě je na spadnutí.
+Pokud je brzy učiněno očekávané hlasování, nyní je okamžikem, kdy bude váš hlas slyšet, naznačuje.
+Zpráva byla zveřejněna poté, co 42 republikánských senátorů pohrozilo, že zablokuje hlasování o jakékoli legislativě, pokud nebude schváleno prodloužením škrtů daní Bushovy éry a financování vlády.
+Taková blokáda, oznámená v dopise podepsaném 42 republikánskými senátory, by mohla ovlivnit hlasování o zákonu o Dream Act a dalších projektech jako ratifikaci nové smlouvy START s Ruskem proti šíření jaderných zbraní.
+Na otázku o republikánské blokádě zákona o snech a dalších projektech prezidentský mluvčí Robert Gibbs věřil, že jakmile bude fiskální záležitost vyřešena, může být stanoven harmonogram pro zbytek projektů.
 "Myslím, že je spousta času..."
-"Všichni se shodneme na tom, že fiskální otázka by měla být vyřešena do konce roku."
-"Věřím, že v této věci můžeme dosáhnout dohody a později můžeme naplánovat sekvenci zbytku," řekl.
-Vůdce demokratické většiny v Senátu Harry Reid v úterý oznámil, že budou požadovat "hlasování o uzavření debaty" pro zákon o zákonu o snech, důvod, proč by iniciativa legalizace neregistrovaných studentů mohla být příští čtvrtek v Senátu zvolena, i když příští týden je pravděpodobnější.
-Senátorská verze zákona o snech nebo zákon amerického snu by legalizovala asi 800 tisíc mladých lidí, kteří vstoupili do Spojených států před dosažením věku 16 let; v zemi zůstalo posledních pět let a vstoupilo buď do vysokoškolské instituce, nebo do armády.
-Ale ti, kteří jsou pro, vyžadují 60 hlasů pro schválení iniciativy, což vyžaduje účast republikánů, když podpůrné organizace projektu provádějí intenzivní lobbování, aby zaručily její schválení.
-Demokraté, z nichž většina podporuje Dream Act, se počítají s 58 křesly.
-Nicméně alespoň jeden z nich, senátor Ben Nelson z Nebrasky, řekl, že bude hlasovat proti, a pouze republikán vyjádřil svou podporu zákonu, Richard Lugar z Indiany.
-Z tohoto důvodu ti, kteří jsou pro Dream Act, vyžadují shromáždění několika republikánů v případě, že by se ostatní demokraté rozhodli otočit zpět k iniciativě.
-Mezi nejvíce podporované republikány jsou senátoři Maine, Olympia Snowe a Susan Collins, stejně jako senátor George Lemieux z Floridy, který dokončil mandát senátora Mela Martineze.
-Dalšími republikány, kteří v minulosti podporovali Dream Act, jsou Orrin Hatch z Utahu a Kay Bailey Hutchinson z Texasu, ale prohlásili, že se znovu nevrátí.
-Další republikán, který byl pro, John McCain, v tuto chvíli nedefinoval svůj postoj.
-Ačkoli má Sněmovna reprezentantů jinou verzi, analytici se shodují, že Dream Act čelí hlavním překážkám v Senátu.
+"Všichni souhlasíme s tím, že fiskální otázka by měla být vyřešena do konce roku..."
+"Věřím, že v této věci můžeme dosáhnout dohody a později můžeme naplánovat sled zbytku," řekl.
+Předseda demokratické většiny v Senátu Harry Reid v úterý oznámil, že požádají o "hlasování o uzavření debaty" pro zákon o snech, důvod, proč by mohla být iniciativa legalizace studentů bez dokladů odhlasována příští čtvrtek v Senátu, i když příští týden je pravděpodobnější.
+Senátorská verze Dream Act nebo zákon amerického snu by legalizovala asi 800 tisíc mladých lidí, kteří vstoupili do Spojených států před dosažením věku 16 let; zůstali v zemi v posledních pěti letech a vstoupili buď do vysokoškolské instituce, nebo do armády.
+Ti, kteří jsou však pro, vyžadují 60 hlasů pro schválení iniciativy, což vyžaduje účast republikánů, když podpůrné organizace projektu provádějí intenzivní lobbing, aby zaručily její souhlas.
+Demokraté, z nichž většina podporuje Dream Act, počítají s 58 křesly.
+Minimálně jeden z nich, senátor Ben Nelson z Nebrasky, nicméně prohlásil, že bude hlasovat proti, a pouze republikán vyjádřil svou podporu zákonu, Richard Lugar z Indiany.
+Z tohoto důvodu ti, kteří jsou ve prospěch Dream Act, vyžadují shromáždění několika republikánů pro případ, že se ostatní demokraté rozhodnou obrátit zpět na iniciativu.
+Mezi nejasistovanější republikány patří senátoři Maine, Olympia Snowe a Susan Collins, stejně jako senátor George Lemieux z Floridy, který dokončil mandát senátora Mela Martineze.
+Dalšími republikány, kteří v minulosti podporovali Dream Act, jsou Orrin Hatch z Utahu a Kay Bailey Hutchinson z Texasu, ale prohlásili, že se znovu neobrátí zády.
+Další republikán, který byl pro, John McCain, v tuto chvíli svůj postoj nedefinoval.
+Přestože má Sněmovna reprezentantů jinou verzi, analytici se shodují na tom, že Dream Act čelí hlavním překážkám v Senátu.
 S literaturou na to mohou dát prst
-Druhé kolo Požitků z jazyka bylo procházka, nad kterou účastníci přijali vyprávění.
-To o sexu v jazyce, kterému rozumím, ale... ten prst na něm? Co se od mě očekává, že budu dělat?, Zeptala se spisovatelka Luisa pozvala Valenzuelu, aby otevřela druhé kolo potěšení z jazyka, události, která oslavuje literaturu ve španělštině a která tentokrát použila podtitul svého dotazu (dalším způsobem byl kulatý stůl věnován sexu v jazyce, vysvětlila).
-Prst na něm... „To nás staví do obtížné pozice,“ řekl sladce přímo argentinský spisovatel pro veřejnost, hlavně mladých lidí, kteří se setkali na Mezinárodním veletrhu knihy Guadalajara (FIL) poslouchat tento kulatý stůl moderovaný Marisoltz a zúčastnil se Valenzuela, Sergio Ramirez, Mayra Montero a Luis Garcia Montero všichni.
-Luisa Valenzuela četla text, který věnovala Gonzalu Celorio a že Shultz by později definoval jako skvělý příběh, s Luisou v první osobě jako protagonista, který hledá znalosti známé jako "to", jde od lékaře k lékaři, od kterého nezískává odpovědi, i když uvízne ve stejném narativním vláknu.
-Opouští lékaře přesvědčena: "Možná, že trpělivost není moje silná, možná je to moje bolest."
-Nakonec, po frustrujícím přístupu s traumatickým lékařem, který objasňuje, že bolavý není vědecký termín; je to psychoanalytik, který rozkládá tajemství: "bolest je skutečná otevřená věc; symbolická věc je jizva."
-Protagonista vzdychl a dospěl k závěru „na bolestech, kterou jsem jen dokázal, že skutečná věc je otevřená a že neexistuje,“ ale přesvědčena, že potěšení a triky jazyka musí být smíšené.
+Druhé kolo potěšování jazyka bylo procházkou, po které účastníci uzákonili vyprávění.
+Tomu sexu v jazyce, rozumím tomu, ale... prst na něm? Od mě očekává, že budu dělat?, dotazovaná spisovatelka Luisa pozvala Valenzuelu pozvánku na otevření druhého kola potěšení z jazyka, události, která oslavuje literaturu ve španělštině a která tentokrát použila titulek její otázky (jiným způsobem, jak se kulatý stůl věnoval sexu v jazyce, vysvětlila).
+Prsek na něm... "uvádí nás to do obtížné pozice," řekl sladce přímo argentinský spisovatel veřejnosti, hlavně o mladých lidech, kteří se setkali v Mezinárodním veletrhu knihy Guadalajary (FIL), aby si poslechli tento kulatý stůl moderovaný Marisolem Shultzem a zúčastnil se Valenzuela, Sergio Ramirez, Maya Montero a Luise Montero.
+Luisa Valenzuela četla text, který věnovala Gonzalo Celorio a že Shultz bude později definovat jako skvělý příběh, s Luisou v první osobě jako protagonistkou, která hledá znalosti známé jako "to", jde od lékaře k lékaři, od kterého nezíská odpovědi, i když uvízne ve stejném narativním vlákně.
+Nechá lékaře přesvědčeného: "Možná trpělivost není moje silná, možná je to moje bolavost."
+Nakonec, po frustrujícím přístupu s traumatickým lékařem, který objasňuje tento bolavý, není vědecký termín; je to psychoanalytik, který rozplétá záhadu: "bolest je skutečná otevřená věc; symbolická věc je jizva."
+Protagonista si povzdechl a uzavřel "na vředově jsem se jen podařilo vědět, že skutečná věc je otevřená a že neexistuje", ale přesvědčen, že potěšení a triky jazyka musí být smíšené.
 Valenzuela, spisovatel, hrál s oběma.
-Nikaragujský Sergio Ramirez také vykazoval nádherné vyprávění, které s názvem Chvála vynálezu, kde prst na bolaku není pojmenován, ale je objeven.
-V širších termínech magického realismu vypráví příběh slavné čarodějnice, která tím, že se dotkla mraků, přivedla zpět muže, kteří odešli daleko nebo opravili ctnosti ztracené služkou, vyprávěním, které se změnilo v mluvení o Americe, velký román, který od samého začátku nechyběl její vlastní krolek, kteří to řekli a zmínili Bernal Diaz del Castillo, který kritizuje excesy věcí vyprávěných dobyvateli.
-Cervantes, který nás všechny (spisovatele) vymyslel falešné svědky, kteří se objevili v dějinách, prezentovány jako skutečné, ale jinak by nikdy neřekl historii Ameriky s představivostí, která postrádá plachost.
-Nicméně zdůraznil, že „blázniví lidé a lháři jsou ti, kteří si nejlépe představují věci“ a je to místo, kde je realita a lež smíšená, kde člověk ví, zda vyprávěná věc patří na jednu nebo druhou stranu, kde fiktivní literatura dosahuje svého apogea.
-Ve skutečnosti se nazývá "Cervantesova tradice.
-"Pro jeho filozofii: jsme to, co se nám říká."
-Pokud jde o ni, spisovatelka Mayra Montero viděla a tleskala různým interpretacím, které pozvání FIL způsobuje s jejím kulatý stolem prstem na bolavém.
-Kubánsko-Puerto Ricanová namířila svou vlastní směrem k velkému vředu sociálního násilí, které překračuje její zemi - a rozděluje Latinskou Ameriku - produkt sporů o obchod a prodej drog.
-Věřím, že dobrá literatura, dobrá poezie, dobré písně uzamknou tichý závazek, který samozřejmě není předem promyšlený, indikován poté, co se zmínil, že realita literatury je komunikace a rozměr závazku, který se usadí mezi autorem a čtenáři, a to je jedna „chemická reakce“ tohoto posledního.
-Noc byla uzavřena španělským básníkem Luisem Garciou Montero, jehož zásah také kladl důraz „že prst na bolest spisovatele oddaného psaní“.
-Uvažoval o tom, že ve světě, který žije ve spěchu, také v intelektuálních zvycích a v kontrole vědomí, že má účinky na dogmatismy, a zapomněl, že „za každou afirmací je malé a za každou negací je malé ano“.
-"Abychom byli vlastníky naší myšlenky a reality, musíme objasnit: a objasnit často znamená dát prst na bolest a obtěžovat ty lidi, kteří jsou mnohem pohodlnější přemýšlet o karikatuře, v černém a bílém, v myšlenkách stanovených bez stínu a také obtěžovat si síly, které dávají přednost černému a bílému světu," řekl a vyzval, aby obnovil pocit psaní.
-Romano míří ke svému prvnímu titulu
-Rubén Roman Omar počítá se třemi porážkami ve finále, které mají během jeho kariéry vzestupy a pády, ale věděl, jak dosáhnout ve třech případech rozhodující sérii.
-S duelem Santos Laguna a Monterrey ve finále, navíc dva různé styly označené tváří svých techniků, kteří se nacházejí navzájem s kontrastem povlakovaným výsledky.
-Rubén Roman Omar se počítá se třemi porážkami ve finále, které mají během své kariéry vzestupy a pády, ale věděl, jak dosáhnout na třech příležitostech rozhodující sérii, i když až dosud nedosáhl cíle a to je důvod, proč je tato příležitost pro něj velmi zvláštní.
-Argentinec skončil utěšován s medailí runner-up, a zůstal jeden krok za vítězi a zvláštně s podobným vybavením hrál po sobě jdoucí finále.
-Santos přišel do svého prvního finále jako trenér v úvodním zápase roku 2002, kdy převzal otěže Morelia, s níž klesl na 4-2 před Toluca; později, v závěrečném závodě v roce 2003, také přišel do rozhodujícího souboje a ztratil to také na 3-1 a dokonce před Rayadosem.
-Již se Santosem Lagunou, v Bicentennial Match of 2010 opět před Los Diablos, Rubén trpí opět opačně, protože jeho tým skončil stejně míst 2-2 před páry makes-tárůst po 210 minutách hry, ale v pořadí penalt se ve prospěch 3-1 se dvěma příležitostmi k zpečetit titul, ale nakonec tři hráči selhali z 11 kroků a utrpěli změnu 4-3.
-Rubén již prohrál dvě finále s Diablosem Rojosem a jedno s Monterreym, jeho soupeřem, proto nechce vydržet stejný osud, chce poprvé oslavit titul a potvrzuje, že nejdůležitější věcí pro něj je instituce.
-Chci být šampionem, nechci zlomit žádnou statistiku, to je pro klub, pro vášeň a v důsledku toho titul přijde ke mně, ale předchozí věc je důležitější, komentoval kormidelníka, když byl dotazován na čísla, proti kterým má tím, že hraje finále.
-Velmi efektivní má předchozí finále, ze kterého se, jak ujišťuje, se hodně naučil, "jedinou poučením, které se můžeme naučit, je, že dokud rozhodčí signalizuje konec, který nemůžeme oslavovat, připravujeme se stejně jako hráči, protože předchozí čas, se dvěma penaltami jsme se chystali odejít a věřím, že je to lekce, kterou je třeba se naučit, nemůžeme oslavovat až do konce hry."
-Vědět, že tato série by mohla být definována v pokutových kopech, něco, co ho netrápí, protože mu důvěřuje svým hráčům: „Jeden by nikdy neměl hledat jít na penalty, ale spíše skončit v pravidelném čase; někdy nemáte žádnou alternativu a je nutné být připraven; v předchozím zápase jsme byli připraveni, bohužel osud hrál do našich rukou; někdy nervy nebo úzkosti pro to, že máme titul v rukou, ale my jsme nedosáhli tohoto cíle, a to nám nechalo něco pro to, že jsme vyhráli.
-Roman by měl přestat být technickým finalistou a ochutnávat poprvé slávu, kterou tituly dávají.
+Nikaraguj Sergio Ramirez také vyznačil nádherné vyprávění, které nazvalo chválu vynálezu, kde prst na bolivu není pojmenován, ale je objeven.
+V širokém slova smyslu magického realismu vypráví příběh slavné čarodějnice, která se dotýkání mraků přivedla zpět muže, kteří odešli daleko nebo opravili ctnosti ztracené sludou, vyprávění, které se změnilo v mluvení o Americe, velký román, který nešlý od samého začátku jeho vlastní kronikáře, kteří ho vyprávěli, a zmínil Bernal Diaz del Castillo, který kritizuje exces věci vyprávěné nadbytkem kapitánů.
+Cervantes, kteří nás všechny (scenovatelé) vycítili, se smál falešným svědkům, kteří se objevili v dějinách prezentovaných jako skutečný, ale jinak by nikdy neřekl historii Ameriky s představivostí, která postrádá plachost.
+Nicméně zdůraznil, že "šílení lidé a lháři jsou ti, kteří si nejlépe představují věci" a je to místo, kde je realita a lež smíšená, kde člověk ví, zda vyprávěná věc patří té či oné straně, kde fialfikovaná literatura dosahuje svého apogea.
+Ve skutečnosti se jmenuje "Cervantesova tradice.
+"Pro svou filozofii: jsme to, co se nám říká."
+Pokud jde o ni, spisovatelka Mayra Montero viděla a tleskala rozmanitosti interpretací, které pozvání FIL způsobuje svým kulatou ubrusem.
+Kubánsko-Puerto Rican namířila svou vlastní směrem k velkému bolanému sociálnímu násilí, které překračuje její zemi - a rozděluje Latinskou Ameriku - produkt sporů o dopravu a prodej drog.
+Domnívám se, že dobrá literatura, dobrá poezie, dobré písně uzamknou tichý závazek, který samozřejmě není promyšlený, naznačil, že realita literatury je komunikace a rozměr závazku, který se usazuje mezi autorem a čtenáři, a to je jedna "chemická reakce" tohoto posledního.
+Noc byla uzavřena španělským básníkem Luisem Garciou Monterem, jehož intervence také kladl důraz na "že prst na bolaného spisovatele se zavázal k psaní".
+Uvažoval o tom, že ve světě, který žije ve spěchu, také v intelektuálních zvycích a kontrole vědomí, že má účinky v dogmatismech, a zapomněl, "že za každým potvrzením je malé ne a za každou negací je malé ano".
+"Abychom byli majiteli našeho myšlení a reality, musíme objasnit: a objasnit často znamená dát prst na bolavý a obtěžovat ty lidi, kteří jsou mnohem pohodlnější přemýšlet o karikatuře, v černé a bílé, v myšlenkách zavedených bez stínu a také obtěžovat se mocnostem, které dávají přednost černobílému světu," řekl a vyzval, aby získal zpět smysl pro psaní.
+Romano jde ke svému prvnímu titulu
+Rubén Roman Omar počítá se třemi porážkami ve finále, během své kariéry vzestupů a pádů, ale věděl, jak dosáhnout ve třech příležitostech rozhodující sérii.
+S duelem Santose Laguny a Monterreyho ve finále, navíc dva různé styly označené tváří svých techniků, kteří se navzájem nacházejí s kontrastem poznamenaným výsledky.
+Rubén Roman Omar počítá se třemi porážkami ve finále, které mají během své kariéry vzestupy a pády, ale věděl, jak dosáhnout při třech příležitostech rozhodující série, i když až dosud nedosáhl na cíl a to je důvod, proč je pro něj tato příležitost velmi zvláštní.
+Argentinec skončil s medailí na druhém místě a zůstal o krok za vítězi a zvláštně s podobným vybavením hrál po sobě jdoucí finále.
+Santos přišel do svého prvního finále v úvodním zápase 2002, kdy převzal otěže Morelie, s nimiž spadl na 4-2 před Tolucou; později, v závěrečné soutěži 2003 také dorazil do rozhodujícího duelu a prohrál také na 3-1 a skutečně před Rayadosem.
+Už se Santosem Lagunou, v dvoustém zápase 2010 znovu před Los Diablosem, Rubén znovu trpí obráceně, protože jeho tým skončil stejně místa 2-2 před klobásy po 210 minutách hry, ale na druhé straně penalt se vyrovnal 3-1 se dvěma příležitostmi zpečetit titul, ale nakonec tři hráči selhali z 11 kroků a utrpěli změnu 4-3.
+Rubén už prohrál dvě finále s Diablosem Rojosem a jedno s Monterreym, jeho soupeřem, proto nechce snášet stejný osud, chce poprvé slavit titul a tvrdí, že nejdůležitější pro něj je instituce.
+Chci být šampionem, nechci zlomit žádnou statistiku, to je pro klub, pro vášeň a v důsledku toho se mi titul dostane, ale předchozí věc je důležitější, komentoval kormidelníka, když byl dotazován na čísla, proti kterým má, tím, že hraje finále.
+Velmi efektivní má předchozí finále, ze kterého, jak ujišťuje, se hodně naučil, "jediné poučení, které se můžeme naučit, je, že dokud rozhodčí signalizuje konec, který nemůžeme oslavit, připravujeme se stejně jako hráči, protože předchozí, se dvěma penaltami, které jsme se chystali odejít, a věřím, že je to lekce, kterou je třeba se naučit, nemůžeme slavit, dokud hra neskončí."
+Vědomí, že tato série by mohla být definována v pokutových kopech, něco, co ho netrápí, protože věří svým hráčům: "Člověk by nikdy neměl vypadat, že jde na penalty, ale spíše skončit v pravidelném čase; někdy nemáte žádnou alternativu a je třeba být připraven; v předchozím zápase jsme byli připraveni, bohužel osud hrál do našich rukou; někdy nervy nebo úzkost za to, že jsme měli titul ve venku rukou, ale my jsme nedosáhli na tento cíl."
+Říman by měl přestat být technickým finalistou a poprvé ochutnávat slávu, kterou tituly dávají.
 EU mění pravidla pro získání víza
-Žadatelé budou muset jít do center Attendance pro žadatele o Visa před jejich rozhovorem v konzulární sekci; náklady budou menší a tak budou čekací doby.
-Od 10. ledna 2011 bude změněn postup vydávání víza na velvyslanectví Spojených států a konzulátů.
-S novým postupem bude muset většina žadatelů jít do návštěvnických středisek pro žadatele o Visa (ASC, jejími anglickými zkratkami) před jejich pohovorem v konzulárním oddělení.
-Zaměstnanci ASC převezmou biometrické informace žadatele, které budou před pohovorem přezkoumány konzulárním oddělením.
+Žadatelé budou muset před pohovorem v konzulárníkové sekci jít do center návštěvnosti pro žadatele o víza; náklady budou menší a stejně tak čekací doby.
+Od 10. ledna 2011 bude pozměněn postup udělování víza na velvyslanectví Spojených států a konzulátech.
+Novým postupem bude muset většina žadatelů před pohovorem v konzultační sekci v konzulární sekci přejít do docházkových středisek pro žadatele o víza (ASC, podle svých anglických zkratů).
+Pracovníci ASC převezmou biometrické informace o žadateli, které budou před pohovorem přezkoumány konzulárním oddělením.
 Nový postup bude mít pro žadatele určité výhody, mezi něž patří:
-Celkové náklady na vydání víza budou menší; již nebude nutné provést platbu za účelem získání schůzky, další platba za účelem zpracování žádosti o vízum a další, aby služba korespondence poskytla doklad.
-Žadatel podá pouze jednu platbu, která bude pokrývat tři služby.
-Tento tarif zůstane nezměněn: ekvivalent 140 dolarů za turistické vízum, 150 dolarů pro případy víz s žádostí (včetně víz pro dočasné pracovníky) a 390 dolarů pro víza maloobchodníků a investorů.
-Lidé, kteří chtějí obnovit své vízum, nebudou muset jít na pohovor s konzulárním úředníkem, ale budou muset jít pouze do nejbližšího ASC, kde předloží své dokumenty a budou mít odebrány otisky prstů.
-Vzhledem k tomu, že biometrické informace budou získány v ASC, žadatelé, kteří vyžadují druhé datum pro rozhovor v konzulárním oddělení, se zúčastní ještě jednoho času než dříve.
-Také ti, kteří žádají o vízum na konzulátech Ciudad Juárez, Monterrey a Nuevo Laredo, již nebudou platit dodatečný clo na služby ve výši 26 dolarů.
-Další informace o novém postupu pro žádost o vízum navštivte následující stránku http://mexico.usembassy.gov/boletines/sp101201_Visas-FAQs.htm
-NASA oznámí objev mimozemského života
-Americká kosmická agentura zítra zavolala tisk, aby předložila objev, který způsobí dopad při hledání živých bytostí ve vesmíru.
-Národní správa pro vesmír a letectví (NASA) Spojených států představí zítra, čtvrtek, astrobiologický objev, který by mohl dokázat teorii, že existuje mimozemský život.
-Objev bude prezentován na tiskové konferenci ve čtvrtek ve 13:00 v ústředí NASA ve Washingtonu odborníky na astrobiologii; věda popsaná jako ta, která studuje původ, evoluci, distribuci a budoucnost života ve vesmíru.
-Když NASA volala do tisku, ujistila, že představí „objev, který způsobí dopad při hledání mimozemského života“, což vyvolalo spekulace odborníků v jiných zemích.
-Objev by mohl dokázat teorii, že existují tvorové, kteří vypadají jako my žijící v nepřátelských prostorech, které jsou považovány za neobyvatelné, a položily by na stůl možnost, že se stanou inteligentními bytostmi jako lidé, pokud zlepší své životní podmínky.
-Zdá se, že se točí kolem mikrobu, který byl nalezen na dně opičího jezera v národním parku Yosemite v Kalifornii, kde žije v prostředí, které bylo považováno za příliš jedovaté pro jakoukoli formu života, protože jezero je bohaté na arsen.
-Stvoření používá arsen jako prostředek k přežití a mimo tuto schopnost zvyšuje možnost, že podobný život by mohl existovat na jiných planetách, které nemají naše laskavé prostředí.
-Podle astrobiologů, pokud tyto organismy používají arsen ve svém metabolismu, bude prokázáno, že „opravdu existuje jiná forma života, druhá forma života, odlišná od té, kterou známe“.
-Kosmická agentura představí plný rozsah objevů na tiskové konferenci zítřka ze čtvrtka.
-Pamela Conradová, která studuje možnost života na Marsu, a biolog Steven Benner, jeden z vědců, kteří studují Titan (větší Saturnův měsíc), pod perspektivou, že jeho chemie je podobná té z planety, se konference zúčastní.
-Gesta PRD, PT, Convergencia a Patronův soupeř "blok"
-S reformami ekologického zákona Kongresu se objeví „systém dvou stran“, říkají.
-Zákonodárce 60 nebyl vyřešen, když vznikl konkurenční blok v Kongresu, vedený zástupci PRD, PT, Convergencia a Jesus Manuel Patron Montalvo, který se prohlásil za nezávislého, a čtyři zpochybnili jednu věc: příchod „dvoustranného systému“ do kamery.
-Před zahájením zasedání založení 60 zákonodárců, Felipe Manzanarez Rodriguez z Convergencia; Ezequiel Reynoso Esparza, z PT; Javier Corvera Quevedo, z PRD; a Patron Montalvo, byli proti reformě statutárního zákona, vzhledem k tomu, že je to vyloučilo.
-S touto reformou, zopakovali, zahájí „systém dvou stran“, protože nyní budou existovat dva zástupci a stejný počet stran, které budou kontrolovat Kongres.
-Tito čtyři zástupci spolu s Glorií Margaritou Santos Aguilarovou, koordinátorkou PRD, byli jediní, kdo hlasovali proti tabulce směrnice, vedené stoupencem PAN Salvadorem Lopezem Britem a Luisem Cardenasem Fonsecou, v jeho charakteru viceprezidenta.
-Corvera Quevedo podrobně uvedla, že tyto reformy institucionálně představují politickou marginalitu z PRI a PAN.
-Podrobně popsal, že v blízké budoucnosti budou hovořit se zástupci PAN a PRI, aby změnili schéma, počínaje politickou závětí, a pokud ho nemají, pak jim budou opět dominovat oběma stranami a tímto způsobem byla konkurenční koalice ukončena.
-Jak daleko se dostali (konkurenční koalice), je to, co vidím, protože jsme vyloučeni z jakéhokoli rozhodnutí, nemají ani politickou úctu k zvážení názoru ostatních.
-Felipe Manzanez Rodriguez z Convergencia uvedl, že s PRD, PT a Patronem existují náhody a z tohoto důvodu tvoří plurální skupinu.
-Není možné dovolit, pokračoval, že Kongres poté, co byl monopolistický, je nyní „systémem dvou stran“.
-"Není to duch reformy zákona, který má v Kongresu věčný systém dvou stran.
-Aby mohla začít, tato skupina iniciuje s pěti zákonodárci a jedná s dalšími společníky, aby mohli být více, dodal konvergenci.
-Ezequiel Reynoso Esparza z PT vysvětlil, že v současné době se Kongres stal „plunderem“ mezi dvěma, s odkazem na PAN a PRI.
-Předtím to byla jen jedna strana, nyní je rozdělena mezi dvě.“
-Patron Montalvo požádal, aby byla respektována osobnost zástupce a dala mu jeho místo u vyjednávacích stolů.
-Ne pro dohody vůdců, měly by být ponechány mimo 5 a pravděpodobně budeme 9 poslanců, právě teď pět, které vidíme, rozděleni do různých zlomků, jsme se rozhodli, že budeme hledat místo v vyjednávacím stole, což je téma reformy, kterou rozhodli, jsme venku a s touto reformou nesouhlasíme.
-200 dolarů více pro poskytovatele
-Městská rada Mazatlánu vyplácí další šek vyslyšenému majiteli společnosti elektrických zařízení.
-Další kontrola více než 200 tisíc pesos ve prospěch Lorena Guadalupe Camacho Palazuelos byla vydána městskou radou.
-S tím částka, která byla vyplacena v tomto druhém semestru majiteli společnosti vyrábějících elektrická zařízení, vyšplhá na 1 milion 200 tisíc pesos.
-Ve shodě s dokumentem o transparentnosti obce bylo 16. listopadu vydáno toto poslední kontrolní číslo 9258447 s částkou 200 tisíc 144 56 pesos, podle konce „likvidace účtů, které mají být zaplaceny“.
-Pokladník Luis Miguel Lopez Moreno již dříve uvedl, že jsou placeni více peněz od obce ve prospěch tohoto dodavatele, který byl pozorován vyšším auditem státu za prodej za vyšší cenu.
-To, co nebylo hlášeno, je součet, který ještě musí být zaplacen, a proto kolik šeků musí být vydáno Camacho Palazuelos.
-Nic nebylo koupeno, jednoduše zaplatí dodavateli, které vlastní částky, jak řekl zbytek poskytovatelů, v rozhovoru.
-Poslední kontroly „se objevily“ v posledním čtvrtletním roce: 24. září, dva vydané 15. října 19. října, 29. října a tento poslední, 16. listopadu.
-Ačkoli dodavatel ještě nebyl zveřejněn v oficiálních novinách státu, jak se tvrdí zákon, když je společnost dotazována společností ASE, aby se zabránilo tomu, aby ostatní vlády využívaly své služby, pokladník ujistil, že už nevyužívají své služby.
-Předtím, po 25. červenci, kdy Noroeste zveřejnil revizi kontrol, které městská rada vydává pro své dodavatele, ve kterých bylo odhaleno, že od března 2008 do 9. července 2010, trienium starosty Jorge Abel Lopez Sánchez, obec zaplatila Camacho Palazuelos více než 10 milionů pesos, prostřednictvím 42 kontrol.
-Uzavřela také transakce se společností Jumapam, kde obdržela šeky na více než 3 miliony pesos.
-Je naléhavě nutné, aby se o turistická místa postarala
-Turistická průmyslová organizace je opatrná za nehodu zahraničního turisty způsobené špatnými podmínkami Gloriety Sanchez Taboada v Mazatlánu.
-Po pádu zahraniční turisty při pádu Gloriety Sanchez Taboada požádal turistický sektor Mazatlán úřady, aby věnovaly pozornost zónám a místům, které jsou ve špatném stavu a které nabízejí špatný obraz přístavu.
-Salvador Barraza Rubio, prezident Asociace maloobchodníků zóny Dorada, si vzpomněl, že při různých příležitostech odsoudili, že by se o obraz osudu mělo starat a změnit špatné vnímání, které by turisté mohli najít s novými aktivitami nebo trasami.
-Řekl, že špatné podmínky ulic a chodníků ovlivnily, protože turisté přicházejí na procházku a vidí poruchu a vyhýbají se komplementárním podnikům.
-Politici nevědí, co to znamená uzavřít na jeden den a nemají ponětí o množství peněz, které jsou ztraceny, nebo jinak by nedělali práci tímto způsobem v tak dlouhém období a bez předchozího plánování.
-Hotelový ředitel Jose Ramon Manguart Sanchez uvedl, že pád turisty odhalil nedostatek prevence a údržby ze strany městské rady.
-"Město bude muset převzít svou odpovědnost a zabránit tomu, aby se to opakovalo, tím, že poskytne preventivní údržbu a nevede pouze nápravu," řekl.
-Těšíme se na to, že si vychutnáme čisté město, protože nejen musí být oblast poskytnuta údržba, ale jako obyvatelé, kteří si zaslouží čisté místo, kde mohou žít; Městská rada musí změnit svou strategii, aby zachovala dobré životní a návštěvní podmínky.
-Existují i další místa, která jsou také zanedbávána a neúplná, řekl, například El Escudo a Venadito de Mazatlán.
-"V současné době, aby přijel turista, závisí pouze na propagaci, musíme mít dobrý produkt, město, které má čisté pláže a cesty, trvalou údržbu atraktivních oblastí," řekl.
-"Nebyla tam dostatečná pozornost a to podtrhuje něco, co je dobře známo všemi, že údržba je nutností."
-Raul Llera Martinez, sekretářka turistického propagace, vyjádřila, že záchrana turistických míst Mazatlán je naléhavá, protože se jim netěší správným způsobem a promítají špatný obraz.
-Hovořil o řadě míst, která se musí zcela sladit s obcí a být prioritou mít město vždy, čisté, odvyšované a atraktivní, protože je to turistické město.
-Naštěstí Mazatlán nabízí mnoho historických a kulturních památek a míst, která budou muset být dána do pořádku především, vyčištěna a atraktivní, aby je mohla přidat do inventáře při propagaci města.
-IP požadavky výsledky z Kongresu
-Eduardo Dávalos, prezident CEC, navrhl, aby poslanci převzali velkou odpovědnost za to, aby byli příkladem pro lepší Sinaloa různými výzvami, kterým čelí.
-Zákonodárství důstojných děl a bez dohod mezi stranami a výkonným státem je požadováno podnikovým sektorem Mazatlán, protože existuje zmítaná Sinaloa, která čelí velkým problémům.
-Včera bylo zvoleno 60 zákonodárných sborů, integrováno sedmi politickými silami, 19 zástupci PRI, 13 PAN, třemi členy strany Nueva Alianza, dvěma PRD, jedním z PT, jedním z Konvergencí a jedním z PVEM, což znamená celkem 40 populárních zástupců.
-Mezi seznamem očekávání nových členů kongresu státu S-state je uvedeno, že přicházejí splnit čisté řízení závazku vůči společnosti a různým odvětvím, které vyžadují odpovědnou legislativní práci.
-Eduardo Dávalos Zamora, předseda Enterprise Coordinating Council, navrhl, aby právě propuštěných 40 poslanců Kongresu státu převzalo velkou odpovědnost za to, aby byli příkladem pro lepší Sinaloa různými výzvami, kterým čelí.
-Doufáme, že poslanci skutečně budou uplatňovat svá práva, osvobozeni od dohod mezi stranami, protože je zvykem uzavírat dohody, aby se chránily svými vlastními zájmy, a stanou se charakterem v karnevalu guvernérů a vůdců parlamentních zlomků.
-Z tohoto důvodu hovořil o potvrzení závazku s cílem vytvořit nezbytné mosty, které by mohly pomoci guvernérovi pokračovat.
-Doufáme, že přijdou, aby udělali důstojnou práci a hlavně se zavázali společnosti a sektorům, protože obyvatelé Sinaloy byli ti, kteří jim dali důvěru během posledních voleb.
-Jose Ramon Manguart Sanchez, prezident Asociace hotelů Tres Islas, se domnívá, že jednou z největších výzev pro 40 populárních zástupců je prosazování a přidání sil při hledání hospodářského růstu státu, protože v dnešní době je ekonomická situace velmi komplikovaná.
-Nejdůležitější věcí je tlačit hospodářský růst, to generuje pobídky pro investice a infrastrukturu a to nějakým způsobem vytvoří novou generaci pracovních míst.
-Pokud jde o turistickou činnost, požadoval, aby noví zákonodárci dali váhu revidované v rámci státního rozpočtu, aby zpevnili ministra cestovního ruchu.
-Jak jsem pochopil, je to druhé ministerstvo zahraničí s menšími rozpočty a je neslučitelné jako důležitá a ekonomická aktivita vytvářející měny a investice a to přímo konkuruje agro průmyslu.
-Kromě toho, že vyžadují označování zdrojů odpalování turistických projektů, které pomáhají poskytnout bezpečnost státu a aktualizovat zákon o alkoholu, který nebyl schopen vyřešit v předchozích zákonodárných sborech.
-Kouzelník je hledán
-Panenky, auta a jízdní kola, mimo jiné hračky, jsou toužením dětí rodiny Coronado z Valenzuela.
-Pro jeho rodiče bude příští den králů těžké potěšit jeho iluze, protože jejich domov je vyroben z ne více než 12 lidí a kozy.
-Nicméně Adelaida, Isabela, Jesus, Jose Alfredo, Maria Guadalupe, Isaias, Jose Juan a Miguel neztrácejí naději, že Melcher, Gaspar a Balthazar jim dají hračky a oblečení, které si tolik přejí.
-Rodina žije v skromném domě Colony Salvador Allende a žije ve špatných podmínkách, protože otec nemá práci.
-Někdy je to pro nás velmi těžké, protože můj manžel nemá práci, ale prodáváme mandarinky a tatínka... odpoledne odjíždím s dětmi, abych je prodala na ulici,“ řekla Cayetana Valenzuela Andradeová, matka dětí.
+Celkové náklady na vydání víza budou menší; již nebude nutné provést platbu, aby bylo možné získat schůzku, další platbu za zpracování žádosti o vízum a další, aby doručení korespondence poskytlo dokument.
+Žadatel provede pouze jednu platbu, která se bude týkat tří služeb.
+Prodavadní tarif zůstane beze změny: ekvivalent 140 dolarů za turistické vízum, 150 dolarů na případy víz s žádostí (včetně víz pro brigádníky) a 390 dolarů za víza maloobchodníků a investorů.
+Lidé, kteří si přejí obnovit své vízum, nebudou muset jít na pohovor s konzulárním úředníkem, ale budou muset jít pouze do nejbližšího ASC, kde předloží své dokumenty a budou mít otisky prstů.
+Vzhledem k tomu, že biometrické informace budou přijímány v ASC, žadatelé, kteří vyžadují druhé datum pro rozhovor v konzulární sekci, se zúčastní o jednu dobu méně než dříve.
+Také ti, kteří žádají o vízum na konzulátech Ciudad Juárez, Monterrey a Nuevo Laredo, již nebudou platit další tarif za doručení ve výši 26 dolarů.
+Další informace o novém postupu pro poptávky víza naleznete na následující stránce http://mexico.usembassy.gov/boletiles/sp101201_Visas-FAQs.htm
+NASA oznámí objev mimozemský život
+Americká kosmická agentura zítra zavolala tisku, aby představila objev, který způsobí dopad při hledání živých bytostí v prostoru.
+Národní správa pro vesmír a letectví (NASA) Spojených států představí zítra, ve čtvrtek, astrobiologické objev, který by mohl dokázat teorii, že existuje mimozemský život.
+Objev bude představen na tiskové konferenci zítra ve čtvrtek v 13:00 v sídle NASA ve Washingtonu odborníky na astrobiologii; věda popisovaná jako ta, která studuje původ, vývoj, distribuci a budoucnost života ve vesmíru.
+Při nazvání tiskem NASA ujistila, že představí "poznátek, který způsobí dopad při hledání mimozemského života", který vyvolal spekulace odborníků v jiných zemích.
+Objev by mohl dokázat teorii, že existují tvorové, kteří vypadají jako my, kteří žijí v nepřátelských prostranstvích, které jsou považovány za neobyvatelné, a dali by na stůl možnost, že se stanou inteligentními bytostmi, jako jsou lidé, pokud zlepší své životní podmínky.
+Zdá se, že je soustředěn kolem mikroba, který byl nalezen na dně Monkey Lake v národním parku Yosemite v Kalifornii, kde žije v prostředí, které bylo považováno za příliš jedovatou pro jakoukoli formu života, protože jezero je bohaté na arsen.
+Stvoření nějakým způsobem používá arsen jako prostředek k přežití a mimo tuto kapacitu zvyšuje možnost, že podobný život by mohl existovat na jiných planetách, které nemají naše benevolentní prostředí.
+Podle astrobiologů, pokud tyto organismy používají arsen ve svém metabolismu, bude prokázáno, že "je vskutku další forma života, druhá forma života, odlišná od té, kterou známe".
+Kosmická agentura představí plný rozsah objevů na tiskové konferenci zítřkajního čtvrtečního.
+Pamela Conrad, která studuje možnost života na Marsu; a biolog Steven Benner, jeden z vědců, kteří studují Titan (větší Saturnův měsíc), pod perspektivou, že jeho chemie je podobná té Zemi, se konference zúčastní.
+Gesta PRD, PT, Convergencia a Patton soupeř "blok"
+S reformami Organického práva Kongresu se vynořuje "dvoustranový systém", říkají.
+Zákonodárný sbor 60 nebyl vyřešen, když v kongresu vznikl konkurenční blok, v čele s poslanci PRD, PT, Convergencie a Jesus Manuel Patron Montalvo, který se prohlásil za nezávislého, a čtveřice zpochybňovala jednu věc: příchod "systému dvou stran" do kamery.
+Před zahájením zasedání o 60 zákonodárném sboru Felipe Manzanarez Rodriguez z Convergencie; Ezequiel Reynoso Esparza z PT; Javier Corvera Quevedo z PRD; a Patron Montalvo, byli proti reformě zákonodárného zákona, vzhledem k tomu, že je vyloučil.
+S touto reformou, zopakovali, zahájí "systém dvou stran", protože nyní budou dva zástupci a stejný počet stran, kteří budou kontrolovat Kongres.
+Tito čtyři poslanci spolu s Glorií Margaritou Santos Aguilarovou, koordinátorkou PRD, byli jediní, kteří hlasovali proti směrnici stolu, v čele s příznivcem PAN Salvadorem Lopezem Britem a Luisem Antoniem Cardenasem Fonsecou, ve svém charakteru místopředsedy.
+Corvera Quevedo podrobně popsal, že tyto reformy institucionálně představují politickou marginalitu z PRI a PAN.
+Podrobně popsal, že v blízké budoucnosti budou hovořit s představiteli PAN a PRI, aby systém upravili, počínaje politickou vůlí, a pokud ho nebudou mít, pak budou znovu ovládáni oběma stranami a tímto způsobem byla konkurenční koalice ukončena.
+Jak daleko se dostali (konkurenční koalice), je to, co vidím já, protože jsme vyloučeni, z jakéhokoli rozhodnutí, nemají ani politickou úctu k zvažování názoru zbytku.
+Felipe Manzanarez Rodriguez z Convergencie zmínil, že s PRD, PT a Patronem existují náhody a z toho důvodu tvoří pluralitní skupinu.
+Není možné, aby Kongres poté, co byl monopolní, nyní je "systém dvou stran".
+"Není to duch reformy, který má v Kongresu věčný systém dvou stran."
+Aby mohla začít, tato skupina iniciuje s 5 zákonodárci a jedná s dalšími společníky, aby mohli být více, dodal konvergent.
+Ezequiel Reynoso Esparza z PT vysvětlil, že v okamžiku, kdy se Kongres stal "plunder" mezi dvěma, s odkazem na PAN a PRI."
+Dříve to byla jen jedna strana, nyní je rozdělena mezi dvě."
+Patron Montalvo požádal, aby byla respektována osobnost zástupce a aby mu dala své místo u jednacích stolů.
+Ne pro dohody lídrů, neměl by být ponechán mimo 5 a pravděpodobně budeme 9 poslanci, právě teď těch pět, které vidíme, rozdělených do různých zlomků, rozhodli jsme se nařídit, abychom hledali místo v jednacím stolu, která je předmětem reformy, o které se rozhodli, jsme venku a s touto reformou nesouhlasíme."
+200 tisíc dolarů více pro poskytovatele
+Městská rada Mazatlánu vyplácí další šek dotazovanému majiteli společnosti elektrických zařízení.
+Další kontrolu více než 200 tisíc pesos ve prospěch Loreny Guadalupe Camajo Palazuelos vydala městská rada.
+S tím částka, která byla vyplacena v tomto druhém semestru majiteli společnosti vyrábějící elektrická zařízení, stoupne na 1 milion 200 tisíc pesos.
+Po dohodě s dokumentem o transparentnosti obce bylo toto poslední kontrolní číslo 9258447 vydáno 16. listopadu, s částkou 200 tisíc 144.56 pesos, pod pojmem "likvidace účtů, které mají být zaplaceny".
+Pokladník Luis Miguel Lopez Moreno dříve uvedl, že jim bylo vyplaceno více peněz obecem ve prospěch tohoto dodavatele, což dodržoval vrchní audit státu za prodej na vyšší cenu.
+To, co nebylo hlášeno, je celkový počet, který musí být ještě zaplacen, a proto kolik šeků musí být vydáno Camacho Palazuelosovi.
+Nic nebylo koupeno, jednoduše zaplatí dodavateli vzamněném částkám, jak řekl v rozhovoru pro ostatní poskytovatele.
+Poslední šeky se "objevily znovu" v posledním čtvrtletním roce: 24. září, dva vydané 15. října, 19. října, 29. října a tento poslední, 16. listopadu.
+Ačkoli dodavatel ještě nebyl zveřejněn v oficiálních novinách státu, jak se zákon ptá, kdy je společnost vyslýchána společností ASE, aby se zabránilo tomu, že ostatní vlády využívají své služby, pokladník ujistil, že jeho služby již nevyužívají.
+Předtím, po 25. červenci, kdy Noroeste zveřejnil revizi kontrol, které městská rada vydává pro své dodavatele, ve kterých bylo odhaleno, že od března 2008 do 9. července 2010 se stalo triennia starosty Jorgeho Abela Lopeze Sancheze, obec vyplacená Camacho Palazuelos více než 10 milionů pesos, prostřednictvím 42 kontrol.
+Uzavřela také transakce s Jumam, kde obdržela šeky na více než 3 miliony pesos.
+Je naléhavé, aby se o turistická místa starala.
+Turistickým průmyslníkům je líto nehody zahraničního turisty způsobené špatnými podmínkami Glorieta Sanchez Taboada v Mazatlánu.
+Po pádu zahraničního turisty v pádu Gloriety Sanchez Taboady požádal turistický sektor Mazatlán úřady, aby věnovaly pozornost zónám a místům, které jsou ve špatném stavu a které nabízejí špatný obraz přístavu.
+Salvador Barraza Rubio, prezident Asociace maloobchodníků zóny Dorada, si vzpomněl, že v různých příležitostech odsoudili, že o obraz osudu by měl být postaráno, a aby se změnily špatné vnímání, které by turisté mohli najít s novými aktivitami nebo cestami.
+Řekl, že špatné podmínky ulic a chodníky ovlivnily, protože turisté se chodí projít a uvidí nepořádek a vyhýbají se doplňkovým podnikům.
+Politici nevědí, co to znamená na jeden den zavřít a nemají ponětí o množství peněz, které jsou ztraceny, nebo jinak by práci nedělali tímto způsobem v tak dlouhém časovém období a bez předchozího plánování.
+Hotelový magnát José Ramon Manguart Sanchez uvedl, že pád turisty odhalil nedostatek prevence a údržby ze strany městské rady.
+"Obec bude muset převzít svou odpovědnost a vyhnout se tomu, aby se to opakovalo, tím, že poskytne preventivní údržbu a nebude dělat jen nápravu," řekl.
+Těšíme se na čisté město, protože nejenže musí být oblasti poskytnuta údržba, ale také jako obyvatelé, kteří si zaslouží čisté místo k životu; městská rada musí změnit svou strategii, aby udržela dobré životní podmínky a návštěvnosti.
+Existují i další místa, která jsou také zanedbaná a neúplná, řekl, jako například El Escudo a Venadito de Mazatlán.
+"V dnešní době, aby turista přicházel, závisí pouze na povýšení, musíme mít dobrý produkt, město, které má čisté pláže a cesty, trvalou údržbu oblastí atrakce," řekl.
+"Nebylo dost věnována pozornosti a to podtrhuje něco, co je známo, že údržba je nutností."
+Raul Llera Martinez, asistentka turistické propagace, vyjádřila, že záchrana turistických míst Mazatlánu je naléhavá, protože se jim netěší správného způsobu a promítají špatný obraz.
+Mluvil o řadě míst, která se musí zcela sladit s obecem a být prioritou, když má město vždy, čisté, koordinované a atraktivní, protože je to turistické město.
+Naštěstí Mazatlán nabízí mnoho historických a kulturních památek a míst, která budou muset být uvedena v pořádku především, vyčištěna a učiněna atraktivní, aby je mohla při propagaci města přidat do inventáře.
+IP požaduje výsledky Kongresu
+Eduardo Dávalos, prezident CEC, navrhl, aby poslanci převzali velkou odpovědnost za to, že budou příkladem pro lepší Sinalou různými výzvami, kterým čelí.
+Zákonodárný sbor slušných děl a bez dohod mezi stranami a výkonným státem požaduje podnikový sektor Mazatlán, protože existuje zmítaný Sinaloa, který čelí velkým problémům.
+Včera bylo zvoleno 60 zákonodárným sborem, integrovanými sedmi politickými silami, 19 poslanci PRI, 13 z PAN, tři ze strany Nueva Alianda, dvě z PRD, jeden z PT, jeden z Convergencie a jeden další z PVEM, což znamená celkem 40 populárních zástupců.
+Mezi seznamem očekávání nových členů Kongresu S-státu je zmíněno, že se dopouštějí čistého řízení závazku vůči společnosti a různým odvětvím, které vyžadují zodpovědnou legislativní práci.
+Eduardo Dávalos Zamora, předseda Koordinační rady Enterprise, navrhl, aby právě propuštěných 40 poslanců Kongresu státu převzalo velkou odpovědnost za to, že je příkladem pro lepší Sinalou různými výzvami, kterým čelí.
+Doufáme, že poslanci skutečně vynaloží své právo, osvobozeni od dohod mezi stranami, protože je zvykem uzavírat dohody, aby se shlukovaly svými vlastními zájmy a staly se charakterem v karnevalu guvernérů a vůdců parlamentních zlomků.
+Z tohoto důvodu hovořil o potvrzení závazku, aby vytvořil potřebné mosty, které by mohly pomoci guvernérovi pokračovat.
+Doufáme, že se dočkají důstojné práce a budou se hlavně oddáni společnosti a odvětví, protože obyvatelé Sinaloy byli ti, kteří jim během posledních voleb dali hlas důvěry.
+José Ramon Manguart Sanchez, prezident Asociace hotelů Tres Islas, se domníval, že jednou z největších výzev pro 40 lidových reprezentantů je ta, která tlačí a přidává síly při hledání hospodářského růstu státu, protože v dnešní době je ekonomická situace velmi komplikovaná.
+Nejdůležitější je tlačit na hospodářský růst, který vytváří pobídky pro investice a infrastrukturu a to nějak vytvoří novou generaci pracovních míst.
+Pokud jde o turistickou aktivitu, požadoval, aby noví zákonodárci dali váhu revidovanou v rámci státního rozpočtu, aby opevnili ministra cestovního ruchu.
+Jak jsem pochopil, je to druhé oddělení státu s menšími rozpočty a je to nesourodé důležité a ekonomické aktivity generující měny a investice a to přímo konkuruje agro průmyslu.
+Kromě toho, že vyžaduje označování zdrojů odštěpení turistických projektů, které pomáhají zajistit bezpečnost státu a aktualizovat zákon o alkoholu, který nebyl schopen vyřešit v předchozích zákonodárných sborech.
+Kouzel je hledaný
+Panenky, auta a jízdní kola, mimo jiné, jsou touha dětí rodiny Coronado z Valenzue.
+Pro jeho rodiče bude další den králů obtížné potěšit jeho iluze, protože jejich domov je vyroben z více než 12 lidí a kozy.
+Nicméně, Adelaida, Isabel, Jesus, Jose Alfredo, Maria Guadalupe, Isaias, Jose Juan a Miguel neztrácejí naději, že Melcher, Gaspar a Balthazar jim dají hračky a oblečení, které si tolik přejí.
+Rodina žije v pokorném domě kolonie Salvadora Allendeho a žije ve špatných podmínkách, protože otec nemá práci.
+Někdy je to pro nás velmi těžké, protože můj manžel nemá práci, ale prodáváme mandarín a tatínka... odpoledne odjíždím s dětmi, abych je prodávala na ulici," řekla Cayetana Valenzuela Andradeová, matka dětí.
 Adelaida, 4 roky, chce panenku nebo kolo, zatímco její sestra Isabel, 3 roky, by chtěla panenku Barbie.
-Na druhou stranu, Jose Alfredo, 10 let, si přeje velmi dlouhou dobu mít "monstrózní" auto a pro svého bratra Ježíše, 8 měsíců, Cayetana navrhuje oblečení vhodné pro jednoleté dítě.
-Řekl mi (Jose Alfredo), že bych chtěl toto monstrum,“ ale řekl jsem „uvidíme syna“, protože to bylo velmi drahé,“ vzpomínal Cayetana se smutkem.
+Na druhou stranu, Jose Alfredo, 10 let, si přál velmi dlouhou dobu mít "monstrum" a pro svého bratra Ježíše, ve věku 8 měsíců, Cayetana navrhuje oblečení vhodné pro roční dítě.
+Řekl mi (Jose Alfredo), chtěl bych tuto příšeru," ale řekl jsem "uvidíme syna", protože to bylo velmi drahé," vzpomínala Cayeta se smutkem.
 Pro starší děti, které byly ve školním oblečení a botách, by bylo perfektní.
-Maria Guadalupe, 11 let, má velikost 12; Isaias, 10 let, má velikost 10, zatímco Miguel, 8 let, používá velikost osm.
-Jose Juan, 14 let, potřebuje tenis, důvod, proč by mu pár velikosti pět a půl nebo šest pomohl.
-Pokud chcete, aby se tento sen stal skutečností pro děti rodiny Coronado z Valenzuela můžete zúčastnit kampaně, protože je potřeba kouzelníka, darováním hračky nebo hotovosti na recepci Noroeste.
+Maria Guadalupe, 11 let, je velikost 12; Isaias, 10 let, je velikost 10, zatímco Miguel, 8 let, používá velikost osm.
+José Juan, 14 let, potřebuje tenis, proč by mu pár velikosti pět a půl nebo šestkrát pomohl.
+Pokud chcete splnit tento sen pro děti rodiny Coronado z Valenzuela, můžete se zúčastnit kampaně, protože je potřeba kouzelníka, darováním hračky nebo hotovost na recepci Noroeste.
 14 předpokládaných obchodníků s drogami zatčeno
-Deset prohlídek bylo provedeno v Estrie ve středu v souvislosti s demontáží sítě výroby a prodeje konopí.
-Čtrnáct osob bylo zatčeno a bude čelit různým obviněním.
-Pátrání se konalo v Sherbrooke, Oxford a Stoke, většinou v místech, která sloužila pro výrobu drog.
-"Přibližně 750 rostlin konopí, 4 kilogramy hašiše, peníze a vybavení, které sloužily k výrobě, bylo zabaveno," uvedl Klouis-Philippe Ruel, mluvčí Quebec Sûrété.
-Celkem bylo zatčeno 11 mužů a tři ženy, včetně dvou předpokládaných šéfů této sítě, dvou mužů Sherbrooka.
-Zatčeny osoby se musely objevit u soudu v Sherbooke během několika hodin po jejich zatčení.
-Mohou čelit obvinění z produkce konopí, jejího držení s předmětem obchodování s obchodováním s plánováním a krádeže mimo jiné.
-K těmto prohlídkám došlo po zdlouhavém vyšetřování trvajícím téměř rok.
-"Byly to informace obdržené od veřejnosti, což nám umožnilo provést tyto zatýkání," uvedl M. Ruelová.
-Asi 70 policistů z výpovědní vyšetřovací jednotky Estrie Quebec Sûrete, policejního oddělení nebo Sherbrook a Nephrémagog policejních ředitelství se zúčastnilo této policejní operace.
-Clandestine migrace může být prováděna bez sond
-Podle vlády by návrh zákona konzervativců měl vyřešit problém s lodními zátěží nelegálních migrantů, ale se vší pravděpodobností bude poražen, protože tři opoziční strany ve středu oznámily, že ho nemohou podpořit.
+Ve středu bylo v Estire provedeno deset rešerší v souvislosti s demontáží sítě výroby a prodeje konopí.
+Čtrnáct lidí bylo zatčeno a bude čelit různým obviněním
+Pátrání se konalo v Sherbrooke, Oxford a Stoke, většinou na místech, která sloužila pro výrobu drog.
+"Přibližně 750 rostlin konopí, 4 kilogramy hašiše, peněz a zařízení, které servírované pro výrobu sloužily," uvedl mluvčí Québec Sûrété KLouis-Philippe Ruel.
+Celkem bylo zatčeno jedenáct mužů a tři ženy, včetně dvou předpokládaných hlav této sítě, dvou mužů z Sherbrooke.
+Zatčené osoby se musely dostavit k soudu v Sherbooke během několika hodin po jejich zatčení.
+Mohou čelit obvinění z výroby konopí, jeho držení s předmětem obchodování s lidmi a krádeži mimo jiné krádeže.
+Tato pátrání proběhla po zdlouhavém šetření trvajícím téměř rok.
+"Byly to informace obdržené od veřejnosti, které nám umožnily provést tato zatčení," uvedl M. Neslušnost.
+Policejní operace se zúčastnilo asi 70 policistů z policejního oddělení Estrie of the Quebec Sûreté z policejního oddělení Sherbrooke a Nephrémagog.
+Tajemná migrace může být sledována bez problémů
+Podle vlády by měl návrh zákona konzervativců vyřešit problém s hromadou lodí nelegálních migrantů, ale se vší pravděpodobností bude poražen, protože tři opoziční strany ve středu oznámily, že ho nemohou podpořit.
 "Důrazně se spoléhám na Chartu."
-"Podporuji turuinskou stranu, která vytvořila žulu pod vašima nohama," prohlásil liberální šéf Michael Ignatieff, obklopený zástupci po týdenním zasedání výboru.
-Liberálové tvrdí, že návrh zákona ve své současné podobě, který by mohl jakoukoli osobu z lodi identifikované jako nesoucí tajné přistěhovalce, by porušil kanadskou chartu práv a svobod.
-Šéf Quebec Block Gilles Duceppe také řekl, že nemůže podpořit návrh zákona, protože jeho cílem je špatné.
-"Jsme proti a zdá se, že všechny opoziční strany jsou proti a nyní uvidíme, co vláda dělá," prohlásil M. Ducepeová
-Kritik NPD týkající se imigrace, Olivia Chow, odmítl z rukou kritiku, že její strana nebyla dostatečně pevná ohledně nelegálních přistěhovalců.
-"Nedemokraté schvalují kroky proti osobám, které se zabývají nelegálními přistěhovalci, a to je to, co děláme prostřednictvím jiného návrhu zákona, C-35," uvedla Mme Chow.
-"Nepodporujeme návrh zákona konzervativců, protože útočí na uprchlíky a uvězní jejich děti po dobu nejméně jednoho roku," vysvětlila Mme Chowová.
+"Podporuji tu stranu, která vytvořila žulu pod vašimi nohami," prohlásil liberální náčelník Michael Ignatieff, obklopený poslanci po týdenní schůzce.
+Liberálové tvrdí, že návrh zákona v současné podobě, který by mohl umožnit jakékoli osobě z lodi identifikované jako s tajnou imigranty, by porušil kanadskou chartu práv a svobod.
+Náčelník Quebec Blocku Gilles Duceppe také řekl, že návrh zákona nemůže podpořit, protože jeho cílem je špatně.
+"Jsme proti a zdá se, že všechny opoziční strany jsou proti a nyní uvidíme, co vláda udělá," prohlásil M. Ducepe
+Kritička NPD týkající se imigrace Olivia Chowová odmítla kritiku, která uvádí, že její strana není dostatečně pevná ohledně nelegálních přistěhovalců.
+"nedemokraté schvalují kroky proti osobám, které se zabývají nelegálními přistěhovalci, a to je to, co děláme prostřednictvím jiného návrhu zákona, C-35," uvedla Mme Chow.
+"Nepodporujeme návrh zákona konzervativců, protože útočí na uprchlíky a uvězňuje jejich děti nejméně na rok," vysvětlila Mme Chowová.
 Ministr pro imigraci. Jason Kenney obvinil opoziční strany, že hrají politiku a ignorují vůli Kanaďanů.
-Kanaďané říkají poslancům nahlas a jasně, že nebudou tolerovat tento druh nelegální imigrace, tyto zločinné operace, které se zaměřují na Kanadu a které zacházejí se zemí jako s rohožích.
+"Kanaďané říkají poslancům hlasitě a jasně, že nebudou tolerovat tento druh nelegální imigrace, tyto kriminální operace, které se zaměřují na Kanadu a které zacházejí se zemí jako s rohozem."
 "Očekávají, že Kanada přijme pevná opatření" byla reakce ministra Kenneyho.
 Vláda neoznámila hlasování o důvěře návrhu zákona, který by mohl přinést volby v případě jeho odmítnutí.
-Konzervativec však řekl agentuře QMI, že vláda by požádala o hlasování, aby každý protivůdce vysvětlil své důvody svým voličům.
+Konzervativec však agentuře QMI řekl, že vláda požádá o hlasování, aby každý protichůdný náměstek vysvětlil své důvody svým voličům.
 Nová jednota nevytváří jednomyslnost
-Navzdory oznámením Jeana Charesta o možném vytvoření stálé jednotky pro boj proti korupci a tajné dohodě, mnozí pozorovatelé nadále požadují vytvoření komise veřejného vyšetřování tohoto tématu.
-Ministr veřejné bezpečnosti Robrt Dutil tvrdí, že tato myšlenka není nová: Quebec konzultoval newyorské ministerstvo pro vyšetřování na toto téma loni v lednu.
-Metropole má od roku 1870 stálou protikorupční jednotku.
-Úterní oznámení však překvapilo více než jednu osobu.
-Je třeba říci, že při povětřící quebecké stálé policejní rady z loňského 29. října tohoto kroku nebylo nikdy projednáno, bez ohledu na přítomnost Roberta Dutila.
-Nepotřebovala nic víc, než že kritik veřejné bezpečnosti Stephane Bergeron by měl toto oznámení nazývat „králnem vyrobeným z klobouku“ a jako „řešení házené dohromady na rohu stolu“.
+Navzdory oznámení Jeana Charesta o možném vytvoření stálé jednotky pro boj s korupcí a tajné dohody, četní pozorovatelé nadále požadují vytvoření veřejné vyšetřovací komise tohoto tématu.
+Ministr veřejné bezpečnosti, Robert Dutil, tvrdí, že tato myšlenka není nová: Quebec konzultoval Newyorské ministerstvo vyšetřování na toto téma loni v lednu.
+Metropolita má od roku 1870 stálou protikorupční jednotku.
+Úterní oznámení však překvapilo více než jednoho člověka.
+Je třeba říci, že při setkání stálé policejní rady Quebecu, která byla loni 29. října, tento krok nikdy neprojednal, bez ohledu na přítomnost Roberta Dutila.
+Nepotřeboval víc, než že by měl kritik veřejné bezpečnosti Stephan Bergeron nazývat toto oznámení "kribarem vyrobeným z klobouku" a jako "řešení, které se spojilo na rohu stolu".
 Ministr Dutil odpověděl těm, kteří se obávají, že politická moc bude mít příliš velký vliv na možnou budoucí jednotku.
-"Uvidíte výsledek, až bude oznámen, on se spokojil s potvrzením."
-"Jeden si tohoto problému uvědomuje."
-Pokud jde o prezidenta CSQ, Réjean Parent, nic nemůže nahradit zahájení veřejného vyšetřování.
-"Čím tvrdošíjněji M.Cesta odmítá vytvořit tuto komisi pro vyšetřování, tím více lidí bude myslet jako vy a já, že je tu něco, co je třeba skrýt," vysvětluje.
-"Jediným způsobem, jak získat vyšetřovací komisi, je, aby Jean Charest odstoupil," vysvětluje Yves Boisvert, profesor etiky a vlády na Ecole Nationale d'Administration Publique.
-Aby se dostal z této slepé uličky, navrhuje proto, že Quebec by měl dát zvláštní mandát generálnímu ověřovateli pro druhé, aby se zeptal na tajné dohody a korupci.
-"Člověk musí být schopen rozšířit mandát generálního ověřovatele," rozhodl.
-On také cítí, že Quebec by mohl udělit ověřovatelích stejné pravomoci jako u komisaře, což by umožnilo bývalým nutit lidi, aby svědčili.
-Vytvoření stálé skupiny lidí není jediným projektem programu Charest vlády.
-Quebec by také požádal Ottawu, aby změnila trestní zákoník, aby byl pro tento typ trestného činu vhodnější.
-Tato žádost by pocházela od prokurátora operace Marteau, který informoval ministra spravedlnosti Jean-Marca Fourniera, že precedens není v tomto typu vyšetřování explicitní.
-Spolkový ministr veřejné bezpečnosti Vic Toews potvrdil, že jeho kolega v Justice Rob Nicholson je v současné době nakloněn zavedení určitých změn.
-V době operace na jaře 2001, která se zaměřila na skupiny motorkářů, i když nebyl upraven trestní zákoník, bylo zatčeno 181 osob.
-Ottawa následně rozhodl přijmout zákon o gangsterství
-Řeky pod úzkým dohledem
-Několik vodních toků je i nadále pod pečlivým dohledem kvůli silným dešťům, které od úterý od úterý padají v několika regionech provincie.
-Ve středu odpoledne došlo k skluzu půdy v Shawiniganu v Mauricitě.
-Dva domy byly preventivně evakuovány.
-Ve večerních hodinách došlo k dalšímu skluzu v Saint-Lin-Laurentides v Lenaudière.
+"Výsledek uvidíte, až bude oznámen, spokojil se s potvrzením."
+"Člověk si je vědom toho problému."
+Pokud jde o prezidenta ČSQ, Réjean Parent, nemůže nic nahradit zahájení veřejného vyšetřování.
+"Čím tvrdší je, že M.Charest odmítá vytvořit tuto vyšetřovací komisi, tím více lidí bude myslet jako vy a já, že je něco, co je třeba skrýt," vysvětluje.
+"Jediný způsob, jak získat vyšetřovací komisi, je, aby Jean Charest odstoupil," vysvětluje Yves Boisvert, profesor etiky a vlády na Ecole Nationale d'Administration Publique
+Aby se z této slepé uličky dostal, navrhuje proto, aby Quebec dal zvláštní mandát generálnímu ověřovateli, aby se posledně jmenovaný mohl dotázat na tajné dohody a korupci.
+"Člověk musí být schopen rozšířit mandát všeobecného ověřovatele," rozhodl.
+Také se domnívá, že Quebec by mohl udělit Ověřiteli stejné pravomoci jako komisaře, což by umožnilo prvnímu, aby přinutil lidi, aby svědčili.
+Vytvoření stálé skupiny lidí není jediným projektem Charest Government programu.
+Quebec by také požádal Ottawu, aby upravil trestní zákoník, aby byl pro tento typ trestné činnosti vhodnější.
+Tato žádost by přišla od státního zástupce Marteauovy operace, který informoval ministra spravedlnosti Jeana-Marca Fourniera, že precedens není k tomuto typu vyšetřování explicitní.
+Spolkový ministr veřejné bezpečnosti Vic Toews potvrdil, že jeho kolega ze Spravedlnosti Rob Nicholson je v současné době nakloněn k zavedení určitých pozměňovacích návrhů.
+V době operace na jaře 2001, která se zaměřila na skupiny motorkářů, i když trestní zákoník nebyl upraven, bylo zatčeno 181 osob.
+Ottawa následně rozhodla přijmout zákon o gangsterství
+Řeky pod blízkým dohledem
+Několik vodních toků je i nadále pod pečlivým dohledem kvůli silným dešťům, které od úterý spadly v několika regionech provincie.
+K pozemní skluzavce došlo ve středu odpoledne v Shawiniganu na Mauricii.
+Z preventivních důvodů byly evakuovány dva domy.
+Večer se na Saint-Lin-Laurentides v Lenaudière objevil další skluzavka.
 Zřítila se silnice.
-Mezi úterým a středou večerem spadl v několika regionech silný déšť (ze 40 až 70 milimetrů).
-Mezi 20 a 40 milimetry dalších srážek se očekávalo od nynějška do čtvrtečního večera v závislosti na regionu.
-Nejhůře byly postiženy sektory severně od řeky a v Uvajžijské uličce.
+Mezi úterým a středečním večerem spadl silný déšť (ze 40 až 70 milimetrů) v několika regionech.
+Od nynějška do čtvrtečního večera se očekávalo 20 až 40 milimetrů dalšího deště v závislosti na regionu.
+Nejhůře byla postižena odvětví severně od řeky a v Uličce Outaouais.
 Dostali celkem až 100 milimetrů deště.
-Vzhledem k tomu, že tyto vodopády budou přidány do rozmrazování sněhu, které již leží v některých odvětvích, je obávané přetékající několika řek.
-Povodňové výstrahy byly vydány ve středu večer Quebec Civil Security pro řeky Ouareau a Achigan v Lenaudière.
-Řeky Nord v Saint Jerôme, v Laurentides a Chene v Lotbinière byly předmětem povodňových výstrah a zůstaly pod dohledem.
-V regionu Lanaudière způsobily silné deště přetékající některá jezera v Sainte-Julienne, Sainte-Marcelline-de-Kildare, stejně jako v Rawdonu.
-V Sainte-Calixte byl provizorní most smeten silnými dešti.
-Deset bytů muselo být preventivně evakuováno.
-V Outaouais znamenaly přetékání některých jezer uzavření několika silnic, zejména v obci Mansfield-et-Pontefract.
-Annik Bouchard, bezpečnostní konzultant, uvedl, že civilní bezpečnost je i nadále v pohotovosti a situaci pozorně sleduje.
-Quebec Flood Forecast Center vydal varování před povodněmi týkajícími se několika řek, zejména Maskinongé, Assuption, Ouareau, L'Achigan, Batiscan a Loup.
-Dupont částečně obviňován
-Quebec rozhlasový animátor Stéphane Dupont utrpěl částečný opak před Kanadskou radou pro rozhlasové a televizní standardy (CCNR) na téma sociální pomoci a Haiťanů, stejně jako na jeho hrubém jazyce, zatímco ve vysílání.
-Tne CNNR si myslí, že M. Dupont a jeho tým CHOI 98,1 FM měli právo vyjádřit své názory, ale že některá témata obsahovala „nepřesné informace o sociální pomoci, nepřiměřeně negativních prohlášeních týkajících se Haiťanů a hrubého jazyka, který není vhodný pro denní vysílání“.
-Rada rovněž dospěla k závěru, že diskuse o sebevraždě, včetně vysílání jmen dvou osob, které spáchaly sebevraždu, neporušovala vysílací kódy.
-CCNR obdržela několik stížností na téma komentářů učiněných během upcastů v letech 2008 až 2010.
-První rozhodnutí bylo vydáno na základě stížnosti Quebec společné fronty osob, které dostávají sociální pomoc.
-Skupina si stěžovala, že částky citované ve vysílání nejsou přesné.
-Animátoři musí předložit solidní, nikoli klamné informace.
-Pokud jde o sebevraždu, animátorka Stephane Dupontová cítila, že sebevražda byla akcí zbabělce.
-Většina členů výboru dospěla k závěru, že zpráva byla předána, že sebevražda by neměla být považována za řešení životních problémů.
-"Většina výboru má pocit, že dotyčné epizody "Dupont poledne" oslovily jemný předmět vyváženým a vhodným způsobem.
-V souladu s ním bez vinutí připevněno.
+Vzhledem k tomu, že tyto pády budou přidány k tání sněhu, který již leží v určitých odvětvích, přetékající několik řek se obájí.
+Povodňové výstrahy vydaly ve středu večer Quebec Civil Security pro řeky Ouareau a Achigan v Lenaudière.
+Řeky Nord v Saint Jerôme, v Laurentides a Chène v Lotbinièreu byly předmětem varování před povodněmi a zůstaly pod dohledem.
+V Lanaudièreské oblasti silné deště způsobily přetékající některá jezera v Sainte-Julienne, Sainte-Marcelline-de-Kildare, stejně jako v Rawdonu.
+V Sainte-Calixte smetly provizorní most silné deště.
+Deset obydlí muselo být z preventivních důvodů evakuováno.
+V Uzaouais přetékání některých jezer obnášelo uzavření několika silnic, zejména v obci Mansfield-et-Pontefract.
+Annik Bouchard, bezpečnostní konzultant, uvedl, že civilní bezpečnost je i nadále ve stavu pohotovosti a situaci bedlivě sleduje.
+Ve středu Quebec Povodňové předpovědní centrum vydalo varování před povodněmi, zejména vůči několika řekám, zejména Maskinongé, Assomption, Ouareau, L'Achigan, Batiscan a Loup.
+Dupont částečně viní
+Quebecký rozhlasový animátor Stéphane Dupont utrpěl částečný zvrat před Kanadskou radou pro rozhlasové a televizní standardy (CCNR) v tématu sociální pomoci a Haiťanů, stejně jako na základě jeho hruby tvrdého jazyka ve vysílání.
+CNNR to cítí M. Dupont a jeho tým CHOI 98,1 FM měli právo vyjádřit své názory, ale že určitá témata obsahovala "přehnané informace o sociální pomoci, nepřiměřeně negativních prohlášeních týkajících se Haiťanů a hrubý jazyk, který není vhodný pro denní vysílání".
+Rada také dospěla k závěru, že diskuse o sebevraždě včetně vysílání jmen dvou osob, které spáchaly sebevraždu, neporušuje vysílací kodexy.
+CCNR obdržela několik stížností na připomínky učiněné během bagdisků v letech 2008 až 2010.
+První rozhodnutí bylo vydáno na základě stížnosti Quebec Common Front of other, které dostávají sociální pomoc.
+Skupina si stěžovala, že sumy citované ve vysílání nebyly přesné.
+Animátoři musí předložit solidní, nikoli klamavé informace.
+Pokud jde o sebevraždu, animátor Stephane Dupont cítil, že sebevražda je akce zbabělce.
+Většina členů výboru dospěla k závěru, že předávaná zpráva, že sebevražda by neměla být považována za řešení životních problémů.
+"Většina výboru má pocit, že zmíněné epizody "Dupont poledne" přistoupily k choulostivému tématu vyváženým a vhodným způsobem."
+V souladu s tím na něj není přiložena žádná vina.
 Poslední spor se týkal prohlášení, která následovala po zemětřesení na Haiti.
-Stéphane Dupont a Jean-René Dufort pak měli osobní mediální diskusi, která vedla k mnoha reakcím.
-Animátor CHOI prohlásil, že neposkytl žádný příspěvek na pomoc Haiťanům, protože si nelze být jistý, že lidé v nouzi skutečně dostanou peníze.
-Výbor se domnívá, že komentáře nebyly nevhodné, ale že jejich kumulativní účinek na Haiťany byl nepřiměřeně negativní.
-"Už jsem tam odseděl své třídenní suspendování."
-"Můj rekord je nyní čistý už osmnáct měsíců," prohlásil animátor.
+Stéphane Dupont a Jean-René Dufort pak vedli mediální diskusi tváří v tvář, což vyvolalo mnoho reakcí.
+Animátor CHOI prohlásil, že nepřispěl na pomoc Haiťanům, protože člověk si nemohl být jistý, že lidé v nouzi skutečně dostanou peníze.
+Výbor se domnívá, že připomínky nebyly nesprávné, ale že jejich kumulativní účinek týkající se Haiťanů byl nepřiměřeně negativní.
+"Už jsem si tam odpykal třídenní suspendaci."
+"Můj rekord je nyní už osmnáct měsíců čistý," prohlásil animátor.
 Ve všech svých rozhodnutích Výbor odsuzuje vysílání hrubého jazyka.
-Vysílač CHOI-FN spolupracoval "mimo volání povinnosti" ve všech případech.
-Důsledky jsou minimální pro stanici, která musí mimo jiné oznámit tato rozhodnutí jednou během hodin maximálního publika do tří dnů.
+Televizní stanice CHOI-FN spolupracovala "za voláním povinnosti" ve všech případech.
+Důsledky jsou minimální pro stanici, která musí, mimo jiné oznámit tato rozhodnutí během hodin maximálního publika do tří dnů.
 Král kung-fu v Montrealu
 Montrealský obyvatel alžírského původu, Nacereddine Zemmal, má extrémně individuální program.
-Sportovec, který vyniká v "sanda" ("plný kontakt" kung-fu), na kickboxu a v thajském boxu, vstupuje do tatami a prstenů světa při hledání čerstvých challangů.
-"Začal jsem cvičit bojová umění, jako je kung-fu a kickboxing před 12 lety v Alžírsku," vysvětlil Zemmal, který žije v hlavním městě od roku 2008, aby trénoval s profesionály.
-"V mém případě hledám boje všude, protože pro ty, kteří nemají rádi podlahové boje přítomné ve smíšených bojových uměních, jsou soutěže v Severní Americe vzácné."
-Nedávno měl muž pracující jako bezpečnostní agent pro společnost UPS špatnou zprávu pro své soupeře, když získal dvě zlaté medaile v amatérském mistrovství světa v karate a Kickboxing Association (WKA) konaném od 23. do 30. října v Edinburghu ve Skotsku.
+Sportovec, který vyniká v "sanda" ("full contact" kung-fu), na kickboxu a v thajském boxu, vstupuje do tatami a prstenů světa při hledání čerstvých výzev.
+"Začal jsem praktikovat bojová umění, jako je kung-fu a kickboxing před 12 lety v Alžírsku," vysvětlil Zemmal, který žije v hlavním městě od roku 2008, aby mohl trénovat s profesionály.
+"V mém případě hledám souboje všude, protože pro ty, kteří nemají rádi zápasy na podlaze přítomné ve smíšených bojových uměních, jsou soutěže v Severní Americe vzácné."
+Nedávno měl muž, který pracoval jako bezpečnostní agent pro společnost UPS, špatnou zprávu pro své soupeře, když získal dvě zlaté medaile na amatérském světovém šampionátu Světové asociace karate a Kickboxing Association (WKA) konané od 23. do 30. října v Edinburghu ve Skotsku.
 "Vyhrál jsem ve třídách plného kontaktního kickboxu a thajského boxu," vysvětlil.
-"V současné době se chystám do Číny na mistrovství světa v San Shou.
-"Konkurenti, kteří skončili mezi prvními čtyřmi zt předchozím mistrovstvím světa v každé třídě, byli pozváni."
-V Torontu v roce 2009 jsem získal bronzovou medaili.
-"Ve Vietnamu v roce 2005 jsem skončil s Disti."
-"Skončil jsem pátý v turnaji v Číně v roce 2007 a v roce 2009 jsem skončil pátý v Torontu," dodal.
-Zajímavé je, že jsem v každé soutěži vedl lépe.“
-"Těžkou rychlostí budu první v tomto roce, nebo příští!"
-"San shou" nebo "sanda" je originální čínská soutěž, kde jsou povoleny údery a kopy, stejně jako házení na zem.
-Boje se odehrávají na plošině a v ringu vzácněji.
+"V současné době se chystám jet do Číny na mistrovství světa v San Shou."
+"Byli pozváni mezi prvními čtyřmi, kteří v každé třídě skončili mezi prvními čtyřmi předchozími světovými šampionáty," dodal.
+V Torontu jsem v roce 2009 získal bronzovou medaili.
+"Ve Vietnamu v roce 2005 jsem skončil osm."
+"Skončil jsem pátý v turnaji v Číně v roce 2007 a třetí v Torontu v roce 2009," dodal.
+"Zajímavé je, že jsem se mi na každé soutěži dařilo lépe."
+"Tímto tempem budu první letos, nebo příští rok!"
+"san shou" nebo "sanda" je originální čínská soutěž, kde jsou povoleny údery a kopy, stejně jako házení na zem.
+Boje se odehrávají na platformě a vzácněji v ringu.
 Nejznámějším pugilistou z této formy boje je Američan vietnamského původu, Cung Le, dobře známý ve světě bojových umění.
-Pokud bude Nacer Zemmal vyzván, aby si vzpomněl na jednu událost své kariéry, bude to určitě jeho účast na turnaji "King of Sanda" v kung-fu Super Bowlu.
-"Tato soutěž je nejčastěji zmiňována a nejprestižnější v Číně," vysvětlil příjemný, tlačený mladý muž.
-Je to ekvivalent Lumpinee Stadium (největší stadion v Thajsku).“
-"Byla to super zkušenost."
+Pokud je Nacer Zemmal požádán, aby odvolal pouze jednu událost své kariéry, bude to jistě jeho účast na turnaji "King of Sanda" v kung-fu Super Bowlu.
+"Tato soutěž je nejčastěji zmiňována a nejprestižnější v Číně," vysvětlil příjemný, připoutaný mladý muž.
+"Je to ekvivalent stadionu Lumpine, (největší stadion v Thajsku)."
+"Byl to super zážitek."
 Zemmal vyhrál svůj první zápas, semifinále ve své třídě (80 kg), než prohrál ve finále.
-"Muž, který mě porazil, byl opravdový profesionál," analyzoval.
-V každé třídě jsou čtyři stíhačky (80 kg, 85 kg, 90 kg a 95 kg)
-Vítězové semifinále bojují mezi sebou ve finále své třídy.
-"Vítězové v každé třídě bojují mezi sebou o titul jednoho z vítězů, krále kung-fu."
-450 milionových cen smluv bez výzev k podání nabídek
-Hydro-Quebec získal zakázky v hodnotě 450 milionů dolarů strojíretním společnostem pro hydroelektrický projekt Eastmain-1-A-Sarcele-Rupert.
-Jádrem této laviny více než 100 kontraktů je konsorcium tvořené společnostmi BPR. Dessau, SN Group a Axor, které zajistily nejdůležitější, vedení projektu za částku 295 milionů dolarů bez výzvy k nabídkovému řízení.
-Konsorcium s názvem Energie gérance bylo založeno v roce 2004, což je ponecháno na Hydro-Quebecu na základě své možnosti předat svou odpovědnost za řízení tohoto důležitého hydroelektrického projektu v hodnotě 5000 milionů dolarů do soukromého sektoru.
-Na začátku roku 2005 zajistilo konsorcium Energie gérance tuto lukrativní smlouvu bez předchozího veřejného rozvozu.
-Pokud jde o stranu Quebec, uchýlení se ke konsorcii společnosti představuje vážný problém, že odstranění konkurence a zvýšení ceny.
-To je nový způsob, jak se domáhat a porazit konkurenci.“
-"To znamená, že místo toho, aby se chovali tajně, lidé se nyní chovají otevřeně," prohlásil zástupce quebecké strany Silvain Simard na tiskové konferenci.
-Dříve v dopoledních hodinách M. Simard vznesl otázku v Národním shromáždění, protože zjistil, že je pro něj obtížné vidět, jak by mohl být veřejný zájem takto obsluhován.
-V reakci na odpoledne, ministr přírodních zdrojů Nathalie Normandeau, popřel rázně jakoukoli tajnou dohodu v souvislosti s touto smlouvou.
-"Začínám svou cestu," zaútočila a tvrdila, že Quebec Party byla "nečestná" a "nedostatek nepřísnost".
-Řekla, že "to bude to nejmenší věc", aby se quebecká strana omluvila.
-Vzorec konsorcií je současná praxe po celém světě.
-To, co se obvykle účastní, je aliance omezená v průběhu času, která umožňuje dvěma nebo více společnostem kombinovat své odborné znalosti, aby reagovaly na výzvu k výběrovému řízení na komplexní projekt.
-Projekt Eastmain zahrnuje vysokou úroveň složitosti s ohledem na rozsah prací.
-Stránka probíhá a musí být prodloužena až do roku 2012.
-Zakázka byla udělena bez účasti na konkurenci; došlo k jednáním.
-Stejně tak vzorec konsorcií již není výjimkou v Quebecu, a to i ve vztahu k relativně jednoduchým projektům.
-Jak bylo zveřejněno minulý týden Le Devoir, vzorec konsorcií v inženýrském poradenském sektoru je předmětem vládního šetření.
-Krátká inspekce registru společností Quebec ukazuje existenci více než 200 konsorcií, z nichž některé se zdají být trvalé.
-Například společnost Desseau spolupracuje s většinou svých hlavních konkurentů, včetně CIMA+, Génivar, SNC-Lavalin a dalších, jako jsou Roche a Tecsult.
-Každá kombinace a tam jsou desítky z nich, vrátí se k jedné a téže společnosti, jmenovitě Desseau.
-Pokud jde o konsorcium Energie Gérance, ministr Normandeau zdůraznil, že „území Baie Jamese komplikuje specifickou dynamiku práce a že Hydro-Quebec s nimi splňuje specificky od sedmdesátých let.“
-Vedoucí projektu Eastmain, Réal Laporte ze Société d'énergie de la Baie (SEBJ), poskytl vysvětlení, které vyvolalo obočí o tom, že kontrakt na řízení projektů byl udělen po vzájemné dohodě.
-"Pokud zahájíte výzvu k výběrovému řízení a pokud je jen málo uchazečů, vaše ceny budou příliš vysoké."
-„Máte dvě možnosti; buď přijmete lidi, kteří jsou na tomto trhu, a říkáte, že budeme vyjednávat o uspokojivém spojenectví a dobré ceně.“ Nebo vezmete lidi, kteří jsou na tomto trhu, a říkáte, že budeme vyjednávat o uspokojivém spojenectví a dobré ceně.“ Vyjednáme uspokojivou alianci a dobrou cenu.“
-"Ale myšlenka je, že to není cena, která je nedostatečná, ale dovednosti lidí," uvedl M. Laporteová.
-Tato zakázka udělená konsorciu Energie gérance, je součástí dlouhého seznamu smluv ve výši více než 50 000 dolarů zajištěných Quebecem Psrty.
-Zakázky byly uděleny společností Hydro-Quebec nebo SEBJ pro projekt Eastmain-1-A-Sarcelle-Rupert.
-Po ověření Le Devoir napočítal 109 inženýrských poradenských smluv, které byly v letech 2002 až 2010 oceňovány společnostem nebo jejich dceřiným společnostem, zejména půdoryským laboratořím.
-SNC-Lavalin získal 22 smluv, Génivar 16, Tecsult 14 a Dessau 10, nepočítáme-li jeho účast v Eergie Gérance.
+"Ten muž, který mě zbil, byl skutečný profesionál," analyzoval.
+"V každé třídě jsou čtyři stíhačky (80 kg, 85 kg, 90 kg a 95 kg) "
+"vítězové semifinále se navzájem bojují ve finále své třídy."
+"vítězové v každé třídě bojují o titul singlového šampiona, krále kung-fu."
+450 milionů dolarů kontraktů bez výzev k výběrové řízení
+Společnost Hydro-Quebec udělila zakázky v hodnotě 450 milionů dolarů strojírenským projektům na hydroelektrický projekt Eastmain-1-A-A-Sarcelle-Rupert.
+Jádrem této laviny více než 100 kontraktů je konsorcium tvořené společnostmi BPR. Dessau, SN Group a Axor, které zajistily ten nejdůležitější, řízení projektu za sumu 295 milionů dolarů bez výzvy k výběrovému řízení.
+Konsorcium s názvem Energie ghérance vzniklo v roce 2004, které přenechalo na Hydro-Quebecovi ve své možnosti, že přenese svou odpovědnost za řízení tohoto důležitého hydroelektrického projektu v hodnotě 5000 milionů dolarů do soukromého sektoru.
+Začátkem roku 2005 zajistilo konsorcium Energie gérance tuto lukrativní zakázku bez předchozí veřejné výzvy k podávání nabídek.
+Pokud jde o Quebecovu stranu, postih do konsorcia společnosti představuje vážný problém, problém odstranění hospodářské soutěže a zvýšení ceny.
+"Toto je nový způsob, jak se dohodnout a porazit konkurenci."
+"To znamená, že místo toho, aby se lidé chovali tajně, se nyní chovají otevřeně," prohlásil na tiskové konferenci poslanec quebecké strany Silvain Simard.
+Dříve během dopoledne M. Simard vznesl otázku v Národním shromáždění, protože zjistil, že je pro něj obtížné vidět, jak by mohl být veřejný zájem sloužit tímto způsobem.
+Ministryně přírodních zdrojů Nathalie Normandeauová odpověděla odpoledne a v souvislosti s touto smlouvou důrazně popřela jakoukoli tajnou dohodu.
+"Otevírám svou cestu," vybouřila se a tvrdila, že Quebec Party byla "nečistá" a "chybějící přísnost".
+Řekla, že "by bylo to nejmenší", aby se Quebec Party omluvila.
+Vzorec konsorce je současná praxe po celém světě.
+To, co se obvykle jedná, je aliance omezená v průběhu času, což umožňuje dvěma nebo více společností kombinovat své odborné znalosti, aby reagovaly na výzvu k výběrovému řízení na složitý projekt.
+Projekt Eastmain zahrnuje vysokou úroveň složitosti s přihlédnutím k rozsahu prací.
+Místo je v provozu a musí se prodloužit do roku 2012.
+Zakázka byla zadána bez účasti na hospodářské soutěži, probíhala jednání.
+Stejně tak už vzorec konsorcia není v Quebecu výjimkou, a to ani v relativně jednoduchých projektech.
+Jak minulý týden zveřejnil Le Devoir, vzorec konsorcia v inženýrském poradenském sektoru je předmětem vládního šetření.
+Stručná prohlídka registru quebeckých společností ukazuje existenci více než 200 konsorcií, z nichž některé se zdají být trvalé.
+Takže například společnost Desseau spolupracuje s většinou svých hlavních konkurentů, včetně CIMA+, Génivar, SNC-Lavalin a dalších, jako jsou Roche a Tecsult.
+Každá kombinace a jsou jich deset, se vrací k jedné a stejné společnosti, jmenovitě Desseauovi.
+Pokud jde o konsorcium Energie, ministr Normandeau zdůraznil, že "území Baie Jamese je v souladu s konkrétní dynamikou práce a že společnost Hydro-Quebec je dodržovala konkrétně od sedmdesáti let."
+Vedoucí projektu Eastmain Réal Laporte ze Société d'énergie de la Baie James (SEBJ) poskytl vysvětlení, které zvedlo obočí o tom, že smlouva o řízení projektu byla zadlužena vzájemnou dohodou.
+"Pokud spustíte výzvu k výběrovému řízení a pokud je málo uchazečů, vaše ceny budou příliš vysoké."
+"Máte dvě možnosti; buď přijmete lidi, kteří jsou na tomto trhu, a říkáte, že vyjednáme uspokojivé alianci a dobrou cenu." nebo vezmete lidi, kteří jsou na tomto trhu, a řeknete, že vyjednáme uspokojivé alianci a dobrou cenu." vyjednáme uspokojivé alianci a dobrou cenu."
+"Ale myšlenka je, že to není cena, která je důležitá, ale dovednosti lidí," uvedl M. Laporteová.
+Tato smlouva zadaný konsorciu Energie gérance je součástí dlouhého seznamu zakázek ve výši více než 50 000 dolarů zajištěných Quebec Prsty.
+Zakázky byly zadávány společností Hydro-Quebec nebo SEBJ pro projekt Eastmain-1-A-Sarcelle-Rupert.
+Po ověření napočítal společnostem Le Devoir 109 konzultačních smluv o inženýrském poradenství upřednostňovaných v letech 2002 až 2010 společnostem nebo jejich dceřiným společnostem, zejména půdních laboratořím.
+SNC-Lavalin získal 22 kontraktů, Génivar 16, Tecsult 14 a Dessau 10, nepočítá svou účast v Eergie gérance.
 Všechny smlouvy byly vyjednány.
-Celkem je 449 783 344 dolarů, včetně kontraktu uděleného společnosti Energie Gérance v hodnotě 295 131 564 dolarů.
-Sylvain Simard dal vědět, že čtyři společnosti, které tvoří konsorcium (BPR, Dessau, Group SN a Axor), jsou „dobře známy Quebec Liberální straně“.
-Ministr Normandeau nechal uklouznout, že Quebec strana je také spojena s těmito společnostmi, které ji „financují“, než uvedl, že to byli spíše její ředitelé, kteří byli zapojeni.
-Barometr zodpovědné spotřeby – „zelená“ etiketa nevzbuzuje důvěru.
-Zelenější, ale upřímně skeptický.
-Quebec spotřebitel má malou důvěru v trvalé vývojové hráče, ale také ve spravedlivých značkách a v certifikátech prohlašoval, že je ekologický, řídit jeho výběr.
-A co je ještě horší, pokud se ponoří do vesmíru médií, kde se zprávy ve prospěch více odpovědnějšího spotřebního tabule, odsuzuje nedostatek spolehlivých informací, což je kus, který dokonce popisuje jako brzdu svého závazku, naznačuje barometr zodpovědné spotřeby, jehož první čtení se uskutečnilo dnes.
-I když v roce 2010 přinesli zvýšení spotřeby takzvaných společensky odpovědných produktů, zdá se, že obyvatelé Quebecu mají malou důvěru v ty, kteří se jim snaží prodat.
-Dvě třetiny z nich ve skutečnosti říkají, že nevěří v environmentální závazek společností nebo jejich zelenou publicitu, která zveřejňuje nástroj měření vypracovaný odpovědnou observatoří společnosti Sherbrooke University.
-Další zjištění: Polovina spotřebitelů má pochybnosti o spolehlivosti oficiálních certifikací, které se objevují na takzvaných spravedlivých produktech, ale také týkající se důvěryhodnosti produktů a značek označených jako eko-zodpovědné, uvádí barometr.
-Ve stejném duchu, mluvit o politicích na toto téma je bráno vážně pouze 14,6% obyvatel Quebecu.
-Nicméně, informace týkající se odpovědné spotřeby se zdá být zásadní pro stimulaci tohoto druhu současné spotřeby ze strany dvou třetin obyvatel Quebecu.
-Ve skutečnosti by vakuum a pochybná povaha informací ochladilo horlivost 46% spotřebitelů.
-Jedná se o druhou nejdůležitější brzdu po vyšší ceně těchto výrobků označených barometrem.
-Navíc dvě třetiny obyvatel Quebeku říkají, že nedůvěřují údajnému provedení „zelených“ produktů nebo služeb, které jsou umístěny v jejich rukou.
-Na další poznámku, v roce 2010 téměř polovina spotřebitelů musela změnit své návyky a co je nejdůležitější, změnit značku jednoho nebo více svých produktů, aby odrážela jejich přesvědčení.
-Až 61 % z nich tak upřednostňovalo nákupy ze svých místních obchodů a preferovaných potravin pěstovaných v jejich regionu, což naznačuje barometr.
-Zelenější a zodpovědnější - zodpovědný index spotřeby dosáhl 64 z maximálně 100 pro tento rok - Quebec homo konzum se rád jeví jako král recyklace, který se snaží snížit svůj otisk životního prostředí tím, že se obává o ochranu zvířat.
-Ale jeho sociální a ekologické svědomí se nicméně zdá být omezeno na vnější straně svého vozidla, označuje barometr: v roce 2010, sotva 28% obyvatel Quebecu uvedlo, že používali veřejnou dopravu nebo doporučili její použití, aby hájili své zelené zájmy.
-Chůze a jízda na kole byla také podpořena 19,1 % účastníků tohoto obrovského bahaviorálního šetření.
+Celkem 449 783 344 $, včetně zakázky udělené společnosti Energie gérance v hodnotě 295 131 564 dolarů.
+Sylvain Simard dal najevo, že čtyři společnosti, které se skládají z konsorcia (BPR, Dessau, Skupina SN a Axor), jsou "dobře známy Quebec Liberální straně".
+Ministr Normandeau nechal proklouznout, že Quebec Party je také napojen na tyto společnosti, které ji "financují", než uvedl, že to byli spíše její ředitelé, kteří se zapojili.
+Barometr zodpovědné spotřeby - "zelená" nálepka nevzbuzuje důvěru.
+Zelenější, ale upřímně řečeno skeptický.
+Spotřebitel Quebeku má malou důvěru v hráče s trvalým rozvojem, ale také ve spravedlivé značky a v certifikátech, které jsou prohlašovány za ekologické, aby vedl jeho volbu.
+Horší je, že pokud se ponoří do vesmíru médií, kde se zprávy ve prospěch větší odpovědnosti za stažení spotřeby odsuzují, odsuzuje nedostatek spolehlivých informací, kusu zanedbávání, který dokonce popisuje jako brzdu svého závazku, naznačuje Barometr zodpovědné spotřeby, jehož první čtení se dnes odehrálo.
+I když v roce 2010 přinesli nárůst spotřeby takzvaných společensky odpovědných produktů, zdá se, že obyvatelé Quebeku mají malou víru v ty, kteří se jim je snaží prodat.
+Dvě třetiny z nich ve skutečnosti říkají, že nevěří v environmentální závazek společností nebo jejich zelenou publicitu, která zveřejňuje nástroj měření vypracovaný zodpovědnou observatoří Sherbrookeovy univerzity.
+Další zjištění: Polovina spotřebitelů má pochybnosti o spolehlivosti oficiálních certifikací, které se objevují na takzvaných spravedlivých produktech, ale také o důvěryhodnosti produktů a značek označených jako ekologicky odpovědné, naznačuje Barometr.
+Ve stejném duchu bere řeči politiků na toto téma vážně jen 14,6% obyvatel Quebeku.
+Zdá se však, že informace týkající se odpovědné spotřeby jsou zásadní pro stimulaci tohoto druhu současné spotřeby o dvě třetiny obyvatel Quebeku.
+Vakuace a pochybná povaha informací by ve skutečnosti ochladily auru 46% spotřebitelů.
+Jedná se o druhou nejdůležitější brzdu po vyšší ceně těchto výrobků identifikovaných barometrem.
+Navíc dvě třetiny obyvatel Quebeku říkají, že jim nedůvěřují údajnému provádění "zelených" produktů nebo služeb, které jsou vkládány do jejich rukou.
+Na další poznámku, že v roce 2010 téměř polovina spotřebitelů musela změnit své návyky a co je nejdůležitější, aby změnila značku jednoho nebo více svých produktů, aby odrážela jejich přesvědčení.
+Až 61 % z nich tak upřednostňovalo nákup od místních obchodů a preferované potraviny pěstované v jejich regionu, indikuje Barometr.
+Ekologičtější a zodpovědnější - index odpovědné spotřeby dosáhl 64 z maximálního počtu 100 pro tento rok - Quebecký homo consum se rád objevuje jako král recyklace, který se snaží snížit svůj otisk životního prostředí tím, že se obává ochrany zvířat.
+Zdá se však, že jeho sociální a ekologické svědomí je omezeno na vnější stranu svého vozidla, naznačuje Barometr: v roce 2010 sotva 28% obyvatel Quebecu uvedlo, že používali veřejnou dopravu nebo doporučili její použití, aby hájili své zelené zájmy.
+Chůze a cyklistice podpořilo také 19,1 % účastníků tohoto obrovského bahaviorálního šetření.
 Státní půjčka na nákup eXcentris.
-Quebec vláda, která byla požádána, aby se finanční podílet na koupi eXcentris kino komplexu Angus a Parallel společností, souhlasí se spoluprací, ale pouze ve formě půjčky.
-Vývojářská společnost Angus a Parallel, která doufala v grant ve výši sedmi milionů dolarů od ministerstva kultury, aby koupila od Daniela Langloise k filmovému komplexu eXcentris na bulváru Saint-Laurent, která obnovila své plné filmové povolání, nebude zajistit, o co žádají.
-Vláda souhlasí, že se zapojí, ale podle svých vlastních podmínek.
-Spíše než očekávaný dar, Quebe vláda nabízí půjčku, která bude nižší, než se původně očekávalo a která by mohla být životaschopným řešením pro výhodné podmínky, alespoň podle státních zdrojů.
-První akční plán a žádost o 12,8 milionu byly již zamítnuty Quebecem loni na jaře, ale žádosti byly od té doby revidovány směrem dolů.
-Návrh, který selhává akční plán, byl zaslán ministru St-Pierre předsedou Société deDéveloppement des Entreprises Cultureles (SODEC) François Nacerola, který pilotuje eXcentricův soubor.
+Quebecká vláda, která byla požádána, aby se finančně podílela na nákupu kino komplexu eXcentris společností Angus a Paralel, souhlasí se spoluprací, ale pouze ve formě půjčky.
+Developerská společnost Angus a Paralel, která doufala, že grant ve výši sedmi milionů dolarů od ministerstva kultury na nákup od Daniela Langloise kinostýn eXcentris na bulváru Saint-Laurent, který mu obnoví plné kinetografické povolání, nezajistí to, o co žádají.
+Vláda souhlasí, že se zapojí, ale za vlastních podmínek.
+Spíše než očekávaný dar nabízí quebeho vláda půjčku, která bude méně, než se původně očekávalo, a která by mohla být životaschopným řešením na výhodných podmínkách, alespoň podle státních zdrojů.
+První akční plán a žádost o 12,8 milionu již byly Quebecem odmítnuty loni na jaře, ale žádosti byly od té doby revidovány směrem dolů.
+Návrh a akční plán byly zaslány předsedovi Société deDéveloppement des Entrepresy Cultureles (SODEC) François Nacerola, který pilotuje eXcentrictův spis.
 Před deseti dny mu poslal závěrečnou zprávu.
-Ale protinávrh kabinetu dorazil do SODECu v úterý.
-Parallèle a Angus mají čas do 31. prosince, aby na něj odpověděli.
+Protinávrh kabinetu ale dorazil v úterý do SODEC.
+Parallèle a Angus mají čas do 31. prosince, aby na to odpověděli.
 Zdá se však, že předpoklad daru musí být skutečně opuštěn.
-Připomeňme si, že Asociatons z Quebecu vlastníků kin a Cineparks se postavil proti přímým státním investicím, aby pomohli koupit eXcentris, a tvrdili, že ministerstvo kultury nemusí financovat realitní projekty, což neudělalo pro jiné kina.
-Ale několik místních hráčů, na druhou stranu, požadovalo podstatnou ekonomickou pomoc.
-Daniel Langlois, majitel previosu, podpořil autorovo kino v komplexních prostorách poté, co se nechal financovat jeho výstavbu, která byla schopna ospravedlnit výjimku ze strany ministerstva financí.
-Existuje neklidný sál pro promítání nezávislých filmů v Montrealu a Excentris věděl, jak získat loajalitu svých zákazníků.
-Společnost Angus a Parallel, vedené Christianem Yaccarinim, pilotují soukromou finanční kampaň v naději, že vyberou 700 000 dolarů, aby bylo možné akvizito.
-Od jara 2009 jedna ze tří obrazovek, Parallel, pokračuje ve vysílání eXcetris filmů.
-Cílem budoucích kupujících je znovuotevření tří sálů 27. února, který ukazuje velmi krásný film Xaviera Beauvoise s názvem "Muži a bohové".
-Ale Cristian Yaccarini nezavolal Le Devoir a není známo, co on a jeho skupina si myslí o návrzích na snížení, které jim byly předloženy.
-Závoj se zvedl na komplexní Kanadě...
-Nové americké diplomatické depeše prozrazené Wikileaks zvedly závoj na to, co Spojené státy považují za komplex méněcennosti Kanaďanů vůči Američanům, ale také zradijí komplex převahy pozdější směrem k Kanadě.
-Američtí diplomaté jsou tedy překvapeni, že každý kanadský volič nemá kanadorsko-americké vztahy na srdci, když hlasují, a věří, že návštěva prezidenta Obamy pomohla konzervativní vládě, aby její rozpočet na rok 2009 byl přijat!
-Čtyři nová komunikace mezi americkým velvyslanectvím v Ottawě a Washingtonem zveřejněná včera, poskytují více kořeněných detailů, aby se dostaly do zubů.
-Depeše datovaná 22. září 2008, uprostřed federální volební kampaně, říká, do jaké míry jsou Spojené státy součástí sázek, které jsou diskutovány politickými vůdci.
+Připomeňme si, že se spojenci Quebec Owners of Cinemas a Cineparks postavili proti přímým státním investicím, aby pomohli nákupu eXcentris, a tvrdí, že ministerstvo kultury nemusí financovat realitní projekty, které pro jiná kina neudělalo.
+Ale několik místních hráčů naopak tvrdilo značnou ekonomickou pomoc.
+Daniel Langlois, majitel previosu, podpořil autorovo kino v komplexových prostorách poté, co sám financoval jeho výstavbu, která byla schopna ospravedlnit výjimku ze strany ministerstva financí.
+V Montrealu je plakavý nedostatek sálů pro uvádění nezávislých filmů a eXcentris věděl, jak získat loajalitu svých zákazníků.
+Angus Company a Parallel v čele s Christianem Yaccarinim pilotují soukromou finanční kampaň a doufají, že inkasují 700 000 dolarů, aby umožnily akvizici.
+Od jara 2009 jeden ze tří obrazovek, Paralel, pokračuje ve vysílání filmů eXcetris.
+Cílem budoucích kupujících je znovuotevření tří sálů 27. února, který ukazuje velmi krásný film Xaviera Beauvoise s názvem "Muži a božstva".
+Ale Cristian Yaccarini nezavolal zpět Le Devoir a není známo, co on a jeho skupina přemýšlejí o návrzích na snížení, které jim byly učiněny.
+Závoj se zvedl na složitou Kanadu...
+Nové americké diplomatické depeše prozdané Wikileaks zvedly závoj o tom, co Spojené státy považují za komplex méněcenných Kanaďanů vůči Američanům, ale také prozrazují komplex nadřazenosti pozdějšího směrem Kanady.
+Američtí diplomaté jsou tedy udiveni, že každý kanadský volitel nemá na srdci kanánsko-americké vztahy, když hlasoval, a věří, že návštěva prezidenta Obamy pomohla konzervativní vládě, aby byl přijat její rozpočet na rok 2009!
+Čtyři nová komunikace mezi americkou ambasádou v Ottawě a Washingtonem zveřejněná včera, poskytla další pikantnější detaily, aby se dostaly do zubů.
+Depeše datovaná 22 Setember 2008, v samém středu federální volební kampaně, vypráví, do jaké míry Spojené státy tvoří část sázek, o kterých diskutují političtí vůdci.
 K velkému údivu amerického velvyslance v Ottawě, David Wilkins.
-Pane. Wilkins nabízí vysvětlení této situace.
-Téměř inherentní kanadský komplex méněcennosti možná vyvolává kanadské politické vůdce, aby mluvili o každodenních vnitřních sázkách, spíše než obviňovat tyto volby na Spojené státy (jako během kampaně za svobodu výměny z roku 1988).
-Spojené státy jsou tedy, jak uzavírá, „příslovečným slonem těchto voleb: všudypřítomný, ale potenciálně příliš hrozí, že se o nich mluví“.
-Velvyslanec chápe toto „ohlušující ticho“ o to méně, protože obě země mají intenzivní politické a ekonomické vztahy.
-"Logicky," cítí, "schopnost kandidáta, strany a ještě více stranického vůdce k domáčení tohoto základního vztahu musí být klíčovým faktorem, který mají voliči na mysli při hlasování."
-Další vyjádření tohoto důležitého sentimentu je nalezeno v depeši zaslané 22. ledna 2009 Terry Breese, chargé d'affaires v Ottawě, připravujícího prezidenta Baracka Obamu na jeho první návštěvu v Ottawě.
-"Vaše cesta pomůže zajistit, aby vláda přežila hlasování o důvěře na začátku února o federálním rozpočtu, který bude vykazovat první kanadský deficit za více než deset let kvůli obnovenému plánu ve výši 30 až 40 milionů dolarů," píše. Breese.
-Nikde nelze nalézt žádnou zmínku o tom, že vláda musela před Vánocemi odročit parlament, aby se vyhnula poražení koalicí a že opoziční strany učinily své přežití podmíněným pro kvalitu navrhovaného plánu obnovení.
-Další komunikace datovala Janaury 2008 a podepsaná velvyslancem Wilkinsem, varuje Washington před stále negativním obrazem Spojených států zprostředkovaným dramatickými seriály vysílanými CBC.
-Velvyslanec je znepokojen vysíláním, jako je Border, Little mešita na prérii, Intelligece a H2O, které obsahují nenápadné odkazy na Mahera Arara, na „No Fly List“ nebo znovu na únosy pro přísné výslechy ze strany CIA.
-Další telegramy říká, že během jejich prvního bilaterálního setkání se Hillary Clintonová zeptala svého francouzského protějška Bernarda Kouchnera, zda je Evropa připravena přijmout některé vězně z Guantánama.
-M.M. Kouchner odpověděl "ano", ale případ od případu.
-Na konci setkání napsal,“ předal papír státnímu tajemníkovi na téma Omar Khadr, muslim ve věku 15 let kanadského původu.
-"Ministr souhlasil s přezkoumáním případu."
-Je třeba poznamenat, že v závěru, že nálady se rozhořčovaly ohledně webových stránek WikiLeaks.
-Tom Flanagan, bývalý poradce velmi blízký Stephenu Harperovi, prohlásil na vlnách CBC, že osoba odpovědná za tento masivní únik by měla být "zavražděna".
-Ve Spojených státech zopakoval Mikea Huckabeeho.
-Celosvětový plán obnovy osvětlení.
-Včera v Cancúnu UNO předložil plán renovace domácího, komerčního a průmyslového osvětlení ve 100 zemích s cílem zajistit snížení emisí skleníkových plynů (GES) odpovídající téměř jedné třetině dodatečného snížení potřebného ke stabilizaci klimatu planety do roku 2020.
-Tento ambiciózní plán je jedním z řady konkrétních projektů, které UNNO doufá, že přijal v Cancúnu, aby kompenzovalo absenci povinných snížení závazků ze strany průmyslových zemí.
-Podle plánu předloženého včera, pokud by se zabránilo vymahačeným žárovkám, které stále obsahují 50 až 70% trhu, nahrazeny fluorokomptovými žárovkami, nebo ještě lépe, elektroluminicendi diodickými žárovkami (DEL nebo LED v angličtině), většina z 1,8 milionu tun GES emitovaných na planetě, aby poskytla osvětlení pro lidské bytosti, bylo by zabráněno.
-Osvětlení je zodpovědné za 8 % celosvětových emisí.
-To je ekvivalent 70 % emisí ze světových motorových vozidel.
-V loňském roce v Kodani země s vysokými emisemi, jako jsou Spojené státy, Čína, Evropa a další včetně Kanady, přijaly dobrovolné plány na snížení globálních emisí skleníkových plynů z 53 Gt na 49 Gt.
-Bude však nutné odčíst od tohoto čísla dalších 5 Gt, aby se stabilizoval nárůst oteplování klimatu do roku 2020 při 2 ° C, aby se zabránilo ztrátě kontroly.
-V žárovkách se 95 % energie rozptýlí ve formě tepla a pouze zbývajících 5 % produkuje světlo.
-S fluokompaktními žárovkami se rozptyl energie snižuje o 75% a s novými žárovkami DEL je energetický požadavek navíc snížen o dvojnásobek tohoto množství.
-Fluocompact žárovky vydrží v průměru 6 000 až 10 000 hodin.
-Nové žárovky DEL, jako jsou ty, které společnost Philips tento týden spustila společnost Philips, která se vícehoplavila, se podílela na studii UNO, mají očekávanou délku života 25 000 hodin a spotřebovávají o 80% méně energie než žárovky, což by poskytlo představu o úsporách, což by bylo možné v plánu nahrazení aplikovatelném na 100 zemí.
-Tyto zcela nové žárovky mohou také pracovat s rheostaty, vyzařující velmi málo tepla.
+Pan. Wilkins nabízí několik vysvětlení této situace.
+Téměř neodmyslitelný kanadský komplex méněcennosti možná přimějí kanadské politické představitele, aby mluvili o každodenních vnitřních sázkách, spíše než aby vinili tyto volby na Spojené státy (jako během kampaně za svobodu 1988).
+Spojené státy jsou tedy, uzavírá, "přísně příslovečným slonem těchto voleb: všudypřítomným, ale potenciálně příliš hrozící, že se o nich bude mluvit".
+Velvyslanec chápe toto "održující ticho" o to méně, protože obě země mají intenzivní politický a ekonomický vztah.
+"Logicky," cítí, "schopnost kandidáta, strany a ještě více stranického vůdce pochválit tento zásadní vztah musí být klíčovým faktorem, který mají voliči na mysli při hlasování."
+Další vyjádření tohoto důležitého sentimentu se nachází v depeši zaslané dne 22. ledna 2009 Terrym Breesem, chargé d'affaires v Ottawě, který připravuje prezidenta Baracka Obamu na svou první návštěvu Ottawy.
+"Vaše cesta pomůže zajistit vládní přežití hlasování o důvěře na začátku února o federálním rozpočtu, který vykáže první schodek Kanady po více než deset let kvůli plánu na znovuzahájení 30 až 40 tisíc dolarů," píše pan pan. Breeseová.
+Nikde nelze najít žádnou zmínku o tom, že vláda musela před Vánoci odročit parlament, aby se vyhnula tomu, že bude koalicí poražena, a že opoziční strany podmínily její přežití v oblasti kvality navrhovaného plánu opětovného spuštění.
+Další sdělení s datu od ledna 2008 a podepsané velvyslancem Wilkinsem, varuje Washington před stále negativnějším obrazem Spojených států zprostředkovaným dramatickými seriály vysílanými CBC.
+Velvyslance se obává vysílání, jako je Hranice, Malá mešita na Prairie, Intelligece a H2O, které obsahují nenápadné zmínky o Maherovi Ararovi, na "No Fly List" nebo znovu na únosy pro přísné výslechy CIA.
+Jiná depeše říká, že během jejich prvního bilaterálního setkání se Hillary Clintonová zeptala svého francouzského opačného čísla Bernarda Kouchnera, zda je Evropa připravena přijmout jisté vězně z Guantánama.
+M. Kouchner odpověděl "ano", ale případ od případu.
+Na konci schůzky napsal," předal list ministru zahraničí na téma Omara Khadra, muslimského původu ve věku 15 kanadského původu.
+"Ministr souhlasil, že případ přezkoumá."
+Je třeba poznamenat, že nálada se na webu WikiLeaks rozhořela.
+Tom Flanagan, bývalý poradce velmi blízký Stephenu Harperovi, na vlnách CBC prohlásil, že osoba zodpovědná za tento masivní únik by měla být "narušena".
+Opakoval Mikea Huckabeeho ve Spojených státech.
+Celosvětový plán na obnovu osvětlení.
+Včera v Cancun UNO předložil plán renovace domácího, komerčního a průmyslového osvětlení ve 100 zemích s cílem zajistit snížení skleníkových plynů (GES) odpovídající téměř jedné třetině dodatečného snížení potřebného ke stabilizaci klimatu planety do roku 2020.
+Tento ambiciózní plán je jedním z řady konkrétních projektů, které UNO doufá, že přijaly v Cancúnu, aby vyvážily neexistenci povinných podniků v oblasti snižování emisí ze strany průmyslových zemí.
+Podle včera předloženého plánu byly žárovky, které stále drží 50 až 70% trhu, nahrazeny fluocompactovými žárovkami, nebo ještě lépe, elektroluminiscencovými diodovými žárovkami (DEL nebo LED v angličtině), bylo by se možné vyhnout převážnutí z 1,8 tisíce milionů tun GES emitovaných na planetě, aby poskytovalo osvětlování pro lidské bytosti.
+Osvětlení je zodpovědné za 8% celosvětových emisí.
+To je ekvivalent 70% emisí světových motorových vozidel.
+V loňském roce v Kodani přijaly země s vysokými emisemi, jako jsou Spojené státy, Čína, Evropa a další, včetně Kanady, dobrovolné plány ke snížení globálních emisí GES z 53 Gt na 49 Gt.
+Od tohoto čísla však bude nutné odečíst dalších 5 Gt, aby se stabilizovalo zvýšení oteplování klimatu do roku 2020 při 2 °C, aby se zabránilo ztrátě kontroly.
+V žhavých cibulích je 95% energie rozptýleno ve formě tepla a pouze zbývajících 5% produkuje světlo.
+U žárovek fluocompact je rozptyl energie snížen o 75% a s novými žárovkami DEL je energetická náročnost navíc snížena o dvojnásobek tohoto množství.
+Fluocompact žárovky vydrží v průměru mezi 6000 a 10 000 hodinami.
+Nové žárovky DEL, jako jsou ty, které tento týden uvedla společnost Philips, společnost Philips, která se více zaměřila na studii UNO, mají očekávanou délku života 25 000 hodin a spotřebovávají o 80% méně energie než žárovky, což dává představu o úsporách, což by bylo možné v plánu náhrady platného pro 100 zemí.
+Tyto zcela nové žárovky mohou také pracovat s rhostaty, což emituje velmi málo tepla.
 A neobsahují žádnou rtuť.
-Několik specialistů vyjádřilo revernace týkající se vlnokompaktních žárovek, protože obsahují rtuť a protože je nutné je likvidovat jako nebezpečný odpad, což není v rozvojových zemích vždy možné, pokud výrobci nevydá pokyny.
-Ale uvádí zpráva, hlavním zdrojem emisí rtuti na planetě není fluokompatrová žárovka, ale spíše uhlíková tepelná centra, která emitují hodně rtuti, aby vyráběla elektřinu promrzenou v žárovkách.
-Jen ve Spojených státech tato centra vypouštějí 25 000 tun rtuti ročně.
-Zpráva podrobně popisuje zisky, které by každá země dosáhla prostřednictvím tohoto mezinárodního programu.
-Například Indonésie by ušetřila tisíc milionů dolarů ročně na nákupech elektřiny a osmi milionech tun CO2, což odpovídá 3,5 termálním centrům, jejichž výstavba by stála 2,5 milionu dolarů.
+Několik odborníků vyjádřilo zopakování týkající se žárovek fluocompaktů, protože obsahují rtuť a protože je nutné je zlikvidovat jako nebezpečné odpady, což není v rozvojových zemích vždy možné, pokud výrobci nevydávají pokyny.
+Ale, uvádí zpráva, že hlavním zdrojem emisí rtuti na planetě nejsou žárovka fluocompas, ale spíše centra pro tepelné emise uhlíku, která vypouštějí spoustu rtuti k výrobě elektřiny promrhané v klasických žárovkách.
+Jen ve Spojených státech vypouštějí tato centra 25 000 tun rtuti ročně.
+Zpráva podrobně popisuje zisky, kterých by každá země dosáhla prostřednictvím tohoto mezinárodního programu.
+Například Indonésie by ušetřila tisíc milionů dolarů ročně na nákupech elektřiny a osm milionů tun CO2, což odpovídá 3,5 tepelným centrům, jejichž výstavba by stála 2,5 tisíce milionů dolarů.
 Pobřeží slonoviny nervózně očekává vyhlášení výsledků voleb.
-Generální tajemník OSN pro ANO, Ban Ki-mun, vyzval k zveřejnění "bez odkladu" výsledků prezidentských voleb v Pobřeží slonoviny po vypršení stanoveného období.
-"Generální tajemník zdůrazňuje, že je třeba, aby nezávislá volební komise dokončila svou práci a oznámila prozatímní výsledky bez dalšího odkladu," zdůraznil mluvčí šéfa UNO.
-Žádá všechny strany a instituce Pobřeží slonoviny, aby projevily odpovědnost a zdržely se jakýchkoli iniciativ probíhajících do vyhlášení prozatímních výsledků.
-Navzdory tlaku vyvíjeným některými zahraničními vládami volební komise umožnila, aby toto cílové datum ve středu půlnoc uplynulo, aniž by zveřejnila výsledky tři dny po nedělním hlasování.
-Asi čtyřicet minut před vypršením stanoveného období předseda nezávislé volební komise „pokračoval v práci“ na ohlášení výsledků.
-Po celém světě se ve středu staly častějšími volání, aby volební komise konečně vyhlásila jméno vítěze druhého kola Laurenta Gbagba nebo jeho oscarka Alassane Ouattara.
-Ale tábor Gbagbo počítá s tím, že mu zrušení Ústavní radou „podvodných“ hlasů na severu, které obdrželi bývalí rebelové z nových sil (FN) od neúspěšného převratu v září 2002.
-Pascal Affi N'Buessan, ředitel kampaně prezidenta Pobřeží slonoviny, uvedl, že manévry zastrašování voličů FN na severu země odradily přívržence opouštějícího prezidenta od hlasování.
-Jakékoli volby by mohly být anulovány, pokud budou stížnosti Ghagba přijaty Ústavní radou.
-Gbagbovi nepřátelé tvrdí, že nejvyšší soud v kurtu není nestranný, protože mu předsedá Paul Yao N'Dré, blízký politický spojenec Gbagba.
-Alassane Ouattara, muž ze severu, který popírá jakékoli spojení s bývalými rebely, popsal jako "nepřijatelné" zpoždění při oznámení výsledků a požádal Gbagba, aby je respektoval, ale nezašel tak daleko, aby si nárokoval vítězství.
-Jeho spojenci uvádějí, že Gbagbo blokuje zveřejnění výsledků, protože ví, že prohrál a že si stěžoval Ústavní radě poté, co zabránil volební komisi zveřejnit výsledky, by byla nezákonná.
-Druhé kolo voleb v nedělních prezidentských volbách bylo považováno za korunované procesem znovusjednocení a sladění rozdělení země za dva roky.
-Ve středu UNO varovalo politickou třídu Pobřeží slonoviny, že by mohla být zodpovědná za jakékoli násilí.
-Laurent Gbagbo skončil na vrcholu v prvním kole 11. října, s 38% hlasů proti 32% pro Alassane Ouattara, který získal podporu veřejnosti bývalého předchůdce Henriho Konana Bediého (25% v kolech v součtu).
-Míra nezaměstnanosti ve Francii zůstává ve třetím čtvrtletí stabilní.
-Míra nezaměstnanosti ve Francii podle Mezinárodního úřadu práce zůstala stabilní na 9,3% v metropolitní Francii (9,7% s přihlédnutím k zámořským Départements) z údajů opravených pro prozatímní sezónní variace (CVS) zveřejněné v době úterý Inse.
-V metropolitní Francii je 2,631 milionu nezaměstnaných.
-Údaje za druhé čtvrtletí byly potvrzeny na 9,3% domorodé pracující populace a 9,7 DOM.
-Během jednoho roku se nezaměstnanost zvýšila o 0,1 bodu.
-Viděno obecně, 3,4 milionu osob v metropolitní Francii nepracuje během třetího čtvrtletí, ale chtějí pracovat, ať už jsou nebo nejsou k dispozici pro práci do dvou týdnů a zda hledají práci.
-Te pozice mladých na trhu práce se zhoršila s čerstvým nárůstem míry nezaměstnanosti na 24,2% v metropolitní Francii (+,9,2 bodu během tří měsíců + 0,5 bodu v průběhu roku) a 25% včetně DOM.
-Ve třetím čtvrtletí bylo nezaměstnaných 637 000 mladých lidí ve věku 15 až 24 let (BIT).
-Starší lidé zaznamenali mírný nárůst nezaměstnanosti na 6,4% v metropolitní Francii (+0,2 bodu za tři měsíce a více než v roce), což se rovná 482 000 osobám 50 nebo více a 6,6% pro DOM.
-Pouze 25-39 těžil ze stabilní nezaměstnanosti ve třetím čtvrtletí 8,3% v metropolitní Francii (-0,1 bodu za tři měsíce a + 0,1 bodů ročně) a 8,8% v celé Francii.
-Od roku 2006 již Insee nezveřejňuje monlýzu míru nezaměstnanosti, po argumentech o jeho metodě výpočtu.
-Na druhou stranu, Eurostat, statistický úřad Euroean Union, tak činí i nadále a v úterý oznámil sazbu 9,8% pro Francii (zahrnulo DOM) v říjnu po 9,9% v září.
-Alexandre Gueriniová je zatčena.
-Alexandre Guerini, 53, ředitel společnosti pro zpracování odpadu a bratr generálního ředitele Generální rady Bouches-du-Rhone, byl zatčen a poslán do věznice Luynes poblíž Aix-en-Provence v souvislosti s vyšetřováním veřejných zakázek předpokládaných podvodnými.
-Podle jeho právníka je Alexandre Guerini obviněn z zneužívajícího využívání majetku společnosti, krádeže veřejných prostředků, z přijímání odcizeného zboží, aktivní korupce a prodeje vlivu.
-"Alexande Guereiniová je bojovná a je ochotna odpovědět na jakékoli otázky, na které se může soudce ptát, ale ne fantazie."
-"Je snadné ho obvinit z řady zavrženíhodných činů, ale zcela jiného, aby je dokázal," před slyšením svého klienta prohlásila jeho právnička Florence Raultová AF.
-M.M. Guerini, bratr silného muže socialistické strany v departementu Jean-Noel Guerini, předstoupil svému soudci před svým slyšením prostřednictvím svého právníka vysvětlující memorandum.
-Jeden z jeho intimentů, Philippe Rapezzi, byl také zadržen na Wedday večer.
-Podle jeho právníka, Me Lucien Simon, jeho klient nikdy neudělal nic jiného, než vykonával své povinnosti.
-Pokud jde o zadávání zakázek nebo místo určení souvisejících finančních prostředků, neměl o nich žádné znalosti, řekl Me Simon.
-V této záležitosti byl Daniel Pinna, bývalý generální ředitel služeb Aubagne aglomerace zadržen ve středu k výslechu ohledně krádeže veřejných prostředků a spoluúčasti a byl propuštěn na policejní kauci, spolu se zákazem setkání s osobami zapojenými do případu.
-"Můj klient poskytl vysvětlení obvinění proti němu."
-2 „Vyšetřující soudce to vzal v úvahu a nezbavoval ho o jeho svobodu,“ řekl jeho právník, Me Yann Arnoux.
-Čtyři další osoby byly zadrženy k výslechu a propuštěny během úterního večera do středu, dva z nich byli na kauci, řekl asistent státního zástupce Michela Raffina.
-Michel Karabadjakian, zástupce generálního ředitele společnosti Marseille Province Metropole (MPM) je stíhán za „prodej vlivu a pasivní korupci“.
-Dva funkcionáři aubagneovy aglomerace. Michèle Duval a Christophe Bringuier byli zatčeni a přidělili jeden z „krádeže veřejného majetku osobou odpovědnou za veřejnou službu“ a druhá ohledně „spoluviny při krádeži veřejných prostředků“.
-A konečně, společník Alexandra Gueriniho, Jeanne Peretti, byl zpochybněn ohledně „přijímání ukradeného firemního lana“.
+Generální tajemník OSN Pan Ki-mun vyzval k zveřejnění "bezodkladně" výsledků prezidentských voleb Pobřeží slonoviny, a to po uplynutí stanoveného období.
+"Generální tajemník zdůrazňuje, že je třeba, aby nezávislá volební komise dokončila svou práci a bez dalšího prodlení oznámila prozatímní výsledky," zdůraznil mluvčí šéfa UNO.
+"Žádá všechny strany a instituce Pobřeží slonoviny, aby ukázaly odpovědnost a zdržely se jakýchkoli iniciativ až do oznámení prozatímních výsledků."
+Navzdory tlakům, které vyvíjely některé zahraniční vlády, volební komise umožnila, aby datum cílení středeční půlnoci prošlo, aniž by výsledky tři dny po nedělním hlasování zveřejnila.
+Zhruba čtyřicet minut před uplynutím stanoveného období předseda nezávislé volební komise "pokračoval v práci" na oznámení výsledků.
+Po celém světě se hovory stávaly ve středu častějšími, aby volební komise konečně prohlásila jméno vítěze druhého kola, Laurenta Gbagba nebo jeho soupeře Alassane Ouattaru.
+Tábor Gbagbo však počítá se zrušením "podvodných" hlasů na severu, přijatých bývalými rebely New Forces (FN) od neúspěšného převratu d'état v září 2002.
+Pascal Affi N'Buessan, ředitel kampaně prezidenta Pobřeží slonoviny, uvedl, že maneoeuvry zastrašování volitelů FN na severu země odradily stranice od odchodu prezidenta od hlasování.
+Jakékoli volby by mohly být anulovány, pokud stížnosti Ghagba přijmou ústavní rada.
+Gbagbovi nepřátelé tvrdí, že nejvyšší soud není nestranný, protože mu předsedá Paul Yao N'Dré, blízký politický spojenec Gbagba.
+Alassane Ouattara, muž ze severu, který popírá jakékoli spojení s bývalými rebely, popsal jako "nepřijatelné" zpoždění při oznámení výsledků a požádal Gbagba, aby je respektoval, ale nezašel tak daleko, aby si připsal vítězství.
+Jeho spojenci uvádějí, že Gbagbo blokuje zveřejnění výsledků, protože ví, že prohrál a že stěžovat si Ústavní radě poté, co zabránil volební komisi zveřejnit výsledky, by bylo nezákonné.
+Druhé kolo hlasování v prezidentských volbách v neděli mělo korunovat proces znovusjednocení a usmíření země rozdělené na dvě roky.
+Ve středu UNO varovalo politickou třídu Pobřeží slonoviny, že by mohlo být považováno za jakékoli násilí.
+Laurent Gbagbo skončil na vrcholu v prvním kole 11. října, s 38% hlasů proti 32% pro Alassane Ouattara, který získal veřejnou podporu bývalého prezidenta Henriho Konana Bediého (25% v prvním kole).
+Míra nezaměstnanosti ve Francii zůstala ve třetím čtvrtletí stabilní.
+Míra nezaměstnanosti ve Francii podle Mezinárodního úřadu práce zůstala stabilní na 9,3 % v metropolitní Francii (9,7 % s přihlédnutím k zámořským Départementům) z údajů korigovaných pro prozatímní sezónní změny (CVS), které ve čtvrtek zveřejnila Insee.
+Počet nezaměstnaných je v metropolitní Francii 2,631 milionu.
+Údaje za druhé čtvrtletí byly potvrzeny na 9,3 % nativní pracovní populace a 9,7 DOM.
+Během jednoho roku vzrostla nezaměstnanost o 0,1 bodu.
+V širším měřítku, že během třetího čtvrtletí nepracuje 3,4 milionu osob v metropolitní Francii, ale chtějí pracovat, ať už jsou nebo nejsou k dispozici pro práci do dvou týdnů a zda hledají práci nebo ne.
+Pozice mladých lidí na trhu práce se zhoršila s čerstvým růstem míry nezaměstnanosti na 24,2% v metropolitní Francii (+,9,2 bodu během tří měsíců +0,5 bodu v průběhu roku) a 25% včetně DOM.
+Ve třetím čtvrtletí bylo nezaměstnaných 637 000 mladých lidí mezi 15 a 24 (BIT).
+Starší lidé zaznamenali mírný nárůst nezaměstnanosti na 6,4% v metropolitní Francii (+0,2 bodu během tří měsíců a více než rok), což se rovná 482 000 osobám 50 nebo více a 6,6% pro DOM.
+Pouze 25-39 lidí těžilo ze stabilní nezaměstnanosti ve třetím čtvrtletí, což je 8,3% v metropolitní Francii (-0,1 bodu za tři měsíce a +0,0 body ročně) a 8,8% v celé Francii.
+Od roku 2006 již Insee nezveřejňuje měsíční míru nezaměstnanosti v návaznosti na argumenty o své metodě výpočtu.
+Na druhé straně Eurostat, statistická agentura Euroean Union, pokračuje v tom a v úterý oznámila sazbu 9,8% pro Francii (včetně DOM) v říjnu po 9,9% v září.
+Alexandre Guerini je zatčen
+Alexandre Guerini, 53 let, ředitel společností zpracovávajících odpad a bratr předsedy Generální rady Bouches-du-Rhone, byl zatčen a poslán do věznice Luynes poblíž Aix-en-Provence v souvislosti s vyšetřováním veřejných zakázek, které jsou považovány za podvodné.
+Podle jeho právního zástupce je Alexandre Guerini obviněn z násilného užívání majetku společnosti, kradených prostředků, z přijímání kradeného zboží, aktivní korupce a z prodeje vlivu.
+"Alexande Guereini je bojovný a je ochoten odpovědět na jakékoli otázky, které může magistrát položit, ale ne fantazie."
+"Je snadné ho obvinit z řady odsouzených činů, ale docela dost na to, aby je dokázal," prohlásila jeho advokátka Florence Raultová před slyšením jejího klienta.
+M. Guerini, bratr silného muže socialistické strany v departementu, Jean-Noel Guerini, předal svému soudci před svým slyšením prostřednictvím svého právního zástupce vysvětlující memorandum.
+Jeden z jeho intimních věcí, Philippe Rapezzi, byl zadržen i ve středu večer.
+Podle jeho advokáta, Me Lucien Simon, jeho klient nikdy neudělal nic jiného než plnění svých povinností.
+Pokud jde o zadání zakázek nebo destinaci souvisejících fondů, o nich nevěděl, řekl jsem Simon.
+V této věci byl Daniel Pinna, bývalý generální ředitel společnosti Aubagne aglomerací aglomež ve středu, zadržen k výslechu týkající se krádeže veřejných prostředků a spolupachatelství a propuštěn na policejní kauci, spolu se zákazem setkat se s jakýmikoli osobami zapojenými do případu.
+"Můj klient podal vysvětlení obvinění proti němu."
+2Vyšetřující soudce to vzal v jednotnou a nezbavil ho o jeho svobodu," řekl jeho právní zástupce Me Yann Arnoux.
+Další čtyři osoby byly zadrženy k výslechu a propuštěny během noci na úterý do středy, dvě z nich na kauci, řekl asistent státního zástupce Michel Raffin.
+Michel Karabadjakian, asistent generálního ředitele očisty Marseilleské provincie Metropole (MPM), je stíhán za "prodej vlivu a pasivní korupce".
+Dva funkcionáři aubrany. Michèle Duval a Christophe Bringuier byli zatčeni a zčtyřováni jedním z nich, který se týkal "krádeže veřejného majetku osobou zodpovědnou za veřejnou službu" a druhá, která se týká "spolubojie na krádeži veřejných prostředků".
+Nakonec, společnice Alexandre Guerini, Jeanne Peretti, byla vyslýchána ohledně "přijímání ukradených firemních provazů".
 Mezi osobami konfrontovanými s M. Guerini je Stephane Brunengo-Girard, který byl znovu zatčen v paralelní aféře týkající se podvodných veřejných zakázek týkajících se Korsiky.
-Vyšetřovatelé mají podezření, že jeho společnosti sloužily pro rozsáhlé praní špinavých peněz.
-Šetření probíhá v rámci několika soudních šetření společnosti X v dubnu 2009 po anonymních dopisech týkajících se předpokládaných podvodů týkajících se veřejných zakázek, zejména pro likvidaci odpadů.
-Podle zdroje blízkého šetření se vyšetřování zaměřuje zejména na podmínky nálezu a fungování vypouštění La Ciotat, které shromažďuje odpad Aubagne, stejně jako odpad z některých měst městského společenství Marseille (MPM).
-Aféra Clothilde Reiss: The Elysée zveličují zapojení Sýrie
-Během více než deseti měsíců, od července 2009 do května 2010, byl to osud Clotilde Reissové, mladé francouzské výzkumníky zatčeného v Íránu za „špionáž“, msde France zadržela dech, upozornila diplomacii a zdůraznila zhoršení vztahů mezi Paříží a Teheránem.
-To vše pod pečlivým dohledem diplomatů Spojených států.
-Americké dokumenty získané WikiLeaks a konzultované společností Le Monde odhalily části této krize.
-Popisují, jak Elysejský vysvětlil svou strategii Američanům, a zašli tak daleko, že jim poskytli rady ohledně zacházení s jejich vlastními „rukojmími“ v íránských krizích (malá skupina tripperů).
-Ukazují, jak se francouzské úřady snažily přesvědčit Washington, že propuštění mladé Francouzky nebylo vyváženo propuštěním Majida Kakavanda, Íránce, který je ve Francii zatčen a usiluje americkou spravedlností za obchodování s lidmi ve prospěch íránského jaderného programu.
-A konečně, vrhají do očí bijícího světla způsobem, jakým se francouzské prezidentsko-prezident snažil manipulovat s médii, aby poskytlo důvěryhodnost myšlence, že syrský prezident Bachar Al-Assad hrál ústřední roli při propuštění Clotilde Reiss.
+Vyšetřovatelé podezírají jeho firmy, že sloužily za rozsáhlé praní špinavých peněz.
+Vyšetřování probíhá v souvislosti s několika soudními vyšetřováními X v dubnu 2009 na základě anonymních dopisů týkajících se předpokládaných podvodů týkajících se veřejných zakázek, zejména za účelem likvidace odpadů.
+Podle zdroje blízkého šetření se vyšetřování zaměřuje zejména na podmínky udělení a fungování vypouštění La Ciotat, který sbírá odpad z Aubagne, jakož i odpad z některých měst městské obce Marseille (MPM).
+Aféra Clothilde Reiss: Elyseje zveličila zapojení Sýrie
+Během více než deseti měsíců, od července 2009 do května 2010, osudu Clotilde Reissové, mladé francouzského záchranáře zatčeného v Íránu za "špionáž", zadržuje Francii dech, upozornila diplomacii a zdůraznila zhoršení vztahů mezi Paříží a Teheránem.
+To vše pod pečlivým dohledem amerických diplomatů.
+Americké dokumenty získané WikiLeaks a konzultované s Le Monde, odhalují část pozadí této krize.
+Popisují, jak Elysejská vysvětlila svou strategii Američanům, zašli tak daleko, že jim dávají rady ohledně zacházení s vlastní "rukojmí" v íránských krizích (malá skupina výletníků).
+Ukazují, jak se francouzské úřady snažily přesvědčit Washington, že propuštění mladé Francouzky nebylo vyváženo propuštěním Majida Kakavanda, Íránce zatčeného ve Francii a ožádanou americkou spravedlností za obchodování s materiálem ve prospěch íránského jaderného programu.
+Nakonec se zaměřují na do očí bijící světlo, ve kterém se francouzské předsednictví snažilo zmanipulovat média, aby uctilo věrohodnost myšlence, že syrský prezident Bachar Al-Assad hrál ústřední roli při propuštění Clotilde Reissové.
 Ve skutečnosti nic neudělal.
-Diplomatická depeše zaslaná 12. srpna 2009 do Paříže s názvem „Írán: Francouzské komentáře k tomu, jak řídit případy rukojmích“.
-Elysejský poradce pro strategické záležitosti François Richier, doprovázený ředitelem Quai d'Orsay pro severní Afriku a Střední východ Patrice Paoli, měl diskusi s americkou diplomatkou Kathleen Alegrone.
+Diplomatická depeše zaslaná 12. srpna 2009 do Paříže nese název "Írán: Francouzské komentáře o tom, jak řídit případy rukojmích".
+Poradce Elysée pro strategické záležitosti Françoise Richiera, doprovázený ředitelem Quai d'Orsay pro severní Afriku a Středního východu Patrice Paliem, vedl diskusi s americkou diplomatkou Kathleen Alegroneovou.
 Vysvětlili jí francouzskou metodu.
-Poradili Američanům, aby zařídili repatriaci svých vlastních státních příslušníků zadržených v Íránu.
-"Udělejte hodně hluku," řekli, "zatloupejte neustále slova "základní práva člověka", "nevinnost" a "okamžité uvolnění" v médiích.
-"Nesmíte ztrapňovat íránský režim, který je citlivý na jeho image.
-"Dělejte to ještě víc, když vás Íránci žádají, abyste to neudělali."
-Protože poté, co pokusy diskutovat o této záležitosti prostřednictvím diskrétních kanálů selhaly, mlčení nic nevyřeší, Íránci jsou mistři oddálení taktiky.
-M.M. Richier dodává, že zatýkání cizinců je známá íránská taktika, která za bere rukojmí za politické vydírání.
-Oznámil, že například Clotilde Reiss z vězení (což se bude konat 16. srpna, den, kdy se uchýlila na francouzské velvyslanectví) bude zahrnovat vyplacení Íránu velkou částku peněz (230 000 eur jako opatrnost).
-A poradil, aby Elysejský roki očekávali další krize s rukojmími, což je fenomén, který by se zhoršil.
-Řekl, že Íránci by mohli v blízké budoucnosti zatknout dalšího z asi 1800 francouzských občanů, kteří žijí v Íránu.
+Doporučili Američanům, aby se domluvili na repatriaci svých vlastních státních příslušníků zadržených v Íránu.
+"Dělejte hodně hluku," říkali, "zanestátně kladou slova "základní práva člověka", "nevinnost" a "okamžité propuštění" v médiích."
+"Nesmíte ztrapnit íránský režim, který je citlivý na jeho obraz."
+"Dělejte o to více, když vás Íránci žádají, abyste to neudělali."
+Protože poté, co pokusy o diskusi o této záležitosti prostřednictvím diskrétních kanálů selhaly, mlčení nic nevyřeší, Íránci jsou minulými mistry zdržovacích taktik.
+M. Richier dodává, že zatýkání cizinců je známá íránská taktika, bere rukojmí za politické vydírání.
+Oznámil, že propuštění Clotilde Reissové z vězení (které se bude konat 16. srpna, v den, kdy se uchýlila na francouzské velvyslanectví), by zahrnoval zaplacení Íránu velké sumy peněz (230 000 Eur jako opatrnost).
+A poradil, že Elysejská očekává další krize s rukojmími, což je jev, který se zhorší.
+Řekl, že Íránci by mohli v blízké budoucnosti zatknout další z asi 1800 francouzských občanů, kteří žijí v Íránu.
 28.8.09
-Clotilde Reissová byla mimo vězení už dvanáct dní, ale nemůže opustit Írán.
-Byla odvysílána část informací: íránský Majid Kakavand, jehož vydání za nelegální obchod s citlivým elektronickým materiálem do Íránu, které Spojené státy požadují, bylo v Paříži osvobozeno soudem.
-Podle mnoha pozorovatelů zvažuje americké velvyslanectví tuto znepokojivou náhodu.
-Pro Washington, který sleduje íránské nelegální akviziční sítě jaderných zbraní, je propuštění Majida Khakavganda špatnou zprávou.
+Clotilde Reissová je už dvanáct dní mimo vězení, ale není schopna opustit Írán.
+Vysílala se informace: Íránský Majid Kakavand, jehož vydání za nelegální provoz v citlivém elektronickém materiálu do Íránu požadují Spojené státy, byl osvobozen v Paříži soudem.
+Podle četných pozorovatelů americká ambasáda tuto znepokojivou shodu zvažuje.
+Pro Washington, který sleduje íránské sítě nelegálních jaderných potřeb, je vydání Majid Khakavgand špatnou zprávou.
 Přijala Francie dohodu?
 Propuštění Íránce proti Francouzce?
-Během rozhovoru s Kathleen Allegrone dne 4. září, François Richier dal ujištění, že tomu tak není.
-Řekl, že Elysejsko bylo nejen zcela překvapeno rozhodnutím soudce, ale také se proti němu postavilo.
-Řekl, že existují živé výměny pod francouzským předsednictvím a Garde des Sceaux v té době, Michèle Alliot-Marie, ale francouzská vláda nemohla změnit rozhodnutí soudu.
-M.M. Richier chce také demonstrovat, že Majid Kakavand pokračuje pod pečlivým dohledem francouzské tajné služby.
-Elysejský poradce vytočil číslo, zavěsil a pak informoval amerického diplomata, že Íránec je v současné době v pařížské budově spravované íránským velvyslanectvím.
-Během zadržení Clotilde Reissové v Íránu Elysejský palác neovládal své úsilí prostřednictvím komuniké a mediálních „úniků“, aby vytvořil dojem, že syrský pesident Bachar Al-Assad hraje důležitou a vlivnou součást prostředníka.
-Američané pozorují tuto činnost bez ironie a zjistí, že manipulace přináší ovoce, protože několik článků Press opakuje oficiální francouzskou verzi.
-Telegram ze dne 25. srpna 2009 zmiňuje mediální „blesknutí“ francouzských představitelů.
-Na tom, co je založeno tolika "záplatnosti" etlačeno na M. Asad, ptá se pařížské ambasády.
-Bez ohledu na jejich prohlášení plná chvály francouzští představitelé soukromě přiznávají, že mají jen nejasnější představu o tom, co Syřané skutečně udělali.
-Dokument pak řeší důvody, proč Elysée vydala tuto fikci.
-Uvádí, že intenzivní úsilí komunikace se snaží potvrdit Sarkozyho politiku přiblížit se Sýrii.
-Politika zahájená v roce 2008, která byla mnoha kritiky ve Francii i v zahraničí považována za předčasnou a bez zásluh.
-Přeháním role, kterou hraje Sýrie, se Paříž snaží ukázat Sýrii, kolik chvály by mohla získat tím, že bude hrát konstruktivní roli v regionu.
-Cílem je také rozsévat semínka sporu s betlenem sytém se v Sýrii a Íránu.
-Americká ambasáda to ví ze spolehlivého zdroje.
-11. srpna se mu François Richier svěřil, že Francouzi samozřejmě nevědí, zda Syřané něco udělali. „bien sûr, nous nesamons pas si si Syriens ont fait quoi que ce soit.“
-Ale že jim stále děkovali.
-To by mohlo alespoň zmást Íránce.
-Clotilde Reiss se vrací do Francie 16. května 2010
-Nicolas Sarkozy ji přijímá v Elysejském paláci.
-V komuniké děkuje prezidentům za to, že se domluvili Brazílii, Senegalu a Sýrii za jejich „aktivní roli ve prospěch propuštění našeho krajana“.
+Během rozhovoru s Kathleen Allegrone dne 4. září François Richier dal ujištění, že tomu tak není.
+Řekl, že Elysée byl nejen zcela překvapen rozhodnutím soudce, ale také se mu snažil postavit proti.
+Řekl, že mezi francouzským předsednictvím a v té době Garde des Sceaux byly živé výměny, mezi francouzským předsednictvím a v té době, Michèle Alliot-Marie, ale francouzská vláda nemohla změnit rozhodnutí soudu.
+M. Richier chce také demonstrovat, že Majid Kakavand pokračuje pod pečlivým dohledem francouzské tajné služby.
+Elysejský poradce vytočí číslo, zavěsí a pak informuje amerického diplomata, že Íránce je v současné době v pařížské budově spravované íránským velvyslanectvím.
+Během zadržování Clotilde Reissové v Íránu Elysejská nekontrolovala své úsilí prostřednictvím komuniké a mediálních "úniků", aby vytvořila dojem, že syrský starosta Bachar Al-Assad hraje důležitou a vlivnou součást prostředníka.
+Američané tuto aktivitu bez ironie pozorují a zjišťují, že manipulace nese ovoce, protože několik článků Press opakuje oficiální francouzskou verzi.
+Telegram z 25. srpna 2009 zmiňuje mediální "blitz" francouzských představitelů.
+Na tom, co je založeno tolik "vděčnosti" vytlačováno na M. Asad, ptá se pařížské ambasády.
+Navzdory jejich prohlášením plným chvály francouzští představitelé soukromě přiznávají, že mají jen tu nejasnou představu o tom, co Syřané skutečně udělali.
+Dokument se pak zabývá důvody, proč Elysejská tato fikce vyhlásila.
+Uvádí, že intenzivní úsilí komunikace se snaží potvrdit Sarkozyho politiku přibližování se k Sýrii.
+Politika zahájená v roce 2008, která byla mnohými kritiky ve Francii a v zahraničí považována za předčasnou a bez zásluh.
+Tím, že přeháním role, kterou hraje Sýrie, se Paříž snaží ukázat Sýrii, kolik chvály by mohla získat tím, že bude hrát konstruktivní roli v regionu.
+Cílem je také rozsévání semen nesvárů mezi Sýrií a Íránem.
+Americká ambasáda to zná ze spolehlivého zdroje.
+Dne 11. srpna se mu François Richier svěřil, že Francouzi samozřejmě nevědí, zda Syřané něco udělali.. "bien sûr, nous ne savons pas sis les Syriens ont fait quoi que kétos."
+Ale že jim stále děkují.
+To by mohlo Íránce alespoň zmást.
+Clotilde Reiss se 16. května 2010 vrací do Francie
+Nicolas Sarkozy ji přijímá v Elysée.
+V komuniké děkuje prezidentům Brazílie, Senegalu a Sýrie za jejich "aktivní roli ve prospěch propuštění našeho krajana".
 Žádné on-line hry pro mladé Korejce po půlnoci.
-Podle vládních orgánů jihokorejská vláda schválí zákon nazvaný "Popelka", který zakáže dospívajícím hrát on-line hry po půlnoci prostřednictvím jejich přístupu.
-Podle reprezentativců ministerstev kultury a rodiny bude v prosinci předložen parlamentu návrh zákona, který požádá on-line herní společnosti, aby po půlnoci zablokovaly přístup mladistvých mladších 16 let na jejich hry.
-Mnoho dětí hraje tyto hry celou noc a pak zažívá potíže se studiem ve škole a v normálním životě ve dne.
-"Domníváme se, že tento zákon je potřebný k zajištění jejich zdraví a jejich práva na spánek," prohlásil agentuře AFP Jo Rin, ministr odpovědný za pilotní projekt zákona.
-On-line hry budou nyní k dispozici v 6 hodin ráno.
-Ministr uvedl, že společnosti budou mít jeden rok na to, aby se připravily na uplatňování zákona.
-Dodal, že vláda také požádá společnosti, aby omezily denní dobu přístupu k těmto hrám mladými lidmi, jejichž rodiče požádali o to, aby se tak stalo.
-Zpřístupnil by také lidem, kteří by o to požádali, bezplatný software, který by umožnil omezit čas strávený na internetu.
-Jižní Korea je jednou z nejvíce „propojených“ zemí a noviny pravidelně hlásí různá fakta spojená s intenzivním používáním internetu.
-Země je také nesporným zastáncem celosvětových online herních soutěží.
-V listopadu získala Jižní Korea čtyři zlaté medaile na Světových kybernetických hrách v soutěži 58 dalších zemí.
-Mistrovství světa 2018-2022: FIFA jmenuje organizující země.
-Torment kvůli podezření z korupce. Ve čtvrtek výkonný výbor FIFA jmenuje země, které budou organizovat zápasy Světového poháru v letech 2018 a 2022, což je eminentně politická volba, kde vliv a lobbistické bitvy mohou mít přednost před technickými kritérii.
-Jedna věc je jistá; ročník soutěže FIFA 2018 se bude konat v Evropě, tradiční bašta hry (4 kandidáti, Velká Británie, Rusko, Španělsko-Portugalsko a Belgie-Nizozemsko; Angleterre, Russie, Espagne-Portugal, Pays-Bas-Belgique).
-To z roku 2022 bude mnohem exotičtější, FIFA doufá, že si domanipuluje nová území (Kutatar, Austrálie) po první soutěži na africkém kontinentu v roce 2010 nebo se bude věnovat svému zavedení do USA nebo na Dálný východ (Japonsko, Jižní Korea).
-Seznam osobností delegací (David Cameron, Price William, Jose Luis Rodriguez Zapatero, Jose Socrates, Bill Clinton, emír Kataru, šéfů belgické a nizozemské vlády, Zidane, Beckham, Cruyff) dávají představu o ekonomických a politických podílech světové soutěže.
-Vyjednávání v zákulisí proto může trvat až do poslední minuty.
-Pro zbytek je těžké vytvořit hierarchii mezi kandidáty.
-Podle zprávy hodnocení FIFA, britské, španělsko-portugalské (2018) a americké případy (2022) vedou lepší argumenty než jejich konkurenti.
-Tyto úvahy však nebudou příliš vážit s 22 členy výkonného výboru, pokud jde o hlasování.
-The Sunday Times whise odhalení vyústilo v pozastavení dvou členů výkonného výboru (Reynald Temerii a Amos Adamu ) by tak mohly zničit šance na jeho zemi, kolébku fotbalu, který hostil mistrovství světa pouze jednou, v roce 1966.
-V pondělí BBC odvysílala dokument týkající se tří vlivných členů výkonného výboru Ricarda Teizeiry, Nicolase Leoze a Issy Hayatou.
-Rozdmýchávání FIFA a rozpaky britských zástupců, kteří se v posledních týdnech zapojili do intenzivního lobbování, hlavně prostřednictvím Davida Beckhama.
-Šéf britské vlády doufá, že zopakuje převrat svého předchůdce Tonyho Blaira, který v roce 2005 zajistil volbu Londýna jako místa konání olympijských her v roce 2012.
-Bude stačit tato intenzivní aktivita, aby obviňovala štít Anglie v očích výkonného výboru?
-Nic není méně jisté, protože španělsko-portugalské duo nemá nedostatek výhod, se svými stadiony již dokončenými, jeho odbornými znalostmi (World Cup 82 ve Španělsku, 1992 olympijských her v Barceloně, Euro 2004 v Portugalsku) a jeho fotbalová kultura.
-Pochmurné ekonomické a finanční vyhlídky obou zemí by však mohly nality studenou vodu na své ambice.
-Možné odvety proti Britům a pochybnosti o solventnosti Španělska a Portugalska mohou jen zlepšit postavení Ruska, které se stalo mocným outsiderem, navzdory jeho nedostatku (stadia, hotely, doprava).
-Premiér Vladimir Putin se však rozhodl necestovat do Curychu a odsoudil „nespravedlivou soutěž v přípravě hlasování“ v zastřeném odkazu na obvinění v britském tisku proti členům výkonného výboru.
-"Jsou potřísňováni blátičem a jsou prováděny pokusy o jejich kompromis," uvedl pan. Putin.
-Pokud jde o rok 2022, Spojené státy s zkušeností z roku 1994, se zdají být zřejmými favority.
-Přední světová ekomická mocnost, sídlo hlavních sponzorů FIFA, země, se zdá být velkým náskokem nad Japonskem a Jižní Koreou, které samostatně vybudovaly velmi skvělý projekt.
-Ale tyto nové kandidatury se zdají být předčasné u dvou zemí, které společně zorganizovaly proces z roku 2002.
-Další hrozba: Udělení Světové soutěže 2026 pro Čínu, horlivě požadované FIFA, což ve skutečnosti uhasí asijské šance na rok 2022.
-Pokud jde o Katar, který učinil velkou hru při navrhování futuristických stadionů a Austrálie, by FIFA usilovala o svou expanzi do nových regionů, ale tyto dvě země nabízejí větší riziko než jistotu.
-Stejně jako Japonsko a Jižní Korea by i Austrálie mohla trpět slabostí televizních práv evropských zemí, nervovým centrem války pro FIFA.
-Druhý mandát: Důkazy
+Podle vládních úřadů schválí jihokorejská vláda zákon nazvaný "Popelka", který zakáže dospívajícím hrát on-line hry po půlnoci tím, že jim pomůže přístup.
+Podle reprezentantů ministerstev kultury a rodiny bude v prosinci předložen návrh zákona, který požádá on-line herní společnosti, aby zablokovaly přístup mladistvých do 16 let na jejich hry po půlnoci.
+Spousta dětí hraje tyto hry celou noc a pak pociťuje potíže při studiu ve škole a v normálním životě ve dne.
+"Myslíme si, že tento zákon je potřebný k zajištění jejich zdraví a práva na spánek," prohlásila agentuře AFP Jo Rinová, ministryni, která má na starosti pilotní projekt návrhu zákona.
+On-line hry budou nyní přístupné v 6 hodin ráno.
+Ministr uvedl, že firmy budou mít jeden rok na to, aby se připravily na uplatňování zákona.
+Dodal, že vláda také požádá společnosti, aby omezily denní dobu přístupu k těmto hrám mladými lidmi, jejichž rodiče požádali o to, aby se to stalo.
+Zpřístupnil by také lidem, kteří o to požadují, což by umožnilo omezit čas strávený na internetu.
+Jižní Korea je jednou z nejvíce "propojených" zemí a noviny pravidelně informují o různých faktech spojených s intenzivním používáním internetu.
+Země je také nesporným šampiónem celosvětových online herních soutěží.
+V listopadu Jižní Korea získala čtyři zlaté medaile na World Cyber Games v soutěži dalších 58 národů.
+Mistrovství světa 2018-2022: FIFA jmenuje organizační země.
+Trápení kvůli podezření z korupce. Ve čtvrtek výkonný výbor FIFA jmenuje země, které organizují zápasy mistrovství světa v letech 2018 a 2022, což je mimořádně diplomatická volba, kdy vliv a lobbistické bitvy mohou mít přednost před technickými kritérii.
+Jedna věc je jistá; ročník soutěže FIFA 2018 se bude konat v Evropě, tradiční baště hry (4 kandidáty, Velké Británii, Rusko, Španělsko-Portugalsko a Belgie- Nizozemsko; Angleterre, Russie, Espagne-Portugal, Pays-Bas-Belgique).
+Tou rokem 2022 bude mnohem exotičtější, FIFA doufá, že po prvním souboji na africkém kontinentu v roce 2010 dobývá nová území (Kvatar, Austrálie) nebo do jeho uvedení do USA nebo Dálného východu (Japonsko, Jižní Korea).
+Seznam osobností delegací (David Cameron, Price William, Jose Luis Rodriguez Zapatero, Jose Sokrates, Bill Clinton, emír Kataru, šéfové belgické a nizozemské vlády, Zidane, Beckham, Cruyff) dává představu o ekonomické a politické sázce světové soutěže.
+Zákulisní vyjednávání tedy může trvat až do poslední minuty.
+Pro zbytek je obtížné vytvořit hierarchii mezi kandidáty.
+Podle hodnotící zprávy FIFA případy Britové, španělsko-portugalštiny (2018) a Američané (2022) postupují po lepších argumentech než jejich konkurenti.
+Ale tyto úvahy nebudou příliš tíživé s 22 členy výkonného výboru, pokud jde o hlasování.
+Zveřejnění Sunday Times vedlo k suspendování dvou členů výkonného výboru (Reynald Tememii a Amos Adamu), což by mohlo zničit šance jeho země, kolébku fotbalu, která hostila mistrovství světa jen jednou, v roce 1966.
+V pondělí BBC odvysílala dokument týkající se tří vlivných členů výkonného výboru, Ricarda Teizeiry, Nicolase Leoze a Issa Hayatoua.
+Rozrušit FIFA a ztlumit britské zástupce, kteří se v posledních týdnech zapojili do intenzivního lobbingu, hlavně prostřednictvím Davida Beckhama.
+Šéf britské vlády doufá, že zopakuje převrat svého předsednictva Tonyho Blaira, který si v roce 2005 zajistil volbu Londýna jako dějiště olympijských her v roce 2012.
+Postačí tato intenzivní aktivita k zabavení anglického štítu v očích výkonného výboru?
+Nic není méně jisté, protože španělsko-portugalské duo nechybí výhody, přičemž jeho stadiony již byly dokončeny, se svými odbornými znalostmi (Světový pohár 82 ve Španělsku, 1992 olympijské hry v Barceloně 2004, Euro 2004 v Portugalsku) a jeho fotbalovou kulturou.
+Pochmurné ekonomické a finanční vyhlídky obou zemí by ale mohly nalit studenou vodu na jejich ambice.
+Možné odvety proti Britům a pochybnosti o solventnosti Španělska a Portugalska mohou jen zlepšit postavení Ruska, které se stalo mocným outsiderem, navzdory jeho nedostatku (stadie, hotely, doprava).
+Premiér Vladimir Putin se ale rozhodl necestovat do Curychu a odsoudil "nespravedlivou soutěž v přípravě hlasování" v zastřeném odkazu na obvinění v britském tisku proti členům výkonného výboru.
+"Jsou roztrženi bahnem a jsou podniknuty pokusy o jejich kompromisy," řekl pan. Putin.
+Pokud jde o rok 2022, Spojené státy s náležitostí z roku 1994, se objevují jako zřejmí favorité.
+Zdá se, že přední světová eskomomiová síla, sídlo hlavních sponzorů FIFA, země, má velký náskok před Japonskem a Jižní Koreou, které samostatně vybudovaly velmi jemný projekt.
+Tyto nové kandidatury se však jeví jako předčasně pro dvě země, které společně organizovaly soudní proces v roce 2002.
+Další hrozba: Udělení Světové hospodářské soutěže 2026 Číně, horlivě požadované Fifou, která ve skutečnosti uhasí asijské šance pro rok 2022.
+Pokud jde o Katar, který má velkou hru navrhování futuristických stadionů a Austrálie, bude FIFA usilovat o svou expanzi do nových regionů, ale tyto dvě země nabízejí více rizika než jistoty.
+Stejně jako Japonsko a Jižní Korea by i Austrálie mohla trpět slabostí televizních práv evropských zemí, nervového středu války pro FIFA.
+Druhý mandát: důkazy
 De Gaulle opravdu zaváhal.
-Mitterand přiměl ostatní, aby věřili, že váhá.
-Valerij Giscard d'Estaing a Jacques Chirac váhání.
-A Nicolas Sakozy je stále méně než oni.
+Mitterand přiměl ostatní, aby věřili, že zaváhal.
+Valerij Giscard d'Estaing a Jacques Chirac sebemenší neváhali.
+A Nicolas Sakozy stále méně než oni.
 Elysejský mandát vypráví jiný příběh.
-V souladu s tím bude v roce 2012 kandidátem současné hlavy státu.
-Ale důkazy jsou v rozporu s mystikou prezidentské funkce.
-Nyní je třeba předstírat, že pochybnosti vždy existovaly.
-V jistém smyslu, stejně jako v tom druhém.
-V roce 2006, aniž by tomu věřili, přátelé Jacquese Chiraca předstírali, že třetí mandát nebyl vyloučen.
-Dne 15. listopadu s vážným vzduchem, Nicolas Sarkozy dal ujištění, že se rozhodne „někdy na podzim 2011“.
-Skutečnost, že v úterý večer v Elysejci před zástupci UMP povolal vyhlídku na „dva mandáty“ zaséval některé horečnaté úvahy.
+V souladu s tím bude současná hlava státu kandidátem v roce 2012.
+Důkazy ale jsou v rozporu s mystikou prezidentské funkce.
+Nyní je nutné předstírat, že pochybnost existovala vždy.
+V jednom smyslu jako v druhém.
+V roce 2006, i když tomu věřili, přátelé Jacquese Chirace předstírali, že třetí mandát není vyloučen.
+15. listopadu s náhrobným vzduchem dal Nicolas Sarkozy jistotu, že své rozhodnutí učiní "někdy na podzim roku 2011"
+Skutečnost, že v úterý večer v Elysejském paláci před poslanci UMP povolal vyhlídky na "dva mandáty", zasel některé horečnaté odrazy.
 Bylo to oficiální oznámení jeho kandidatury?
-- Daleko od toho.
-Prezident pouze připomněl, že revidovaná výbava z roku 2008 omezila počet pětiletých funkčních období pouze na dvě.
-Uvedl fakta, ale neučinil žádné prohlášení.
-Není to poprvé, co se humorně zmiňuje o prezidentských volbách na takových schůzkách.
-V červenci 2009 řekl, že v nejlepším případě měli jen dalších sedm a půl roku.
-Rebelát v květnu 2010: Nevěřte, že jsem o tom přemýšlel až poté
-Jeho záměry z předchozího dne včera z něj neudělaly více nebo méně kandidáta než ten den předtím.
-Pokud příležitostně komentuje, důvod je dvojí.
+Daleko od toho.
+Prezident pouze připomněl, že revidované soudní výstavby z roku 2008 omezily počet pětiletých funkčních období pouze na dvě.
+Uvedl fakta, ale neučinil žádné oznámení.
+Není to poprvé, co se o prezidentských volbách na takových schůzkách humorně zmiňuje.
+V červenci 2009 řekl, že v nejlepším případě mají jen dalších sedm a půl roku.
+Rebelote v květnu 2010: Nevěřte, že jsem o tom přemýšlel až později
+Jeho záměry z celého dne ho neudělaly více ani o nic menším kandidátem než ty z předchozího dne.
+Pokud se k tomu přihlásí, důvod je dvojí.
 Na jedné straně zrychlení postupu kandidatury socialistické strany.
-Ale to není vstup do seznamů Segale Royal, což nutí Nicolase Sarkozyho, aby se odmaskoval.
-Důvodem je naopak to, že jeho kandidatura z roku 2012 je jasně to, co mnozí členové socialistické strany požadují, dřívější bojový plán, než jaký byl původně plánovaný.
+Není to ale vstup do seznamů Segolene Royal, který tlačí Nicolase Sarkozyho k demaskování sebe sama.
+Důvodem je naopak, že jeho kandidatura z roku 2012 je jasně to, po čem mnozí členové socialistické strany volají, což je dřívější plán bitvy, než ten původně plánoval.
 Špatné průzkumy, na druhou stranu.
-Poprvé voliči na pravici upřednostňovali kandidaturu Françoise Fillona k tomu Nicolase Sarkozyho (45% oproti 44%, podle EVA-L'Express).
-Zastánci premiéra okamžitě uvedli, že má kandidáta a že v UMP o tom nebyla žádná debata.
-Jean-Pierre Raffarin řekl, že kdyby on, kandidát, věřil, že porážka je možná, nebude kandidátem.
-Alain Juppé řekl tváří v tvář důkazům a nápravě, že kandidát by vždy věřil, že by mohl vyhrát.
-Euro: BCE je nucena koupit státní cenné papíry
-Posledním výročním zasedáním rady guvernérů Evropské centrální banky (BCE) muselo být příležitostí k upřesnění metod vynoření se z krize, nebo alespoň z oznámení ukončení velkého počtu nekonvenčních operací měnové politiky, které musí být dokončeny do konce roku.
-Evropská dluhová krize zavazuje vydávající institut ve Frankfurtu ve Frankfurtu, aby se bahavel méně perktivně, na bolest zhoršování situace, která je nyní více než dost napjatá již na evropských trzích povinností.
+Poprvé voliči na pravici preferovali kandidaturu Françoise Fillona před Nicolasem Sarkozym (45% proti 44%, podle EVA-L'Express).
+Zapojení premiéra okamžitě prohlásilo, že má kandidáta a že o tom v rámci UMP není žádná debata.
+Jean-Pierre Raffarin řekl, že pokud on, kandidát, věří, že porážka je možnost, nebude kandidátem.
+Alain Juppé řekl tváří v tvář důkazům a nápravě, že kandidát bude vždy věřit, že by mohl vyhrát.
+Euro: BCE byla nucena nakupovat státní cenné papíry
+Poslední výroční zasedání rady guvernérů Evropské centrální banky (BCE) muselo být příležitostí upřesnit metody vynoření se z krize, nebo alespoň oznámit konec dobrého počtu nekonvenčních operací měnové politiky, které musí být dokončeny do konce roku.
+Evropská dluhová krize zavazuje vydávajícímu institut ve Frankfurtu, aby se vystavoval méně provinčně, a to kvůli bolesti při zhoršování situace, která je nyní na evropských trzích dostatečně napjatá.
 Politické náklady by byly o to vyšší.
-Francouzská ministryně financí Christine Lagardeová na tiskové konferenci přivítala aktivní roli, kterou hrála BCE při řešení dluhové krize evropských států.
-Nepřála si říci, zda si myslí, že centrální banka musí udělat více, například tím, že zvýší svůj program nákupu státních dluhopisů.
+Včera na tiskové konferenci přivítala francouzská ministryně financí Christine Lagardeová aktivní roli, kterou hrála BCE, aby vyřešila dluhovou krizi evropských států.
+Nepřála si říct, zda si myslí, že centrální banka musí udělat více, například tím, že zvýší svůj program nákupu státních dluhopisů.
 Řekla, že své myšlenky sdělí svým evropským partnerům.
-V Bruselu den předtím během svého slyšení před komisí Evropského parlamentu pro hospodářské a měnové záležitosti, předseda BCE, Jean-Claude Trichet neprokázal více rozptýlený o svých záměrech a vyjádřil se s tím, že uvedl, že program nákupu státních cenných papírů na sekundárním trhu bude pokračovat a že uvidí, co bude rozhodnuto na zasedání ve čtvrtek.
-Jedinou jistotou: BCE by ponechala svou hlavní úrokovou sazbu beze změny na 1 %, historicky nejnižší od května 2009.
-Faktemina, že povinné nákupy ministerstva financí ze strany BCE se během minulého týdne zdvojnásobily na téměř 1,35 milionu eur.
-A podle indiskrétnosti operátorů trhu včera uskutečnila nové nákupy irských a portugalských dluhopisů.
-Centrální banky Eurosystému od května 2010 nakoupily Euro v hodnotě 67 tisíc milionů eur.
-Mezi organizátory trhu není pochyb o očekáváních hledání nákupů (viz strana 29).
-Ekonomové již neočekávají žádnou výraznou změnu stropu.
-Zatímco úvěrové operace na více než třech měsících již zmizely z arzenálu BCE Bank, ty nadále poskytuje neomezené hotovostní úvěry za velkorysých podmínek a po dobu od jednoho brýlí do tří měsíců.
+V Bruselu den před jeho slyšením před komisí pro hospodářské a měnové záležitosti Evropské komise Evropského parlamentu, předseda BCE, Jean-Claude Trichet, se neukázal více rozptýlený o svých záměrech, sám se spokojil s tím, že program nákupu státních cenných papírů na sekundárním trhu bude pokračovat a že uvidí, co bude rozhodnuto na schůzce ve čtvrtek.
+Jediná jistota: BCE by udržela svou hlavní úrokovou sazbu beze změny na 1%, historicky nejnižší od května 2009.
+Povinné státní pokladny BCE se v minulém týdnu zdvojnásobily na téměř 1,35 tisíc milionů eur.
+A podle nerozvážnosti tržních operátorů včera provedla čerstvé nákupy irských a portugalských dluhopisů.
+Celkem centrální banky Eurosystému od května 2010 nakoupily eura v hodnotě 67 tisíc milionů.
+Mezi provozovateli trhu není pochyb o očekávání honby za nákupy (viz strana 29).
+Ekonomové už neočekávají žádnou výraznou změnu stropu.
+Zatímco úvěrové operace ve více než třech měsících již zmizely z arzenálu BCE Bank, posledně jmenovaný nadále poskytuje neomezené peněžní úvěry za štědrých podmínek a na období od jednoho týden do tří měsíců.
 Ekonomové nyní očekávají, že zařízení bude prodlouženo o několik měsíců.
-Michael Schubert, ekonom Commerzbank, si nedokáže představit, že by ji v žádném případě modifikovala.
+Michael Schubert, ekonom z Commerzbank, si nedovede představit, že ji program do značné míry upraví.
 Říká, že by to způsobilo nové krátkodobé napětí.
 Norbest Bräms, ekonom společnosti Sal, říká, že postupný odchod, který má být oznámen během prvního čtvrtletí roku 2011, se zdá být pravděpodobnější.
-Oppenheimová.
-Norbet Bräms dodává, že na úrovni svých intervencí na trhu veřejného dluhu by BCE musela provést nákupy těchto dluhopisů adekvátně velkých, aby oživila nevýrazný trh.
-Vezmeme-li v úvahu velkou expozici evropských bank na trzích státních dluhopisů eurozóny, vydávající institut nemá jinou možnost než udržet přítomnost na trhu.
-Významný správce dluhopisů včera uvedl, že banka musí za každou cenu kompenzovat nedostatek investorů na trhu a zabránit boomu plateb nejzranitelnějších států.
-Protože pokud úrokové sazby vzlétnou, státy budou o to více dychtivé snížit jejich zadluženost nebo ji stabilizovat.
+Oppenheim.
+Norbet Bräms dodává, že na úrovni svých intervencí na trhu s veřejným dluhem by BCE musela nakupovat tyto dluhopisy adekvátně velké, aby oživila nevýrazný trh.
+S přihlédnutím k velké expozici evropských bank vůči trhům se státními dluhovými trhy eurozóny nemá vydávající institut jinou možnost než udržet přítomnost na trhu.
+Důležitý manažer dluhopisů včera řekl, že banka musí za každou cenu odškodnit nedostatek investorů na trhu a zabránit boomu plateb nejzranitelnějších států.
+Protože pokud úrokové sazby vzlétnou, státy budou o to více dychtivé snížit svou zadluženost, nebo ji stabilizovat.
 To je cena za ochranu eura.
 V Itálii se Berlusconiho vláda obrací zády.
-Po začátku znepokojivého týdne pro Itálii byla situace včera poněkud jednodušší s refluxem desetiletých povinných sazeb.
+Po začátku znepokojivého týdne pro Itálii byla včerejší situace poněkud jednodušší s refluxem 10 let povinných sazeb.
 Vraťte se k nejistému klidu.
-Po odchodu ze schůzky s ministrem hospodářství regionální prezidenti uvedli, že Giulio Tremonti popsal situaci jako „nezrušitelnou“ a že čeká na nepředvídatelný víkend, což následně popřel.
-V každém případě v úterý rozdíl mezi německými dlouhodobými sazbami dosáhl rekordních 210 základních bodů a cena smluv na pokrytí rizika bankrotu (CDS) vzrostl na 263 bodů, což v Římě vyvolalo určitou paniku.
-Na zasedání rady ministrů Silvio Berlusconi poukázal na to, že ve Španělsku byl rozdíl od německých sazeb více než 400 základních bodů.
-Ale jeho pravá ruka, Gianni Letta, se prohlásila za velmi znepokojena turbulencemi na trhu a možnou nákazou z Irska.
-Dobrou zprávou je, že Itálie, třetí největší ekonomika eurozóny, se nepodobá Řecku a Irsku.
+Při odchodu ze schůzky s ministrem hospodářství regionální prezidenti uvedli, že Giulio Tremonti označil situaci za "nerozlučitelnou" a že čeká na nepředvídatelný víkend, což následně popřel.
+V každém případě v úterý rozdíl mezi německými dlouhodobými sazbami dosáhl rekordu 210 základních bodů a cena smluv na pokrytí rizika bankrotu (CDS) vzlétla, aby dosáhla 263 bodů, což v Římě vyvolalo určitou míru paniky.
+Silvio Berlusconi na zasedání rady ministrů poukázal na to, že ve Španělsku byl rozdíl oproti německým sazbám přes 400 základních bodů.
+Ale jeho pravá ruka, Gianni Letta, se velmi znepokojila tržními turbulencemi a možnou nákazou z Irska.
+Dobrou zprávou je, že Itálie, třetí největší ekonomika eurozóny, není jako Řecko a Irsko.
 Podle Irwina Stezera, ekonoma z Hudsonova institutu, špatnou zprávou je, že je to jako Portugalsko.
-Je zřejmé, že jeho problémem je absence růstu a nedostatečných daňových příjmů, což státu v nebezpečí, že již nebude schopen pokrýt své finanční požadavky.
-Nejnovější prognózy z Bruselu se chovaly jako studená sprcha na vládě.
-Očekává se, že italský růst bude v roce 2011 činit 1,1% a 1,4% v roce 2012, whist rozpočet nyní pod dohledem záznamů Senátu 1,3 a 2,0% v tomto pořadí.
-Za těchto podmínek Evropská komise vypočítala, že schodek veřejných financí bude příští rok činit 4,3 % HDP (oproti 3,9 % předpokládaným vládou) a 3,5 % v roce 2012 (místo prognózy 2,7 %).
-To je důvod zvěsti o novém kolektivním rozpočtu ve výši 7 tisíc milionů eur, který by mohl být vypracován po svátcích.
+Je zřejmé, že jeho problémem je absence růstu a nedostatečných daňových příjmů, což vystavuje státu nebezpečí, že již nebude schopen pokrýt své finanční požadavky.
+Poslední prognózy z Bruselu se na vládu chovaly jako studená přeháňka.
+Očekává se, že italský růst bude v roce 2011 1,1 % a v roce 2012 1,4 %, což je nyní, což je nyní pod drobnohledem podle indexu Senátu 1,3 a 2,0 %.
+Za těchto podmínek Evropská komise vypočítá, že schodek veřejných financí bude v příštím roce činit 4,3 % HDP (o více než 3,9 % předpokládané vládou) a 3,5 % v roce 2012 (místo prognózy 2,7 %).
+To je důvod zvěsti o novém kolektivním rozpočtu ve výši 7 tisíc milionů eur, které by mohly být vypracovány po prázdninách.
 Komisař pro hospodářské záležitosti Olli Rehn řekl, že v případě potřeby budou muset být přijata nová úsporná opatření.
-V současné době má Itálie podporu od mezinárodních institucí.
-Arrigo Sadun, italský správce Mezinárodního měnového fondu odpovědný za Itálii v MMF, zajišťuje, že základy italské ekonomiky jsou zdravé.
-Pier Carlo Padoan, hlavní ekonom OCDE, uvádí, že v bezprostřední budoucnosti, v krátkodobém nebo dlouhodobém horizontu, žádný problém, protože navzdory svému velkému dluhu (119,2% GIP v roce 2011, NDLR).Stabilizační úsilí požadované od Itálie je menší než úsilí požadované od jiných zemí.
+Pro tuto chvíli se Itálii dostává podpory od mezinárodních institucí.
+Arrigo Sadun, italský správce Mezinárodního měnového fondu, který má na starosti Itálii v MMF, ujišťuje, že základy italské ekonomiky jsou zdravé.
+Pier Carlo Padoan, hlavní ekonom OCDE, uvádí, že v nejbližší budoucnosti není žádný problém, v krátkodobém nebo dlouhodobém horizontu, protože navzdory svému velkému dluhu (119,2% GIP v roce 2011 NDLR). stabilizační úsilí požadované od Itálie je menší než ty, které požadovaly od jiných zemí.
 Zůstává otázka politické nestability.
-Dne 14. prosince bude Silvio Berlusconi čelit návrhu na odsouzení v Poslanecké sněmovně, po kterém by se mohly konat předčasné všeobecné volby na konci března.
-Období, které není vhodné pro přijímání rozhodnutí v případě vážné krize, by pak začalo.
-Evropané přemýšlejí o způsobech posilování protikrizových zařízení.
-Christine Lagarde včera na tiskové konferenci v Paříži zatloukli následující domov: Řekla, že věří, že Evropané v neděli ukázali jak ve dne, tak v noci, že jsou odhodláni bránit svou měnu a svou měnovou zónu.
-I když to bylo jen relativní, tunoše zaznamenaná včera úrokovými sazbami z evropských státních dluhopisů přinesla vodu do mlýnů vlád a BCE.
-Ale ještě nelze vyjadřovat o začátku normalizace.
+Dne 14. prosince bude Silvio Berlusconi čelit návrhu na cenzuru náměstkovů v Poslanecké sněmovně, po kterém by se mohly konat předčasné všeobecné volby na konci března.
+Období, které se nehodí k přijímání rozhodnutí v případě vážné krize, by pak začalo.
+Evropané uvažují o prostředcích k posílení protikrizových zařízení.
+Christine Lagardeová včera na tiskové konferenci v Paříži zatloukla následující domov: Řekla, že věří, že Evropané v neděli i v noci ukázali, že jsou odhodláni bránit svou měnu a svou peněžní zónu.
+I když to bylo jen relativní, zadržení zde zaznamenané včera o úrokových sazbách na dluhopisech evropských států přineslo vodu do mlýnů vlád a BCE.
+Ale člověk zatím nemůže mluvit o začátku normalizace.
 Agentura Standard & Poor oznámila, že by mohla devalvovat portugalský dluh, cíl většiny dnešních spekulací.
-Ekonomové Exane BNP Paribas mají pocit, že stejně jako v květnu, existuje skutečný nedostatek jasnosti a zejména politické transparentnosti zatěžující bankovní systémy.
-O to více, protože politický čas se pohybuje mnohem pomaleji než čas na trhu.
-S vědomím této mezery a nebezpečí, které skrývá, evropské země zintenzivňují své diskuse zaměřené na posílení stávajících protikrizových zařízení.
-Neformální konzultace mezi ministry financí zemí, kteří jsou nejpříměji znepokojeni a více široce jejich protějškem G20, jsou velmi pokročilé.
-A také v očekávání zasedání Euroskupiny a Ecofinu na začátku příštího týdne.
-BCE se dnes sejde.
-Na pořadu jednání je osud nekonvenčních opatření na podporu zemí eurozóny v tržním kolimátoru (viz výše).
-Pokud jde o evropský fond finanční stability (FESF), jeho výkonný ředitel Klaus Regling zahájil turné po Asii od Singapuru, aby informoval investory z Dálného východu o pokroku krize i Europe.
-Zatímco předmětem těchto návštěv není získat finanční prostředky, je to určitě určeno k přípravě půdy, aby tak učinily.
-První emise dluhopisů FESF by se měla uskutečnit příští měsíc.
-Včera řekl oficiální americký zástupce agentuře Reuters, že Spojené státy podpoří možné navýšení finančních prostředků na přímé dodatečné zapojení MMF.
-Frontové lince, jako je Španělsko a Portugalsko, se připravují na přijetí strukturálních reforem, zejména pokud jde o organizaci trhu práce.
-Reformy, které jsou dodatečné k úsporným opatřením s rychlejším účinkem.
-Lisabon a Madrid si přejí vydat se na cestu odlišnou od té, kterou se vydalo Řecko a Irsko.
-Oba jsou dychtiví vyhnout se za jakýchkoli okolností žádat o mezinárodní pomoc, než zavedou své vlastní rozpočtové nápravné látky a rozhodnou o strukturálních reformách nezbytných pro obnovení dlouhodobé důvěry.
-A konečně, podporovateli evropských fondů diskutují o dostupných možnostech, jak urychlit proces normalizace trhů se státními dluhopisy.
-V Paříži dne 24. listopadu Axel Weber nejprve předložil myšlenku, že pokud by 750 tisíc milionů eur uvolněných Evropou a MMF nebylo adekvátních, odbory by se neváhal uchýlit k tomuto portfoliu.
-Ekonomové společnosti Barclay Capital, špičkový hráč na burzu na státním dluhu eurozóny, mají pocit, že nárůst o zhruba 100 tisíc milionů eur, což jepreferováno ve formě přímé peněžní injekce, by stačilo.
-Vozidlo existuje: Vozidlo existuje ve formě evropského mechanismu finanční stabilizace, který v současné době obsahuje 60 000 milionů eur.
-Poradenství, které by mohlo být v evropských hlavních městech pečlivě prozkoumáno.
-A co je nejdůležitější, pokud převažují podmínky na trhu.
+Ekonomové Exane BNP Paribas mají pocit, že stejně jako v květnu existuje skutečná nejasnost a politická transparentnost, která zatížení bankovními systémy.
+O to více proto, že politický čas se pohybuje mnohem pomaleji než čas na trhu.
+Evropské země, vědomy si této mezery a nebezpečí, která skrývá, zintenzivňují své diskuse zaměřené na posílení svých stávajících protikrizových zařízení.
+Neformální konzultace mezi ministry financí zemí, které jsou nejvíce přímo znepokojeny, a více rozšířeny jejich opačná čísla G20, jsou velmi pokročilé.
+A také v očekávání schůzek Euroskupiny a Ecofinu na začátku příštího týdne.
+BCE se dnes schází.
+Na programu je osud nekonvenčních opatření podpory zemím eurozóny v kolameru trhu (viz výše).
+Pokud jde o Evropský fond finanční stability (FESF), jeho výkonný ředitel Klaus Regling zahájil turné po Asii od Singapuru, aby informoval investory z Blízkého východu o pokroku krize v Evropě.
+Zatímco cílem těchto návštěv není získat finanční prostředky, určitě má k tomu půdu pro to připravit půdu.
+První emise dluhopisů FESF by se měly uskutečnit příští měsíc.
+Včera oficiální americký zástupce řekl agentuře Reuter, že Spojené státy podpoří možné navýšení finančních prostředků na přímé dodatečné zapojení MMF.
+Frontové senátní pěny, jako je Španělsko a Portugalsko, se chystají přijmout strukturální reformy, zejména pokud jde o organizaci trhu práce.
+Reformy, které jsou dodatečné k opatřením úsporných opatření s rychlejším účinkem.
+Lisabon a Madrid se chtějí vydat na cestu, která se liší od cesty, kterou podniklo Řecko a Irsko.
+Oba se za jakýchkoli okolností dbají na to, aby požádali o mezinárodní pomoc, než zavedou své vlastní rozpočtové opravné oprávnění a rozhodnou o strukturálních reformách, které jsou nezbytné pro obnovení dlouhodobé důvěry.
+Nakonec podporovatelé evropských fondů diskutují o dostupných možnostech, jak urychlit proces normalizace trhů se státními dluhy.
+V Paříži 24. listopadu Axel Weber nejprve předložil myšlenku, že pokud 750 tisíc milionů eur uvolněných Evropou a MMF nebude adekvátní, odbory by se neváhaly uchýlit se k portfoliu.
+Ekonomové z Barclay Capital, špičkového hráče na trhu státních dluhů Eureopean, mají pocit, že by stačilo zvýšení o zhruba 100 tisíc milionů eur, nejlépe ve formě přímé peněžní injekce.
+Vozidlo existuje: Vozidlo existuje ve formě evropského mechanismu finanční stabilizace, který v současné době obsahuje 60 tisíc milionů eur.
+Rada, která bude v evropských metropolích pravděpodobně pečlivě přezkoumána.
+A co je nejdůležitější, pokud budou převládat podmínky na trhu.
 Sníh a led: 24 departementů dostalo oranžové varování.
 Epizody sněhu stále způsobují dopravní problémy, zejména v sekundární síti v Bretani a mohou narušit určité ekonomické aktivity.
 Dvacet čtyři departementů je v oranžové pohotovosti kvůli riziku sněhu a ledu.
-Eure, Eure-et-Loir, Deux-Sèvres ad Vienne se připojili k 20 departementům již v oranžové pohotovosti, 18 od středečního odpoledne a dva, Dordogne a Gironde, později během noci.
-Podle Meteo France, kontinuální příval sněhu postihuje sever od Gironde a oba Charentes a to je na světle sněží nad Ile de France.
-Vklady sněhu od 2 do 5 cm, 7 až 10 cm v místech se očekávají v dotyčných departementech a 1 až 3 cm, skutečně až 5 cm v pařížském regionu.
-Dotčené departementy jsou Charente, Charente-Maritime, Cotes d'Armor, Finistere, Gironde, Dordogne, Poitou a regionů Basse-Normandie, Ile-de-France a Limousin.
-Podle Metea France jsou sněhové epizody dostatečně výrazné, aby vytvořily problémy s provozem dopravy a narušily určité ekonomické aktivity.
-V Cotes d'Armor je vyloučen přístup k vozidlům více než 7/5 tun na několik hlavních silnic, včetně Guingamp-Lanion a silnic Saint-Brieuc-Loudeac.
-Doprava na sekundární síti Brittany je velmi obtížná a četnictvo doporučuje, aby vozidla byla používána pouze tam, kde je to naprosto nezbytné. Doprava některých vozidel TER byla na tento den pozastavena.
-V Picardyho byla ve čtvrtek zakázána veškerá školní doprava.
-Na středeční večer nejsou zvažována žádná zvláštní opatření, která by omezila provoz těžkých nákladů.
-Prefektura žádá všechny řidiče, aby na silnicích vykonávali co největší péči a odpovídajícím způsobem přizpůsobili jejich řízení.
-Generální ředitelství civilního letectví (DGAC) požádalo všechny letecké společnosti, aby ve čtvrtek zrušily 25% svých letů na letiště Roissy a 10% na letiště Orly, kvůli očekávanému sněžení.
-DGAC doporučuje cestujícím v letecké dopravě, aby kontaktovali svého dopravce.
-Ve Velké Británii bude letiště Gatwick v jižním Londýně a letiště v Edinburghu ve Skotsku uzavřeno až do čtvrtečního rána.
+Eure-et-Loir, Deux-Sèvres a Vienne se připojili k 20 departementům, které jsou již v oranžové pohotovosti, 18 od středečního odpoledne a dva, Dordogne a Gironde, později během noci.
+Podle Meteo France souvislé přívaly sněhu zasahují sever Girondy a jak Charenty, a to lehce sněží nad Ile de France.
+V dotyčných departementech se očekávají ložiska sněhu od 2 do 5 cm, místa 7 až 10 cm a 1 až 3 cm, skutečně až 5 cm v pařížském regionu.
+Dotyčná oddělení jsou Charente, Charente-Maritime, Cotes d'Armor, Finistere, Gironde, Dordogne, Poitou a oblasti Basse-Normandie, Ile-de-France a Limousin.
+Podle Meteo France jsou sněhové epizody dostatečně výrazné, aby vytvořily dopravní problémy a narušily určité ekonomické aktivity.
+V Pochodu d'Armor je zakázán přístup k vozidlům o více než 7/5 tun na několik hlavních silnic, včetně Guingamp-Lannon a silnic Saint-Brieuc-Loudeac.
+Provoz na bdělé sekundární síti je velmi obtížný a četnictvo doporučuje, aby vozidla měla být používána pouze tehdy, pokud je to nezbytně nutné. Provoz některých TER veletrzích byl na den pozastaven.
+V Picardy byla ve čtvrtek zakázána veškerá školní doprava.
+O žádných zvláštních opatřeních se neuvažuje o středečním večeru, která by omezila provoz těžkých nákladů.
+Prefektura žádá všechny řidiče, aby si vyučili co největší péči na silnicích a podle toho přizpůsobili svou jízdu.
+Generální ředitelství civilního letectví (DGAAC) požádalo všechny společnosti letecké dopravy, aby ve čtvrtek zrušily 25% svých letů na letiště Roissy a 10% na letiště Orly, kvůli očekávanému sněžení.
+DGAC doporučuje cestujícím v letecké dopravě kontaktovat svého dopravce.
+Ve Velké Británii bude letiště Gatwick v jižním Londýně a letiště Edinburgh ve Skotsku uzavřeno až do čtvrtečního rána.
 Metro Grand Paris: První finanční návrhy;
-Od doby, kdy debata o modernizaci dopravy v Ile-de-France dosáhla svého nejvyššího bodu, tisíce milionů eur krvácejí.
+Od doby, kdy debata o modernizaci dopravy v Ile-de-France dosáhla svého nejvyššího bodu, krvácely tisíce milionů eur.
 V diskusi o prostředcích.
-Zmínka se provádí zejména z 23 tisíc milionů eur pro metro Grand Paris, které má Grand Paris Company postavit.
-Pro zahájení této SGP, stát oznámil příspěvek 4 tisíc milionů eur.
-V teoretickém schématu je to tato částka, která pak umožní SGP půjčit si na trhu část financování své dvojité smyčky.
-Dnes. začaly první výpočty.
-Zákon z roku 2010 týkající se financování oprav, který dnes ráno posuzuje parlamentní finanční komise, obsahuje prostředky potřebné pro nalezení počáteční částky.
-Existují dva z nich: vytvoření zvláštní daně z vybavení a zvýšení daně z úřadů v Ile-de-France.
-První, říká článek 15 návrhu zákona, je "pro založení společnosti Grand Paris".
+Zmínka se uvádí zejména o 23 tisících eur pro metro Grand Paris, které má velkopamětská pařížská společnost postavit.
+Pro založení tohoto Splého a SLP oznámil stát příspěvek ve výši 4 tisíc milionů eur.
+V teoretickém schématu je to tato částka, která pak umožní Pak SLP půjčit si na trhu část financování své dvojí smyčky.
+Dnes. první výpočty začaly.
+Zákon z roku 2010 týkající se opravného financování, který dnes ráno přezkoumává parlamentní finanční komise, obsahuje prostředky potřebné pro nalezení počáteční částky.
+Jsou dva z nich: vytvoření daně ze speciálního vybavení a zvýšení daně z kanceláří v Ile-de-France.
+První, říká článek 15 návrhu zákona, je "za založení společnosti Grand Paris".
 Elle est chiffrée: Říká: Výnos této daně je 117 milionů eur ročně.
-Druhým je přepracování daně z kancelářského formuláře, které již existuje „za účelem modernizace, zvýšení výnosu a přidělit toto zvýšení společnosti Grand Paris“.
-- Kolik to přinese?
+Druhým je přepracování daně z úřadů, která již existuje "aby se modernizovala, zvýšila svůj výnos a přidělila tento nárůst společnosti Grand Paris".
+Kolik toho přinese?
 Záhada.
-To v textu není uvedeno.
-To zdaleka nedosahuje 4000 milionů.
-Odhalení uvádí, že daňové zdroje jsou navíc k 4 000 milionům eur kapitálu, které mají být investovány státem a předány velké pařížské společnosti, jak projekt postupuje.
-SGP nepovažuje tento systém za šokující.
-Vysvětluje se, že od okamžiku, kdy byly vytvořeny dva zdroje hotovosti (dva daně, ndr), by bylo možné pokrýt náklady na tři roky studia a pak se uchýlit k 4 tisícům eur.
-"To by bylo zahrnuto do rozpočtu a vypracováno, jak se projekt vyvíjí."
-SGP odhaduje, že 4 tisíce eur budou zahrnuty do rozpočtu na rok 2013 v roce 2020.
-Toto zařízení, ve kterém jsou již zahrnuty slíbené 4 miliony eur, může vést k poněkud vzrušené parlamentní debatě.
-První veřejné setkání 7. prosince.
+To v textu nefiguruje.
+Zhruba 4 tisíce milionů se mu nedaří.
+Odhalení uvádí, že daňové zdroje jsou další na 4 tisíce milionů eur kapitálu, které má být investovány státem a předány společnosti Velké Paříži, jak projekt postupuje.
+SGP tento systém nepovažuje za šokující.
+Vysvětluje se, že od okamžiku, kdy byly vytvořeny dva zdroje hotovosti (dvoje daně, ndlry), by bylo možné pokrýt náklady na tři roky studia a poté se uchýlit k 4 tisíc milionů eurům.
+"To by bylo zahrnuto v rozpočtu a čerpané, jak se projekt vyvíjí"
+SLP odhaduje, že 4 tisíce milionů eur by byly zahrnuty do rozpočtu na rok 2014.
+Toto zařízení, ve kterém jsou již přihlášené 4 tisíce milionů eur zahrnuty, může vést k poněkud vzrušené parlamentní debatě.
+První veřejné zasedání dne 7. prosince.
 Pomstychtiví hackeři a špioni čekají.
 Aféra WikiLeaks má dvojí význam.
-Na jedné straně je to skandál, který vypadal skandálem jen ve světle pokrytectví, které převládá ve vztazích mezi státy, občany a tiskem.
-Na druhé straně oznamuje hluboké změny na mezinárodní úrovni a poukazuje na budoucnost, které dominuje regres.
-Vezměme si věci ve správném pořadí.
-Prvním aspektem WikiLeaks je potvrzením skutečnosti, že každý případ tajné služby (jakékoli země) se skládá výhradně z výstřižků z tisku.
-"Mimořádné" americké odhalení o sexuálních návycích Berlusconiho pouze uvádějí, co bylo možné číst měsíce v jakémkoliv denním (s výjimkou těch, kteří patří Berlusconi) a zlověstný karikaturní profil Khadafiho byl již dlouho materiálem kabaretních umělců.
-Pravidlo, podle kterého mohou tajné soubory obsahovat pouze již známé zprávy, je nezbytné pro dynamické tajné služby, a to nejen v tomto století.
-Pokud navštívíte knihovnu věnovanou americkým publikacím, uvidíte, že každé dílo se opakuje (znepokojující Grál, tajemství Rennes-le-Chateau, templářů nebo Rosicruců) přesně to, co bylo již uvedeno v předchozích dílech.
-A to nejen proto, že autor okultulských textů nerad dělá dříve nepublikovaný výzkum (a neví, kde hledat zprávy o tom, co neexistuje), ale proto, že ti, kteří se jim věnují okultuře, nevěří tomu, co už vědí a co se již naučili.
-To je mechanismus úspěchu Dana Browna.
-Totéž platí i pro tajné soubory.
-Informátor je líný a líný (nebo omezený) je také vedoucím tajné služby (jinak by mohl být, pokud vím, editorem v Liberation), který nepovažuje za pravdivé to, co uznává.
-Přísnější tajné informace o Berlusconim, které americko-lámejské velvyslanectví v Římě poslalo ministerstvu zahraničí, byly stejné jako to, co Newsweek zveřejnil o týden dříve.
-Tak proč ta odhalení o těchto složkách dělala tolik hluku?
-Na jedné straně říkají, že každý kultivovaný člověk již ví, že velvyslanectví, přinejmenším od konce druhé světové války, a protože hlavy států by si mohly navzájem telefonovat nebo létat, aby se setkaly na večeři, ztratily svou diplomatickou funkci a s výjimkou některých malých reprezentačních cvičení se staly střediskem špionáže.
-Každý divák filmových filmů to velmi dobře zná a je pokrytecký předstírat, že ne.
-Nicméně, opakování na veřejnosti porušuje povinnost být pokrytecký a staví americkou diplomacii pouze do špatného světla.
-Za druhé, myšlenka hackera, který je schopen získat nejhlubší tajemství nejmocnější země na světě, představuje významnou ránu prestiži ministerstva zahraničí.
-Skandál se týká jak obětí, tak i „popravčích“ stejně.
-Ale podívejme se na profédující povahu toho, co se stalo.
-Dříve, v dobách Orwella, člověk mohl vidět veškerou moc jako Velký bratr, který ovládal každý čin svých poddaných.
-Orwellovské proroctví se ukázalo jako zcela pravdivé, protože díky telefonu, navštíveno bylo hotel plně kontrolován, dálnice vzat a tak dále se občan stal úplnou obětí oka moci.
-Ale když člověk ukáže, co se stane nyní, že dokonce i tajemství mocenského kanyta unikne kontrole hackera, kontrolní zpráva přestane být jednosměrná a je schopna šířit.
-Moc kontroluje každého občana, ale každý občan, nebo alespoň hacker jako občanův pomsta, se může naučit všechna tajemství moci.
-Jak může moc trvat, když už nemůže udržet svá tajemství?
-Je pravda, jak již řekl George Simmel, že skutečné tajemství je prázdným tajemstvím a nemůže být nikdy odhaleno; je také pravda, že vědět vše o charakteru Berlusconiho nebo Merkelové je tajným zbavením utajení, protože je to ve veřejné doméně, ale odhalit, jak to učinily WikiLeaks, že tajemstvím Hillary Clintonové jsou prázdná tajemství, znamená vzít celou její moc.
-WikiLeaks Sarkozyho ani Merkelovou nezranil, ale značně zranil Clintonovou a Obamu.
-Jaké budou důsledky této újmy způsobené velmi mocné entitě?
-Je zřejmé, že v budoucnu státy již nebudou moci umisťovat na linku tajné informace, což by bylo jako jejich zveřejnění na rohu ulice.
-Je však také jasné, že se současnými technologiemi je zbytečné doufat, že bude moci diskutovat o důvěrných zprávách po telefonu.
-Není nic jednoduššího, než zjistit, zda a kdy hlava státu odletěla a kontaktovala jednoho ze svých kolegů.
+Na jedné straně je to skandál, který vypadal skandálně jen ve světle pokrytectví, které panuje ve vztazích mezi státy, občany a tiskem.
+Na druhé straně oznamuje hluboké změny na mezinárodní úrovni a poukazuje na budoucnost ovládanou regresí.
+Ale vezměme si věci ve správném pořadí.
+Prvním aspektem WikiLeaks je potvrzení skutečnosti, že každý případ tajné služby (v každé zemi) se skládá výhradně z tiskových škrtů.
+"mimořádná" americká odhalení o sexuálních návycích Berlusconiho uvádějí pouze to, co bylo možné číst měsíce v každém denním (s výjimkou těch, kteří patřili Berlusconimu) a zlověstný karikaturní profil Khadadiho byl dlouho kabaretní uměleckou sketchotní materiálem.
+Pravidlo, podle kterého mohou tajné spisy obsahovat pouze již známé zprávy, je nezbytné pro dynamické tajné služby, a to nejen v současném století.
+Pokud navštívíte knihovnu věnovanou americkým publikacím, uvidíte, že každé dílo se opakuje (týkající se Grálu, tajemství Rennes-le-Chatau, templářů nebo Rosikruciánů), přesně to, co bylo již uvedeno v dřívějších dílech.
+A to nejen proto, že autor okultních textů nerad dělá dříve nepublikovaný výzkum (a neví, kde hledat zprávy o tom, co neexistuje), ale proto, že ti, kteří se věnují okullativu, nevěří tomu, co už vědí a co potvrzuje to, co se již naučili.
+Tohle je úspěšný mechanismus Dana Browna.
+Totéž platí pro tajné spisy.
+Informátor je líný a líný (nebo omezený) je také šéfem tajné služby (jinak by mohl být, pokud vím, redaktorem Liberation), který nepovažuje za pravdivé to, co uznává.
+Náměstek tajných informací o Berlusconiho, které americká ambasáda v Římě zaslala na ministerstvo zahraničí, byly stejné jako ty, které Newsweek zveřejnil týden předtím.
+Proč tedy odhalení o těchto souborech vydávalo tolik hluku?
+Na jedné straně říkají, že každý kultivovaný člověk již ví, že ambasády mají, alespoň od konce druhé světové války a od té doby, co si hlavy států mohly telefonovat jeden druhému nebo létat na večeři, ztratily diplomatickou funkci a s výjimkou několika malých reprezentačních cvičení se staly centry špionáže.
+Každý divák vyšetřovacích filmů to velmi dobře zná a je pokrytecké předstírat, že ne.
+Přesto jeho opakování na veřejnosti porušuje povinnost být pokrytecký a pouze staví americkou diplomacii do špatného světla.
+Zadruhé, myšlenka, že hacker bude schopen získat nejhlubší tajemství nejmocnější země světa, představuje významnou ránu prestiž ministerstva zahraničí.
+Skandál se týká obětí i "popravců" stejně.
+Ale podívejme se na hluchou povahu toho, co se stalo.
+Dříve, v Orwellových dnech, člověk mohl vidět veškerou moc jako Velký bratr, který kontroloval každou akci svých poddaných.
+Orwellovské proroctví se ukázalo jako zcela pravdivé, protože díky telefonu bylo možné být zcela kontrolováno, hotel navštívil, dálnici a tak dále se občan stal totální obětí oka moci.
+Ale když člověk ukáže, co se stane nyní, že dokonce i tajemství mocenské kantany unikají kontrole hackera, kontrolní zpráva přestává být jednosměrná a je schopna cirkulovat.
+Moc kontroluje každého občana, ale každý občan, nebo alespoň hacker jako pomstychtač občana, se může dozvědět všechna tajemství moci.
+Jak může moc vydržet, když už nedokáže udržet svá tajemství?
+Je pravda, jak už George Simmel řekl, že skutečné tajemství je prázdné tajemství a nelze je nikdy objeveno; je také pravda, že znát všechno o charakteru Berlusconiho nebo Merkelové je tajný nedostatek tajemství, protože je ve veřejné doméně, ale zveřejnit, jak to udělal WikiLeaks, že tajemství Hillary Clitonové byla prázdná tajemství, znamená, že jí odeberou veškerou moc.
+WikiLeaks nezranila Sarkozyho ani Merkelovou, ale Clintonovou a Obamu značně zranila.
+Jaké budou důsledky tohoto zranění způsobeného na velmi mocné entitě?
+Je zřejmé, že v budoucnu již státy nebudou moci umisťovat tajné informace, což by bylo jako jejich zveřejnění na rohu ulice.
+Je ale také jasné, že se současnými technologiemi je zbytečné doufat, že bude moci diskutovat o důvěrných zprávách na telefonu.
+Není nic jednoduššího, než zjistit, zda a kdy odletěla hlava státu a kontaktovala jednoho z jeho kolegů.
 Jak lze v budoucnu prodiskutovat soukromé a důvěrné zprávy?
-Vím velmi dobře, že v tuto chvíli je moje předpověď sci-fi a fantážní, ale musím si představit vládní agenty, kteří cestují diskrétně cestami, které nelze zkontrolovat a že se naučili zprávy nazpaměť, nebo mají skryté písemné informace v patách boty.
-Informace budou na jediném výpočtu uložené v přepážce; v podstatě pokus Watergateho espionage byl méně úspěch než WikiLeaks. au fond, la předběžný de'espionnage du Watergate a eu moins de succès que WikiLeaks.
+Velmi dobře vím, že v tuto chvíli je moje předpověď sci-fi a fantazijní, ale musím si představit vládní agenty, kteří cestují diskrétně na trasách, které nemohou být kontrolovány a že se naučili zprávy nazpaměť, nebo zatajili písemné informace v patě boty.
+Informace budou na jediném kopci uchovávaném v uzamčené dceře; v podstatě pokus Watergate byl méně úspěšný než WikiLeaks. au milí, la předběžná d'espionnage du Watergate a eu moins de succès que WikiLeaks.
 Měl jsem příležitost napsat, že technologie jde dopředu jako krab, a to pozpátku.
-Století po vynálezu bezdrátové telegrafie revolucionizovala komunikaci, internet obnovil telegrafii (telefon).
-Videokazety (analog) umožnily filmovým výzkumným pracovníkům prozkoumat film krok za krokem jít dozadu a dopředu a objevit všechna tajemství montáže, zatímco digitální CD je pouze umožňuje skákání z kapitoly do kapitoly, slovenně makropodlibí.
-S vysokorychlostními vlaky lze cestovat z Říma do Milána za tři hodiny, zatímco letím je zapotřebí celkem tři a půl hodiny.
-Je proto ne mimořádné, že se politika a komunikační techniky vracejí kočárům taženým koňmi.
-Poslední pozorování.
-V jiných dnech se tisk snažil pochopit, co se na ambasádách děje tajně.
-Nyní jsou to velvyslanectví, která žádají tisk o důvěrnicových informací.
-Klima: Jak Francie manipuluje se svými sliby o financích.
-Rok po kodaňské dohodě je čas podívat se na dodržování slibů rychlých financí (tzv. rychlého startovního financování) rozvinutých zemí.
-A rozsáhlé manipulace kamera na světlo.
-Podle kodaňské dohody se rozvinuté země v letech 2010 až 2012 zavázaly poskytnout 30 tisíc milionů dolarů.
-Evropská unie přislíbila během tří let 7,2 miliardy eur a Francie 1,25 miliardy eur (420 milionů ročně).
-Když se COP16 otevřela, Evropská unie se snažila přesvědčit své partnery o pravosti svého závazku k rychlému zahájení financování a předložila zprávu podrobně popisující akce svých členských států, tiskových cen, hlavních vedlejších událostí, distribuce brožur... vztahu détaillant l'action de ses Ettech, conence de presse, grand vedlejší události, distribuce de brožur...
-Transparentnost operace je značná a oceňována ve své spravedlivé hodnotě: rozvojové země a občanská společnost dělají totéž a na stejné úrovni přesnosti. méně platí en development et la société civile aimeient tous méně platí dévelopés de même de prekézium.
-Evropská unie oznámila, že v roce 2010 vyčlenila 2,2 000 milionů eur, což je dobrý důkaz svého souhlasu se svým příslibem ve výši 7,2 milionu eur v roce 2012.
-Ale při pohledu na detaily, věci jsou složitější.
-Tyto peníze musí být podle kodaňské agreenmentu „nové a dodatečné“, aby zajistily, že bude vynaloženo doplňkové úsilí, aniž by došlo k újmě na veřejné rozvojové pomoci.
-Bohužel neexistuje žádná shoda o tom, co znamená „nový a dodatečný“.
+Sto let poté, co vynález bezdrátové telegrafie způsobil revoluci v komunikaci, internet obnovil drátovou telegrafii (telefon).
+Videokazety (analog) umožnily pracovníkům výzkumu kin prozkoumat filmový krok za krokem zpět a zpět a objevovat všechna tajemství montáže, zatímco digitální CD umožňuje skákání z kapitoly na kapitolu, pojď je na makroměry.
+S vysokorychlostními vlaky můžete z Říma do Milána za tři hodiny, zatímco letecky je zapotřebí celkem tři a půl hodiny.
+Není proto mimořádné, že se politika a komunikační techniky vracejí k koňským povozům.
+Poslední postřeh.
+V jiných dobách se tisk snažil pochopit, co se děje v tajnosti na ambasádách.
+Nyní jsou to ambasády, které žádají tisk o důvěrné informace.
+Klima: Jak Francie manipuluje se svými sliby financí.
+Rok po kodaňské dohodě je čas podívat se na dodržování slibů rychlých financí (tzv. rychlých financí startu) rozvinutými zeměmi.
+A rozsáhlá manipulace s kamerou na světlo.
+Podle kodaňské dohody rozvinuté země v letech 2010 až 2012 vybaví 30 tisíc milionů dolarů.
+Evropská unie slíbila 7,2 tisíce milionů eur během tří let a Francie 1,25 tisíc milionů eur (420 milionů ročně).
+Když se COP16 otevřela COP16, Evropská unie se snažila přesvědčit své partnery o pravosti svého závazku k rychlému zahájení financování a předložil zprávu podrobně popisující akce jejích členských států, tiskové konference, hlavní vedlejší události, distribuci brožur... raptailant l'action de ses Etats membres, confeérence de presse, velká postranní událost, distribuce de brožur...
+Transparentnost provozu je značná a oceňována za svou spravedlivou hodnotu: rozvojové země a občanská společnost dělají totéž a na stejné úrovni přesnosti. méně platí en développement et la société civilní remeraient ques les pays de même avec un même niveau de precsion.
+Evropská unie oznámila, že v roce 2010 přidělena v roce 2010 2,2 tisíce milionů eur, což je dobrý výsledek dodržování svého slibu ve výši 7,2 tisíce milionů eur v roce 2012.
+Ale při pohledu na detaily jsou věci složitější.
+Tyto peníze musí být podle kodaňské zeleně "nové a dodatečné", aby bylo zajištěno, že bude vynaloženo dodatečné úsilí bez újmy na veřejné rozvojové pomoci.
+Bohužel neexistuje žádná shoda na tom, co znamená "nové a další".
 Nyní, když Evropská komise navrhla harmonizaci, některé členské státy včetně Francie tento postup zablokovaly.
-Dnes si každý vybírá, co mu vyhovuje/nejlepším.
-Evropská komise například přijala svůj odkaz v roce 2009; mezinárodní finance jsou udržovány a přidává 150 milionů během 3 let jako rychlé počáteční financování. les finance internacionalment internacionalus sonet maintenus, et el y a counout 150 milionů sur trois an au au titre des finance, rychle začínají.
-Jiné země zvolily podobné odkazy z hlediska roku nebo úrovně pomoci v oblasti veřejného rozvoje.
-Naopak, Francie považuje financování všech nových projektů za „nové a dodatečné projekty“ z roku 2010.
-Jinými slovy, neexistuje žádný odkaz na náklady předchozích let nebo na celém světě na podporu veřejného rozvoje.
-Přesné, že celková podpora, kterou Francie poskytla rozvojovým zemím, může zůstat stabilní (nebo dokonce klesat), Francie tvrdí, že dodržuje svůj závazek v ústraEJEKU „novým a dodatečným“ financím.
-Dalším zásadním prvkem, oddělení darů a půjček.
-Tam opět neexistuje žádné pravidlo a každý si vybírá svou vlastní metodu výpočtu.
-Někteří, jako Francie, se domnívají, že euro zapůjčení se rovná darovanému euru.
-Je zřejmé, že je to obtížné ospravedlnit; úsilí není otřepané. l'effort n'est pas srovnatelný.
-Pokud může být zvyk úvěrů odůvodněn pro určité investice, které jsou ziskové (často projekty spojené s emisemi, které se spoléhají na účinnější technologie), je klamné volat euro, které se bude zotavovat jako darované euro.V doplňku by měly být přijaty pouze náklady na půjčku do země věřitele, měly by být přijaty do akuntu jako její závazek (což je rovno se úrokovým sazbou).
-Ale Francie potřebuje jen jen důvod, proč „pozoruje“ svůj závazek ve výši 420 milionů eur, které činí 91,5% úvěrů (399,8 milionu EUR) a 8,5% darů (36,1 milionů EUR) - viz dokument Evropské unie pro vaše vlastní očerňování. elle "respektujte" syn angažovanost de 420 milionů d'euros en faisant, 915 % de prêts (389,8 milionů d'Euro.E nalijte vérifier par vous-même.
-Je jedinou zemí Unie, která používá půjčky v takovém měřítku.
-Německo půjčuje 46%, zatímco Dánsko, Nizozemsko a Slovensko (mimo jiné) sledují svůj odběr se 100% jako dary.
-Jinými slovy, když velká většina Evropské unie dává 1 euro, aby splnila svůj závazek, Francie dává pouze 10 centimů a považuje své úsilí za srovnatelné.
-Pěkné sádrokarternoje z ruky!
-Srovnejte, Francie působí ve svém rychlém počátečním financování, dvojité vydírání: na jedné straně, na evoluci akce v průběhu času a na druhé straně, na realitě finančního úsilí. d'une část  l'evollution de l'aaction dans le temps et d'autre část sur la réalte de l'efforter.
-Tím, že utratila pouze 36,1 milionu eur, si myslí, že vytváří víru, že utrácí 420 milionů „nových a dodatečných“ eur, jak slíbila.
-Manipulace ministerstva financí (protože se zdá, že je to Bercy, kdo realizoval arbitráž) by mohla mít dvojnásobný negativní dopad, a to jak v rámci Evropské unie (proč by měly ostatní členské státy nadále dávat, pokud je to dostatečné půjčky?) a v jednáních, protože rozvojové země nejsou zcela podvedeny.
-Počáteční finanční kapitola je jen malá, relativně krátkodobá záležitost ve vztahu ke všem diskusím o klimatu.
-Ale mohlo by to být ponuší více zrnka písku v obrovském stroji, UNFCCC.
-Doufejme, že tomu tak nebude.
-V každém případě je nezbytné vyvodit ponaučení z tohoto prvního roku raných financí.
-Za prvé, Francie by mohla oznámit změnu ve své metodě účetnictví pro roky 2011 a 2012 v duchu plnění svých závazků a rovnosti s ostatními zeměmi Evropské unie.
-Ale především by Francie mohla podporovat diskuse o dlouhodobých finančních podílech (další klíčová kapitola, o které se v současné době diskutuje); není možné se vyhnout otázce „addicionality“ nebo způsobu účetnictví půjček. na n’échappera pas à la otázku de „l'additalité“ ou du rematization des prêts.
-Francie by mohla změnit svůj postoj, aby se stala tak progresivní v těchto sázkách jako na ostatních.
-Naděje proto spočívá na novém ministru životního prostředí, panu Kosciusko-Morizetovi, který dorazí do Casunu příští týden.
-Překvapivé oznámení o rychlém startu Francie a na základě názoru „aditionality“ a využívání úvěrů by zvýšilo úroveň mezinárodní důvěry potřebné pro pokrok v těchto diskusích.
+Dnes si každý vybere, co mu vyhovuje/je to nejlépe.
+Evropská komise si například vzala svůj odkaz v roce 2009; mezinárodní finance jsou udržovány a přidává 150 milionů během 3 let jako rychlé počáteční finance. méně financí internacionála sonta maintentus, et y poptávkou 150 milionů sur as au titre des finances rychle start.
+Jiné země zvolily podobné odkazy z hlediska roku, nebo úrovně veřejné rozvojové pomoci.
+Francie naopak považuje financování všech nových projektů za „nové a další projekty“ z roku 2010.
+Jinými slovy, neexistuje žádná zmínka o nákladech předcházejících let nebo globálně na pomoc v oblasti veřejného rozvoje.
+Konkrétně může celková podpora poskytnutá Francií rozvojovým zemím zůstat stabilní (nebo dokonce pokles) Francie tvrdí, že dodržuje svůj závazek v reakci na "nové a další" finance.
+Další zásadní prvek, oddělení darů a půjček.
+Tam opět neexistuje žádné pravidlo a každý si vybírá svůj vlastní způsob výpočtu.
+Někteří, jako Francie, se domnívají, že eurem půjčka se rovná darovanému euru.
+Je zřejmé, že je to obtížné ospravedlnit; úsilí není srovnatelné. l'fort n'est pas srovnatelné.
+Pokud může být zvyk úvěrů odůvodněn pro určité investice, které jsou ziskové (často projekty spojené s emisemi, které se spoléhají na účinnější technologie), je klamné nazývat euro, které se vrátí jako darované euro..Vzdorem navíc by měly být do kunatu převzaty pouze náklady na úvěr pro zemi věřitelů jako její závazek (rovnocen úrokovou sazbou).
+Ale Francie potřebuje pouze důvod, proč si "pozoruje" závazek ve výši 420 milionů eur, který činí 91,5% z půjček (399,8 milionu eur) a 8,5% darů (36,1 milionu eur) - viz dokument Evropské unie pro vaši vlastní ověřážnost. elle "respect" angažovanost syna de 420 milionů de'euros en faisant 91,5% de prêts (389,8 milionů d'euros)aurový výrobce par vous-même.
+Je jedinou zemí Unie, která využívá půjčky v tak masivním měřítku.
+Německo půjčuje 46 %, zatímco Dánsko, Nizozemsko a Slovensko (mimo jiné) dodržují své vybavení se 100% jako dary.
+Jinými slovy, když velká většina Evropské unie dává 1 euro, aby splnila svůj závazek, Francie dává pouze 10 procent a považuje své úsilí za srovnatelné.
+Pěkná sleight ruky!
+Shrneme-li, Francie funguje ve svém rychlém počátečním financování, dvojité vydírání: na jedné straně, na základě vývoje akce v průběhu času a druhé ruky, realitě finančního úsilí. d'une část sur l'évolution de l'action dans le temps et d'autre part sur la réalité de l'effort finančník.
+Tím, že pouze utratí 36,1 milionu eur, si myslí, že vyvolává víru, že vynakládá 420 milionů "nových a dalších" eur, jak sliboval.
+Manipulace s ministerstvem financí (protože se zdá, že je to Bercy, kdo provedl arbitráž) by mohla mít dvojnásobný negativní dopad, a to jak v rámci Evropské unie (proč by měly i nadále dávat ostatní členské státy, pokud je půjčování dostatečné?) a v jednáních, protože rozvojové země nejsou zcela oklamány.
+Kapitola o raných financích je jen malou, relativně krátkodobou záležitostí ve vztahu ke všem diskusím o klimatu.
+Ale mohlo by to být více zrno písku v obrovském stroji, UNFCCC.
+Doufejme, že tomu tak není.
+V každém případě je nezbytné čerpat ponaučení z tohoto prvního roku raných financí.
+Za prvé, Francie by mohla oznámit změnu svého způsobu účetnictví pro roky 2011 a 2012 v duchu plnění svých závazků a spravedlnosti s ostatními zeměmi Evropské unie.
+Ale především by Francie mohla propagovat diskuse o dlouhodobých finančních sázkách (v současné době se diskutuje o další zásadní kapitole); není možné se vyhnout otázce "dodatnosti" nebo způsobu účetní konce půjček. na n'échappera pas à la otázka de "l'additionalité" ou du mode de comptabilisation des prêts.
+Francie by mohla změnit svůj postoj, aby se stala tak progresivními v těchto sázkách jako ona na ostatní.
+Naděje tedy spočívá na novém ministru životního prostředí, Mme Kosciusko-Morizetové, která dorazí do Kazu příští týden.
+Překvapivé oznámení o rychlém startu Francie a o pohledu na "dodatnost" a využití úvěrů by zvýšilo úroveň mezinárodní důvěry potřebné pro pokrok v těchto diskusích.
 Upozornění na pesticidy konzumované dětmi.
-Podle studie zveřejněné ve středu sdružením Future Generations (zcidelný Hnutí za práva a respektování budoucích generací) dítě 10 spotřebuje za jeden den 81 různých chemických látek.
-Sdružení, které předpovídá, že její výsledky nemají, vzhledem k malému počtu analyzovaných vzorků, jakoukoli významnou statistickou hodnotu, ale ilustrují problém, který je řešen, koupil v ermarketech Oise a Paříže mezi červencem a zářím, koš potravin, které obvykle konzumuje ve čtyřech jídlech dítětem deseti dětí.
-Tato jídla, která procují oficiální doporučení, pět kusů čerstvého ovoce a zeleniny, tři mléčné výrobky a 1,5 litru vody, stejně jako lahůdky, byly zkoumány klinickými výzkumnými laboratořemi zabývajícími se chemikáliemi, pesticidy, těžkými kovy a dalšími znečišťujícími látkami.
-Rozvaha je ohromující: 81 chemických látek včetně 42 klasifikovaných jako potenciálně nebo pravděpodobně karcinogenní a pět je klasifikováno jako určitě karcinogenní, stejně jako 37 látek schopných vyvolat endokrinní poruchy, podle studií několika institucí, jako je Mezinárodní centrum pro výzkum rakoviny.
-Podle Associaiton, i když téměř ve všech případech nejsou překročeny zákonné limity každé chemické látky, naše šetření ukazuje, že realita expozice spotřebitelů potenciálně karcinogenní kontaminantně je znepokojující.
-U snídaně, máslo a čaj s mlékem obsahují více než deset možných a tři prokázané karcinogenní zbytky a téměř dvacet zbytků potenciálně schopných narušit hormonální systém.
-Jablko z Brazílie obsahuje stopy šesti chemických látek, které obsahují fungicid, které jsou ve Francii zakázány.
+Podle studie, kterou ve středu zveřejnila asociace Future Generations (Městství for the Rights and Respect of Future Generations), dítě 10 spotřebovává v jednom dni 81 různých chemických látek.
+Sdružení, které předpovídá, že její výsledky nemají s ohledem na malý počet analyzovaných vzorků jakoukoli významnou statistickou hodnotu, ale ilustruje problém, který se zabývá, nakoupila v mezi červencem a zářím na trhu Oise a Paříže, koš potravin obecně spotřebovaných ve čtyřech jídlech dítětem z deseti dětí.
+Tato jídla včetně oficiálních doporučení, pěti kusů čerstvého ovoce a zeleniny, tří mléčných výrobků a 1,5 litru vody a pochoutek zkoumaly laboratoře klinického výzkumu zabývající se chemikáliemi, pesticidy, těžkými kovy a dalšími znečišťujícími látkami.
+Rozvaha je ohromující: 81 chemických látek, včetně 42 klasifikovaných jako potenciálně nebo pravděpodobně karcinogenních a pět klasifikovaných jako rozhodně karcinogenních, stejně jako 37 látek schopných vyvolat endokrinní poruchy, podle studií několika institucí, jako je Mezinárodní centrum pro výzkum rakoviny.
+Podle Asociationnu, i když téměř ve všech případech nejsou překročeny zákonné limity každé chemické látky, naše šetření ukazuje, že realita expozice spotřebitelů potenciálně karcinogenní kontaminantům je znepokojující.
+K snídani máslo a čaj s mlékem samy o sobě obsahují více než deset možných a tři osvědčené karcinogenní zbytky a téměř dvacet zbytků potenciálně schopných narušit hormonální systém.
+Jablko z Brazílie obsahuje stopy šesti chemických látek včetně fungicidu, zakázaného ve Francii.
 Totéž platí pro fazole z Keni zahrnuté do oběda, ve kterém studie zjistila stopy silného insekticidu zakázaného v Evropské unii.
-V addiitonu, mletý steak, konzervovaný tuňák a dokonce i bageta a žvýkačka obsahovaly pesticidy a další chemikálie.
+Kromě toho mletý steak, konzervovaný tuňák a dokonce i bageta a žvýkačka obsahovaly pesticidy a další chemikálie.
 Tapwater obsahoval dusičnany a chloroformy.
-Pro večeři byl lososový steak "nejbohatší", s 34 chemickými zbytky a dokonce i plastovým talířem používaným pro zahřívání jídla v mikrovlnné troubě, nebyl osvobozen.
-Podle studie je konečné riziko pro spotřebitele v tomto "kontaminantním koktejlu" pravděpodobně podceňováno.
-Evropská ekologická aliance – Zelení navrhla s ohledem na naléhavost situace zavedení moratoria na používání pesticidů, aby se zastavil růst nemocí civilizace.
-V červenci studie Evropské agentury pro bezpečnost potravin poukázala na přítomnost reziduí 365 různých pesticidů identifikovaných v ovoci a zelenině spotřebované v Evropě, včetně 76 v obilovinách.
+K večeři byl steak z lososa "nejbohatší", s 34 chemickými zbytkem a dokonce i plastovou deskou použitou k zahřátí jídla v mikrovlnné troubě, nebyla osvobozena.
+Podle studie je konečné riziko pro spotřebitele v tomto "kontaminačním koktejlu" pravděpodobně podceňováno.
+Evropská aliance pro ekologii – Zelení navrhli s ohledem na naléhavost situace zavedení moratoria na používání pesticidů, aby zastavili růst nemocí civilizace.
+V červenci studie Evropské agentury pro bezpečnost potravin poukázala na přítomnost reziduí 365 různých pesticidů identifikovaných v ovoci a zelenině spotřebovaných v Evropě, včetně 76 v obilovinách.
