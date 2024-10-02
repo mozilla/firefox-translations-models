@@ -267,18 +267,18 @@
       "expectedSha256Hash": "a28874a8b702a519a14dc71bcee726a5cb4b539eeaada2d06492f751469a1fd6",
       "modelType": "prod"
     },
-    "vocab": {
-      "name": "vocab.eten.spm",
-      "size": 828426,
-      "estimatedCompressedSize": 416995,
-      "expectedSha256Hash": "e3b66bc141f6123cd40746e2fb9b8ee4f89cbf324ab27d6bbf3782e52f15fa2d",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.enet.s2t.bin",
       "size": 2700780,
       "estimatedCompressedSize": 1336443,
       "expectedSha256Hash": "3d1b40ff43ebef82cf98d416a88a1ea19eb325a85785eef102f59878a63a829d",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.eten.spm",
+      "size": 828426,
+      "estimatedCompressedSize": 416995,
+      "expectedSha256Hash": "e3b66bc141f6123cd40746e2fb9b8ee4f89cbf324ab27d6bbf3782e52f15fa2d",
       "modelType": "prod"
     },
     "qualityModel": {
@@ -895,18 +895,18 @@
       "expectedSha256Hash": "70b17f5367dbb25903cba54da5250f34fc9dcb5b137f7f24d57a943bcc55c3a2",
       "modelType": "prod"
     },
-    "vocab": {
-      "name": "vocab.slen.spm",
-      "size": 803078,
-      "estimatedCompressedSize": 398535,
-      "expectedSha256Hash": "54ed331d3435e2bdc5b02462180197b77631f466fc0e61897b5469449857dd2b",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.slen.s2t.bin",
       "size": 4588660,
       "estimatedCompressedSize": 2243434,
       "expectedSha256Hash": "7df48c47f08c851a72756628860104cc04e9c0e415a15d74cd6974605beb866a",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.slen.spm",
+      "size": 803078,
+      "estimatedCompressedSize": 398535,
+      "expectedSha256Hash": "54ed331d3435e2bdc5b02462180197b77631f466fc0e61897b5469449857dd2b",
       "modelType": "prod"
     }
   },
