@@ -1392,5 +1392,28 @@
       "expectedSha256Hash": "14625622062046b7c44eb79652efb113518bf4b52fa1b98a949934b7a94b0273",
       "modelType": "dev"
     }
+  },
+  "zhen": {
+    "model": {
+      "name": "model.zhen.intgemm.alphas.bin",
+      "size": 25461051,
+      "estimatedCompressedSize": 19077082,
+      "expectedSha256Hash": "4465041a02ecc3976f899bc2ca73181c5a3e3b286c672a72da37972262a08f87",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.zhen.spm",
+      "size": 1332993,
+      "estimatedCompressedSize": 710427,
+      "expectedSha256Hash": "81e49ac79fd15d0cf95a0c6d190f8f77815c914598759ef9b2952048bb837506",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.zhen.s2t.bin",
+      "size": 7556580,
+      "estimatedCompressedSize": 3920393,
+      "expectedSha256Hash": "37e2f2feb3382155cbb750dd17d925f28a73c9ca2cd9d246f977c2b1c1928f1b",
+      "modelType": "dev"
+    }
   }
 }
