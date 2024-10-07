@@ -978,15 +978,15 @@
       "argos": 26.1,
       "google": 29.5,
       "nllb": 23.4,
-      "bergamot": 0
+      "bergamot": 26.9
     },
     "flores-test": {
       "argos": 26.4,
       "opusmt": 24.5,
       "microsoft": 30.0,
       "google": 29.6,
-      "nllb": 23.2,
-      "bergamot": 0
+      "bergamot": 26.9,
+      "nllb": 23.2
     }
   },
   "el-en": {
