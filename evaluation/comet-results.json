@@ -972,21 +972,21 @@
     }
   },
   "en-el": {
-    "flores-test": {
-      "argos": 0.8739,
-      "google": 0.8943,
-      "microsoft": 0.8949,
-      "nllb": 0.8662,
-      "opusmt": 0.8634,
-      "bergamot": 0
-    },
     "flores-dev": {
+      "bergamot": 0.8767,
       "microsoft": 0.8981,
       "google": 0.8964,
       "argos": 0.8736,
       "opusmt": 0.8651,
-      "nllb": 0.871,
-      "bergamot": 0
+      "nllb": 0.871
+    },
+    "flores-test": {
+      "argos": 0.8739,
+      "google": 0.8943,
+      "bergamot": 0.8722,
+      "microsoft": 0.8949,
+      "nllb": 0.8662,
+      "opusmt": 0.8634
     }
   },
   "el-en": {
