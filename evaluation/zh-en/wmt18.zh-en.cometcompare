@@ -1,0 +1,266 @@
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.microsoft.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8011
+y-mean:	0.8368
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-37.0921
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.microsoft.en outperforms wmt18.bergamot.en.
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8011
+y-mean:	0.8429
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-40.1411
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.google.en outperforms wmt18.bergamot.en.
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8011
+y-mean:	0.7843
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.7482
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.bergamot.en outperforms wmt18.argos.en.
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8011
+y-mean:	0.7863
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	12.2874
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.bergamot.en outperforms wmt18.nllb.en.
+==========================
+x_name: wmt18.bergamot.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8011
+y-mean:	0.7861
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	12.1684
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.bergamot.en outperforms wmt18.opusmt.en.
+==========================
+x_name: wmt18.microsoft.en
+y_name: wmt18.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8368
+y-mean:	0.8429
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-9.7726
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.google.en outperforms wmt18.microsoft.en.
+==========================
+x_name: wmt18.microsoft.en
+y_name: wmt18.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8368
+y-mean:	0.7843
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	46.9031
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.microsoft.en outperforms wmt18.argos.en.
+==========================
+x_name: wmt18.microsoft.en
+y_name: wmt18.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8368
+y-mean:	0.7863
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	45.1554
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.microsoft.en outperforms wmt18.nllb.en.
+==========================
+x_name: wmt18.microsoft.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8368
+y-mean:	0.7861
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	44.8630
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.microsoft.en outperforms wmt18.opusmt.en.
+==========================
+x_name: wmt18.google.en
+y_name: wmt18.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8429
+y-mean:	0.7843
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	49.8376
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.google.en outperforms wmt18.argos.en.
+==========================
+x_name: wmt18.google.en
+y_name: wmt18.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8429
+y-mean:	0.7863
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	49.6269
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.google.en outperforms wmt18.nllb.en.
+==========================
+x_name: wmt18.google.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8429
+y-mean:	0.7861
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	47.5092
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.google.en outperforms wmt18.opusmt.en.
+==========================
+x_name: wmt18.argos.en
+y_name: wmt18.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7843
+y-mean:	0.7863
+ties (%):	0.2300
+x_wins (%):	0.0533
+y_wins (%):	0.7167
+
+Paired T-Test Results:
+statistic:	-1.5243
+p_value:	0.1275
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: wmt18.argos.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7843
+y-mean:	0.7861
+ties (%):	0.2500
+x_wins (%):	0.0300
+y_wins (%):	0.7200
+
+Paired T-Test Results:
+statistic:	-1.9846
+p_value:	0.0473
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt18.opusmt.en outperforms wmt18.argos.en.
+==========================
+x_name: wmt18.nllb.en
+y_name: wmt18.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7863
+y-mean:	0.7861
+ties (%):	0.4167
+x_wins (%):	0.3433
+y_wins (%):	0.2400
+
+Paired T-Test Results:
+statistic:	0.0602
+p_value:	0.9520
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt18.bergamot.en    wmt18.microsoft.en    wmt18.google.en    wmt18.argos.en    wmt18.nllb.en    wmt18.opusmt.en
+---------------------  -------------------  --------------------  -----------------  ----------------  ---------------  -----------------
+wmt18.bergamot.en                           False                 False              True              True             True
+wmt18.microsoft.en     True                                       False              True              True             True
+wmt18.google.en        True                 True                                     True              True             True
+wmt18.argos.en         False                False                 False                                False            False
+wmt18.nllb.en          False                False                 False              False                              False
+wmt18.opusmt.en        False                False                 False              True              False

@@ -98,7 +98,7 @@ Dev models are available in Nightly only.
 - Finnish <-> English
 - French <-> English
 - German <-> English
-- Greek -> English
+- Greek <-> English
 - Hungarian <-> English
 - Indonesian <-> English
 - Italian <-> English
@@ -119,6 +119,7 @@ Dev models are available in Nightly only.
 
 ## Dev
 - Bosnian -> English
+- Chinese (Simplified) -> English
 - Croatian <- English
 - Icelandic -> English
 - Latvian (Lettish) <- English

@@ -1,0 +1,265 @@
+==========================
+x_name: flores-dev.bergamot.el
+y_name: flores-dev.microsoft.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8768
+y-mean:	0.8980
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-13.4485
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.el outperforms flores-dev.bergamot.el.
+==========================
+x_name: flores-dev.bergamot.el
+y_name: flores-dev.google.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8768
+y-mean:	0.8962
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-12.9128
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.el outperforms flores-dev.bergamot.el.
+==========================
+x_name: flores-dev.bergamot.el
+y_name: flores-dev.argos.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8768
+y-mean:	0.8735
+ties (%):	0.1933
+x_wins (%):	0.7567
+y_wins (%):	0.0500
+
+Paired T-Test Results:
+statistic:	1.6659
+p_value:	0.0961
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: flores-dev.bergamot.el
+y_name: flores-dev.nllb.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8768
+y-mean:	0.8707
+ties (%):	0.0467
+x_wins (%):	0.9300
+y_wins (%):	0.0233
+
+Paired T-Test Results:
+statistic:	2.8792
+p_value:	0.0041
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.bergamot.el outperforms flores-dev.nllb.el.
+==========================
+x_name: flores-dev.bergamot.el
+y_name: flores-dev.opusmt.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8768
+y-mean:	0.8652
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	6.1988
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.bergamot.el outperforms flores-dev.opusmt.el.
+==========================
+x_name: flores-dev.microsoft.el
+y_name: flores-dev.google.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8980
+y-mean:	0.8962
+ties (%):	0.2700
+x_wins (%):	0.6967
+y_wins (%):	0.0333
+
+Paired T-Test Results:
+statistic:	1.7591
+p_value:	0.0789
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: flores-dev.microsoft.el
+y_name: flores-dev.argos.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8980
+y-mean:	0.8735
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	14.2071
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.el outperforms flores-dev.argos.el.
+==========================
+x_name: flores-dev.microsoft.el
+y_name: flores-dev.nllb.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8980
+y-mean:	0.8707
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	15.3339
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.el outperforms flores-dev.nllb.el.
+==========================
+x_name: flores-dev.microsoft.el
+y_name: flores-dev.opusmt.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8980
+y-mean:	0.8652
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	17.6649
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.microsoft.el outperforms flores-dev.opusmt.el.
+==========================
+x_name: flores-dev.google.el
+y_name: flores-dev.argos.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8962
+y-mean:	0.8735
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.7044
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.el outperforms flores-dev.argos.el.
+==========================
+x_name: flores-dev.google.el
+y_name: flores-dev.nllb.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8962
+y-mean:	0.8707
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	14.1967
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.el outperforms flores-dev.nllb.el.
+==========================
+x_name: flores-dev.google.el
+y_name: flores-dev.opusmt.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8962
+y-mean:	0.8652
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	17.4342
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.google.el outperforms flores-dev.opusmt.el.
+==========================
+x_name: flores-dev.argos.el
+y_name: flores-dev.nllb.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8735
+y-mean:	0.8707
+ties (%):	0.1700
+x_wins (%):	0.7300
+y_wins (%):	0.1000
+
+Paired T-Test Results:
+statistic:	1.2637
+p_value:	0.2066
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: flores-dev.argos.el
+y_name: flores-dev.opusmt.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8735
+y-mean:	0.8652
+ties (%):	0.0033
+x_wins (%):	0.9967
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	4.8574
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.argos.el outperforms flores-dev.opusmt.el.
+==========================
+x_name: flores-dev.nllb.el
+y_name: flores-dev.opusmt.el
+
+Bootstrap Resampling Results:
+x-mean:	0.8707
+y-mean:	0.8652
+ties (%):	0.0467
+x_wins (%):	0.9367
+y_wins (%):	0.0167
+
+Paired T-Test Results:
+statistic:	2.9807
+p_value:	0.0029
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-dev.nllb.el outperforms flores-dev.opusmt.el.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y      flores-dev.bergamot.el    flores-dev.microsoft.el    flores-dev.google.el    flores-dev.argos.el    flores-dev.nllb.el    flores-dev.opusmt.el
+-----------------------  ------------------------  -------------------------  ----------------------  ---------------------  --------------------  ----------------------
+flores-dev.bergamot.el                             False                      False                   False                  True                  True
+flores-dev.microsoft.el  True                                                 False                   True                   True                  True
+flores-dev.google.el     True                      False                                              True                   True                  True
+flores-dev.argos.el      False                     False                      False                                          False                 True
+flores-dev.nllb.el       False                     False                      False                   False                                        True
+flores-dev.opusmt.el     False                     False                      False                   False                  False

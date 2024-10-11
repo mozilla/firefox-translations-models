@@ -1,0 +1,265 @@
+==========================
+x_name: iwslt17.bergamot.en
+y_name: iwslt17.microsoft.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8026
+y-mean:	0.8353
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-18.7343
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.en outperforms iwslt17.bergamot.en.
+==========================
+x_name: iwslt17.bergamot.en
+y_name: iwslt17.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8026
+y-mean:	0.8360
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-18.5223
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.en outperforms iwslt17.bergamot.en.
+==========================
+x_name: iwslt17.bergamot.en
+y_name: iwslt17.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8026
+y-mean:	0.8102
+ties (%):	0.0133
+x_wins (%):	0.0000
+y_wins (%):	0.9867
+
+Paired T-Test Results:
+statistic:	-4.0697
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.argos.en outperforms iwslt17.bergamot.en.
+==========================
+x_name: iwslt17.bergamot.en
+y_name: iwslt17.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8026
+y-mean:	0.8071
+ties (%):	0.0800
+x_wins (%):	0.0467
+y_wins (%):	0.8733
+
+Paired T-Test Results:
+statistic:	-2.4145
+p_value:	0.0159
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.nllb.en outperforms iwslt17.bergamot.en.
+==========================
+x_name: iwslt17.bergamot.en
+y_name: iwslt17.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8026
+y-mean:	0.8114
+ties (%):	0.0000
+x_wins (%):	0.0033
+y_wins (%):	0.9967
+
+Paired T-Test Results:
+statistic:	-4.5724
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.opusmt.en outperforms iwslt17.bergamot.en.
+==========================
+x_name: iwslt17.microsoft.en
+y_name: iwslt17.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8353
+y-mean:	0.8360
+ties (%):	0.3433
+x_wins (%):	0.2000
+y_wins (%):	0.4567
+
+Paired T-Test Results:
+statistic:	-0.6706
+p_value:	0.5026
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: iwslt17.microsoft.en
+y_name: iwslt17.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8353
+y-mean:	0.8102
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.1237
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.en outperforms iwslt17.argos.en.
+==========================
+x_name: iwslt17.microsoft.en
+y_name: iwslt17.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8353
+y-mean:	0.8071
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	15.6742
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.en outperforms iwslt17.nllb.en.
+==========================
+x_name: iwslt17.microsoft.en
+y_name: iwslt17.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8353
+y-mean:	0.8114
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.0895
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.en outperforms iwslt17.opusmt.en.
+==========================
+x_name: iwslt17.google.en
+y_name: iwslt17.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8360
+y-mean:	0.8102
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	12.7240
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.en outperforms iwslt17.argos.en.
+==========================
+x_name: iwslt17.google.en
+y_name: iwslt17.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8360
+y-mean:	0.8071
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	16.2364
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.en outperforms iwslt17.nllb.en.
+==========================
+x_name: iwslt17.google.en
+y_name: iwslt17.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8360
+y-mean:	0.8114
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	12.5508
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.en outperforms iwslt17.opusmt.en.
+==========================
+x_name: iwslt17.argos.en
+y_name: iwslt17.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8102
+y-mean:	0.8071
+ties (%):	0.1467
+x_wins (%):	0.7733
+y_wins (%):	0.0800
+
+Paired T-Test Results:
+statistic:	1.5066
+p_value:	0.1321
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: iwslt17.argos.en
+y_name: iwslt17.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8102
+y-mean:	0.8114
+ties (%):	0.2967
+x_wins (%):	0.1767
+y_wins (%):	0.5267
+
+Paired T-Test Results:
+statistic:	-0.6527
+p_value:	0.5141
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: iwslt17.nllb.en
+y_name: iwslt17.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8071
+y-mean:	0.8114
+ties (%):	0.1033
+x_wins (%):	0.0700
+y_wins (%):	0.8267
+
+Paired T-Test Results:
+statistic:	-2.0302
+p_value:	0.0425
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.opusmt.en outperforms iwslt17.nllb.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    iwslt17.bergamot.en    iwslt17.microsoft.en    iwslt17.google.en    iwslt17.argos.en    iwslt17.nllb.en    iwslt17.opusmt.en
+---------------------  ---------------------  ----------------------  -------------------  ------------------  -----------------  -------------------
+iwslt17.bergamot.en                           False                   False                False               False              False
+iwslt17.microsoft.en   True                                           False                True                True               True
+iwslt17.google.en      True                   False                                        True                True               True
+iwslt17.argos.en       True                   False                   False                                    False              False
+iwslt17.nllb.en        True                   False                   False                False                                  False
+iwslt17.opusmt.en      True                   False                   False                False               True

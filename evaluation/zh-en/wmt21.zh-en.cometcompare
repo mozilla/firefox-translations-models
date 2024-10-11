@@ -1,0 +1,267 @@
+==========================
+x_name: wmt21.bergamot.en
+y_name: wmt21.microsoft.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7762
+y-mean:	0.8206
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-33.2450
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.microsoft.en outperforms wmt21.bergamot.en.
+==========================
+x_name: wmt21.bergamot.en
+y_name: wmt21.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7762
+y-mean:	0.8237
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-33.0140
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.en outperforms wmt21.bergamot.en.
+==========================
+x_name: wmt21.bergamot.en
+y_name: wmt21.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7762
+y-mean:	0.7522
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.8700
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.bergamot.en outperforms wmt21.argos.en.
+==========================
+x_name: wmt21.bergamot.en
+y_name: wmt21.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7762
+y-mean:	0.7491
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	13.9283
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.bergamot.en outperforms wmt21.nllb.en.
+==========================
+x_name: wmt21.bergamot.en
+y_name: wmt21.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7762
+y-mean:	0.7555
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	11.8434
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.bergamot.en outperforms wmt21.opusmt.en.
+==========================
+x_name: wmt21.microsoft.en
+y_name: wmt21.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8206
+y-mean:	0.8237
+ties (%):	0.0600
+x_wins (%):	0.0100
+y_wins (%):	0.9300
+
+Paired T-Test Results:
+statistic:	-3.3243
+p_value:	0.0009
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.en outperforms wmt21.microsoft.en.
+==========================
+x_name: wmt21.microsoft.en
+y_name: wmt21.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8206
+y-mean:	0.7522
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	37.5123
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.microsoft.en outperforms wmt21.argos.en.
+==========================
+x_name: wmt21.microsoft.en
+y_name: wmt21.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8206
+y-mean:	0.7491
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	35.8129
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.microsoft.en outperforms wmt21.nllb.en.
+==========================
+x_name: wmt21.microsoft.en
+y_name: wmt21.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8206
+y-mean:	0.7555
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	35.3986
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.microsoft.en outperforms wmt21.opusmt.en.
+==========================
+x_name: wmt21.google.en
+y_name: wmt21.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8237
+y-mean:	0.7522
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	37.3863
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.en outperforms wmt21.argos.en.
+==========================
+x_name: wmt21.google.en
+y_name: wmt21.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8237
+y-mean:	0.7491
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	37.1168
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.en outperforms wmt21.nllb.en.
+==========================
+x_name: wmt21.google.en
+y_name: wmt21.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8237
+y-mean:	0.7555
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	35.3281
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.en outperforms wmt21.opusmt.en.
+==========================
+x_name: wmt21.argos.en
+y_name: wmt21.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7522
+y-mean:	0.7491
+ties (%):	0.1600
+x_wins (%):	0.7500
+y_wins (%):	0.0900
+
+Paired T-Test Results:
+statistic:	1.8044
+p_value:	0.0713
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: wmt21.argos.en
+y_name: wmt21.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7522
+y-mean:	0.7555
+ties (%):	0.1233
+x_wins (%):	0.0367
+y_wins (%):	0.8400
+
+Paired T-Test Results:
+statistic:	-2.2427
+p_value:	0.0250
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.opusmt.en outperforms wmt21.argos.en.
+==========================
+x_name: wmt21.nllb.en
+y_name: wmt21.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7491
+y-mean:	0.7555
+ties (%):	0.0367
+x_wins (%):	0.0100
+y_wins (%):	0.9533
+
+Paired T-Test Results:
+statistic:	-3.5163
+p_value:	0.0004
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.opusmt.en outperforms wmt21.nllb.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt21.bergamot.en    wmt21.microsoft.en    wmt21.google.en    wmt21.argos.en    wmt21.nllb.en    wmt21.opusmt.en
+---------------------  -------------------  --------------------  -----------------  ----------------  ---------------  -----------------
+wmt21.bergamot.en                           False                 False              True              True             True
+wmt21.microsoft.en     True                                       False              True              True             True
+wmt21.google.en        True                 True                                     True              True             True
+wmt21.argos.en         False                False                 False                                False            False
+wmt21.nllb.en          False                False                 False              False                              False
+wmt21.opusmt.en        False                False                 False              True              True
