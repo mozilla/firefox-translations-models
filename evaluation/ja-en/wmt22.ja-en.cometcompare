@@ -1,0 +1,268 @@
+==========================
+x_name: wmt22.bergamot.en
+y_name: wmt22.microsoft.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7831
+y-mean:	0.8210
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-21.3150
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.microsoft.en outperforms wmt22.bergamot.en.
+==========================
+x_name: wmt22.bergamot.en
+y_name: wmt22.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7831
+y-mean:	0.8347
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-28.4351
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.en outperforms wmt22.bergamot.en.
+==========================
+x_name: wmt22.bergamot.en
+y_name: wmt22.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7831
+y-mean:	0.7006
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	31.9107
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.bergamot.en outperforms wmt22.argos.en.
+==========================
+x_name: wmt22.bergamot.en
+y_name: wmt22.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7831
+y-mean:	0.7276
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	23.4398
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.bergamot.en outperforms wmt22.nllb.en.
+==========================
+x_name: wmt22.bergamot.en
+y_name: wmt22.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7831
+y-mean:	0.6776
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	31.4901
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.bergamot.en outperforms wmt22.opusmt.en.
+==========================
+x_name: wmt22.microsoft.en
+y_name: wmt22.google.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8210
+y-mean:	0.8347
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-10.0921
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.en outperforms wmt22.microsoft.en.
+==========================
+x_name: wmt22.microsoft.en
+y_name: wmt22.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8210
+y-mean:	0.7006
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	45.1234
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.microsoft.en outperforms wmt22.argos.en.
+==========================
+x_name: wmt22.microsoft.en
+y_name: wmt22.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8210
+y-mean:	0.7276
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	40.3892
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.microsoft.en outperforms wmt22.nllb.en.
+==========================
+x_name: wmt22.microsoft.en
+y_name: wmt22.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8210
+y-mean:	0.6776
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	42.9251
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.microsoft.en outperforms wmt22.opusmt.en.
+==========================
+x_name: wmt22.google.en
+y_name: wmt22.argos.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8347
+y-mean:	0.7006
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	48.9875
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.en outperforms wmt22.argos.en.
+==========================
+x_name: wmt22.google.en
+y_name: wmt22.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8347
+y-mean:	0.7276
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	44.5383
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.en outperforms wmt22.nllb.en.
+==========================
+x_name: wmt22.google.en
+y_name: wmt22.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8347
+y-mean:	0.6776
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	47.0227
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.en outperforms wmt22.opusmt.en.
+==========================
+x_name: wmt22.argos.en
+y_name: wmt22.nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7006
+y-mean:	0.7276
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-8.8656
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.nllb.en outperforms wmt22.argos.en.
+==========================
+x_name: wmt22.argos.en
+y_name: wmt22.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7006
+y-mean:	0.6776
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	6.0283
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.argos.en outperforms wmt22.opusmt.en.
+==========================
+x_name: wmt22.nllb.en
+y_name: wmt22.opusmt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7276
+y-mean:	0.6776
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	15.4976
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.nllb.en outperforms wmt22.opusmt.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt22.bergamot.en    wmt22.microsoft.en    wmt22.google.en    wmt22.argos.en    wmt22.nllb.en    wmt22.opusmt.en
+---------------------  -------------------  --------------------  -----------------  ----------------  ---------------  -----------------
+wmt22.bergamot.en                           False                 False              True              True             True
+wmt22.microsoft.en     True                                       False              True              True             True
+wmt22.google.en        True                 True                                     True              True             True
+wmt22.argos.en         False                False                 False                                False            True
+wmt22.nllb.en          False                False                 False              True                               True
+wmt22.opusmt.en        False                False                 False              False             False
