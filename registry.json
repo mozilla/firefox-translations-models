@@ -1278,6 +1278,52 @@
       "modelType": "dev"
     }
   },
+  "enja": {
+    "model": {
+      "name": "model.enja.intgemm.alphas.bin",
+      "size": 59504955,
+      "estimatedCompressedSize": 42929158,
+      "expectedSha256Hash": "24c4008fb593333578c9c7d8fcb4573d13ac8b659620f174359c92a323584f9b",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.enja.s2t.bin",
+      "size": 6135344,
+      "estimatedCompressedSize": 3403493,
+      "expectedSha256Hash": "cdeec1f9e70085d2071ce19e0ff294f8b9220ffed359d76ce1a5458177f4ee37",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.enja.spm",
+      "size": 1436145,
+      "estimatedCompressedSize": 746697,
+      "expectedSha256Hash": "a7bbb10948d20abe5d130f9effaea406b67869c061cdf86d0537895e1cd422a2",
+      "modelType": "dev"
+    }
+  },
+  "enko": {
+    "model": {
+      "name": "model.enko.intgemm.alphas.bin",
+      "size": 59504955,
+      "estimatedCompressedSize": 45488445,
+      "expectedSha256Hash": "1c310a79b61b8824b2eb26b045db043d92722f3e66ea06998f7c89f48da9f6bc",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.enko.s2t.bin",
+      "size": 6676356,
+      "estimatedCompressedSize": 3697379,
+      "expectedSha256Hash": "7734265822ce315c72334ad538e698ab3900ab8e8f04bd43768d0aecad6b6df7",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.enko.spm",
+      "size": 1406926,
+      "estimatedCompressedSize": 706904,
+      "expectedSha256Hash": "709bf0e425345e0e92ce41ed84348a1296a2107c92bdb6624404450ffecbd1f9",
+      "modelType": "dev"
+    }
+  },
   "enlt": {
     "model": {
       "name": "model.enlt.intgemm.alphas.bin",
