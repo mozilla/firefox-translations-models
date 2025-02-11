@@ -550,18 +550,18 @@
       "expectedSha256Hash": "0ef9a209c5edc46692750e7505b3695655b1c7c3ec73058b641201ef18c481ce",
       "modelType": "prod"
     },
-    "lex": {
-      "name": "lex.50.50.enru.s2t.bin",
-      "size": 2768468,
-      "estimatedCompressedSize": 1348215,
-      "expectedSha256Hash": "3587f93c10c1d457f874c2ba7ff4d5e2686fdaf7f3fd179cfefeacab3c6990b9",
-      "modelType": "prod"
-    },
     "vocab": {
       "name": "vocab.enru.spm",
       "size": 904455,
       "estimatedCompressedSize": 419005,
       "expectedSha256Hash": "56ee63e14e8cb926c394242adc3ed7cc602644c3d33058cff2ce2959d52a6258",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.enru.s2t.bin",
+      "size": 2768468,
+      "estimatedCompressedSize": 1348215,
+      "expectedSha256Hash": "3587f93c10c1d457f874c2ba7ff4d5e2686fdaf7f3fd179cfefeacab3c6990b9",
       "modelType": "prod"
     }
   },
@@ -1413,6 +1413,29 @@
       "size": 885736,
       "estimatedCompressedSize": 414957,
       "expectedSha256Hash": "330fe40da410c7a41fcbf6aa98a2e619600b235b278c186c0f04c8ad1c2fbb7d",
+      "modelType": "dev"
+    }
+  },
+  "enzh": {
+    "model": {
+      "name": "model.enzh.intgemm.alphas.bin",
+      "size": 59504955,
+      "estimatedCompressedSize": 41040634,
+      "expectedSha256Hash": "31ba296821cfffcf4713176ed6f331eb1faf3f8fe433f454a37e722b5f8c4b17",
+      "modelType": "dev"
+    },
+    "lex": {
+      "name": "lex.50.50.enzh.s2t.bin",
+      "size": 6298264,
+      "estimatedCompressedSize": 3445347,
+      "expectedSha256Hash": "06fbe7ddd8ca547d47a68c104c5a84577e44b29de935a0e4eb5957603d746ec3",
+      "modelType": "dev"
+    },
+    "vocab": {
+      "name": "vocab.enzh.spm",
+      "size": 1358432,
+      "estimatedCompressedSize": 738420,
+      "expectedSha256Hash": "1ffaf806d8a17446675e04c99472ea716f7519d2a53ff826a1df8fa9bbcdf941",
       "modelType": "dev"
     }
   },
