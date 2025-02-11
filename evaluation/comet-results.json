@@ -366,16 +366,16 @@
       "google": 0.8647,
       "nllb": 0.8504,
       "microsoft": 0.8668,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-test": {
       "google": 0.8663,
       "nllb": 0.8464,
       "microsoft": 0.8691,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -639,50 +639,50 @@
     "wmt21": {
       "nllb": 0.7737,
       "google": 0.8589,
+      "bergamot": 0.7958,
       "argos": 0.7652,
       "opusmt": 0.754,
-      "microsoft": 0.841,
-      "bergamot": 0
+      "microsoft": 0.841
     },
     "wmt18": {
       "opusmt": 0.8125,
       "google": 0.8909,
+      "bergamot": 0.8495,
       "argos": 0.8315,
       "nllb": 0.8138,
-      "microsoft": 0.8781,
-      "bergamot": 0
+      "microsoft": 0.8781
     },
     "iwslt17": {
       "nllb": 0.7893,
+      "bergamot": 0.8036,
       "google": 0.8458,
       "opusmt": 0.7965,
       "argos": 0.7948,
-      "microsoft": 0.8367,
-      "bergamot": 0
+      "microsoft": 0.8367
     },
     "flores-dev": {
       "google": 0.8902,
       "argos": 0.8235,
       "nllb": 0.8123,
       "microsoft": 0.8807,
-      "opusmt": 0.8144,
-      "bergamot": 0
+      "bergamot": 0.8444,
+      "opusmt": 0.8144
     },
     "wmt19": {
       "microsoft": 0.8501,
+      "bergamot": 0.7959,
       "google": 0.8671,
       "nllb": 0.775,
       "argos": 0.7704,
-      "opusmt": 0.7557,
-      "bergamot": 0
+      "opusmt": 0.7557
     },
     "wmt22": {
       "argos": 0.784,
       "nllb": 0.8006,
       "google": 0.8814,
+      "bergamot": 0.8287,
       "microsoft": 0.8692,
-      "opusmt": 0.7834,
-      "bergamot": 0
+      "opusmt": 0.7834
     },
     "wmt20": {
       "google": 0.8836,
@@ -690,23 +690,23 @@
       "opusmt": 0.783,
       "nllb": 0.8008,
       "microsoft": 0.867,
-      "bergamot": 0
+      "bergamot": 0.8277
     },
     "flores-test": {
+      "bergamot": 0.8477,
       "microsoft": 0.8844,
       "argos": 0.8334,
       "opusmt": 0.8244,
       "google": 0.8945,
-      "nllb": 0.8175,
-      "bergamot": 0
+      "nllb": 0.8175
     },
     "wmt17": {
+      "bergamot": 0.8231,
       "opusmt": 0.7929,
       "argos": 0.8084,
       "nllb": 0.7958,
       "microsoft": 0.8625,
-      "google": 0.8767,
-      "bergamot": 0
+      "google": 0.8767
     }
   },
   "vi-en": {
@@ -730,51 +730,51 @@
   "en-ja": {
     "flores-test": {
       "microsoft": 0.9176,
+      "bergamot": 0.8861,
       "nllb": 0.8712,
       "google": 0.9219,
       "argos": 0.7876,
-      "opusmt": 0,
-      "bergamot": 0
+      "opusmt": 0
     },
     "iwslt17": {
       "google": 0.8624,
       "microsoft": 0.8544,
+      "bergamot": 0.8201,
       "nllb": 0.8218,
       "argos": 0.7282,
-      "opusmt": 0,
-      "bergamot": 0
+      "opusmt": 0
     },
     "wmt22": {
       "argos": 0.7729,
+      "bergamot": 0.853,
       "google": 0.9021,
       "nllb": 0.8395,
       "microsoft": 0.8906,
-      "opusmt": 0,
-      "bergamot": 0
+      "opusmt": 0
     },
     "wmt21": {
       "microsoft": 0.895,
+      "bergamot": 0.8553,
       "nllb": 0.8492,
       "argos": 0.7101,
       "google": 0.9141,
-      "opusmt": 0,
-      "bergamot": 0
+      "opusmt": 0
     },
     "flores-dev": {
       "google": 0.9234,
       "argos": 0.7893,
       "nllb": 0.8727,
       "microsoft": 0.9178,
-      "opusmt": 0,
-      "bergamot": 0
+      "bergamot": 0.8888,
+      "opusmt": 0
     },
     "wmt20": {
       "argos": 0.7382,
+      "bergamot": 0.8612,
       "microsoft": 0.8993,
       "nllb": 0.8567,
       "google": 0.9162,
-      "opusmt": 0,
-      "bergamot": 0
+      "opusmt": 0
     }
   },
   "ru-en": {
@@ -906,16 +906,16 @@
       "google": 0.9018,
       "microsoft": 0.7526,
       "nllb": 0.8345,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-dev": {
       "nllb": 0.8346,
       "google": 0.9055,
       "microsoft": 0.7555,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -924,16 +924,16 @@
       "google": 0.9019,
       "microsoft": 0.8998,
       "nllb": 0.8726,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-dev": {
       "nllb": 0.8745,
       "google": 0.9027,
       "microsoft": 0.9005,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -1114,16 +1114,16 @@
       "google": 0.7315,
       "microsoft": 0.7369,
       "nllb": 0.694,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-test": {
       "nllb": 0.6932,
       "microsoft": 0.7372,
       "google": 0.7314,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -1150,16 +1150,16 @@
       "google": 0.8732,
       "nllb": 0.8657,
       "microsoft": 0.8657,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-test": {
       "microsoft": 0.8691,
       "google": 0.8784,
       "nllb": 0.8658,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -1220,16 +1220,16 @@
       "microsoft": 0.8847,
       "google": 0.8917,
       "nllb": 0.8033,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-test": {
       "google": 0.8862,
       "microsoft": 0.8771,
       "nllb": 0.7885,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -1996,16 +1996,16 @@
       "nllb": 0.865,
       "google": 0.9145,
       "microsoft": 0.905,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-dev": {
       "nllb": 0.8711,
       "google": 0.9182,
       "microsoft": 0.9089,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -2232,43 +2232,43 @@
       "google": 0.8738,
       "nllb": 0.8484,
       "microsoft": 0.859,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-test": {
       "nllb": 0.8501,
       "microsoft": 0.8613,
       "google": 0.8747,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
   "en-ko": {
     "flores-dev": {
       "argos": 0.7251,
+      "bergamot": 0.865,
       "nllb": 0.868,
       "google": 0.9058,
       "microsoft": 0.9046,
-      "opusmt": 0,
-      "bergamot": 0
+      "opusmt": 0
     },
     "flores-test": {
       "argos": 0.7163,
       "microsoft": 0.9015,
       "nllb": 0.866,
       "google": 0.9022,
-      "opusmt": 0,
-      "bergamot": 0
+      "bergamot": 0.8652,
+      "opusmt": 0
     },
     "iwslt17": {
       "microsoft": 0.8568,
       "argos": 0.6799,
       "nllb": 0.8311,
       "google": 0.8611,
-      "opusmt": 0,
-      "bergamot": 0
+      "bergamot": 0.8156,
+      "opusmt": 0
     }
   },
   "hi-en": {
@@ -2588,16 +2588,16 @@
       "nllb": 0.8498,
       "microsoft": 0.8745,
       "google": 0.8854,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-dev": {
       "nllb": 0.8499,
       "google": 0.8845,
       "microsoft": 0.8728,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },
@@ -2758,16 +2758,16 @@
       "nllb": 0.8466,
       "microsoft": 0.8369,
       "google": 0.8651,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     },
     "flores-dev": {
       "nllb": 0.8422,
       "google": 0.866,
       "microsoft": 0.8379,
-      "opusmt": 0,
       "bergamot": 0,
+      "opusmt": 0,
       "argos": 0
     }
   },

@@ -1,0 +1,267 @@
+==========================
+x_name: wmt19.bergamot.zh
+y_name: wmt19.microsoft.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7960
+y-mean:	0.8503
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-29.1535
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.microsoft.zh outperforms wmt19.bergamot.zh.
+==========================
+x_name: wmt19.bergamot.zh
+y_name: wmt19.google.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7960
+y-mean:	0.8673
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-35.4887
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.google.zh outperforms wmt19.bergamot.zh.
+==========================
+x_name: wmt19.bergamot.zh
+y_name: wmt19.argos.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7960
+y-mean:	0.7701
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	11.7284
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.bergamot.zh outperforms wmt19.argos.zh.
+==========================
+x_name: wmt19.bergamot.zh
+y_name: wmt19.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7960
+y-mean:	0.7750
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	10.4546
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.bergamot.zh outperforms wmt19.nllb.zh.
+==========================
+x_name: wmt19.bergamot.zh
+y_name: wmt19.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7960
+y-mean:	0.7554
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	18.0385
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.bergamot.zh outperforms wmt19.opusmt.zh.
+==========================
+x_name: wmt19.microsoft.zh
+y_name: wmt19.google.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8503
+y-mean:	0.8673
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-17.2115
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.google.zh outperforms wmt19.microsoft.zh.
+==========================
+x_name: wmt19.microsoft.zh
+y_name: wmt19.argos.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8503
+y-mean:	0.7701
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	33.3738
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.microsoft.zh outperforms wmt19.argos.zh.
+==========================
+x_name: wmt19.microsoft.zh
+y_name: wmt19.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8503
+y-mean:	0.7750
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	35.5916
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.microsoft.zh outperforms wmt19.nllb.zh.
+==========================
+x_name: wmt19.microsoft.zh
+y_name: wmt19.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8503
+y-mean:	0.7554
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	37.0176
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.microsoft.zh outperforms wmt19.opusmt.zh.
+==========================
+x_name: wmt19.google.zh
+y_name: wmt19.argos.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8673
+y-mean:	0.7701
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	39.3237
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.google.zh outperforms wmt19.argos.zh.
+==========================
+x_name: wmt19.google.zh
+y_name: wmt19.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8673
+y-mean:	0.7750
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	41.6490
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.google.zh outperforms wmt19.nllb.zh.
+==========================
+x_name: wmt19.google.zh
+y_name: wmt19.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8673
+y-mean:	0.7554
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	42.5155
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.google.zh outperforms wmt19.opusmt.zh.
+==========================
+x_name: wmt19.argos.zh
+y_name: wmt19.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7701
+y-mean:	0.7750
+ties (%):	0.0800
+x_wins (%):	0.0700
+y_wins (%):	0.8500
+
+Paired T-Test Results:
+statistic:	-1.9571
+p_value:	0.0505
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: wmt19.argos.zh
+y_name: wmt19.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7701
+y-mean:	0.7554
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	6.5364
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.argos.zh outperforms wmt19.opusmt.zh.
+==========================
+x_name: wmt19.nllb.zh
+y_name: wmt19.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7750
+y-mean:	0.7554
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	7.9909
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt19.nllb.zh outperforms wmt19.opusmt.zh.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt19.bergamot.zh    wmt19.microsoft.zh    wmt19.google.zh    wmt19.argos.zh    wmt19.nllb.zh    wmt19.opusmt.zh
+---------------------  -------------------  --------------------  -----------------  ----------------  ---------------  -----------------
+wmt19.bergamot.zh                           False                 False              True              True             True
+wmt19.microsoft.zh     True                                       False              True              True             True
+wmt19.google.zh        True                 True                                     True              True             True
+wmt19.argos.zh         False                False                 False                                False            True
+wmt19.nllb.zh          False                False                 False              False                              True
+wmt19.opusmt.zh        False                False                 False              False             False

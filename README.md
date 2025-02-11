@@ -122,8 +122,11 @@ Dev models are available in Nightly only.
 
 ## Dev
 - Bosnian -> English
+- Chinese (Simplified) <- English
 - Croatian <- English
 - Icelandic -> English
+- Japanese <- English
+- Korean <- English
 - Latvian (Lettish) <- English
 - Maltese -> English
 - Norwegian Bokmål -> English
