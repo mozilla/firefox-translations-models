@@ -1,0 +1,267 @@
+==========================
+x_name: iwslt17.bergamot.zh
+y_name: iwslt17.microsoft.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8037
+y-mean:	0.8370
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-18.6933
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.zh outperforms iwslt17.bergamot.zh.
+==========================
+x_name: iwslt17.bergamot.zh
+y_name: iwslt17.google.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8037
+y-mean:	0.8459
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-22.3603
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.zh outperforms iwslt17.bergamot.zh.
+==========================
+x_name: iwslt17.bergamot.zh
+y_name: iwslt17.argos.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8037
+y-mean:	0.7946
+ties (%):	0.0133
+x_wins (%):	0.9867
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	4.2527
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.bergamot.zh outperforms iwslt17.argos.zh.
+==========================
+x_name: iwslt17.bergamot.zh
+y_name: iwslt17.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8037
+y-mean:	0.7893
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	6.4669
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.bergamot.zh outperforms iwslt17.nllb.zh.
+==========================
+x_name: iwslt17.bergamot.zh
+y_name: iwslt17.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8037
+y-mean:	0.7966
+ties (%):	0.0267
+x_wins (%):	0.9667
+y_wins (%):	0.0067
+
+Paired T-Test Results:
+statistic:	3.4553
+p_value:	0.0006
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.bergamot.zh outperforms iwslt17.opusmt.zh.
+==========================
+x_name: iwslt17.microsoft.zh
+y_name: iwslt17.google.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8370
+y-mean:	0.8459
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-7.7852
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.zh outperforms iwslt17.microsoft.zh.
+==========================
+x_name: iwslt17.microsoft.zh
+y_name: iwslt17.argos.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8370
+y-mean:	0.7946
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	19.5499
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.zh outperforms iwslt17.argos.zh.
+==========================
+x_name: iwslt17.microsoft.zh
+y_name: iwslt17.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8370
+y-mean:	0.7893
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	22.6238
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.zh outperforms iwslt17.nllb.zh.
+==========================
+x_name: iwslt17.microsoft.zh
+y_name: iwslt17.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8370
+y-mean:	0.7966
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	19.7343
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.zh outperforms iwslt17.opusmt.zh.
+==========================
+x_name: iwslt17.google.zh
+y_name: iwslt17.argos.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8459
+y-mean:	0.7946
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	23.4090
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.zh outperforms iwslt17.argos.zh.
+==========================
+x_name: iwslt17.google.zh
+y_name: iwslt17.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8459
+y-mean:	0.7893
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	25.8480
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.zh outperforms iwslt17.nllb.zh.
+==========================
+x_name: iwslt17.google.zh
+y_name: iwslt17.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.8459
+y-mean:	0.7966
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	23.1966
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.zh outperforms iwslt17.opusmt.zh.
+==========================
+x_name: iwslt17.argos.zh
+y_name: iwslt17.nllb.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7946
+y-mean:	0.7893
+ties (%):	0.0767
+x_wins (%):	0.8600
+y_wins (%):	0.0633
+
+Paired T-Test Results:
+statistic:	2.1903
+p_value:	0.0287
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.argos.zh outperforms iwslt17.nllb.zh.
+==========================
+x_name: iwslt17.argos.zh
+y_name: iwslt17.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7946
+y-mean:	0.7966
+ties (%):	0.1900
+x_wins (%):	0.1767
+y_wins (%):	0.6333
+
+Paired T-Test Results:
+statistic:	-0.8424
+p_value:	0.3997
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: iwslt17.nllb.zh
+y_name: iwslt17.opusmt.zh
+
+Bootstrap Resampling Results:
+x-mean:	0.7893
+y-mean:	0.7966
+ties (%):	0.0267
+x_wins (%):	0.0033
+y_wins (%):	0.9700
+
+Paired T-Test Results:
+statistic:	-3.1355
+p_value:	0.0017
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.opusmt.zh outperforms iwslt17.nllb.zh.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    iwslt17.bergamot.zh    iwslt17.microsoft.zh    iwslt17.google.zh    iwslt17.argos.zh    iwslt17.nllb.zh    iwslt17.opusmt.zh
+---------------------  ---------------------  ----------------------  -------------------  ------------------  -----------------  -------------------
+iwslt17.bergamot.zh                           False                   False                True                True               True
+iwslt17.microsoft.zh   True                                           False                True                True               True
+iwslt17.google.zh      True                   True                                         True                True               True
+iwslt17.argos.zh       False                  False                   False                                    True               False
+iwslt17.nllb.zh        False                  False                   False                False                                  False
+iwslt17.opusmt.zh      False                  False                   False                False               True
