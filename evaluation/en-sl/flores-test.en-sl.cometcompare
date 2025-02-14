@@ -1,0 +1,61 @@
+==========================
+x_name: flores-test.bergamot.sl
+y_name: flores-test.microsoft.sl
+
+Bootstrap Resampling Results:
+x-mean:	0.8566
+y-mean:	0.8917
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-15.2787
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-test.microsoft.sl outperforms flores-test.bergamot.sl.
+==========================
+x_name: flores-test.bergamot.sl
+y_name: flores-test.google.sl
+
+Bootstrap Resampling Results:
+x-mean:	0.8566
+y-mean:	0.9067
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-19.8787
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-test.google.sl outperforms flores-test.bergamot.sl.
+==========================
+x_name: flores-test.microsoft.sl
+y_name: flores-test.google.sl
+
+Bootstrap Resampling Results:
+x-mean:	0.8917
+y-mean:	0.9067
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-8.8736
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+flores-test.google.sl outperforms flores-test.microsoft.sl.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y       flores-test.bergamot.sl    flores-test.microsoft.sl    flores-test.google.sl
+------------------------  -------------------------  --------------------------  -----------------------
+flores-test.bergamot.sl                              False                       False
+flores-test.microsoft.sl  True                                                   False
+flores-test.google.sl     True                       True
