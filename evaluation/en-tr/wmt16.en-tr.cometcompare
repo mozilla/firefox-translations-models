@@ -1,0 +1,61 @@
+==========================
+x_name: wmt16.bergamot.tr
+y_name: wmt16.microsoft.tr
+
+Bootstrap Resampling Results:
+x-mean:	0.8608
+y-mean:	0.8928
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-27.1457
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt16.microsoft.tr outperforms wmt16.bergamot.tr.
+==========================
+x_name: wmt16.bergamot.tr
+y_name: wmt16.google.tr
+
+Bootstrap Resampling Results:
+x-mean:	0.8608
+y-mean:	0.8970
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-27.9157
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt16.google.tr outperforms wmt16.bergamot.tr.
+==========================
+x_name: wmt16.microsoft.tr
+y_name: wmt16.google.tr
+
+Bootstrap Resampling Results:
+x-mean:	0.8928
+y-mean:	0.8970
+ties (%):	0.0033
+x_wins (%):	0.0000
+y_wins (%):	0.9967
+
+Paired T-Test Results:
+statistic:	-4.8774
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt16.google.tr outperforms wmt16.microsoft.tr.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt16.bergamot.tr    wmt16.microsoft.tr    wmt16.google.tr
+---------------------  -------------------  --------------------  -----------------
+wmt16.bergamot.tr                           False                 False
+wmt16.microsoft.tr     True                                       False
+wmt16.google.tr        True                 True

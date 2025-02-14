@@ -1,0 +1,61 @@
+==========================
+x_name: wmt21.bergamot.ja
+y_name: wmt21.microsoft.ja
+
+Bootstrap Resampling Results:
+x-mean:	0.8557
+y-mean:	0.8954
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-17.6315
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.microsoft.ja outperforms wmt21.bergamot.ja.
+==========================
+x_name: wmt21.bergamot.ja
+y_name: wmt21.google.ja
+
+Bootstrap Resampling Results:
+x-mean:	0.8557
+y-mean:	0.9143
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-24.3024
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.ja outperforms wmt21.bergamot.ja.
+==========================
+x_name: wmt21.microsoft.ja
+y_name: wmt21.google.ja
+
+Bootstrap Resampling Results:
+x-mean:	0.8954
+y-mean:	0.9143
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-13.6820
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt21.google.ja outperforms wmt21.microsoft.ja.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt21.bergamot.ja    wmt21.microsoft.ja    wmt21.google.ja
+---------------------  -------------------  --------------------  -----------------
+wmt21.bergamot.ja                           False                 False
+wmt21.microsoft.ja     True                                       False
+wmt21.google.ja        True                 True
