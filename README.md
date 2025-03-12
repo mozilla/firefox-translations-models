@@ -121,6 +121,7 @@ Dev models are available in Nightly only.
 - Vietnamese -> English
 
 ## Dev
+- Arabic <- English
 - Bosnian -> English
 - Chinese (Simplified) <- English
 - Croatian <- English
