@@ -367,16 +367,16 @@
       "microsoft": 20.7,
       "nllb": 14.4,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-dev": {
       "microsoft": 20.6,
       "google": 20.4,
       "nllb": 14.5,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-gl": {
@@ -907,16 +907,16 @@
       "google": 40.1,
       "microsoft": 1.1,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-test": {
       "google": 39.9,
       "nllb": 25.6,
       "microsoft": 0.9,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-nb": {
@@ -925,16 +925,16 @@
       "nllb": 29.1,
       "google": 35.1,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-dev": {
       "google": 35.0,
       "microsoft": 34.7,
       "nllb": 28.8,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-hu": {
@@ -1115,16 +1115,16 @@
       "microsoft": 44.0,
       "nllb": 28.5,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-dev": {
       "google": 40.3,
       "nllb": 28.7,
       "microsoft": 44.4,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-sv": {
@@ -1151,16 +1151,16 @@
       "nllb": 9.6,
       "google": 13.9,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-test": {
       "google": 16.2,
       "microsoft": 9.0,
       "nllb": 11.1,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "lv-en": {
@@ -1194,25 +1194,25 @@
       "opusmt": 21.6,
       "microsoft": 31.6,
       "argos": 15.7,
+      "bergamot": 29.9,
       "google": 33.6,
-      "nllb": 21.3,
-      "bergamot": 0
+      "nllb": 21.3
     },
     "iwslt17": {
       "google": 18.8,
       "nllb": 14.5,
       "opusmt": 15.9,
       "microsoft": 17.9,
-      "argos": 13.0,
-      "bergamot": 0
+      "bergamot": 17.7,
+      "argos": 13.0
     },
     "flores-test": {
       "google": 33.7,
       "microsoft": 31.0,
+      "bergamot": 29.5,
       "opusmt": 22.8,
       "nllb": 21.5,
-      "argos": 16.5,
-      "bergamot": 0
+      "argos": 16.5
     }
   },
   "en-th": {
@@ -1221,16 +1221,16 @@
       "nllb": 7.1,
       "microsoft": 14.6,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-dev": {
       "nllb": 7.8,
       "google": 16.3,
       "microsoft": 15.5,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-ru": {
@@ -1997,16 +1997,16 @@
       "microsoft": 32.1,
       "nllb": 24.2,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-test": {
       "google": 36.6,
       "nllb": 24.8,
       "microsoft": 33.2,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-cs": {
@@ -2233,16 +2233,16 @@
       "nllb": 2.4,
       "google": 3.9,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-test": {
       "google": 3.6,
       "microsoft": 1.5,
       "nllb": 2.3,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "en-ko": {
@@ -2589,16 +2589,16 @@
       "google": 39.7,
       "nllb": 30.1,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-test": {
       "microsoft": 39.2,
       "nllb": 30.9,
       "google": 41.3,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "sl-en": {
@@ -2759,16 +2759,16 @@
       "google": 31.7,
       "nllb": 26.1,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     },
     "flores-test": {
       "microsoft": 23.8,
       "nllb": 25.1,
       "google": 30.4,
       "argos": 0,
-      "bergamot": 0,
-      "opusmt": 0
+      "opusmt": 0,
+      "bergamot": 0
     }
   },
   "pt-en": {

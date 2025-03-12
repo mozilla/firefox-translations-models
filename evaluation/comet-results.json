@@ -1190,29 +1190,29 @@
     }
   },
   "en-ar": {
+    "flores-test": {
+      "bergamot": 0.858,
+      "microsoft": 0.8721,
+      "argos": 0.7645,
+      "opusmt": 0.8319,
+      "google": 0.8845,
+      "nllb": 0.8375
+    },
     "iwslt17": {
       "opusmt": 0.8229,
       "argos": 0.802,
       "google": 0.8559,
       "nllb": 0.8284,
-      "microsoft": 0.845,
-      "bergamot": 0
-    },
-    "flores-test": {
-      "microsoft": 0.8721,
-      "argos": 0.7645,
-      "opusmt": 0.8319,
-      "google": 0.8845,
-      "nllb": 0.8375,
-      "bergamot": 0
+      "bergamot": 0.8387,
+      "microsoft": 0.845
     },
     "flores-dev": {
       "argos": 0.766,
       "nllb": 0.8347,
+      "bergamot": 0.8602,
       "microsoft": 0.8728,
       "google": 0.8865,
-      "opusmt": 0.8334,
-      "bergamot": 0
+      "opusmt": 0.8334
     }
   },
   "en-th": {

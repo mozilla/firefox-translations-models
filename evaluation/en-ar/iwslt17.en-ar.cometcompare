@@ -1,0 +1,268 @@
+==========================
+x_name: iwslt17.bergamot.ar
+y_name: iwslt17.microsoft.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8388
+y-mean:	0.8451
+ties (%):	0.0067
+x_wins (%):	0.0033
+y_wins (%):	0.9900
+
+Paired T-Test Results:
+statistic:	-4.5228
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.ar outperforms iwslt17.bergamot.ar.
+==========================
+x_name: iwslt17.bergamot.ar
+y_name: iwslt17.google.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8388
+y-mean:	0.8561
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-10.5347
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.ar outperforms iwslt17.bergamot.ar.
+==========================
+x_name: iwslt17.bergamot.ar
+y_name: iwslt17.argos.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8388
+y-mean:	0.8022
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	16.2027
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.bergamot.ar outperforms iwslt17.argos.ar.
+==========================
+x_name: iwslt17.bergamot.ar
+y_name: iwslt17.nllb.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8388
+y-mean:	0.8286
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	5.3454
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.bergamot.ar outperforms iwslt17.nllb.ar.
+==========================
+x_name: iwslt17.bergamot.ar
+y_name: iwslt17.opusmt.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8388
+y-mean:	0.8232
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	8.4871
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.bergamot.ar outperforms iwslt17.opusmt.ar.
+==========================
+x_name: iwslt17.microsoft.ar
+y_name: iwslt17.google.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8451
+y-mean:	0.8561
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-8.1614
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.ar outperforms iwslt17.microsoft.ar.
+==========================
+x_name: iwslt17.microsoft.ar
+y_name: iwslt17.argos.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8451
+y-mean:	0.8022
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	17.7049
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.ar outperforms iwslt17.argos.ar.
+==========================
+x_name: iwslt17.microsoft.ar
+y_name: iwslt17.nllb.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8451
+y-mean:	0.8286
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	8.6826
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.ar outperforms iwslt17.nllb.ar.
+==========================
+x_name: iwslt17.microsoft.ar
+y_name: iwslt17.opusmt.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8451
+y-mean:	0.8232
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	11.3142
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.microsoft.ar outperforms iwslt17.opusmt.ar.
+==========================
+x_name: iwslt17.google.ar
+y_name: iwslt17.argos.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8561
+y-mean:	0.8022
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	21.2188
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.ar outperforms iwslt17.argos.ar.
+==========================
+x_name: iwslt17.google.ar
+y_name: iwslt17.nllb.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8561
+y-mean:	0.8286
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	14.3943
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.ar outperforms iwslt17.nllb.ar.
+==========================
+x_name: iwslt17.google.ar
+y_name: iwslt17.opusmt.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8561
+y-mean:	0.8232
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	16.5180
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.google.ar outperforms iwslt17.opusmt.ar.
+==========================
+x_name: iwslt17.argos.ar
+y_name: iwslt17.nllb.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8022
+y-mean:	0.8286
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-10.5885
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.nllb.ar outperforms iwslt17.argos.ar.
+==========================
+x_name: iwslt17.argos.ar
+y_name: iwslt17.opusmt.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8022
+y-mean:	0.8232
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-8.7845
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.opusmt.ar outperforms iwslt17.argos.ar.
+==========================
+x_name: iwslt17.nllb.ar
+y_name: iwslt17.opusmt.ar
+
+Bootstrap Resampling Results:
+x-mean:	0.8286
+y-mean:	0.8232
+ties (%):	0.0833
+x_wins (%):	0.8800
+y_wins (%):	0.0367
+
+Paired T-Test Results:
+statistic:	2.5104
+p_value:	0.0122
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+iwslt17.nllb.ar outperforms iwslt17.opusmt.ar.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    iwslt17.bergamot.ar    iwslt17.microsoft.ar    iwslt17.google.ar    iwslt17.argos.ar    iwslt17.nllb.ar    iwslt17.opusmt.ar
+---------------------  ---------------------  ----------------------  -------------------  ------------------  -----------------  -------------------
+iwslt17.bergamot.ar                           False                   False                True                True               True
+iwslt17.microsoft.ar   True                                           False                True                True               True
+iwslt17.google.ar      True                   True                                         True                True               True
+iwslt17.argos.ar       False                  False                   False                                    False              False
+iwslt17.nllb.ar        False                  False                   False                True                                   True
+iwslt17.opusmt.ar      False                  False                   False                True                False
