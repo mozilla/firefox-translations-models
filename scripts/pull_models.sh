@@ -24,5 +24,13 @@ wget -O "${LOCAL_DIR}"/model.${SRC}${TRG}.intgemm.alphas.bin.gz \
   ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Fmodel.${SRC}${TRG}.intgemm.alphas.bin.gz
 wget -O "${LOCAL_DIR}"/vocab.${SRC}${TRG}.spm.gz \
  ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Fvocab.${SRC}${TRG}.spm.gz
+# switch to separate vocabs if the join one is not found
+if [ $? -ne 0 ]; then
+  wget -O "${LOCAL_DIR}"/srcvocab.${SRC}${TRG}.spm.gz \
+    ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Fsrcvocab.${SRC}${TRG}.spm.gz
+  wget -O "${LOCAL_DIR}"/trgvocab.${SRC}${TRG}.spm.gz \
+    ${TC_PREFIX}/${TASK_ID}/runs/0/artifacts/public%2Fbuild%2Ftrgvocab.${SRC}${TRG}.spm.gz
+fi
+
 
 git add "${LOCAL_DIR}"/*
