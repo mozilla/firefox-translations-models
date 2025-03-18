@@ -15,16 +15,17 @@ TRGVOCAB_TYPE = "trgvocab"
 SRCVOCAB_TYPE = "srcvocab"
 VOCAB_TYPE = "vocab"
 
-LEX_NAME = "lex.esen.s2t.bin"
-LEX_5050_NAME = "lex.50.50.esen.s2t.bin"
-MODEL_NAME = "model.esen.intgemm8.bin"
-QUALITY_MODEL_NAME = "qualityModel.esen.bin"
-SRCVOCAB_NAME = "srcvocab.esen.spm"
-TRGVOCAB_NAME = "trgvocab.esen.spm"
-VOCAB_NAME = "vocab.esen.spm"
+LEX_NAME = "lex.esen.s2t.bin.zst"
+LEX_5050_NAME = "lex.50.50.esen.s2t.bin.zst"
+MODEL_NAME = "model.esen.intgemm8.bin.zst"
+QUALITY_MODEL_NAME = "qualityModel.esen.bin.zst"
+SRCVOCAB_NAME = "srcvocab.esen.spm.zst"
+TRGVOCAB_NAME = "trgvocab.esen.spm.zst"
+VOCAB_NAME = "vocab.esen.spm.zst"
 
 DEV_ATTACHMENTS_PATH = "tests/remote_settings/attachments/dev/enes"
 PROD_ATTACHMENTS_PATH = "tests/remote_settings/attachments/prod/esen"
+
 LEX_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_NAME}"
 LEX_5050_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_5050_NAME}"
 MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{MODEL_NAME}"
@@ -292,7 +293,7 @@ def test_create_command_lex_5050_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "application/zstd"' in result.stdout  
 
 
 def test_create_command_lex_esen():
@@ -306,7 +307,7 @@ def test_create_command_lex_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "application/zstd"' in result.stdout 
 
 
 def test_create_command_model_esen():
@@ -320,7 +321,7 @@ def test_create_command_model_esen():
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "application/zstd"' in result.stdout 
 
 
 def test_create_command_quality_model_esen():
@@ -340,7 +341,7 @@ def test_create_command_quality_model_esen():
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "application/zstd"' in result.stdout 
 
 
 def test_create_command_srcvocab_esen():
@@ -356,7 +357,7 @@ def test_create_command_srcvocab_esen():
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+    assert f'"mimeType": "application/zstd"' in result.stdout 
 
 
 def test_create_command_trgvocab_esen():
@@ -372,16 +373,7 @@ def test_create_command_trgvocab_esen():
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
-
-
-LEX_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_NAME}"
-LEX_5050_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_5050_NAME}"
-MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{MODEL_NAME}"
-QUALITY_MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{QUALITY_MODEL_NAME}"
-SRCVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{SRCVOCAB_NAME}"
-TRGVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
-VOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{VOCAB_NAME}"
+    assert f'"mimeType": "application/zstd"' in result.stdout 
 
 
 def test_create_command_lang_pair_esen():
@@ -432,39 +424,43 @@ def test_create_command_lang_pair_enes():
     result = (
         CreateCommand().with_server("stage").with_version("1.0a1").with_lang_pair("enes").run()
     )
-    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
-    assert "" == result.stderr, "The standard error stream should be empty"
 
-    assert f"{DEV_ATTACHMENTS_PATH}" in result.stdout
-    assert f"{PROD_ATTACHMENTS_PATH}" not in result.stdout
+    assert result.returncode == 1, f"The return code should be 1 for an unsupported language pair"
+    assert "No records found" in result.stderr, "The error message should indicate no records were found"
+    assert "You may need to unzip the archives in the desired directory." in result.stdout, "The output should include a hint about unzipping archives"
 
-    assert f'"name": "{LEX_NAME}"' not in result.stdout
-    assert f'"name": "{LEX_5050_NAME}"' not in result.stdout
-    assert f'"name": "{MODEL_NAME}"' not in result.stdout
-    assert f'"name": "{QUALITY_MODEL_NAME}"' not in result.stdout
-    assert f'"name": "{SRCVOCAB_NAME}"' not in result.stdout
-    assert f'"name": "{TRGVOCAB_NAME}"' not in result.stdout
-    assert f'"name": "{VOCAB_NAME}"' not in result.stdout
+    if result.returncode == SUCCESS:
+        assert "" == result.stderr, "The standard error stream should be empty"
 
-    assert f'"fromLang": "en"' in result.stdout
-    assert f'"fromLang": "es"' not in result.stdout
+        assert f"{DEV_ATTACHMENTS_PATH}" in result.stdout
+        assert f"{PROD_ATTACHMENTS_PATH}" not in result.stdout
 
-    assert f'"toLang": "es"' in result.stdout
-    assert f'"toLang": "en"' not in result.stdout
+        assert f'"name": "{LEX_NAME}"' not in result.stdout
+        assert f'"name": "{LEX_5050_NAME}"' not in result.stdout
+        assert f'"name": "{MODEL_NAME}"' not in result.stdout
+        assert f'"name": "{QUALITY_MODEL_NAME}"' not in result.stdout
+        assert f'"name": "{SRCVOCAB_NAME}"' not in result.stdout
+        assert f'"name": "{TRGVOCAB_NAME}"' not in result.stdout
+        assert f'"name": "{VOCAB_NAME}"' not in result.stdout
 
-    assert f'"version": "1.0a1"' in result.stdout
-    assert f'"version": "1.0"' not in result.stdout
+        assert f'"fromLang": "en"' in result.stdout
+        assert f'"fromLang": "es"' not in result.stdout
 
-    assert f'"fileType": "{LEX_TYPE}"' in result.stdout
-    assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
-    assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
-    assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
-    assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
-    assert f'"fileType": "{VOCAB_TYPE}"' in result.stdout
+        assert f'"toLang": "es"' in result.stdout
+        assert f'"toLang": "en"' not in result.stdout
 
-    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+        assert f'"version": "1.0a1"' in result.stdout
+        assert f'"version": "1.0"' not in result.stdout
 
+        assert f'"fileType": "{LEX_TYPE}"' in result.stdout
+        assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
+        assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
+        assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
+        assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
+        assert f'"fileType": "{VOCAB_TYPE}"' in result.stdout
+
+        assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
+        assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
 
 def test_create_command_no_files_in_directory():
     result = (

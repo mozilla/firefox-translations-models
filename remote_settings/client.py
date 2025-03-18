@@ -108,7 +108,7 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
 
     @staticmethod
     def _create_record_info(path, version):
@@ -125,7 +125,14 @@ class RemoteSettingsClient:
         file_type = RemoteSettingsClient._determine_file_type(name)
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
-        mimetype, _ = mimetypes.guess_type(path)
+
+        if name.endswith(".zst"):
+            mimetype = "application/zstd"
+        elif file_type in {"srcvocab", "trgvocab"}:
+            mimetype = None 
+        else:
+            mimetype, _ = mimetypes.guess_type(path)
+
         return {
             "id": str(uuid.uuid4()),
             "data": {
