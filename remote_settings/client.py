@@ -108,7 +108,18 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        # Get list of files based on environment
+        if args.test:
+            files = [os.path.join(full_path, f) for f in os.listdir(full_path)]
+        else:
+            files = [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
+
+        if not files:
+            print("\nHelp: You may need to unzip the archives in the desired directory.\n")
+            print_error("No records found.")
+            exit(1)
+
+        return files
 
     @staticmethod
     def _create_record_info(path, version):
