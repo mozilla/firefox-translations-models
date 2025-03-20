@@ -5,6 +5,9 @@ from packaging import version
 
 from remote_settings.format import print_error, print_help
 
+# Register .zst extension with application/zstd MIME type
+mimetypes.add_type("application/zstd", ".zst")
+
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
 Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN}.
@@ -125,7 +128,9 @@ class RemoteSettingsClient:
         file_type = RemoteSettingsClient._determine_file_type(name)
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
+        
         mimetype, _ = mimetypes.guess_type(path)
+        
         return {
             "id": str(uuid.uuid4()),
             "data": {

@@ -15,13 +15,13 @@ TRGVOCAB_TYPE = "trgvocab"
 SRCVOCAB_TYPE = "srcvocab"
 VOCAB_TYPE = "vocab"
 
-LEX_NAME = "lex.esen.s2t.bin"
-LEX_5050_NAME = "lex.50.50.esen.s2t.bin"
-MODEL_NAME = "model.esen.intgemm8.bin"
-QUALITY_MODEL_NAME = "qualityModel.esen.bin"
-SRCVOCAB_NAME = "srcvocab.esen.spm"
-TRGVOCAB_NAME = "trgvocab.esen.spm"
-VOCAB_NAME = "vocab.esen.spm"
+LEX_NAME = "lex.esen.s2t.zst"
+LEX_5050_NAME = "lex.50.50.esen.s2t.zst"
+MODEL_NAME = "model.esen.intgemm8.zst"
+QUALITY_MODEL_NAME = "qualityModel.esen.zst"
+SRCVOCAB_NAME = "srcvocab.esen.zst"
+TRGVOCAB_NAME = "trgvocab.esen.zst"
+VOCAB_NAME = "vocab.esen.zst"
 
 DEV_ATTACHMENTS_PATH = "tests/remote_settings/attachments/dev/enes"
 PROD_ATTACHMENTS_PATH = "tests/remote_settings/attachments/prod/esen"
@@ -41,7 +41,7 @@ ALPHA_FILTER_EXPRESSION = "env.channel == 'default' || env.channel == 'nightly'"
 BETA_FILTER_EXPRESSION = "env.channel != 'release'"
 RELEASE_FILTER_EXPRESSION = ""
 
-OCTET_STREAM = "application/octet-stream"
+ZSTD_MIME = "application/zstd"
 
 
 class CreateCommand:
@@ -292,7 +292,7 @@ def test_create_command_lex_5050_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_lex_esen():
@@ -306,7 +306,7 @@ def test_create_command_lex_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_model_esen():
@@ -320,7 +320,7 @@ def test_create_command_model_esen():
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_quality_model_esen():
@@ -340,7 +340,7 @@ def test_create_command_quality_model_esen():
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_srcvocab_esen():
@@ -356,7 +356,7 @@ def test_create_command_srcvocab_esen():
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_trgvocab_esen():
@@ -372,16 +372,7 @@ def test_create_command_trgvocab_esen():
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
-
-
-LEX_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_NAME}"
-LEX_5050_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_5050_NAME}"
-MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{MODEL_NAME}"
-QUALITY_MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{QUALITY_MODEL_NAME}"
-SRCVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{SRCVOCAB_NAME}"
-TRGVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
-VOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{VOCAB_NAME}"
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_lang_pair_esen():
