@@ -5,6 +5,8 @@ from packaging import version
 
 from remote_settings.format import print_error, print_help
 
+mimetypes.add_type("application/zstd", ".zst")
+
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
 Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN}.
@@ -108,7 +110,17 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        if args.test:
+           files = [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        else:
+            files = [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
+
+        if not files:
+           print_error(f"No records found in {full_path}")
+           print_error("You may need to unzip the archives in the desired directory.")
+           exit(1)
+
+        return files
 
     @staticmethod
     def _create_record_info(path, version):
@@ -121,15 +133,19 @@ class RemoteSettingsClient:
         Returns:
             dict: A dictionary containing the record metadata
         """
-        name = os.path.basename(path)
-        file_type = RemoteSettingsClient._determine_file_type(name)
-        from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
+
+        full_name = os.path.basename(path)
+        display_name = full_name
+        # We're no longer removing the .zst extension
+
+        file_type = RemoteSettingsClient._determine_file_type(display_name)
+        from_lang, to_lang = RemoteSettingsClient._determine_language_pair(display_name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         mimetype, _ = mimetypes.guess_type(path)
         return {
             "id": str(uuid.uuid4()),
             "data": {
-                "name": os.path.basename(path),
+                "name": display_name,
                 "fromLang": from_lang,
                 "toLang": to_lang,
                 "version": version,
