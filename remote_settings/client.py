@@ -5,6 +5,8 @@ from packaging import version
 
 from remote_settings.format import print_error, print_help
 
+mimetypes.add_type("application/zstd",".zst")
+
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
 Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN}.
@@ -108,7 +110,7 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
 
     @staticmethod
     def _create_record_info(path, version):
@@ -205,13 +207,13 @@ class RemoteSettingsClient:
         segments = name.split(".")
 
         # File names are of the following formats:
-        #   - model.{lang_pair}.intgemm8.bin.gz
-        #   - lex.{lang_pair}.s2t.bin.gz
-        #   - lex.50.50.{lang_pair}.s2t.bin.gz
-        #   - trgvocab.{lang_pair}.spm.gz
-        #   - srcvocab.{lang_pair}.spm.gz
-        #   - qualityModel.{lang_pair}.bin.gz
-        #   - vocab.{lang_pair}.spm.gz
+        #   - model.{lang_pair}.intgemm8.bin.zst
+        #   - lex.{lang_pair}.s2t.bin.zst
+        #   - lex.50.50.{lang_pair}.s2t.bin.zst
+        #   - trgvocab.{lang_pair}.spm.zst
+        #   - srcvocab.{lang_pair}.spm.zst
+        #   - qualityModel.{lang_pair}.bin.zst
+        #   - vocab.{lang_pair}.spm.zst
         #
         # The lang_pair will always be in the one-index, except for
         # the lex.50.50... file, in which case it is in the three-index segment.
