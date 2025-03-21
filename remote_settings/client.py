@@ -1,7 +1,9 @@
 import os, sys, mimetypes, requests, uuid, json
 
-from kinto_http import Client, BearerTokenAuth
+from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
+
+mimetypes.add_type("application/zstd", ".zst")
 
 from remote_settings.format import print_error, print_help
 
@@ -108,7 +110,7 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
 
     @staticmethod
     def _create_record_info(path, version):
