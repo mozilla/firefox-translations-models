@@ -108,7 +108,7 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        # Always filter for .zst files regardless of environment
+        # Always filter for .zst files, regardless of environment
         files = [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
 
         if not files:
