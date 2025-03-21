@@ -5,6 +5,9 @@ from packaging import version
 
 from remote_settings.format import print_error, print_help
 
+# Register .zst extension with application/zstd MIME type
+mimetypes.add_type("application/zstd", ".zst")
+
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
 Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN}.
@@ -108,7 +111,7 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
 
     @staticmethod
     def _create_record_info(path, version):
