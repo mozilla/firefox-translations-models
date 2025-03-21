@@ -125,7 +125,7 @@ class RemoteSettingsClient:
             print("\nHelp: You may need to unzip the archives in the desired directory.\n")
             print_error("No records found.")
             exit(1)
-            
+
         if not os.path.exists(full_path):
             print_error(f"Path does not exist: {normalized_path}")
             exit(1)
@@ -285,9 +285,9 @@ class RemoteSettingsClient:
             str: The base directory for record attachments.
         """
         if args.test:
-            return "tests/remote_settings/attachments"  # Always use forward slashes for testing
+            return "tests/remote_settings/attachments"  # forward slashes for testing
         else:
-            return "models"  # Always use forward slashe
+            return "models" 
 
     def server_url(self):
         """Retrieves the url of the server that this client is connected to.
