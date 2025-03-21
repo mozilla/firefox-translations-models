@@ -108,7 +108,15 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        # Always filter for .zst files, regardless of environment
+        files = [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
+
+        if not files:
+            print("\nHelp: You may need to unzip the archives in the desired directory.\n")
+            print_error("No records found.")
+            exit(1)
+
+        return files
 
     @staticmethod
     def _create_record_info(path, version):
@@ -125,7 +133,13 @@ class RemoteSettingsClient:
         file_type = RemoteSettingsClient._determine_file_type(name)
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
-        mimetype, _ = mimetypes.guess_type(path)
+        
+        # Special mimetype handling for different file types
+        if file_type in ["srcvocab", "trgvocab", "vocab"]:
+            mimetype = None
+        else:
+            mimetype = "application/octet-stream"
+
         return {
             "id": str(uuid.uuid4()),
             "data": {
