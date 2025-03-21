@@ -15,13 +15,13 @@ TRGVOCAB_TYPE = "trgvocab"
 SRCVOCAB_TYPE = "srcvocab"
 VOCAB_TYPE = "vocab"
 
-LEX_NAME = "lex.esen.s2t.bin"
-LEX_5050_NAME = "lex.50.50.esen.s2t.bin"
-MODEL_NAME = "model.esen.intgemm8.bin"
-QUALITY_MODEL_NAME = "qualityModel.esen.bin"
-SRCVOCAB_NAME = "srcvocab.esen.spm"
-TRGVOCAB_NAME = "trgvocab.esen.spm"
-VOCAB_NAME = "vocab.esen.spm"
+LEX_NAME = "lex.esen.s2t.zst"
+LEX_5050_NAME = "lex.50.50.esen.s2t.zst"
+MODEL_NAME = "model.esen.intgemm8.zst"
+QUALITY_MODEL_NAME = "qualityModel.esen.zst"
+SRCVOCAB_NAME = "srcvocab.esen.zst"
+TRGVOCAB_NAME = "trgvocab.esen.zst"
+VOCAB_NAME = "vocab.esen.zst"
 
 DEV_ATTACHMENTS_PATH = "tests/remote_settings/attachments/dev/enes"
 PROD_ATTACHMENTS_PATH = "tests/remote_settings/attachments/prod/esen"
@@ -148,7 +148,7 @@ def test_create_command_invalid_server():
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
     assert "" == result.stdout, "The standard output stream should be empty"
     assert (
-        "argument --server: invalid choice: 'invalid_server' (choose from 'dev', 'stage', 'prod')"
+        "argument --server: invalid choice: 'invalid_server' (choose from dev, stage, prod)"
         in result.stderr
     )
 
