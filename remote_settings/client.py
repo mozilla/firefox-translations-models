@@ -134,11 +134,8 @@ class RemoteSettingsClient:
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         
-        # Special mimetype handling for different file types
-        if file_type in ["srcvocab", "trgvocab", "vocab"]:
-            mimetype = None
-        else:
-            mimetype = "application/octet-stream"
+        # All files are .zst, so always use application/zstd
+        mimetype = "application/zstd"
 
         return {
             "id": str(uuid.uuid4()),
