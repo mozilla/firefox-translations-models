@@ -41,7 +41,7 @@ ALPHA_FILTER_EXPRESSION = "env.channel == 'default' || env.channel == 'nightly'"
 BETA_FILTER_EXPRESSION = "env.channel != 'release'"
 RELEASE_FILTER_EXPRESSION = ""
 
-OCTET_STREAM = "application/octet-stream"
+ZSTD_STREAM = "application/zstd"
 
 
 class CreateCommand:
@@ -148,7 +148,7 @@ def test_create_command_invalid_server():
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
     assert "" == result.stdout, "The standard output stream should be empty"
     assert (
-        "argument --server: invalid choice: 'invalid_server' (choose from dev, stage, prod)"
+        "argument --server: invalid choice: 'invalid_server' (choose from 'dev', 'stage', 'prod')"
         in result.stderr
     )
 
@@ -292,7 +292,7 @@ def test_create_command_lex_5050_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_STREAM}"' in result.stdout
 
 
 def test_create_command_lex_esen():
@@ -306,7 +306,7 @@ def test_create_command_lex_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_STREAM}"' in result.stdout
 
 
 def test_create_command_model_esen():
@@ -320,7 +320,7 @@ def test_create_command_model_esen():
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_STREAM}"' in result.stdout
 
 
 def test_create_command_quality_model_esen():
@@ -340,7 +340,7 @@ def test_create_command_quality_model_esen():
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"mimeType": "{ZSTD_STREAM}"' in result.stdout
 
 
 def test_create_command_srcvocab_esen():

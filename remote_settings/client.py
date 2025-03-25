@@ -158,7 +158,7 @@ class RemoteSettingsClient:
         if file_type in ["srcvocab", "trgvocab", "vocab"]:
             mimetype = None
         else:
-            mimetype = "application/octet-stream"
+            mimetype = "application/zstd"
 
         # Use normalized path for display
         normalized_path = RemoteSettingsClient._normalize_path(path) 
