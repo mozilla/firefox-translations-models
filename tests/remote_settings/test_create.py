@@ -147,10 +147,7 @@ def test_create_command_invalid_server():
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
     assert "" == result.stdout, "The standard output stream should be empty"
-    assert (
-        "argument --server: invalid choice: 'invalid_server'"
-        in result.stderr
-    )
+    assert "argument --server: invalid choice: 'invalid_server'" in result.stderr
 
 
 def test_create_command_invalid_version():
