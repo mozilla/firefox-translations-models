@@ -1,6 +1,6 @@
 import os, sys, mimetypes, requests, uuid, json
 
-from kinto_http import Client, BearerTokenAuth
+from kinto_http import Client, BearerTokenAuth # type: ignore
 from packaging import version
 
 from remote_settings.format import print_error, print_help
@@ -108,7 +108,16 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        if not os.path.exists(full_path):
+           print_error(f"Path does not exist: {full_path}")
+           exit(1)
+
+        files = []
+        for f in os.listdir(full_path):
+            file_path = os.path.join(full_path, f)
+            if f.endswith(".zst") or os.path.getsize(file_path) == 0:
+                files.append(file_path)
+        return files
 
     @staticmethod
     def _create_record_info(path, version):
@@ -160,9 +169,7 @@ class RemoteSettingsClient:
             print_help(BEARER_TOKEN_HELP_MESSAGE)
             sys.exit(1)
 
-        # When copying the Remote Settings token from the UI, it copies in the format
-        # "Bearer <token>". We want to strip just the token if the user did not strip
-        # it already themselves.
+
         if token.startswith("Bearer "):
             return token[len("Bearer ") :]
 
@@ -372,7 +379,7 @@ class RemoteSettingsClient:
         )
 
         if response.status_code > 200:
-            raise KintoException(
+            raise KintoException( # type: ignore
                 f"Couldn't attach file at endpoint {self.sever_url()}{attachment_endpoint}: "
                 + f"{response.content.decode('utf-8')}"
             )
