@@ -1,6 +1,6 @@
 import os, sys, mimetypes, requests, uuid, json
 
-from kinto_http import Client, BearerTokenAuth
+from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
 from remote_settings.format import print_error, print_help
@@ -108,7 +108,7 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
 
     @staticmethod
     def _create_record_info(path, version):
@@ -193,32 +193,41 @@ class RemoteSettingsClient:
             return ""
 
     @staticmethod
+    #@staticmethod
     def _determine_language_pair(name):
-        """Determines the language pair based on the name of the file.
+        """Determines the language pair based on the name of the file or direct language pair.
 
         Args:
-            name str: The name of a file to attach to a record
+            name str: The name of a file to attach to a record or a direct language pair
 
         Returns:
             Tuple[str, str]: The (fromLang, toLang) pair for this file
         """
+        # Handle direct language pairs (e.g. "esen", "enes")
+        if len(name) == 4 and '.' not in name and '/' not in name:
+            return (name[:2], name[2:])
+    
         segments = name.split(".")
 
-        # File names are of the following formats:
-        #   - model.{lang_pair}.intgemm8.bin.gz
-        #   - lex.{lang_pair}.s2t.bin.gz
-        #   - lex.50.50.{lang_pair}.s2t.bin.gz
-        #   - trgvocab.{lang_pair}.spm.gz
-        #   - srcvocab.{lang_pair}.spm.gz
-        #   - qualityModel.{lang_pair}.bin.gz
-        #   - vocab.{lang_pair}.spm.gz
-        #
-        # The lang_pair will always be in the one-index, except for
-        # the lex.50.50... file, in which case it is in the three-index segment.
-        lang_pair_segment = segments[1]
-        if len(lang_pair_segment) < 4:
-            lang_pair_segment = segments[3]
-        return (lang_pair_segment[:2], lang_pair_segment[-2:])
+    # File names are of the following formats:
+    #   - model.{lang_pair}.intgemm8.bin.gz
+    #   - lex.{lang_pair}.s2t.bin.gz
+    #   - lex.50.50.{lang_pair}.s2t.bin.gz
+    #   - trgvocab.{lang_pair}.spm.gz
+    #   - srcvocab.{lang_pair}.spm.gz
+    #   - qualityModel.{lang_pair}.bin.gz
+    #   - vocab.{lang_pair}.spm.gz
+    #
+    # The lang_pair will always be in the one-index, except for
+    # the lex.50.50... file, in which case it is in the three-index segment.
+        if len(segments) > 1:
+            lang_pair_segment = segments[1]
+            if len(lang_pair_segment) < 4 and len(segments) > 3:
+                lang_pair_segment = segments[3]
+            return (lang_pair_segment[:2], lang_pair_segment[-2:])
+    
+    # If we can't determine the language pair
+        raise ValueError(f"Cannot determine language pair from: {name}")
 
     @staticmethod
     def _determine_file_type(name):
