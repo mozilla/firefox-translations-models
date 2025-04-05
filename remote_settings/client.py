@@ -108,7 +108,8 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
+
 
     @staticmethod
     def _create_record_info(path, version):
