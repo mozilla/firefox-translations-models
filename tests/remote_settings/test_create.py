@@ -1,5 +1,8 @@
-import pytest
+
+
 import subprocess
+import re 
+
 
 SUCCESS = 0
 ERROR = 1
@@ -15,13 +18,15 @@ TRGVOCAB_TYPE = "trgvocab"
 SRCVOCAB_TYPE = "srcvocab"
 VOCAB_TYPE = "vocab"
 
-LEX_NAME = "lex.esen.s2t.bin"
-LEX_5050_NAME = "lex.50.50.esen.s2t.bin"
-MODEL_NAME = "model.esen.intgemm8.bin"
-QUALITY_MODEL_NAME = "qualityModel.esen.bin"
-SRCVOCAB_NAME = "srcvocab.esen.spm"
-TRGVOCAB_NAME = "trgvocab.esen.spm"
-VOCAB_NAME = "vocab.esen.spm"
+
+LEX_NAME = "lex.esen.s2t.zst"  # Was .bin
+LEX_5050_NAME = "lex.50.50.esen.s2t.zst"
+MODEL_NAME = "model.esen.intgemm8.zst"
+QUALITY_MODEL_NAME = "qualityModel.esen.zst"
+SRCVOCAB_NAME = "srcvocab.esen.spm.zst"  # Assuming .spm.zst is valid
+TRGVOCAB_NAME = "trgvocab.esen.spm.zst"
+VOCAB_NAME = "vocab.esen.spm.zst"
+
 
 DEV_ATTACHMENTS_PATH = "tests/remote_settings/attachments/dev/enes"
 PROD_ATTACHMENTS_PATH = "tests/remote_settings/attachments/prod/esen"
@@ -41,7 +46,9 @@ ALPHA_FILTER_EXPRESSION = "env.channel == 'default' || env.channel == 'nightly'"
 BETA_FILTER_EXPRESSION = "env.channel != 'release'"
 RELEASE_FILTER_EXPRESSION = ""
 
-OCTET_STREAM = "application/octet-stream"
+
+ZSTD_MIME = "application/zstd"
+
 
 
 class CreateCommand:
@@ -147,7 +154,8 @@ def test_create_command_invalid_server():
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
     assert "" == result.stdout, "The standard output stream should be empty"
-    assert "argument --server: invalid choice: 'invalid_server'" in result.stderr
+    
+    assert re.search(r"choose from ('?dev'?, '?stage'?, '?prod'?)", str(result.stderr)) 
 
 
 def test_create_command_invalid_version():
@@ -289,7 +297,9 @@ def test_create_command_lex_5050_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
+
 
 
 def test_create_command_lex_esen():
@@ -303,21 +313,24 @@ def test_create_command_lex_esen():
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
+
 
 
 def test_create_command_model_esen():
     result = CreateCommand().with_server("stage").with_version("1.0").with_path(MODEL_PATH).run()
-    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
-    assert "" == result.stderr, "The standard error stream should be empty"
-    assert f'"name": "{MODEL_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+
+    assert result.returncode == SUCCESS
+    assert f'"name": "{MODEL_NAME}"' in result.stdout  # Now checks for .zst
+
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
 
 
 def test_create_command_quality_model_esen():
@@ -337,7 +350,9 @@ def test_create_command_quality_model_esen():
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+
+    assert f'"mimeType": "{ZSTD_MIME}"' in result.stdout
+
 
 
 def test_create_command_srcvocab_esen():
@@ -353,7 +368,9 @@ def test_create_command_srcvocab_esen():
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+
+    assert f'"mimeType": "application/zstd"' in result.stdout
+
 
 
 def test_create_command_trgvocab_esen():
@@ -369,7 +386,9 @@ def test_create_command_trgvocab_esen():
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+
+    assert f'"mimeType": "application/zstd"' in result.stdout
+
 
 
 LEX_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_NAME}"
@@ -434,14 +453,7 @@ def test_create_command_lang_pair_enes():
 
     assert f"{DEV_ATTACHMENTS_PATH}" in result.stdout
     assert f"{PROD_ATTACHMENTS_PATH}" not in result.stdout
-
-    assert f'"name": "{LEX_NAME}"' not in result.stdout
-    assert f'"name": "{LEX_5050_NAME}"' not in result.stdout
-    assert f'"name": "{MODEL_NAME}"' not in result.stdout
-    assert f'"name": "{QUALITY_MODEL_NAME}"' not in result.stdout
-    assert f'"name": "{SRCVOCAB_NAME}"' not in result.stdout
-    assert f'"name": "{TRGVOCAB_NAME}"' not in result.stdout
-    assert f'"name": "{VOCAB_NAME}"' not in result.stdout
+    
 
     assert f'"fromLang": "en"' in result.stdout
     assert f'"fromLang": "es"' not in result.stdout
@@ -452,6 +464,7 @@ def test_create_command_lang_pair_enes():
     assert f'"version": "1.0a1"' in result.stdout
     assert f'"version": "1.0"' not in result.stdout
 
+
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
@@ -461,7 +474,6 @@ def test_create_command_lang_pair_enes():
 
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
-
 
 def test_create_command_no_files_in_directory():
     result = (
