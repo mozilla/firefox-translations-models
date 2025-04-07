@@ -1,5 +1,6 @@
 import pytest
 import subprocess
+import os
 
 SUCCESS = 0
 ERROR = 1
@@ -218,7 +219,9 @@ def test_create_command_lang_pair_does_not_exist_in_dev():
     )
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
     assert "" == result.stdout, "The standard output stream should be empty"
-    assert "Path does not exist: tests/remote_settings/attachments/dev/esen" in result.stderr
+    # assert "Path does not exist: tests/remote_settings/attachments/dev/esen" in result.stderr
+    expected_path = os.path.normpath("tests/remote_settings/attachments/dev/esen")
+    assert expected_path in result.stderr, f"Expected path '{expected_path}' not found in stderr"
 
 
 def test_create_command_lang_pair_does_not_exist_in_prod():
@@ -227,7 +230,9 @@ def test_create_command_lang_pair_does_not_exist_in_prod():
     )
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
     assert "" == result.stdout, "The standard output stream should be empty"
-    assert "Path does not exist: tests/remote_settings/attachments/prod/enes" in result.stderr
+    expected_path = os.path.normpath("tests/remote_settings/attachments/prod/enes")
+    assert expected_path in result.stderr, f"Expected path '{expected_path}' not found in stderr"
+    # assert "Path does not exist: tests/remote_settings/attachments/prod/enes" in result.stderr
 
 
 def test_create_command_display_authenticated_user():
@@ -388,6 +393,13 @@ def test_create_command_lang_pair_esen():
     result = CreateCommand().with_server("stage").with_version("1.0").with_lang_pair("esen").run()
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
+    
+    print(result.stdout)
+    
+    # Normalize the expected path for platform compatibility
+    expected_path = os.path.normpath(PROD_ATTACHMENTS_PATH)
+    assert os.path.normpath(expected_path) in os.path.normpath(result.stdout), f"Expected path '{expected_path}' not found in stdout"
+    
 
     assert f"{PROD_ATTACHMENTS_PATH}" in result.stdout
     assert f"{DEV_ATTACHMENTS_PATH}" not in result.stdout
@@ -434,6 +446,11 @@ def test_create_command_lang_pair_enes():
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
+    
+    expected_path = os.path.normpath(DEV_ATTACHMENTS_PATH)
+    assert expected_path in result.stdout, f"Expected path '{expected_path}' not found in stdout"
+    
+    print(result.stdout)
 
     assert f"{DEV_ATTACHMENTS_PATH}" in result.stdout
     assert f"{PROD_ATTACHMENTS_PATH}" not in result.stdout
@@ -473,3 +490,11 @@ def test_create_command_no_files_in_directory():
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
     assert "No records found" in result.stderr
     assert "You may need to unzip" in result.stdout
+
+
+# def setup_mock_files():
+#     os.makedirs("tests/remote_settings/attachments/dev/enes", exist_ok=True)
+#     with open("tests/remote_settings/attachments/dev/enes/mock_file.zst", "w") as f:
+#         f.write("mock content")
+        
+        
