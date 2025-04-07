@@ -24,6 +24,10 @@ pytest-clarity = "^1.0.1"
 requests = "^2.31.0"
 termcolor = "^2.3.0"
 
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=7.4.3,<8.0.0"
+
 [tool.black]
 extend-exclude= "/3rd_party"
 line-length = 99
