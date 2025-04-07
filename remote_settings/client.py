@@ -11,7 +11,7 @@ Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN
 
 You can retrieve a bearer token from the Remote Settings admin dashboards.
 
-  Dev: https://settings.dev.mozaws.net/v1/admin
+  Dev: https://settings.dev.mozaws.net/v1/admin 
 Stage: https://remote-settings.allizom.org/v1/admin
  Prod: https://remote-settings.mozilla.org/v1/admin
 
@@ -40,6 +40,7 @@ class MockedClient:
 
 
 class RemoteSettingsClient:
+    
     def __init__(self, args):
         """Initializes the RemoteSettingsClient by authenticating with the server.
 
@@ -372,7 +373,11 @@ class RemoteSettingsClient:
         )
 
         if response.status_code > 200:
-            raise KintoException(
-                f"Couldn't attach file at endpoint {self.sever_url()}{attachment_endpoint}: "
+            raise Exception(
+                f"Couldn't attach file at endpoint {self.server_url()}{attachment_endpoint}: "
                 + f"{response.content.decode('utf-8')}"
             )
+            
+    def _filter_valid_files(file_list):
+        """Filters the list of files to retain only .zst files."""
+        return [file for file in file_list if file.endswith(".zst")]
