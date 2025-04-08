@@ -973,7 +973,7 @@ def plot_lang_pair(datasets, inverted_scores, img_path, evaluation_engine):
 )
 @click.option(
     "--comet-compare",
-    default=True,
+    default=False,
     help="Determine if comet-compare should be executed or not. Default: True",
 )
 @click.option(
