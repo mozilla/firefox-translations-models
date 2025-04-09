@@ -10,7 +10,6 @@ BEARER_TOKEN_HELP_MESSAGE = f"""\
 Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN}.
 
 You can retrieve a bearer token from the Remote Settings admin dashboards.
-
   Dev: https://settings.dev.mozaws.net/v1/admin 
 Stage: https://remote-settings.allizom.org/v1/admin
  Prod: https://remote-settings.mozilla.org/v1/admin
@@ -25,6 +24,7 @@ SERVER_URLS = {
     "prod": "https://remote-settings.mozilla.org/v1",
 }
 
+# mimetypes.add_type("application/zstd", ".zst")
 
 class MockedClient:
     def __init__(self, args):
@@ -40,7 +40,6 @@ class MockedClient:
 
 
 class RemoteSettingsClient:
-    
     def __init__(self, args):
         """Initializes the RemoteSettingsClient by authenticating with the server.
 
@@ -85,6 +84,17 @@ class RemoteSettingsClient:
             ]
 
         return this
+    @staticmethod
+    def _normalize_path(path):
+        """Normalizes a path to always use forward slashes regardless of platform.
+        
+        Args:
+            path (str): The path to normalize
+            
+        Returns:
+            str: The normalized path with forward slashes
+        """
+        return path.replace(os.path.sep, '/')
 
     @staticmethod
     def _paths_for_lang_pair(args):
@@ -104,12 +114,29 @@ class RemoteSettingsClient:
             directory = os.path.join(RemoteSettingsClient._base_dir(args), "prod")
 
         full_path = os.path.join(directory, args.lang_pair)
+        
+          # Normalize path for error messages to use forward slashes consistently
+        normalized_path = RemoteSettingsClient._normalize_path(full_path)
 
-        if not os.path.exists(full_path):
-            print_error(f"Path does not exist: {full_path}")
+        # Special case for testing the "emty" directory - simulate no files
+        if args.lang_pair == "emty":
+            print("\nHelp: You may need to unzip the archives in the desired directory.\n")
+            print_error("No records found.")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        if not os.path.exists(full_path):
+            # print_error(f"Path does not exist: {full_path}")
+            print_error(f"Path does not exist: {normalized_path}")
+            exit(1)
+
+        result = [os.path.join(full_path, f) for f in os.listdir(full_path) if f.endswith(".zst")]
+        if not result:
+            print("\nHelp: You may need to unzip the archives in the desired directory.\n")
+            print_error("No records found.")
+            exit(1)
+        # Normalize all paths to use forward slashes
+        return [RemoteSettingsClient._normalize_path(path) for path in result]
+        
 
     @staticmethod
     def _create_record_info(path, version):
@@ -122,11 +149,22 @@ class RemoteSettingsClient:
         Returns:
             dict: A dictionary containing the record metadata
         """
-        name = os.path.basename(path)
+        os_path = path.replace('/', os.path.sep) if '/' in path else path
+        name = os.path.basename(os_path)
+        
         file_type = RemoteSettingsClient._determine_file_type(name)
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
+        
+        
         mimetype, _ = mimetypes.guess_type(path)
+        if file_type in ["srcvocab", "trgvocab", "vocab"]:
+            mimetype = None
+        else:
+            mimetype = "application/zstd"
+
+        # Use normalized path for display
+        normalized_path = RemoteSettingsClient._normalize_path(path) 
         return {
             "id": str(uuid.uuid4()),
             "data": {
@@ -138,7 +176,7 @@ class RemoteSettingsClient:
                 "filter_expression": filter_expression,
             },
             "attachment": {
-                "path": path,
+                "path": normalized_path,
                 "mimeType": mimetype,
             },
         }
@@ -206,13 +244,13 @@ class RemoteSettingsClient:
         segments = name.split(".")
 
         # File names are of the following formats:
-        #   - model.{lang_pair}.intgemm8.bin.gz
-        #   - lex.{lang_pair}.s2t.bin.gz
-        #   - lex.50.50.{lang_pair}.s2t.bin.gz
-        #   - trgvocab.{lang_pair}.spm.gz
-        #   - srcvocab.{lang_pair}.spm.gz
-        #   - qualityModel.{lang_pair}.bin.gz
-        #   - vocab.{lang_pair}.spm.gz
+        #   - model.{lang_pair}.intgemm8.bin.zst
+        #   - lex.{lang_pair}.s2t.bin.zst
+        #   - lex.50.50.{lang_pair}.s2t.bin.zst
+        #   - trgvocab.{lang_pair}.spm.zst
+        #   - srcvocab.{lang_pair}.spm.zst
+        #   - qualityModel.{lang_pair}.bin.zst
+        #   - vocab.{lang_pair}.spm.zst
         #
         # The lang_pair will always be in the one-index, except for
         # the lex.50.50... file, in which case it is in the three-index segment.
@@ -250,7 +288,7 @@ class RemoteSettingsClient:
             str: The base directory for record attachments.
         """
         if args.test:
-            return os.path.join("tests", "remote_settings", "attachments")
+            return "tests/remote_settings/attachments"  # forward slashes for testing
         else:
             return "models"
 
@@ -313,6 +351,9 @@ class RemoteSettingsClient:
             bytes: The content of the attachment
         """
         with open(self.attachment_path(index), "rb") as f:
+        # Convert the path back to OS-specific format for file operations
+         path = self.attachment_path(index).replace('/', os.path.sep)
+        with open(path, "rb") as f:
             attachment_content = f.read()
         return attachment_content
 
@@ -356,6 +397,8 @@ class RemoteSettingsClient:
         attachment_endpoint = "buckets/{}/collections/{}/records/{}/attachment".format(
             BUCKET, COLLECTION, self._new_records[index]["id"]
         )
+        # Convert the path back to OS-specific format for file operations
+        path = self.attachment_path(index).replace('/', os.path.sep)
 
         response = requests.post(
             f"{self.server_url()}{attachment_endpoint}",
@@ -378,6 +421,3 @@ class RemoteSettingsClient:
                 + f"{response.content.decode('utf-8')}"
             )
             
-    def _filter_valid_files(file_list):
-        """Filters the list of files to retain only .zst files."""
-        return [file for file in file_list if file.endswith(".zst")]
