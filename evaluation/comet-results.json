@@ -639,7 +639,7 @@
     "wmt21": {
       "nllb": 0.7737,
       "google": 0.8589,
-      "bergamot": 0.8089,
+      "bergamot": 0.8084,
       "argos": 0.7652,
       "opusmt": 0.754,
       "microsoft": 0.841
@@ -647,14 +647,14 @@
     "wmt18": {
       "opusmt": 0.8125,
       "google": 0.8909,
-      "bergamot": 0.8548,
+      "bergamot": 0.8545,
       "argos": 0.8315,
       "nllb": 0.8138,
       "microsoft": 0.8781
     },
     "iwslt17": {
       "nllb": 0.7893,
-      "bergamot": 0.8091,
+      "bergamot": 0.8086,
       "google": 0.8458,
       "opusmt": 0.7965,
       "argos": 0.7948,
@@ -665,12 +665,12 @@
       "argos": 0.8235,
       "nllb": 0.8123,
       "microsoft": 0.8807,
-      "bergamot": 0.8508,
+      "bergamot": 0.8503,
       "opusmt": 0.8144
     },
     "wmt19": {
       "microsoft": 0.8501,
-      "bergamot": 0.8136,
+      "bergamot": 0.8132,
       "google": 0.8671,
       "nllb": 0.775,
       "argos": 0.7704,
@@ -680,7 +680,7 @@
       "argos": 0.784,
       "nllb": 0.8006,
       "google": 0.8814,
-      "bergamot": 0.8336,
+      "bergamot": 0.8324,
       "microsoft": 0.8692,
       "opusmt": 0.7834
     },
@@ -690,10 +690,10 @@
       "opusmt": 0.783,
       "nllb": 0.8008,
       "microsoft": 0.867,
-      "bergamot": 0.8372
+      "bergamot": 0.8366
     },
     "flores-test": {
-      "bergamot": 0.8559,
+      "bergamot": 0.8556,
       "microsoft": 0.8844,
       "argos": 0.8334,
       "opusmt": 0.8244,
@@ -701,7 +701,7 @@
       "nllb": 0.8175
     },
     "wmt17": {
-      "bergamot": 0.8314,
+      "bergamot": 0.8308,
       "opusmt": 0.7929,
       "argos": 0.8084,
       "nllb": 0.7958,

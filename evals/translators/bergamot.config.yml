@@ -10,10 +10,9 @@ models:
 vocabs:
   - SRCVOCAB
   - TRGVOCAB
-# TODO: enable back when the issues with Chinese shortlist and document level shortlisting on inference are fixed
-#shortlist:
-#    - SHORTLIST
-#    - false
+shortlist:
+    - SHORTLIST
+    - false
 beam-size: 1
 normalize: 1.0
 word-penalty: 0
