@@ -1,4 +1,27 @@
 {
+  "aren": {
+    "model": {
+      "name": "model.aren.intgemm.alphas.bin",
+      "size": 42992955,
+      "estimatedCompressedSize": 30454343,
+      "expectedSha256Hash": "f3888b9db780da4d681aaf987adfcd6ea54f82dd14ed2594b2b7ac7d253b6290",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.aren.s2t.bin",
+      "size": 4624316,
+      "estimatedCompressedSize": 2260042,
+      "expectedSha256Hash": "8aef44303621870863d20a27f3606470dc4677214374ad6ba56c2abe07b4f428",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.aren.spm",
+      "size": 860035,
+      "estimatedCompressedSize": 416700,
+      "expectedSha256Hash": "51b4ee3f828d10015464523d0b4f5a6c086b0b2a9bde716a581001cf6c260366",
+      "modelType": "prod"
+    }
+  },
   "bgen": {
     "model": {
       "name": "model.bgen.intgemm.alphas.bin",
@@ -1240,13 +1263,6 @@
     }
   },
   "uken": {
-    "model": {
-      "name": "model.uken.intgemm.alphas.bin",
-      "size": 17141051,
-      "estimatedCompressedSize": 12677432,
-      "expectedSha256Hash": "2e7b8bc9d2569d8b4ae244e964cdc343a0aa3735cc83ecb664be84a37cb45f48",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.uken.s2t.bin",
       "size": 3914120,
@@ -1260,21 +1276,28 @@
       "estimatedCompressedSize": 415266,
       "expectedSha256Hash": "8b51480dfc4ca2d7a08d2bfdaa9e57353ca97e6cf3d5f9aba4c0179d3665bfc0",
       "modelType": "prod"
+    },
+    "model": {
+      "name": "model.uken.intgemm.alphas.bin",
+      "size": 17141051,
+      "estimatedCompressedSize": 12677432,
+      "expectedSha256Hash": "2e7b8bc9d2569d8b4ae244e964cdc343a0aa3735cc83ecb664be84a37cb45f48",
+      "modelType": "prod"
     }
   },
   "vien": {
-    "lex": {
-      "name": "lex.50.50.vien.s2t.bin",
-      "size": 3910184,
-      "estimatedCompressedSize": 1887658,
-      "expectedSha256Hash": "3a071ed3d982f6eb6ee116b84067bf70041e4229e43ea65ecb6d7c2796e8851b",
-      "modelType": "prod"
-    },
     "vocab": {
       "name": "vocab.vien.spm",
       "size": 757250,
       "estimatedCompressedSize": 375643,
       "expectedSha256Hash": "cb152765d1e71ea3cf96fdb339c764b7201be7b9ab32e20cfebcf16a20fc0939",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.vien.s2t.bin",
+      "size": 3910184,
+      "estimatedCompressedSize": 1887658,
+      "expectedSha256Hash": "3a071ed3d982f6eb6ee116b84067bf70041e4229e43ea65ecb6d7c2796e8851b",
       "modelType": "prod"
     },
     "model": {
