@@ -88,7 +88,7 @@ Prod models are available in all Firefox channels including Release.
 Dev models are available in Nightly only.
 
 ## Prod
-- Arabic <- English
+- Arabic <-> English
 - Bulgarian <-> English
 - Catalan <-> English
 - Chinese (Simplified) <-> English
