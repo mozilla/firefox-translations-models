@@ -135,12 +135,8 @@ class RemoteSettingsClient:
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
 
         # Determine the MIME type based on the file type
-        # For model, lex, and qualityModel files, use application/octet-stream
-        # For vocab files, use null
-        if file_type in ["model", "lex", "qualityModel"]:
-            mimetype = "application/octet-stream"
-        else:  # vocab, srcvocab, trgvocab
-            mimetype = None
+        # All files use application/zstd since they are Zstandard compressed
+        mimetype = "application/zstd"
 
         return {
             "id": str(uuid.uuid4()),
