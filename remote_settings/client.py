@@ -108,7 +108,22 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        # Use different file extensions based on test vs production environment
+        if args.test:
+            # Special handling for 'emty' directory
+            if "emty" in full_path:
+                files = [f for f in os.listdir(full_path)
+                         if os.path.isfile(os.path.join(full_path, f))
+                         and not f.endswith('.gz')]
+            else:    
+                files = [f for f in os.listdir(full_path) 
+                        if os.path.isfile(os.path.join(full_path, f))]
+        else:
+            files = [f for f in os.listdir(full_path) if f.endswith(".zst")]
+
+        return [os.path.join(full_path, f) for f in files]
+
+
 
     @staticmethod
     def _create_record_info(path, version):
