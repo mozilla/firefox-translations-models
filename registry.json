@@ -499,23 +499,30 @@
   "enja": {
     "model": {
       "name": "model.enja.intgemm.alphas.bin",
-      "size": 59504955,
-      "estimatedCompressedSize": 42929158,
-      "expectedSha256Hash": "24c4008fb593333578c9c7d8fcb4573d13ac8b659620f174359c92a323584f9b",
+      "size": 59376955,
+      "estimatedCompressedSize": 44089580,
+      "expectedSha256Hash": "ab8ab5b81f3796fa13b536de4a30a936a6e66ff731d70059cef74cac622539de",
       "modelType": "prod"
     },
     "lex": {
       "name": "lex.50.50.enja.s2t.bin",
-      "size": 6135344,
-      "estimatedCompressedSize": 3403493,
-      "expectedSha256Hash": "cdeec1f9e70085d2071ce19e0ff294f8b9220ffed359d76ce1a5458177f4ee37",
+      "size": 6513960,
+      "estimatedCompressedSize": 3504993,
+      "expectedSha256Hash": "bb7983e62705813d26a081e7a6c13abd280b51ec75966b4587b434b0dac02938",
       "modelType": "prod"
     },
-    "vocab": {
-      "name": "vocab.enja.spm",
-      "size": 1436145,
-      "estimatedCompressedSize": 746697,
-      "expectedSha256Hash": "a7bbb10948d20abe5d130f9effaea406b67869c061cdf86d0537895e1cd422a2",
+    "trgvocab": {
+      "name": "trgvocab.enja.spm",
+      "size": 827144,
+      "estimatedCompressedSize": 431278,
+      "expectedSha256Hash": "3b3d9f8f3a034d98d0a476f1794fa79c01e4e98a967ceb6777a66ba2d03ec1e1",
+      "modelType": "prod"
+    },
+    "srcvocab": {
+      "name": "srcvocab.enja.spm",
+      "size": 796275,
+      "estimatedCompressedSize": 404352,
+      "expectedSha256Hash": "970c98d174fc01e0339fbabbf45af36a4be3f26f819ec1a5ea1189f71e091889",
       "modelType": "prod"
     }
   },
@@ -1286,18 +1293,18 @@
     }
   },
   "vien": {
-    "vocab": {
-      "name": "vocab.vien.spm",
-      "size": 757250,
-      "estimatedCompressedSize": 375643,
-      "expectedSha256Hash": "cb152765d1e71ea3cf96fdb339c764b7201be7b9ab32e20cfebcf16a20fc0939",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.vien.s2t.bin",
       "size": 3910184,
       "estimatedCompressedSize": 1887658,
       "expectedSha256Hash": "3a071ed3d982f6eb6ee116b84067bf70041e4229e43ea65ecb6d7c2796e8851b",
+      "modelType": "prod"
+    },
+    "vocab": {
+      "name": "vocab.vien.spm",
+      "size": 757250,
+      "estimatedCompressedSize": 375643,
+      "expectedSha256Hash": "cb152765d1e71ea3cf96fdb339c764b7201be7b9ab32e20cfebcf16a20fc0939",
       "modelType": "prod"
     },
     "model": {
