@@ -86,24 +86,28 @@ jobs:
               exit $BLACK_RESULT
             fi
   test-code:
-    docker:
-      - image: cimg/python:3.10.2
+    machine:
+      image: ubuntu-2204:current
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - checkout
       - run:
-          name: Run tests
+          name: Install Python and Poetry
           command: |
-            pip install poetry
+            sudo apt-get update
+            sudo apt-get install -y python3-pip
+            pip3 install poetry
+      - run:
+          name: Install Python Dependencies
+          command: |
             poetry install --no-root
-            poetry run python -m pytest tests -vv
-            TEST_RESULT=$?
-            if [ $TEST_RESULT -eq 0 ]; then
-              echo "All tests passed... CI passed."
-            else
-              echo "Some tests failed... Failing CI."
-              exit $TEST_RESULT
-            fi
+      - run:
+          name: Pull RemoteSettings Docker Image
+          command: docker pull mozilla/remote-settings:latest
+      - run:
+          name: Run Python Tests
+          command: |
+            poetry run python -m pytest tests -vv -s
   generate-registry:
     docker:
       - image: cimg/python:3.10.2

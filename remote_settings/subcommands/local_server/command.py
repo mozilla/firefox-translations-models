@@ -9,6 +9,7 @@ Usage:
   task local-remote-settings -- --fetch-wasm
 """
 
+import os
 import re
 import gzip
 import sys
@@ -190,7 +191,10 @@ class DockerContainerManager:
         self.process = None
 
     def _build_docker_command(self):
-        cmd = ["docker", "run", "--rm", "--user", self.container_name]
+        uid = os.getuid()
+        gid = os.getgid()
+
+        cmd = ["docker", "run", "--rm", "--user", f"{uid}:{gid}", "--name", self.container_name]
 
         for host_path, container_path in self.volumes.items():
             cmd += ["--volume", f"{host_path}:{container_path}"]
