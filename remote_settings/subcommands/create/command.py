@@ -40,7 +40,7 @@ def attach_create_subcommand(subparsers):
     create_parser.add_argument(
         "--server",
         type=str,
-        choices=["dev", "stage", "prod"],
+        choices=["dev", "stage", "prod", "local"],
         help="the server where records will be created",
         required=True,
     )
@@ -96,7 +96,7 @@ def validate_version(value):
     return value
 
 
-def do_create(args):
+def command_create(args):
     """Creates a new record based on args, and uploads it to Remote Settings.
 
     Args:
