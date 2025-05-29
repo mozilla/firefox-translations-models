@@ -544,6 +544,8 @@ def copy_flores_lang(dataset_name, lang, eval_prefix):
         lang_code = "zho_trad"
     elif lang == "nb":
         lang_code = "nob"
+    elif lang == "az":
+        lang_code = "azj"
     else:
         lang_code = iso.iso3_code(lang)
 
