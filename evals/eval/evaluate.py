@@ -46,6 +46,7 @@ EVALUATION_LANGUAGES = [
     "ko",
     "lt",
     "lv",
+    "mr",
     "mt",
     "my",
     "nb",
