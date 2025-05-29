@@ -170,8 +170,63 @@ def create_record_with_attachment(
 def create_remote_settings_environment(remote_settings: Client):
     logger.info("Ensuring the buckets and collections are created")
     remote_settings.create_bucket(id=bucket, if_not_exists=True)
-    remote_settings.create_collection(id=wasm_collection, bucket=bucket, if_not_exists=True)
-    remote_settings.create_collection(id=models_collection, bucket=bucket, if_not_exists=True)
+
+    # Load and apply schema + displayFields for the WASM collection
+    wasm_schema_path = Path(__file__).parent / "schema" / "wasm_schema.json"
+    try:
+        with wasm_schema_path.open("r") as f:
+            wasm_schema = json.load(f)
+        logger.info(f"Loaded WASM schema from {wasm_schema_path}")
+    except Exception as e:
+        logger.error(f"Failed to load WASM schema from {wasm_schema_path}: {e}")
+        raise
+
+    wasm_display_fields = [
+        "name",
+        "release",
+        "revision",
+        "license",
+        "filter_expression",
+    ]
+
+    remote_settings.create_collection(
+        id=wasm_collection,
+        bucket=bucket,
+        if_not_exists=True,
+        data={
+            "schema": wasm_schema,
+            "displayFields": wasm_display_fields,
+        },
+    )
+
+    # Load and apply schema + displayFields for the models collection
+    models_schema_path = Path(__file__).parent / "schema" / "models_schema.json"
+    try:
+        with models_schema_path.open("r") as f:
+            models_schema = json.load(f)
+        logger.info(f"Loaded models schema from {models_schema_path}")
+    except Exception as e:
+        logger.error(f"Failed to load models schema from {models_schema_path}: {e}")
+        raise
+
+    models_display_fields = [
+        "name",
+        "fromLang",
+        "toLang",
+        "fileType",
+        "version",
+        "filter_expression",
+    ]
+
+    remote_settings.create_collection(
+        id=models_collection,
+        bucket=bucket,
+        if_not_exists=True,
+        data={
+            "schema": models_schema,
+            "displayFields": models_display_fields,
+        },
+    )
 
 
 class DockerContainerManager:
