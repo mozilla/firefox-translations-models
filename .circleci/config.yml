@@ -26,6 +26,14 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
+      - checkout
+      - run:
+          name: Skip if models directory is not modified
+          command: |
+            if ! git diff --name-only main...HEAD | grep -q '^models/'; then
+              echo "No changes in models directory: Skipping evaluate step."
+              circleci step halt
+            fi
       - run:
           name: Installing git lfs and nvidia-container-toolkit
           command: |
@@ -37,7 +45,6 @@ jobs:
           command: | 
             sudo nvidia-ctk runtime configure --runtime=docker
             sudo systemctl restart docker
-      - checkout
       - run:
           name: Running evaluation
           command: |
@@ -116,13 +123,20 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
+      - checkout
+      - run:
+          name: Skip if models directory is not modified
+          command: |
+            if ! git diff --name-only main...HEAD | grep -q '^models/'; then
+              echo "No changes in models directory: Skipping evaluate step."
+              circleci step halt
+            fi
       - run:
           name: Installing git lfs
           command: |
             sudo apt-get update
             sudo apt-get install -y git-lfs
             sudo git lfs install
-      - checkout
       - run:
           name: Updating model registry
           command: |
