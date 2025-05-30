@@ -17,6 +17,7 @@ LANG_CODE_MAP = {
     "az": "azj_Latn",
     "fa": "pes_Arab",
     "lv": "lvs_Latn",
+    "ms": "zsm_Latn",
     "zh": "zho_Hans",
 }
 
