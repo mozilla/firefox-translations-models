@@ -557,6 +557,24 @@
       "opusmt": 0
     }
   },
+  "en-he": {
+    "flores-dev": {
+      "nllb": 20.4,
+      "microsoft": 37.8,
+      "opusmt": 27.0,
+      "argos": 24.2,
+      "google": 36.2,
+      "bergamot": 0
+    },
+    "flores-test": {
+      "microsoft": 39.2,
+      "argos": 24.4,
+      "nllb": 21.6,
+      "opusmt": 27.7,
+      "google": 38.2,
+      "bergamot": 0
+    }
+  },
   "ro-en": {
     "flores-dev": {
       "microsoft": 45.8,
