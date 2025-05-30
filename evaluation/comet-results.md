@@ -2605,6 +2605,20 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ---
 
+## ta-en
+
+| Translator/Dataset | flores-test | wmt20 | flores-dev |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 0.88 | 0.87 | 0.88 |
+| microsoft | 0.87 | 0.85 | 0.87 |
+| argos | N/A | N/A | N/A |
+| nllb | 0.85 | 0.83 | 0.85 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/ta-en-comet.png)
+---
+
 ## hr-en
 
 | Translator/Dataset | flores-test | flores-dev |
@@ -2799,6 +2813,20 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 #### [flores-dev.af-en](af-en/flores-dev.af-en.cometcompare)
 
+---
+
+## en-ta
+
+| Translator/Dataset | wmt20 | flores-test | flores-dev |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 0.90 | 0.91 | 0.91 |
+| microsoft | 0.89 | 0.90 | 0.90 |
+| argos | N/A | N/A | N/A |
+| nllb | 0.86 | 0.87 | 0.87 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/en-ta-comet.png)
 ---
 
 ## en-is
