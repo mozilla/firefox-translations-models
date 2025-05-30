@@ -32,6 +32,9 @@ def local_remote_settings():
     threading.Thread(target=_forward, daemon=True).start()
     atexit.register(proc.terminate)
 
+    # This server takes an indeterminate amount of time to start up, so ping the heartbeat
+    # until we receive a 200 response that the server is ready. If it is not ready within
+    # 60 seconds, we will fail the test cases.
     heartbeat = "http://localhost:8888/__heartbeat__"
     for i in range(60):
         try:
