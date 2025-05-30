@@ -1,5 +1,8 @@
 """
 Type definitions for the translations data that is stored Remote Settings.
+
+This file was copied from the following file:
+https://github.com/mozilla/translations/blob/main/utils/common/remote_settings.py
 """
 
 from pydantic import BaseModel, Field

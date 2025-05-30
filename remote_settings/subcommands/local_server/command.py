@@ -3,6 +3,10 @@ Runs a local copy of RemoteSettings within a docker container.
 
 The RemoteSettings instance is served on http://localhost:8888/v1
 
+
+This file was copied from the following file:
+https://github.com/mozilla/translations/blob/main/utils/local_remote_settings/__main__.py
+
 Usage:
 
 - Fetch the production WASM into the local mirror
