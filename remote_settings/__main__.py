@@ -1,6 +1,10 @@
 import argparse
 
-from remote_settings.subcommands.create import attach_create_subcommand, do_create
+from remote_settings.subcommands.create.command import attach_create_subcommand, command_create
+from remote_settings.subcommands.local_server.command import (
+    attach_local_server_subcommand,
+    command_local_server,
+)
 
 DESCRIPTION = """\
 A script to help with the management of language models in Remote Settings.
@@ -20,11 +24,14 @@ def main():
     )
 
     attach_create_subcommand(subparsers)
+    attach_local_server_subcommand(subparsers)
 
     args = parser.parse_args()
 
     if args.subcommand == "create":
-        do_create(args)
+        command_create(args)
+    elif args.subcommand == "local-server":
+        command_local_server(args)
     else:
         parser.print_help()
 

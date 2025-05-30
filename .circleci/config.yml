@@ -26,6 +26,14 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
+      - checkout
+      - run:
+          name: Skip if models directory is not modified
+          command: |
+            if ! git diff --name-only main...HEAD | grep -q '^models/'; then
+              echo "No changes in models directory: Skipping evaluate step."
+              circleci step halt
+            fi
       - run:
           name: Installing git lfs and nvidia-container-toolkit
           command: |
@@ -37,7 +45,6 @@ jobs:
           command: | 
             sudo nvidia-ctk runtime configure --runtime=docker
             sudo systemctl restart docker
-      - checkout
       - run:
           name: Running evaluation
           command: |
@@ -86,24 +93,28 @@ jobs:
               exit $BLACK_RESULT
             fi
   test-code:
-    docker:
-      - image: cimg/python:3.10.2
+    machine:
+      image: ubuntu-2204:current
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - checkout
       - run:
-          name: Run tests
+          name: Install Python and Poetry
           command: |
-            pip install poetry
+            sudo apt-get update
+            sudo apt-get install -y python3-pip
+            pip3 install poetry
+      - run:
+          name: Install Python Dependencies
+          command: |
             poetry install --no-root
-            poetry run python -m pytest tests -vv
-            TEST_RESULT=$?
-            if [ $TEST_RESULT -eq 0 ]; then
-              echo "All tests passed... CI passed."
-            else
-              echo "Some tests failed... Failing CI."
-              exit $TEST_RESULT
-            fi
+      - run:
+          name: Pull RemoteSettings Docker Image
+          command: docker pull mozilla/remote-settings:latest
+      - run:
+          name: Run Python Tests
+          command: |
+            poetry run python -m pytest tests -vv -s
   generate-registry:
     docker:
       - image: cimg/python:3.10.2
@@ -112,13 +123,20 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
+      - checkout
+      - run:
+          name: Skip if models directory is not modified
+          command: |
+            if ! git diff --name-only main...HEAD | grep -q '^models/'; then
+              echo "No changes in models directory: Skipping evaluate step."
+              circleci step halt
+            fi
       - run:
           name: Installing git lfs
           command: |
             sudo apt-get update
             sudo apt-get install -y git-lfs
             sudo git lfs install
-      - checkout
       - run:
           name: Updating model registry
           command: |

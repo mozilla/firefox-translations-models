@@ -14,15 +14,16 @@ You can retrieve a bearer token from the Remote Settings admin dashboards.
   Dev: https://settings.dev.mozaws.net/v1/admin
 Stage: https://remote-settings.allizom.org/v1/admin
  Prod: https://remote-settings.mozilla.org/v1/admin
+Local: http://localhost:8888/v1/admin
 
 On the top right corner, use the 📋 icon to copy the authentication string
 """
-BUCKET = "main-workspace"
 COLLECTION = "translations-models"
 SERVER_URLS = {
     "dev": "https://remote-settings-dev.allizom.org/v1",
     "stage": "https://remote-settings.allizom.org/v1",
     "prod": "https://remote-settings.mozilla.org/v1",
+    "local": "http://localhost:8888/v1",
 }
 
 
@@ -48,14 +49,26 @@ class RemoteSettingsClient:
         Args:
             args (argparse.Namespace): The arguments passed through the CLI
         """
+        self._server = args.server
+
+        if args.server == "local":
+            # We work with the "main" bucket on the local instance.
+            self._bucket = "main"
+        else:
+            # We work with the "main-workspace" bucket on production instances.
+            self._bucket = "main-workspace"
+
         if args.mock_connection:
             self._client = MockedClient(args)
             return
 
-        self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token()
+        self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token(
+            self._server
+        )
+
         self._client = Client(
             server_url=SERVER_URLS.get(args.server),
-            bucket=BUCKET,
+            bucket=self._bucket,
             collection=COLLECTION,
             auth=BearerTokenAuth(self._auth_token),
         )
@@ -142,17 +155,23 @@ class RemoteSettingsClient:
             },
         }
 
-    @staticmethod
-    def _retrieve_remote_settings_bearer_token():
+    def _retrieve_remote_settings_bearer_token(server):
         """
         Attempts to retrieve a Remote Settings bearer token exported to an environment
         variable called REMOTE_SETTINGS_BEARER_TOKEN.
 
         Exits with failure if the token cannot be retrieved.
 
+
+        Args:
+            server (str): The name of the server
+
         Returns:
             String: The bearer token.
         """
+
+        if server == "local":
+            return "local_token"
 
         token = os.environ.get(REMOTE_SETTINGS_BEARER_TOKEN)
         if token is None:
@@ -267,7 +286,10 @@ class RemoteSettingsClient:
         Returns:
             str: The authenticated user
         """
-        return self._client.server_info()["user"]["id"]
+        if self._server == "local":
+            return "local_user"
+        else:
+            return self._client.server_info()["user"]["id"]
 
     def attachment_path(self, index):
         """Retrieves the path of the attachment that will be attached to a newly created record.
@@ -353,7 +375,7 @@ class RemoteSettingsClient:
         headers = {"Authorization": f"Bearer {self._auth_token}"}
 
         attachment_endpoint = "buckets/{}/collections/{}/records/{}/attachment".format(
-            BUCKET, COLLECTION, self._new_records[index]["id"]
+            self._bucket, COLLECTION, self._new_records[index]["id"]
         )
 
         response = requests.post(

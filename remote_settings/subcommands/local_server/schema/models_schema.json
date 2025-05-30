@@ -1,0 +1,102 @@
+{
+  "type": "object",
+  "required": [
+    "name",
+    "version",
+    "fromLang",
+    "toLang",
+    "fileType"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "title": "Name",
+      "description": "The name of the language model"
+    },
+    "toLang": {
+      "type": "string",
+      "title": "To Language",
+      "description": "The BCP 47 language tag that will be translated to"
+    },
+    "version": {
+      "type": "string",
+      "title": "Version",
+      "description": "The version of the model"
+    },
+    "fileType": {
+      "enum": [
+        "model",
+        "lex",
+        "vocab",
+        "qualityModel",
+        "srcvocab",
+        "trgvocab"
+      ]
+    },
+    "fromLang": {
+      "type": "string",
+      "title": "From Language",
+      "description": "The BCP 47 language tag that will be translated from"
+    },
+    "attachment": {
+      "type": "object",
+      "title": "The attachment itself",
+      "properties": {
+        "hash": {
+          "type": "string",
+          "title": "Hash"
+        },
+        "size": {
+          "type": "number",
+          "title": "Size (bytes)"
+        },
+        "filename": {
+          "type": "string",
+          "title": "Filename"
+        },
+        "location": {
+          "type": "string",
+          "title": "URL"
+        },
+        "mimetype": {
+          "type": "string",
+          "title": "MIME type"
+        },
+        "original": {
+          "type": "object",
+          "title": "Pre-gzipped file",
+          "properties": {
+            "hash": {
+              "type": "string",
+              "title": "Hash"
+            },
+            "size": {
+              "type": "number",
+              "title": "Size (bytes)"
+            },
+            "filename": {
+              "type": "string",
+              "title": "Filename"
+            },
+            "mimetype": {
+              "type": "string",
+              "title": "MIME type"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "description": "Information about the attached file.",
+      "additionalProperties": false
+    },
+    "filter_expression": {
+      "type": "string",
+      "title": "Filter Expression",
+      "pattern": "^[a-zA-Z0-9-_=!\"'{} .<>|&()+*/[\\]:,\\\\^%]*$",
+      "description": "A JEXL to filter records. See https://remote-settings.readthedocs.io/en/latest/target-filters.html#how"
+    }
+  }
+}
