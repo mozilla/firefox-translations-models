@@ -18,7 +18,6 @@ ruff = "^0.0.287"
 [tool.poetry.group.scripts.dependencies]
 argparse = "^1.4.0"
 kinto-http = "^11.0.1"
-logging = "^0.4.9.6"
 packaging = "^23.2"
 pydantic = "^2.11.5"
 pytest = "^7.4.3"

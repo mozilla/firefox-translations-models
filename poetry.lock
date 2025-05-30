@@ -301,17 +301,6 @@ requests = "*"
 unidecode = "*"
 
 [[package]]
-name = "logging"
-version = "0.4.9.6"
-description = "A logging module for Python"
-optional = false
-python-versions = "*"
-groups = ["scripts"]
-files = [
-    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
-]
-
-[[package]]
 name = "markdown-it-py"
 version = "3.0.0"
 description = "Python port of markdown-it. Markdown parsing, done right!"
@@ -919,4 +908,4 @@ test = ["pytest (>=6.0.0)", "setuptools (>=65)"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "f5dc0989b036965119290e7db517b7d72ff4b03ff9b3c7c62e9732c5bda5281a"
+content-hash = "cb22c3d3c7b4cfcfbe8ea5f0080dbbf85948213de22d2e1b4d90b1615006d24a"
