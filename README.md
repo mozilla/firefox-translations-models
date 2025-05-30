@@ -5,7 +5,7 @@ The model files are hosted using [Git LFS](https://docs.github.com/en/github/man
 
 [prod](models/prod) - higher quality models 
 
-[dev](models/dev) - test models under development (can be of low quality or speed). 
+[dev](models/dev) - test models under development (can be of low quality or speed).
 
 When a dev model has satisfactory quality, it is moved to prod.
 
@@ -21,7 +21,7 @@ It is performed using the [evals](/evals) tool.
 
 # Model training
 
-Use [Firefox Translations training pipeline](https://github.com/mozilla/firefox-translations-training) or [browsermt/students](https://github.com/browsermt/students/tree/master/train-student) recipe to train CPU-optimized models. They should have similar size and inference speed to already submitted models.
+Use [Firefox Translations training pipeline](https://github.com/mozilla/translations) or [browsermt/students](https://github.com/browsermt/students/tree/master/train-student) recipe to train CPU-optimized models. They should have similar size and inference speed to already submitted models.
 
 ## Training data
 
@@ -64,14 +64,13 @@ Suffix of the model file in the registry:
 - `intgemm8.bin`  - supports `gemm-precision: int8shiftAll` inference setting
 - `intgemm.alphas.bin` - supports `gemm-precision: int8shiftAlphaAll` inference setting
 
-# Downloading a model from Taskcluster
+# Add a model from Taskcluster
 
-Example:
-```
-cd scripts
-SRC=lt TRG=en TASK_ID=SjPZGW9CRYeb9PQr68jCUw bash pull_models.sh
-```
-Where `TASK_ID` is a Taskcluster ID of the `export` task.
+1. Run `python scripts/pull_models.py [TASK_ID]` where `[TASK_ID] is a Taskcluster ID of the `export` task such as `SjPZGW9CRYeb9PQr68jCUw`.
+2. Commit the changes, which adds the files and removes any previous evaluations.
+3. Push the changes to `origin` and open a PR.
+4. Wait for the CI to run the evaluations and add the commits.
+5. Merge the PR.
 
 # Model deployment
 
