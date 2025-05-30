@@ -11,7 +11,7 @@ Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN
 
 You can retrieve a bearer token from the Remote Settings admin dashboards.
 
-  Dev: https://settings.dev.mozaws.net/v1/admin
+  Dev: https://remote-settings-dev.allizom.org/v1/admin
 Stage: https://remote-settings.allizom.org/v1/admin
  Prod: https://remote-settings.mozilla.org/v1/admin
 Local: http://localhost:8888/v1/admin
@@ -121,7 +121,11 @@ class RemoteSettingsClient:
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [
+            os.path.join(full_path, f)
+            for f in os.listdir(full_path)
+            if not f.endswith(".gz") and not f.endswith(".json")
+        ]
 
     @staticmethod
     def _create_record_info(path, version):
