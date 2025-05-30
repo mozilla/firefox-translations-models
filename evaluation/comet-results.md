@@ -657,6 +657,20 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 ---
 
+## en-he
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.90 | 0.90 |
+| microsoft | 0.90 | 0.90 |
+| argos | 0.82 | 0.81 |
+| nllb | 0.81 | 0.81 |
+| opusmt | 0.85 | 0.85 |
+
+![Results](img/en-he-comet.png)
+---
+
 ## ro-en
 
 | Translator/Dataset | flores-test | wmt16 | flores-dev |
@@ -3088,6 +3102,20 @@ We also compare the systems using the `comet-compare` tool that calculates the s
 
 #### [flores-dev.am-en](am-en/flores-dev.am-en.cometcompare)
 
+---
+
+## he-en
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 0.88 | 0.88 |
+| microsoft | 0.89 | 0.89 |
+| argos | 0.82 | 0.81 |
+| nllb | 0.85 | 0.85 |
+| opusmt | N/A | N/A |
+
+![Results](img/he-en-comet.png)
 ---
 
 ## gu-en

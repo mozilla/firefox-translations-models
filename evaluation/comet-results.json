@@ -557,6 +557,24 @@
       "opusmt": 0
     }
   },
+  "en-he": {
+    "flores-dev": {
+      "google": 0.8965,
+      "microsoft": 0.895,
+      "argos": 0.8173,
+      "opusmt": 0.8472,
+      "nllb": 0.8114,
+      "bergamot": 0
+    },
+    "flores-test": {
+      "argos": 0.8132,
+      "google": 0.9005,
+      "microsoft": 0.8986,
+      "opusmt": 0.8492,
+      "nllb": 0.8114,
+      "bergamot": 0
+    }
+  },
   "ro-en": {
     "flores-test": {
       "nllb": 0.8134,
@@ -942,25 +960,25 @@
       "nllb": 0.8697,
       "google": 0.895,
       "microsoft": 0.8891,
-      "opusmt": 0,
       "argos": 0,
-      "bergamot": 0
+      "bergamot": 0,
+      "opusmt": 0
     },
     "flores-test": {
       "nllb": 0.8686,
       "google": 0.8949,
       "microsoft": 0.8885,
-      "opusmt": 0,
       "argos": 0,
-      "bergamot": 0
+      "bergamot": 0,
+      "opusmt": 0
     },
     "wmt19": {
       "microsoft": 0.8828,
       "google": 0.8749,
       "nllb": 0.8596,
-      "opusmt": 0,
       "argos": 0,
-      "bergamot": 0
+      "bergamot": 0,
+      "opusmt": 0
     }
   },
   "en-hu": {
@@ -2681,30 +2699,48 @@
       "opusmt": 0
     }
   },
+  "he-en": {
+    "flores-test": {
+      "nllb": 0.8525,
+      "microsoft": 0.8888,
+      "google": 0.883,
+      "argos": 0.8169,
+      "bergamot": 0,
+      "opusmt": 0
+    },
+    "flores-dev": {
+      "nllb": 0.8533,
+      "google": 0.8816,
+      "microsoft": 0.889,
+      "argos": 0.8147,
+      "bergamot": 0,
+      "opusmt": 0
+    }
+  },
   "gu-en": {
     "flores-test": {
       "nllb": 0.887,
       "microsoft": 0.8933,
       "google": 0.9029,
-      "opusmt": 0,
       "argos": 0,
-      "bergamot": 0
+      "bergamot": 0,
+      "opusmt": 0
     },
     "wmt19": {
       "microsoft": 0.8862,
       "google": 0.8971,
       "nllb": 0.8653,
-      "opusmt": 0,
       "argos": 0,
-      "bergamot": 0
+      "bergamot": 0,
+      "opusmt": 0
     },
     "flores-dev": {
       "nllb": 0.8888,
       "google": 0.9018,
       "microsoft": 0.8926,
-      "opusmt": 0,
       "argos": 0,
-      "bergamot": 0
+      "bergamot": 0,
+      "opusmt": 0
     }
   },
   "sl-en": {
