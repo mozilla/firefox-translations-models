@@ -1316,13 +1316,6 @@
     }
   },
   "vien": {
-    "vocab": {
-      "name": "vocab.vien.spm",
-      "size": 757250,
-      "estimatedCompressedSize": 375643,
-      "expectedSha256Hash": "cb152765d1e71ea3cf96fdb339c764b7201be7b9ab32e20cfebcf16a20fc0939",
-      "modelType": "prod"
-    },
     "lex": {
       "name": "lex.50.50.vien.s2t.bin",
       "size": 3910184,
