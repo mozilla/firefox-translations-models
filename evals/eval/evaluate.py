@@ -19,6 +19,7 @@ EVALUATION_LANGUAGES = [
     "am",
     "ar",
     "az",
+    "be",
     "bg",
     "bn",
     "bs",
