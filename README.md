@@ -126,6 +126,7 @@ Dev models are available in Nightly only.
 - Croatian <- English
 - Icelandic -> English
 - Latvian (Lettish) <- English
+- Lithuanian <- English
 - Maltese -> English
 - Norwegian Bokmål -> English
 - Norwegian Nynorsk -> English
