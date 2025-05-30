@@ -49,6 +49,7 @@ EVALUATION_LANGUAGES = [
     "lt",
     "lv",
     "mr",
+    "ms",
     "mt",
     "my",
     "nb",
