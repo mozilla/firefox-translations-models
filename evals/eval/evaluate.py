@@ -76,6 +76,8 @@ EVALUATION_LANGUAGES = [
     "zh",
 ]
 
+NO_FLORES_LANGUAGES = ["sq"]
+
 SUPPORTED_LANGUAGES = {
     "argos": {
         "ar": {"en"},
@@ -585,7 +587,11 @@ def copy_custom_data(dataset_name, pair, results_dir):
 def find_datasets(pair):
     formatted_pair = f"{pair[0]}-{pair[1]}"
     datasets = []
-    datasets += CUSTOM_DATASETS
+    if not any(
+        no_flores_lang == pair[0] or no_flores_lang == pair[1]
+        for no_flores_lang in NO_FLORES_LANGUAGES
+    ):
+        datasets += CUSTOM_DATASETS
 
     for dataset_name, descr in dataset.DATASETS.items():
         is_wmt_official = dataset_name.startswith("wmt") and len(dataset_name) == 5
