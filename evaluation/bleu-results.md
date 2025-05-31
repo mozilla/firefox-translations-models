@@ -281,6 +281,20 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 ![Results](img/en-pt-bleu.png)
 ---
 
+## en-he
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 36.20 | 38.20 |
+| microsoft | 37.80 | 39.20 |
+| argos | 24.20 | 24.40 |
+| nllb | 20.40 | 21.60 |
+| opusmt | 27.00 | 27.70 |
+
+![Results](img/en-he-bleu.png)
+---
+
 ## ro-en
 
 | Translator/Dataset | flores-dev | flores-test | wmt16 |
@@ -419,6 +433,20 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 | opusmt | N/A | N/A |
 
 ![Results](img/en-nb-bleu.png)
+---
+
+## en-gu
+
+| Translator/Dataset | wmt19 | flores-test | flores-dev |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 23.00 | 26.50 | 25.80 |
+| microsoft | 33.50 | 26.60 | 26.20 |
+| argos | N/A | N/A | N/A |
+| nllb | 21.80 | 20.50 | 20.40 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/en-gu-bleu.png)
 ---
 
 ## en-hu
@@ -869,6 +897,20 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 ![Results](img/en-uk-bleu.png)
 ---
 
+## en-ms
+
+| Translator/Dataset | flores-test | flores-dev |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 43.70 | 44.10 |
+| microsoft | 44.40 | 44.90 |
+| argos | N/A | N/A |
+| nllb | 36.30 | 36.80 |
+| opusmt | N/A | N/A |
+
+![Results](img/en-ms-bleu.png)
+---
+
 ## en-vi
 
 | Translator/Dataset | flores-test | flores-dev |
@@ -1023,6 +1065,20 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 ![Results](img/en-cs-bleu.png)
 ---
 
+## ta-en
+
+| Translator/Dataset | flores-dev | flores-test | wmt20 |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 39.90 | 38.40 | 24.50 |
+| microsoft | 36.00 | 33.90 | 23.00 |
+| argos | N/A | N/A | N/A |
+| nllb | 31.20 | 29.20 | 18.00 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/ta-en-bleu.png)
+---
+
 ## hr-en
 
 | Translator/Dataset | flores-dev | flores-test |
@@ -1135,6 +1191,20 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 ![Results](img/af-en-bleu.png)
 ---
 
+## en-ta
+
+| Translator/Dataset | flores-test | wmt20 | flores-dev |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 21.10 | 11.80 | 23.00 |
+| microsoft | 22.10 | 11.30 | 23.30 |
+| argos | N/A | N/A | N/A |
+| nllb | 14.80 | 8.30 | 15.60 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/en-ta-bleu.png)
+---
+
 ## en-is
 
 | Translator/Dataset | flores-dev | flores-test | wmt21 |
@@ -1245,6 +1315,34 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 | opusmt | N/A | N/A |
 
 ![Results](img/am-en-bleu.png)
+---
+
+## he-en
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 48.40 | 48.10 |
+| microsoft | 46.60 | 46.30 |
+| argos | 34.00 | 33.40 |
+| nllb | 38.90 | 38.00 |
+| opusmt | N/A | N/A |
+
+![Results](img/he-en-bleu.png)
+---
+
+## gu-en
+
+| Translator/Dataset | wmt19 | flores-dev | flores-test |
+| --- | --- | --- | --- |
+| bergamot | N/A | N/A | N/A |
+| google | 33.50 | 44.50 | 46.10 |
+| microsoft | 33.20 | 37.50 | 38.60 |
+| argos | N/A | N/A | N/A |
+| nllb | 27.90 | 37.20 | 37.10 |
+| opusmt | N/A | N/A | N/A |
+
+![Results](img/gu-en-bleu.png)
 ---
 
 ## sl-en
@@ -1371,6 +1469,20 @@ Both absolute and relative differences in BLEU scores between Bergamot and other
 | opusmt | 8.30 | 8.70 |
 
 ![Results](img/ig-en-bleu.png)
+---
+
+## ms-en
+
+| Translator/Dataset | flores-dev | flores-test |
+| --- | --- | --- |
+| bergamot | N/A | N/A |
+| google | 50.80 | 49.80 |
+| microsoft | 48.10 | 46.50 |
+| argos | N/A | N/A |
+| nllb | 38.40 | 36.90 |
+| opusmt | N/A | N/A |
+
+![Results](img/ms-en-bleu.png)
 ---
 
 ## es-en
