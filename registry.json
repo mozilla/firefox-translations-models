@@ -1293,18 +1293,18 @@
     }
   },
   "uken": {
-    "lex": {
-      "name": "lex.50.50.uken.s2t.bin",
-      "size": 3914120,
-      "estimatedCompressedSize": 1790588,
-      "expectedSha256Hash": "32b5e0df493671a223cb5cb32430181cbb7fe6b5562c91dbc3d35410d37e5ff6",
-      "modelType": "prod"
-    },
     "vocab": {
       "name": "vocab.uken.spm",
       "size": 886410,
       "estimatedCompressedSize": 415266,
       "expectedSha256Hash": "8b51480dfc4ca2d7a08d2bfdaa9e57353ca97e6cf3d5f9aba4c0179d3665bfc0",
+      "modelType": "prod"
+    },
+    "lex": {
+      "name": "lex.50.50.uken.s2t.bin",
+      "size": 3914120,
+      "estimatedCompressedSize": 1790588,
+      "expectedSha256Hash": "32b5e0df493671a223cb5cb32430181cbb7fe6b5562c91dbc3d35410d37e5ff6",
       "modelType": "prod"
     },
     "model": {
