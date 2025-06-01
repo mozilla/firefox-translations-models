@@ -23,6 +23,11 @@ def translate(texts):
     source = os.environ["SRC"]
     target = os.environ["TRG"]
 
+    if source == "tl":
+        source = "fil"
+    elif target == "tl":
+        target = "fil"
+
     params = {"api-version": "3.0", "from": source, "to": [target]}
 
     results = []
