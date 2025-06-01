@@ -70,6 +70,7 @@ EVALUATION_LANGUAGES = [
     "ta",
     "te",
     "th",
+    "tl",
     "tr",
     "uk",
     "vi",
