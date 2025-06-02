@@ -834,7 +834,7 @@ def build_report(res_dir, evaluation_engines):
 
         results_json_path = os.path.join(res_dir, evaluation_engine + "-results.json")
         with open(results_json_path, "w") as file:
-            json.dump(results, file, indent=2)
+            json.dump(results, file, sort_keys=True, indent=2)
             print(f"Results are written to {results_json_path}")
 
         for lang_pair, datasets in results.items():

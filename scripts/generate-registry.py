@@ -33,4 +33,4 @@ for model_type in ["prod", "dev"]:
         registry[pair] = meta
 
 with open(f"registry.json", "w") as f:
-    json.dump(registry, f, indent=2)
+    json.dump(registry, f, sort_keys=True, indent=2)
