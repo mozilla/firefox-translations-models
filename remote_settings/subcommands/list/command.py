@@ -46,7 +46,7 @@ def command_list(args):
         print_help("You may need to create a record first.")
         exit(1)
 
-    all_records = client._fetched_records
+    all_records = []
 
     for i in range(client.get_record_count()):
         record_json = client.record_info_json(i)
