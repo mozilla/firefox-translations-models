@@ -73,6 +73,7 @@ class RemoteSettingsClient:
             auth=BearerTokenAuth(self._auth_token),
         )
         self._new_records = None
+        self._fetched_records = []
 
     @classmethod
     def init_for_create(cls, args):
@@ -96,6 +97,20 @@ class RemoteSettingsClient:
                 RemoteSettingsClient._create_record_info(path, args.version) for path in paths
             ]
 
+        return this
+
+    @classmethod
+    def init_for_list(cls, args):
+        """Initializes the RemoteSettingsClient for the list subcommand.
+
+        Args:
+            args (argparse.Namespace): The CLI arguments containing the server info
+
+        Returns:
+            RemoteSettingsClient: A client ready to list records
+        """
+        this = cls(args)
+        this.get_records()
         return this
 
     @staticmethod
@@ -354,6 +369,7 @@ class RemoteSettingsClient:
         Returns:
             str: The JSON-formatted string containing the record info
         """
+
         return json.dumps(self._new_records[index], indent=2)
 
     def create_new_record(self, index):
@@ -402,3 +418,22 @@ class RemoteSettingsClient:
                 f"Couldn't attach file at endpoint {self.sever_url()}{attachment_endpoint}: "
                 + f"{response.content.decode('utf-8')}"
             )
+
+    def get_records(self):
+        """Fetch records from the specified Remote Settings collection and store them in _fetched_records."""
+        headers = {"Authorization": f"Bearer {self._auth_token}"}
+
+        endpoint = f"buckets/{self._bucket}/collections/{COLLECTION}/records"
+
+        response = requests.get(
+            f"{self.server_url()}{endpoint}",
+            headers=headers,
+        )
+
+        if response.status_code != 200:
+            raise KintoException(f"Failed to fetch records: {response.content.decode('utf-8')}")
+
+        self._fetched_records = response.json()["data"]
+
+    def get_record_count(self):
+        return len(self._fetched_records)

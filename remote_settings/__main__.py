@@ -32,10 +32,10 @@ def main():
 
     if args.subcommand == "create":
         command_create(args)
-    elif args.subcommand == "local-server":
-        command_local_server(args)
     elif args.subcommand == "list":
         command_list(args)
+    elif args.subcommand == "local-server":
+        command_local_server(args)
     else:
         parser.print_help()
 
