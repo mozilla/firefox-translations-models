@@ -49,7 +49,7 @@ def command_list(args):
     all_records = []
 
     for i in range(client.get_record_count()):
-        record_json = client.record_info_json(i)
+        record_json = client.get_record_info_json(i)
         print_info(args, f"Record {i + 1}: {record_json}")
         all_records.append(record_json)
 

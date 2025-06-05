@@ -369,12 +369,8 @@ class RemoteSettingsClient:
         Returns:
             str: The JSON-formatted string containing the record info
         """
-        if self._fetched_records is not None:
-            return json.dumps(self._fetched_records[index], indent=2)
-        elif self._new_records is not None:
-            return json.dumps(self._new_records[index], indent=2)
-        else:
-            raise ValueError("No records available for display.")
+
+        return json.dumps(self._new_records[index], indent=2)
 
     def create_new_record(self, index):
         """Creates a new record in the Remote Settings server along with its file attachment.
@@ -423,9 +419,6 @@ class RemoteSettingsClient:
                 + f"{response.content.decode('utf-8')}"
             )
 
-    def get_record_count(self):
-        return len(self._fetched_records)
-
     def get_records(self):
         """Fetch records from the specified Remote Settings collection and store them in _fetched_records."""
         headers = {"Authorization": f"Bearer {self._auth_token}"}
@@ -441,3 +434,18 @@ class RemoteSettingsClient:
             raise KintoException(f"Failed to fetch records: {response.content.decode('utf-8')}")
 
         self._fetched_records = response.json()["data"]
+
+    def get_record_count(self):
+        return len(self._fetched_records)
+
+    def get_record_info_json(self, index):
+        """Returns the information of the record to be created as JSON data.
+
+        Args:
+            index (int): The index of the record.
+
+        Returns:
+            str: The JSON-formatted string containing the record info
+        """
+
+        return json.dumps(self._fetched_records[index], indent=2)
