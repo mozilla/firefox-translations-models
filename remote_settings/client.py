@@ -439,7 +439,7 @@ class RemoteSettingsClient:
         return len(self._fetched_records)
 
     def get_record_info_json(self, index):
-        """Returns the information of the record to be created as JSON data.
+        """Returns the information of the record to be listed as JSON data.
 
         Args:
             index (int): The index of the record.
