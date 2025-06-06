@@ -37,14 +37,12 @@ def command_list(args):
 
     client = RemoteSettingsClient.init_for_list(args)
 
-    print()
-    print_info(args, f"User: {client.authenticated_user()}")
-    print_info(args, f"Server: {client.server_url()}")
-    print()
-
     if client.get_record_count() == 0:
-        print_error("No records found.")
-        print_help("You may need to create a record first.")
+        error_output = {
+            "error": "No records found.",
+            "help": "You may need to create a record first.",
+        }
+        print(json.dumps(error_output))
         exit(1)
 
     all_records = []
@@ -53,6 +51,13 @@ def command_list(args):
         record = client._fetched_records[i]
         all_records.append(record)
 
-    print(json.dumps(all_records, indent=2))
-    print()
-    print_info(args, f"Total records: {len(all_records)}")
+    print(
+        json.dumps(
+            {
+                "user": client.authenticated_user(),
+                "server": client.server_url(),
+                "records": all_records,
+                "total": len(all_records),
+            }
+        )
+    )
