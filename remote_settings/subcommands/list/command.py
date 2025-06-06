@@ -1,4 +1,5 @@
 import argparse
+import json
 
 from remote_settings.client import RemoteSettingsClient
 from remote_settings.format import print_info, print_error, print_help
@@ -49,9 +50,9 @@ def command_list(args):
     all_records = []
 
     for i in range(client.get_record_count()):
-        record_json = client.get_record_info_json(i)
-        print_info(args, f"Record {i + 1}: {record_json}")
-        all_records.append(record_json)
+        record = client._fetched_records[i]
+        all_records.append(record)
 
+    print(json.dumps(all_records, indent=2))
     print()
     print_info(args, f"Total records: {len(all_records)}")
