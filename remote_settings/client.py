@@ -1,6 +1,6 @@
 import os, sys, mimetypes, requests, uuid, json
 
-from kinto_http import Client, BearerTokenAuth
+from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
 from remote_settings.format import print_error, print_help
@@ -31,6 +31,9 @@ class MockedClient:
     def __init__(self, args):
         self._server = args.server
 
+    def get_records(self):
+        return []
+
     def server_info(self):
         return {
             "url": SERVER_URLS.get(self._server),
@@ -60,6 +63,8 @@ class RemoteSettingsClient:
 
         if args.mock_connection:
             self._client = MockedClient(args)
+            self._auth_token = "mocked_token"
+
             return
 
         self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token(
@@ -110,7 +115,6 @@ class RemoteSettingsClient:
             RemoteSettingsClient: A client ready to list records
         """
         this = cls(args)
-        this.get_records()
         return this
 
     @staticmethod
@@ -420,20 +424,5 @@ class RemoteSettingsClient:
             )
 
     def get_records(self):
-        """Fetch records from the specified Remote Settings collection and store them in _fetched_records."""
-        headers = {"Authorization": f"Bearer {self._auth_token}"}
-
-        endpoint = f"buckets/{self._bucket}/collections/{COLLECTION}/records"
-
-        response = requests.get(
-            f"{self.server_url()}{endpoint}",
-            headers=headers,
-        )
-
-        if response.status_code != 200:
-            raise KintoException(f"Failed to fetch records: {response.content.decode('utf-8')}")
-
-        self._fetched_records = response.json()["data"]
-
-    def get_record_count(self):
-        return len(self._fetched_records)
+        """Fetch records from the Remote Settings collection."""
+        return self._client.get_records()

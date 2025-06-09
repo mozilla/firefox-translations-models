@@ -2,8 +2,6 @@ import argparse
 import json
 
 from remote_settings.client import RemoteSettingsClient
-from remote_settings.format import print_info, print_error, print_help
-
 
 def attach_list_subcommand(subparsers):
     list_parser = subparsers.add_parser(
@@ -18,17 +16,16 @@ def attach_list_subcommand(subparsers):
         help="mock the connection to the server for testing",
     )
     list_parser.add_argument(
-        "-q",
-        "--quiet",
-        action="store_true",
-        help="do not print informational non-error output to the terminal",
-    )
-    list_parser.add_argument(
         "--server",
         type=str,
         choices=["dev", "stage", "prod", "local"],
         help="Specify which Remote Settings server to fetch records from.",
         required=True,
+    )
+    list_parser.add_argument(
+        "--test",
+        action="store_true",
+        help=argparse.SUPPRESS,
     )
 
 
@@ -37,19 +34,7 @@ def command_list(args):
 
     client = RemoteSettingsClient.init_for_list(args)
 
-    if client.get_record_count() == 0:
-        error_output = {
-            "error": "No records found.",
-            "help": "You may need to create a record first.",
-        }
-        print(json.dumps(error_output))
-        exit(1)
-
-    all_records = []
-
-    for i in range(client.get_record_count()):
-        record = client._fetched_records[i]
-        all_records.append(record)
+    all_records = client.get_records()
 
     print(
         json.dumps(
@@ -61,3 +46,4 @@ def command_list(args):
             }
         )
     )
+    exit(0)
