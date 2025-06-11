@@ -1,4 +1,8 @@
 import argparse
+import json
+
+from remote_settings.client import RemoteSettingsClient
+from remote_settings.format import print_info, print_error, print_help
 
 
 
@@ -7,6 +11,18 @@ def attach_list_subcommand(subparsers):
         "list",
         help="list records from Remote Settings",
         formatter_class=argparse.MetavarTypeHelpFormatter,
+    )
+    list_parser.add_argument(
+        "-m",
+        "--mock-connection",
+        action="store_true",
+        help="mock the connection to the server for testing",
+    )
+    list_parser.add_argument(
+        "-q",
+        "--quiet",
+        action="store_true",
+        help="do not print informational non-error output to the terminal",
     )
     list_parser.add_argument(
         "--server",

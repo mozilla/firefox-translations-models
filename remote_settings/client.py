@@ -1,6 +1,6 @@
 import os, sys, mimetypes, requests, uuid, json
 
-from kinto_http import Client, BearerTokenAuth
+from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
 from remote_settings.format import print_error, print_help
@@ -31,6 +31,9 @@ class MockedClient:
     def __init__(self, args):
         self._server = args.server
 
+    def get_records(self):
+        return []
+
     def server_info(self):
         return {
             "url": SERVER_URLS.get(self._server),
@@ -60,6 +63,8 @@ class RemoteSettingsClient:
 
         if args.mock_connection:
             self._client = MockedClient(args)
+            self._auth_token = "mocked_token"
+
             return
 
         self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token(
@@ -73,6 +78,7 @@ class RemoteSettingsClient:
             auth=BearerTokenAuth(self._auth_token),
         )
         self._new_records = None
+        self._fetched_records = []
 
     @classmethod
     def init_for_create(cls, args):
@@ -96,6 +102,19 @@ class RemoteSettingsClient:
                 RemoteSettingsClient._create_record_info(path, args.version) for path in paths
             ]
 
+        return this
+
+    @classmethod
+    def init_for_list(cls, args):
+        """Initializes the RemoteSettingsClient for the list subcommand.
+
+        Args:
+            args (argparse.Namespace): The CLI arguments containing the server info
+
+        Returns:
+            RemoteSettingsClient: A client ready to list records
+        """
+        this = cls(args)
         return this
 
     @staticmethod
@@ -354,6 +373,7 @@ class RemoteSettingsClient:
         Returns:
             str: The JSON-formatted string containing the record info
         """
+
         return json.dumps(self._new_records[index], indent=2)
 
     def create_new_record(self, index):
@@ -402,3 +422,7 @@ class RemoteSettingsClient:
                 f"Couldn't attach file at endpoint {self.sever_url()}{attachment_endpoint}: "
                 + f"{response.content.decode('utf-8')}"
             )
+
+    def get_records(self):
+        """Fetch records from the Remote Settings collection."""
+        return self._client.get_records()
