@@ -1,6 +1,7 @@
 import argparse
 
 from remote_settings.subcommands.create.command import attach_create_subcommand, command_create
+from remote_settings.subcommands.list.command import attach_list_subcommand, command_list
 from remote_settings.subcommands.local_server.command import (
     attach_local_server_subcommand,
     command_local_server,
@@ -24,6 +25,7 @@ def main():
     )
 
     attach_create_subcommand(subparsers)
+    attach_list_subcommand(subparsers)
     attach_local_server_subcommand(subparsers)
 
     args = parser.parse_args()
@@ -32,6 +34,8 @@ def main():
         command_create(args)
     elif args.subcommand == "local-server":
         command_local_server(args)
+    elif args.subcommand == "list":
+        command_list(args)
     else:
         parser.print_help()
 
