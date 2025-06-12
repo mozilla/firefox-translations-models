@@ -14,16 +14,13 @@ def create_record(path):
 class ListCommand:
     def __init__(self):
         self._server = None
-        self._version = None
-        self._lang_pair = None
-        self._quiet = None
 
     def with_server(self, server):
         self._server = server
         return self
 
     def run(self):
-        cmd = ["poetry", "run", "python", "-m", "remote_settings", "list", "--test"]
+        cmd = ["poetry", "run", "python", "-m", "remote_settings", "list"]
         cmd.extend(["--server", self._server] if self._server else [])
 
         return subprocess.run(cmd, text=True, capture_output=True)
