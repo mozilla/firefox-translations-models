@@ -105,30 +105,42 @@ Dev models are available in Nightly only.
 - Italian <-> English
 - Japanese <-> English
 - Korean <-> English
-- Latvian (Lettish) -> English
-- Lithuanian -> English
+- Latvian (Lettish) <-> English
+- Lithuanian <-> English
 - Polish <-> English
 - Portuguese <-> English
 - Romanian <-> English
 - Russian <-> English
 - Serbian -> English
-- Slovak -> English
+- Slovak <-> English
 - Slovenian <-> English
 - Spanish <-> English
 - Swedish <-> English
 - Turkish <-> English
-- Ukrainian -> English
+- Ukrainian <-> English
 - Vietnamese -> English
 
 ## Dev
+- Albanian -> English
+- Azerbaijani -> English
+- Belarusian -> English
+- Bengali -> English
 - Bosnian -> English
 - Croatian <- English
+- Gujarati -> English
+- Hebrew -> English
+- Hindi -> English
+- Hungarian <- English
 - Icelandic -> English
+- Kannada -> English
 - Latvian (Lettish) <- English
 - Lithuanian <- English
+- Malay -> English
+- Malayalam -> English
 - Maltese -> English
 - Norwegian Bokmål -> English
 - Norwegian Nynorsk -> English
 - Persian (Farsi) <-> English
 - Slovak <- English
-- Ukrainian <- English
+- Tamil -> English
+- Telugu -> English
