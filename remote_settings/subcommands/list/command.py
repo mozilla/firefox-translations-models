@@ -23,11 +23,6 @@ def attach_list_subcommand(subparsers):
         help="Specify which Remote Settings server to fetch records from.",
         required=True,
     )
-    list_parser.add_argument(
-        "--test",
-        action="store_true",
-        help=argparse.SUPPRESS,
-    )
 
 
 def command_list(args):

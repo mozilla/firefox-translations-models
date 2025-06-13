@@ -209,6 +209,53 @@ but it will _not_ upload the record and attachment.
 
 Using these flags is recommended to ensure that your setup is correct before you upload attachments to Remote Settings.
 
+## Listing model records
+
+The `list` subcommand is used to list existing model records from Remote Settings.
+
+## Examples
+
+List all records from the Remote Settings dev server.
+
+```
+poetry run python -m remote_settings list \
+  --server dev
+```
+
+List records from the stage server
+
+```
+poetry run python -m remote_settings list \
+  --server stage
+```
+
+List records from the prod server.
+
+```
+poetry run python -m remote_settings list \
+  --server prod
+```
+
+Mock the server connection to inspect the list request configuration without making a real network request.
+
+```
+poetry run python -m remote_settings list \
+  --server dev \
+  --mock-connection
+```
+
+## Required arguments
+
+These are the required arguments for the script to run:
+
+* `--server` - The server to which the records will be listed.
+
+### Arg: --mock-connection
+
+Before listing existing models, it can be useful to test your configuration before committing.
+
+The `--mock-connection` flag mocks the user authentication and connection to the server, and returns an empty array.
+
 
 ### Testing
 

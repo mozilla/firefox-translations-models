@@ -7,9 +7,6 @@ from ..test_constants import *
 class ListCommand:
     def __init__(self):
         self._server = None
-        self._version = None
-        self._lang_pair = None
-        self._quiet = None
 
     def with_server(self, server):
         self._server = server
@@ -23,7 +20,6 @@ class ListCommand:
             "-m",
             "remote_settings",
             "list",
-            "--test",
             "--mock-connection",
         ]
         command.extend(["--server", self._server] if self._server else [])
