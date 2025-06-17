@@ -55,11 +55,13 @@ def main() -> None:
         description="Download exported models from Taskcluster artifacts"
     )
     parser.add_argument("task_id", help="The Taskcluster export-{src}-{trg} task id")
+    parser.add_argument("arch", help="Model architecture ('tiny', 'base' or 'base-memory')")
 
     args = parser.parse_args()
     task_id: str = args.task_id
+    arch: str = args.arch
     src, trg = get_src_trg_from_task(task_id)
-    models_dir = Path(f"models/dev/{src}{trg}")
+    models_dir = Path(f"models/{arch}/{src}{trg}")
     artifacts = Artifacts(models_dir, task_id)
 
     # Work from the root directory
@@ -69,7 +71,7 @@ def main() -> None:
         print(f"[pull_models] Removing the old model: {models_dir}")
         run(["git", "rm", "-r", str(models_dir)])
 
-    eval_files = list(Path(f"evaluation/{src}-{trg}").glob("*.bergamot*"))
+    eval_files = list(Path(f"evaluation/{src}-{trg}").glob(f"*.bergamot-{arch}*"))
     if eval_files:
         print(f"[pull_models] Removing the old evaluations")
         for file in eval_files:

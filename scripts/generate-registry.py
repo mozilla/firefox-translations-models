@@ -26,7 +26,7 @@ def get_meta(model_path, model_type):
 
 
 registry = {}
-for model_type in ["prod", "dev"]:
+for model_type in ["tiny", "base", "base-memory"]:
     for model_path in glob.glob(f"models/{model_type}/*"):
         if model_path.endswith(".json"):
             continue
