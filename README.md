@@ -3,18 +3,16 @@ CPU-optimized NMT models for Firefox Translations.
 
 The model files are hosted using [Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/about-git-large-file-storage).
 
-[prod](models/prod) - higher quality models 
-
-[dev](models/dev) - test models under development (can be of low quality or speed).
-
-When a dev model has satisfactory quality, it is moved to prod.
+The models are located in the [/models](/models) directory and grouped by available configuration:
+- [tiny](https://github.com/mozilla/translations/blob/main/pipeline/train/configs/model/student.tiny.yml) - the fastest and the smallest models but with lower translation quality
+- [base](https://github.com/mozilla/translations/blob/main/pipeline/train/configs/model/student.base.yml) - best quality but slower and larger
+- [base-memory](https://github.com/mozilla/translations/blob/main/pipeline/train/configs/model/student.base-memory.yml) - slightly lower quality than `base` but also lower memory footprint
 
 # Automatic quality evaluation
 
 [BLEU scores](evaluation/bleu-results.md), [COMET scores](evaluation/comet-results.md)
 
 The evaluation is run as part of a pull request in CI.
-The PR should include the models in the `models/dev` or `models/prod` category.
 The evaluation will automatically run, and then commits will be added to the pull request.
 The evaluation uses Microsoft and Google translation APIs, Argos Translate, NLLB and Opus-MT models and pushes results back to the branch (not available for forks).
 It is performed using the [evals](/evals) tool.
@@ -28,10 +26,6 @@ Use [Firefox Translations training pipeline](https://github.com/mozilla/translat
 Do not use [SacreBLEU](https://github.com/mjpost/sacrebleu) or [Flores](https://github.com/facebookresearch/flores) datasets as a part of training data, otherwise evaluation will not be correct.
 
 To see SacreBLEU datasets run `sacrebleu --list`.
-
-# Model contribution
-
-All models should be contributed to `dev` folder first.
 
 ## Maintainers adding models
 
@@ -83,10 +77,7 @@ View the `remote_settings` [README](https://github.com/mozilla/firefox-translati
 
 # Currently supported Languages
 
-Prod models are available in all Firefox channels including Release. 
-Dev models are available in Nightly only.
-
-## Prod
+## Firefox Release
 - Arabic <-> English
 - Bulgarian <-> English
 - Catalan <-> English
@@ -120,7 +111,7 @@ Dev models are available in Nightly only.
 - Ukrainian <-> English
 - Vietnamese -> English
 
-## Dev
+## Firefox Nightly
 - Albanian -> English
 - Azerbaijani -> English
 - Belarusian -> English

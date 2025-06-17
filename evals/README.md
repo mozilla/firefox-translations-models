@@ -43,8 +43,8 @@ python3 eval/evaluate.py \
     --skip-existing \
     --gpus=1 \
     --evaluation-engine=comet,bleu \
-    --models-dir=/models/models/prod \
-    --results-dir=/models/evaluation/prod
+    --models-dir=/models/models/tiny \
+    --results-dir=/models/evaluation
 ```
 
 If you don't have a GPU, use `0` in the `--gpus` argument.
