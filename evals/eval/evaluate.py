@@ -13,6 +13,7 @@ from glob import glob
 import pandas as pd
 from mtdata import iso
 from os.path import exists
+from pathlib import Path
 
 EVALUATION_LANGUAGES = [
     "af",
@@ -516,8 +517,17 @@ FLORES_PATH = os.path.join(CUSTOM_DATA_DIR, "flores.sh")
 BERGAMOT_APP_PATH = os.path.join(HOME_DIR, "bergamot-translator", "build", "app", "bergamot")
 BERGAMOT_EVAL_PATH = os.path.join(HOME_DIR, "translators", "bergamot.sh")
 
-
-TRANS_ORDER = {"bergamot": 0, "google": 1, "microsoft": 2, "argos": 3, "nllb": 4, "opusmt": 5}
+# Prioritize base-memory and base archs to display first and compare against as those models are likely in production
+# Add a fake "bergamot" translator for ordering
+TRANS_ORDER = {"bergamot": -1,
+               "bergamot-base-memory": 0,
+               "bergamot-base": 1,
+               "bergamot-tiny": 2,
+               "google": 3,
+               "microsoft": 4,
+               "argos": 5,
+               "nllb": 6,
+               "opusmt": 7}
 
 
 def fill_bergamot_supported_languages(models_dir):
@@ -534,9 +544,16 @@ def get_dataset_prefix(dataset_name, pair, results_dir):
     return os.path.join(results_dir, f"{pair[0]}-{pair[1]}", f"{dataset_name}")
 
 
-def get_bleu_path(dataset_name, pair, results_dir, translator, evaluation_engine):
+def get_translator_name(models_dir, translator):
+    arch = Path(models_dir).name  # student model architecture, e.g. tiny
+    name = f'{translator}-{arch}' if translator == "bergamot" else translator
+    return name
+
+
+def get_metric_path(dataset_name, pair, results_dir, translator, evaluation_engine, models_dir):
     prefix = get_dataset_prefix(dataset_name, pair, results_dir)
-    return f"{prefix}.{translator}.{pair[1]}.{evaluation_engine}"
+    translator_name = get_translator_name(models_dir, translator)
+    return f"{prefix}.{translator_name}.{pair[1]}.{evaluation_engine}"
 
 
 # Custom data
@@ -635,10 +652,11 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
 
     os.makedirs(os.path.dirname(eval_prefix), exist_ok=True)
 
+    translator_name = get_translator_name(models_dir, translator)
     source_file = f"{eval_prefix}.{source}"
     reference_file = f"{eval_prefix}.{target}"
-    translated_file = f"{eval_prefix}.{translator}.{target}"
-    result_file = f"{eval_prefix}.{translator}.{target}.{evaluation_engine}"
+    translated_file = f"{eval_prefix}.{translator_name}.{target}"
+    result_file = f"{eval_prefix}.{translator_name}.{target}.{evaluation_engine}"
 
     if set_name not in CUSTOM_DATASETS:
         if not os.path.exists(source_file):
@@ -740,8 +758,8 @@ def run_dir(
                         f"Evaluation for dataset: {dataset_name}, translator: {translator}, pair: {pair[0]}-{pair[1]}, evaluation engine: {evaluation_engine}"
                     )
 
-                    res_path = get_bleu_path(
-                        dataset_name, pair, results_dir, translator, evaluation_engine
+                    res_path = get_metric_path(
+                        dataset_name, pair, results_dir, translator, evaluation_engine, models_dir
                     )
                     print(f"Searching for {res_path}")
 
@@ -821,7 +839,7 @@ def run_comet_compare(lang_pairs, skip_existing, translators, gpus, models_dir, 
 # Report generation
 
 
-def build_report(res_dir, evaluation_engines):
+def build_report(res_dir, evaluation_engines, comet_compare):
     os.makedirs(os.path.join(res_dir, "img"), exist_ok=True)
 
     for evaluation_engine in evaluation_engines.split(","):
@@ -830,7 +848,7 @@ def build_report(res_dir, evaluation_engines):
             lines = [l.strip() for l in f.readlines()]
 
         avg_results = get_avg_scores(results)
-        build_section(avg_results, "avg", lines, res_dir, evaluation_engine)
+        build_section(avg_results, "avg", lines, res_dir, evaluation_engine, comet_compare)
 
         results_json_path = os.path.join(res_dir, evaluation_engine + "-results.json")
         with open(results_json_path, "w") as file:
@@ -838,7 +856,7 @@ def build_report(res_dir, evaluation_engines):
             print(f"Results are written to {results_json_path}")
 
         for lang_pair, datasets in results.items():
-            build_section(datasets, lang_pair, lines, res_dir, evaluation_engine)
+            build_section(datasets, lang_pair, lines, res_dir, evaluation_engine, comet_compare)
 
         results_path = os.path.join(res_dir, evaluation_engine + "-results.md")
         with open(results_path, "w+") as f:
@@ -846,7 +864,7 @@ def build_report(res_dir, evaluation_engines):
             print(f"Results are written to {results_path}")
 
 
-def build_section(datasets, key, lines, res_dir, evaluation_engine):
+def build_section(datasets, key, lines, res_dir, evaluation_engine, comet_compare):
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
@@ -855,15 +873,25 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine):
     inverted_scores = defaultdict(dict)
     comet_comparisons = defaultdict(dict)
     for dataset_name, translators in datasets.items():
-        bergamot_res = translators.get("bergamot")
+        # do not display empty translators in language pair sections
+        if key != 'avg':
+            translators = {k: v for k,v in translators.items() if v != 0}
+
+        main_translator = ""
+        for translator in TRANS_ORDER:
+            if translator.startswith("bergamot") and translator in translators and translators[translator] > 0:
+                main_translator = translator
+                break
+
+        main_res = translators.get(main_translator)
         reordered = sorted(translators.items(), key=lambda x: TRANS_ORDER[x[0]])
 
         for translator, score in reordered:
             if score == 0:
                 formatted_score = "N/A"
-            elif translator != "bergamot" and bergamot_res:
-                change_perc = (score - bergamot_res) / bergamot_res * 100
-                change = score - bergamot_res
+            elif translator != main_translator and main_res:
+                change_perc = (score - main_res) / main_res * 100
+                change = score - main_res
                 sign = "+" if change > 0 else ""
                 formatted_score = f"{score:.2f} ({sign}{change:.2f}, {sign}{change_perc:.2f}%)"
             else:
@@ -875,7 +903,8 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine):
         # if this is a non-avg comet report, and a cometcompare report exists, we print it
         cometcompare_path = "{}/{}/{}.{}.cometcompare".format(res_dir, key, dataset_name, key)
         if (
-            evaluation_engine == "comet"
+            comet_compare
+            and evaluation_engine == "comet"
             and key != "avg"
             and "{}.{}".format(dataset_name, key) not in comet_comparisons
             and exists(cometcompare_path)
@@ -891,11 +920,12 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine):
     for translator, scores in inverted_formatted.items():
         lines.append(f'| {translator} | {" | ".join(scores.values())} |')
 
-    img_path = os.path.join(res_dir, "img", f"{key}-{evaluation_engine}.png")
-    plot_lang_pair(datasets, inverted_scores, img_path, evaluation_engine)
-
-    img_relative_path = "/".join(img_path.split("/")[-2:])
-    lines.append(f"\n![Results]({img_relative_path})")
+    # Do not plot charts in the aggregated section
+    if key != 'avg':
+        img_path = os.path.join(res_dir, "img", f"{key}-{evaluation_engine}.png")
+        plot_lang_pair(datasets, inverted_scores, img_path, evaluation_engine)
+        img_relative_path = "/".join(img_path.split("/")[-2:])
+        lines.append(f"\n![Results]({img_relative_path})")
 
     printed_header = False
     for dataset in comet_comparisons:
@@ -1046,7 +1076,7 @@ def run(
             models_dir=models_dir,
             results_dir=results_dir,
         )
-    build_report(results_dir, evaluation_engine)
+    build_report(results_dir, evaluation_engine, comet_compare)
 
 
 if __name__ == "__main__":
