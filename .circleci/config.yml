@@ -1,22 +1,6 @@
 version: 2.1
 
 jobs:
-  deploy:
-    docker:
-      - image: gcr.io/google.com/cloudsdktool/cloud-sdk:348.0.0
-    working_directory: ~/mozilla/firefox-translations-models
-    steps:
-      - run:
-          name: Installing git lfs
-          command: |
-            curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
-            apt-get install git-lfs
-            git lfs install
-      - checkout
-      - run:
-          name: Uploading to GCS
-          command: |
-            bash scripts/upload.sh
   evaluate:
     machine:
       image: linux-cuda-11:default
@@ -187,11 +171,4 @@ workflows:
               ignore:
                 - /pull\/[0-9]+/
                 - main
-  publish:
-    jobs:
-      - deploy:
-          filters:
-            branches:
-              ignore: /.*/
-            tags:
-              only: /\d*\.\d*\.\d*/
+
