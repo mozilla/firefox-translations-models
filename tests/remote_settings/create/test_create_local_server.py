@@ -4,6 +4,8 @@ from ..common import *
 
 
 class CreateCommand:
+    # Store the next version which will be used for the next record by bumping it's minor version eg. 1.0 -> 1.1.
+    # It starts at "1.0" to match the initial versioning scheme.
     _next_version = "1.0"
 
     def __init__(self):
@@ -31,7 +33,6 @@ class CreateCommand:
             raise ValueError("Minor version is already set.")
         self._version = CreateCommand._next_version
         CreateCommand._next_version = next_minor_version(CreateCommand._next_version)
-
         return self
 
     def with_lang_pair(self, lang_pair):
@@ -467,3 +468,23 @@ def test_create_command_no_files_in_directory():
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
     assert "No records found" in result.stderr
     assert "You may need to unzip" in result.stdout
+
+
+def test_create_command_duplicate_record():
+    version_used = CreateCommand.next_available_version()
+
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(MODEL_PATH).run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    # Explicitly uses the stored version again
+    duplicate_result = (
+        CreateCommand().with_server("local").with_version(version_used).with_path(MODEL_PATH).run()
+    )
+    assert duplicate_result.returncode == ERROR
+    assert (
+        f"Record {MODEL_NAME} already exists with version {version_used}"
+        in duplicate_result.stderr
+    )
