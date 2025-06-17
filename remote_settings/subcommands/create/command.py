@@ -72,6 +72,20 @@ def attach_create_subcommand(subparsers):
     )
 
 
+def is_duplicate_record(record, existing_records):
+    """Check if a record with the same identifying fields already exists."""
+    for existing in existing_records:
+        if (
+            existing.get("name") == record.get("name")
+            and existing.get("version") == record.get("version")
+            and existing.get("fromLang") == record.get("fromLang")
+            and existing.get("toLang") == record.get("toLang")
+            and existing.get("fileType") == record.get("fileType")
+        ):
+            return True
+    return False
+
+
 def validate_path(value):
     if not os.path.exists(value):
         raise argparse.ArgumentTypeError(f"invalid value '{value}' (path does not exist)")
@@ -114,9 +128,25 @@ def command_create(args):
         print_help("You may need to unzip the archives in the desired directory.")
         exit(1)
 
+    existing_records = client.get_records()
+
     print_info(args)
 
     for i in range(client.record_count()):
+        record = client.get_record(i)
+
+        print_info(args, f"Validating record: {record['name']}")
+
+        if is_duplicate_record(record, existing_records):
+            print_error(
+                f"Record {record['name']} already exists with version {record['version']}."
+            )
+            print_help("Use a different name or version.")
+            exit(1)
+
+    for i in range(client.record_count()):
+        record = client.get_record(i)
+
         print_info(args, f"Record: {client.record_info_json(i)}")
 
         if not (args.dry_run or args.mock_connection):
