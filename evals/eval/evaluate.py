@@ -519,15 +519,17 @@ BERGAMOT_EVAL_PATH = os.path.join(HOME_DIR, "translators", "bergamot.sh")
 
 # Prioritize base-memory and base archs to display first and compare against as those models are likely in production
 # Add a fake "bergamot" translator for ordering
-TRANS_ORDER = {"bergamot": -1,
-               "bergamot-base-memory": 0,
-               "bergamot-base": 1,
-               "bergamot-tiny": 2,
-               "google": 3,
-               "microsoft": 4,
-               "argos": 5,
-               "nllb": 6,
-               "opusmt": 7}
+TRANS_ORDER = {
+    "bergamot": -1,
+    "bergamot-base-memory": 0,
+    "bergamot-base": 1,
+    "bergamot-tiny": 2,
+    "google": 3,
+    "microsoft": 4,
+    "argos": 5,
+    "nllb": 6,
+    "opusmt": 7,
+}
 
 
 def fill_bergamot_supported_languages(models_dir):
@@ -546,7 +548,7 @@ def get_dataset_prefix(dataset_name, pair, results_dir):
 
 def get_translator_name(models_dir, translator):
     arch = Path(models_dir).name  # student model architecture, e.g. tiny
-    name = f'{translator}-{arch}' if translator == "bergamot" else translator
+    name = f"{translator}-{arch}" if translator == "bergamot" else translator
     return name
 
 
@@ -874,12 +876,16 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine, comet_compar
     comet_comparisons = defaultdict(dict)
     for dataset_name, translators in datasets.items():
         # do not display empty translators in language pair sections
-        if key != 'avg':
-            translators = {k: v for k,v in translators.items() if v != 0}
+        if key != "avg":
+            translators = {k: v for k, v in translators.items() if v != 0}
 
         main_translator = ""
         for translator in TRANS_ORDER:
-            if translator.startswith("bergamot") and translator in translators and translators[translator] > 0:
+            if (
+                translator.startswith("bergamot")
+                and translator in translators
+                and translators[translator] > 0
+            ):
                 main_translator = translator
                 break
 
@@ -921,7 +927,7 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine, comet_compar
         lines.append(f'| {translator} | {" | ".join(scores.values())} |')
 
     # Do not plot charts in the aggregated section
-    if key != 'avg':
+    if key != "avg":
         img_path = os.path.join(res_dir, "img", f"{key}-{evaluation_engine}.png")
         plot_lang_pair(datasets, inverted_scores, img_path, evaluation_engine)
         img_relative_path = "/".join(img_path.split("/")[-2:])
