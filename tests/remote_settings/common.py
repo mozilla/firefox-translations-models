@@ -1,3 +1,6 @@
+from packaging import version
+
+
 SUCCESS = 0
 ERROR = 1
 INVALID_USE = 2
@@ -40,3 +43,15 @@ BETA_FILTER_EXPRESSION = "env.channel != 'release'"
 RELEASE_FILTER_EXPRESSION = ""
 
 OCTET_STREAM = "application/octet-stream"
+
+
+def next_minor_version(current):
+    parsed = version.parse(current)
+    return f"{parsed.major}.{parsed.minor + 1}"
+
+
+def previous_minor_version(current):
+    parsed = version.parse(current)
+    if parsed.minor <= 0:
+        raise ValueError("Minor version can not be less than 0")
+    return f"{parsed.major}.{parsed.minor - 1}"

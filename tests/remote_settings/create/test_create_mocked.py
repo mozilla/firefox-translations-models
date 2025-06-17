@@ -1,7 +1,6 @@
-import pytest
 import subprocess
 
-from ..test_constants import *
+from ..common import *
 
 
 class CreateCommand:
