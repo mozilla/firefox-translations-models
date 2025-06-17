@@ -99,52 +99,6 @@ jobs:
           name: Run Python Tests
           command: |
             poetry run python -m pytest tests -vv -s
-  generate-registry:
-    docker:
-      - image: cimg/python:3.10.2
-    working_directory: ~/mozilla/firefox-translations-models
-    steps:
-      - add_ssh_keys:
-          fingerprints:
-            - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
-      - checkout
-      - run:
-          name: Skip if models directory is not modified
-          command: |
-            if ! git diff --name-only main...HEAD | grep -q '^models/'; then
-              echo "No changes in models directory: Skipping evaluate step."
-              circleci step halt
-            fi
-      - run:
-          name: Installing git lfs
-          command: |
-            sudo apt-get update
-            sudo apt-get install -y git-lfs
-            sudo git lfs install
-      - run:
-          name: Updating model registry
-          command: |
-            python scripts/generate-registry.py
-      - run:
-          name: Showing results
-          command: |
-            git add registry.json
-            git --no-pager diff --staged registry.json
-      - run:
-          name: Pushing results
-          command: |
-            git config user.email "ci-models-evaluation@firefox-translations"
-            git config user.name "CircleCI evaluation job"
-            git pull origin "$CIRCLE_BRANCH"
-            git add registry.json
-
-            if [[ $(git status --porcelain) ]]; then
-              echo "### Commiting results"
-              git commit -m "Update model registry [skip ci]"
-              git push --set-upstream origin "$CIRCLE_BRANCH"
-            else
-              echo "### Nothing to commit"
-            fi
 workflows:
   version: 2
   ci:
@@ -156,15 +110,6 @@ workflows:
       - evaluate:
           requires:
             - test-python-formatting
-          filters:
-            branches:
-              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
-              ignore:
-                - /pull\/[0-9]+/
-                - main
-      - generate-registry:
-          requires:
-            - evaluate
           filters:
             branches:
               # Forked pull requests have CIRCLE_BRANCH set to pull/XXX

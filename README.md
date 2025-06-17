@@ -48,13 +48,13 @@ If you want to run it with `bergamot` only, remove mentions of those variables f
 
 ## Vocabulary
 
-Prefix of the vocabulary file in the model registry:
+Prefix of the vocabulary file:
 - `vocab.` - vocabulary is reused for the source and target languages
 - `srcvocab.` and `trgvocab.` - different vocabularies for the source and target languages
 
 ## GEMM precision
 
-Suffix of the model file in the registry:
+Suffix of the model file:
 - `intgemm8.bin`  - supports `gemm-precision: int8shiftAll` inference setting
 - `intgemm.alphas.bin` - supports `gemm-precision: int8shiftAlphaAll` inference setting
 
@@ -121,17 +121,13 @@ View the `remote_settings` [README](https://github.com/mozilla/firefox-translati
 - Gujarati -> English
 - Hebrew -> English
 - Hindi -> English
-- Hungarian <- English
 - Icelandic -> English
 - Kannada -> English
-- Latvian (Lettish) <- English
-- Lithuanian <- English
 - Malay -> English
 - Malayalam -> English
 - Maltese -> English
 - Norwegian Bokmål -> English
 - Norwegian Nynorsk -> English
 - Persian (Farsi) <-> English
-- Slovak <- English
 - Tamil -> English
 - Telugu -> English
