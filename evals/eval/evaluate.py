@@ -961,6 +961,8 @@ def read_results(res_dir, evaluation_engine):
         pair = bleu_file.split("/")[-2]
         with open(bleu_file) as f:
             score = float(f.read().strip())
+            if score < 1:
+                score = score * 100.0
 
         if dataset_name not in results[pair]:
             results[pair][dataset_name] = {}
