@@ -890,9 +890,13 @@ def build_section(datasets, key, lines, res_dir, evaluation_engine, comet_compar
                 break
 
         main_res = translators.get(main_translator)
+        if main_res is not None and main_res < 1:
+            main_res *= 100.0
         reordered = sorted(translators.items(), key=lambda x: TRANS_ORDER[x[0]])
 
         for translator, score in reordered:
+            if score < 1:
+                score *= 100.0
             if score == 0:
                 formatted_score = "N/A"
             elif translator != main_translator and main_res:
@@ -961,8 +965,6 @@ def read_results(res_dir, evaluation_engine):
         pair = bleu_file.split("/")[-2]
         with open(bleu_file) as f:
             score = float(f.read().strip())
-            if score < 1:
-                score = score * 100.0
 
         if dataset_name not in results[pair]:
             results[pair][dataset_name] = {}
