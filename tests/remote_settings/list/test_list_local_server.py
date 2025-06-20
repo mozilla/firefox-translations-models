@@ -2,7 +2,7 @@ from ..create.test_create_local_server import CreateCommand
 import json
 import subprocess
 
-from ..test_constants import *
+from ..common import *
 
 
 def create_record(path):

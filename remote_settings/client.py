@@ -426,3 +426,13 @@ class RemoteSettingsClient:
     def get_records(self):
         """Fetch records from the Remote Settings collection."""
         return self._client.get_records()
+
+    def get_record(self, index):
+        base = self._new_records[index]
+        data = base.get("data", {})
+        return {
+            **data,
+            "id": base.get("id"),
+            "attachment": base.get("attachment"),
+            "version": base.get("version", data.get("version")),
+        }

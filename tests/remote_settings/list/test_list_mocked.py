@@ -1,7 +1,7 @@
 import json
 import subprocess
 
-from ..test_constants import *
+from ..common import *
 
 
 class ListCommand:

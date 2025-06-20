@@ -1,9 +1,13 @@
 import subprocess
 
-from ..test_constants import *
+from ..common import *
 
 
 class CreateCommand:
+    # Store the next version which will be used for the next record by bumping it's minor version eg. 1.0 -> 1.1.
+    # It starts at "1.0" to match the initial versioning scheme.
+    _next_version = "1.0"
+
     def __init__(self):
         self._server = None
         self._version = None
@@ -11,12 +15,24 @@ class CreateCommand:
         self._path = None
         self._quiet = None
 
+    def next_available_version():
+        return CreateCommand._next_version
+
     def with_server(self, server):
         self._server = server
         return self
 
     def with_version(self, version):
+        if self._version is not None:
+            raise ValueError("Version is already set.")
         self._version = version
+        return self
+
+    def with_next_minor_version(self):
+        if self._version is not None:
+            raise ValueError("Minor version is already set.")
+        self._version = CreateCommand._next_version
+        CreateCommand._next_version = next_minor_version(CreateCommand._next_version)
         return self
 
     def with_lang_pair(self, lang_pair):
@@ -54,7 +70,7 @@ def test_create_command_quiet_flag():
     result = (
         CreateCommand()
         .with_server("local")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_path(MODEL_PATH)
         .quiet()
         .run()
@@ -65,7 +81,7 @@ def test_create_command_quiet_flag():
 
 
 def test_create_command_missing_server():
-    result = CreateCommand().with_version("1.0").with_path(MODEL_PATH).quiet().run()
+    result = CreateCommand().with_next_minor_version().with_path(MODEL_PATH).quiet().run()
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
     assert "" == result.stdout, "The standard output stream should be empty"
     assert "the following arguments are required: --server" in result.stderr
@@ -79,7 +95,7 @@ def test_create_command_missing_version():
 
 
 def test_create_command_missing_path_or_lang_pair():
-    result = CreateCommand().with_server("local").with_version("1.0").quiet().run()
+    result = CreateCommand().with_server("local").with_next_minor_version().quiet().run()
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
     assert "" == result.stdout, "The standard output stream should be empty"
     assert "one of the arguments --path --lang-pair is required" in result.stderr
@@ -91,7 +107,7 @@ def test_create_command_with_path_and_lang_pair():
         .with_server("local")
         .with_path(MODEL_PATH)
         .with_lang_pair(PROD_LANG_PAIR)
-        .with_version("1.0")
+        .with_next_minor_version()
         .quiet()
         .run()
     )
@@ -104,7 +120,7 @@ def test_create_command_invalid_server():
     result = (
         CreateCommand()
         .with_server("invalid_server")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_path(MODEL_PATH)
         .quiet()
         .run()
@@ -135,7 +151,7 @@ def test_create_command_invalid_path():
     result = (
         CreateCommand()
         .with_server("local")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_path("invalid_path")
         .quiet()
         .run()
@@ -149,7 +165,7 @@ def test_create_command_lang_pair_too_short():
     result = (
         CreateCommand()
         .with_server("local")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_lang_pair("ese")
         .quiet()
         .run()
@@ -163,7 +179,7 @@ def test_create_command_lang_pair_too_long():
     result = (
         CreateCommand()
         .with_server("local")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_lang_pair("esene")
         .quiet()
         .run()
@@ -191,7 +207,7 @@ def test_create_command_lang_pair_does_not_exist_in_prod():
     result = (
         CreateCommand()
         .with_server("local")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_lang_pair("enes")
         .quiet()
         .run()
@@ -202,14 +218,18 @@ def test_create_command_lang_pair_does_not_exist_in_prod():
 
 
 def test_create_command_display_authenticated_user():
-    result = CreateCommand().with_server("local").with_version("1.0").with_path(MODEL_PATH).run()
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(MODEL_PATH).run()
+    )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert "User: local_user" in result.stdout
 
 
 def test_create_command_local_server_url():
-    result = CreateCommand().with_server("local").with_version("1.0").with_path(MODEL_PATH).run()
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(MODEL_PATH).run()
+    )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f"Server: {LOCAL_SERVER_URL}" in result.stdout
@@ -230,22 +250,29 @@ def test_create_command_beta_filter_expression():
 
 
 def test_create_command_release_filter_expression():
-    result = CreateCommand().with_server("local").with_version("1.0").with_path(MODEL_PATH).run()
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(MODEL_PATH).run()
+    )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
 
 
 def test_create_command_lex_5050_esen():
+    expected_version = CreateCommand.next_available_version()
     result = (
-        CreateCommand().with_server("local").with_version("1.0").with_path(LEX_5050_PATH).run()
+        CreateCommand()
+        .with_server("local")
+        .with_next_minor_version()
+        .with_path(LEX_5050_PATH)
+        .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{LEX_5050_NAME}"' in result.stdout
     assert f'"fromLang": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}"' in result.stdout
@@ -253,13 +280,16 @@ def test_create_command_lex_5050_esen():
 
 
 def test_create_command_lex_esen():
-    result = CreateCommand().with_server("local").with_version("1.0").with_path(LEX_PATH).run()
+    expected_version = CreateCommand.next_available_version()
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(LEX_PATH).run()
+    )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{LEX_NAME}"' in result.stdout
     assert f'"fromLang": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{LEX_PATH}"' in result.stdout
@@ -267,13 +297,16 @@ def test_create_command_lex_esen():
 
 
 def test_create_command_model_esen():
-    result = CreateCommand().with_server("local").with_version("1.0").with_path(MODEL_PATH).run()
+    expected_version = CreateCommand.next_available_version()
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(MODEL_PATH).run()
+    )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{MODEL_NAME}"' in result.stdout
     assert f'"fromLang": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{MODEL_PATH}"' in result.stdout
@@ -281,10 +314,11 @@ def test_create_command_model_esen():
 
 
 def test_create_command_quality_model_esen():
+    expected_version = CreateCommand.next_available_version()
     result = (
         CreateCommand()
         .with_server("local")
-        .with_version("1.0")
+        .with_next_minor_version()
         .with_path(QUALITY_MODEL_PATH)
         .run()
     )
@@ -293,7 +327,7 @@ def test_create_command_quality_model_esen():
     assert f'"name": "{QUALITY_MODEL_NAME}"' in result.stdout
     assert f'"fromLang": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
@@ -301,15 +335,20 @@ def test_create_command_quality_model_esen():
 
 
 def test_create_command_srcvocab_esen():
+    expected_version = CreateCommand.next_available_version()
     result = (
-        CreateCommand().with_server("local").with_version("1.0").with_path(SRCVOCAB_PATH).run()
+        CreateCommand()
+        .with_server("local")
+        .with_next_minor_version()
+        .with_path(SRCVOCAB_PATH)
+        .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{SRCVOCAB_NAME}"' in result.stdout
     assert f'"fromLang": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
@@ -317,32 +356,31 @@ def test_create_command_srcvocab_esen():
 
 
 def test_create_command_trgvocab_esen():
+    expected_version = CreateCommand.next_available_version()
     result = (
-        CreateCommand().with_server("local").with_version("1.0").with_path(TRGVOCAB_PATH).run()
+        CreateCommand()
+        .with_server("local")
+        .with_next_minor_version()
+        .with_path(TRGVOCAB_PATH)
+        .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
     assert f'"fromLang": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
     assert f'"mimeType": null' in result.stdout
 
 
-LEX_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_NAME}"
-LEX_5050_PATH = f"{PROD_ATTACHMENTS_PATH}/{LEX_5050_NAME}"
-MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{MODEL_NAME}"
-QUALITY_MODEL_PATH = f"{PROD_ATTACHMENTS_PATH}/{QUALITY_MODEL_NAME}"
-SRCVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{SRCVOCAB_NAME}"
-TRGVOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
-VOCAB_PATH = f"{PROD_ATTACHMENTS_PATH}/{VOCAB_NAME}"
-
-
 def test_create_command_lang_pair_esen():
-    result = CreateCommand().with_server("local").with_version("1.0").with_lang_pair("esen").run()
+    expected_version = CreateCommand.next_available_version()
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_lang_pair("esen").run()
+    )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
 
@@ -363,7 +401,7 @@ def test_create_command_lang_pair_esen():
     assert f'"toLang": "en"' in result.stdout
     assert f'"toLang": "es"' not in result.stdout
 
-    assert f'"version": "1.0"' in result.stdout
+    assert f'"version": "{expected_version}"' in result.stdout
     assert f'"version": "1.0a1"' not in result.stdout
 
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
@@ -387,7 +425,7 @@ def test_create_command_lang_pair_esen():
 
 def test_create_command_lang_pair_enes():
     result = (
-        CreateCommand().with_server("local").with_version("1.0a1").with_lang_pair("enes").run()
+        CreateCommand().with_server("local").with_version("1.0a2").with_lang_pair("enes").run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
@@ -409,8 +447,8 @@ def test_create_command_lang_pair_enes():
     assert f'"toLang": "es"' in result.stdout
     assert f'"toLang": "en"' not in result.stdout
 
-    assert f'"version": "1.0a1"' in result.stdout
-    assert f'"version": "1.0"' not in result.stdout
+    assert f'"version": "1.0a2"' in result.stdout
+    assert f'"version": "{CreateCommand.next_available_version()}"' not in result.stdout
 
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
@@ -430,3 +468,23 @@ def test_create_command_no_files_in_directory():
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
     assert "No records found" in result.stderr
     assert "You may need to unzip" in result.stdout
+
+
+def test_create_command_duplicate_record():
+    version_used = CreateCommand.next_available_version()
+
+    result = (
+        CreateCommand().with_server("local").with_next_minor_version().with_path(MODEL_PATH).run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    # Explicitly uses the stored version again
+    duplicate_result = (
+        CreateCommand().with_server("local").with_version(version_used).with_path(MODEL_PATH).run()
+    )
+    assert duplicate_result.returncode == ERROR
+    assert (
+        f"Record {MODEL_NAME} already exists with version {version_used}"
+        in duplicate_result.stderr
+    )
