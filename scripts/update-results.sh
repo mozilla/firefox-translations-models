@@ -19,7 +19,7 @@ python3 scripts/find-cometcompare.py |
 xargs rm -f
 
 echo "Extracting models"
-gzip -drf models/*/*/*
+gzip --decompress --recursive --force --keep models/*/*/*
 
 echo "Building docker image"
 make build-docker
@@ -36,7 +36,3 @@ docker run --name bergamot-eval -it --shm-size=16gb --rm \
       -e GOOGLE_APPLICATION_CREDENTIALS=/.gcp_creds \
       -e AZURE_TRANSLATOR_KEY="${AZURE_TRANSLATOR_KEY}" \
       bergamot-eval bash /models/scripts/eval.sh
-
-
-
-
