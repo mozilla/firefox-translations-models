@@ -127,13 +127,12 @@ class RemoteSettingsClient:
         Returns:
             List[str]: A list of file paths in the specified language-pair directory.
         """
-        parsed_version = version.parse(args.version)
+        kinds = {"base", "base-memory", "tiny"}
+        if args.kind not in kinds:
+            print_error(f"Invalid kind: {args.kind}. Must be one of {', '.join(kinds)}")
+            exit(1)
 
-        if parsed_version.is_prerelease:
-            directory = os.path.join(RemoteSettingsClient._base_dir(args), "dev")
-        else:
-            directory = os.path.join(RemoteSettingsClient._base_dir(args), "prod")
-
+        directory = os.path.join(RemoteSettingsClient._base_dir(args), args.kind)
         full_path = os.path.join(directory, args.lang_pair)
 
         if not os.path.exists(full_path):
