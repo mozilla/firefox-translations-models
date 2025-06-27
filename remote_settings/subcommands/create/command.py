@@ -26,6 +26,13 @@ def attach_create_subcommand(subparsers):
         help="verify the authentication and record data, but do not create",
     )
     create_parser.add_argument(
+        "--kind",
+        type=str,
+        choices=["base", "base-memory", "tiny"],
+        help="The kind of model directory to use",
+        required=True,
+    )
+    create_parser.add_argument(
         "-m",
         "--mock-connection",
         action="store_true",
