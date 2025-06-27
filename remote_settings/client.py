@@ -127,14 +127,16 @@ class RemoteSettingsClient:
         Returns:
             List[str]: A list of file paths in the specified language-pair directory.
         """
-        parsed_version = version.parse(args.version)
+        base_dir = RemoteSettingsClient.base_dir(args)
+        architecture_dir = os.path.join(base_dir, args.architecture)
 
-        if parsed_version.is_prerelease:
-            directory = os.path.join(RemoteSettingsClient._base_dir(args), "dev")
-        else:
-            directory = os.path.join(RemoteSettingsClient._base_dir(args), "prod")
+        if not os.path.isdir(architecture_dir):
+            print_error(
+                f"Invalid architecture: '{args.architecture}'. No such architecture in {base_dir} directory"
+            )
+            exit(1)
 
-        full_path = os.path.join(directory, args.lang_pair)
+        full_path = os.path.join(architecture_dir, args.lang_pair)
 
         if not os.path.exists(full_path):
             print_error(f"Path does not exist: {full_path}")
@@ -143,7 +145,7 @@ class RemoteSettingsClient:
         return [
             os.path.join(full_path, f)
             for f in os.listdir(full_path)
-            if not f.endswith(".gz") and not f.endswith(".json")
+            if f.endswith(".bin") or f.endswith(".spm")
         ]
 
     @staticmethod
@@ -246,14 +248,18 @@ class RemoteSettingsClient:
         """
         segments = name.split(".")
 
+        if len(segments) < 3:
+            print_error(f"The file name '{name}' has an incorrect name scheme.")
+            exit(1)
+
         # File names are of the following formats:
-        #   - model.{lang_pair}.intgemm8.bin.gz
-        #   - lex.{lang_pair}.s2t.bin.gz
-        #   - lex.50.50.{lang_pair}.s2t.bin.gz
-        #   - trgvocab.{lang_pair}.spm.gz
-        #   - srcvocab.{lang_pair}.spm.gz
-        #   - qualityModel.{lang_pair}.bin.gz
-        #   - vocab.{lang_pair}.spm.gz
+        #   - model.{lang_pair}.intgemm8.bin
+        #   - lex.{lang_pair}.s2t.bin
+        #   - lex.50.50.{lang_pair}.s2t.bin
+        #   - trgvocab.{lang_pair}.spm
+        #   - srcvocab.{lang_pair}.spm
+        #   - qualityModel.{lang_pair}.bin
+        #   - vocab.{lang_pair}.spm
         #
         # The lang_pair will always be in the one-index, except for
         # the lex.50.50... file, in which case it is in the three-index segment.
@@ -281,7 +287,7 @@ class RemoteSettingsClient:
         return file_type_segment
 
     @staticmethod
-    def _base_dir(args):
+    def base_dir(args):
         """Get the base directory in which to search for record attachments.
 
         Args:

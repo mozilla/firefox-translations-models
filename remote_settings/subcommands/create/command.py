@@ -20,6 +20,13 @@ def attach_create_subcommand(subparsers):
         formatter_class=argparse.MetavarTypeHelpFormatter,
     )
     create_parser.add_argument(
+        "-a",
+        "--architecture",
+        type=str,
+        help="The architecture of the model must match a folder name inside the models directory",
+        required=True,
+    )
+    create_parser.add_argument(
         "-d",
         "--dry-run",
         action="store_true",
