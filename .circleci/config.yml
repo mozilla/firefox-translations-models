@@ -26,7 +26,7 @@ jobs:
             sudo git lfs install
       - run:
           name: Configure the Docker daemon to recognize the NVIDIA Container Runtime
-          command: | 
+          command: |
             sudo nvidia-ctk runtime configure --runtime=docker
             sudo systemctl restart docker
       - run:
@@ -44,11 +44,19 @@ jobs:
             git add evaluation/*/*.cometcompare
             git --no-pager diff --staged evaluation/*/*.cometcompare
       - run:
+          name: Generate the model metadata information
+          command: |
+            pip install poetry
+            poetry install --no-root
+            poetry run python scripts/update-metadata.py
+      - run:
           name: Pushing results
           command: |
             git config user.email "ci-models-evaluation@firefox-translations"
             git config user.name "CircleCI evaluation job"
             git add evaluation
+            git add models/by-hash.json
+            git add models/*/metadata.json
 
             if [[ $(git status --porcelain) ]]; then
               echo "### Commiting results"
@@ -116,4 +124,3 @@ workflows:
               ignore:
                 - /pull\/[0-9]+/
                 - main
-
