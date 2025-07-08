@@ -7,7 +7,14 @@ from ..common import *
 
 def create_record(path):
     """Create a record to be used in the list command tests."""
-    create_result = CreateCommand().with_server("local").with_version("2.1").with_path(path).run()
+    create_result = (
+        CreateCommand()
+        .with_server("local")
+        .with_version("2.1")
+        .with_path(path)
+        .with_architecture("tiny")
+        .run()
+    )
     assert create_result.returncode == SUCCESS, f"Create failed: {create_result.stderr}"
 
 
