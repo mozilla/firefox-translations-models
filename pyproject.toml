@@ -26,6 +26,8 @@ pytest-clarity = "^1.0.1"
 pyyaml = "^6.0.2"
 requests = "^2.31.0"
 termcolor = "^2.3.0"
+zstandard = "^0.23.0"
+
 
 [tool.black]
 extend-exclude= "/3rd_party"

@@ -3,7 +3,8 @@ import os, sys, mimetypes, requests, uuid, json
 from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
-from remote_settings.format import print_error, print_help
+from remote_settings.format import print_error, print_help, print_info
+import zstandard as zstd
 
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
@@ -102,7 +103,27 @@ class RemoteSettingsClient:
                 RemoteSettingsClient._create_record_info(path, args.version) for path in paths
             ]
 
+            # Compress each file at levels 1 and 19
+            for input_path in paths:
+                RemoteSettingsClient._compress_file_with_levels(args, input_path)
+
         return this
+
+    @staticmethod
+    def _compress_file_with_levels(args, input_path):
+        """Compress the given file with Zstandard at both levels 1 and 19.
+
+        Args:
+            args (argparse.Namespace): The arguments passed through the CLI
+            input_path (str): The full path to the file to compress.
+        """
+        levels = [1, 19]
+        for level in levels:
+            cctx = zstd.ZstdCompressor(level)
+            output_path = f"{input_path}.{level}.zst"
+            with open(input_path, "rb") as ifh, open(output_path, "wb") as ofh:
+                print_info(args, f"Compressing {input_path} with level {level}")
+                cctx.copy_stream(ifh, ofh)
 
     @classmethod
     def init_for_list(cls, args):
