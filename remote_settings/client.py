@@ -111,19 +111,69 @@ class RemoteSettingsClient:
 
     @staticmethod
     def _compress_file_with_levels(args, input_path):
-        """Compress the given file with Zstandard at both levels 1 and 19.
+        """
+        Compresses a given file using Zstandard at both compression levels 1 and 19,
+        compares their resulting sizes, and retains only the smaller of the two.
+
+        This function is used to determine the most size-efficient compression level
+        for our model files. Although level 19 is expected to produce
+        better compression (smaller files) in most general-purpose scenarios, we have
+        observed that our model files, due to their specific structure and content,
+        sometimes yield smaller compressed results with level 1.
+
+        Therefore, we compress each file twice:
+        - once with `--zstd -1` (fastest, light compression)
+        - once with `--zstd -19` (slowest, highest compression)
+
+        We then:
+        - Compare the output file sizes
+        - Keep the smaller file (renamed to `.zst`)
+        - Delete the larger one
 
         Args:
             args (argparse.Namespace): The arguments passed through the CLI
             input_path (str): The full path to the file to compress.
         """
         levels = [1, 19]
-        for level in levels:
-            cctx = zstd.ZstdCompressor(level)
-            output_path = f"{input_path}.{level}.zst"
-            with open(input_path, "rb") as ifh, open(output_path, "wb") as ofh:
-                print_info(args, f"Compressing {input_path} with level {level}")
-                cctx.copy_stream(ifh, ofh)
+        compressed_paths = []
+
+        try:
+            for level in levels:
+                cctx = zstd.ZstdCompressor(level)
+                output_path = f"{input_path}.{level}.zst"
+                with open(input_path, "rb") as ifh, open(output_path, "wb") as ofh:
+                    print_info(args, f"Compressing {input_path} with level {level}")
+                    cctx.copy_stream(ifh, ofh)
+                compressed_paths.append(output_path)
+
+            size_level_1 = os.path.getsize(compressed_paths[0])
+            size_level_19 = os.path.getsize(compressed_paths[1])
+
+            if size_level_1 > size_level_19:
+                smallest_path = compressed_paths[0]
+                largest_path = compressed_paths[1]
+                smallest_size = size_level_19
+                largest_size = size_level_1
+            else:
+                smallest_path = compressed_paths[1]
+                largest_path = compressed_paths[0]
+                smallest_size = size_level_1
+                largest_size = size_level_19
+
+            final_output_path = f"{input_path}.zst"
+            os.rename(smallest_path, final_output_path)
+            print_info(
+                args,
+                f"Selected smallest file: {os.path.basename(final_output_path)} ({smallest_size} bytes)",
+            )
+
+            os.remove(largest_path)
+            print_info(
+                args,
+                f"Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
+            )
+        except Exception as e:
+            print_error(e)
 
     @classmethod
     def init_for_list(cls, args):
