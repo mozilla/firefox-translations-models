@@ -3,7 +3,8 @@ import os, sys, mimetypes, requests, uuid, json
 from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
-from remote_settings.format import print_error, print_help
+from remote_settings.format import print_error, print_help, print_info
+import zstandard as zstd
 
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
@@ -102,7 +103,69 @@ class RemoteSettingsClient:
                 RemoteSettingsClient._create_record_info(path, args.version) for path in paths
             ]
 
+            for input_path in paths:
+                RemoteSettingsClient._compress_file_with_levels(args, input_path)
+
         return this
+
+    @staticmethod
+    def _compress_file_with_levels(args, input_path):
+        """
+        Compresses a given file using Zstandard at both compression levels 1 and 19,
+        compares their resulting sizes, and retains only the smaller of the two.
+
+        This function is used to determine the most size-efficient compression level
+        for our model files. Although level 19 is expected to produce
+        better compression (smaller files) in most general-purpose scenarios, we have
+        observed that our model files, due to their specific structure and content,
+        sometimes yield smaller compressed results with level 1.
+
+        Therefore, we compress each file twice, once with level 1 and once with level 19, then keep the smaller of the two.
+
+        Args:
+            args (argparse.Namespace): The arguments passed through the CLI
+            input_path (str): The full path to the file to compress.
+        """
+        levels = [1, 19]
+        compressed_paths = []
+
+        try:
+            for level in levels:
+                cctx = zstd.ZstdCompressor(level)
+                output_path = f"{input_path}.{level}.zst"
+                with open(input_path, "rb") as ifh, open(output_path, "wb") as ofh:
+                    print_info(args, f"Compressing {input_path} with level {level}")
+                    cctx.copy_stream(ifh, ofh)
+                compressed_paths.append(output_path)
+
+            size_level_1 = os.path.getsize(compressed_paths[0])
+            size_level_19 = os.path.getsize(compressed_paths[1])
+
+            if size_level_1 > size_level_19:
+                smallest_path = compressed_paths[0]
+                largest_path = compressed_paths[1]
+                smallest_size = size_level_19
+                largest_size = size_level_1
+            else:
+                smallest_path = compressed_paths[1]
+                largest_path = compressed_paths[0]
+                smallest_size = size_level_1
+                largest_size = size_level_19
+
+            final_output_path = f"{input_path}.zst"
+            os.rename(smallest_path, final_output_path)
+            print_info(
+                args,
+                f"Selected smallest file: {os.path.basename(final_output_path)} ({smallest_size} bytes)",
+            )
+
+            os.remove(largest_path)
+            print_info(
+                args,
+                f"Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
+            )
+        except Exception as e:
+            print_error(e)
 
     @classmethod
     def init_for_list(cls, args):
