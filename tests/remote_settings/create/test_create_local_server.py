@@ -652,3 +652,16 @@ def test_create_command_duplicate_record():
         f"Record {MODEL_NAME} already exists with version {version_used}"
         in duplicate_result.stderr
     )
+
+
+def test_create_command_fails_on_invalid_file_hash():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(INHA_PATH)
+        .with_next_minor_version()
+        .with_architecture("tiny")
+        .run()
+    )
+    assert result.returncode == ERROR, f"The return code should be {ERROR}"
+    assert "Hash mismatch" in result.stderr

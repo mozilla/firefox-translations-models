@@ -1,10 +1,12 @@
 import os, sys, mimetypes, requests, uuid, json
 
+import hashlib
 from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
 from remote_settings.format import print_error, print_help, print_info
 import zstandard as zstd
+from pathlib import Path
 
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
@@ -79,7 +81,6 @@ class RemoteSettingsClient:
             auth=BearerTokenAuth(self._auth_token),
         )
         self._new_records = None
-        self._fetched_records = []
 
     @classmethod
     def init_for_create(cls, args):
@@ -94,6 +95,7 @@ class RemoteSettingsClient:
             RemoteSettingsClient: A RemoteSettingsClient that can create new records
         """
         this = cls(args)
+
         if args.path is not None:
             new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
             this._new_records = [new_record_info]
@@ -102,9 +104,6 @@ class RemoteSettingsClient:
             this._new_records = [
                 RemoteSettingsClient._create_record_info(path, args.version) for path in paths
             ]
-
-            for input_path in paths:
-                RemoteSettingsClient._compress_file_with_levels(args, input_path)
 
         return this
 
@@ -126,6 +125,7 @@ class RemoteSettingsClient:
             args (argparse.Namespace): The arguments passed through the CLI
             input_path (str): The full path to the file to compress.
         """
+
         levels = [1, 19]
         compressed_paths = []
 
@@ -164,8 +164,41 @@ class RemoteSettingsClient:
                 args,
                 f"Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
             )
+
+            return final_output_path
+
         except Exception as e:
             print_error(e)
+
+    def _compute_sha256(file_path):
+        """Computes the SHA-256 hash of a given file."""
+        sha256 = hashlib.sha256()
+        with open(file_path, "rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                sha256.update(chunk)
+        return sha256.hexdigest()
+
+    def get_expected_model_file_hash(file_path):
+        """Retrieves the expected hash value for a model file from its associated metadata.json."""
+
+        file_path = Path(file_path)
+        metadata_path = file_path.parent / "metadata.json"
+
+        name = os.path.basename(file_path)
+
+        if not name.startswith("model"):
+            raise ValueError(f"Expected a model file but received {name}")
+
+        if not metadata_path.exists():
+            print_error(f"metadata.json not found for {file_path}")
+            exit(1)
+
+        with open(metadata_path) as f:
+            metadata = json.load(f)
+
+        expected_hash = metadata.get("hash")
+        if expected_hash:
+            return expected_hash
 
     @classmethod
     def init_for_list(cls, args):
@@ -227,6 +260,7 @@ class RemoteSettingsClient:
         from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         mimetype, _ = mimetypes.guess_type(path)
+        hash = RemoteSettingsClient._compute_sha256(path)
         return {
             "id": str(uuid.uuid4()),
             "data": {
@@ -236,6 +270,7 @@ class RemoteSettingsClient:
                 "version": version,
                 "fileType": file_type,
                 "filter_expression": filter_expression,
+                "hash": hash,
             },
             "attachment": {
                 "path": path,
@@ -455,6 +490,10 @@ class RemoteSettingsClient:
         data = self._new_records[index]["data"]
         self._client.create_record(id=id, data=data)
         self.attach_file_to_record(index)
+
+    def compress_record_attachment(self, args, index):
+        path = self._new_records[index]["attachment"]["path"]
+        self._compress_file_with_levels(args, path)
 
     def attach_file_to_record(self, index):
         """Attaches the file attachment to the record of the matching id.
