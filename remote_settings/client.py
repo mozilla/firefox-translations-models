@@ -1,5 +1,6 @@
 import os, sys, mimetypes, requests, uuid, json
 
+import hashlib
 from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
@@ -126,6 +127,10 @@ class RemoteSettingsClient:
             args (argparse.Namespace): The arguments passed through the CLI
             input_path (str): The full path to the file to compress.
         """
+
+        sha256_hash = RemoteSettingsClient.compute_sha256(input_path)
+        print_info(args, f"SHA-256 of {os.path.basename(input_path)}: {sha256_hash}")
+
         levels = [1, 19]
         compressed_paths = []
 
@@ -164,8 +169,19 @@ class RemoteSettingsClient:
                 args,
                 f"Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
             )
+
+            return final_output_path, sha256_hash
+
         except Exception as e:
             print_error(e)
+
+    def compute_sha256(file_path):
+        """Computes the SHA-256 hash of a given file."""
+        sha256 = hashlib.sha256()
+        with open(file_path, "rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                sha256.update(chunk)
+        return sha256.hexdigest()
 
     @classmethod
     def init_for_list(cls, args):
