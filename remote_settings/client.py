@@ -271,8 +271,8 @@ class RemoteSettingsClient:
                 "hash": hash,
             },
             "attachment": {
-                "path": path,
-                "mimeType": mimetype,
+                "path": path + ".zst",
+                "mimeType": "application/zstd",
             },
         }
 
@@ -491,7 +491,8 @@ class RemoteSettingsClient:
 
     def compress_record_attachment(self, args, index):
         path = self._new_records[index]["attachment"]["path"]
-        self._compress_file_with_levels(args, path)
+        uncompressed_path = path.removesuffix(".zst")
+        self._compress_file_with_levels(args, uncompressed_path)
 
     def attach_file_to_record(self, index):
         """Attaches the file attachment to the record of the matching id.
