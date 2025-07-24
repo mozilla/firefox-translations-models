@@ -117,6 +117,17 @@ def validate_version(value):
     return value
 
 
+def validate_uncompressed_model_file_hash(record):
+    path = record["attachment"]["path"]
+    expected = RemoteSettingsClient.get_expected_model_file_hash(path)
+    actual = record["hash"]
+
+    if expected != actual:
+        print_error(f"Hash mismatch for {path}\n\nExpected: {expected}\n  Actual: {actual}")
+        print_help("Ensure that the file was exported with the correct metadata.json")
+        exit(1)
+
+
 def command_create(args):
     """Creates a new record based on args, and uploads it to Remote Settings.
 
@@ -142,6 +153,8 @@ def command_create(args):
     for i in range(client.record_count()):
         record = client.get_record(i)
 
+        file_type = record["fileType"]
+
         print_info(args, f"Validating record: {record['name']}")
 
         if is_duplicate_record(record, existing_records):
@@ -150,6 +163,12 @@ def command_create(args):
             )
             print_help("Use a different name or version.")
             exit(1)
+
+        if file_type == "model":
+            validate_uncompressed_model_file_hash(record)
+
+    for i in range(client.record_count()):
+        client.compress_record_attachment(args, i)
 
     for i in range(client.record_count()):
         record = client.get_record(i)
