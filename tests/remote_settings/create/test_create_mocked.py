@@ -9,7 +9,6 @@ class CreateCommand:
         self._version = None
         self._lang_pair = None
         self._path = None
-        self._quiet = None
 
     def with_architecture(self, architecture):
         self._architecture = architecture
@@ -31,10 +30,6 @@ class CreateCommand:
         self._path = path
         return self
 
-    def quiet(self):
-        self._quiet = True
-        return self
-
     def run(self):
         command = [
             "poetry",
@@ -51,23 +46,7 @@ class CreateCommand:
         command.extend(["--lang-pair", self._lang_pair] if self._lang_pair else [])
         command.extend(["--path", self._path] if self._path else [])
         command.extend(["--architecture", self._architecture] if self._architecture else [])
-        command.extend(["--quiet"] if self._quiet else [])
         return subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-
-
-def test_create_command_quiet_flag():
-    result = (
-        CreateCommand()
-        .with_server("dev")
-        .with_version("1.0")
-        .with_path(MODEL_PATH)
-        .with_architecture("base-memory")
-        .quiet()
-        .run()
-    )
-    assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
-    assert "" == result.stdout, "The standard output stream should be empty"
-    assert "" == result.stderr, "The standard error stream should be empty"
 
 
 def test_create_command_missing_server():
@@ -76,7 +55,6 @@ def test_create_command_missing_server():
         .with_version("1.0")
         .with_path(MODEL_PATH)
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -90,7 +68,6 @@ def test_create_command_missing_version():
         .with_server("dev")
         .with_path(MODEL_PATH)
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -104,7 +81,6 @@ def test_create_command_missing_path_or_lang_pair():
         .with_server("dev")
         .with_version("1.0")
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -120,7 +96,6 @@ def test_create_command_with_path_and_lang_pair():
         .with_lang_pair(PROD_LANG_PAIR)
         .with_version("1.0")
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -135,7 +110,6 @@ def test_create_command_invalid_server():
         .with_version("1.0")
         .with_path(MODEL_PATH)
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -150,7 +124,6 @@ def test_create_command_invalid_version():
         .with_version("invalid_version")
         .with_path(MODEL_PATH)
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -168,7 +141,6 @@ def test_create_command_invalid_path():
         .with_version("1.0")
         .with_path("invalid_path")
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -183,7 +155,6 @@ def test_create_command_lang_pair_too_short():
         .with_version("1.0")
         .with_lang_pair("ese")
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -198,7 +169,6 @@ def test_create_command_lang_pair_too_long():
         .with_version("1.0")
         .with_lang_pair("esene")
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
@@ -213,7 +183,6 @@ def test_create_command_lang_pair_does_not_exist_in_base():
         .with_version("1.0a1")
         .with_lang_pair("esen")
         .with_architecture("base")
-        .quiet()
         .run()
     )
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
@@ -228,7 +197,6 @@ def test_create_command_lang_pair_does_not_exist_in_base_memory():
         .with_version("1.0")
         .with_lang_pair("esen")
         .with_architecture("base-memory")
-        .quiet()
         .run()
     )
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
@@ -245,7 +213,6 @@ def test_create_command_lang_pair_does_not_exist_in_tiny():
         .with_version("1.0")
         .with_lang_pair("enes")
         .with_architecture("tiny")
-        .quiet()
         .run()
     )
     assert result.returncode == ERROR, f"The return code should be {ERROR}"

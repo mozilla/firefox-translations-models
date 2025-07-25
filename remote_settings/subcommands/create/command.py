@@ -39,12 +39,6 @@ def attach_create_subcommand(subparsers):
         help="mock the connection to the server for testing",
     )
     create_parser.add_argument(
-        "-q",
-        "--quiet",
-        action="store_true",
-        help="do not print informational non-error output to the terminal",
-    )
-    create_parser.add_argument(
         "--server",
         type=str,
         choices=["dev", "stage", "prod", "local"],
@@ -137,9 +131,9 @@ def command_create(args):
 
     client = RemoteSettingsClient.init_for_create(args)
 
-    print_info(args)
-    print_info(args, f"User: {client.authenticated_user()}")
-    print_info(args, f"Server: {client.server_url()}")
+    print_info()
+    print_info(f"User: {client.authenticated_user()}")
+    print_info(f"Server: {client.server_url()}")
 
     if client.record_count() == 0:
         print_error("No records found.")
@@ -148,14 +142,14 @@ def command_create(args):
 
     existing_records = client.get_records()
 
-    print_info(args)
+    print_info()
 
     for i in range(client.record_count()):
         record = client.get_record(i)
 
         file_type = record["fileType"]
 
-        print_info(args, f"Validating record: {record['name']}")
+        print_info(f"Validating record: {record['name']}")
 
         if is_duplicate_record(record, existing_records):
             print_error(
@@ -173,13 +167,13 @@ def command_create(args):
     for i in range(client.record_count()):
         record = client.get_record(i)
 
-        print_info(args, f"Record: {client.record_info_json(i)}")
+        print_info(f"Record: {client.record_info_json(i)}")
 
         if not (args.dry_run or args.mock_connection):
-            print_info(args, "Creating record...")
+            print_info("Creating record...")
             client.create_new_record(i)
-            print_info(args, f"{client.attachment_name(i)} created")
+            print_info(f"{client.attachment_name(i)} created")
 
-        print_info(args)
+        print_info()
 
-    print_info(args)
+    print_info()
