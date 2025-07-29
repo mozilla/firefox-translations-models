@@ -321,8 +321,8 @@ def test_create_command_lex_5050_esen():
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_lex_esen():
@@ -343,8 +343,8 @@ def test_create_command_lex_esen():
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"path": "{LEX_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_model_esen():
@@ -365,8 +365,8 @@ def test_create_command_model_esen():
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_quality_model_esen():
@@ -387,8 +387,8 @@ def test_create_command_quality_model_esen():
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"path": "{QUALITY_MODEL_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_srcvocab_esen():
@@ -409,8 +409,8 @@ def test_create_command_srcvocab_esen():
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+    assert f'"path": "{SRCVOCAB_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_trgvocab_esen():
@@ -431,8 +431,8 @@ def test_create_command_trgvocab_esen():
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+    assert f'"path": "{TRGVOCAB_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_lang_pair_esen():
@@ -479,13 +479,13 @@ def test_create_command_lang_pair_esen():
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
 
-    assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"path": "{VOCAB_PATH}"' in result.stdout
+    assert f'"path": "{LEX_PATH}.zst"' in result.stdout
+    assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
+    assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
+    assert f'"path": "{QUALITY_MODEL_PATH}.zst"' in result.stdout
+    assert f'"path": "{SRCVOCAB_PATH}.zst"' in result.stdout
+    assert f'"path": "{TRGVOCAB_PATH}.zst"' in result.stdout
+    assert f'"path": "{VOCAB_PATH}.zst"' in result.stdout
 
 
 def test_create_command_lang_pair_enes():

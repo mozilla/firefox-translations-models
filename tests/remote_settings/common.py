@@ -46,7 +46,7 @@ ALPHA_FILTER_EXPRESSION = "env.channel == 'default' || env.channel == 'nightly'"
 BETA_FILTER_EXPRESSION = "env.channel != 'release'"
 RELEASE_FILTER_EXPRESSION = ""
 
-OCTET_STREAM = "application/octet-stream"
+ZSTD_MIMETYPE = "application/zstd"
 
 HASH_BASE_ENCS_LEX = "c530879ef492caf24850d65f58d1035f566040ab3e9fda90d16c6e9b7a76b541"
 HASH_BASE_ENCS_VOCAB = "2e983ee9870947f51330515ceb2b5876a8318777f658ba5ae89053aa61843cdb"
