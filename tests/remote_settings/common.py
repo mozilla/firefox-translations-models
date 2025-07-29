@@ -37,6 +37,7 @@ SRCVOCAB_PATH = f"{TINY_ATTACHMENTS_PATH}/{SRCVOCAB_NAME}"
 TRGVOCAB_PATH = f"{TINY_ATTACHMENTS_PATH}/{TRGVOCAB_NAME}"
 VOCAB_PATH = f"{TINY_ATTACHMENTS_PATH}/{VOCAB_NAME}"
 
+COLLECTION_NAME = "translations-models-v2"
 DEV_SERVER_URL = "https://remote-settings-dev.allizom.org/v1"
 PROD_SERVER_URL = "https://remote-settings.mozilla.org/v1"
 STAGE_SERVER_URL = "https://remote-settings.allizom.org/v1"

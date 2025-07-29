@@ -9,8 +9,8 @@ from pydantic import BaseModel, Field
 from typing import Optional
 
 prod_endpoint = "https://firefox.settings.services.mozilla.com"
-models_collection = "translations-models"
-wasm_collection = "translations-wasm"
+models_collection = "translations-models-v2"
+wasm_collection = "translations-wasm-v2"
 
 
 def get_prod_records_url(collection: str):

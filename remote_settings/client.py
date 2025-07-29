@@ -21,7 +21,7 @@ Local: http://localhost:8888/v1/admin
 
 On the top right corner, use the 📋 icon to copy the authentication string
 """
-COLLECTION = "translations-models"
+COLLECTION = "translations-models-v2"
 SERVER_URLS = {
     "dev": "https://remote-settings-dev.allizom.org/v1",
     "stage": "https://remote-settings.allizom.org/v1",
