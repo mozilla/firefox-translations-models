@@ -66,6 +66,7 @@ def test_list_command_returns_expected_fields():
                 "name": "vocab.esen.spm",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "vocab",
                 "filter_expression": "",
@@ -84,6 +85,7 @@ def test_list_command_returns_expected_fields():
                 "name": "trgvocab.esen.spm",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "trgvocab",
                 "filter_expression": "",
@@ -102,6 +104,7 @@ def test_list_command_returns_expected_fields():
                 "name": "srcvocab.esen.spm",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "srcvocab",
                 "filter_expression": "",
@@ -120,6 +123,7 @@ def test_list_command_returns_expected_fields():
                 "name": "qualityModel.esen.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "qualityModel",
                 "filter_expression": "",
@@ -138,6 +142,7 @@ def test_list_command_returns_expected_fields():
                 "name": "model.esen.intgemm8.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "model",
                 "filter_expression": "",
@@ -156,6 +161,7 @@ def test_list_command_returns_expected_fields():
                 "name": "lex.esen.s2t.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
@@ -174,6 +180,7 @@ def test_list_command_returns_expected_fields():
                 "name": "lex.50.50.esen.s2t.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
+                "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
@@ -211,6 +218,7 @@ def test_list_command_returns_expected_fields():
     assert data["total"] == expected["total"]
 
     for expected_record, actual_record in zip(expected["records"], data["records"]):
+        assert expected_record["architecture"] == actual_record["architecture"]
         assert expected_record["name"] == actual_record["name"]
         assert expected_record["sourceLanguage"] == actual_record["sourceLanguage"]
         assert expected_record["targetLanguage"] == actual_record["targetLanguage"]

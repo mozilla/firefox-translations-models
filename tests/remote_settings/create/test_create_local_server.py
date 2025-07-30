@@ -318,6 +318,7 @@ def test_create_command_lex_5050_esen():
     assert f'"name": "{LEX_5050_NAME}"' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
@@ -340,6 +341,7 @@ def test_create_command_lex_esen():
     assert f'"name": "{LEX_NAME}"' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
@@ -362,6 +364,7 @@ def test_create_command_model_esen():
     assert f'"name": "{MODEL_NAME}"' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
@@ -384,6 +387,7 @@ def test_create_command_quality_model_esen():
     assert f'"name": "{QUALITY_MODEL_NAME}"' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
@@ -406,6 +410,7 @@ def test_create_command_srcvocab_esen():
     assert f'"name": "{SRCVOCAB_NAME}"' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
@@ -428,6 +433,7 @@ def test_create_command_trgvocab_esen():
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
@@ -465,6 +471,10 @@ def test_create_command_lang_pair_esen():
 
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"targetLanguage": "es"' not in result.stdout
+
+    assert f'"architecture": "tiny"' in result.stdout
+    assert f'"architecture": "base"' not in result.stdout
+    assert f'"architecture": "base-memory"' not in result.stdout
 
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"version": "1.0a1"' not in result.stdout
@@ -518,6 +528,10 @@ def test_create_command_lang_pair_enes():
     assert f'"targetLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' not in result.stdout
 
+    assert f'"architecture": "base-memory"' in result.stdout
+    assert f'"architecture": "base"' not in result.stdout
+    assert f'"architecture": "tiny"' not in result.stdout
+
     assert f'"version": "1.0a2"' in result.stdout
     assert f'"version": "{CreateCommand.next_available_version()}"' not in result.stdout
 
@@ -561,6 +575,10 @@ def test_create_command_lang_pair_encs():
 
     assert f'"targetLanguage": "cs"' in result.stdout
     assert f'"targetLanguage": "en"' not in result.stdout
+
+    assert f'"architecture": "base"' in result.stdout
+    assert f'"architecture": "base-memory"' not in result.stdout
+    assert f'"architecture": "tiny"' not in result.stdout
 
     assert f'"version": "1.0a2"' in result.stdout
     assert f'"version": "{CreateCommand.next_available_version()}"' not in result.stdout
