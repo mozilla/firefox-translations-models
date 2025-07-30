@@ -3,7 +3,7 @@
   "required": [
     "name",
     "version",
-    "fromLang",
+    "sourceLanguage",
     "toLang",
     "fileType"
   ],
@@ -36,10 +36,10 @@
         "trgvocab"
       ]
     },
-    "fromLang": {
+    "sourceLanguage": {
       "type": "string",
-      "title": "From Language",
-      "description": "The BCP 47 language tag that will be translated from"
+      "title": "Source Language",
+      "description": "The BCP 47 language tag of the source text"
     },
     "attachment": {
       "type": "object",

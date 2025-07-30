@@ -54,7 +54,7 @@ class ModelRecord(BaseModel):
     schema_name: Optional[int] = Field(default=None, alias="schema")
     variant: Optional[str] = None
     toLang: str  # "en"
-    fromLang: str  # "el"
+    sourceLanguage: str  # "el"
     version: str  # "1.0"
     fileType: str  # "model", "lex", "vocab"
     attachment: Optional[Attachment] = None
