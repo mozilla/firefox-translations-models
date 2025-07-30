@@ -80,7 +80,7 @@ def is_duplicate_record(record, existing_records):
             existing.get("name") == record.get("name")
             and existing.get("version") == record.get("version")
             and existing.get("sourceLanguage") == record.get("sourceLanguage")
-            and existing.get("toLang") == record.get("toLang")
+            and existing.get("targetLanguage") == record.get("targetLanguage")
             and existing.get("fileType") == record.get("fileType")
         ):
             return True

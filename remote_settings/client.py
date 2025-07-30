@@ -255,7 +255,7 @@ class RemoteSettingsClient:
         """
         name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
-        source_language, to_lang = RemoteSettingsClient._determine_language_pair(name)
+        source_language, target_language = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         mimetype, _ = mimetypes.guess_type(path)
         hash = RemoteSettingsClient._compute_sha256(path)
@@ -264,7 +264,7 @@ class RemoteSettingsClient:
             "data": {
                 "name": os.path.basename(path),
                 "sourceLanguage": source_language,
-                "toLang": to_lang,
+                "targetLanguage": target_language,
                 "version": version,
                 "fileType": file_type,
                 "filter_expression": filter_expression,

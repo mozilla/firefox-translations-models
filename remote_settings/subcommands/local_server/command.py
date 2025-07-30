@@ -216,7 +216,7 @@ def create_remote_settings_environment(remote_settings: Client):
     models_display_fields = [
         "name",
         "sourceLanguage",
-        "toLang",
+        "targetLanguage",
         "fileType",
         "version",
         "filter_expression",
@@ -368,7 +368,7 @@ def log_records(remote_settings: Client) -> None:
     logger.info("Model records:")
     for record_json in model_records:
         record = ModelRecord(**record_json)
-        logger.info(f" - {record.name} {record.sourceLanguage}-{record.toLang}")
+        logger.info(f" - {record.name} {record.sourceLanguage}-{record.targetLanguage}")
 
     logger.info("Remote Settings is ready: http://localhost:8888/v1/admin")
 
