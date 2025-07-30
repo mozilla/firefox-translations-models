@@ -65,7 +65,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "vocab.esen.spm",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "vocab",
                 "filter_expression": "",
@@ -83,7 +83,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "trgvocab.esen.spm",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "trgvocab",
                 "filter_expression": "",
@@ -101,7 +101,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "srcvocab.esen.spm",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "srcvocab",
                 "filter_expression": "",
@@ -119,7 +119,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "qualityModel.esen.bin",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "qualityModel",
                 "filter_expression": "",
@@ -137,7 +137,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "model.esen.intgemm8.bin",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "model",
                 "filter_expression": "",
@@ -155,7 +155,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "lex.esen.s2t.bin",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
@@ -173,7 +173,7 @@ def test_list_command_returns_expected_fields():
             {
                 "name": "lex.50.50.esen.s2t.bin",
                 "sourceLanguage": "es",
-                "toLang": "en",
+                "targetLanguage": "en",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
@@ -213,7 +213,7 @@ def test_list_command_returns_expected_fields():
     for expected_record, actual_record in zip(expected["records"], data["records"]):
         assert expected_record["name"] == actual_record["name"]
         assert expected_record["sourceLanguage"] == actual_record["sourceLanguage"]
-        assert expected_record["toLang"] == actual_record["toLang"]
+        assert expected_record["targetLanguage"] == actual_record["targetLanguage"]
         assert expected_record["version"] == actual_record["version"]
         assert expected_record["fileType"] == actual_record["fileType"]
         assert expected_record["filter_expression"] == actual_record["filter_expression"]

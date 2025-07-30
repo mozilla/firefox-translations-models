@@ -4,7 +4,7 @@
     "name",
     "version",
     "sourceLanguage",
-    "toLang",
+    "targetLanguage",
     "fileType"
   ],
   "properties": {
@@ -16,10 +16,10 @@
       "title": "Name",
       "description": "The name of the language model"
     },
-    "toLang": {
+    "targetLanguage": {
       "type": "string",
-      "title": "To Language",
-      "description": "The BCP 47 language tag that will be translated to"
+      "title": "Target Language",
+      "description": "The BCP 47 language tag of the translated text"
     },
     "version": {
       "type": "string",

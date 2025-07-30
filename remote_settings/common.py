@@ -53,7 +53,7 @@ class ModelRecord(BaseModel):
     name: str  # "model.enel.intgemm.alphas.bin"
     schema_name: Optional[int] = Field(default=None, alias="schema")
     variant: Optional[str] = None
-    toLang: str  # "en"
+    targetLanguage: str  # "en"
     sourceLanguage: str  # "el"
     version: str  # "1.0"
     fileType: str  # "model", "lex", "vocab"
