@@ -63,6 +63,7 @@ def test_list_command_returns_expected_fields():
         "server": "http://localhost:8888/v1/",
         "records": [
             {
+                "architecture": "tiny",
                 "name": "vocab.esen.spm",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -81,6 +82,7 @@ def test_list_command_returns_expected_fields():
                 "last_modified": 1749570511392,
             },
             {
+                "architecture": "tiny",
                 "name": "trgvocab.esen.spm",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -99,6 +101,7 @@ def test_list_command_returns_expected_fields():
                 "last_modified": 1749570505284,
             },
             {
+                "architecture": "tiny",
                 "name": "srcvocab.esen.spm",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -117,6 +120,7 @@ def test_list_command_returns_expected_fields():
                 "last_modified": 1749570499454,
             },
             {
+                "architecture": "tiny",
                 "name": "qualityModel.esen.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -135,6 +139,7 @@ def test_list_command_returns_expected_fields():
                 "last_modified": 1749570490246,
             },
             {
+                "architecture": "tiny",
                 "name": "model.esen.intgemm8.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -153,6 +158,7 @@ def test_list_command_returns_expected_fields():
                 "last_modified": 1749570482492,
             },
             {
+                "architecture": "tiny",
                 "name": "lex.esen.s2t.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -171,6 +177,7 @@ def test_list_command_returns_expected_fields():
                 "last_modified": 1749570470936,
             },
             {
+                "architecture": "tiny",
                 "name": "lex.50.50.esen.s2t.bin",
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
@@ -211,6 +218,7 @@ def test_list_command_returns_expected_fields():
     assert data["total"] == expected["total"]
 
     for expected_record, actual_record in zip(expected["records"], data["records"]):
+        assert expected_record["architecture"] == actual_record["architecture"]
         assert expected_record["name"] == actual_record["name"]
         assert expected_record["sourceLanguage"] == actual_record["sourceLanguage"]
         assert expected_record["targetLanguage"] == actual_record["targetLanguage"]

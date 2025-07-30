@@ -1,6 +1,7 @@
 {
   "type": "object",
   "required": [
+    "architecture",
     "name",
     "version",
     "sourceLanguage",
@@ -8,6 +9,11 @@
     "fileType"
   ],
   "properties": {
+    "architecture": {
+        "type": "string",
+        "title": "Architecture",
+        "description": "The architecture of the model"
+      },
     "id": {
       "type": "string"
     },

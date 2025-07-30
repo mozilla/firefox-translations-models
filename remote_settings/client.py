@@ -97,12 +97,15 @@ class RemoteSettingsClient:
         this = cls(args)
 
         if args.path is not None:
-            new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
+            new_record_info = RemoteSettingsClient._create_record_info(
+                args.architecture, args.path, args.version
+            )
             this._new_records = [new_record_info]
         else:
             paths = this._paths_for_lang_pair(args)
             this._new_records = [
-                RemoteSettingsClient._create_record_info(path, args.version) for path in paths
+                RemoteSettingsClient._create_record_info(args.architecture, path, args.version)
+                for path in paths
             ]
 
         return this
@@ -243,7 +246,7 @@ class RemoteSettingsClient:
         ]
 
     @staticmethod
-    def _create_record_info(path, version):
+    def _create_record_info(architecture, path, version):
         """Creates a record-info dictionary for a file at the given path.
 
         Args:
@@ -262,6 +265,7 @@ class RemoteSettingsClient:
         return {
             "id": str(uuid.uuid4()),
             "data": {
+                "architecture": architecture,
                 "name": os.path.basename(path),
                 "sourceLanguage": source_language,
                 "targetLanguage": target_language,
