@@ -255,7 +255,7 @@ class RemoteSettingsClient:
         """
         name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
-        from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
+        source_language, to_lang = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         mimetype, _ = mimetypes.guess_type(path)
         hash = RemoteSettingsClient._compute_sha256(path)
@@ -263,7 +263,7 @@ class RemoteSettingsClient:
             "id": str(uuid.uuid4()),
             "data": {
                 "name": os.path.basename(path),
-                "fromLang": from_lang,
+                "sourceLanguage": source_language,
                 "toLang": to_lang,
                 "version": version,
                 "fileType": file_type,
@@ -340,7 +340,7 @@ class RemoteSettingsClient:
             name str: The name of a file to attach to a record
 
         Returns:
-            Tuple[str, str]: The (fromLang, toLang) pair for this file
+            Tuple[str, str]: The (sourceLanguage, targetLanguage) pair for this file
         """
         segments = name.split(".")
 

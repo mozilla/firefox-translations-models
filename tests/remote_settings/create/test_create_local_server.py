@@ -316,7 +316,7 @@ def test_create_command_lex_5050_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{LEX_5050_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
@@ -338,7 +338,7 @@ def test_create_command_lex_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{LEX_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
@@ -360,7 +360,7 @@ def test_create_command_model_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{MODEL_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
@@ -382,7 +382,7 @@ def test_create_command_quality_model_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{QUALITY_MODEL_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
@@ -404,7 +404,7 @@ def test_create_command_srcvocab_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{SRCVOCAB_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
@@ -426,7 +426,7 @@ def test_create_command_trgvocab_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"toLang": "en"' in result.stdout
     assert f'"version": "{expected_version}"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
@@ -460,8 +460,8 @@ def test_create_command_lang_pair_esen():
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
     assert f'"name": "{VOCAB_NAME}"' in result.stdout
 
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"fromLang": "en"' not in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"sourceLanguage": "en"' not in result.stdout
 
     assert f'"toLang": "en"' in result.stdout
     assert f'"toLang": "es"' not in result.stdout
@@ -512,8 +512,8 @@ def test_create_command_lang_pair_enes():
     assert f'"name": "{TRGVOCAB_NAME}"' not in result.stdout
     assert f'"name": "{VOCAB_NAME}"' not in result.stdout
 
-    assert f'"fromLang": "en"' in result.stdout
-    assert f'"fromLang": "es"' not in result.stdout
+    assert f'"sourceLanguage": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' not in result.stdout
 
     assert f'"toLang": "es"' in result.stdout
     assert f'"toLang": "en"' not in result.stdout
@@ -556,8 +556,8 @@ def test_create_command_lang_pair_encs():
     assert f'"name": "{TRGVOCAB_NAME}"' not in result.stdout
     assert f'"name": "{VOCAB_NAME}"' not in result.stdout
 
-    assert f'"fromLang": "en"' in result.stdout
-    assert f'"fromLang": "cs"' not in result.stdout
+    assert f'"sourceLanguage": "en"' in result.stdout
+    assert f'"sourceLanguage": "cs"' not in result.stdout
 
     assert f'"toLang": "cs"' in result.stdout
     assert f'"toLang": "en"' not in result.stdout
