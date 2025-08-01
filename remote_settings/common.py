@@ -59,6 +59,7 @@ class ModelRecord(BaseModel):
     sourceLanguage: str  # "el"
     version: str  # "1.0"
     fileType: str  # "model", "lex", "vocab"
+    hash: str  # "f3888b9db780da4d681aaf987adfcd6ea54f82dd14ed2594b2b7ac7d253b6290"
     attachment: Optional[Attachment] = None
     filter_expression: Optional[
         str

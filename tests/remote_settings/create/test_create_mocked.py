@@ -337,6 +337,7 @@ def test_create_command_lex_5050_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_LEX_50_50}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -360,6 +361,7 @@ def test_create_command_lex_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_LEX}"' in result.stdout
     assert f'"path": "{LEX_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -383,6 +385,10 @@ def test_create_command_model_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert (
+        f'"hash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3"'
+        in result.stdout
+    )
     assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -393,7 +399,7 @@ def test_create_command_quality_model_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(QUALITY_MODEL_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
@@ -406,6 +412,7 @@ def test_create_command_quality_model_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_QUALITY_MODEL}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -416,7 +423,7 @@ def test_create_command_srcvocab_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(SRCVOCAB_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
@@ -429,6 +436,7 @@ def test_create_command_srcvocab_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_SRCVOCAB}"' in result.stdout
     assert f'"path": "{SRCVOCAB_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -439,7 +447,7 @@ def test_create_command_trgvocab_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(TRGVOCAB_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
@@ -452,6 +460,7 @@ def test_create_command_trgvocab_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_TRGVOCAB}"' in result.stdout
     assert f'"path": "{TRGVOCAB_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
