@@ -1,13 +1,21 @@
 {
   "type": "object",
   "required": [
+    "architecture",
     "name",
     "version",
-    "fromLang",
-    "toLang",
-    "fileType"
+    "size",
+    "sourceLanguage",
+    "targetLanguage",
+    "fileType",
+    "hash"
   ],
   "properties": {
+    "architecture": {
+        "type": "string",
+        "title": "Architecture",
+        "description": "The architecture of the model"
+      },
     "id": {
       "type": "string"
     },
@@ -16,10 +24,10 @@
       "title": "Name",
       "description": "The name of the language model"
     },
-    "toLang": {
+    "targetLanguage": {
       "type": "string",
-      "title": "To Language",
-      "description": "The BCP 47 language tag that will be translated to"
+      "title": "Target Language",
+      "description": "The BCP 47 language tag of the translated text"
     },
     "version": {
       "type": "string",
@@ -36,10 +44,20 @@
         "trgvocab"
       ]
     },
-    "fromLang": {
+    "hash": {
+        "type": "string",
+        "title": "Hash (decompressed)",
+        "description": "The hash of the decompressed file"
+      },
+    "size": {
+        "type": "number",
+        "title": "Size (decompressed, bytes)",
+        "description": "The size of the decompressed file"
+      },
+    "sourceLanguage": {
       "type": "string",
-      "title": "From Language",
-      "description": "The BCP 47 language tag that will be translated from"
+      "title": "Source Language",
+      "description": "The BCP 47 language tag of the source text"
     },
     "attachment": {
       "type": "object",

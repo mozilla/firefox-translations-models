@@ -21,7 +21,7 @@ Local: http://localhost:8888/v1/admin
 
 On the top right corner, use the 📋 icon to copy the authentication string
 """
-COLLECTION = "translations-models"
+COLLECTION = "translations-models-v2"
 SERVER_URLS = {
     "dev": "https://remote-settings-dev.allizom.org/v1",
     "stage": "https://remote-settings.allizom.org/v1",
@@ -97,12 +97,15 @@ class RemoteSettingsClient:
         this = cls(args)
 
         if args.path is not None:
-            new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
+            new_record_info = RemoteSettingsClient._create_record_info(
+                args.architecture, args.path, args.version
+            )
             this._new_records = [new_record_info]
         else:
             paths = this._paths_for_lang_pair(args)
             this._new_records = [
-                RemoteSettingsClient._create_record_info(path, args.version) for path in paths
+                RemoteSettingsClient._create_record_info(args.architecture, path, args.version)
+                for path in paths
             ]
 
         return this
@@ -243,7 +246,7 @@ class RemoteSettingsClient:
         ]
 
     @staticmethod
-    def _create_record_info(path, version):
+    def _create_record_info(architecture, path, version):
         """Creates a record-info dictionary for a file at the given path.
 
         Args:
@@ -255,24 +258,27 @@ class RemoteSettingsClient:
         """
         name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
-        from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
+        source_language, target_language = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         mimetype, _ = mimetypes.guess_type(path)
         hash = RemoteSettingsClient._compute_sha256(path)
+        size = os.path.getsize(path)
         return {
             "id": str(uuid.uuid4()),
             "data": {
+                "architecture": architecture,
                 "name": os.path.basename(path),
-                "fromLang": from_lang,
-                "toLang": to_lang,
+                "sourceLanguage": source_language,
+                "targetLanguage": target_language,
                 "version": version,
                 "fileType": file_type,
                 "filter_expression": filter_expression,
                 "hash": hash,
+                "size": size,
             },
             "attachment": {
-                "path": path,
-                "mimeType": mimetype,
+                "path": path + ".zst",
+                "mimeType": "application/zstd",
             },
         }
 
@@ -340,7 +346,7 @@ class RemoteSettingsClient:
             name str: The name of a file to attach to a record
 
         Returns:
-            Tuple[str, str]: The (fromLang, toLang) pair for this file
+            Tuple[str, str]: The (sourceLang, targetLanguage) pair for this file
         """
         segments = name.split(".")
 
@@ -491,7 +497,8 @@ class RemoteSettingsClient:
 
     def compress_record_attachment(self, args, index):
         path = self._new_records[index]["attachment"]["path"]
-        self._compress_file_with_levels(args, path)
+        uncompressed_path = path.removesuffix(".zst")
+        self._compress_file_with_levels(args, uncompressed_path)
 
     def attach_file_to_record(self, index):
         """Attaches the file attachment to the record of the matching id.
