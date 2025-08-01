@@ -4,6 +4,7 @@
     "architecture",
     "name",
     "version",
+    "size",
     "sourceLanguage",
     "targetLanguage",
     "fileType"
@@ -42,6 +43,11 @@
         "trgvocab"
       ]
     },
+    "size": {
+        "type": "number",
+        "title": "Size (decompressed, bytes)",
+        "description": "The size of the decompressed file"
+      },
     "sourceLanguage": {
       "type": "string",
       "title": "Source Language",

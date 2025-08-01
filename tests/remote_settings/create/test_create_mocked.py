@@ -331,6 +331,7 @@ def test_create_command_lex_5050_esen():
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"architecture": "base-memory"' in result.stdout
     assert f'"name": "{LEX_5050_NAME}"' in result.stdout
+    assert f'"size": 22' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
@@ -353,6 +354,7 @@ def test_create_command_lex_esen():
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"architecture": "base-memory"' in result.stdout
     assert f'"name": "{LEX_NAME}"' in result.stdout
+    assert f'"size": 16' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
@@ -375,6 +377,7 @@ def test_create_command_model_esen():
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"architecture": "base-memory"' in result.stdout
     assert f'"name": "{MODEL_NAME}"' in result.stdout
+    assert f'"size": 23' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
@@ -397,6 +400,7 @@ def test_create_command_quality_model_esen():
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"architecture": "tiny"' in result.stdout
     assert f'"name": "{QUALITY_MODEL_NAME}"' in result.stdout
+    assert f'"size": 21' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
@@ -419,6 +423,7 @@ def test_create_command_srcvocab_esen():
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"architecture": "tiny"' in result.stdout
     assert f'"name": "{SRCVOCAB_NAME}"' in result.stdout
+    assert f'"size": 17' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
@@ -441,6 +446,7 @@ def test_create_command_trgvocab_esen():
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"architecture": "tiny"' in result.stdout
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
+    assert f'"size": 17' in result.stdout
     assert f'"sourceLanguage": "es"' in result.stdout
     assert f'"targetLanguage": "en"' in result.stdout
     assert f'"version": "1.0"' in result.stdout

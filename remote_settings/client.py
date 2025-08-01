@@ -262,6 +262,7 @@ class RemoteSettingsClient:
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
         mimetype, _ = mimetypes.guess_type(path)
         hash = RemoteSettingsClient._compute_sha256(path)
+        size = os.path.getsize(path)
         return {
             "id": str(uuid.uuid4()),
             "data": {
@@ -273,6 +274,7 @@ class RemoteSettingsClient:
                 "fileType": file_type,
                 "filter_expression": filter_expression,
                 "hash": hash,
+                "size": size,
             },
             "attachment": {
                 "path": path + ".zst",
