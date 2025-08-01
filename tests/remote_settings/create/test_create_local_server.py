@@ -504,6 +504,12 @@ def test_create_command_lang_pair_esen():
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
 
+    assert (
+        f'"hash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3"'
+        in result.stdout
+    )
+    assert f'"hash": "{HASH_BASE_ENCS_VOCAB}"' not in result.stdout
+
     assert f'"path": "{LEX_PATH}.zst"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
     assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
@@ -560,6 +566,12 @@ def test_create_command_lang_pair_enes():
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
 
+    assert (
+        f'"hash": "2bc2474bc48b41cf1bac8db42636fa403d1fbbe8237133ed1bb609e20171b381"'
+        in result.stdout
+    )
+    assert f'"hash": "{HASH_TINY_ESEN_TRGVOCAB}"' not in result.stdout
+
 
 def test_create_command_lang_pair_encs():
     result = (
@@ -604,6 +616,12 @@ def test_create_command_lang_pair_encs():
 
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+    assert (
+        f'"hash": "eeedb736639b03303e915c792210d39a5dc17a443b4dd3f80dc5502fc7d38d14"'
+        in result.stdout
+    )
+    assert f'"hash": "{HASH_TINY_ESEN_TRGVOCAB}"' not in result.stdout
 
 
 def test_create_command_no_files_in_directory():

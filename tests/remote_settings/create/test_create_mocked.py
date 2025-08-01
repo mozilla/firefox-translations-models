@@ -399,7 +399,7 @@ def test_create_command_quality_model_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(QUALITY_MODEL_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
@@ -423,7 +423,7 @@ def test_create_command_srcvocab_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(SRCVOCAB_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
@@ -447,7 +447,7 @@ def test_create_command_trgvocab_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(TRGVOCAB_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"

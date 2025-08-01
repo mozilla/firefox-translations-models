@@ -1,4 +1,4 @@
-import os, sys, mimetypes, requests, uuid, json
+import os, sys, requests, uuid, json
 
 import hashlib
 from kinto_http import Client, BearerTokenAuth, KintoException
@@ -265,7 +265,6 @@ class RemoteSettingsClient:
         file_type = RemoteSettingsClient._determine_file_type(name)
         source_language, target_language = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
-        mimetype, _ = mimetypes.guess_type(path)
         hash = RemoteSettingsClient._compute_sha256(path)
         size = os.path.getsize(path)
         return {
