@@ -64,6 +64,7 @@ def test_list_command_returns_expected_fields():
         "records": [
             {
                 "name": "vocab.esen.spm",
+                "size": 14,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
@@ -83,12 +84,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "trgvocab.esen.spm",
+                "size": 17,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "trgvocab",
                 "filter_expression": "",
+                "hash": HASH_TINY_ESEN_TRGVOCAB,
                 "id": "f7d1325a-98ed-46e2-b1d5-daf681b3c4cd",
                 "schema": 1749570042331,
                 "attachment": {
@@ -102,6 +105,7 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "srcvocab.esen.spm",
+                "size": 17,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
@@ -121,6 +125,7 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "qualityModel.esen.bin",
+                "size": 21,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
@@ -140,6 +145,7 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "model.esen.intgemm8.bin",
+                "size": 23,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
@@ -159,6 +165,7 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "lex.esen.s2t.bin",
+                "size": 16,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
@@ -178,12 +185,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "lex.50.50.esen.s2t.bin",
+                "size": 22,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
+                "hash": HASH_TINY_ESEN_LEX_50_50,
                 "id": "79510b8f-746f-4fa7-b391-cbccda3af259",
                 "schema": 1749570042331,
                 "attachment": {
@@ -225,14 +234,16 @@ def test_list_command_returns_expected_fields():
         assert expected_record["version"] == actual_record["version"]
         assert expected_record["fileType"] == actual_record["fileType"]
         assert expected_record["filter_expression"] == actual_record["filter_expression"]
+        assert expected_record["size"] == actual_record["size"]
+        assert expected_record["hash"] == actual_record["hash"]
 
         expected_attachment = expected_record["attachment"]
         actual_attachment = actual_record["attachment"]
 
         assert expected_attachment["filename"] == actual_attachment["filename"]
+        assert expected_attachment["size"] == actual_attachment["size"]
         assert expected_attachment["hash"] == actual_attachment["hash"]
         assert expected_attachment["mimetype"] == actual_attachment["mimetype"]
-        assert expected_attachment["size"] == actual_attachment["size"]
 
         # the following assertions are going to be different every time
         assert actual_record["id"] is not None

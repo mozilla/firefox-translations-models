@@ -53,6 +53,7 @@ class ModelRecord(BaseModel):
     architecture: str  # "base"
     name: str  # "model.enel.intgemm.alphas.bin"
     schema_name: Optional[int] = Field(default=None, alias="schema")
+    size: int  # 23
     variant: Optional[str] = None
     targetLanguage: str  # "en"
     sourceLanguage: str  # "el"
