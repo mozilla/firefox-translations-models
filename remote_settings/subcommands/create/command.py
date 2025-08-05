@@ -79,8 +79,9 @@ def is_duplicate_record(record, existing_records):
         if (
             existing.get("name") == record.get("name")
             and existing.get("version") == record.get("version")
-            and existing.get("fromLang") == record.get("fromLang")
-            and existing.get("toLang") == record.get("toLang")
+            and existing.get("sourceLanguage") == record.get("sourceLanguage")
+            and existing.get("targetLanguage") == record.get("targetLanguage")
+            and existing.get("architecture") == record.get("architecture")
             and existing.get("fileType") == record.get("fileType")
         ):
             return True
@@ -113,11 +114,14 @@ def validate_version(value):
 
 def validate_uncompressed_model_file_hash(record):
     path = record["attachment"]["path"]
-    expected = RemoteSettingsClient.get_expected_model_file_hash(path)
+    uncompressed_file_path = path.removesuffix(".zst")
+    expected = RemoteSettingsClient.get_expected_model_file_hash(uncompressed_file_path)
     actual = record["hash"]
 
     if expected != actual:
-        print_error(f"Hash mismatch for {path}\n\nExpected: {expected}\n  Actual: {actual}")
+        print_error(
+            f"Hash mismatch for {uncompressed_file_path}\n\nExpected: {expected}\n  Actual: {actual}"
+        )
         print_help("Ensure that the file was exported with the correct metadata.json")
         exit(1)
 

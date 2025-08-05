@@ -330,13 +330,16 @@ def test_create_command_lex_5050_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{LEX_5050_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"toLang": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "base-memory"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"size": 22' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_LEX_50_50}"' in result.stdout
+    assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_lex_esen():
@@ -351,13 +354,16 @@ def test_create_command_lex_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{LEX_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"toLang": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "base-memory"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"size": 16' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_LEX}"' in result.stdout
+    assert f'"path": "{LEX_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_model_esen():
@@ -372,13 +378,19 @@ def test_create_command_model_esen():
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{MODEL_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"toLang": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "base-memory"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"size": 23' in result.stdout
+    assert (
+        f'"hash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3"'
+        in result.stdout
+    )
+    assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_quality_model_esen():
@@ -387,19 +399,22 @@ def test_create_command_quality_model_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(QUALITY_MODEL_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{QUALITY_MODEL_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"toLang": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"mimeType": "{OCTET_STREAM}"' in result.stdout
+    assert f'"size": 21' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_QUALITY_MODEL}"' in result.stdout
+    assert f'"path": "{QUALITY_MODEL_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_srcvocab_esen():
@@ -408,19 +423,22 @@ def test_create_command_srcvocab_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(SRCVOCAB_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{SRCVOCAB_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"toLang": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+    assert f'"size": 17' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_SRCVOCAB}"' in result.stdout
+    assert f'"path": "{SRCVOCAB_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_trgvocab_esen():
@@ -429,19 +447,22 @@ def test_create_command_trgvocab_esen():
         .with_server("stage")
         .with_version("1.0")
         .with_path(TRGVOCAB_PATH)
-        .with_architecture("base-memory")
+        .with_architecture("tiny")
         .run()
     )
     assert result.returncode == SUCCESS, f"The return code should be {SUCCESS}"
     assert "" == result.stderr, "The standard error stream should be empty"
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"toLang": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"architecture": "tiny"' in result.stdout
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"mimeType": null' in result.stdout
+    assert f'"size": 17' in result.stdout
+    assert f'"hash": "{HASH_TINY_ESEN_TRGVOCAB}"' in result.stdout
+    assert f'"path": "{TRGVOCAB_PATH}.zst"' in result.stdout
+    assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
 
 def test_create_command_lang_pair_esen():
@@ -468,11 +489,15 @@ def test_create_command_lang_pair_esen():
     assert f'"name": "{TRGVOCAB_NAME}"' in result.stdout
     assert f'"name": "{VOCAB_NAME}"' in result.stdout
 
-    assert f'"fromLang": "es"' in result.stdout
-    assert f'"fromLang": "en"' not in result.stdout
+    assert f'"sourceLanguage": "es"' in result.stdout
+    assert f'"sourceLanguage": "en"' not in result.stdout
 
-    assert f'"toLang": "en"' in result.stdout
-    assert f'"toLang": "es"' not in result.stdout
+    assert f'"targetLanguage": "en"' in result.stdout
+    assert f'"targetLanguage": "es"' not in result.stdout
+
+    assert f'"architecture": "tiny"' in result.stdout
+    assert f'"architecture": "base"' not in result.stdout
+    assert f'"architecture": "base-memory"' not in result.stdout
 
     assert f'"version": "1.0"' in result.stdout
     assert f'"version": "1.0a1"' not in result.stdout
@@ -487,13 +512,13 @@ def test_create_command_lang_pair_esen():
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
     assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
 
-    assert f'"path": "{LEX_PATH}"' in result.stdout
-    assert f'"path": "{LEX_5050_PATH}"' in result.stdout
-    assert f'"path": "{MODEL_PATH}"' in result.stdout
-    assert f'"path": "{QUALITY_MODEL_PATH}"' in result.stdout
-    assert f'"path": "{SRCVOCAB_PATH}"' in result.stdout
-    assert f'"path": "{TRGVOCAB_PATH}"' in result.stdout
-    assert f'"path": "{VOCAB_PATH}"' in result.stdout
+    assert f'"path": "{LEX_PATH}.zst"' in result.stdout
+    assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
+    assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
+    assert f'"path": "{QUALITY_MODEL_PATH}.zst"' in result.stdout
+    assert f'"path": "{SRCVOCAB_PATH}.zst"' in result.stdout
+    assert f'"path": "{TRGVOCAB_PATH}.zst"' in result.stdout
+    assert f'"path": "{VOCAB_PATH}.zst"' in result.stdout
 
 
 def test_create_command_lang_pair_enes():
@@ -520,11 +545,15 @@ def test_create_command_lang_pair_enes():
     assert f'"name": "{TRGVOCAB_NAME}"' not in result.stdout
     assert f'"name": "{VOCAB_NAME}"' not in result.stdout
 
-    assert f'"fromLang": "en"' in result.stdout
-    assert f'"fromLang": "es"' not in result.stdout
+    assert f'"sourceLanguage": "en"' in result.stdout
+    assert f'"sourceLanguage": "es"' not in result.stdout
 
-    assert f'"toLang": "es"' in result.stdout
-    assert f'"toLang": "en"' not in result.stdout
+    assert f'"targetLanguage": "es"' in result.stdout
+    assert f'"targetLanguage": "en"' not in result.stdout
+
+    assert f'"architecture": "base-memory"' in result.stdout
+    assert f'"architecture": "base"' not in result.stdout
+    assert f'"architecture": "tiny"' not in result.stdout
 
     assert f'"version": "1.0a1"' in result.stdout
     assert f'"version": "1.0"' not in result.stdout
