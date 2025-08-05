@@ -78,56 +78,5 @@ View the `remote_settings` [README](https://github.com/mozilla/firefox-translati
 # Currently supported Languages
 
 ## Firefox Release
-- Arabic <-> English
-- Bulgarian <-> English
-- Catalan <-> English
-- Chinese (Simplified) <-> English
-- Croatian -> English
-- Czech <-> English
-- Danish <-> English
-- Dutch <-> English
-- Estonian <-> English
-- Finnish <-> English
-- French <-> English
-- German <-> English
-- Greek <-> English
-- Hungarian <-> English
-- Indonesian <-> English
-- Italian <-> English
-- Japanese <-> English
-- Korean <-> English
-- Latvian (Lettish) <-> English
-- Lithuanian <-> English
-- Polish <-> English
-- Portuguese <-> English
-- Romanian <-> English
-- Russian <-> English
-- Serbian -> English
-- Slovak <-> English
-- Slovenian <-> English
-- Spanish <-> English
-- Swedish <-> English
-- Turkish <-> English
-- Ukrainian <-> English
-- Vietnamese -> English
 
-## Firefox Nightly
-- Albanian -> English
-- Azerbaijani -> English
-- Belarusian -> English
-- Bengali -> English
-- Bosnian -> English
-- Croatian <- English
-- Gujarati -> English
-- Hebrew -> English
-- Hindi -> English
-- Icelandic -> English
-- Kannada -> English
-- Malay -> English
-- Malayalam -> English
-- Maltese -> English
-- Norwegian Bokmål -> English
-- Norwegian Nynorsk -> English
-- Persian (Farsi) <-> English
-- Tamil -> English
-- Telugu -> English
+For a list of the released models please see the [Firefox Translations Models](https://mozilla.github.io/translations/firefox-models/) dashboard.
