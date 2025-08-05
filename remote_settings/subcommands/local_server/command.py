@@ -219,6 +219,9 @@ def create_remote_settings_environment(remote_settings: Client):
         "targetLanguage",
         "fileType",
         "version",
+        "architecture",
+        "size",
+        "hash",
         "filter_expression",
     ]
 
