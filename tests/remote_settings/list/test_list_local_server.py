@@ -76,7 +76,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "vocab.esen.spm.zst",
-                    "location": "main/translations-models-v2/38358ecf-adc6-46a2-bbf6-1e21f6197b42.spm",
+                    "location": "main/translations-models-v2/38358ecf-adc6-46a2-bbf6-1e21f6197b42.zst",
                     "hash": "99a041adf2c39e8f6e56d91e547a790d5b0561cd32854c08886d5314950dcd23",
                     "mimetype": "application/zstd",
                     "size": 23,
@@ -97,7 +97,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "trgvocab.esen.spm.zst",
-                    "location": "main/translations-models-v2/7cd4a51c-7697-413d-b6b6-7253f539c65d.spm",
+                    "location": "main/translations-models-v2/7cd4a51c-7697-413d-b6b6-7253f539c65d.zst",
                     "hash": "509de2ea5f46f72435ba363527dec43042400089298840ad27bdb761460fcea6",
                     "mimetype": "application/zstd",
                     "size": 26,
@@ -118,7 +118,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "srcvocab.esen.spm.zst",
-                    "location": "main/translations-models-v2/9f257834-bcad-45c4-9de2-b00ae47a6fe6.spm",
+                    "location": "main/translations-models-v2/9f257834-bcad-45c4-9de2-b00ae47a6fe6.zst",
                     "hash": "9eba401b826936216cb0e266b50f8afb3b339634601b375c5b849e0c23d27f52",
                     "mimetype": "application/zstd",
                     "size": 26,
@@ -139,7 +139,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "qualityModel.esen.bin.zst",
-                    "location": "main/translations-models-v2/00293415-e119-468c-9109-cb65bf8a3ec6.bin",
+                    "location": "main/translations-models-v2/00293415-e119-468c-9109-cb65bf8a3ec6.zst",
                     "hash": "e8e12d8b23c3787762442139223b1a05e8fcb719406218c87871f241e753eb04",
                     "mimetype": "application/zstd",
                     "size": 30,
@@ -160,7 +160,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "model.esen.intgemm8.bin.zst",
-                    "location": "main/translations-models-v2/ea1693e3-95c8-41b0-9bd2-a6d917a34fff.bin",
+                    "location": "main/translations-models-v2/ea1693e3-95c8-41b0-9bd2-a6d917a34fff.zst",
                     "hash": "d1ed0441192145566fd2891ea781a5f9e707e185e96c3d449c28ba682a06db88",
                     "mimetype": "application/zstd",
                     "size": 32,
@@ -181,7 +181,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "lex.esen.s2t.bin.zst",
-                    "location": "main/translations-models-v2/79091c58-c375-4f6f-a47c-f4d6939aaa5a.bin",
+                    "location": "main/translations-models-v2/79091c58-c375-4f6f-a47c-f4d6939aaa5a.zst",
                     "hash": "960e9646e45792037c05e2a7f4c2c04db0e27129535b787ae9a66949117c90e7",
                     "mimetype": "application/zstd",
                     "size": 25,
@@ -202,7 +202,7 @@ def test_list_command_returns_expected_fields():
                 "schema": 1749570042331,
                 "attachment": {
                     "filename": "lex.50.50.esen.s2t.bin.zst",
-                    "location": "main/translations-models-v2/8d0f3673-418a-45d4-8fc5-e1c0c993205e.bin",
+                    "location": "main/translations-models-v2/8d0f3673-418a-45d4-8fc5-e1c0c993205e.zst",
                     "hash": "3b65ffce804bc2563f44ff81c38ae237053ea02678cb39a196febd5c7565a9ff",
                     "mimetype": "application/zstd",
                     "size": 31,
@@ -255,3 +255,4 @@ def test_list_command_returns_expected_fields():
         assert actual_record["schema"] is not None
         assert actual_record["last_modified"] is not None
         assert f"main/{COLLECTION_NAME}/" in actual_attachment["location"]
+        assert actual_attachment["location"].endswith(".zst")
