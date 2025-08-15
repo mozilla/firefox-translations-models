@@ -77,7 +77,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "vocab.esen.spm.zst",
                     "location": "main/translations-models-v2/38358ecf-adc6-46a2-bbf6-1e21f6197b42.zst",
-                    "hash": "99a041adf2c39e8f6e56d91e547a790d5b0561cd32854c08886d5314950dcd23",
+                    "hash": "d6d21e4cf0423f98b562c09fcc09ec98e855f96129a358bfee1a18e9ab228850",
                     "mimetype": "application/zstd",
                     "size": 23,
                 },
@@ -98,7 +98,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "trgvocab.esen.spm.zst",
                     "location": "main/translations-models-v2/7cd4a51c-7697-413d-b6b6-7253f539c65d.zst",
-                    "hash": "509de2ea5f46f72435ba363527dec43042400089298840ad27bdb761460fcea6",
+                    "hash": "a457155f3757f8f95cebe387b40087c0d059bf5551d31cc5a8442a1e49761863",
                     "mimetype": "application/zstd",
                     "size": 26,
                 },
@@ -119,7 +119,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "srcvocab.esen.spm.zst",
                     "location": "main/translations-models-v2/9f257834-bcad-45c4-9de2-b00ae47a6fe6.zst",
-                    "hash": "9eba401b826936216cb0e266b50f8afb3b339634601b375c5b849e0c23d27f52",
+                    "hash": "0862fc30385b4ec87d4f051490f7b7f84627527439732e070747a2cfc9be8d67",
                     "mimetype": "application/zstd",
                     "size": 26,
                 },
@@ -140,7 +140,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "qualityModel.esen.bin.zst",
                     "location": "main/translations-models-v2/00293415-e119-468c-9109-cb65bf8a3ec6.zst",
-                    "hash": "e8e12d8b23c3787762442139223b1a05e8fcb719406218c87871f241e753eb04",
+                    "hash": "3d9769dd86b387fa059252869c319748324ff69d26634501f7d930627848a191",
                     "mimetype": "application/zstd",
                     "size": 30,
                 },
@@ -161,7 +161,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "model.esen.intgemm8.bin.zst",
                     "location": "main/translations-models-v2/ea1693e3-95c8-41b0-9bd2-a6d917a34fff.zst",
-                    "hash": "d1ed0441192145566fd2891ea781a5f9e707e185e96c3d449c28ba682a06db88",
+                    "hash": "d0589f31f13f99db55abba9b067e51d5e28c6dc48fdf1008100a7798651c2705",
                     "mimetype": "application/zstd",
                     "size": 32,
                 },
@@ -182,7 +182,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "lex.esen.s2t.bin.zst",
                     "location": "main/translations-models-v2/79091c58-c375-4f6f-a47c-f4d6939aaa5a.zst",
-                    "hash": "960e9646e45792037c05e2a7f4c2c04db0e27129535b787ae9a66949117c90e7",
+                    "hash": "d11c8f1b2bfec7d7fdaca1836a4e4fb10893985ca2392fdc5531dd81034ce263",
                     "mimetype": "application/zstd",
                     "size": 25,
                 },
@@ -203,7 +203,7 @@ def test_list_command_returns_expected_fields():
                 "attachment": {
                     "filename": "lex.50.50.esen.s2t.bin.zst",
                     "location": "main/translations-models-v2/8d0f3673-418a-45d4-8fc5-e1c0c993205e.zst",
-                    "hash": "3b65ffce804bc2563f44ff81c38ae237053ea02678cb39a196febd5c7565a9ff",
+                    "hash": "a8e0ee2ae11aa2b5b097c80c29228085a2700a2e69cc476baaf219f74e8c54d8",
                     "mimetype": "application/zstd",
                     "size": 31,
                 },

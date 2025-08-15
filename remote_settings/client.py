@@ -145,24 +145,27 @@ class RemoteSettingsClient:
                     cctx.copy_stream(ifh, ofh)
                 compressed_paths.append(output_path)
 
-            size_level_1 = os.path.getsize(compressed_paths[0])
-            size_level_19 = os.path.getsize(compressed_paths[1])
+            path_level_1 = compressed_paths[0]
+            path_level_19 = compressed_paths[1]
+
+            size_level_1 = os.path.getsize(path_level_1)
+            size_level_19 = os.path.getsize(path_level_19)
 
             if size_level_1 > size_level_19:
-                smallest_path = compressed_paths[0]
-                largest_path = compressed_paths[1]
-                smallest_size = size_level_19
+                largest_path = path_level_1
                 largest_size = size_level_1
+                smallest_path = path_level_19
+                smallest_size = size_level_19
             else:
-                smallest_path = compressed_paths[1]
-                largest_path = compressed_paths[0]
-                smallest_size = size_level_1
+                largest_path = path_level_19
                 largest_size = size_level_19
+                smallest_path = path_level_1
+                smallest_size = size_level_1
 
             final_output_path = f"{input_path}.zst"
             os.rename(smallest_path, final_output_path)
             print_info(
-                f"Selected smallest file: {os.path.basename(final_output_path)} ({smallest_size} bytes)",
+                f"Selected smallest file: {os.path.basename(smallest_path)} ({smallest_size} bytes)",
             )
 
             os.remove(largest_path)
