@@ -220,8 +220,8 @@ def create_remote_settings_environment(remote_settings: Client):
         "fileType",
         "version",
         "architecture",
-        "size",
-        "hash",
+        "decompressedSize",
+        "decompressedHash",
         "filter_expression",
     ]
 

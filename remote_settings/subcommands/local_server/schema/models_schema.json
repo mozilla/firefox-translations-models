@@ -4,18 +4,18 @@
     "architecture",
     "name",
     "version",
-    "size",
     "sourceLanguage",
     "targetLanguage",
     "fileType",
-    "hash"
+    "decompressedSize",
+    "decompressedHash"
   ],
   "properties": {
     "architecture": {
-        "type": "string",
-        "title": "Architecture",
-        "description": "The architecture of the model"
-      },
+      "type": "string",
+      "title": "Architecture",
+      "description": "The architecture of the model"
+    },
     "id": {
       "type": "string"
     },
@@ -44,16 +44,16 @@
         "trgvocab"
       ]
     },
-    "hash": {
-        "type": "string",
-        "title": "Hash (decompressed)",
-        "description": "The hash of the decompressed file"
-      },
-    "size": {
-        "type": "number",
-        "title": "Size (decompressed, bytes)",
-        "description": "The size of the decompressed file"
-      },
+    "decompressedHash": {
+      "type": "string",
+      "title": "Hash (decompressed)",
+      "description": "The hash of the decompressed file"
+    },
+    "decompressedSize": {
+      "type": "number",
+      "title": "Size (decompressed, bytes)",
+      "description": "The size of the decompressed file"
+    },
     "sourceLanguage": {
       "type": "string",
       "title": "Source Language",
