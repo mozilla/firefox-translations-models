@@ -336,8 +336,8 @@ def test_create_command_lex_5050_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"size": 22' in result.stdout
-    assert f'"hash": "{HASH_TINY_ESEN_LEX_50_50}"' in result.stdout
+    assert f'"decompressedSize": 22' in result.stdout
+    assert f'"decompressedHash": "{HASH_TINY_ESEN_LEX_50_50}"' in result.stdout
     assert f'"path": "{LEX_5050_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -360,8 +360,8 @@ def test_create_command_lex_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{LEX_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"size": 16' in result.stdout
-    assert f'"hash": "{HASH_TINY_ESEN_LEX}"' in result.stdout
+    assert f'"decompressedSize": 16' in result.stdout
+    assert f'"decompressedHash": "{HASH_TINY_ESEN_LEX}"' in result.stdout
     assert f'"path": "{LEX_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -384,9 +384,9 @@ def test_create_command_model_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"size": 23' in result.stdout
+    assert f'"decompressedSize": 23' in result.stdout
     assert (
-        f'"hash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3"'
+        f'"decompressedHash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3"'
         in result.stdout
     )
     assert f'"path": "{MODEL_PATH}.zst"' in result.stdout
@@ -411,8 +411,8 @@ def test_create_command_quality_model_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{QUALITY_MODEL_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"size": 21' in result.stdout
-    assert f'"hash": "{HASH_TINY_ESEN_QUALITY_MODEL}"' in result.stdout
+    assert f'"decompressedSize": 21' in result.stdout
+    assert f'"decompressedHash": "{HASH_TINY_ESEN_QUALITY_MODEL}"' in result.stdout
     assert f'"path": "{QUALITY_MODEL_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -435,8 +435,8 @@ def test_create_command_srcvocab_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{SRCVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"size": 17' in result.stdout
-    assert f'"hash": "{HASH_TINY_ESEN_SRCVOCAB}"' in result.stdout
+    assert f'"decompressedSize": 17' in result.stdout
+    assert f'"decompressedHash": "{HASH_TINY_ESEN_SRCVOCAB}"' in result.stdout
     assert f'"path": "{SRCVOCAB_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 
@@ -459,8 +459,8 @@ def test_create_command_trgvocab_esen():
     assert f'"version": "1.0"' in result.stdout
     assert f'"fileType": "{TRGVOCAB_TYPE}"' in result.stdout
     assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' in result.stdout
-    assert f'"size": 17' in result.stdout
-    assert f'"hash": "{HASH_TINY_ESEN_TRGVOCAB}"' in result.stdout
+    assert f'"decompressedSize": 17' in result.stdout
+    assert f'"decompressedHash": "{HASH_TINY_ESEN_TRGVOCAB}"' in result.stdout
     assert f'"path": "{TRGVOCAB_PATH}.zst"' in result.stdout
     assert f'"mimeType": "{ZSTD_MIMETYPE}"' in result.stdout
 

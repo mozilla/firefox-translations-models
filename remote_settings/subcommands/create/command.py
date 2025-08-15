@@ -116,7 +116,7 @@ def validate_uncompressed_model_file_hash(record):
     path = record["attachment"]["path"]
     uncompressed_file_path = path.removesuffix(".zst")
     expected = RemoteSettingsClient.get_expected_model_file_hash(uncompressed_file_path)
-    actual = record["hash"]
+    actual = record["decompressedHash"]
 
     if expected != actual:
         print_error(

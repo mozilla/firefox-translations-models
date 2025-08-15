@@ -64,14 +64,14 @@ def test_list_command_returns_expected_fields():
         "records": [
             {
                 "name": "vocab.esen.spm",
-                "size": 14,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "vocab",
                 "filter_expression": "",
-                "hash": HASH_TINY_ESEN_VOCAB,
+                "decompressedSize": 14,
+                "decompressedHash": HASH_TINY_ESEN_VOCAB,
                 "id": "9d3fa8f8-50fc-4465-8191-a2a63fc4c40b",
                 "schema": 1749570042331,
                 "attachment": {
@@ -85,14 +85,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "trgvocab.esen.spm",
-                "size": 17,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "trgvocab",
                 "filter_expression": "",
-                "hash": HASH_TINY_ESEN_TRGVOCAB,
+                "decompressedSize": 17,
+                "decompressedHash": HASH_TINY_ESEN_TRGVOCAB,
                 "id": "f7d1325a-98ed-46e2-b1d5-daf681b3c4cd",
                 "schema": 1749570042331,
                 "attachment": {
@@ -106,14 +106,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "srcvocab.esen.spm",
-                "size": 17,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "srcvocab",
                 "filter_expression": "",
-                "hash": HASH_TINY_ESEN_SRCVOCAB,
+                "decompressedSize": 17,
+                "decompressedHash": HASH_TINY_ESEN_SRCVOCAB,
                 "id": "946c65d5-8f09-43b5-8177-f71dac67b498",
                 "schema": 1749570042331,
                 "attachment": {
@@ -127,14 +127,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "qualityModel.esen.bin",
-                "size": 21,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "qualityModel",
                 "filter_expression": "",
-                "hash": HASH_TINY_ESEN_QUALITY_MODEL,
+                "decompressedSize": 21,
+                "decompressedHash": HASH_TINY_ESEN_QUALITY_MODEL,
                 "id": "25fc5f59-0232-4230-85d4-809cbcb06e27",
                 "schema": 1749570042331,
                 "attachment": {
@@ -148,14 +148,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "model.esen.intgemm8.bin",
-                "size": 23,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "model",
                 "filter_expression": "",
-                "hash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3",
+                "decompressedSize": 23,
+                "decompressedHash": "f57ffa166aaed3e3be4fb334b73922fbdb21988e67c4abbe165a2a2e140898c3",
                 "id": "e2c7f917-7b0f-4705-adc7-619f1c0d2c5d",
                 "schema": 1749570042331,
                 "attachment": {
@@ -169,14 +169,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "lex.esen.s2t.bin",
-                "size": 16,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
-                "hash": HASH_TINY_ESEN_LEX,
+                "decompressedSize": 16,
+                "decompressedHash": HASH_TINY_ESEN_LEX,
                 "id": "c7b50db6-21ba-456d-92b6-f9104b0637fb",
                 "schema": 1749570042331,
                 "attachment": {
@@ -190,14 +190,14 @@ def test_list_command_returns_expected_fields():
             },
             {
                 "name": "lex.50.50.esen.s2t.bin",
-                "size": 22,
                 "sourceLanguage": "es",
                 "targetLanguage": "en",
                 "architecture": "tiny",
                 "version": "2.1",
                 "fileType": "lex",
                 "filter_expression": "",
-                "hash": HASH_TINY_ESEN_LEX_50_50,
+                "decompressedSize": 22,
+                "decompressedHash": HASH_TINY_ESEN_LEX_50_50,
                 "id": "79510b8f-746f-4fa7-b391-cbccda3af259",
                 "schema": 1749570042331,
                 "attachment": {
@@ -239,8 +239,8 @@ def test_list_command_returns_expected_fields():
         assert expected_record["version"] == actual_record["version"]
         assert expected_record["fileType"] == actual_record["fileType"]
         assert expected_record["filter_expression"] == actual_record["filter_expression"]
-        assert expected_record["size"] == actual_record["size"]
-        assert expected_record["hash"] == actual_record["hash"]
+        assert expected_record["decompressedSize"] == actual_record["decompressedSize"]
+        assert expected_record["decompressedHash"] == actual_record["decompressedHash"]
 
         expected_attachment = expected_record["attachment"]
         actual_attachment = actual_record["attachment"]

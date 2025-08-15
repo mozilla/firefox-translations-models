@@ -265,8 +265,8 @@ class RemoteSettingsClient:
         file_type = RemoteSettingsClient._determine_file_type(name)
         source_language, target_language = RemoteSettingsClient._determine_language_pair(name)
         filter_expression = RemoteSettingsClient._determine_filter_expression(version)
-        hash = RemoteSettingsClient._compute_sha256(path)
-        size = os.path.getsize(path)
+        decompressedHash = RemoteSettingsClient._compute_sha256(path)
+        decompressedSize = os.path.getsize(path)
         return {
             "id": str(uuid.uuid4()),
             "data": {
@@ -277,8 +277,8 @@ class RemoteSettingsClient:
                 "version": version,
                 "fileType": file_type,
                 "filter_expression": filter_expression,
-                "size": size,
-                "hash": hash,
+                "decompressedSize": decompressedSize,
+                "decompressedHash": decompressedHash,
             },
             "attachment": {
                 "path": path + ".zst",
