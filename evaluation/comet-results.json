@@ -2725,7 +2725,7 @@
     "flores-dev": {
       "argos": 0.8235,
       "bergamot-base": 0.8503,
-      "bergamot-base-memory": 0.8488,
+      "bergamot-base-memory": 0.8552,
       "bergamot-tiny": 0,
       "google": 0.8902,
       "microsoft": 0.8807,
@@ -2735,7 +2735,7 @@
     "flores-test": {
       "argos": 0.8334,
       "bergamot-base": 0.8556,
-      "bergamot-base-memory": 0.8556,
+      "bergamot-base-memory": 0.8601,
       "bergamot-tiny": 0,
       "google": 0.8945,
       "microsoft": 0.8844,
@@ -2745,7 +2745,7 @@
     "iwslt17": {
       "argos": 0.7948,
       "bergamot-base": 0.8086,
-      "bergamot-base-memory": 0.8069,
+      "bergamot-base-memory": 0.8139,
       "bergamot-tiny": 0,
       "google": 0.8458,
       "microsoft": 0.8367,
@@ -2755,7 +2755,7 @@
     "wmt17": {
       "argos": 0.8084,
       "bergamot-base": 0.8308,
-      "bergamot-base-memory": 0.8297,
+      "bergamot-base-memory": 0.8346,
       "bergamot-tiny": 0,
       "google": 0.8767,
       "microsoft": 0.8625,
@@ -2765,7 +2765,7 @@
     "wmt18": {
       "argos": 0.8315,
       "bergamot-base": 0.8545,
-      "bergamot-base-memory": 0.8518,
+      "bergamot-base-memory": 0.8537,
       "bergamot-tiny": 0,
       "google": 0.8909,
       "microsoft": 0.8781,
@@ -2775,7 +2775,7 @@
     "wmt19": {
       "argos": 0.7704,
       "bergamot-base": 0.8132,
-      "bergamot-base-memory": 0.8126,
+      "bergamot-base-memory": 0.8205,
       "bergamot-tiny": 0,
       "google": 0.8671,
       "microsoft": 0.8501,
@@ -2785,7 +2785,7 @@
     "wmt20": {
       "argos": 0.7994,
       "bergamot-base": 0.8366,
-      "bergamot-base-memory": 0.838,
+      "bergamot-base-memory": 0.8472,
       "bergamot-tiny": 0,
       "google": 0.8836,
       "microsoft": 0.867,
@@ -2795,7 +2795,7 @@
     "wmt21": {
       "argos": 0.7652,
       "bergamot-base": 0.8084,
-      "bergamot-base-memory": 0.8082,
+      "bergamot-base-memory": 0.8153,
       "bergamot-tiny": 0,
       "google": 0.8589,
       "microsoft": 0.841,
@@ -2805,7 +2805,7 @@
     "wmt22": {
       "argos": 0.784,
       "bergamot-base": 0.8324,
-      "bergamot-base-memory": 0.8287,
+      "bergamot-base-memory": 0.837,
       "bergamot-tiny": 0,
       "google": 0.8814,
       "microsoft": 0.8692,
