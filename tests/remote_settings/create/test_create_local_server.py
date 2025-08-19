@@ -14,6 +14,7 @@ class CreateCommand:
         self._version = None
         self._lang_pair = None
         self._path = None
+        self._platform_filter = None
 
     def with_architecture(self, architecture):
         self._architecture = architecture
@@ -21,6 +22,10 @@ class CreateCommand:
 
     def next_available_version():
         return CreateCommand._next_version
+
+    def with_platform_filter(self, platform_filter):
+        self._platform_filter = platform_filter
+        return self
 
     def with_server(self, server):
         self._server = server
@@ -62,6 +67,7 @@ class CreateCommand:
         cmd.extend(["--lang-pair", self._lang_pair] if self._lang_pair else [])
         cmd.extend(["--path", self._path] if self._path else [])
         cmd.extend(["--architecture", self._architecture] if self._architecture else [])
+        cmd.extend(["--platform-filter", self._platform_filter] if self._platform_filter else [])
 
         return subprocess.run(cmd, text=True, capture_output=True)
 
@@ -679,3 +685,156 @@ def test_create_command_fails_on_invalid_file_hash():
     )
     assert result.returncode == ERROR, f"The return code should be {ERROR}"
     assert "Hash mismatch" in result.stderr
+
+
+def test_create_desktop_only_command_with_alpha_version():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_version("1.0a3")
+        .with_architecture("tiny")
+        .with_platform_filter("desktop")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    assert f'"filter_expression": "{ALPHA_AND_DESKTOP_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_desktop_only_command_with_beta_version():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_version("1.0b2")
+        .with_architecture("tiny")
+        .with_platform_filter("desktop")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    assert f'"filter_expression": "{BETA_AND_DESKTOP_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_desktop_only_command_with_release_version():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_next_minor_version()
+        .with_architecture("tiny")
+        .with_platform_filter("desktop")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    assert f'"filter_expression": "{DESKTOP_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"filter_expression": "{ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_android_only_command_with_alpha_version():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_version("1.0a4")
+        .with_architecture("tiny")
+        .with_platform_filter("android")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    assert f'"filter_expression": "{ALPHA_AND_ANDROID_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_android_only_command_with_beta_version():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_version("1.0b3")
+        .with_architecture("tiny")
+        .with_platform_filter("android")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    assert f'"filter_expression": "{BETA_AND_ANDROID_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_android_only_command_with_release_version():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_next_minor_version()
+        .with_architecture("tiny")
+        .with_platform_filter("android")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    assert f'"filter_expression": "{ANDROID_FILTER_EXPRESSION}"' in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{ALPHA_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_ANDROID_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{BETA_AND_DESKTOP_FILTER_EXPRESSION}"' not in result.stdout
+    assert f'"filter_expression": "{RELEASE_FILTER_EXPRESSION}"' not in result.stdout
+
+
+def test_create_invalid_platform_filter():
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_path(MODEL_PATH)
+        .with_next_minor_version()
+        .with_architecture("tiny")
+        .with_platform_filter("invalid_filter")
+        .run()
+    )
+    assert result.returncode == INVALID_USE, f"The return code should be {INVALID_USE}"
+    assert "" == result.stdout, "The standard output stream should be empty"
+    assert "argument --platform-filter: Invalid platform filter 'invalid_filter" in result.stderr
