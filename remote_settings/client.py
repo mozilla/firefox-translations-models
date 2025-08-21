@@ -98,16 +98,14 @@ class RemoteSettingsClient:
 
         if args.path is not None:
             new_record_info = RemoteSettingsClient._create_record_info(
-                args.path, args.version, args.architecture
+                args.path, args.version, args.architecture, args.platform_filter
             )
             this._new_records = [new_record_info]
         else:
             paths = this._paths_for_lang_pair(args)
             this._new_records = [
                 RemoteSettingsClient._create_record_info(
-                    path,
-                    args.version,
-                    args.architecture,
+                    path, args.version, args.architecture, args.platform_filter
                 )
                 for path in paths
             ]
@@ -253,7 +251,7 @@ class RemoteSettingsClient:
         ]
 
     @staticmethod
-    def _create_record_info(path, version, architecture):
+    def _create_record_info(path, version, architecture, platform_filter):
         """Creates a record-info dictionary for a file at the given path.
 
         Args:
@@ -267,7 +265,9 @@ class RemoteSettingsClient:
         name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
         source_language, target_language = RemoteSettingsClient._determine_language_pair(name)
-        filter_expression = RemoteSettingsClient._determine_filter_expression(version)
+        filter_expression = RemoteSettingsClient._determine_filter_expression(
+            version, platform_filter
+        )
         decompressedHash = RemoteSettingsClient._compute_sha256(path)
         decompressedSize = os.path.getsize(path)
         return {
@@ -322,28 +322,41 @@ class RemoteSettingsClient:
         return token
 
     @staticmethod
-    def _determine_filter_expression(semantic_version):
-        """Determines the appropriate Remote Settings filter expression based on the version.
+    def _determine_filter_expression(semantic_version, platform_filter):
+        """Determines the appropriate Remote Settings filter expression based on the version
+        and the --platform-filter flag.
 
         Alpha versions are available in local builds and nightly.
         Beta versions are available in all builds except release.
         Release versions are available in all builds.
+        When --platform-filter is set, the filter expression is restricted to Desktop or Android.
 
         Args:
-            semantic_version str: A semantic version string
+            semantic_version (str): A semantic version string
+            platform_filter (str): Target platform ("desktop" or "android")
 
         Returns:
             str: The appropriate Remote Settings filter expression based on the version
+            and the `--platform-filter` flag
         """
         record_version = version.parse(semantic_version)
         base_version = record_version.base_version
 
         if record_version < version.parse(f"{base_version}b"):
-            return "env.channel == 'default' || env.channel == 'nightly'"
+            filter_expression = "env.channel == 'default' || env.channel == 'nightly'"
         elif record_version < version.parse(f"{base_version}"):
-            return "env.channel != 'release'"
+            filter_expression = "env.channel != 'release'"
         else:
-            return ""
+            filter_expression = ""
+
+        if platform_filter:
+            platform_expression = f"env.appinfo.OS == '{platform_filter}'"
+            if filter_expression:
+                filter_expression = f"({filter_expression}) && {platform_expression}"
+            else:
+                filter_expression = platform_expression
+
+        return filter_expression
 
     @staticmethod
     def _determine_language_pair(name):

@@ -39,6 +39,11 @@ def attach_create_subcommand(subparsers):
         help="mock the connection to the server for testing",
     )
     create_parser.add_argument(
+        "--platform-filter",
+        type=validate_platform_filter,
+        help="release a model only to a specific platform such as Android or Desktop",
+    )
+    create_parser.add_argument(
         "--server",
         type=str,
         choices=["dev", "stage", "prod", "local"],
@@ -100,6 +105,19 @@ def validate_lang_pair(value):
             f"invalid language pair '{value}', expected only four letters, e.g. 'enes'"
         )
     return value
+
+
+def validate_platform_filter(value):
+    """Normalize platform filter input to 'Android' or 'Desktop' (case-insensitive)."""
+    value = value.strip().lower()
+    if value == "android":
+        return "Android"
+    elif value == "desktop":
+        return "Desktop"
+    else:
+        raise argparse.ArgumentTypeError(
+            f"Invalid platform filter '{value}'. Expected 'Android' or 'Desktop'."
+        )
 
 
 def validate_version(value):
