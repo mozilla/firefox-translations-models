@@ -349,12 +349,16 @@ class RemoteSettingsClient:
         else:
             filter_expression = ""
 
-        if platform_filter:
-            platform_expression = f"env.appinfo.OS == '{platform_filter}'"
+        if platform_filter == "Desktop":
             if filter_expression:
-                filter_expression = f"({filter_expression}) && {platform_expression}"
+                filter_expression = f"({filter_expression}) && env.appinfo.OS != 'Android'"
             else:
-                filter_expression = platform_expression
+                filter_expression = "env.appinfo.OS != 'Android'"
+        elif platform_filter == "Android":
+            if filter_expression:
+                filter_expression = f"({filter_expression}) && env.appinfo.OS == 'Android'"
+            else:
+                filter_expression = "env.appinfo.OS == 'Android'"
 
         return filter_expression
 

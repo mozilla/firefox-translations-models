@@ -172,8 +172,8 @@ This argument works hand-in-hand with the version of the uploaded record.
 For example, If the model is an alpha model, e.g. 1.0a1 where a1 is the alpha-version tag, then the filter expression will be env.channel == 'nightly' || env.channel == 'default', which restricts the model to only Nightly builds or local builds of Firefox.
 
 > [!NOTE]
-> There are some cases where we want to release a model only to Desktop, or only to Android. In this case, we append the additional restriction, which would look like this: (env.channel == 'nightly' || env.channel == 'default) && env.appinfo.OS == 'Android' or 'Desktop' if the `--platform-filter { android || desktop }` flag were set.
-> In the case of a release-channel model with `--platform-filter desktop` set as an example, the filter expression would just be env.appinfo.OS == 'Desktop''
+> There are some cases where we want to release a model only to Desktop, or only to Android. In this case, we append the additional restriction, which would look like this: (env.channel == 'nightly' || env.channel == 'default) && env.appinfo.OS == 'Android' or (env.channel == 'nightly' || env.channel == 'default) && env.appinfo.OS != 'Android' if the `--platform-filter { android || desktop }` flag were set.
+> In the case of a release-channel model with `--platform-filter desktop` set as an example, the filter expression would just be env.appinfo.OS != 'Android'
 
 ### Arg: --server
 
