@@ -46,7 +46,8 @@ Then run the command using the following arguments:
 >   --dry-run \
 >   --lang-pair {lang_pair} \
 >   --server {dev,stage,prod} \
->   --version {version}
+>   --version {version} \
+>   --architecture {architecture}
 > ```
 
 **5) Publish the model records for a language pair by removing the --dry-run flag**
@@ -54,7 +55,8 @@ Then run the command using the following arguments:
 > poetry run python -m remote_settings create \
 >   --lang-pair {lang_pair} \
 >   --server {dev,stage,prod} \
->   --version {version}
+>   --version {version} \
+>   --architecture {architecture}
 > ```
 
 > [!NOTE]
@@ -85,7 +87,8 @@ The record will still need to be approved via Remote Settings, but you can stage
 poetry run python -m remote_settings create \
   --lang-pair esen \
   --server prod \
-  --version 1.0a1
+  --version 1.0a1 \
+  --architecture tiny
 ```
 
 Create a record and attachment for esen/vocab.esen.spm on the dev server with a version of 1.0,
@@ -95,7 +98,8 @@ poetry run python -m remote_settings create \
   --path models/prod/esen/vocab.esen.spm \
   --server dev \
   --version 1.0 \
-  --mock-connection
+  --mock-connection \
+  --architecture tiny
 ```
 
 Create a record and attachment for esen/vocab.esen.spm on the prod server with a version of 1.0a1,
@@ -105,7 +109,8 @@ poetry run python -m remote_settings create \
   --path models/prod/esen/vocab.esen.spm \
   --server prod \
   --version 1.0a1 \
-  --dry-run
+  --dry-run \
+  --architecture tiny
 ```
 
 Create a record and attachment for esen/vocab.esen.spm on the stage server with a version of 2.1b2.
@@ -113,7 +118,8 @@ Create a record and attachment for esen/vocab.esen.spm on the stage server with 
 poetry run python -m remote_settings create \
   --path models/prod/esen/vocab.esen.spm \
   --server stage \
-  --version 2.1b2
+  --version 2.1b2 \
+  --architecture tiny
 ```
 
 ## Authentication
@@ -134,13 +140,42 @@ There are three required arguments for the script to run:
 
 * `--server` - The server to which the record and attachment will be uploaded.
 * `--version` - The semantic version of the record and the attachment.
+* `--architecture` - The architecture to which the record and attachment will be uploaded.
 
 The final argument is either of the following:
 
 * `--path` - The path to a single file attachment to upload.
 * `--lang-pair` - The language pair for which to upload all file attachments.
 
-### Arg: --server 
+### Arg: --architecture
+
+Determines which architecture the uploaded record belongs.
+
+Model architecture folders are stored in the `models` directory at the root of the repository.
+
+This argument will take a name of a folder under the `models` directory at the root of the repository, e.g. `"base", "base-memory" or "tiny"` and upload files in the relevant architecture.
+
+> [!NOTE]
+> This argument needs to match a folder name under the `models` directory at the root of the repository.
+
+### Arg: --platform-filter
+
+Determines the platform or filter expression associated with the uploaded record.
+
+Models can be restricted to one of two platforms using the `--platform-filter` flag:
+
+* `--platform-filter android`
+* `--platform-filter desktop`
+
+This argument works hand-in-hand with the version of the uploaded record.
+
+For example, If the model is an alpha model, e.g. 1.0a1 where a1 is the alpha-version tag, then the filter expression will be env.channel == 'nightly' || env.channel == 'default', which restricts the model to only Nightly builds or local builds of Firefox.
+
+> [!NOTE]
+> There are some cases where we want to release a model only to Desktop, or only to Android. In this case, we append the additional restriction, which would look like this: (env.channel == 'nightly' || env.channel == 'default) && env.appinfo.OS == 'Android' or 'Desktop' if the `--platform-filter { android || desktop }` flag were set.
+> In the case of a release-channel model with `--platform-filter desktop` set as an example, the filter expression would just be env.appinfo.OS == 'Desktop''
+
+### Arg: --server
 
 Determines which Remote Settings Server will receive the uploaded record.
 
@@ -165,11 +200,11 @@ and records will be made available only in certain channels based on their versi
 * Beta-version records, e.g. `--version 1.0b1` will be available in all builds except release builds.
 * Release-version records, e.g. `--version 1.0` will be available in all builds.
 
-### Arg: --path 
+### Arg: --path
 
 Uploads a single record and attachment located at the provided path.
 
-Model attachment files are stored in the `models` directory at the root of the repository.
+Model attachment files are stored in the `models` directory under the architecture subdirectories at the root of the repository.
 
 The `remote_settings` script derives metadata from the name of the file itself.
 
@@ -182,12 +217,7 @@ For example, the file named `trgvocab.esen.spm` will by of type `trgvocab` with 
 
 Uploads all file attachments in the directory associated with the given language pair.
 
-This argument will take a language pair, e.g. `"enes"` and upload all files in the relevant path. 
-
-The path itself is based on the provided `--version` argument. 
-
-* If the version is a release version, e.g. `1.0`, the script will search for the language pair in the `models/prod` directory.
-* If the version is a pre-release version, e.g. `1.0a1`, the script will search for the language pair in the `models/dev` directory.
+This argument will take a language pair, e.g. `"enes"` and upload all files in the relevant path.
 
 > [!NOTE]
 > Files are stored in compressed gzip archives. They must be decompressed before uploading.
