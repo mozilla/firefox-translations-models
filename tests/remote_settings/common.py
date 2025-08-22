@@ -49,12 +49,12 @@ ALPHA_AND_ANDROID_FILTER_EXPRESSION = (
     "(env.channel == 'default' || env.channel == 'nightly') && env.appinfo.OS == 'Android'"
 )
 ALPHA_AND_DESKTOP_FILTER_EXPRESSION = (
-    "(env.channel == 'default' || env.channel == 'nightly') && env.appinfo.OS == 'Desktop'"
+    "(env.channel == 'default' || env.channel == 'nightly') && env.appinfo.OS != 'Android'"
 )
-BETA_AND_DESKTOP_FILTER_EXPRESSION = "(env.channel != 'release') && env.appinfo.OS == 'Desktop'"
+BETA_AND_DESKTOP_FILTER_EXPRESSION = "(env.channel != 'release') && env.appinfo.OS != 'Android'"
 BETA_AND_ANDROID_FILTER_EXPRESSION = "(env.channel != 'release') && env.appinfo.OS == 'Android'"
 BETA_FILTER_EXPRESSION = "env.channel != 'release'"
-DESKTOP_FILTER_EXPRESSION = "env.appinfo.OS == 'Desktop'"
+DESKTOP_FILTER_EXPRESSION = "env.appinfo.OS != 'Android'"
 RELEASE_FILTER_EXPRESSION = ""
 
 ZSTD_MIMETYPE = "application/zstd"
