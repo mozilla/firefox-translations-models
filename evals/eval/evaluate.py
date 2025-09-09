@@ -661,14 +661,15 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
     result_file = f"{eval_prefix}.{translator_name}.{target}.{evaluation_engine}"
 
     if set_name not in CUSTOM_DATASETS:
-        if not os.path.exists(source_file):
-            with open(source_file, "w") as output_file:
-                subprocess.run(
-                    ["sacrebleu", "-t", set_name, "-l", f"{source}-{target}", "--echo", "src"],
-                    stdout=output_file,
-                    text=True,
-                    check=True,
-                )
+        if not os.path.exists(source_file) and not os.path.exists(reference_file):
+            for kind, file_name in (("src", source_file), ("ref", reference_file)):
+                with open(file_name, "w") as output_file:
+                    subprocess.run(
+                        ["sacrebleu", "-t", set_name, "-l", f"{source}-{target}", "--echo", kind],
+                        stdout=output_file,
+                        text=True,
+                        check=True,
+                    )
 
     if not os.path.exists(translated_file):
         with open(source_file, "rb") as input_file:
