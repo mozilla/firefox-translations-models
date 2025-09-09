@@ -1,0 +1,120 @@
+{
+  "type": "object",
+  "required": [
+    "architecture",
+    "name",
+    "version",
+    "sourceLanguage",
+    "targetLanguage",
+    "fileType",
+    "decompressedSize",
+    "decompressedHash"
+  ],
+  "properties": {
+    "architecture": {
+      "type": "string",
+      "title": "Architecture",
+      "description": "The architecture of the model"
+    },
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "title": "Name",
+      "description": "The name of the language model"
+    },
+    "targetLanguage": {
+      "type": "string",
+      "title": "Target Language",
+      "description": "The BCP 47 language tag of the translated text"
+    },
+    "version": {
+      "type": "string",
+      "title": "Version",
+      "description": "The version of the model"
+    },
+    "fileType": {
+      "enum": [
+        "model",
+        "lex",
+        "vocab",
+        "qualityModel",
+        "srcvocab",
+        "trgvocab"
+      ]
+    },
+    "decompressedHash": {
+      "type": "string",
+      "title": "Hash (decompressed)",
+      "description": "The hash of the decompressed file"
+    },
+    "decompressedSize": {
+      "type": "number",
+      "title": "Size (decompressed, bytes)",
+      "description": "The size of the decompressed file"
+    },
+    "sourceLanguage": {
+      "type": "string",
+      "title": "Source Language",
+      "description": "The BCP 47 language tag of the source text"
+    },
+    "attachment": {
+      "type": "object",
+      "title": "The attachment itself",
+      "properties": {
+        "hash": {
+          "type": "string",
+          "title": "Hash"
+        },
+        "size": {
+          "type": "number",
+          "title": "Size (bytes)"
+        },
+        "filename": {
+          "type": "string",
+          "title": "Filename"
+        },
+        "location": {
+          "type": "string",
+          "title": "URL"
+        },
+        "mimetype": {
+          "type": "string",
+          "title": "MIME type"
+        },
+        "original": {
+          "type": "object",
+          "title": "Pre-gzipped file",
+          "properties": {
+            "hash": {
+              "type": "string",
+              "title": "Hash"
+            },
+            "size": {
+              "type": "number",
+              "title": "Size (bytes)"
+            },
+            "filename": {
+              "type": "string",
+              "title": "Filename"
+            },
+            "mimetype": {
+              "type": "string",
+              "title": "MIME type"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "description": "Information about the attached file.",
+      "additionalProperties": false
+    },
+    "filter_expression": {
+      "type": "string",
+      "title": "Filter Expression",
+      "pattern": "^[a-zA-Z0-9-_=!\"'{} .<>|&()+*/[\\]:,\\\\^%]*$",
+      "description": "A JEXL to filter records. See https://remote-settings.readthedocs.io/en/latest/target-filters.html#how"
+    }
+  }
+}

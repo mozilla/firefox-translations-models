@@ -18,8 +18,6 @@ def print_help(*args, **kwargs):
     print(*args, **kwargs)
 
 
-def print_info(cmd_args, *args, **kwargs):
+def print_info(*args, **kwargs):
     """Possibly prints a message based on the cmd_args"""
-    if cmd_args.quiet:
-        return
     print(*args, **kwargs)

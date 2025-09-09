@@ -18,11 +18,16 @@ ruff = "^0.0.287"
 [tool.poetry.group.scripts.dependencies]
 argparse = "^1.4.0"
 kinto-http = "^11.0.1"
+numpy = "^2.2"
 packaging = "^23.2"
+pydantic = "^2.11.5"
 pytest = "^7.4.3"
 pytest-clarity = "^1.0.1"
+pyyaml = "^6.0.2"
 requests = "^2.31.0"
 termcolor = "^2.3.0"
+zstandard = "^0.23.0"
+
 
 [tool.black]
 extend-exclude= "/3rd_party"

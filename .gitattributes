@@ -1,4 +1,10 @@
+# Use git lfs for all files of these types.
 *.gz filter=lfs diff=lfs merge=lfs -text
 *.spm filter=lfs diff=lfs merge=lfs -text
 *.s2t filter=lfs diff=lfs merge=lfs -text
 *.npz filter=lfs diff=lfs merge=lfs -text
+
+
+# Everything in tests/remote_settings/attachments should not use git lfs.
+# Even though the types match the patterns above, we keep these files small.
+tests/remote_settings/attachments/** -filter -diff -merge -text

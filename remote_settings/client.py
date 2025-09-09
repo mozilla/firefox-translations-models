@@ -1,9 +1,12 @@
-import os, sys, mimetypes, requests, uuid, json
+import os, sys, requests, uuid, json
 
-from kinto_http import Client, BearerTokenAuth
+import hashlib
+from kinto_http import Client, BearerTokenAuth, KintoException
 from packaging import version
 
-from remote_settings.format import print_error, print_help
+from remote_settings.format import print_error, print_help, print_info
+import zstandard as zstd
+from pathlib import Path
 
 REMOTE_SETTINGS_BEARER_TOKEN = "REMOTE_SETTINGS_BEARER_TOKEN"
 BEARER_TOKEN_HELP_MESSAGE = f"""\
@@ -11,24 +14,28 @@ Export the token as an environment variable called {REMOTE_SETTINGS_BEARER_TOKEN
 
 You can retrieve a bearer token from the Remote Settings admin dashboards.
 
-  Dev: https://settings.dev.mozaws.net/v1/admin
+  Dev: https://remote-settings-dev.allizom.org/v1/admin
 Stage: https://remote-settings.allizom.org/v1/admin
  Prod: https://remote-settings.mozilla.org/v1/admin
+Local: http://localhost:8888/v1/admin
 
 On the top right corner, use the 📋 icon to copy the authentication string
 """
-BUCKET = "main-workspace"
-COLLECTION = "translations-models"
+COLLECTION = "translations-models-v2"
 SERVER_URLS = {
     "dev": "https://remote-settings-dev.allizom.org/v1",
     "stage": "https://remote-settings.allizom.org/v1",
     "prod": "https://remote-settings.mozilla.org/v1",
+    "local": "http://localhost:8888/v1",
 }
 
 
 class MockedClient:
     def __init__(self, args):
         self._server = args.server
+
+    def get_records(self):
+        return []
 
     def server_info(self):
         return {
@@ -48,14 +55,28 @@ class RemoteSettingsClient:
         Args:
             args (argparse.Namespace): The arguments passed through the CLI
         """
+        self._server = args.server
+
+        if args.server == "local":
+            # We work with the "main" bucket on the local instance.
+            self._bucket = "main"
+        else:
+            # We work with the "main-workspace" bucket on production instances.
+            self._bucket = "main-workspace"
+
         if args.mock_connection:
             self._client = MockedClient(args)
+            self._auth_token = "mocked_token"
+
             return
 
-        self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token()
+        self._auth_token = RemoteSettingsClient._retrieve_remote_settings_bearer_token(
+            self._server
+        )
+
         self._client = Client(
             server_url=SERVER_URLS.get(args.server),
-            bucket=BUCKET,
+            bucket=self._bucket,
             collection=COLLECTION,
             auth=BearerTokenAuth(self._auth_token),
         )
@@ -74,15 +95,128 @@ class RemoteSettingsClient:
             RemoteSettingsClient: A RemoteSettingsClient that can create new records
         """
         this = cls(args)
+
         if args.path is not None:
-            new_record_info = RemoteSettingsClient._create_record_info(args.path, args.version)
+            new_record_info = RemoteSettingsClient._create_record_info(
+                args.path, args.version, args.architecture, args.platform_filter
+            )
             this._new_records = [new_record_info]
         else:
             paths = this._paths_for_lang_pair(args)
             this._new_records = [
-                RemoteSettingsClient._create_record_info(path, args.version) for path in paths
+                RemoteSettingsClient._create_record_info(
+                    path, args.version, args.architecture, args.platform_filter
+                )
+                for path in paths
             ]
 
+        return this
+
+    @staticmethod
+    def _compress_file_with_levels(args, input_path):
+        """
+        Compresses a given file using Zstandard at both compression levels 1 and 19,
+        compares their resulting sizes, and retains only the smaller of the two.
+
+        This function is used to determine the most size-efficient compression level
+        for our model files. Although level 19 is expected to produce
+        better compression (smaller files) in most general-purpose scenarios, we have
+        observed that our model files, due to their specific structure and content,
+        sometimes yield smaller compressed results with level 1.
+
+        Therefore, we compress each file twice, once with level 1 and once with level 19, then keep the smaller of the two.
+
+        Args:
+            args (argparse.Namespace): The arguments passed through the CLI
+            input_path (str): The full path to the file to compress.
+        """
+
+        levels = [1, 19]
+        compressed_paths = []
+
+        try:
+            for level in levels:
+                cctx = zstd.ZstdCompressor(level)
+                output_path = f"{input_path}.{level}.zst"
+                with open(input_path, "rb") as ifh, open(output_path, "wb") as ofh:
+                    print_info(f"Compressing {input_path} with level {level}")
+                    cctx.copy_stream(ifh, ofh)
+                compressed_paths.append(output_path)
+
+            path_level_1 = compressed_paths[0]
+            path_level_19 = compressed_paths[1]
+
+            size_level_1 = os.path.getsize(path_level_1)
+            size_level_19 = os.path.getsize(path_level_19)
+
+            if size_level_1 > size_level_19:
+                largest_path = path_level_1
+                largest_size = size_level_1
+                smallest_path = path_level_19
+                smallest_size = size_level_19
+            else:
+                largest_path = path_level_19
+                largest_size = size_level_19
+                smallest_path = path_level_1
+                smallest_size = size_level_1
+
+            final_output_path = f"{input_path}.zst"
+            os.rename(smallest_path, final_output_path)
+            print_info(
+                f"Selected smallest file: {os.path.basename(smallest_path)} ({smallest_size} bytes)",
+            )
+
+            os.remove(largest_path)
+            print_info(
+                f"Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
+            )
+
+            return final_output_path
+
+        except Exception as e:
+            print_error(e)
+
+    def _compute_sha256(file_path):
+        """Computes the SHA-256 hash of a given file."""
+        sha256 = hashlib.sha256()
+        with open(file_path, "rb") as f:
+            for chunk in iter(lambda: f.read(8192), b""):
+                sha256.update(chunk)
+        return sha256.hexdigest()
+
+    def get_expected_model_file_hash(file_path):
+        """Retrieves the expected hash value for a model file from its associated metadata.json."""
+
+        file_path = Path(file_path)
+        metadata_path = file_path.parent / "metadata.json"
+
+        name = os.path.basename(file_path)
+
+        if not name.startswith("model"):
+            raise ValueError(f"Expected a model file but received {name}")
+
+        if not metadata_path.exists():
+            print_error(f"metadata.json not found for {file_path}")
+            exit(1)
+
+        with open(metadata_path) as f:
+            metadata = json.load(f)
+
+        expected_hash = metadata.get("hash")
+        if expected_hash:
+            return expected_hash
+
+    @classmethod
+    def init_for_list(cls, args):
+        """Initializes the RemoteSettingsClient for the list subcommand.
+
+        Args:
+            args (argparse.Namespace): The CLI arguments containing the server info
+
+        Returns:
+            RemoteSettingsClient: A client ready to list records
+        """
+        this = cls(args)
         return this
 
     @staticmethod
@@ -95,64 +229,83 @@ class RemoteSettingsClient:
         Returns:
             List[str]: A list of file paths in the specified language-pair directory.
         """
-        parsed_version = version.parse(args.version)
+        base_dir = RemoteSettingsClient.base_dir(args)
+        architecture_dir = os.path.join(base_dir, args.architecture)
 
-        if parsed_version.is_prerelease:
-            directory = os.path.join(RemoteSettingsClient._base_dir(args), "dev")
-        else:
-            directory = os.path.join(RemoteSettingsClient._base_dir(args), "prod")
+        if not os.path.isdir(architecture_dir):
+            print_error(
+                f"Invalid architecture: '{args.architecture}'. No such architecture in {base_dir} directory"
+            )
+            exit(1)
 
-        full_path = os.path.join(directory, args.lang_pair)
+        full_path = os.path.join(architecture_dir, args.lang_pair)
 
         if not os.path.exists(full_path):
             print_error(f"Path does not exist: {full_path}")
             exit(1)
 
-        return [os.path.join(full_path, f) for f in os.listdir(full_path) if not f.endswith(".gz")]
+        return [
+            os.path.join(full_path, f)
+            for f in os.listdir(full_path)
+            if f.endswith(".bin") or f.endswith(".spm")
+        ]
 
     @staticmethod
-    def _create_record_info(path, version):
+    def _create_record_info(path, version, architecture, platform_filter):
         """Creates a record-info dictionary for a file at the given path.
 
         Args:
             path (str): The path to the file
             version (str): The version of the record attachment
+            architecture(str): The architecture of the the record attachment
 
         Returns:
             dict: A dictionary containing the record metadata
         """
         name = os.path.basename(path)
         file_type = RemoteSettingsClient._determine_file_type(name)
-        from_lang, to_lang = RemoteSettingsClient._determine_language_pair(name)
-        filter_expression = RemoteSettingsClient._determine_filter_expression(version)
-        mimetype, _ = mimetypes.guess_type(path)
+        source_language, target_language = RemoteSettingsClient._determine_language_pair(name)
+        filter_expression = RemoteSettingsClient._determine_filter_expression(
+            version, platform_filter
+        )
+        decompressedHash = RemoteSettingsClient._compute_sha256(path)
+        decompressedSize = os.path.getsize(path)
         return {
             "id": str(uuid.uuid4()),
             "data": {
-                "name": os.path.basename(path),
-                "fromLang": from_lang,
-                "toLang": to_lang,
+                "name": name,
+                "sourceLanguage": source_language,
+                "targetLanguage": target_language,
+                "architecture": architecture,
                 "version": version,
                 "fileType": file_type,
                 "filter_expression": filter_expression,
+                "decompressedSize": decompressedSize,
+                "decompressedHash": decompressedHash,
             },
             "attachment": {
-                "path": path,
-                "mimeType": mimetype,
+                "path": path + ".zst",
+                "mimeType": "application/zstd",
             },
         }
 
-    @staticmethod
-    def _retrieve_remote_settings_bearer_token():
+    def _retrieve_remote_settings_bearer_token(server):
         """
         Attempts to retrieve a Remote Settings bearer token exported to an environment
         variable called REMOTE_SETTINGS_BEARER_TOKEN.
 
         Exits with failure if the token cannot be retrieved.
 
+
+        Args:
+            server (str): The name of the server
+
         Returns:
             String: The bearer token.
         """
+
+        if server == "local":
+            return "local_token"
 
         token = os.environ.get(REMOTE_SETTINGS_BEARER_TOKEN)
         if token is None:
@@ -169,28 +322,45 @@ class RemoteSettingsClient:
         return token
 
     @staticmethod
-    def _determine_filter_expression(semantic_version):
-        """Determines the appropriate Remote Settings filter expression based on the version.
+    def _determine_filter_expression(semantic_version, platform_filter):
+        """Determines the appropriate Remote Settings filter expression based on the version
+        and the --platform-filter flag.
 
         Alpha versions are available in local builds and nightly.
         Beta versions are available in all builds except release.
         Release versions are available in all builds.
+        When --platform-filter is set, the filter expression is restricted to Desktop or Android.
 
         Args:
-            semantic_version str: A semantic version string
+            semantic_version (str): A semantic version string
+            platform_filter (str): Target platform ("desktop" or "android")
 
         Returns:
             str: The appropriate Remote Settings filter expression based on the version
+            and the `--platform-filter` flag
         """
         record_version = version.parse(semantic_version)
         base_version = record_version.base_version
 
         if record_version < version.parse(f"{base_version}b"):
-            return "env.channel == 'default' || env.channel == 'nightly'"
+            filter_expression = "env.channel == 'default' || env.channel == 'nightly'"
         elif record_version < version.parse(f"{base_version}"):
-            return "env.channel != 'release'"
+            filter_expression = "env.channel != 'release'"
         else:
-            return ""
+            filter_expression = ""
+
+        if platform_filter == "Desktop":
+            if filter_expression:
+                filter_expression = f"({filter_expression}) && env.appinfo.OS != 'Android'"
+            else:
+                filter_expression = "env.appinfo.OS != 'Android'"
+        elif platform_filter == "Android":
+            if filter_expression:
+                filter_expression = f"({filter_expression}) && env.appinfo.OS == 'Android'"
+            else:
+                filter_expression = "env.appinfo.OS == 'Android'"
+
+        return filter_expression
 
     @staticmethod
     def _determine_language_pair(name):
@@ -200,18 +370,22 @@ class RemoteSettingsClient:
             name str: The name of a file to attach to a record
 
         Returns:
-            Tuple[str, str]: The (fromLang, toLang) pair for this file
+            Tuple[str, str]: The (sourceLanguage, targetLanguage) pair for this file
         """
         segments = name.split(".")
 
+        if len(segments) < 3:
+            print_error(f"The file name '{name}' has an incorrect name scheme.")
+            exit(1)
+
         # File names are of the following formats:
-        #   - model.{lang_pair}.intgemm8.bin.gz
-        #   - lex.{lang_pair}.s2t.bin.gz
-        #   - lex.50.50.{lang_pair}.s2t.bin.gz
-        #   - trgvocab.{lang_pair}.spm.gz
-        #   - srcvocab.{lang_pair}.spm.gz
-        #   - qualityModel.{lang_pair}.bin.gz
-        #   - vocab.{lang_pair}.spm.gz
+        #   - model.{lang_pair}.intgemm8.bin
+        #   - lex.{lang_pair}.s2t.bin
+        #   - lex.50.50.{lang_pair}.s2t.bin
+        #   - trgvocab.{lang_pair}.spm
+        #   - srcvocab.{lang_pair}.spm
+        #   - qualityModel.{lang_pair}.bin
+        #   - vocab.{lang_pair}.spm
         #
         # The lang_pair will always be in the one-index, except for
         # the lex.50.50... file, in which case it is in the three-index segment.
@@ -239,7 +413,7 @@ class RemoteSettingsClient:
         return file_type_segment
 
     @staticmethod
-    def _base_dir(args):
+    def base_dir(args):
         """Get the base directory in which to search for record attachments.
 
         Args:
@@ -267,7 +441,10 @@ class RemoteSettingsClient:
         Returns:
             str: The authenticated user
         """
-        return self._client.server_info()["user"]["id"]
+        if self._server == "local":
+            return "local_user"
+        else:
+            return self._client.server_info()["user"]["id"]
 
     def attachment_path(self, index):
         """Retrieves the path of the attachment that will be attached to a newly created record.
@@ -328,6 +505,7 @@ class RemoteSettingsClient:
         Returns:
             str: The JSON-formatted string containing the record info
         """
+
         return json.dumps(self._new_records[index], indent=2)
 
     def create_new_record(self, index):
@@ -341,6 +519,11 @@ class RemoteSettingsClient:
         self._client.create_record(id=id, data=data)
         self.attach_file_to_record(index)
 
+    def compress_record_attachment(self, args, index):
+        path = self._new_records[index]["attachment"]["path"]
+        uncompressed_path = path.removesuffix(".zst")
+        self._compress_file_with_levels(args, uncompressed_path)
+
     def attach_file_to_record(self, index):
         """Attaches the file attachment to the record of the matching id.
 
@@ -353,7 +536,7 @@ class RemoteSettingsClient:
         headers = {"Authorization": f"Bearer {self._auth_token}"}
 
         attachment_endpoint = "buckets/{}/collections/{}/records/{}/attachment".format(
-            BUCKET, COLLECTION, self._new_records[index]["id"]
+            self._bucket, COLLECTION, self._new_records[index]["id"]
         )
 
         response = requests.post(
@@ -376,3 +559,17 @@ class RemoteSettingsClient:
                 f"Couldn't attach file at endpoint {self.sever_url()}{attachment_endpoint}: "
                 + f"{response.content.decode('utf-8')}"
             )
+
+    def get_records(self):
+        """Fetch records from the Remote Settings collection."""
+        return self._client.get_records()
+
+    def get_record(self, index):
+        base = self._new_records[index]
+        data = base.get("data", {})
+        return {
+            **data,
+            "id": base.get("id"),
+            "attachment": base.get("attachment"),
+            "version": base.get("version", data.get("version")),
+        }

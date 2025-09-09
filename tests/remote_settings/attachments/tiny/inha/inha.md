@@ -1,0 +1,1 @@
+This folder explicitly have the wrong hash in the metadata.json to test that code path.

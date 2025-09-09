@@ -1,22 +1,6 @@
 version: 2.1
 
 jobs:
-  deploy:
-    docker:
-      - image: gcr.io/google.com/cloudsdktool/cloud-sdk:348.0.0
-    working_directory: ~/mozilla/firefox-translations-models
-    steps:
-      - run:
-          name: Installing git lfs
-          command: |
-            curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash
-            apt-get install git-lfs
-            git lfs install
-      - checkout
-      - run:
-          name: Uploading to GCS
-          command: |
-            bash scripts/upload.sh
   evaluate:
     machine:
       image: linux-cuda-11:default
@@ -26,6 +10,14 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
+      - checkout
+      - run:
+          name: Skip if models directory is not modified
+          command: |
+            if ! git diff --name-only main...HEAD | grep -q '^models/'; then
+              echo "No changes in models directory: Skipping evaluate step."
+              circleci step halt
+            fi
       - run:
           name: Installing git lfs and nvidia-container-toolkit
           command: |
@@ -34,10 +26,9 @@ jobs:
             sudo git lfs install
       - run:
           name: Configure the Docker daemon to recognize the NVIDIA Container Runtime
-          command: | 
+          command: |
             sudo nvidia-ctk runtime configure --runtime=docker
             sudo systemctl restart docker
-      - checkout
       - run:
           name: Running evaluation
           command: |
@@ -53,11 +44,19 @@ jobs:
             git add evaluation/*/*.cometcompare
             git --no-pager diff --staged evaluation/*/*.cometcompare
       - run:
+          name: Generate the model metadata information
+          command: |
+            pip install poetry
+            poetry install --no-root
+            poetry run python scripts/update-metadata.py
+      - run:
           name: Pushing results
           command: |
             git config user.email "ci-models-evaluation@firefox-translations"
             git config user.name "CircleCI evaluation job"
             git add evaluation
+            git add models/by-hash.json
+            git add models/*/metadata.json
 
             if [[ $(git status --porcelain) ]]; then
               echo "### Commiting results"
@@ -86,63 +85,28 @@ jobs:
               exit $BLACK_RESULT
             fi
   test-code:
-    docker:
-      - image: cimg/python:3.10.2
+    machine:
+      image: ubuntu-2204:current
     working_directory: ~/mozilla/firefox-translations-models
     steps:
       - checkout
       - run:
-          name: Run tests
-          command: |
-            pip install poetry
-            poetry install --no-root
-            poetry run python -m pytest tests -vv
-            TEST_RESULT=$?
-            if [ $TEST_RESULT -eq 0 ]; then
-              echo "All tests passed... CI passed."
-            else
-              echo "Some tests failed... Failing CI."
-              exit $TEST_RESULT
-            fi
-  generate-registry:
-    docker:
-      - image: cimg/python:3.10.2
-    working_directory: ~/mozilla/firefox-translations-models
-    steps:
-      - add_ssh_keys:
-          fingerprints:
-            - "0d:23:4b:98:32:fe:2a:24:f6:2b:0d:3a:bc:d6:c5:2f"
-      - run:
-          name: Installing git lfs
+          name: Install Python and Poetry
           command: |
             sudo apt-get update
-            sudo apt-get install -y git-lfs
-            sudo git lfs install
-      - checkout
+            sudo apt-get install -y python3-pip
+            pip3 install poetry
       - run:
-          name: Updating model registry
+          name: Install Python Dependencies
           command: |
-            python scripts/generate-registry.py
+            poetry install --no-root
       - run:
-          name: Showing results
-          command: |
-            git add registry.json
-            git --no-pager diff --staged registry.json
+          name: Pull RemoteSettings Docker Image
+          command: docker pull mozilla/remote-settings:latest
       - run:
-          name: Pushing results
+          name: Run Python Tests
           command: |
-            git config user.email "ci-models-evaluation@firefox-translations"
-            git config user.name "CircleCI evaluation job"
-            git pull origin "$CIRCLE_BRANCH"
-            git add registry.json
-
-            if [[ $(git status --porcelain) ]]; then
-              echo "### Commiting results"
-              git commit -m "Update model registry [skip ci]"
-              git push --set-upstream origin "$CIRCLE_BRANCH"
-            else
-              echo "### Nothing to commit"
-            fi
+            poetry run python -m pytest tests -vv -s
 workflows:
   version: 2
   ci:
@@ -160,20 +124,3 @@ workflows:
               ignore:
                 - /pull\/[0-9]+/
                 - main
-      - generate-registry:
-          requires:
-            - evaluate
-          filters:
-            branches:
-              # Forked pull requests have CIRCLE_BRANCH set to pull/XXX
-              ignore:
-                - /pull\/[0-9]+/
-                - main
-  publish:
-    jobs:
-      - deploy:
-          filters:
-            branches:
-              ignore: /.*/
-            tags:
-              only: /\d*\.\d*\.\d*/
