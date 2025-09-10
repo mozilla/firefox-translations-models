@@ -3,7 +3,7 @@ import re
 import shutil
 import subprocess
 import os
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 import statistics
 import traceback
 from sacrebleu import dataset
@@ -868,18 +868,15 @@ def build_report(res_dir, evaluation_engines, comet_compare):
 
 
 def build_section(datasets, key, lines, res_dir, evaluation_engine, comet_compare):
+    datasets = dict(sorted(datasets.items()))
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
 
-    inverted_formatted = defaultdict(dict)
-    inverted_scores = defaultdict(dict)
+    inverted_formatted = defaultdict(OrderedDict)
+    inverted_scores = defaultdict(OrderedDict)
     comet_comparisons = defaultdict(dict)
     for dataset_name, translators in datasets.items():
-        # do not display empty translators in language pair sections
-        if key != "avg":
-            translators = {k: v for k, v in translators.items() if v != 0}
-
         main_translator = ""
         for translator in TRANS_ORDER:
             if (
