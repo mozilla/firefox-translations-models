@@ -3,7 +3,7 @@ import re
 import shutil
 import subprocess
 import os
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 import statistics
 import traceback
 from sacrebleu import dataset
@@ -661,14 +661,15 @@ def evaluate(pair, set_name, translator, evaluation_engine, gpus, models_dir, re
     result_file = f"{eval_prefix}.{translator_name}.{target}.{evaluation_engine}"
 
     if set_name not in CUSTOM_DATASETS:
-        if not os.path.exists(source_file):
-            with open(source_file, "w") as output_file:
-                subprocess.run(
-                    ["sacrebleu", "-t", set_name, "-l", f"{source}-{target}", "--echo", "src"],
-                    stdout=output_file,
-                    text=True,
-                    check=True,
-                )
+        if not os.path.exists(source_file) and not os.path.exists(reference_file):
+            for kind, file_name in (("src", source_file), ("ref", reference_file)):
+                with open(file_name, "w") as output_file:
+                    subprocess.run(
+                        ["sacrebleu", "-t", set_name, "-l", f"{source}-{target}", "--echo", kind],
+                        stdout=output_file,
+                        text=True,
+                        check=True,
+                    )
 
     if not os.path.exists(translated_file):
         with open(source_file, "rb") as input_file:
@@ -867,18 +868,15 @@ def build_report(res_dir, evaluation_engines, comet_compare):
 
 
 def build_section(datasets, key, lines, res_dir, evaluation_engine, comet_compare):
+    datasets = dict(sorted(datasets.items()))
     lines.append(f"\n## {key}\n")
     lines.append(f'| Translator/Dataset | {" | ".join(datasets.keys())} |')
     lines.append(f"| {' | '.join(['---' for _ in range(len(datasets) + 1)])} |")
 
-    inverted_formatted = defaultdict(dict)
-    inverted_scores = defaultdict(dict)
+    inverted_formatted = defaultdict(OrderedDict)
+    inverted_scores = defaultdict(OrderedDict)
     comet_comparisons = defaultdict(dict)
     for dataset_name, translators in datasets.items():
-        # do not display empty translators in language pair sections
-        if key != "avg":
-            translators = {k: v for k, v in translators.items() if v != 0}
-
         main_translator = ""
         for translator in TRANS_ORDER:
             if (

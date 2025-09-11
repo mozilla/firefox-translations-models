@@ -1,0 +1,61 @@
+==========================
+x_name: wmt22.bergamot.ja
+y_name: wmt22.microsoft.ja
+
+Bootstrap Resampling Results:
+x-mean:	0.8529
+y-mean:	0.8906
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-23.1808
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.microsoft.ja outperforms wmt22.bergamot.ja.
+==========================
+x_name: wmt22.bergamot.ja
+y_name: wmt22.google.ja
+
+Bootstrap Resampling Results:
+x-mean:	0.8529
+y-mean:	0.9020
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-28.7223
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.ja outperforms wmt22.bergamot.ja.
+==========================
+x_name: wmt22.microsoft.ja
+y_name: wmt22.google.ja
+
+Bootstrap Resampling Results:
+x-mean:	0.8906
+y-mean:	0.9020
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-11.7976
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt22.google.ja outperforms wmt22.microsoft.ja.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt22.bergamot.ja    wmt22.microsoft.ja    wmt22.google.ja
+---------------------  -------------------  --------------------  -----------------
+wmt22.bergamot.ja                           False                 False
+wmt22.microsoft.ja     True                                       False
+wmt22.google.ja        True                 True

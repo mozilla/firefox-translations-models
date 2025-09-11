@@ -1,0 +1,61 @@
+==========================
+x_name: wmt16.bergamot.ro
+y_name: wmt16.microsoft.ro
+
+Bootstrap Resampling Results:
+x-mean:	0.8675
+y-mean:	0.8917
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-18.7435
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt16.microsoft.ro outperforms wmt16.bergamot.ro.
+==========================
+x_name: wmt16.bergamot.ro
+y_name: wmt16.google.ro
+
+Bootstrap Resampling Results:
+x-mean:	0.8675
+y-mean:	0.8845
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-12.4488
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt16.google.ro outperforms wmt16.bergamot.ro.
+==========================
+x_name: wmt16.microsoft.ro
+y_name: wmt16.google.ro
+
+Bootstrap Resampling Results:
+x-mean:	0.8917
+y-mean:	0.8845
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	6.8776
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+wmt16.microsoft.ro outperforms wmt16.google.ro.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    wmt16.bergamot.ro    wmt16.microsoft.ro    wmt16.google.ro
+---------------------  -------------------  --------------------  -----------------
+wmt16.bergamot.ro                           False                 False
+wmt16.microsoft.ro     True                                       True
+wmt16.google.ro        True                 False
