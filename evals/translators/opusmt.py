@@ -14,15 +14,15 @@ def translate(texts, tokenizer, model):
     results = []
 
     for partition in tqdm(list(toolz.partition_all(10, texts))):
-        tokenized_src = tokenizer(partition, return_tensors="pt", padding=True).to(device)
         try:
+            tokenized_src = tokenizer(partition, return_tensors="pt", padding=True).to(device)
             generated_tokens = model.generate(**tokenized_src)
             results += tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
         except RuntimeError as e:
             if "CUDA error: device-side assert triggered" in str(e):
                 print(e)
                 print("Suppressing OPUS-MT error, it's likely related to sequence length maximum")
-                results += ["" for _ in range(len(tokenized_src))]
+                results += ["" for _ in range(len(partition))]
             else:
                 raise
 
