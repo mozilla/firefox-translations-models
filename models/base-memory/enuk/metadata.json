@@ -2,10 +2,10 @@
   "architecture": "base-memory",
   "byteSize": 31561787,
   "flores": {
-    "bleu": 30.0,
-    "comet": 0.8776
+    "bleu": 30.5,
+    "comet": 0.8805
   },
-  "hash": "f1058f92d0b3abedc978b91ce8928f9ee6403d7ea168b41a087f79d02a4b2866",
+  "hash": "ed8bb4a811e1c45a259e91052080d25e5c8b4e2df0e59cb1521c04a57855ef97",
   "modelConfig": {
     "bert-train-type-embeddings": true,
     "bert-type-vocab-size": 2,
@@ -73,6 +73,5 @@
     "parameters": 31248966
   },
   "sourceLanguage": "en",
-  "targetLanguage": "uk",
-  "version": "2.0a1"
+  "targetLanguage": "uk"
 }
