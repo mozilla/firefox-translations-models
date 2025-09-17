@@ -22,7 +22,7 @@ def translate(texts, tokenizer, model):
             if "CUDA error: device-side assert triggered" in str(e):
                 print(e)
                 print("Suppressing OPUS-MT error, it's likely related to sequence length maximum")
-                results += ["" for _ in range(len(partition))]
+                results += ["x" for _ in range(len(partition))]
             else:
                 raise
 
