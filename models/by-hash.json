@@ -108,6 +108,7 @@
   "4aed7734152ae0045d1a69ae49c86cfda18f53c61f90e95e1d1de1c7c7c3b033": "models/base-memory/esen/metadata.json",
   "d27c676d9d761c2abfffec83956e32b2923f3f745b56acdbd84c49d888cdc94e": "models/base-memory/enlt/metadata.json",
   "ec0c210d09cd5d8a5edf7a50462db0a8fb5dd78d03bbc6d4d72d91074f0490e4": "models/base-memory/enhu/metadata.json",
+  "36bdc87f8d500861a5d286ebd3ea58df530da87e31b8a233f5e9c46c300c281d": "models/base-memory/enet/metadata.json",
   "df844b3a6df906b2e0682fb7765694f35b351854db00f964896d9c8c365fbff3": "models/base-memory/eten/metadata.json",
   "e3887341f18bcc7787d9b59eb1229b56eefce18d49b7ebf1e62c55d65a377321": "models/base-memory/fien/metadata.json",
   "184cb5cda528eeefc0f75f5d0035d787b71d74af135e3c5608d01ae02ecfb920": "models/base-memory/enru/metadata.json",

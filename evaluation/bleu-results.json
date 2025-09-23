@@ -1341,7 +1341,7 @@
     "flores-dev": {
       "argos": 23.3,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 29.1,
       "bergamot-tiny": 25.6,
       "google": 30.2,
       "microsoft": 28.6,
@@ -1351,7 +1351,7 @@
     "flores-test": {
       "argos": 24.2,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 28.9,
       "bergamot-tiny": 25.7,
       "google": 29.0,
       "microsoft": 29.2,
@@ -1361,7 +1361,7 @@
     "wmt18": {
       "argos": 22.0,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 26.4,
       "bergamot-tiny": 25.2,
       "google": 26.6,
       "microsoft": 27.6,
