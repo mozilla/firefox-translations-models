@@ -2257,7 +2257,7 @@
     "flores-dev": {
       "argos": 43.9,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 49.7,
       "bergamot-tiny": 49.4,
       "google": 53.6,
       "microsoft": 49.6,
@@ -2267,7 +2267,7 @@
     "flores-test": {
       "argos": 43.7,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 50.2,
       "bergamot-tiny": 50.3,
       "google": 53.9,
       "microsoft": 50.7,
