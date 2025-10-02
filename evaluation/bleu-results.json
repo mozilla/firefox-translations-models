@@ -1259,7 +1259,7 @@
     "flores-dev": {
       "argos": 23.8,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 27.3,
       "bergamot-tiny": 25.9,
       "google": 30.5,
       "microsoft": 28.4,
@@ -1269,7 +1269,7 @@
     "flores-test": {
       "argos": 23.3,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 27.5,
       "bergamot-tiny": 26.2,
       "google": 30.4,
       "microsoft": 28.5,
@@ -1279,7 +1279,7 @@
     "wmt08": {
       "argos": 26.9,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 28.7,
       "bergamot-tiny": 29.0,
       "google": 30.0,
       "microsoft": 29.9,
@@ -1289,7 +1289,7 @@
     "wmt09": {
       "argos": 28.8,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 30.3,
       "bergamot-tiny": 29.9,
       "google": 30.9,
       "microsoft": 30.7,
@@ -1299,7 +1299,7 @@
     "wmt10": {
       "argos": 34.0,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 36.5,
       "bergamot-tiny": 36.7,
       "google": 38.8,
       "microsoft": 37.8,
@@ -1309,7 +1309,7 @@
     "wmt11": {
       "argos": 35.5,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 38.4,
       "bergamot-tiny": 37.9,
       "google": 39.9,
       "microsoft": 39.1,
@@ -1319,7 +1319,7 @@
     "wmt12": {
       "argos": 35.2,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 38.9,
       "bergamot-tiny": 38.9,
       "google": 40.5,
       "microsoft": 40.0,
@@ -1329,7 +1329,7 @@
     "wmt13": {
       "argos": 31.9,
       "bergamot-base": 0,
-      "bergamot-base-memory": 0,
+      "bergamot-base-memory": 35.1,
       "bergamot-tiny": 34.8,
       "google": 36.9,
       "microsoft": 35.7,
