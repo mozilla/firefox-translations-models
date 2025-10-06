@@ -122,6 +122,7 @@
   "459626236a49158aa555facd23e5f594e2f8416f4ebad32e0548af94c5b1ae0c": "models/base-memory/enis/metadata.json",
   "9d15df58b60048366de4f7b6e727157ffdaea3a0fd1c1759ce232b057e2f991c": "models/base-memory/slen/metadata.json",
   "7cb30cbc0a86e242084756445268a2346136771c92b884d9b4ebb077f67d5507": "models/base-memory/koen/metadata.json",
+  "f5fa0b27d18d3505a3ca9d23c3ea49d2bb8515b23256e5c7d5b556c4a99f454c": "models/base-memory/enpl/metadata.json",
   "21b70978ce2f3b4da7a06b5de86a09abe3acd30b9eee1b2ebb3582b9bad790bf": "models/base-memory/iten/metadata.json",
   "06dbab3baa3bbceab746bc6a3bba807878f38536382c03acddf59d3edf3b5d94": "models/base-memory/plen/metadata.json",
   "57e199fb025780aa9b98c2bbf4dc57098caaf48662ebaa0bba0ebbb59735f333": "models/base/encs/metadata.json",
