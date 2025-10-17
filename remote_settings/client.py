@@ -137,9 +137,9 @@ class RemoteSettingsClient:
         try:
             for level in levels:
                 cctx = zstd.ZstdCompressor(level)
-                output_path = f"{input_path}.{level}.zst"
+                output_path = f"{input_path}.{level:02}.zst"
                 with open(input_path, "rb") as ifh, open(output_path, "wb") as ofh:
-                    print_info(f"Compressing {input_path} with level {level}")
+                    print_info(f"Compressing {input_path} with level {level:02}")
                     cctx.copy_stream(ifh, ofh)
                 compressed_paths.append(output_path)
 
@@ -160,6 +160,8 @@ class RemoteSettingsClient:
                 smallest_path = path_level_1
                 smallest_size = size_level_1
 
+            print_info()
+
             final_output_path = f"{input_path}.zst"
             os.rename(smallest_path, final_output_path)
             print_info(
@@ -168,8 +170,10 @@ class RemoteSettingsClient:
 
             os.remove(largest_path)
             print_info(
-                f"Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
+                f"   Removed larger file: {os.path.basename(largest_path)} ({largest_size} bytes)",
             )
+
+            print_info()
 
             return final_output_path
 
