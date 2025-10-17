@@ -2,10 +2,10 @@
   "architecture": "base-memory",
   "byteSize": 31561787,
   "flores": {
-    "bleu": 49.7,
-    "comet": 0.8913
+    "bleu": 50.0,
+    "comet": 0.891
   },
-  "hash": "3ca4400ae45f173c3d647e169e474af804e5198cccf20bc405c93bb12bf9906d",
+  "hash": "07892fd2544ee79dcb643615d8f2debb9793fae16842e87c328e27a3dd26a770",
   "modelConfig": {
     "bert-train-type-embeddings": true,
     "bert-type-vocab-size": 2,
