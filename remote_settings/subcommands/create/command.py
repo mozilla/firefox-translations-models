@@ -183,6 +183,8 @@ def command_create(args):
         if file_type == "model":
             validate_uncompressed_model_file_hash(record)
 
+    print_info()
+
     for i in range(client.record_count()):
         client.compress_record_attachment(args, i)
 
