@@ -644,7 +644,7 @@ def test_create_command_no_files_in_directory():
     assert "You may need to unzip" in result.stdout
 
 
-def test_create_command_duplicate_record():
+def test_create_command_duplicate_record_same_architecture():
     version_used = CreateCommand.next_available_version()
 
     result = (
@@ -665,6 +665,36 @@ def test_create_command_duplicate_record():
         .with_version(version_used)
         .with_path(MODEL_PATH)
         .with_architecture("tiny")
+        .run()
+    )
+    assert duplicate_result.returncode == ERROR
+    assert (
+        f"Record {MODEL_NAME} already exists with version {version_used}"
+        in duplicate_result.stderr
+    )
+
+
+def test_create_command_duplicate_record_different_architecture():
+    version_used = CreateCommand.next_available_version()
+
+    result = (
+        CreateCommand()
+        .with_server("local")
+        .with_next_minor_version()
+        .with_path(MODEL_PATH)
+        .with_architecture("base-memory")
+        .run()
+    )
+    assert result.returncode == SUCCESS
+    assert "" == result.stderr, "The standard error stream should be empty"
+
+    # Explicitly uses the stored version again
+    duplicate_result = (
+        CreateCommand()
+        .with_server("local")
+        .with_version(version_used)
+        .with_path(MODEL_PATH)
+        .with_architecture("base")
         .run()
     )
     assert duplicate_result.returncode == ERROR
