@@ -1,3 +1,12 @@
+**This repository is not maintained anymore. Evaluation was migrated to [mozilla/translations](https://github.com/mozilla/translations). The models are stored on Google Cloud Storage.**
+
+**See:**
+- Final Evaluation [dashboard](https://mozilla.github.io/translations/final-evals/)
+- Model Registry [dashboard](https://mozilla.github.io/translations/model-registry/), [JSON](https://storage.googleapis.com/moz-fx-translations-data--303e-prod-translations-data/db/models.json)
+- Released Firefox Models [dashboard](https://mozilla.github.io/translations/firefox-models/)
+
+
+
 # Firefox Translations models
 CPU-optimized NMT models for Firefox Translations.
 
